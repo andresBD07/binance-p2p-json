@@ -23,6 +23,9 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests pytz firebase-admin
 
+      - name: Restaurar credencial Firebase
+        run: echo "${{ secrets.FIREBASE_CRED }}" > firebase-cred.json
+
       - name: Ejecutar script
         run: python fetch_p2p.py
 
