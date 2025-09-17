@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-17T23:40:35.669324",
-  "actualizado_vzla": "2025-09-17 19:40:35 -04",
+  "timestamp_utc": "2025-09-17T23:53:32.861871",
+  "actualizado_vzla": "2025-09-17 19:53:32 -04",
   "compra_segundo": {
-    "price": 267.69,
-    "name": "CAMBIOS JV"
+    "price": 267.9,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
     "price": 267.5,
     "name": "FinanceSecure"
   },
-  "promedio": 267.6,
+  "promedio": 267.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
