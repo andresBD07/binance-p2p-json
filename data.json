@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-17T23:25:12.555313",
-  "actualizado_vzla": "2025-09-17 19:25:12 -04",
+  "timestamp_utc": "2025-09-17T23:27:46.531400",
+  "actualizado_vzla": "2025-09-17 19:27:46 -04",
   "compra_segundo": {
     "price": 267.5,
-    "name": "HectorB"
+    "name": "Mauro03"
   },
   "venta_maxima": {
-    "price": 266.4,
-    "name": "Child-CambioFacil"
+    "price": 267.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 266.95,
+  "promedio": 267.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
