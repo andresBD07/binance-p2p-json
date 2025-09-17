@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-17T23:27:46.531400",
-  "actualizado_vzla": "2025-09-17 19:27:46 -04",
+  "timestamp_utc": "2025-09-17T23:29:48.969914",
+  "actualizado_vzla": "2025-09-17 19:29:48 -04",
   "compra_segundo": {
-    "price": 267.5,
-    "name": "Mauro03"
+    "price": 267.52,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
     "price": 267.5,
     "name": "FinanceSecure"
   },
-  "promedio": 267.5,
+  "promedio": 267.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
