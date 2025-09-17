@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-17T21:48:45.044721",
-  "actualizado_vzla": "2025-09-17 17:48:45 -04",
+  "timestamp_utc": "2025-09-17T22:08:38.085916",
+  "actualizado_vzla": "2025-09-17 18:08:38 -04",
   "compra_segundo": {
-    "price": 266.845,
-    "name": "Kyoyo"
+    "price": 266.7,
+    "name": "SoloTitularsNoTrcros"
   },
   "venta_maxima": {
-    "price": 268.0,
+    "price": 267.0,
     "name": "FinanceSecure"
   },
-  "promedio": 267.42,
+  "promedio": 266.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
