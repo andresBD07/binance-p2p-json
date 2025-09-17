@@ -1,4 +1,3 @@
-# fetch_p2p.py
 import json
 from datetime import datetime
 import pytz
@@ -14,29 +13,22 @@ def consultar(trade_type: str):
     body = {
         "asset": "USDT",
         "fiat": "VES",
-        "tradeType": trade_type,     # "BUY" (compras USDT→VES) o "SELL" (ventas VES→USDT)
+        "tradeType": trade_type,
         "page": 1,
-        "rows": 30,                  # margen suficiente
-        "payTypes": [],              # todos los métodos de pago
-        "publisherType": "merchant"  # SOLO comerciantes verificados
-        # sin filtros regionales
+        "rows": 30,
+        "payTypes": [],
+        "publisherType": "merchant"
     }
     r = requests.post(URL, headers=HEADERS, json=body, timeout=25)
     r.raise_for_status()
-    payload = r.json()
-    return payload.get("data", []) or []
+    return r.json().get("data", []) or []
 
 def elegir_compra(data: list):
-    # Ignorar el primer anuncio (promocionado) y elegir el precio más alto entre los restantes
     candidatos = data[1:] if len(data) > 1 else []
-    if not candidatos:
-        return None
-    return max(candidatos, key=lambda x: float(x["adv"]["price"]))
+    return max(candidatos, key=lambda x: float(x["adv"]["price"])) if candidatos else None
 
 def elegir_venta(data: list):
-    if not data:
-        return None
-    return max(data, key=lambda x: float(x["adv"]["price"]))
+    return max(data, key=lambda x: float(x["adv"]["price"])) if data else None
 
 def hora_venezuela_str():
     vzla = pytz.timezone("America/Caracas")
@@ -50,8 +42,8 @@ def safe_float(s):
 
 def main():
     try:
-        compras = consultar("BUY")   # USDT→VES
-        ventas  = consultar("SELL")  # VES→USDT
+        compras = consultar("BUY")
+        ventas  = consultar("SELL")
 
         best_buy  = elegir_compra(compras)
         best_sell = elegir_venta(ventas)
@@ -62,16 +54,10 @@ def main():
         venta_precio = safe_float(best_sell["adv"]["price"]) if best_sell else None
         venta_merchant = best_sell["advertiser"]["nickName"] if best_sell else None
 
-        # Promedio: solo si ambos precios existen
-        promedio = None
-        if (compra_precio is not None) and (venta_precio is not None):
-            promedio = round((compra_precio + venta_precio) / 2, 2)
+        promedio = round((compra_precio + venta_precio) / 2, 2) if compra_precio and venta_precio else None
 
-        # Redondeo visual de compra/venta a 2 decimales si existen
-        if compra_precio is not None:
-            compra_precio = round(compra_precio, 2)
-        if venta_precio is not None:
-            venta_precio = round(venta_precio, 2)
+        if compra_precio: compra_precio = round(compra_precio, 2)
+        if venta_precio: venta_precio = round(venta_precio, 2)
 
         data = {
             "fiat": "VES",
@@ -96,17 +82,16 @@ def main():
         with open("data.json", "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
-        print("OK: data.json actualizado")
+        print("✅ data.json actualizado")
 
     except Exception as e:
-        # Generar salida con error para no romper el workflow
         error_data = {
             "error": str(e),
             "actualizado": hora_venezuela_str()
         }
         with open("data.json", "w", encoding="utf-8") as f:
             json.dump(error_data, f, ensure_ascii=False, indent=2)
-        print("ERROR:", e)
+        print("❌ Error:", e)
 
 if __name__ == "__main__":
     main()
