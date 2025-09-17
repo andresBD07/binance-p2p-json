@@ -1,4 +1,4 @@
-import requests, json
+import requests, time
 from datetime import datetime
 import pytz
 
@@ -15,8 +15,8 @@ def consultar(trade_type):
         "tradeType": trade_type,
         "page": 1,
         "rows": 20,
-        "payTypes": [],
-        "publisherType": None
+        "payTypes": [],              # Todos los métodos de pago
+        "publisherType": "merchant"  # Solo comerciantes verificados
     }
     r = requests.post(URL, headers=HEADERS, json=body, timeout=20)
     r.raise_for_status()
@@ -25,43 +25,49 @@ def consultar(trade_type):
 def hora_venezuela():
     vzla = pytz.timezone("America/Caracas")
     ahora = datetime.now(vzla)
-    fecha = ahora.strftime("%d/%m/%Y")
-    hora = ahora.strftime("%I:%M %p")
-    return f"{fecha} {hora}"
+    return ahora.strftime("%d/%m/%Y %I:%M:%S %p")
 
-def extraer():
-    compra = consultar("BUY")
-    venta = consultar("SELL")
+def elegir_compra(data):
+    candidatos = data[1:] if len(data) > 1 else []
+    if not candidatos: return None
+    return max(candidatos, key=lambda x: float(x["adv"]["price"]))
 
-    segundo = compra[1] if len(compra) > 1 else None
-    max_venta = max(venta, key=lambda x: float(x["adv"]["price"])) if venta else None
+def elegir_venta(data):
+    if not data: return None
+    return max(data, key=lambda x: float(x["adv"]["price"]))
 
-    def info(anuncio):
-        if not anuncio: return {"precio": None, "comerciante": None}
-        return {
-            "precio": round(float(anuncio["adv"]["price"]), 2),
-            "comerciante": anuncio["advertiser"]["nickName"]
-        }
+def mostrar():
+    try:
+        compras = consultar("BUY")
+        ventas  = consultar("SELL")
 
-    compra_info = info(segundo)
-    venta_info = info(max_venta)
+        mejor_compra = elegir_compra(compras)
+        mejor_venta  = elegir_venta(ventas)
 
-    promedio = None
-    if compra_info["precio"] is not None and venta_info["precio"] is not None:
-        promedio = round((compra_info["precio"] + venta_info["precio"]) / 2, 2)
+        hora = hora_venezuela()
+        print(f"\n🕒 {hora}")
 
-    return {
-        "compra_segundo": compra_info,
-        "venta_maxima": venta_info,
-        "promedio": promedio,
-        "actualizado": hora_venezuela()
-    }
+        if mejor_compra:
+            precio = round(float(mejor_compra["adv"]["price"]), 2)
+            nombre = mejor_compra["advertiser"]["nickName"]
+            print(f"🟢 Compra (mejor tras promo): {precio} Bs — {nombre}")
+        else:
+            print("🟢 Compra: No disponible")
 
-def guardar():
-    datos = extraer()
-    with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(datos, f, ensure_ascii=False, indent=2)
-    print("✅ JSON actualizado:", datos)
+        if mejor_venta:
+            precio = round(float(mejor_venta["adv"]["price"]), 2)
+            nombre = mejor_venta["advertiser"]["nickName"]
+            print(f"🔴 Venta (máxima): {precio} Bs — {nombre}")
+        else:
+            print("🔴 Venta: No disponible")
+
+    except Exception as e:
+        print("❌ Error al consultar:", e)
+
+def ciclo():
+    while True:
+        mostrar()
+        time.sleep(30)
 
 if __name__ == "__main__":
-    guardar()
+    ciclo()
