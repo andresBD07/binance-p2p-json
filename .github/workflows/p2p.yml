@@ -1,4 +1,4 @@
-name: Binance P2P JSON cada 2 minutos
+name: Binance P2P a Firebase y JSON
 
 on:
   schedule:
@@ -9,27 +9,30 @@ jobs:
   actualizar:
     runs-on: ubuntu-latest
     permissions:
+      # Este permiso es crucial para poder hacer 'push' al repositorio
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout del repositorio
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install requests pytz firebase-admin
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz firebase-admin
 
-      - name: Restaurar credencial Firebase
-        run: echo "${{ secrets.FIREBASE_CRED }}" > firebase-cred.json
-
-      - name: Ejecutar script
+      - name: Ejecutar script de actualización
+        # El script lee el secreto de Firebase desde una variable de entorno
         run: python fetch_p2p.py
+        env:
+          FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
 
-      - name: Commit si hay cambios
+      - name: Sincronizar cambios y hacer commit de data.json
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
