@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-17T22:27:54.426084",
-  "actualizado_vzla": "2025-09-17 18:27:54 -04",
+  "timestamp_utc": "2025-09-17T22:41:27.830789",
+  "actualizado_vzla": "2025-09-17 18:41:27 -04",
   "compra_segundo": {
-    "price": 266.7,
-    "name": "NuebotFlash"
+    "price": 266.85,
+    "name": "CambiosDeLaVega"
   },
   "venta_maxima": {
     "price": 267.0,
     "name": "FinanceSecure"
   },
-  "promedio": 266.85,
+  "promedio": 266.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
