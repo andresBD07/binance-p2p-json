@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-17T22:41:27.830789",
-  "actualizado_vzla": "2025-09-17 18:41:27 -04",
+  "timestamp_utc": "2025-09-17T22:54:39.457494",
+  "actualizado_vzla": "2025-09-17 18:54:39 -04",
   "compra_segundo": {
-    "price": 266.85,
-    "name": "CambiosDeLaVega"
+    "price": 266.89,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
-    "price": 267.0,
+    "price": 268.0,
     "name": "FinanceSecure"
   },
-  "promedio": 266.93,
+  "promedio": 267.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
