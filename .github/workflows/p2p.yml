@@ -2,8 +2,12 @@ name: Binance P2P JSON cada minuto
 
 on:
   schedule:
-    - cron: "* * * * *"  # Ejecuta cada minuto
-  workflow_dispatch:
+    - cron: "* * * * *"   # Ejecuta cada minuto
+  workflow_dispatch:       # Permite ejecución manual
+
+concurrency:
+  group: p2p-json
+  cancel-in-progress: true
 
 jobs:
   actualizar:
@@ -25,10 +29,10 @@ jobs:
       - name: Ejecutar script
         run: python fetch_p2p.py
 
-      - name: Commit siempre
+      - name: Commit y push (forzado cada minuto)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Actualización forzada cada minuto" || echo "Sin cambios que commitear"
+          git add -A
+          git commit -m "Actualización programada: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" || echo "Sin cambios que commitear"
           git push
