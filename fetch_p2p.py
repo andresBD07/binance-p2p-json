@@ -1,4 +1,6 @@
-import requests, json, time
+import requests, json
+from datetime import datetime
+import pytz
 
 URL = "https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search"
 HEADERS = {
@@ -19,6 +21,13 @@ def consultar(trade_type):
     r = requests.post(URL, headers=HEADERS, json=body, timeout=20)
     r.raise_for_status()
     return r.json().get("data", [])
+
+def hora_venezuela():
+    vzla = pytz.timezone("America/Caracas")
+    ahora = datetime.now(vzla)
+    fecha = ahora.strftime("%d/%m/%Y")
+    hora = ahora.strftime("%I:%M %p")
+    return f"{fecha} {hora}"
 
 def extraer():
     compra = consultar("BUY")
@@ -41,14 +50,11 @@ def extraer():
     if compra_info["precio"] is not None and venta_info["precio"] is not None:
         promedio = round((compra_info["precio"] + venta_info["precio"]) / 2, 2)
 
-    fecha = time.strftime("%d/%m/%Y")
-    hora = time.strftime("%I:%M %p")
-
     return {
         "compra_segundo": compra_info,
         "venta_maxima": venta_info,
         "promedio": promedio,
-        "actualizado": f"{fecha} {hora}"
+        "actualizado": hora_venezuela()
     }
 
 def guardar():
