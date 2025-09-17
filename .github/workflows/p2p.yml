@@ -2,7 +2,7 @@ name: Binance P2P a Firebase y JSON
 
 on:
   schedule:
-    - cron: "*/4 * * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
