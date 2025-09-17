@@ -1,4 +1,4 @@
-import requests, json, time, os
+import requests, json, time
 
 URL = "https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search"
 HEADERS = {
@@ -34,12 +34,20 @@ def extraer():
             "comerciante": anuncio["advertiser"]["nickName"]
         }
 
+    compra_info = info(segundo)
+    venta_info = info(max_venta)
+
+    promedio = None
+    if compra_info["precio"] is not None and venta_info["precio"] is not None:
+        promedio = round((compra_info["precio"] + venta_info["precio"]) / 2, 2)
+
     fecha = time.strftime("%d/%m/%Y")
     hora = time.strftime("%I:%M %p")
 
     return {
-        "compra_segundo": info(segundo),
-        "venta_maxima": info(max_venta),
+        "compra_segundo": compra_info,
+        "venta_maxima": venta_info,
+        "promedio": promedio,
         "actualizado": f"{fecha} {hora}"
     }
 
