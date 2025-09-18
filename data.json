@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T23:28:54.243124",
-  "actualizado_vzla": "2025-09-18 19:28:54 -04",
+  "timestamp_utc": "2025-09-18T23:41:55.070054",
+  "actualizado_vzla": "2025-09-18 19:41:55 -04",
   "compra_segundo": {
-    "price": 270.24,
-    "name": "alelean"
+    "price": 270.39,
+    "name": "EXCHANGE_P2P_RAPIDO"
   },
   "venta_maxima": {
-    "price": 269.999,
+    "price": 269.9,
     "name": "SmartSolutionn"
   },
-  "promedio": 270.12,
+  "promedio": 270.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
