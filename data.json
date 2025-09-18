@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T14:51:27.711605",
-  "actualizado_vzla": "2025-09-18 10:51:27 -04",
+  "timestamp_utc": "2025-09-18T15:34:01.002917",
+  "actualizado_vzla": "2025-09-18 11:34:01 -04",
   "compra_segundo": {
-    "price": 266.8,
-    "name": "IAlexsI"
+    "price": 267.774,
+    "name": "TejoTrader"
   },
   "venta_maxima": {
-    "price": 266.4,
-    "name": "Biyt"
+    "price": 268.5,
+    "name": "hudsonriver"
   },
-  "promedio": 266.6,
+  "promedio": 268.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
