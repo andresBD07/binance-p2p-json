@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T18:50:53.641899",
-  "actualizado_vzla": "2025-09-18 14:50:53 -04",
+  "timestamp_utc": "2025-09-18T19:22:52.816694",
+  "actualizado_vzla": "2025-09-18 15:22:52 -04",
   "compra_segundo": {
-    "price": 270.25,
-    "name": "CambiosToGo"
+    "price": 270.0,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 270.05,
-    "name": "VamosPArriba_"
+    "price": 270.0,
+    "name": "hudsonriver"
   },
-  "promedio": 270.15,
+  "promedio": 270.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
