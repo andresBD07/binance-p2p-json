@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T09:34:45.611404",
-  "actualizado_vzla": "2025-09-18 05:34:45 -04",
+  "timestamp_utc": "2025-09-18T09:48:14.937443",
+  "actualizado_vzla": "2025-09-18 05:48:14 -04",
   "compra_segundo": {
-    "price": 269.1,
-    "name": "CAMBIOSVIP_A1"
+    "price": 269.34,
+    "name": "labebe2222"
   },
   "venta_maxima": {
     "price": 264.1,
     "name": "ClandestinoX"
   },
-  "promedio": 266.6,
+  "promedio": 266.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
