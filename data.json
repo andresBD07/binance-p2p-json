@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T15:34:01.002917",
-  "actualizado_vzla": "2025-09-18 11:34:01 -04",
+  "timestamp_utc": "2025-09-18T15:47:14.221670",
+  "actualizado_vzla": "2025-09-18 11:47:14 -04",
   "compra_segundo": {
-    "price": 267.774,
-    "name": "TejoTrader"
+    "price": 268.4,
+    "name": "Mundicambio"
   },
   "venta_maxima": {
-    "price": 268.5,
+    "price": 269.0,
     "name": "hudsonriver"
   },
-  "promedio": 268.14,
+  "promedio": 268.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
