@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T11:25:24.826948",
-  "actualizado_vzla": "2025-09-18 07:25:24 -04",
+  "timestamp_utc": "2025-09-18T11:41:05.648612",
+  "actualizado_vzla": "2025-09-18 07:41:05 -04",
   "compra_segundo": {
-    "price": 267.68,
-    "name": "DLR06"
+    "price": 267.39,
+    "name": "NOVACENTER"
   },
   "venta_maxima": {
-    "price": 264.505,
-    "name": "ghyss"
+    "price": 264.81,
+    "name": "IMPERIOROMANO"
   },
-  "promedio": 266.09,
+  "promedio": 266.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
