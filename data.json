@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T05:46:53.722921",
-  "actualizado_vzla": "2025-09-18 01:46:53 -04",
+  "timestamp_utc": "2025-09-18T06:00:02.867832",
+  "actualizado_vzla": "2025-09-18 02:00:02 -04",
   "compra_segundo": {
-    "price": 269.35,
-    "name": "TUcambioPreferido"
+    "price": 269.489,
+    "name": "Jartisick"
   },
   "venta_maxima": {
     "price": 264.1,
     "name": "ClandestinoX"
   },
-  "promedio": 266.73,
+  "promedio": 266.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
