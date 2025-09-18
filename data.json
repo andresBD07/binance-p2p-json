@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T01:01:02.232701",
-  "actualizado_vzla": "2025-09-17 21:01:02 -04",
+  "timestamp_utc": "2025-09-18T01:42:04.147171",
+  "actualizado_vzla": "2025-09-17 21:42:04 -04",
   "compra_segundo": {
-    "price": 268.1,
-    "name": "Dakmoney"
+    "price": 268.13,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 267.5,
-    "name": "TOPlevelS"
+    "price": 266.95,
+    "name": "EagleTrade12"
   },
-  "promedio": 267.8,
+  "promedio": 267.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
