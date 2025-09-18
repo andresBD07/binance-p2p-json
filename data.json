@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T16:00:19.448736",
-  "actualizado_vzla": "2025-09-18 12:00:19 -04",
+  "timestamp_utc": "2025-09-18T16:46:02.055481",
+  "actualizado_vzla": "2025-09-18 12:46:02 -04",
   "compra_segundo": {
-    "price": 268.98,
-    "name": "CAMBIOS_DC"
+    "price": 270.999,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 269.0,
-    "name": "hudsonriver"
+    "price": 271.0,
+    "name": "Biyt"
   },
-  "promedio": 268.99,
+  "promedio": 271.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
