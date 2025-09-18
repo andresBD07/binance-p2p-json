@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T16:46:02.055481",
-  "actualizado_vzla": "2025-09-18 12:46:02 -04",
+  "timestamp_utc": "2025-09-18T16:59:25.329063",
+  "actualizado_vzla": "2025-09-18 12:59:25 -04",
   "compra_segundo": {
-    "price": 270.999,
-    "name": "MSaracai"
+    "price": 270.92,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 271.0,
+    "price": 271.3,
     "name": "Biyt"
   },
-  "promedio": 271.0,
+  "promedio": 271.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
