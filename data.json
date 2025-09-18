@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T11:54:29.087217",
-  "actualizado_vzla": "2025-09-18 07:54:29 -04",
+  "timestamp_utc": "2025-09-18T13:33:28.129016",
+  "actualizado_vzla": "2025-09-18 09:33:28 -04",
   "compra_segundo": {
-    "price": 266.49,
-    "name": "RyderXchange"
+    "price": 265.259,
+    "name": "PitigueyCash"
   },
   "venta_maxima": {
-    "price": 265.0,
-    "name": "JLxanges"
+    "price": 266.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 265.75,
+  "promedio": 265.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
