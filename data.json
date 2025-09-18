@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T20:47:25.122121",
-  "actualizado_vzla": "2025-09-18 16:47:25 -04",
+  "timestamp_utc": "2025-09-18T21:00:19.630841",
+  "actualizado_vzla": "2025-09-18 17:00:19 -04",
   "compra_segundo": {
-    "price": 270.4,
-    "name": "Merchange"
+    "price": 270.9,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 270.351,
+    "price": 270.55,
     "name": "PAYRETUS"
   },
-  "promedio": 270.38,
+  "promedio": 270.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
