@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T11:41:05.648612",
-  "actualizado_vzla": "2025-09-18 07:41:05 -04",
+  "timestamp_utc": "2025-09-18T11:54:29.087217",
+  "actualizado_vzla": "2025-09-18 07:54:29 -04",
   "compra_segundo": {
-    "price": 267.39,
-    "name": "NOVACENTER"
+    "price": 266.49,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 264.81,
-    "name": "IMPERIOROMANO"
+    "price": 265.0,
+    "name": "JLxanges"
   },
-  "promedio": 266.1,
+  "promedio": 265.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
