@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T13:33:28.129016",
-  "actualizado_vzla": "2025-09-18 09:33:28 -04",
+  "timestamp_utc": "2025-09-18T13:48:40.834465",
+  "actualizado_vzla": "2025-09-18 09:48:40 -04",
   "compra_segundo": {
-    "price": 265.259,
-    "name": "PitigueyCash"
+    "price": 265.999,
+    "name": "criss35"
   },
   "venta_maxima": {
-    "price": 266.0,
-    "name": "FinanceSecure"
+    "price": 265.7,
+    "name": "JLxanges"
   },
-  "promedio": 265.63,
+  "promedio": 265.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
