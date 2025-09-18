@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T16:59:25.329063",
-  "actualizado_vzla": "2025-09-18 12:59:25 -04",
+  "timestamp_utc": "2025-09-18T17:33:12.675703",
+  "actualizado_vzla": "2025-09-18 13:33:12 -04",
   "compra_segundo": {
     "price": 270.92,
-    "name": "RapidEnvios"
+    "name": "Hiroma"
   },
   "venta_maxima": {
-    "price": 271.3,
+    "price": 270.5,
     "name": "Biyt"
   },
-  "promedio": 271.11,
+  "promedio": 270.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
