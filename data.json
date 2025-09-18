@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T17:46:52.218885",
-  "actualizado_vzla": "2025-09-18 13:46:52 -04",
+  "timestamp_utc": "2025-09-18T17:59:01.230638",
+  "actualizado_vzla": "2025-09-18 13:59:01 -04",
   "compra_segundo": {
-    "price": 270.975,
-    "name": "JesusCrip"
+    "price": 270.95,
+    "name": "DPcambios"
   },
   "venta_maxima": {
-    "price": 270.5,
-    "name": "Biyt"
+    "price": 270.7,
+    "name": "WORL1EXCHANGE"
   },
-  "promedio": 270.74,
+  "promedio": 270.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
