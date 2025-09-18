@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T04:40:10.652360",
-  "actualizado_vzla": "2025-09-18 00:40:10 -04",
+  "timestamp_utc": "2025-09-18T04:51:50.904679",
+  "actualizado_vzla": "2025-09-18 00:51:50 -04",
   "compra_segundo": {
-    "price": 268.8,
-    "name": "Alex-MARTIN"
+    "price": 269.1,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 266.0,
-    "name": "Quick Payment"
+    "price": 264.2,
+    "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 267.4,
+  "promedio": 266.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
