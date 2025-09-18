@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T03:08:00.956673",
-  "actualizado_vzla": "2025-09-17 23:08:00 -04",
+  "timestamp_utc": "2025-09-18T03:49:57.978780",
+  "actualizado_vzla": "2025-09-17 23:49:57 -04",
   "compra_segundo": {
-    "price": 267.905,
-    "name": "Marquez25"
+    "price": 268.0,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 266.6,
-    "name": "Child-CambioFacil"
+    "price": 264.9,
+    "name": "Suora21"
   },
-  "promedio": 267.25,
+  "promedio": 266.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
