@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T05:34:10.891202",
-  "actualizado_vzla": "2025-09-18 01:34:10 -04",
+  "timestamp_utc": "2025-09-18T05:46:53.722921",
+  "actualizado_vzla": "2025-09-18 01:46:53 -04",
   "compra_segundo": {
-    "price": 269.48,
-    "name": "彡TrustyTrader1A彡"
+    "price": 269.35,
+    "name": "TUcambioPreferido"
   },
   "venta_maxima": {
     "price": 264.1,
     "name": "ClandestinoX"
   },
-  "promedio": 266.79,
+  "promedio": 266.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
