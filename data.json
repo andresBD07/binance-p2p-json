@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T19:22:52.816694",
-  "actualizado_vzla": "2025-09-18 15:22:52 -04",
+  "timestamp_utc": "2025-09-18T19:40:19.415261",
+  "actualizado_vzla": "2025-09-18 15:40:19 -04",
   "compra_segundo": {
-    "price": 270.0,
-    "name": "Mahc012712"
+    "price": 269.9,
+    "name": "ExpressCriptoP2P"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "hudsonriver"
+    "price": 270.036,
+    "name": "nordeltus"
   },
-  "promedio": 270.0,
+  "promedio": 269.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
