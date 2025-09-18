@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T09:48:14.937443",
-  "actualizado_vzla": "2025-09-18 05:48:14 -04",
+  "timestamp_utc": "2025-09-18T10:37:50.299639",
+  "actualizado_vzla": "2025-09-18 06:37:50 -04",
   "compra_segundo": {
-    "price": 269.34,
-    "name": "labebe2222"
+    "price": 268.249,
+    "name": "OLDCARTO"
   },
   "venta_maxima": {
-    "price": 264.1,
+    "price": 264.25,
     "name": "ClandestinoX"
   },
-  "promedio": 266.72,
+  "promedio": 266.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
