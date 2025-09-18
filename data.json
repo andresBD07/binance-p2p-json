@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-09-18T19:40:19.415261",
-  "actualizado_vzla": "2025-09-18 15:40:19 -04",
+  "timestamp_utc": "2025-09-18T19:53:07.461575",
+  "actualizado_vzla": "2025-09-18 15:53:07 -04",
   "compra_segundo": {
-    "price": 269.9,
-    "name": "ExpressCriptoP2P"
+    "price": 269.899,
+    "name": "joshhy96"
   },
   "venta_maxima": {
-    "price": 270.036,
-    "name": "nordeltus"
+    "price": 270.035,
+    "name": "TuCambioSeguro10"
   },
   "promedio": 269.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
