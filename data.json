@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T21:30:34.667552",
-  "actualizado_vzla": "2025-09-18 17:30:34 -04",
+  "timestamp_utc": "2025-09-18T21:43:18.453833",
+  "actualizado_vzla": "2025-09-18 17:43:18 -04",
   "compra_segundo": {
-    "price": 270.99,
-    "name": "Cambioya12"
+    "price": 271.0,
+    "name": "MaxMax89"
   },
   "venta_maxima": {
-    "price": 272.0,
-    "name": "Jota58"
+    "price": 271.5,
+    "name": "PAYRETUS"
   },
-  "promedio": 271.5,
+  "promedio": 271.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
