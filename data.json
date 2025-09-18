@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T07:28:05.026772",
-  "actualizado_vzla": "2025-09-18 03:28:05 -04",
+  "timestamp_utc": "2025-09-18T07:41:49.104401",
+  "actualizado_vzla": "2025-09-18 03:41:49 -04",
   "compra_segundo": {
-    "price": 270.099,
-    "name": "AndradeGasconTITULAR"
+    "price": 270.0,
+    "name": "BelenCambios"
   },
   "venta_maxima": {
     "price": 264.1,
     "name": "ClandestinoX"
   },
-  "promedio": 267.1,
+  "promedio": 267.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
