@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T17:33:12.675703",
-  "actualizado_vzla": "2025-09-18 13:33:12 -04",
+  "timestamp_utc": "2025-09-18T17:46:52.218885",
+  "actualizado_vzla": "2025-09-18 13:46:52 -04",
   "compra_segundo": {
-    "price": 270.92,
-    "name": "Hiroma"
+    "price": 270.975,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
     "price": 270.5,
     "name": "Biyt"
   },
-  "promedio": 270.71,
+  "promedio": 270.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
