@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T10:53:55.138225",
-  "actualizado_vzla": "2025-09-19 06:53:55 -04",
+  "timestamp_utc": "2025-09-19T11:27:17.718026",
+  "actualizado_vzla": "2025-09-19 07:27:17 -04",
   "compra_segundo": {
-    "price": 268.7,
-    "name": "CAMBIOs_PrO"
+    "price": 268.49,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 266.36,
-    "name": "jxsosa"
+    "price": 287.205,
+    "name": "CAMBIOS-CRYPTOS"
   },
-  "promedio": 267.53,
+  "promedio": 277.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
