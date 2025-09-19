@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T19:00:45.742638",
-  "actualizado_vzla": "2025-09-19 15:00:45 -04",
+  "timestamp_utc": "2025-09-19T19:24:47.391025",
+  "actualizado_vzla": "2025-09-19 15:24:47 -04",
   "compra_segundo": {
-    "price": 268.68,
-    "name": "R0ckandR0ll"
+    "price": 268.7,
+    "name": "CambiosVeryfast23"
   },
   "venta_maxima": {
-    "price": 270.2,
-    "name": "WORL1EXCHANGE"
+    "price": 270.0,
+    "name": "hudsonriver"
   },
-  "promedio": 269.44,
+  "promedio": 269.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
