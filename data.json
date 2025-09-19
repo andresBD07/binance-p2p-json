@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T07:54:20.100885",
-  "actualizado_vzla": "2025-09-19 03:54:20 -04",
+  "timestamp_utc": "2025-09-19T08:45:00.270660",
+  "actualizado_vzla": "2025-09-19 04:45:00 -04",
   "compra_segundo": {
-    "price": 270.599,
-    "name": "Neiker-Exchange"
-  },
-  "venta_maxima": {
-    "price": 263.63,
+    "price": 270.6,
     "name": "-JIREH-"
   },
-  "promedio": 267.11,
+  "venta_maxima": {
+    "price": 263.0,
+    "name": "-JIREH-"
+  },
+  "promedio": 266.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
