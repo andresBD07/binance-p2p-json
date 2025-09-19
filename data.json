@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T22:58:19.113689",
-  "actualizado_vzla": "2025-09-19 18:58:19 -04",
+  "timestamp_utc": "2025-09-19T23:27:47.085205",
+  "actualizado_vzla": "2025-09-19 19:27:47 -04",
   "compra_segundo": {
-    "price": 271.0,
-    "name": "cambiosaular"
+    "price": 271.1,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 271.6,
-    "name": "Biyt"
+    "price": 272.01,
+    "name": "LogisticExchange"
   },
-  "promedio": 271.3,
+  "promedio": 271.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
