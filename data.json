@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T11:41:25.588816",
-  "actualizado_vzla": "2025-09-19 07:41:25 -04",
+  "timestamp_utc": "2025-09-19T11:54:07.057894",
+  "actualizado_vzla": "2025-09-19 07:54:07 -04",
   "compra_segundo": {
-    "price": 268.19,
-    "name": "CAMBIOSPRO2000"
+    "price": 267.9,
+    "name": "Caps-Exchange"
   },
   "venta_maxima": {
-    "price": 265.71,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 266.1,
+    "name": "SafeBolivars"
   },
-  "promedio": 266.95,
+  "promedio": 267.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
