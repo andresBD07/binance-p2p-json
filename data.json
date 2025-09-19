@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-18T23:54:57.049202",
-  "actualizado_vzla": "2025-09-18 19:54:57 -04",
+  "timestamp_utc": "2025-09-19T03:11:56.660542",
+  "actualizado_vzla": "2025-09-18 23:11:56 -04",
   "compra_segundo": {
-    "price": 270.23,
-    "name": "Mr_Nasdaq"
+    "price": 269.8,
+    "name": "CriptoWaffle"
   },
   "venta_maxima": {
-    "price": 270.2,
-    "name": "-TRADER_NEMESIS-"
+    "price": 268.6,
+    "name": "Quick Payment"
   },
-  "promedio": 270.22,
+  "promedio": 269.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
