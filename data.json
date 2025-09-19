@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T20:33:14.348860",
-  "actualizado_vzla": "2025-09-19 16:33:14 -04",
+  "timestamp_utc": "2025-09-19T20:45:42.937273",
+  "actualizado_vzla": "2025-09-19 16:45:42 -04",
   "compra_segundo": {
-    "price": 270.0,
-    "name": "Camilo171"
+    "price": 270.5,
+    "name": "1PIECE-BLESS"
   },
   "venta_maxima": {
-    "price": 270.5,
-    "name": "Biyt"
+    "price": 271.7,
+    "name": "To0809"
   },
-  "promedio": 270.25,
+  "promedio": 271.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
