@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T10:41:02.075705",
-  "actualizado_vzla": "2025-09-19 06:41:02 -04",
+  "timestamp_utc": "2025-09-19T10:53:55.138225",
+  "actualizado_vzla": "2025-09-19 06:53:55 -04",
   "compra_segundo": {
-    "price": 269.0,
-    "name": "andrsn"
+    "price": 268.7,
+    "name": "CAMBIOs_PrO"
   },
   "venta_maxima": {
-    "price": 264.56,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 266.36,
+    "name": "jxsosa"
   },
-  "promedio": 266.78,
+  "promedio": 267.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
