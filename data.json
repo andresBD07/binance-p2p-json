@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T09:34:14.778166",
-  "actualizado_vzla": "2025-09-19 05:34:14 -04",
+  "timestamp_utc": "2025-09-19T09:47:29.705574",
+  "actualizado_vzla": "2025-09-19 05:47:29 -04",
   "compra_segundo": {
-    "price": 270.1,
-    "name": "JaviSwap"
+    "price": 270.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 264.3,
-    "name": "GregoSwap"
+    "price": 263.05,
+    "name": "A1000C"
   },
-  "promedio": 267.2,
+  "promedio": 266.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
