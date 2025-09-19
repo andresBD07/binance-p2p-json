@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T15:58:44.360682",
-  "actualizado_vzla": "2025-09-19 11:58:44 -04",
+  "timestamp_utc": "2025-09-19T16:44:26.792448",
+  "actualizado_vzla": "2025-09-19 12:44:26 -04",
   "compra_segundo": {
-    "price": 268.3,
-    "name": "NefertitiBTC"
+    "price": 268.999,
+    "name": "IBEROGESTION"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "hudsonriver"
+    "price": 270.502,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.15,
+  "promedio": 269.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
