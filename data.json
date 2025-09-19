@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T20:45:42.937273",
-  "actualizado_vzla": "2025-09-19 16:45:42 -04",
+  "timestamp_utc": "2025-09-19T20:58:28.078080",
+  "actualizado_vzla": "2025-09-19 16:58:28 -04",
   "compra_segundo": {
-    "price": 270.5,
-    "name": "1PIECE-BLESS"
+    "price": 270.999,
+    "name": "KenpachiZ21"
   },
   "venta_maxima": {
-    "price": 271.7,
-    "name": "To0809"
+    "price": 271.6,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 271.1,
+  "promedio": 271.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
