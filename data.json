@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T19:40:18.691090",
-  "actualizado_vzla": "2025-09-19 15:40:18 -04",
+  "timestamp_utc": "2025-09-19T19:53:49.892979",
+  "actualizado_vzla": "2025-09-19 15:53:49 -04",
   "compra_segundo": {
-    "price": 269.0,
-    "name": "Yolo_c"
+    "price": 269.5,
+    "name": "PagoExpressInter"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "hudsonriver"
+    "price": 270.05,
+    "name": "hectoraltrader"
   },
-  "promedio": 269.5,
+  "promedio": 269.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
