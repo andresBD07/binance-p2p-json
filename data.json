@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T03:50:37.476370",
-  "actualizado_vzla": "2025-09-18 23:50:37 -04",
+  "timestamp_utc": "2025-09-19T04:40:39.696877",
+  "actualizado_vzla": "2025-09-19 00:40:39 -04",
   "compra_segundo": {
-    "price": 269.794,
-    "name": "EXITOSOS2025"
+    "price": 270.0,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 267.0,
-    "name": "criptobropanama"
+    "price": 266.5,
+    "name": "Kingtrade5555"
   },
-  "promedio": 268.4,
+  "promedio": 268.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
