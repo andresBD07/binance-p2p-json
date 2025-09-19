@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T03:11:56.660542",
-  "actualizado_vzla": "2025-09-18 23:11:56 -04",
+  "timestamp_utc": "2025-09-19T03:50:37.476370",
+  "actualizado_vzla": "2025-09-18 23:50:37 -04",
   "compra_segundo": {
-    "price": 269.8,
-    "name": "CriptoWaffle"
+    "price": 269.794,
+    "name": "EXITOSOS2025"
   },
   "venta_maxima": {
-    "price": 268.6,
-    "name": "Quick Payment"
+    "price": 267.0,
+    "name": "criptobropanama"
   },
-  "promedio": 269.2,
+  "promedio": 268.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
