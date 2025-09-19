@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T17:44:49.602244",
-  "actualizado_vzla": "2025-09-19 13:44:49 -04",
+  "timestamp_utc": "2025-09-19T17:57:39.347662",
+  "actualizado_vzla": "2025-09-19 13:57:39 -04",
   "compra_segundo": {
-    "price": 268.855,
-    "name": "CambiosExpressAE"
+    "price": 268.9,
+    "name": "R_kambios"
   },
   "venta_maxima": {
     "price": 269.5,
-    "name": "WORL1EXCHANGE"
+    "name": "Biyt"
   },
-  "promedio": 269.18,
+  "promedio": 269.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
