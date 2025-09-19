@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T22:32:45.016725",
-  "actualizado_vzla": "2025-09-19 18:32:45 -04",
+  "timestamp_utc": "2025-09-19T22:45:20.905199",
+  "actualizado_vzla": "2025-09-19 18:45:20 -04",
   "compra_segundo": {
-    "price": 271.19,
-    "name": "MotoPirueta"
+    "price": 271.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 272.0,
-    "name": "HAWKEYE-1"
+    "price": 271.8,
+    "name": "JoseParedez"
   },
-  "promedio": 271.6,
+  "promedio": 271.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
