@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T21:40:21.151949",
-  "actualizado_vzla": "2025-09-19 17:40:21 -04",
+  "timestamp_utc": "2025-09-19T21:53:36.212310",
+  "actualizado_vzla": "2025-09-19 17:53:36 -04",
   "compra_segundo": {
     "price": 271.85,
-    "name": "Rebeknmf"
+    "name": "CERRATO23__"
   },
   "venta_maxima": {
-    "price": 271.25,
-    "name": "Bettyma_trader"
+    "price": 271.35,
+    "name": "JoseParedez"
   },
-  "promedio": 271.55,
+  "promedio": 271.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
