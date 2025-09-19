@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T10:00:15.170175",
-  "actualizado_vzla": "2025-09-19 06:00:15 -04",
+  "timestamp_utc": "2025-09-19T10:41:02.075705",
+  "actualizado_vzla": "2025-09-19 06:41:02 -04",
   "compra_segundo": {
-    "price": 269.899,
-    "name": "PayBin07"
+    "price": 269.0,
+    "name": "andrsn"
   },
   "venta_maxima": {
-    "price": 263.05,
-    "name": "A1000C"
+    "price": 264.56,
+    "name": "_CAMBI0S_SEGUR0S_"
   },
-  "promedio": 266.47,
+  "promedio": 266.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
