@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T14:39:52.909357",
-  "actualizado_vzla": "2025-09-19 10:39:52 -04",
+  "timestamp_utc": "2025-09-19T14:53:14.753858",
+  "actualizado_vzla": "2025-09-19 10:53:14 -04",
   "compra_segundo": {
-    "price": 263.54,
-    "name": "RSTrader_"
+    "price": 264.0,
+    "name": "tucompraeficaz"
   },
   "venta_maxima": {
-    "price": 264.0,
+    "price": 265.5,
     "name": "hudsonriver"
   },
-  "promedio": 263.77,
+  "promedio": 264.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
