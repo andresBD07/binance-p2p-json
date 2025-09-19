@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T05:46:33.744680",
-  "actualizado_vzla": "2025-09-19 01:46:33 -04",
+  "timestamp_utc": "2025-09-19T05:59:19.336032",
+  "actualizado_vzla": "2025-09-19 01:59:19 -04",
   "compra_segundo": {
-    "price": 270.111,
-    "name": "Abu_Daqqa"
+    "price": 270.1,
+    "name": "JaviSwap"
   },
   "venta_maxima": {
     "price": 266.5,
     "name": "Kingtrade5555"
   },
-  "promedio": 268.31,
+  "promedio": 268.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
