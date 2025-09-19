@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T07:28:56.189128",
-  "actualizado_vzla": "2025-09-19 03:28:56 -04",
+  "timestamp_utc": "2025-09-19T07:41:31.982807",
+  "actualizado_vzla": "2025-09-19 03:41:31 -04",
   "compra_segundo": {
-    "price": 270.19,
-    "name": "Yoinered"
+    "price": 270.199,
+    "name": "EliteSummitPro"
   },
   "venta_maxima": {
-    "price": 262.85,
-    "name": "Marquez25"
+    "price": 263.624,
+    "name": "Jorge33P2P"
   },
-  "promedio": 266.52,
+  "promedio": 266.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
