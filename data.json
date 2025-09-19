@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T08:57:55.351163",
-  "actualizado_vzla": "2025-09-19 04:57:55 -04",
+  "timestamp_utc": "2025-09-19T09:34:14.778166",
+  "actualizado_vzla": "2025-09-19 05:34:14 -04",
   "compra_segundo": {
-    "price": 270.3,
-    "name": "Bestsellerrr"
+    "price": 270.1,
+    "name": "JaviSwap"
   },
   "venta_maxima": {
-    "price": 263.002,
-    "name": "VnzlaHero"
+    "price": 264.3,
+    "name": "GregoSwap"
   },
-  "promedio": 266.65,
+  "promedio": 267.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
