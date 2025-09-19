@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T17:57:39.347662",
-  "actualizado_vzla": "2025-09-19 13:57:39 -04",
+  "timestamp_utc": "2025-09-19T18:47:33.074731",
+  "actualizado_vzla": "2025-09-19 14:47:33 -04",
   "compra_segundo": {
     "price": 268.9,
-    "name": "R_kambios"
+    "name": "Inversiones Money Today"
   },
   "venta_maxima": {
-    "price": 269.5,
-    "name": "Biyt"
+    "price": 270.502,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.2,
+  "promedio": 269.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
