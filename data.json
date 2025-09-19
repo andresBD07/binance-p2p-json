@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T06:51:04.596986",
-  "actualizado_vzla": "2025-09-19 02:51:04 -04",
+  "timestamp_utc": "2025-09-19T07:28:56.189128",
+  "actualizado_vzla": "2025-09-19 03:28:56 -04",
   "compra_segundo": {
-    "price": 270.0,
-    "name": "andrsn"
+    "price": 270.19,
+    "name": "Yoinered"
   },
   "venta_maxima": {
-    "price": 263.001,
-    "name": "Cryptoexpress"
+    "price": 262.85,
+    "name": "Marquez25"
   },
-  "promedio": 266.5,
+  "promedio": 266.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
