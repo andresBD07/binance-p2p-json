@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T20:58:28.078080",
-  "actualizado_vzla": "2025-09-19 16:58:28 -04",
+  "timestamp_utc": "2025-09-19T21:27:37.876750",
+  "actualizado_vzla": "2025-09-19 17:27:37 -04",
   "compra_segundo": {
-    "price": 270.999,
-    "name": "KenpachiZ21"
+    "price": 271.69,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 271.6,
+    "price": 271.85,
     "name": "HAWKEYE-1"
   },
-  "promedio": 271.3,
+  "promedio": 271.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
