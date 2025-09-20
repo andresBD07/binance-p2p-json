@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T14:44:38.649313",
-  "actualizado_vzla": "2025-09-20 10:44:38 -04",
+  "timestamp_utc": "2025-09-20T14:57:45.096991",
+  "actualizado_vzla": "2025-09-20 10:57:45 -04",
   "compra_segundo": {
-    "price": 269.2,
-    "name": "Veloz Express Chile"
+    "price": 269.4,
+    "name": "Yeninr"
   },
   "venta_maxima": {
-    "price": 270.5,
-    "name": "To0809"
+    "price": 270.1,
+    "name": "Coinectado"
   },
-  "promedio": 269.85,
+  "promedio": 269.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
