@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T22:56:47.169685",
-  "actualizado_vzla": "2025-09-20 18:56:47 -04",
+  "timestamp_utc": "2025-09-20T23:26:48.239801",
+  "actualizado_vzla": "2025-09-20 19:26:48 -04",
   "compra_segundo": {
-    "price": 268.14,
-    "name": "SeguroVeloz"
+    "price": 267.0,
+    "name": "Cambios_Jear"
   },
   "venta_maxima": {
-    "price": 269.6,
-    "name": "Child-CambioFacil"
+    "price": 266.109,
+    "name": "SPYG"
   },
-  "promedio": 268.87,
+  "promedio": 266.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
