@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T23:40:39.491011",
-  "actualizado_vzla": "2025-09-20 19:40:39 -04",
+  "timestamp_utc": "2025-09-20T23:54:04.085171",
+  "actualizado_vzla": "2025-09-20 19:54:04 -04",
   "compra_segundo": {
-    "price": 266.9,
-    "name": "ALLexchange_vzla"
+    "price": 266.98,
+    "name": "SIVE_Trading"
   },
   "venta_maxima": {
-    "price": 268.002,
+    "price": 265.352,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 267.45,
+  "promedio": 266.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
