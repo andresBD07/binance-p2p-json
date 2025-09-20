@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T03:04:23.469893",
-  "actualizado_vzla": "2025-09-19 23:04:23 -04",
+  "timestamp_utc": "2025-09-20T03:45:21.181183",
+  "actualizado_vzla": "2025-09-19 23:45:21 -04",
   "compra_segundo": {
-    "price": 271.27,
-    "name": "LCEtrader"
+    "price": 271.575,
+    "name": "_CHIGUIRITO_"
   },
   "venta_maxima": {
-    "price": 270.9,
-    "name": "Coinectado"
+    "price": 270.3,
+    "name": "RONIN_COIN"
   },
-  "promedio": 271.08,
+  "promedio": 270.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
