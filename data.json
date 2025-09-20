@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T21:25:02.239764",
-  "actualizado_vzla": "2025-09-20 17:25:02 -04",
+  "timestamp_utc": "2025-09-20T21:39:31.148600",
+  "actualizado_vzla": "2025-09-20 17:39:31 -04",
   "compra_segundo": {
-    "price": 269.4,
-    "name": "cambiosalonepro"
+    "price": 269.295,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 269.7,
-    "name": "hectoraltrader"
+    "price": 269.75,
+    "name": "SafeBolivars"
   },
-  "promedio": 269.55,
+  "promedio": 269.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
