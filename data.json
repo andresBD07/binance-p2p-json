@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-19T23:53:27.557912",
-  "actualizado_vzla": "2025-09-19 19:53:27 -04",
+  "timestamp_utc": "2025-09-20T03:04:23.469893",
+  "actualizado_vzla": "2025-09-19 23:04:23 -04",
   "compra_segundo": {
-    "price": 271.0,
-    "name": "Juliojv7"
+    "price": 271.27,
+    "name": "LCEtrader"
   },
   "venta_maxima": {
-    "price": 272.01,
-    "name": "LogisticExchange"
+    "price": 270.9,
+    "name": "Coinectado"
   },
-  "promedio": 271.5,
+  "promedio": 271.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
