@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T15:55:42.419289",
-  "actualizado_vzla": "2025-09-20 11:55:42 -04",
+  "timestamp_utc": "2025-09-20T16:36:14.531422",
+  "actualizado_vzla": "2025-09-20 12:36:14 -04",
   "compra_segundo": {
-    "price": 269.999,
-    "name": "TU CAMBIO"
+    "price": 269.8,
+    "name": "RE_CA2003"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "JoseParedez"
+    "price": 269.88,
+    "name": "LaMejorTaza_MCG"
   },
-  "promedio": 270.0,
+  "promedio": 269.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
