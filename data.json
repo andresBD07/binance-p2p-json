@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T17:52:35.811521",
-  "actualizado_vzla": "2025-09-20 13:52:35 -04",
+  "timestamp_utc": "2025-09-20T18:40:35.800118",
+  "actualizado_vzla": "2025-09-20 14:40:35 -04",
   "compra_segundo": {
-    "price": 269.388,
-    "name": "gonza"
+    "price": 269.4,
+    "name": "Inversiones_MEJUHER"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "hectoraltrader"
+    "price": 270.152,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.69,
+  "promedio": 269.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
