@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T14:57:45.096991",
-  "actualizado_vzla": "2025-09-20 10:57:45 -04",
+  "timestamp_utc": "2025-09-20T15:29:33.507470",
+  "actualizado_vzla": "2025-09-20 11:29:33 -04",
   "compra_segundo": {
-    "price": 269.4,
-    "name": "Yeninr"
+    "price": 269.7,
+    "name": "MultiP2P"
   },
   "venta_maxima": {
-    "price": 270.1,
-    "name": "Coinectado"
+    "price": 270.31,
+    "name": "JoseParedez"
   },
-  "promedio": 269.75,
+  "promedio": 270.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
