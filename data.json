@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T17:25:17.283584",
-  "actualizado_vzla": "2025-09-20 13:25:17 -04",
+  "timestamp_utc": "2025-09-20T17:39:06.965502",
+  "actualizado_vzla": "2025-09-20 13:39:06 -04",
   "compra_segundo": {
-    "price": 269.4,
-    "name": "JP-Services"
+    "price": 269.53,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
     "price": 270.05,
     "name": "梅CityCambio爱"
   },
-  "promedio": 269.73,
+  "promedio": 269.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
