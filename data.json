@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T11:39:44.683672",
-  "actualizado_vzla": "2025-09-20 07:39:44 -04",
+  "timestamp_utc": "2025-09-20T11:53:19.966468",
+  "actualizado_vzla": "2025-09-20 07:53:19 -04",
   "compra_segundo": {
-    "price": 270.96,
-    "name": "CAMBIOSVIP_A1"
+    "price": 270.8,
+    "name": "Crypto_InvestVEN"
   },
   "venta_maxima": {
-    "price": 269.1,
+    "price": 269.15,
     "name": "RONIN_COIN"
   },
-  "promedio": 270.03,
+  "promedio": 269.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
