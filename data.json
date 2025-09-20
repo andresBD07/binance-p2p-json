@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T07:27:36.624237",
-  "actualizado_vzla": "2025-09-20 03:27:36 -04",
+  "timestamp_utc": "2025-09-20T07:48:33.820125",
+  "actualizado_vzla": "2025-09-20 03:48:33 -04",
   "compra_segundo": {
-    "price": 272.8,
-    "name": "usdtking"
+    "price": 272.9,
+    "name": "Exoticswaps"
   },
   "venta_maxima": {
-    "price": 267.5,
-    "name": "JuanCash"
+    "price": 268.0,
+    "name": "Global Market Ads"
   },
-  "promedio": 270.15,
+  "promedio": 270.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
