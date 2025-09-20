@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T20:28:26.628902",
-  "actualizado_vzla": "2025-09-20 16:28:26 -04",
+  "timestamp_utc": "2025-09-20T20:41:11.159546",
+  "actualizado_vzla": "2025-09-20 16:41:11 -04",
   "compra_segundo": {
-    "price": 269.87,
-    "name": "Jesús López 15 "
+    "price": 269.7,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 270.18,
-    "name": "Coinectado"
+    "price": 270.182,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 270.02,
+  "promedio": 269.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
