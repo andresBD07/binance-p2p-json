@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T05:33:07.422065",
-  "actualizado_vzla": "2025-09-20 01:33:07 -04",
+  "timestamp_utc": "2025-09-20T05:45:12.914553",
+  "actualizado_vzla": "2025-09-20 01:45:12 -04",
   "compra_segundo": {
-    "price": 271.7,
-    "name": "IEvangelineI"
+    "price": 271.5,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 268.0,
-    "name": "Global Market Ads"
+    "price": 267.5,
+    "name": "JuanCash"
   },
-  "promedio": 269.85,
+  "promedio": 269.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
