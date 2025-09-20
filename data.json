@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T23:26:48.239801",
-  "actualizado_vzla": "2025-09-20 19:26:48 -04",
+  "timestamp_utc": "2025-09-20T23:40:39.491011",
+  "actualizado_vzla": "2025-09-20 19:40:39 -04",
   "compra_segundo": {
-    "price": 267.0,
-    "name": "Cambios_Jear"
+    "price": 266.9,
+    "name": "ALLexchange_vzla"
   },
   "venta_maxima": {
-    "price": 266.109,
-    "name": "SPYG"
+    "price": 268.002,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 266.55,
+  "promedio": 267.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
