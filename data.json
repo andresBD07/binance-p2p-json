@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T13:04:40.681743",
-  "actualizado_vzla": "2025-09-20 09:04:40 -04",
+  "timestamp_utc": "2025-09-20T13:37:26.973644",
+  "actualizado_vzla": "2025-09-20 09:37:26 -04",
   "compra_segundo": {
-    "price": 269.785,
-    "name": "Blokchaiger"
+    "price": 269.4,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "JLxanges"
+    "price": 270.5,
+    "name": "0xSai"
   },
-  "promedio": 269.89,
+  "promedio": 269.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
