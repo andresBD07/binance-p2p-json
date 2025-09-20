@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T17:39:06.965502",
-  "actualizado_vzla": "2025-09-20 13:39:06 -04",
+  "timestamp_utc": "2025-09-20T17:52:35.811521",
+  "actualizado_vzla": "2025-09-20 13:52:35 -04",
   "compra_segundo": {
-    "price": 269.53,
-    "name": "PagoInstantaneo"
+    "price": 269.388,
+    "name": "gonza"
   },
   "venta_maxima": {
-    "price": 270.05,
-    "name": "梅CityCambio爱"
+    "price": 270.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 269.79,
+  "promedio": 269.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
