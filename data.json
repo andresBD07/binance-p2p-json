@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T03:58:11.599180",
-  "actualizado_vzla": "2025-09-19 23:58:11 -04",
+  "timestamp_utc": "2025-09-20T04:39:47.370231",
+  "actualizado_vzla": "2025-09-20 00:39:47 -04",
   "compra_segundo": {
     "price": 271.8,
-    "name": "CambioDirecto"
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 270.001,
-    "name": "RONIN_COIN"
+    "price": 269.0,
+    "name": "SoonE20"
   },
-  "promedio": 270.9,
+  "promedio": 270.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
