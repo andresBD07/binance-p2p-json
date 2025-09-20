@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T15:29:33.507470",
-  "actualizado_vzla": "2025-09-20 11:29:33 -04",
+  "timestamp_utc": "2025-09-20T15:42:31.878946",
+  "actualizado_vzla": "2025-09-20 11:42:31 -04",
   "compra_segundo": {
-    "price": 269.7,
-    "name": "MultiP2P"
+    "price": 269.93,
+    "name": "LinkxD"
   },
   "venta_maxima": {
-    "price": 270.31,
+    "price": 270.0,
     "name": "JoseParedez"
   },
-  "promedio": 270.0,
+  "promedio": 269.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
