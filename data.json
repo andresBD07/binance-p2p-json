@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T19:36:03.108278",
-  "actualizado_vzla": "2025-09-20 15:36:03 -04",
+  "timestamp_utc": "2025-09-20T19:49:29.547395",
+  "actualizado_vzla": "2025-09-20 15:49:29 -04",
   "compra_segundo": {
-    "price": 269.699,
-    "name": "Inversiones-Vicky"
+    "price": 269.7,
+    "name": "Yoinered"
   },
   "venta_maxima": {
-    "price": 270.0,
-    "name": "梅CityCambio爱"
+    "price": 270.102,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.85,
+  "promedio": 269.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
