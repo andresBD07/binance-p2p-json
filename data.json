@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T14:32:03.013896",
-  "actualizado_vzla": "2025-09-20 10:32:03 -04",
+  "timestamp_utc": "2025-09-20T14:44:38.649313",
+  "actualizado_vzla": "2025-09-20 10:44:38 -04",
   "compra_segundo": {
-    "price": 269.09,
-    "name": "Neriojo"
+    "price": 269.2,
+    "name": "Veloz Express Chile"
   },
   "venta_maxima": {
     "price": 270.5,
     "name": "To0809"
   },
-  "promedio": 269.79,
+  "promedio": 269.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
