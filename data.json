@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T18:40:35.800118",
-  "actualizado_vzla": "2025-09-20 14:40:35 -04",
+  "timestamp_utc": "2025-09-20T18:51:59.715179",
+  "actualizado_vzla": "2025-09-20 14:51:59 -04",
   "compra_segundo": {
     "price": 269.4,
-    "name": "Inversiones_MEJUHER"
+    "name": "tech30"
   },
   "venta_maxima": {
-    "price": 270.152,
+    "price": 270.102,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.78,
+  "promedio": 269.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
