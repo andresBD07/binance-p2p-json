@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-09-20T13:48:57.314401",
-  "actualizado_vzla": "2025-09-20 09:48:57 -04",
+  "timestamp_utc": "2025-09-20T14:06:09.678070",
+  "actualizado_vzla": "2025-09-20 10:06:09 -04",
   "compra_segundo": {
     "price": 269.39,
-    "name": "Seyo97"
+    "name": "CAMBIOS_MPC"
   },
   "venta_maxima": {
     "price": 270.0,
-    "name": "JLxanges"
+    "name": "0xSai"
   },
   "promedio": 269.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
