@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T21:52:35.249987",
-  "actualizado_vzla": "2025-09-20 17:52:35 -04",
+  "timestamp_utc": "2025-09-20T22:31:07.923674",
+  "actualizado_vzla": "2025-09-20 18:31:07 -04",
   "compra_segundo": {
-    "price": 269.1,
-    "name": "*CriptoSeguro*"
+    "price": 268.57,
+    "name": "Wis3Trading"
   },
   "venta_maxima": {
-    "price": 270.302,
+    "price": 268.502,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.7,
+  "promedio": 268.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
