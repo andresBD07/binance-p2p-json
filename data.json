@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T19:19:54.818986",
-  "actualizado_vzla": "2025-09-20 15:19:54 -04",
+  "timestamp_utc": "2025-09-20T19:36:03.108278",
+  "actualizado_vzla": "2025-09-20 15:36:03 -04",
   "compra_segundo": {
-    "price": 269.79,
-    "name": "PANDA1902"
+    "price": 269.699,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
-    "price": 270.1,
+    "price": 270.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 269.95,
+  "promedio": 269.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
