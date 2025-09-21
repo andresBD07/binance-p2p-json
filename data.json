@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-20T23:54:04.085171",
-  "actualizado_vzla": "2025-09-20 19:54:04 -04",
+  "timestamp_utc": "2025-09-21T03:19:21.807722",
+  "actualizado_vzla": "2025-09-20 23:19:21 -04",
   "compra_segundo": {
-    "price": 266.98,
-    "name": "SIVE_Trading"
+    "price": 268.289,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 265.352,
-    "name": "Whale-SharkCrypto"
+    "price": 264.71,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 266.17,
+  "promedio": 266.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
