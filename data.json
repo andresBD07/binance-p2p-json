@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-09-21T03:54:59.523520",
-  "actualizado_vzla": "2025-09-20 23:54:59 -04",
+  "timestamp_utc": "2025-09-21T04:39:39.736248",
+  "actualizado_vzla": "2025-09-21 00:39:39 -04",
   "compra_segundo": {
-    "price": 268.495,
-    "name": "Facd90"
+    "price": 268.7,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 264.71,
-    "name": "Inversiones-ADSC"
+    "price": 264.5,
+    "name": "Child-CambioFacil"
   },
   "promedio": 266.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
