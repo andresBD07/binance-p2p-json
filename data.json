@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T16:39:36.452539",
-  "actualizado_vzla": "2025-09-21 12:39:36 -04",
+  "timestamp_utc": "2025-09-21T16:52:08.287325",
+  "actualizado_vzla": "2025-09-21 12:52:08 -04",
   "compra_segundo": {
-    "price": 268.64,
-    "name": "M13M"
+    "price": 268.98,
+    "name": "StarCambio"
   },
   "venta_maxima": {
     "price": 269.8,
     "name": "INGENERIA_D_CAMBIO"
   },
-  "promedio": 269.22,
+  "promedio": 269.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
