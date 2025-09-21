@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T20:45:02.111816",
-  "actualizado_vzla": "2025-09-21 16:45:02 -04",
+  "timestamp_utc": "2025-09-21T20:58:13.657025",
+  "actualizado_vzla": "2025-09-21 16:58:13 -04",
   "compra_segundo": {
-    "price": 269.4,
-    "name": "Invcaf"
+    "price": 269.499,
+    "name": "RebeP2P"
   },
   "venta_maxima": {
     "price": 269.502,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.45,
+  "promedio": 269.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
