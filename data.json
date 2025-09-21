@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T22:34:00.714596",
-  "actualizado_vzla": "2025-09-21 18:34:00 -04",
+  "timestamp_utc": "2025-09-21T22:45:38.576625",
+  "actualizado_vzla": "2025-09-21 18:45:38 -04",
   "compra_segundo": {
-    "price": 268.1,
-    "name": "Reinny"
+    "price": 267.799,
+    "name": "Start_777"
   },
   "venta_maxima": {
     "price": 267.202,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 267.65,
+  "promedio": 267.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
