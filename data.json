@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T06:59:20.057256",
-  "actualizado_vzla": "2025-09-21 02:59:20 -04",
+  "timestamp_utc": "2025-09-21T07:25:45.714304",
+  "actualizado_vzla": "2025-09-21 03:25:45 -04",
   "compra_segundo": {
-    "price": 268.999,
-    "name": "AllTraders"
+    "price": 269.0,
+    "name": "GregoSwap"
   },
   "venta_maxima": {
     "price": 263.11,
     "name": "remesashispania"
   },
-  "promedio": 266.05,
+  "promedio": 266.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
