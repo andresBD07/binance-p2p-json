@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T07:51:53.652002",
-  "actualizado_vzla": "2025-09-21 03:51:53 -04",
+  "timestamp_utc": "2025-09-21T08:35:14.571696",
+  "actualizado_vzla": "2025-09-21 04:35:14 -04",
   "compra_segundo": {
-    "price": 270.0,
+    "price": 272.0,
     "name": "usdtking"
   },
   "venta_maxima": {
-    "price": 263.11,
-    "name": "remesashispania"
+    "price": 262.26,
+    "name": "ObeliscoFinance"
   },
-  "promedio": 266.56,
+  "promedio": 267.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
