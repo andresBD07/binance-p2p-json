@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T06:46:58.513361",
-  "actualizado_vzla": "2025-09-21 02:46:58 -04",
+  "timestamp_utc": "2025-09-21T06:59:20.057256",
+  "actualizado_vzla": "2025-09-21 02:59:20 -04",
   "compra_segundo": {
-    "price": 268.9,
-    "name": "Miranda "
+    "price": 268.999,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 263.11,
     "name": "remesashispania"
   },
-  "promedio": 266.0,
+  "promedio": 266.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
