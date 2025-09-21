@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T11:40:20.038814",
-  "actualizado_vzla": "2025-09-21 07:40:20 -04",
+  "timestamp_utc": "2025-09-21T11:53:52.110484",
+  "actualizado_vzla": "2025-09-21 07:53:52 -04",
   "compra_segundo": {
-    "price": 267.0,
-    "name": "alelean"
+    "price": 266.99,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 261.3,
-    "name": "Caps-Exchange"
+    "price": 262.26,
+    "name": "ObeliscoFinance"
   },
-  "promedio": 264.15,
+  "promedio": 264.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
