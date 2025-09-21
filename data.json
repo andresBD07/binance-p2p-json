@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T11:53:52.110484",
-  "actualizado_vzla": "2025-09-21 07:53:52 -04",
+  "timestamp_utc": "2025-09-21T13:04:42.657226",
+  "actualizado_vzla": "2025-09-21 09:04:42 -04",
   "compra_segundo": {
-    "price": 266.99,
-    "name": "EnLineaPagoRapido"
+    "price": 267.5,
+    "name": "Bigwhale12"
   },
   "venta_maxima": {
-    "price": 262.26,
-    "name": "ObeliscoFinance"
+    "price": 263.602,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 264.62,
+  "promedio": 265.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
