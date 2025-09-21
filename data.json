@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T13:33:53.755833",
-  "actualizado_vzla": "2025-09-21 09:33:53 -04",
+  "timestamp_utc": "2025-09-21T13:47:14.636817",
+  "actualizado_vzla": "2025-09-21 09:47:14 -04",
   "compra_segundo": {
-    "price": 267.38,
-    "name": "LTCambiosRapido"
+    "price": 267.198,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 265.002,
+    "price": 265.302,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 266.19,
+  "promedio": 266.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
