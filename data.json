@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T13:47:14.636817",
-  "actualizado_vzla": "2025-09-21 09:47:14 -04",
+  "timestamp_utc": "2025-09-21T14:00:16.088818",
+  "actualizado_vzla": "2025-09-21 10:00:16 -04",
   "compra_segundo": {
-    "price": 267.198,
-    "name": "LAULAR87"
+    "price": 267.27,
+    "name": "DPcambios"
   },
   "venta_maxima": {
-    "price": 265.302,
-    "name": "Whale-SharkCrypto"
+    "price": 265.5,
+    "name": "GIROSAMERICA"
   },
-  "promedio": 266.25,
+  "promedio": 266.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
