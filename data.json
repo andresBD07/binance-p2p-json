@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T03:19:21.807722",
-  "actualizado_vzla": "2025-09-20 23:19:21 -04",
+  "timestamp_utc": "2025-09-21T03:54:59.523520",
+  "actualizado_vzla": "2025-09-20 23:54:59 -04",
   "compra_segundo": {
-    "price": 268.289,
-    "name": "Perfect_Process"
+    "price": 268.495,
+    "name": "Facd90"
   },
   "venta_maxima": {
     "price": 264.71,
     "name": "Inversiones-ADSC"
   },
-  "promedio": 266.5,
+  "promedio": 266.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
