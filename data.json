@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T18:43:38.869104",
-  "actualizado_vzla": "2025-09-21 14:43:38 -04",
+  "timestamp_utc": "2025-09-21T18:55:17.391541",
+  "actualizado_vzla": "2025-09-21 14:55:17 -04",
   "compra_segundo": {
-    "price": 268.4,
-    "name": "trade-key"
+    "price": 268.349,
+    "name": "YReimi"
   },
   "venta_maxima": {
-    "price": 269.71,
-    "name": "hectoraltrader"
+    "price": 269.8,
+    "name": "RIVERMONEY"
   },
-  "promedio": 269.05,
+  "promedio": 269.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
