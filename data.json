@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T13:04:42.657226",
-  "actualizado_vzla": "2025-09-21 09:04:42 -04",
+  "timestamp_utc": "2025-09-21T13:33:53.755833",
+  "actualizado_vzla": "2025-09-21 09:33:53 -04",
   "compra_segundo": {
-    "price": 267.5,
-    "name": "Bigwhale12"
+    "price": 267.38,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 263.602,
+    "price": 265.002,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 265.55,
+  "promedio": 266.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
