@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T19:52:39.324557",
-  "actualizado_vzla": "2025-09-21 15:52:39 -04",
+  "timestamp_utc": "2025-09-21T20:32:16.710343",
+  "actualizado_vzla": "2025-09-21 16:32:16 -04",
   "compra_segundo": {
-    "price": 269.1,
-    "name": "Mustangp2p"
+    "price": 269.4,
+    "name": "kufadani"
   },
   "venta_maxima": {
-    "price": 270.002,
+    "price": 269.502,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.55,
+  "promedio": 269.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
