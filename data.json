@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T23:41:54.849152",
-  "actualizado_vzla": "2025-09-21 19:41:54 -04",
+  "timestamp_utc": "2025-09-21T23:55:07.975388",
+  "actualizado_vzla": "2025-09-21 19:55:07 -04",
   "compra_segundo": {
-    "price": 266.63,
-    "name": "caronita-trader24h"
+    "price": 266.5,
+    "name": "RoyMustang_"
   },
   "venta_maxima": {
-    "price": 266.002,
-    "name": "Whale-SharkCrypto"
+    "price": 266.6,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 266.32,
+  "promedio": 266.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
