@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T22:58:45.610937",
-  "actualizado_vzla": "2025-09-21 18:58:45 -04",
+  "timestamp_utc": "2025-09-21T23:28:52.267555",
+  "actualizado_vzla": "2025-09-21 19:28:52 -04",
   "compra_segundo": {
-    "price": 267.108,
-    "name": "RSTrader_"
+    "price": 266.799,
+    "name": "TradeWithAshley"
   },
   "venta_maxima": {
-    "price": 267.202,
+    "price": 266.352,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 267.15,
+  "promedio": 266.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
