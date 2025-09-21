@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T14:57:40.326454",
-  "actualizado_vzla": "2025-09-21 10:57:40 -04",
+  "timestamp_utc": "2025-09-21T15:29:26.757488",
+  "actualizado_vzla": "2025-09-21 11:29:26 -04",
   "compra_segundo": {
-    "price": 267.7,
-    "name": "El gran mayor"
+    "price": 267.8,
+    "name": "JoseSalazar29"
   },
   "venta_maxima": {
-    "price": 267.5,
-    "name": "Godisgift"
+    "price": 268.5,
+    "name": "GREEN78"
   },
-  "promedio": 267.6,
+  "promedio": 268.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
