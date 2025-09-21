@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T14:00:16.088818",
-  "actualizado_vzla": "2025-09-21 10:00:16 -04",
+  "timestamp_utc": "2025-09-21T14:31:50.804209",
+  "actualizado_vzla": "2025-09-21 10:31:50 -04",
   "compra_segundo": {
-    "price": 267.27,
-    "name": "DPcambios"
+    "price": 267.77,
+    "name": "NathPiggy"
   },
   "venta_maxima": {
-    "price": 265.5,
-    "name": "GIROSAMERICA"
+    "price": 266.502,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 266.38,
+  "promedio": 267.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
