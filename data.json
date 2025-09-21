@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T17:42:34.511911",
-  "actualizado_vzla": "2025-09-21 13:42:34 -04",
+  "timestamp_utc": "2025-09-21T17:54:48.924150",
+  "actualizado_vzla": "2025-09-21 13:54:48 -04",
   "compra_segundo": {
-    "price": 268.94,
-    "name": "JGC7"
+    "price": 268.797,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 269.2,
-    "name": "Child-CambioFacil"
+    "price": 269.6,
+    "name": "INGENERIA_D_CAMBIO"
   },
-  "promedio": 269.07,
+  "promedio": 269.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
