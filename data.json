@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T14:44:58.231694",
-  "actualizado_vzla": "2025-09-21 10:44:58 -04",
+  "timestamp_utc": "2025-09-21T14:57:40.326454",
+  "actualizado_vzla": "2025-09-21 10:57:40 -04",
   "compra_segundo": {
-    "price": 267.8,
-    "name": "PagoInstantaneoP2P"
+    "price": 267.7,
+    "name": "El gran mayor"
   },
   "venta_maxima": {
-    "price": 267.0,
+    "price": 267.5,
     "name": "Godisgift"
   },
-  "promedio": 267.4,
+  "promedio": 267.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
