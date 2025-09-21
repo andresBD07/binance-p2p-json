@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T15:43:02.605663",
-  "actualizado_vzla": "2025-09-21 11:43:02 -04",
+  "timestamp_utc": "2025-09-21T15:55:49.689515",
+  "actualizado_vzla": "2025-09-21 11:55:49 -04",
   "compra_segundo": {
-    "price": 267.89,
-    "name": "GokuExchange"
+    "price": 267.5,
+    "name": "Servicios_JT"
   },
   "venta_maxima": {
     "price": 268.6,
     "name": "JoseParedez"
   },
-  "promedio": 268.25,
+  "promedio": 268.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
