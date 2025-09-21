@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T07:38:48.830225",
-  "actualizado_vzla": "2025-09-21 03:38:48 -04",
+  "timestamp_utc": "2025-09-21T07:51:53.652002",
+  "actualizado_vzla": "2025-09-21 03:51:53 -04",
   "compra_segundo": {
-    "price": 269.0,
-    "name": "gmubb123"
+    "price": 270.0,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 263.11,
     "name": "remesashispania"
   },
-  "promedio": 266.06,
+  "promedio": 266.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
