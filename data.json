@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2025-09-21T10:34:42.003058",
-  "actualizado_vzla": "2025-09-21 06:34:42 -04",
+  "timestamp_utc": "2025-09-21T10:45:51.312843",
+  "actualizado_vzla": "2025-09-21 06:45:51 -04",
   "compra_segundo": {
-    "price": 269.99,
-    "name": "JGC7"
+    "price": 269.0,
+    "name": "gmubb123"
   },
   "venta_maxima": {
-    "price": 262.006,
+    "price": 263.001,
     "name": "SISCABALLERO"
   },
   "promedio": 266.0,
