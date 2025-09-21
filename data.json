@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-21T18:55:17.391541",
-  "actualizado_vzla": "2025-09-21 14:55:17 -04",
+  "timestamp_utc": "2025-09-21T19:23:02.470738",
+  "actualizado_vzla": "2025-09-21 15:23:02 -04",
   "compra_segundo": {
-    "price": 268.349,
-    "name": "YReimi"
+    "price": 268.25,
+    "name": "MACHUFI"
   },
   "venta_maxima": {
-    "price": 269.8,
-    "name": "RIVERMONEY"
+    "price": 269.752,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 269.07,
+  "promedio": 269.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
