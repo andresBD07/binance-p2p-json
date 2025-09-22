@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T14:41:11.625481",
-  "actualizado_vzla": "2025-09-22 10:41:11 -04",
+  "timestamp_utc": "2025-09-22T14:54:05.674344",
+  "actualizado_vzla": "2025-09-22 10:54:05 -04",
   "compra_segundo": {
-    "price": 270.794,
-    "name": "farfan21"
+    "price": 271.5,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 271.15,
-    "name": "Luigismansion "
+    "price": 272.55,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 270.97,
+  "promedio": 272.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
