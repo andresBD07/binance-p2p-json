@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T21:54:32.478023",
-  "actualizado_vzla": "2025-09-22 17:54:32 -04",
+  "timestamp_utc": "2025-09-22T22:33:11.491732",
+  "actualizado_vzla": "2025-09-22 18:33:11 -04",
   "compra_segundo": {
-    "price": 271.69,
-    "name": "HectorB"
+    "price": 270.35,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 271.002,
-    "name": "Whale-SharkCrypto"
+    "price": 272.5,
+    "name": "GREEN78"
   },
-  "promedio": 271.35,
+  "promedio": 271.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
