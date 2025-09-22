@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T11:28:39.974398",
-  "actualizado_vzla": "2025-09-22 07:28:39 -04",
+  "timestamp_utc": "2025-09-22T11:42:27.899095",
+  "actualizado_vzla": "2025-09-22 07:42:27 -04",
   "compra_segundo": {
-    "price": 267.174,
-    "name": "Orlando_1705"
+    "price": 267.49,
+    "name": "Seyo97"
   },
   "venta_maxima": {
     "price": 266.3,
     "name": "Inversiones-ADSC"
   },
-  "promedio": 266.74,
+  "promedio": 266.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
