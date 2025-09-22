@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-09-22T19:40:47.474833",
-  "actualizado_vzla": "2025-09-22 15:40:47 -04",
+  "timestamp_utc": "2025-09-22T19:53:35.583599",
+  "actualizado_vzla": "2025-09-22 15:53:35 -04",
   "compra_segundo": {
     "price": 274.0,
-    "name": "Ebenezer Flash"
+    "name": "kalamardo"
   },
   "venta_maxima": {
-    "price": 273.71,
-    "name": "-TRADER_NEMESIS-"
+    "price": 273.712,
+    "name": "Whale-SharkCrypto"
   },
   "promedio": 273.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
