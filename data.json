@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T11:55:52.361111",
-  "actualizado_vzla": "2025-09-22 07:55:52 -04",
+  "timestamp_utc": "2025-09-22T13:37:25.844221",
+  "actualizado_vzla": "2025-09-22 09:37:25 -04",
   "compra_segundo": {
-    "price": 267.3,
-    "name": "lamejoropcion"
+    "price": 269.0,
+    "name": "VictorVTC"
   },
   "venta_maxima": {
-    "price": 266.3,
-    "name": "Inversiones-ADSC"
+    "price": 270.05,
+    "name": "hectoraltrader"
   },
-  "promedio": 266.8,
+  "promedio": 269.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
