@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T23:42:06.378790",
-  "actualizado_vzla": "2025-09-22 19:42:06 -04",
+  "timestamp_utc": "2025-09-22T23:55:23.901759",
+  "actualizado_vzla": "2025-09-22 19:55:23 -04",
   "compra_segundo": {
-    "price": 270.5,
-    "name": "-DuoTrader-"
+    "price": 270.8,
+    "name": "lobotrader13"
   },
   "venta_maxima": {
-    "price": 270.5,
-    "name": "GREEN78"
+    "price": 270.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 270.5,
+  "promedio": 270.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
