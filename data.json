@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T16:56:20.805818",
-  "actualizado_vzla": "2025-09-22 12:56:20 -04",
+  "timestamp_utc": "2025-09-22T17:31:12.747748",
+  "actualizado_vzla": "2025-09-22 13:31:12 -04",
   "compra_segundo": {
-    "price": 273.0,
-    "name": "Criptotrading"
+    "price": 272.44,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 272.4,
-    "name": "To0809"
+    "price": 272.5,
+    "name": "lamentemaestra"
   },
-  "promedio": 272.7,
+  "promedio": 272.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
