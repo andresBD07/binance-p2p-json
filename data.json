@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T03:19:12.047767",
-  "actualizado_vzla": "2025-09-21 23:19:12 -04",
+  "timestamp_utc": "2025-09-22T03:56:03.492425",
+  "actualizado_vzla": "2025-09-21 23:56:03 -04",
   "compra_segundo": {
-    "price": 269.0,
-    "name": "-JIREH-"
+    "price": 269.989,
+    "name": "Dinero-Seguro"
   },
   "venta_maxima": {
-    "price": 266.6,
-    "name": "Inversiones-ADSC"
+    "price": 266.0,
+    "name": "exchangesamam22"
   },
-  "promedio": 267.8,
+  "promedio": 267.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
