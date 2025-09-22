@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T15:48:52.067368",
-  "actualizado_vzla": "2025-09-22 11:48:52 -04",
+  "timestamp_utc": "2025-09-22T16:42:51.453746",
+  "actualizado_vzla": "2025-09-22 12:42:51 -04",
   "compra_segundo": {
-    "price": 273.0,
-    "name": "REMESAFG"
+    "price": 273.05,
+    "name": "DineroRapido-23"
   },
   "venta_maxima": {
-    "price": 272.5,
-    "name": "Biyt"
+    "price": 272.202,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 272.75,
+  "promedio": 272.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
