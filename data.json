@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T19:53:35.583599",
-  "actualizado_vzla": "2025-09-22 15:53:35 -04",
+  "timestamp_utc": "2025-09-22T20:37:59.041991",
+  "actualizado_vzla": "2025-09-22 16:37:59 -04",
   "compra_segundo": {
-    "price": 274.0,
-    "name": "kalamardo"
+    "price": 273.648,
+    "name": "VGV"
   },
   "venta_maxima": {
-    "price": 273.712,
-    "name": "Whale-SharkCrypto"
+    "price": 273.2,
+    "name": "PAYRETUS"
   },
-  "promedio": 273.86,
+  "promedio": 273.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
