@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T17:31:12.747748",
-  "actualizado_vzla": "2025-09-22 13:31:12 -04",
+  "timestamp_utc": "2025-09-22T17:44:26.977697",
+  "actualizado_vzla": "2025-09-22 13:44:26 -04",
   "compra_segundo": {
-    "price": 272.44,
-    "name": "TU CAMBIO"
+    "price": 272.501,
+    "name": "maikolmai"
   },
   "venta_maxima": {
-    "price": 272.5,
-    "name": "lamentemaestra"
+    "price": 273.0,
+    "name": "Jota58"
   },
-  "promedio": 272.47,
+  "promedio": 272.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
