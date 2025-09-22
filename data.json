@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T04:41:11.850498",
-  "actualizado_vzla": "2025-09-22 00:41:11 -04",
+  "timestamp_utc": "2025-09-22T04:54:19.120156",
+  "actualizado_vzla": "2025-09-22 00:54:19 -04",
   "compra_segundo": {
-    "price": 270.68,
-    "name": "ratg1980"
+    "price": 270.75,
+    "name": "Exoticswaps"
   },
   "venta_maxima": {
     "price": 266.3,
     "name": "Coinectado"
   },
-  "promedio": 268.49,
+  "promedio": 268.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
