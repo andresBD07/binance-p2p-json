@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T20:37:59.041991",
-  "actualizado_vzla": "2025-09-22 16:37:59 -04",
+  "timestamp_utc": "2025-09-22T20:47:51.154774",
+  "actualizado_vzla": "2025-09-22 16:47:51 -04",
   "compra_segundo": {
-    "price": 273.648,
-    "name": "VGV"
+    "price": 273.5,
+    "name": "Ebenezer Flash"
   },
   "venta_maxima": {
-    "price": 273.2,
-    "name": "PAYRETUS"
+    "price": 273.0,
+    "name": "Quick Payment"
   },
-  "promedio": 273.42,
+  "promedio": 273.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
