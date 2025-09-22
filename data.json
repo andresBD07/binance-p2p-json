@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T20:47:51.154774",
-  "actualizado_vzla": "2025-09-22 16:47:51 -04",
+  "timestamp_utc": "2025-09-22T21:01:16.664768",
+  "actualizado_vzla": "2025-09-22 17:01:16 -04",
   "compra_segundo": {
-    "price": 273.5,
-    "name": "Ebenezer Flash"
+    "price": 273.348,
+    "name": "VGV"
   },
   "venta_maxima": {
     "price": 273.0,
-    "name": "Quick Payment"
+    "name": "GREEN78"
   },
-  "promedio": 273.25,
+  "promedio": 273.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
