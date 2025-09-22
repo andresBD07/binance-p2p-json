@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T09:52:40.936617",
-  "actualizado_vzla": "2025-09-22 05:52:40 -04",
+  "timestamp_utc": "2025-09-22T10:42:33.365519",
+  "actualizado_vzla": "2025-09-22 06:42:33 -04",
   "compra_segundo": {
-    "price": 270.599,
-    "name": "ECCRIPTOS"
+    "price": 269.3,
+    "name": "tech30"
   },
   "venta_maxima": {
     "price": 265.6,
     "name": "suri2023"
   },
-  "promedio": 268.1,
+  "promedio": 267.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
