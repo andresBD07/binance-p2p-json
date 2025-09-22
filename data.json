@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T22:58:55.697183",
-  "actualizado_vzla": "2025-09-22 18:58:55 -04",
+  "timestamp_utc": "2025-09-22T23:28:38.889241",
+  "actualizado_vzla": "2025-09-22 19:28:38 -04",
   "compra_segundo": {
     "price": 270.0,
-    "name": "Loyalbtc"
+    "name": "MikasaAckerman"
   },
   "venta_maxima": {
-    "price": 269.0,
-    "name": "WORL1EXCHANGE"
+    "price": 270.5,
+    "name": "GREEN78"
   },
-  "promedio": 269.5,
+  "promedio": 270.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
