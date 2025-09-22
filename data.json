@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T09:39:45.593362",
-  "actualizado_vzla": "2025-09-22 05:39:45 -04",
+  "timestamp_utc": "2025-09-22T09:52:40.936617",
+  "actualizado_vzla": "2025-09-22 05:52:40 -04",
   "compra_segundo": {
-    "price": 270.9,
-    "name": "Kleyderman_trader"
+    "price": 270.599,
+    "name": "ECCRIPTOS"
   },
   "venta_maxima": {
     "price": 265.6,
     "name": "suri2023"
   },
-  "promedio": 268.25,
+  "promedio": 268.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
