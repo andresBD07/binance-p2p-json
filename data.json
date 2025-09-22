@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T21:41:25.452222",
-  "actualizado_vzla": "2025-09-22 17:41:25 -04",
+  "timestamp_utc": "2025-09-22T21:54:32.478023",
+  "actualizado_vzla": "2025-09-22 17:54:32 -04",
   "compra_segundo": {
-    "price": 272.0,
-    "name": "ElCandidoP2P"
+    "price": 271.69,
+    "name": "HectorB"
   },
   "venta_maxima": {
-    "price": 273.0,
-    "name": "GREEN78"
+    "price": 271.002,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 272.5,
+  "promedio": 271.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
