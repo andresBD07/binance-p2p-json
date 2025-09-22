@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T03:56:03.492425",
-  "actualizado_vzla": "2025-09-21 23:56:03 -04",
+  "timestamp_utc": "2025-09-22T04:41:11.850498",
+  "actualizado_vzla": "2025-09-22 00:41:11 -04",
   "compra_segundo": {
-    "price": 269.989,
-    "name": "Dinero-Seguro"
+    "price": 270.68,
+    "name": "ratg1980"
   },
   "venta_maxima": {
-    "price": 266.0,
-    "name": "exchangesamam22"
+    "price": 266.3,
+    "name": "Coinectado"
   },
-  "promedio": 267.99,
+  "promedio": 268.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
