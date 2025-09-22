@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T17:44:26.977697",
-  "actualizado_vzla": "2025-09-22 13:44:26 -04",
+  "timestamp_utc": "2025-09-22T17:57:31.373010",
+  "actualizado_vzla": "2025-09-22 13:57:31 -04",
   "compra_segundo": {
-    "price": 272.501,
-    "name": "maikolmai"
+    "price": 272.6,
+    "name": "PayBin07"
   },
   "venta_maxima": {
-    "price": 273.0,
-    "name": "Jota58"
+    "price": 273.052,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 272.75,
+  "promedio": 272.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
