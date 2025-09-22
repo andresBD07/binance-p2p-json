@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T19:23:27.724558",
-  "actualizado_vzla": "2025-09-22 15:23:27 -04",
+  "timestamp_utc": "2025-09-22T19:40:47.474833",
+  "actualizado_vzla": "2025-09-22 15:40:47 -04",
   "compra_segundo": {
     "price": 274.0,
-    "name": "Cambios Andinos"
+    "name": "Ebenezer Flash"
   },
   "venta_maxima": {
-    "price": 273.8,
-    "name": "kamisama-"
+    "price": 273.71,
+    "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 273.9,
+  "promedio": 273.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
