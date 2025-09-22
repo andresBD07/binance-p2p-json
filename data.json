@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T05:36:00.995458",
-  "actualizado_vzla": "2025-09-22 01:36:01 -04",
+  "timestamp_utc": "2025-09-22T05:49:27.047650",
+  "actualizado_vzla": "2025-09-22 01:49:27 -04",
   "compra_segundo": {
-    "price": 270.75,
-    "name": "Exoticswaps"
+    "price": 270.9,
+    "name": "Kleyderman_trader"
   },
   "venta_maxima": {
     "price": 265.6,
     "name": "suri2023"
   },
-  "promedio": 268.18,
+  "promedio": 268.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
