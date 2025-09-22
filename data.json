@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-22T16:42:51.453746",
-  "actualizado_vzla": "2025-09-22 12:42:51 -04",
+  "timestamp_utc": "2025-09-22T16:56:20.805818",
+  "actualizado_vzla": "2025-09-22 12:56:20 -04",
   "compra_segundo": {
-    "price": 273.05,
-    "name": "DineroRapido-23"
+    "price": 273.0,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 272.202,
-    "name": "Whale-SharkCrypto"
+    "price": 272.4,
+    "name": "To0809"
   },
-  "promedio": 272.63,
+  "promedio": 272.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
