@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T21:27:22.861180",
-  "actualizado_vzla": "2025-09-23 17:27:22 -04",
+  "timestamp_utc": "2025-09-23T21:40:12.532797",
+  "actualizado_vzla": "2025-09-23 17:40:12 -04",
   "compra_segundo": {
-    "price": 281.19,
-    "name": "sheva07"
+    "price": 281.0,
+    "name": "BodegonLasPalmas"
   },
   "venta_maxima": {
-    "price": 280.101,
-    "name": "JoseParedez"
+    "price": 280.4,
+    "name": "PAYRETUS"
   },
-  "promedio": 280.65,
+  "promedio": 280.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
