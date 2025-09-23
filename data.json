@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T21:40:12.532797",
-  "actualizado_vzla": "2025-09-23 17:40:12 -04",
+  "timestamp_utc": "2025-09-23T21:53:12.814716",
+  "actualizado_vzla": "2025-09-23 17:53:12 -04",
   "compra_segundo": {
-    "price": 281.0,
-    "name": "BodegonLasPalmas"
+    "price": 281.3,
+    "name": "EL_MARA_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 280.4,
-    "name": "PAYRETUS"
+    "price": 281.0,
+    "name": "pedroba"
   },
-  "promedio": 280.7,
+  "promedio": 281.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
