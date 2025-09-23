@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T22:33:37.682588",
-  "actualizado_vzla": "2025-09-23 18:33:37 -04",
+  "timestamp_utc": "2025-09-23T22:46:31.701303",
+  "actualizado_vzla": "2025-09-23 18:46:31 -04",
   "compra_segundo": {
-    "price": 280.48,
-    "name": "CambiosFugaz"
+    "price": 280.7,
+    "name": "lian K"
   },
   "venta_maxima": {
-    "price": 280.7,
-    "name": "GREEN78"
+    "price": 281.0,
+    "name": "pedroba"
   },
-  "promedio": 280.59,
+  "promedio": 280.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
