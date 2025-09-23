@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T20:48:31.233754",
-  "actualizado_vzla": "2025-09-23 16:48:31 -04",
+  "timestamp_utc": "2025-09-23T21:27:22.861180",
+  "actualizado_vzla": "2025-09-23 17:27:22 -04",
   "compra_segundo": {
-    "price": 280.85,
-    "name": "Exchanger_Global"
+    "price": 281.19,
+    "name": "sheva07"
   },
   "venta_maxima": {
-    "price": 280.14,
-    "name": "CAMBIOSACTIVOP2P"
+    "price": 280.101,
+    "name": "JoseParedez"
   },
-  "promedio": 280.5,
+  "promedio": 280.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
