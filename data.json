@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T16:56:50.392315",
-  "actualizado_vzla": "2025-09-23 12:56:50 -04",
+  "timestamp_utc": "2025-09-23T17:32:06.385523",
+  "actualizado_vzla": "2025-09-23 13:32:06 -04",
   "compra_segundo": {
-    "price": 274.5,
-    "name": "Silv3rPkm"
+    "price": 275.55,
+    "name": "Invcaf"
   },
   "venta_maxima": {
-    "price": 274.902,
+    "price": 275.302,
     "name": "Whale-SharkCrypto"
   },
-  "promedio": 274.7,
+  "promedio": 275.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
