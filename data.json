@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T14:56:02.125550",
-  "actualizado_vzla": "2025-09-23 10:56:02 -04",
+  "timestamp_utc": "2025-09-23T15:37:11.525344",
+  "actualizado_vzla": "2025-09-23 11:37:11 -04",
   "compra_segundo": {
-    "price": 271.899,
-    "name": "LIBEROYA"
+    "price": 272.8,
+    "name": "Emmanuelli"
   },
   "venta_maxima": {
-    "price": 271.602,
-    "name": "Whale-SharkCrypto"
+    "price": 272.5,
+    "name": "JLxanges"
   },
-  "promedio": 271.75,
+  "promedio": 272.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
