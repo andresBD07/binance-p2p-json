@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T07:57:45.076742",
-  "actualizado_vzla": "2025-09-23 03:57:45 -04",
+  "timestamp_utc": "2025-09-23T08:48:04.357477",
+  "actualizado_vzla": "2025-09-23 04:48:04 -04",
   "compra_segundo": {
-    "price": 276.449,
-    "name": "User-84f7f"
+    "price": 276.2,
+    "name": "Reinny"
   },
   "venta_maxima": {
     "price": 268.8,
     "name": "Brawlcoins"
   },
-  "promedio": 272.62,
+  "promedio": 272.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
