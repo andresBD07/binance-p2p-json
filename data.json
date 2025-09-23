@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T09:47:19.845559",
-  "actualizado_vzla": "2025-09-23 05:47:19 -04",
+  "timestamp_utc": "2025-09-23T10:00:07.865763",
+  "actualizado_vzla": "2025-09-23 06:00:07 -04",
   "compra_segundo": {
-    "price": 275.485,
-    "name": "7Trinity7"
+    "price": 275.0,
+    "name": "T-Pago-rapido"
   },
   "venta_maxima": {
     "price": 268.8,
     "name": "Brawlcoins"
   },
-  "promedio": 272.14,
+  "promedio": 271.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
