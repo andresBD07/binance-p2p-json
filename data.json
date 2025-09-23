@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T03:49:04.941461",
-  "actualizado_vzla": "2025-09-22 23:49:04 -04",
+  "timestamp_utc": "2025-09-23T04:38:36.691634",
+  "actualizado_vzla": "2025-09-23 00:38:36 -04",
   "compra_segundo": {
-    "price": 273.66,
-    "name": "Jartisick"
+    "price": 274.5,
+    "name": "BelenCambios"
   },
   "venta_maxima": {
-    "price": 271.0,
-    "name": "Child-CambioFacil"
+    "price": 268.83,
+    "name": "Wis3Trading"
   },
-  "promedio": 272.33,
+  "promedio": 271.66,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
