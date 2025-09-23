@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T19:53:42.639502",
-  "actualizado_vzla": "2025-09-23 15:53:42 -04",
+  "timestamp_utc": "2025-09-23T20:35:17.530774",
+  "actualizado_vzla": "2025-09-23 16:35:17 -04",
   "compra_segundo": {
-    "price": 280.29,
-    "name": "cambiaseguro_en-5min"
+    "price": 280.8,
+    "name": "Mas_veloz_P2P"
   },
   "venta_maxima": {
-    "price": 279.502,
-    "name": "Whale-SharkCrypto"
+    "price": 279.86,
+    "name": "TuCambioSeguro10"
   },
-  "promedio": 279.9,
+  "promedio": 280.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
