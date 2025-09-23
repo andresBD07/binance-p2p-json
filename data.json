@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T23:41:59.061588",
-  "actualizado_vzla": "2025-09-23 19:41:59 -04",
+  "timestamp_utc": "2025-09-23T23:54:44.585981",
+  "actualizado_vzla": "2025-09-23 19:54:44 -04",
   "compra_segundo": {
-    "price": 281.65,
-    "name": "PagoRapido_P2P"
+    "price": 281.99,
+    "name": "ROMANCHO_"
   },
   "venta_maxima": {
     "price": 281.0,
     "name": "GREEN78"
   },
-  "promedio": 281.32,
+  "promedio": 281.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
