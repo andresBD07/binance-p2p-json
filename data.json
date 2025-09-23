@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T22:46:31.701303",
-  "actualizado_vzla": "2025-09-23 18:46:31 -04",
+  "timestamp_utc": "2025-09-23T22:59:29.608752",
+  "actualizado_vzla": "2025-09-23 18:59:29 -04",
   "compra_segundo": {
-    "price": 280.7,
-    "name": "lian K"
+    "price": 281.189,
+    "name": "Servic-Karyguz"
   },
   "venta_maxima": {
     "price": 281.0,
-    "name": "pedroba"
+    "name": "GREEN78"
   },
-  "promedio": 280.85,
+  "promedio": 281.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
