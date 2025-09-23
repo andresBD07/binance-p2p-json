@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T19:40:17.346034",
-  "actualizado_vzla": "2025-09-23 15:40:17 -04",
+  "timestamp_utc": "2025-09-23T19:53:42.639502",
+  "actualizado_vzla": "2025-09-23 15:53:42 -04",
   "compra_segundo": {
-    "price": 279.999,
-    "name": "MMarket_CL"
+    "price": 280.29,
+    "name": "cambiaseguro_en-5min"
   },
   "venta_maxima": {
-    "price": 279.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 279.502,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 279.75,
+  "promedio": 279.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
