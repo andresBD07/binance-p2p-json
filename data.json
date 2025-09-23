@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T11:55:12.519440",
-  "actualizado_vzla": "2025-09-23 07:55:12 -04",
+  "timestamp_utc": "2025-09-23T13:37:15.684504",
+  "actualizado_vzla": "2025-09-23 09:37:15 -04",
   "compra_segundo": {
-    "price": 272.4,
-    "name": "Lillie05"
+    "price": 271.3,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
-    "price": 270.001,
-    "name": "WORL1EXCHANGE"
+    "price": 270.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 271.2,
+  "promedio": 270.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
