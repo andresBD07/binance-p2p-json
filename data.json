@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T05:34:51.604464",
-  "actualizado_vzla": "2025-09-23 01:34:51 -04",
+  "timestamp_utc": "2025-09-23T05:47:28.492182",
+  "actualizado_vzla": "2025-09-23 01:47:28 -04",
   "compra_segundo": {
-    "price": 276.376,
-    "name": "RemesasCougar_wise"
+    "price": 276.35,
+    "name": "Kryptorey"
   },
   "venta_maxima": {
-    "price": 268.8,
-    "name": "Brawlcoins"
+    "price": 271.0,
+    "name": "Quick Payment"
   },
-  "promedio": 272.59,
+  "promedio": 273.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
