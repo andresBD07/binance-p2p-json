@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T15:49:19.243155",
-  "actualizado_vzla": "2025-09-23 11:49:19 -04",
+  "timestamp_utc": "2025-09-23T16:44:55.247481",
+  "actualizado_vzla": "2025-09-23 12:44:55 -04",
   "compra_segundo": {
-    "price": 272.99,
-    "name": "LordCambios"
+    "price": 274.0,
+    "name": "MONTERCCCCCCCCCCP"
   },
   "venta_maxima": {
-    "price": 272.2,
-    "name": "PAYRETUS"
+    "price": 274.502,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 272.6,
+  "promedio": 274.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
