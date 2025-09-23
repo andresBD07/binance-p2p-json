@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T20:35:17.530774",
-  "actualizado_vzla": "2025-09-23 16:35:17 -04",
+  "timestamp_utc": "2025-09-23T20:48:31.233754",
+  "actualizado_vzla": "2025-09-23 16:48:31 -04",
   "compra_segundo": {
-    "price": 280.8,
-    "name": "Mas_veloz_P2P"
+    "price": 280.85,
+    "name": "Exchanger_Global"
   },
   "venta_maxima": {
-    "price": 279.86,
-    "name": "TuCambioSeguro10"
+    "price": 280.14,
+    "name": "CAMBIOSACTIVOP2P"
   },
-  "promedio": 280.33,
+  "promedio": 280.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
