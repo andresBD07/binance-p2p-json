@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T17:54:52.639612",
-  "actualizado_vzla": "2025-09-23 13:54:52 -04",
+  "timestamp_utc": "2025-09-23T18:49:49.036615",
+  "actualizado_vzla": "2025-09-23 14:49:49 -04",
   "compra_segundo": {
-    "price": 276.099,
-    "name": "P2P-Dulce"
+    "price": 278.65,
+    "name": "Bikers23"
   },
   "venta_maxima": {
-    "price": 276.0,
-    "name": "JLxanges"
+    "price": 278.85,
+    "name": "JoseParedez"
   },
-  "promedio": 276.05,
+  "promedio": 278.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
