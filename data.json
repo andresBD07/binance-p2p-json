@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T04:38:36.691634",
-  "actualizado_vzla": "2025-09-23 00:38:36 -04",
+  "timestamp_utc": "2025-09-23T04:51:35.469785",
+  "actualizado_vzla": "2025-09-23 00:51:35 -04",
   "compra_segundo": {
-    "price": 274.5,
-    "name": "BelenCambios"
+    "price": 275.0,
+    "name": "ChaizySwap"
   },
   "venta_maxima": {
-    "price": 268.83,
-    "name": "Wis3Trading"
+    "price": 268.801,
+    "name": "SantiagoR19"
   },
-  "promedio": 271.66,
+  "promedio": 271.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
