@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T17:41:57.140821",
-  "actualizado_vzla": "2025-09-23 13:41:57 -04",
+  "timestamp_utc": "2025-09-23T17:54:52.639612",
+  "actualizado_vzla": "2025-09-23 13:54:52 -04",
   "compra_segundo": {
-    "price": 276.0,
-    "name": "CH-Intercambios"
+    "price": 276.099,
+    "name": "P2P-Dulce"
   },
   "venta_maxima": {
-    "price": 275.302,
-    "name": "Whale-SharkCrypto"
+    "price": 276.0,
+    "name": "JLxanges"
   },
-  "promedio": 275.65,
+  "promedio": 276.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
