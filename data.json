@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-23T13:37:15.684504",
-  "actualizado_vzla": "2025-09-23 09:37:15 -04",
+  "timestamp_utc": "2025-09-23T13:53:00.427119",
+  "actualizado_vzla": "2025-09-23 09:53:00 -04",
   "compra_segundo": {
-    "price": 271.3,
-    "name": "TRANSFERE-EL-AGUILA"
+    "price": 270.9,
+    "name": "TH10TRADE"
   },
   "venta_maxima": {
     "price": 270.0,
     "name": "FinanceSecure"
   },
-  "promedio": 270.65,
+  "promedio": 270.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
