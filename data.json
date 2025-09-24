@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T20:46:35.760458",
-  "actualizado_vzla": "2025-09-24 16:46:35 -04",
+  "timestamp_utc": "2025-09-24T20:59:32.018992",
+  "actualizado_vzla": "2025-09-24 16:59:32 -04",
   "compra_segundo": {
-    "price": 289.999,
-    "name": "clinicaef"
+    "price": 290.289,
+    "name": "Cmkplus"
   },
   "venta_maxima": {
-    "price": 290.0,
-    "name": "hectoraltrader"
+    "price": 290.1,
+    "name": "Jas2213"
   },
-  "promedio": 290.0,
+  "promedio": 290.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
