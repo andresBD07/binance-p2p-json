@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T14:51:14.599144",
-  "actualizado_vzla": "2025-09-24 10:51:14 -04",
+  "timestamp_utc": "2025-09-24T15:35:06.442328",
+  "actualizado_vzla": "2025-09-24 11:35:06 -04",
   "compra_segundo": {
-    "price": 283.44,
-    "name": "CambiosExpresSS"
+    "price": 286.8,
+    "name": "CAMBIOSPRO2000"
   },
   "venta_maxima": {
-    "price": 283.35,
-    "name": "被放逐的狐狸"
+    "price": 286.0,
+    "name": "GREEN78"
   },
-  "promedio": 283.39,
+  "promedio": 286.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
