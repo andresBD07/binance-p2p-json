@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T09:33:44.561379",
-  "actualizado_vzla": "2025-09-24 05:33:44 -04",
+  "timestamp_utc": "2025-09-24T09:47:57.500544",
+  "actualizado_vzla": "2025-09-24 05:47:57 -04",
   "compra_segundo": {
-    "price": 285.444,
-    "name": "Nelasurej"
+    "price": 285.99,
+    "name": "Saher7"
   },
   "venta_maxima": {
-    "price": 278.0,
-    "name": "JuanCash"
+    "price": 279.0,
+    "name": "fnog"
   },
-  "promedio": 281.72,
+  "promedio": 282.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
