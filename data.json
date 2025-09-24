@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T17:35:37.529687",
-  "actualizado_vzla": "2025-09-24 13:35:37 -04",
+  "timestamp_utc": "2025-09-24T17:48:44.629023",
+  "actualizado_vzla": "2025-09-24 13:48:44 -04",
   "compra_segundo": {
-    "price": 286.88,
-    "name": "cambiaseguro22"
+    "price": 286.8,
+    "name": "Ecapitals Services Corp"
   },
   "venta_maxima": {
-    "price": 287.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 288.0,
+    "name": "GREEN78"
   },
-  "promedio": 286.94,
+  "promedio": 287.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
