@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T14:38:08.086215",
-  "actualizado_vzla": "2025-09-24 10:38:08 -04",
+  "timestamp_utc": "2025-09-24T14:51:14.599144",
+  "actualizado_vzla": "2025-09-24 10:51:14 -04",
   "compra_segundo": {
-    "price": 282.0,
-    "name": "Remesas_AP"
+    "price": 283.44,
+    "name": "CambiosExpresSS"
   },
   "venta_maxima": {
-    "price": 282.63,
-    "name": "HAWKEYE-1"
+    "price": 283.35,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 282.31,
+  "promedio": 283.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
