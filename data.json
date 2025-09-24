@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T16:59:34.558754",
-  "actualizado_vzla": "2025-09-24 12:59:34 -04",
+  "timestamp_utc": "2025-09-24T17:35:37.529687",
+  "actualizado_vzla": "2025-09-24 13:35:37 -04",
   "compra_segundo": {
-    "price": 286.68,
-    "name": "Cripto_04"
+    "price": 286.88,
+    "name": "cambiaseguro22"
   },
   "venta_maxima": {
-    "price": 286.3,
-    "name": "GREEN78"
+    "price": 287.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 286.49,
+  "promedio": 286.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
