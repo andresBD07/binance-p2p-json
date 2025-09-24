@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T07:31:41.032514",
-  "actualizado_vzla": "2025-09-24 03:31:41 -04",
+  "timestamp_utc": "2025-09-24T07:44:31.175214",
+  "actualizado_vzla": "2025-09-24 03:44:31 -04",
   "compra_segundo": {
-    "price": 286.8,
-    "name": "AndradeGasconTITULAR"
+    "price": 286.998,
+    "name": "Kryptorey"
   },
   "venta_maxima": {
     "price": 278.3,
     "name": "suri2023"
   },
-  "promedio": 282.55,
+  "promedio": 282.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
