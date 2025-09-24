@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T22:32:47.233366",
-  "actualizado_vzla": "2025-09-24 18:32:47 -04",
+  "timestamp_utc": "2025-09-24T22:44:39.629693",
+  "actualizado_vzla": "2025-09-24 18:44:39 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "xJamgM"
+    "price": 294.795,
+    "name": "Gibit"
   },
   "venta_maxima": {
-    "price": 294.05,
-    "name": "hectoraltrader"
+    "price": 294.3,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 294.02,
+  "promedio": 294.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
