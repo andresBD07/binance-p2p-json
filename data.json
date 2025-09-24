@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T10:39:56.219641",
-  "actualizado_vzla": "2025-09-24 06:39:56 -04",
+  "timestamp_utc": "2025-09-24T10:52:39.081323",
+  "actualizado_vzla": "2025-09-24 06:52:39 -04",
   "compra_segundo": {
-    "price": 285.58,
-    "name": "tovarpro"
+    "price": 284.99,
+    "name": "GJTG84"
   },
   "venta_maxima": {
-    "price": 278.7,
+    "price": 279.5,
     "name": "CambioExpressUSDT1"
   },
-  "promedio": 282.14,
+  "promedio": 282.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
