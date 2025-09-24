@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T21:29:18.258659",
-  "actualizado_vzla": "2025-09-24 17:29:18 -04",
+  "timestamp_utc": "2025-09-24T21:42:27.517111",
+  "actualizado_vzla": "2025-09-24 17:42:27 -04",
   "compra_segundo": {
-    "price": 291.99,
-    "name": "DanielaCambios"
+    "price": 292.9,
+    "name": "BiosPraga"
   },
   "venta_maxima": {
-    "price": 292.6,
+    "price": 292.8,
     "name": "Jas2213"
   },
-  "promedio": 292.3,
+  "promedio": 292.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
