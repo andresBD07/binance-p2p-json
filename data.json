@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T05:33:55.336993",
-  "actualizado_vzla": "2025-09-24 01:33:55 -04",
+  "timestamp_utc": "2025-09-24T05:46:21.966920",
+  "actualizado_vzla": "2025-09-24 01:46:21 -04",
   "compra_segundo": {
     "price": 285.9,
     "name": "CambiosFacil"
   },
   "venta_maxima": {
-    "price": 278.909,
-    "name": "SPYG"
+    "price": 278.3,
+    "name": "suri2023"
   },
-  "promedio": 282.4,
+  "promedio": 282.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
