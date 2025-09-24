@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T17:48:44.629023",
-  "actualizado_vzla": "2025-09-24 13:48:44 -04",
+  "timestamp_utc": "2025-09-24T18:43:51.106228",
+  "actualizado_vzla": "2025-09-24 14:43:51 -04",
   "compra_segundo": {
-    "price": 286.8,
-    "name": "Ecapitals Services Corp"
+    "price": 288.88,
+    "name": "HidrotornoCA"
   },
   "venta_maxima": {
-    "price": 288.0,
-    "name": "GREEN78"
+    "price": 288.8,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 287.4,
+  "promedio": 288.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
