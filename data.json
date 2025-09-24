@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T03:10:07.612959",
-  "actualizado_vzla": "2025-09-23 23:10:07 -04",
+  "timestamp_utc": "2025-09-24T03:50:36.971708",
+  "actualizado_vzla": "2025-09-23 23:50:36 -04",
   "compra_segundo": {
-    "price": 282.9,
-    "name": "Jartisick"
+    "price": 283.0,
+    "name": "JESUS-CRIPTOS"
   },
   "venta_maxima": {
     "price": 280.0,
-    "name": "Child-CambioFacil"
+    "name": "P2P-Ricardo"
   },
-  "promedio": 281.45,
+  "promedio": 281.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
