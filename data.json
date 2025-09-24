@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T10:52:39.081323",
-  "actualizado_vzla": "2025-09-24 06:52:39 -04",
+  "timestamp_utc": "2025-09-24T11:26:17.931545",
+  "actualizado_vzla": "2025-09-24 07:26:17 -04",
   "compra_segundo": {
-    "price": 284.99,
-    "name": "GJTG84"
+    "price": 284.6,
+    "name": "LBcryto"
   },
   "venta_maxima": {
-    "price": 279.5,
-    "name": "CambioExpressUSDT1"
+    "price": 280.2,
+    "name": "JLxanges"
   },
-  "promedio": 282.25,
+  "promedio": 282.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
