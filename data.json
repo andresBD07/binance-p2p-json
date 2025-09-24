@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T13:52:18.877433",
-  "actualizado_vzla": "2025-09-24 09:52:18 -04",
+  "timestamp_utc": "2025-09-24T14:38:08.086215",
+  "actualizado_vzla": "2025-09-24 10:38:08 -04",
   "compra_segundo": {
-    "price": 281.5,
-    "name": "CambiosLaFortaleza"
+    "price": 282.0,
+    "name": "Remesas_AP"
   },
   "venta_maxima": {
-    "price": 281.5,
-    "name": "JoseParedez"
+    "price": 282.63,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 281.5,
+  "promedio": 282.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
