@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T19:40:20.837638",
-  "actualizado_vzla": "2025-09-24 15:40:20 -04",
+  "timestamp_utc": "2025-09-24T19:53:25.195758",
+  "actualizado_vzla": "2025-09-24 15:53:25 -04",
   "compra_segundo": {
-    "price": 288.9,
-    "name": "Neiker-Exchange"
+    "price": 289.0,
+    "name": "PrecozPay"
   },
   "venta_maxima": {
     "price": 288.0,
-    "name": "GREEN78"
+    "name": "FinanceSecure"
   },
-  "promedio": 288.45,
+  "promedio": 288.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
