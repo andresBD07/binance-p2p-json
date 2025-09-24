@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T06:51:59.788376",
-  "actualizado_vzla": "2025-09-24 02:51:59 -04",
+  "timestamp_utc": "2025-09-24T07:31:41.032514",
+  "actualizado_vzla": "2025-09-24 03:31:41 -04",
   "compra_segundo": {
-    "price": 285.99,
-    "name": "Saher7"
+    "price": 286.8,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
     "price": 278.3,
     "name": "suri2023"
   },
-  "promedio": 282.14,
+  "promedio": 282.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
