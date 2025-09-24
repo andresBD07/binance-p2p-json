@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T03:50:36.971708",
-  "actualizado_vzla": "2025-09-23 23:50:36 -04",
+  "timestamp_utc": "2025-09-24T04:39:00.909307",
+  "actualizado_vzla": "2025-09-24 00:39:00 -04",
   "compra_segundo": {
-    "price": 283.0,
-    "name": "JESUS-CRIPTOS"
+    "price": 283.999,
+    "name": "White_Gab19"
   },
   "venta_maxima": {
-    "price": 280.0,
-    "name": "P2P-Ricardo"
+    "price": 278.909,
+    "name": "SPYG"
   },
-  "promedio": 281.5,
+  "promedio": 281.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
