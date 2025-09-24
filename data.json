@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T11:54:40.336655",
-  "actualizado_vzla": "2025-09-24 07:54:40 -04",
+  "timestamp_utc": "2025-09-24T13:36:01.335493",
+  "actualizado_vzla": "2025-09-24 09:36:01 -04",
   "compra_segundo": {
-    "price": 283.5,
-    "name": "CERRATO23__"
+    "price": 281.1,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 280.5,
-    "name": "JLxanges"
+    "price": 280.7,
+    "name": "El-Warao"
   },
-  "promedio": 282.0,
+  "promedio": 280.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
