@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T19:53:25.195758",
-  "actualizado_vzla": "2025-09-24 15:53:25 -04",
+  "timestamp_utc": "2025-09-24T20:33:36.816994",
+  "actualizado_vzla": "2025-09-24 16:33:36 -04",
   "compra_segundo": {
-    "price": 289.0,
-    "name": "PrecozPay"
+    "price": 289.6,
+    "name": "concha7"
   },
   "venta_maxima": {
-    "price": 288.0,
-    "name": "FinanceSecure"
+    "price": 289.65,
+    "name": "hectoraltrader"
   },
-  "promedio": 288.5,
+  "promedio": 289.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
