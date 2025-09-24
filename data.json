@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T18:56:44.953463",
-  "actualizado_vzla": "2025-09-24 14:56:44 -04",
+  "timestamp_utc": "2025-09-24T19:25:55.576820",
+  "actualizado_vzla": "2025-09-24 15:25:55 -04",
   "compra_segundo": {
-    "price": 289.13,
-    "name": "Cristh957"
+    "price": 289.2,
+    "name": "BUSINESS"
   },
   "venta_maxima": {
-    "price": 288.9,
-    "name": "HAWKEYE-1"
+    "price": 288.21,
+    "name": "ComerciosLobo_"
   },
-  "promedio": 289.01,
+  "promedio": 288.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
