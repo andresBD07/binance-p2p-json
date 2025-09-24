@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T15:48:50.619498",
-  "actualizado_vzla": "2025-09-24 11:48:50 -04",
+  "timestamp_utc": "2025-09-24T16:46:26.503802",
+  "actualizado_vzla": "2025-09-24 12:46:26 -04",
   "compra_segundo": {
-    "price": 286.1,
-    "name": "Exoticswaps"
+    "price": 286.499,
+    "name": "Catalina"
   },
   "venta_maxima": {
-    "price": 286.0,
-    "name": "GREEN78"
+    "price": 286.53,
+    "name": "LaMejorTaza_MCG"
   },
-  "promedio": 286.05,
+  "promedio": 286.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
