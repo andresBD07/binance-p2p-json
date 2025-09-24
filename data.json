@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T16:46:26.503802",
-  "actualizado_vzla": "2025-09-24 12:46:26 -04",
+  "timestamp_utc": "2025-09-24T16:59:34.558754",
+  "actualizado_vzla": "2025-09-24 12:59:34 -04",
   "compra_segundo": {
-    "price": 286.499,
-    "name": "Catalina"
+    "price": 286.68,
+    "name": "Cripto_04"
   },
   "venta_maxima": {
-    "price": 286.53,
-    "name": "LaMejorTaza_MCG"
+    "price": 286.3,
+    "name": "GREEN78"
   },
-  "promedio": 286.51,
+  "promedio": 286.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
