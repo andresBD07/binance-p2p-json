@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-24T07:57:41.175615",
-  "actualizado_vzla": "2025-09-24 03:57:41 -04",
+  "timestamp_utc": "2025-09-24T08:49:51.792559",
+  "actualizado_vzla": "2025-09-24 04:49:51 -04",
   "compra_segundo": {
-    "price": 287.0,
-    "name": "J-J-exchange"
+    "price": 286.0,
+    "name": "CambioExpressUSDT1"
   },
   "venta_maxima": {
-    "price": 278.3,
-    "name": "suri2023"
+    "price": 278.0,
+    "name": "JuanCash"
   },
-  "promedio": 282.65,
+  "promedio": 282.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
