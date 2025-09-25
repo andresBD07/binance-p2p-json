@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T14:55:53.909708",
-  "actualizado_vzla": "2025-09-25 10:55:53 -04",
+  "timestamp_utc": "2025-09-25T15:39:02.876242",
+  "actualizado_vzla": "2025-09-25 11:39:02 -04",
   "compra_segundo": {
-    "price": 297.15,
-    "name": "fnog"
+    "price": 298.333,
+    "name": "TRIPLEING"
   },
   "venta_maxima": {
-    "price": 301.0,
-    "name": "Easy_change"
+    "price": 299.5,
+    "name": "GREEN78"
   },
-  "promedio": 299.07,
+  "promedio": 298.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
