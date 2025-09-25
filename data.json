@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T20:48:09.241826",
-  "actualizado_vzla": "2025-09-25 16:48:09 -04",
+  "timestamp_utc": "2025-09-25T21:24:09.886840",
+  "actualizado_vzla": "2025-09-25 17:24:09 -04",
   "compra_segundo": {
-    "price": 303.5,
-    "name": "MMIJ_Crip2023"
+    "price": 303.35,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
-    "price": 301.65,
-    "name": "ALASKA-"
+    "price": 302.62,
+    "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 302.57,
+  "promedio": 302.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
