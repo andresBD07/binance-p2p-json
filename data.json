@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T04:52:37.617644",
-  "actualizado_vzla": "2025-09-25 00:52:37 -04",
+  "timestamp_utc": "2025-09-25T05:39:45.745757",
+  "actualizado_vzla": "2025-09-25 01:39:45 -04",
   "compra_segundo": {
-    "price": 297.899,
-    "name": "Jartisick"
+    "price": 298.78,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
     "price": 292.0,
     "name": "suri2023"
   },
-  "promedio": 294.95,
+  "promedio": 295.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
