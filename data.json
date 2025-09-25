@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T13:41:31.573341",
-  "actualizado_vzla": "2025-09-25 09:41:31 -04",
+  "timestamp_utc": "2025-09-25T13:56:05.089305",
+  "actualizado_vzla": "2025-09-25 09:56:05 -04",
   "compra_segundo": {
-    "price": 295.29,
-    "name": "majog"
+    "price": 295.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 295.3,
+    "name": "El-Warao"
   },
-  "promedio": 295.14,
+  "promedio": 295.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
