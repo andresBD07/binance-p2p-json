@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T09:33:48.885380",
-  "actualizado_vzla": "2025-09-25 05:33:48 -04",
+  "timestamp_utc": "2025-09-25T09:46:31.127919",
+  "actualizado_vzla": "2025-09-25 05:46:31 -04",
   "compra_segundo": {
-    "price": 298.99,
-    "name": "BabyYoda_TRADE"
+    "price": 298.93,
+    "name": "Digitalimport"
   },
   "venta_maxima": {
     "price": 290.009,
     "name": "panchofranco1"
   },
-  "promedio": 294.5,
+  "promedio": 294.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
