@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T11:28:01.513879",
-  "actualizado_vzla": "2025-09-25 07:28:01 -04",
+  "timestamp_utc": "2025-09-25T11:41:16.370040",
+  "actualizado_vzla": "2025-09-25 07:41:16 -04",
   "compra_segundo": {
-    "price": 296.489,
-    "name": "OLDCARTO"
+    "price": 296.0,
+    "name": "Dayuda"
   },
   "venta_maxima": {
-    "price": 294.5,
+    "price": 296.0,
     "name": "TAURUS85"
   },
-  "promedio": 295.49,
+  "promedio": 296.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
