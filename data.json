@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T20:34:56.392267",
-  "actualizado_vzla": "2025-09-25 16:34:56 -04",
+  "timestamp_utc": "2025-09-25T20:48:09.241826",
+  "actualizado_vzla": "2025-09-25 16:48:09 -04",
   "compra_segundo": {
-    "price": 302.79,
-    "name": "May_trader"
+    "price": 303.5,
+    "name": "MMIJ_Crip2023"
   },
   "venta_maxima": {
-    "price": 301.2,
-    "name": "CriptoseguroAyM"
+    "price": 301.65,
+    "name": "ALASKA-"
   },
-  "promedio": 302.0,
+  "promedio": 302.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
