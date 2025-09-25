@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T21:58:55.584106",
-  "actualizado_vzla": "2025-09-25 17:58:55 -04",
+  "timestamp_utc": "2025-09-25T22:32:52.168525",
+  "actualizado_vzla": "2025-09-25 18:32:52 -04",
   "compra_segundo": {
-    "price": 302.0,
-    "name": "criptoAJ"
+    "price": 298.0,
+    "name": "Ebenezer Flash"
   },
   "venta_maxima": {
-    "price": 298.81,
-    "name": "kufadani"
+    "price": 296.001,
+    "name": "hudsonriver"
   },
-  "promedio": 300.4,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
