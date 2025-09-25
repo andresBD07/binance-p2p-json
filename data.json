@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T05:47:49.024468",
-  "actualizado_vzla": "2025-09-25 01:47:49 -04",
+  "timestamp_utc": "2025-09-25T06:50:17.893191",
+  "actualizado_vzla": "2025-09-25 02:50:17 -04",
   "compra_segundo": {
-    "price": 298.975,
-    "name": "Btctronics"
+    "price": 299.421,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "suri2023"
+    "price": 291.99,
+    "name": "Marquez25"
   },
-  "promedio": 295.49,
+  "promedio": 295.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
