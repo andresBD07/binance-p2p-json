@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T03:51:48.482412",
-  "actualizado_vzla": "2025-09-24 23:51:48 -04",
+  "timestamp_utc": "2025-09-25T04:40:23.514576",
+  "actualizado_vzla": "2025-09-25 00:40:23 -04",
   "compra_segundo": {
-    "price": 297.699,
-    "name": "Marquez25"
+    "price": 297.899,
+    "name": "Jartisick"
   },
   "venta_maxima": {
-    "price": 293.2,
-    "name": "Brawlcoins"
+    "price": 292.0,
+    "name": "suri2023"
   },
-  "promedio": 295.45,
+  "promedio": 294.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
