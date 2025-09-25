@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T21:40:31.282788",
-  "actualizado_vzla": "2025-09-25 17:40:31 -04",
+  "timestamp_utc": "2025-09-25T21:58:55.584106",
+  "actualizado_vzla": "2025-09-25 17:58:55 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "DavidCapital"
+    "price": 302.0,
+    "name": "criptoAJ"
   },
   "venta_maxima": {
-    "price": 301.753,
-    "name": "hudsonriver"
+    "price": 298.81,
+    "name": "kufadani"
   },
-  "promedio": 302.38,
+  "promedio": 300.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
