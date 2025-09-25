@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T23:28:43.299430",
-  "actualizado_vzla": "2025-09-25 19:28:43 -04",
+  "timestamp_utc": "2025-09-25T23:42:13.499371",
+  "actualizado_vzla": "2025-09-25 19:42:13 -04",
   "compra_segundo": {
-    "price": 295.09,
-    "name": "Traderp2pVzla"
+    "price": 294.67,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
-    "price": 292.802,
-    "name": "VR46-"
+    "price": 293.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 293.95,
+  "promedio": 293.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
