@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T22:32:52.168525",
-  "actualizado_vzla": "2025-09-25 18:32:52 -04",
+  "timestamp_utc": "2025-09-25T22:46:01.697012",
+  "actualizado_vzla": "2025-09-25 18:46:01 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "Ebenezer Flash"
+    "price": 297.0,
+    "name": "MikasaAckerman"
   },
   "venta_maxima": {
-    "price": 296.001,
-    "name": "hudsonriver"
+    "price": 294.282,
+    "name": "RONIN_COIN"
   },
-  "promedio": 297.0,
+  "promedio": 295.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
