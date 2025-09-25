@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T09:46:31.127919",
-  "actualizado_vzla": "2025-09-25 05:46:31 -04",
+  "timestamp_utc": "2025-09-25T09:59:44.696203",
+  "actualizado_vzla": "2025-09-25 05:59:44 -04",
   "compra_segundo": {
-    "price": 298.93,
-    "name": "Digitalimport"
+    "price": 298.0,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 290.009,
-    "name": "panchofranco1"
+    "price": 292.0,
+    "name": "BigIron-"
   },
-  "promedio": 294.47,
+  "promedio": 295.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
