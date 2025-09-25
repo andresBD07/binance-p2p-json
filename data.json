@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T10:41:49.526778",
-  "actualizado_vzla": "2025-09-25 06:41:49 -04",
+  "timestamp_utc": "2025-09-25T10:55:19.499359",
+  "actualizado_vzla": "2025-09-25 06:55:19 -04",
   "compra_segundo": {
-    "price": 296.9,
-    "name": "marote28"
+    "price": 296.6,
+    "name": "INVERSIONES-RCCH"
   },
   "venta_maxima": {
-    "price": 293.005,
-    "name": "CAMBIOCARVAJAL"
+    "price": 294.0,
+    "name": "Exchangev4"
   },
-  "promedio": 294.95,
+  "promedio": 295.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
