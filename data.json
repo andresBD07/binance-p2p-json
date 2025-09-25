@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T09:59:44.696203",
-  "actualizado_vzla": "2025-09-25 05:59:44 -04",
+  "timestamp_utc": "2025-09-25T10:41:49.526778",
+  "actualizado_vzla": "2025-09-25 06:41:49 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "PrimeCripto"
+    "price": 296.9,
+    "name": "marote28"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "BigIron-"
+    "price": 293.005,
+    "name": "CAMBIOCARVAJAL"
   },
-  "promedio": 295.0,
+  "promedio": 294.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
