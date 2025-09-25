@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T07:58:01.602792",
-  "actualizado_vzla": "2025-09-25 03:58:01 -04",
+  "timestamp_utc": "2025-09-25T08:48:48.686049",
+  "actualizado_vzla": "2025-09-25 04:48:48 -04",
   "compra_segundo": {
-    "price": 299.9,
-    "name": "Imperiocrypto_co"
+    "price": 299.75,
+    "name": "ELpapaCripto"
   },
   "venta_maxima": {
     "price": 290.12,
     "name": "willbyruz"
   },
-  "promedio": 295.01,
+  "promedio": 294.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
