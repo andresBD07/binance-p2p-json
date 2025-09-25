@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T11:54:46.027034",
-  "actualizado_vzla": "2025-09-25 07:54:46 -04",
+  "timestamp_utc": "2025-09-25T13:41:31.573341",
+  "actualizado_vzla": "2025-09-25 09:41:31 -04",
   "compra_segundo": {
-    "price": 296.0,
-    "name": "CambiosDeLaVega"
+    "price": 295.29,
+    "name": "majog"
   },
   "venta_maxima": {
     "price": 295.0,
-    "name": "Inversiones-ADSC"
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 295.5,
+  "promedio": 295.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
