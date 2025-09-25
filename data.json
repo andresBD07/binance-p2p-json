@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T18:51:32.463575",
-  "actualizado_vzla": "2025-09-25 14:51:32 -04",
+  "timestamp_utc": "2025-09-25T19:24:44.554860",
+  "actualizado_vzla": "2025-09-25 15:24:44 -04",
   "compra_segundo": {
-    "price": 303.9,
-    "name": "Al3ss0"
+    "price": 299.7,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
-    "price": 306.0,
+    "price": 298.5,
     "name": "forex25"
   },
-  "promedio": 304.95,
+  "promedio": 299.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
