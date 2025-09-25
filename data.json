@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T23:42:13.499371",
-  "actualizado_vzla": "2025-09-25 19:42:13 -04",
+  "timestamp_utc": "2025-09-25T23:54:56.893734",
+  "actualizado_vzla": "2025-09-25 19:54:56 -04",
   "compra_segundo": {
-    "price": 294.67,
-    "name": "IEvangelineI"
+    "price": 294.29,
+    "name": "Cambios_MH2107"
   },
   "venta_maxima": {
     "price": 293.0,
     "name": "hectoraltrader"
   },
-  "promedio": 293.84,
+  "promedio": 293.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
