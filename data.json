@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T21:24:09.886840",
-  "actualizado_vzla": "2025-09-25 17:24:09 -04",
+  "timestamp_utc": "2025-09-25T21:40:31.282788",
+  "actualizado_vzla": "2025-09-25 17:40:31 -04",
   "compra_segundo": {
-    "price": 303.35,
-    "name": "RAULITO2809"
+    "price": 303.0,
+    "name": "DavidCapital"
   },
   "venta_maxima": {
-    "price": 302.62,
-    "name": "-TRADER_NEMESIS-"
+    "price": 301.753,
+    "name": "hudsonriver"
   },
-  "promedio": 302.99,
+  "promedio": 302.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
