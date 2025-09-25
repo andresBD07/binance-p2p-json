@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T10:55:19.499359",
-  "actualizado_vzla": "2025-09-25 06:55:19 -04",
+  "timestamp_utc": "2025-09-25T11:28:01.513879",
+  "actualizado_vzla": "2025-09-25 07:28:01 -04",
   "compra_segundo": {
-    "price": 296.6,
-    "name": "INVERSIONES-RCCH"
+    "price": 296.489,
+    "name": "OLDCARTO"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "Exchangev4"
+    "price": 294.5,
+    "name": "TAURUS85"
   },
-  "promedio": 295.3,
+  "promedio": 295.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
