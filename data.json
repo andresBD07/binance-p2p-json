@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-25T19:53:58.107220",
-  "actualizado_vzla": "2025-09-25 15:53:58 -04",
+  "timestamp_utc": "2025-09-25T20:34:56.392267",
+  "actualizado_vzla": "2025-09-25 16:34:56 -04",
   "compra_segundo": {
-    "price": 298.3,
-    "name": "JaviSwap"
+    "price": 302.79,
+    "name": "May_trader"
   },
   "venta_maxima": {
-    "price": 298.3,
-    "name": "OTCLEGEND"
+    "price": 301.2,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 298.3,
+  "promedio": 302.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
