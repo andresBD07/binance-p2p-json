@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T20:58:50.065228",
-  "actualizado_vzla": "2025-09-26 16:58:50 -04",
+  "timestamp_utc": "2025-09-26T21:28:35.192555",
+  "actualizado_vzla": "2025-09-26 17:28:35 -04",
   "compra_segundo": {
-    "price": 296.18,
-    "name": "CIFRANAUTA"
+    "price": 296.0,
+    "name": "RiddleTrader1998"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "JLxanges"
+    "price": 296.3,
+    "name": "TAURUS85"
   },
-  "promedio": 295.89,
+  "promedio": 296.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
