@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T14:59:38.605767",
-  "actualizado_vzla": "2025-09-26 10:59:38 -04",
+  "timestamp_utc": "2025-09-26T15:33:31.389560",
+  "actualizado_vzla": "2025-09-26 11:33:31 -04",
   "compra_segundo": {
-    "price": 297.199,
-    "name": "nuvis171905"
+    "price": 297.298,
+    "name": "BraianMay"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "lamentemaestra"
+    "price": 296.75,
+    "name": "Kingtrade5555"
   },
-  "promedio": 297.1,
+  "promedio": 297.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
