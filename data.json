@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T09:36:12.129362",
-  "actualizado_vzla": "2025-09-26 05:36:12 -04",
+  "timestamp_utc": "2025-09-26T09:49:45.789534",
+  "actualizado_vzla": "2025-09-26 05:49:45 -04",
   "compra_segundo": {
-    "price": 304.0,
-    "name": "RecargasYJuegosVnzla"
+    "price": 303.65,
+    "name": "MasRapidoMasSeguro"
   },
   "venta_maxima": {
     "price": 294.2,
     "name": "Cambios_Jear"
   },
-  "promedio": 299.1,
+  "promedio": 298.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
