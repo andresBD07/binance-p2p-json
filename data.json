@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T07:56:08.914096",
-  "actualizado_vzla": "2025-09-26 03:56:08 -04",
+  "timestamp_utc": "2025-09-26T08:47:42.625709",
+  "actualizado_vzla": "2025-09-26 04:47:42 -04",
   "compra_segundo": {
-    "price": 304.699,
-    "name": "Alfonzzo"
+    "price": 304.0,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 294.2,
     "name": "Cambios_Jear"
   },
-  "promedio": 299.45,
+  "promedio": 299.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
