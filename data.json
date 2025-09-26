@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T19:40:17.855215",
-  "actualizado_vzla": "2025-09-26 15:40:17 -04",
+  "timestamp_utc": "2025-09-26T19:53:42.842049",
+  "actualizado_vzla": "2025-09-26 15:53:42 -04",
   "compra_segundo": {
-    "price": 294.995,
-    "name": "Krypto-Handeln"
+    "price": 295.28,
+    "name": "-JOGASA-"
   },
   "venta_maxima": {
-    "price": 295.5,
+    "price": 295.61,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 295.25,
+  "promedio": 295.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
