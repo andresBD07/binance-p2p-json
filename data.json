@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T14:46:54.364413",
-  "actualizado_vzla": "2025-09-26 10:46:54 -04",
+  "timestamp_utc": "2025-09-26T14:59:38.605767",
+  "actualizado_vzla": "2025-09-26 10:59:38 -04",
   "compra_segundo": {
-    "price": 296.385,
-    "name": "JesusCrip"
+    "price": 297.199,
+    "name": "nuvis171905"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "PAYRETUS"
+    "price": 297.0,
+    "name": "lamentemaestra"
   },
-  "promedio": 296.94,
+  "promedio": 297.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
