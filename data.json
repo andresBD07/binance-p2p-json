@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T16:46:22.441856",
-  "actualizado_vzla": "2025-09-26 12:46:22 -04",
+  "timestamp_utc": "2025-09-26T16:59:17.331986",
+  "actualizado_vzla": "2025-09-26 12:59:17 -04",
   "compra_segundo": {
-    "price": 297.18,
-    "name": "Cripto_04"
+    "price": 297.0,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 297.9,
-    "name": "aerm38"
+    "price": 296.2,
+    "name": "Miranda "
   },
-  "promedio": 297.54,
+  "promedio": 296.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
