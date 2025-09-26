@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T19:24:18.890150",
-  "actualizado_vzla": "2025-09-26 15:24:18 -04",
+  "timestamp_utc": "2025-09-26T19:40:17.855215",
+  "actualizado_vzla": "2025-09-26 15:40:17 -04",
   "compra_segundo": {
-    "price": 294.799,
-    "name": "R0ckandR0ll"
+    "price": 294.995,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
-    "price": 295.3,
+    "price": 295.5,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 295.05,
+  "promedio": 295.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
