@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T15:33:31.389560",
-  "actualizado_vzla": "2025-09-26 11:33:31 -04",
+  "timestamp_utc": "2025-09-26T15:46:58.817645",
+  "actualizado_vzla": "2025-09-26 11:46:58 -04",
   "compra_segundo": {
-    "price": 297.298,
-    "name": "BraianMay"
+    "price": 297.499,
+    "name": "CAMBIOEXPRES-JG"
   },
   "venta_maxima": {
-    "price": 296.75,
-    "name": "Kingtrade5555"
+    "price": 297.0,
+    "name": "PAYRETUS"
   },
-  "promedio": 297.02,
+  "promedio": 297.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
