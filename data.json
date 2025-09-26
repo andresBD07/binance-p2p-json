@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T09:49:45.789534",
-  "actualizado_vzla": "2025-09-26 05:49:45 -04",
+  "timestamp_utc": "2025-09-26T10:39:30.150190",
+  "actualizado_vzla": "2025-09-26 06:39:30 -04",
   "compra_segundo": {
-    "price": 303.65,
-    "name": "MasRapidoMasSeguro"
+    "price": 300.38,
+    "name": "CAMBIOSVIP_A1"
   },
   "venta_maxima": {
-    "price": 294.2,
-    "name": "Cambios_Jear"
+    "price": 296.0,
+    "name": "ARKADB"
   },
-  "promedio": 298.92,
+  "promedio": 298.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
