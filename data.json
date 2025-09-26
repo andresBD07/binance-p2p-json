@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-26T11:40:55.591424",
-  "actualizado_vzla": "2025-09-26 07:40:55 -04",
+  "timestamp_utc": "2025-09-26T11:54:07.086881",
+  "actualizado_vzla": "2025-09-26 07:54:07 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "andrsn"
+    "price": 300.3,
+    "name": "RM-CAMBIOS"
   },
   "venta_maxima": {
     "price": 298.1,
     "name": "kamisama-"
   },
-  "promedio": 299.05,
+  "promedio": 299.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
