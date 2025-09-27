@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T23:27:29.602260",
-  "actualizado_vzla": "2025-09-27 19:27:29 -04",
+  "timestamp_utc": "2025-09-27T23:40:55.891578",
+  "actualizado_vzla": "2025-09-27 19:40:55 -04",
   "compra_segundo": {
-    "price": 285.0,
-    "name": "cambiosaular"
+    "price": 284.999,
+    "name": "Leogabymary3000"
   },
   "venta_maxima": {
-    "price": 284.0,
-    "name": "hectoraltrader"
+    "price": 283.5,
+    "name": "Brawlcoins"
   },
-  "promedio": 284.5,
+  "promedio": 284.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
