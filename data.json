@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T11:58:13.973309",
-  "actualizado_vzla": "2025-09-27 07:58:13 -04",
+  "timestamp_utc": "2025-09-27T13:07:31.888871",
+  "actualizado_vzla": "2025-09-27 09:07:31 -04",
   "compra_segundo": {
-    "price": 296.42,
-    "name": "RushPay"
+    "price": 295.08,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 293.62,
-    "name": "RONIN_COIN"
+    "price": 294.3,
+    "name": "aerm38"
   },
-  "promedio": 295.02,
+  "promedio": 294.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
