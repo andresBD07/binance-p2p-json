@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T16:56:17.561708",
-  "actualizado_vzla": "2025-09-27 12:56:17 -04",
+  "timestamp_utc": "2025-09-27T17:32:43.402707",
+  "actualizado_vzla": "2025-09-27 13:32:43 -04",
   "compra_segundo": {
-    "price": 289.95,
-    "name": "SIVE_Trading"
+    "price": 289.399,
+    "name": "Yourcoins"
   },
   "venta_maxima": {
     "price": 290.0,
     "name": "FinanceSecure"
   },
-  "promedio": 289.98,
+  "promedio": 289.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
