@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T20:56:51.570740",
-  "actualizado_vzla": "2025-09-27 16:56:51 -04",
+  "timestamp_utc": "2025-09-27T21:28:16.570688",
+  "actualizado_vzla": "2025-09-27 17:28:16 -04",
   "compra_segundo": {
-    "price": 288.89,
-    "name": "SnixCryptoFinance"
+    "price": 288.589,
+    "name": "IBEROGESTION"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "Neiker-Exchange"
+    "price": 287.611,
+    "name": "hudsonriver"
   },
-  "promedio": 289.94,
+  "promedio": 288.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
