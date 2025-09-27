@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T21:53:28.463575",
-  "actualizado_vzla": "2025-09-27 17:53:28 -04",
+  "timestamp_utc": "2025-09-27T22:31:30.383400",
+  "actualizado_vzla": "2025-09-27 18:31:30 -04",
   "compra_segundo": {
-    "price": 288.0,
-    "name": "RJ_SaveExchange"
+    "price": 286.02,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 287.5,
-    "name": "TOPlevelS"
+    "price": 286.57,
+    "name": "ClandestinoX"
   },
-  "promedio": 287.75,
+  "promedio": 286.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
