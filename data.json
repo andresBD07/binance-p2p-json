@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T18:46:47.855168",
-  "actualizado_vzla": "2025-09-27 14:46:47 -04",
+  "timestamp_utc": "2025-09-27T18:59:30.224648",
+  "actualizado_vzla": "2025-09-27 14:59:30 -04",
   "compra_segundo": {
-    "price": 288.38,
-    "name": "ALLexchange_vzla"
+    "price": 288.32,
+    "name": "fundatrade"
   },
   "venta_maxima": {
     "price": 290.0,
     "name": "FinanceSecure"
   },
-  "promedio": 289.19,
+  "promedio": 289.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
