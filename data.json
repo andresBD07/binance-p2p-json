@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T03:44:44.169079",
-  "actualizado_vzla": "2025-09-26 23:44:44 -04",
+  "timestamp_utc": "2025-09-27T03:57:38.514101",
+  "actualizado_vzla": "2025-09-26 23:57:38 -04",
   "compra_segundo": {
-    "price": 296.49,
-    "name": "RushPay"
+    "price": 296.28,
+    "name": "SantiagoR19"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "RONIN_COIN"
+    "price": 294.5,
+    "name": "Coinectado"
   },
-  "promedio": 295.75,
+  "promedio": 295.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
