@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T17:32:43.402707",
-  "actualizado_vzla": "2025-09-27 13:32:43 -04",
+  "timestamp_utc": "2025-09-27T17:45:24.214351",
+  "actualizado_vzla": "2025-09-27 13:45:24 -04",
   "compra_segundo": {
-    "price": 289.399,
-    "name": "Yourcoins"
+    "price": 289.1,
+    "name": "GokuExchange"
   },
   "venta_maxima": {
     "price": 290.0,
     "name": "FinanceSecure"
   },
-  "promedio": 289.7,
+  "promedio": 289.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
