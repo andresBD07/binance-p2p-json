@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T17:58:45.952131",
-  "actualizado_vzla": "2025-09-27 13:58:45 -04",
+  "timestamp_utc": "2025-09-27T18:46:47.855168",
+  "actualizado_vzla": "2025-09-27 14:46:47 -04",
   "compra_segundo": {
-    "price": 288.96,
-    "name": "EnLineaPagoRapido"
+    "price": 288.38,
+    "name": "ALLexchange_vzla"
   },
   "venta_maxima": {
     "price": 290.0,
     "name": "FinanceSecure"
   },
-  "promedio": 289.48,
+  "promedio": 289.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
