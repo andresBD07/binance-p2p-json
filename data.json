@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T04:52:40.743894",
-  "actualizado_vzla": "2025-09-27 00:52:40 -04",
+  "timestamp_utc": "2025-09-27T05:32:06.778338",
+  "actualizado_vzla": "2025-09-27 01:32:06 -04",
   "compra_segundo": {
-    "price": 296.888,
-    "name": "Jartisick"
+    "price": 297.49,
+    "name": "Yoinered"
   },
   "venta_maxima": {
     "price": 294.5,
     "name": "Coinectado"
   },
-  "promedio": 295.69,
+  "promedio": 296.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
