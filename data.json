@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T22:57:12.558849",
-  "actualizado_vzla": "2025-09-27 18:57:12 -04",
+  "timestamp_utc": "2025-09-27T23:27:29.602260",
+  "actualizado_vzla": "2025-09-27 19:27:29 -04",
   "compra_segundo": {
-    "price": 285.221,
-    "name": "CambiaFast"
+    "price": 285.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 283.1,
-    "name": "Budyzz"
+    "price": 284.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 284.16,
+  "promedio": 284.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
