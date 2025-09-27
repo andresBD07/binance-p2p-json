@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T09:27:21.972973",
-  "actualizado_vzla": "2025-09-27 05:27:21 -04",
+  "timestamp_utc": "2025-09-27T09:40:03.054827",
+  "actualizado_vzla": "2025-09-27 05:40:03 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "JokerSwap"
+    "price": 297.2,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
     "price": 294.5,
     "name": "Coinectado"
   },
-  "promedio": 295.75,
+  "promedio": 295.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
