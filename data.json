@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-09-27T15:46:20.252672",
-  "actualizado_vzla": "2025-09-27 11:46:20 -04",
+  "timestamp_utc": "2025-09-27T15:59:56.044366",
+  "actualizado_vzla": "2025-09-27 11:59:56 -04",
   "compra_segundo": {
     "price": 291.0,
-    "name": "Herecambios"
+    "name": "_AliExpress_"
   },
   "venta_maxima": {
     "price": 290.0,
-    "name": "JoseParedez"
+    "name": "FinanceSecure"
   },
   "promedio": 290.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
