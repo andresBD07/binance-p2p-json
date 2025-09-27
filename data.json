@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T23:40:55.891578",
-  "actualizado_vzla": "2025-09-27 19:40:55 -04",
+  "timestamp_utc": "2025-09-27T23:53:41.025820",
+  "actualizado_vzla": "2025-09-27 19:53:41 -04",
   "compra_segundo": {
-    "price": 284.999,
-    "name": "Leogabymary3000"
+    "price": 285.0,
+    "name": "Dayuda"
   },
   "venta_maxima": {
-    "price": 283.5,
-    "name": "Brawlcoins"
+    "price": 283.7,
+    "name": "GREEN78"
   },
-  "promedio": 284.25,
+  "promedio": 284.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
