@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T03:04:22.752234",
-  "actualizado_vzla": "2025-09-26 23:04:22 -04",
+  "timestamp_utc": "2025-09-27T03:44:44.169079",
+  "actualizado_vzla": "2025-09-26 23:44:44 -04",
   "compra_segundo": {
-    "price": 296.39,
-    "name": "Exchange-172"
+    "price": 296.49,
+    "name": "RushPay"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "hectoraltrader"
+    "price": 295.0,
+    "name": "RONIN_COIN"
   },
-  "promedio": 295.94,
+  "promedio": 295.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
