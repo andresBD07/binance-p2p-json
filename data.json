@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T11:28:25.022561",
-  "actualizado_vzla": "2025-09-27 07:28:25 -04",
+  "timestamp_utc": "2025-09-27T11:40:40.439491",
+  "actualizado_vzla": "2025-09-27 07:40:40 -04",
   "compra_segundo": {
-    "price": 296.42,
-    "name": "RushPay"
+    "price": 296.4,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 292.85,
-    "name": "INGENERIA_D_CAMBIO"
+    "price": 293.03,
+    "name": "RONIN_COIN"
   },
-  "promedio": 294.63,
+  "promedio": 294.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
