@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T15:01:22.598803",
-  "actualizado_vzla": "2025-09-27 11:01:22 -04",
+  "timestamp_utc": "2025-09-27T15:33:27.141009",
+  "actualizado_vzla": "2025-09-27 11:33:27 -04",
   "compra_segundo": {
-    "price": 290.19,
-    "name": "EXCHANGE-PRO"
+    "price": 290.95,
+    "name": "Jin-Woo-Sung"
   },
   "venta_maxima": {
-    "price": 289.0,
-    "name": "FinanceSecure"
+    "price": 289.8,
+    "name": "RONIN_COIN"
   },
-  "promedio": 289.6,
+  "promedio": 290.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
