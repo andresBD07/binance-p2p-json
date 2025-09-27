@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T21:28:16.570688",
-  "actualizado_vzla": "2025-09-27 17:28:16 -04",
+  "timestamp_utc": "2025-09-27T21:40:08.201805",
+  "actualizado_vzla": "2025-09-27 17:40:08 -04",
   "compra_segundo": {
-    "price": 288.589,
-    "name": "IBEROGESTION"
+    "price": 288.48,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 287.611,
-    "name": "hudsonriver"
+    "price": 287.1,
+    "name": "TOPlevelS"
   },
-  "promedio": 288.1,
+  "promedio": 287.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
