@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T21:40:08.201805",
-  "actualizado_vzla": "2025-09-27 17:40:08 -04",
+  "timestamp_utc": "2025-09-27T21:53:28.463575",
+  "actualizado_vzla": "2025-09-27 17:53:28 -04",
   "compra_segundo": {
-    "price": 288.48,
-    "name": "Traderp2pVzla"
+    "price": 288.0,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
-    "price": 287.1,
+    "price": 287.5,
     "name": "TOPlevelS"
   },
-  "promedio": 287.79,
+  "promedio": 287.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
