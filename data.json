@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T15:59:56.044366",
-  "actualizado_vzla": "2025-09-27 11:59:56 -04",
+  "timestamp_utc": "2025-09-27T16:43:49.278838",
+  "actualizado_vzla": "2025-09-27 12:43:49 -04",
   "compra_segundo": {
-    "price": 291.0,
-    "name": "_AliExpress_"
+    "price": 290.1,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
     "price": 290.0,
     "name": "FinanceSecure"
   },
-  "promedio": 290.5,
+  "promedio": 290.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
