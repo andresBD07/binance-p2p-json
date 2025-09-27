@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T10:46:02.667570",
-  "actualizado_vzla": "2025-09-27 06:46:02 -04",
+  "timestamp_utc": "2025-09-27T10:58:55.755300",
+  "actualizado_vzla": "2025-09-27 06:58:55 -04",
   "compra_segundo": {
-    "price": 296.5,
-    "name": "水猴"
+    "price": 296.0,
+    "name": "5k-trader"
   },
   "venta_maxima": {
-    "price": 294.5,
-    "name": "Coinectado"
+    "price": 292.7,
+    "name": "INGENERIA_D_CAMBIO"
   },
-  "promedio": 295.5,
+  "promedio": 294.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
