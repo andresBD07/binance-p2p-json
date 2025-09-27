@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T14:36:04.146642",
-  "actualizado_vzla": "2025-09-27 10:36:04 -04",
+  "timestamp_utc": "2025-09-27T14:49:05.185680",
+  "actualizado_vzla": "2025-09-27 10:49:05 -04",
   "compra_segundo": {
-    "price": 291.5,
-    "name": "JMCrip26"
+    "price": 290.8,
+    "name": "TUcambioPreferido"
   },
   "venta_maxima": {
-    "price": 290.7,
+    "price": 288.5,
     "name": "aerm38"
   },
-  "promedio": 291.1,
+  "promedio": 289.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
