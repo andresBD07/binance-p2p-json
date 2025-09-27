@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T14:49:05.185680",
-  "actualizado_vzla": "2025-09-27 10:49:05 -04",
+  "timestamp_utc": "2025-09-27T15:01:22.598803",
+  "actualizado_vzla": "2025-09-27 11:01:22 -04",
   "compra_segundo": {
-    "price": 290.8,
-    "name": "TUcambioPreferido"
+    "price": 290.19,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 288.5,
-    "name": "aerm38"
+    "price": 289.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 289.65,
+  "promedio": 289.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
