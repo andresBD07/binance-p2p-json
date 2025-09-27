@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-27T05:32:06.778338",
-  "actualizado_vzla": "2025-09-27 01:32:06 -04",
+  "timestamp_utc": "2025-09-27T05:44:31.511763",
+  "actualizado_vzla": "2025-09-27 01:44:31 -04",
   "compra_segundo": {
-    "price": 297.49,
-    "name": "Yoinered"
+    "price": 297.4,
+    "name": "LaMaravillaSpa"
   },
   "venta_maxima": {
     "price": 294.5,
     "name": "Coinectado"
   },
-  "promedio": 296.0,
+  "promedio": 295.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
