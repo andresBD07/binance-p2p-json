@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T16:54:18.742654",
-  "actualizado_vzla": "2025-09-28 12:54:18 -04",
+  "timestamp_utc": "2025-09-28T17:16:54.909219",
+  "actualizado_vzla": "2025-09-28 13:16:54 -04",
   "compra_segundo": {
-    "price": 289.999,
-    "name": "CambiosFlassh"
+    "price": 290.34,
+    "name": "XckSeguros"
   },
   "venta_maxima": {
-    "price": 290.0,
-    "name": "Child-CambioFacil"
+    "price": 291.1,
+    "name": "aerm38"
   },
-  "promedio": 290.0,
+  "promedio": 290.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
