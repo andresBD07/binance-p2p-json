@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T12:49:11.032682",
-  "actualizado_vzla": "2025-09-28 08:49:11 -04",
+  "timestamp_utc": "2025-09-28T13:16:08.117668",
+  "actualizado_vzla": "2025-09-28 09:16:08 -04",
   "compra_segundo": {
-    "price": 287.0,
-    "name": "Crypto_InvestVEN"
+    "price": 287.418,
+    "name": "labebe2222"
   },
   "venta_maxima": {
-    "price": 284.601,
-    "name": "rParadas"
+    "price": 284.35,
+    "name": "aerm38"
   },
-  "promedio": 285.8,
+  "promedio": 285.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
