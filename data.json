@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T11:32:41.718608",
-  "actualizado_vzla": "2025-09-28 07:32:41 -04",
+  "timestamp_utc": "2025-09-28T11:45:45.604489",
+  "actualizado_vzla": "2025-09-28 07:45:45 -04",
   "compra_segundo": {
-    "price": 288.1,
-    "name": "AllTraders"
+    "price": 288.0,
+    "name": "CarlosBelloTrader "
   },
   "venta_maxima": {
-    "price": 283.0,
-    "name": "Justcrip18"
+    "price": 283.2,
+    "name": "CORPORACION_YYSE-25"
   },
-  "promedio": 285.55,
+  "promedio": 285.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
