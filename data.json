@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T21:17:46.172233",
-  "actualizado_vzla": "2025-09-28 17:17:46 -04",
+  "timestamp_utc": "2025-09-28T21:30:42.570156",
+  "actualizado_vzla": "2025-09-28 17:30:42 -04",
   "compra_segundo": {
-    "price": 286.9,
-    "name": "BusinessWoman7"
+    "price": 286.8,
+    "name": "Millaluz"
   },
   "venta_maxima": {
-    "price": 286.6,
-    "name": "Child-CambioFacil"
+    "price": 287.1,
+    "name": "LuxuryExchanges"
   },
-  "promedio": 286.75,
+  "promedio": 286.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
