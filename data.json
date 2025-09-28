@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T17:43:27.691397",
-  "actualizado_vzla": "2025-09-28 13:43:27 -04",
+  "timestamp_utc": "2025-09-28T17:56:16.156628",
+  "actualizado_vzla": "2025-09-28 13:56:16 -04",
   "compra_segundo": {
-    "price": 290.599,
-    "name": "luiggiTrader"
+    "price": 290.39,
+    "name": "EdwardJMT"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "FinanceSecure"
+    "price": 289.0,
+    "name": "WORL1EXCHANGE"
   },
-  "promedio": 290.8,
+  "promedio": 289.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
