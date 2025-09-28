@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T16:23:32.312797",
-  "actualizado_vzla": "2025-09-28 12:23:32 -04",
+  "timestamp_utc": "2025-09-28T16:40:58.063371",
+  "actualizado_vzla": "2025-09-28 12:40:58 -04",
   "compra_segundo": {
-    "price": 289.9,
-    "name": "tico alianza"
+    "price": 289.999,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
-    "price": 289.3,
-    "name": "Godisgift"
+    "price": 289.27,
+    "name": "SmartSolutionn"
   },
-  "promedio": 289.6,
+  "promedio": 289.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
