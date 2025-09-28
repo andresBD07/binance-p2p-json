@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T05:41:40.031079",
-  "actualizado_vzla": "2025-09-28 01:41:40 -04",
+  "timestamp_utc": "2025-09-28T05:54:55.146685",
+  "actualizado_vzla": "2025-09-28 01:54:55 -04",
   "compra_segundo": {
-    "price": 289.8,
-    "name": "LinkVzla"
+    "price": 289.99,
+    "name": "ASCENDERLTDA"
   },
   "venta_maxima": {
     "price": 284.101,
     "name": "Dakmoney"
   },
-  "promedio": 286.95,
+  "promedio": 287.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
