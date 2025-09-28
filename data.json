@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T19:00:09.547329",
-  "actualizado_vzla": "2025-09-28 15:00:09 -04",
+  "timestamp_utc": "2025-09-28T19:19:59.076101",
+  "actualizado_vzla": "2025-09-28 15:19:59 -04",
   "compra_segundo": {
-    "price": 288.49,
-    "name": "CenterToken"
+    "price": 288.5,
+    "name": "CambiosLaFortaleza"
   },
   "venta_maxima": {
-    "price": 288.4,
-    "name": "TheBlackHand"
+    "price": 288.0,
+    "name": "Miranda "
   },
-  "promedio": 288.44,
+  "promedio": 288.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
