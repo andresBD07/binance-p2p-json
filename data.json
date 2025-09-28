@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T08:55:05.069062",
-  "actualizado_vzla": "2025-09-28 04:55:05 -04",
+  "timestamp_utc": "2025-09-28T09:21:27.510480",
+  "actualizado_vzla": "2025-09-28 05:21:27 -04",
   "compra_segundo": {
-    "price": 291.0,
-    "name": "pr0isak"
+    "price": 291.449,
+    "name": "User-84f7f"
   },
   "venta_maxima": {
-    "price": 283.7,
-    "name": "gmubb123"
+    "price": 290.0,
+    "name": "Godisgift"
   },
-  "promedio": 287.35,
+  "promedio": 290.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
