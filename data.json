@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T03:47:35.508595",
-  "actualizado_vzla": "2025-09-27 23:47:35 -04",
+  "timestamp_utc": "2025-09-28T04:00:54.933068",
+  "actualizado_vzla": "2025-09-28 00:00:54 -04",
   "compra_segundo": {
-    "price": 287.79,
-    "name": "LTCambiosRapido"
+    "price": 287.8,
+    "name": "usdtking"
   },
   "venta_maxima": {
-    "price": 284.303,
-    "name": "concha7"
+    "price": 284.0,
+    "name": "Marquez25"
   },
-  "promedio": 286.05,
+  "promedio": 285.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
