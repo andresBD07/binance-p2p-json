@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T10:44:41.644273",
-  "actualizado_vzla": "2025-09-28 06:44:41 -04",
+  "timestamp_utc": "2025-09-28T10:57:37.374565",
+  "actualizado_vzla": "2025-09-28 06:57:37 -04",
   "compra_segundo": {
-    "price": 289.99,
-    "name": "AARONEX"
+    "price": 289.0,
+    "name": "AkExpress"
   },
   "venta_maxima": {
-    "price": 282.01,
-    "name": "tomy0000"
+    "price": 282.2,
+    "name": "Bestsellerrr"
   },
-  "promedio": 286.0,
+  "promedio": 285.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
