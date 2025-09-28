@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T04:59:07.929736",
-  "actualizado_vzla": "2025-09-28 00:59:07 -04",
+  "timestamp_utc": "2025-09-28T05:26:24.227122",
+  "actualizado_vzla": "2025-09-28 01:26:24 -04",
   "compra_segundo": {
-    "price": 289.6,
-    "name": "KobyTrader"
+    "price": 289.8,
+    "name": "El Buitre"
   },
   "venta_maxima": {
-    "price": 284.106,
-    "name": "Marquez25"
+    "price": 284.101,
+    "name": "Dakmoney"
   },
-  "promedio": 286.85,
+  "promedio": 286.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
