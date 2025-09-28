@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T15:27:48.070476",
-  "actualizado_vzla": "2025-09-28 11:27:48 -04",
+  "timestamp_utc": "2025-09-28T15:41:08.317405",
+  "actualizado_vzla": "2025-09-28 11:41:08 -04",
   "compra_segundo": {
-    "price": 289.4,
-    "name": "JP-Services"
+    "price": 289.0,
+    "name": "RE_CA2003"
   },
   "venta_maxima": {
-    "price": 287.6,
-    "name": "TOPlevelS"
+    "price": 287.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 288.5,
+  "promedio": 288.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
