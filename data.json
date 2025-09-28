@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T20:54:14.545592",
-  "actualizado_vzla": "2025-09-28 16:54:14 -04",
+  "timestamp_utc": "2025-09-28T21:17:46.172233",
+  "actualizado_vzla": "2025-09-28 17:17:46 -04",
   "compra_segundo": {
-    "price": 286.67,
-    "name": "Cambios_MH2107"
+    "price": 286.9,
+    "name": "BusinessWoman7"
   },
   "venta_maxima": {
-    "price": 286.0,
-    "name": "Bettyma_trader"
+    "price": 286.6,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 286.34,
+  "promedio": 286.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
