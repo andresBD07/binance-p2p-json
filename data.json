@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T15:41:08.317405",
-  "actualizado_vzla": "2025-09-28 11:41:08 -04",
+  "timestamp_utc": "2025-09-28T15:53:58.071470",
+  "actualizado_vzla": "2025-09-28 11:53:58 -04",
   "compra_segundo": {
     "price": 289.0,
-    "name": "RE_CA2003"
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 287.5,
+    "price": 288.05,
     "name": "SmartSolutionn"
   },
-  "promedio": 288.25,
+  "promedio": 288.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
