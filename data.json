@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T20:27:02.998682",
-  "actualizado_vzla": "2025-09-28 16:27:03 -04",
+  "timestamp_utc": "2025-09-28T20:41:01.300976",
+  "actualizado_vzla": "2025-09-28 16:41:01 -04",
   "compra_segundo": {
-    "price": 287.39,
-    "name": "CambiosLaGoma"
+    "price": 286.95,
+    "name": "CERRATO23__"
   },
   "venta_maxima": {
-    "price": 288.0,
-    "name": "FinanceSecure"
+    "price": 285.5,
+    "name": "Budyzz"
   },
-  "promedio": 287.69,
+  "promedio": 286.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
