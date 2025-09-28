@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T03:16:25.434317",
-  "actualizado_vzla": "2025-09-27 23:16:25 -04",
+  "timestamp_utc": "2025-09-28T03:47:35.508595",
+  "actualizado_vzla": "2025-09-27 23:47:35 -04",
   "compra_segundo": {
-    "price": 287.6,
-    "name": "Kartozpk"
+    "price": 287.79,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 283.7,
-    "name": "gmubb123"
+    "price": 284.303,
+    "name": "concha7"
   },
-  "promedio": 285.65,
+  "promedio": 286.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
