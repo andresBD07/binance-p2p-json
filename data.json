@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T13:33:11.350347",
-  "actualizado_vzla": "2025-09-28 09:33:11 -04",
+  "timestamp_utc": "2025-09-28T13:45:54.484645",
+  "actualizado_vzla": "2025-09-28 09:45:54 -04",
   "compra_segundo": {
-    "price": 287.5,
-    "name": "MONTERCICP-7"
+    "price": 287.9,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
-    "price": 285.0,
+    "price": 285.1,
     "name": "aerm38"
   },
-  "promedio": 286.25,
+  "promedio": 286.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
