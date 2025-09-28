@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T18:47:18.937291",
-  "actualizado_vzla": "2025-09-28 14:47:18 -04",
+  "timestamp_utc": "2025-09-28T19:00:09.547329",
+  "actualizado_vzla": "2025-09-28 15:00:09 -04",
   "compra_segundo": {
-    "price": 288.798,
-    "name": "VGV"
+    "price": 288.49,
+    "name": "CenterToken"
   },
   "venta_maxima": {
-    "price": 287.6,
-    "name": "Miranda "
+    "price": 288.4,
+    "name": "TheBlackHand"
   },
-  "promedio": 288.2,
+  "promedio": 288.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
