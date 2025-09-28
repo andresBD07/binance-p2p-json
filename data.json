@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T10:10:08.034143",
-  "actualizado_vzla": "2025-09-28 06:10:08 -04",
+  "timestamp_utc": "2025-09-28T10:31:55.103583",
+  "actualizado_vzla": "2025-09-28 06:31:55 -04",
   "compra_segundo": {
-    "price": 290.8,
-    "name": "KobyTrader"
+    "price": 289.994,
+    "name": "labebe2222"
   },
   "venta_maxima": {
     "price": 282.0,
     "name": "TransporteExpress"
   },
-  "promedio": 286.4,
+  "promedio": 286.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
