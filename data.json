@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T17:30:30.183422",
-  "actualizado_vzla": "2025-09-28 13:30:30 -04",
+  "timestamp_utc": "2025-09-28T17:43:27.691397",
+  "actualizado_vzla": "2025-09-28 13:43:27 -04",
   "compra_segundo": {
-    "price": 290.32,
-    "name": "DxvidExchange"
+    "price": 290.599,
+    "name": "luiggiTrader"
   },
   "venta_maxima": {
-    "price": 290.3,
-    "name": "Mijailsasuke"
+    "price": 291.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 290.31,
+  "promedio": 290.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
