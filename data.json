@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T14:22:32.777357",
-  "actualizado_vzla": "2025-09-28 10:22:32 -04",
+  "timestamp_utc": "2025-09-28T14:36:18.275098",
+  "actualizado_vzla": "2025-09-28 10:36:18 -04",
   "compra_segundo": {
-    "price": 288.2,
-    "name": "Imperiocrypto_co"
+    "price": 288.4,
+    "name": "TeresaCrip"
   },
   "venta_maxima": {
-    "price": 285.8,
-    "name": "JoseParedez"
+    "price": 286.5,
+    "name": "aerm38"
   },
-  "promedio": 287.0,
+  "promedio": 287.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
