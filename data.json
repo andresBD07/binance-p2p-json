@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T13:45:54.484645",
-  "actualizado_vzla": "2025-09-28 09:45:54 -04",
+  "timestamp_utc": "2025-09-28T13:59:07.673018",
+  "actualizado_vzla": "2025-09-28 09:59:07 -04",
   "compra_segundo": {
-    "price": 287.9,
-    "name": "DolceGabbana"
+    "price": 287.495,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 285.1,
+    "price": 285.4,
     "name": "aerm38"
   },
-  "promedio": 286.5,
+  "promedio": 286.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
