@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T14:36:18.275098",
-  "actualizado_vzla": "2025-09-28 10:36:18 -04",
+  "timestamp_utc": "2025-09-28T14:49:26.526971",
+  "actualizado_vzla": "2025-09-28 10:49:26 -04",
   "compra_segundo": {
-    "price": 288.4,
-    "name": "TeresaCrip"
+    "price": 288.7,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
-    "price": 286.5,
-    "name": "aerm38"
+    "price": 286.71,
+    "name": "AvExchange"
   },
-  "promedio": 287.45,
+  "promedio": 287.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
