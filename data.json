@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T13:16:08.117668",
-  "actualizado_vzla": "2025-09-28 09:16:08 -04",
+  "timestamp_utc": "2025-09-28T13:33:11.350347",
+  "actualizado_vzla": "2025-09-28 09:33:11 -04",
   "compra_segundo": {
-    "price": 287.418,
-    "name": "labebe2222"
+    "price": 287.5,
+    "name": "MONTERCICP-7"
   },
   "venta_maxima": {
-    "price": 284.35,
+    "price": 285.0,
     "name": "aerm38"
   },
-  "promedio": 285.88,
+  "promedio": 286.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
