@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T11:45:45.604489",
-  "actualizado_vzla": "2025-09-28 07:45:45 -04",
+  "timestamp_utc": "2025-09-28T11:58:34.858954",
+  "actualizado_vzla": "2025-09-28 07:58:34 -04",
   "compra_segundo": {
-    "price": 288.0,
-    "name": "CarlosBelloTrader "
+    "price": 287.9,
+    "name": "Yoinered"
   },
   "venta_maxima": {
-    "price": 283.2,
-    "name": "CORPORACION_YYSE-25"
+    "price": 284.0,
+    "name": "Exoticswaps"
   },
-  "promedio": 285.6,
+  "promedio": 285.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
