@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T17:16:54.909219",
-  "actualizado_vzla": "2025-09-28 13:16:54 -04",
+  "timestamp_utc": "2025-09-28T17:30:30.183422",
+  "actualizado_vzla": "2025-09-28 13:30:30 -04",
   "compra_segundo": {
-    "price": 290.34,
-    "name": "XckSeguros"
+    "price": 290.32,
+    "name": "DxvidExchange"
   },
   "venta_maxima": {
-    "price": 291.1,
-    "name": "aerm38"
+    "price": 290.3,
+    "name": "Mijailsasuke"
   },
-  "promedio": 290.72,
+  "promedio": 290.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
