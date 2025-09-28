@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T19:19:59.076101",
-  "actualizado_vzla": "2025-09-28 15:19:59 -04",
+  "timestamp_utc": "2025-09-28T19:34:10.999113",
+  "actualizado_vzla": "2025-09-28 15:34:11 -04",
   "compra_segundo": {
-    "price": 288.5,
-    "name": "CambiosLaFortaleza"
+    "price": 288.3,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
     "price": 288.0,
-    "name": "Miranda "
+    "name": "SmartSolutionn"
   },
-  "promedio": 288.25,
+  "promedio": 288.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
