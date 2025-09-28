@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T11:18:55.244779",
-  "actualizado_vzla": "2025-09-28 07:18:55 -04",
+  "timestamp_utc": "2025-09-28T11:32:41.718608",
+  "actualizado_vzla": "2025-09-28 07:32:41 -04",
   "compra_segundo": {
-    "price": 288.64,
-    "name": "JesusCrip"
+    "price": 288.1,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 283.0,
     "name": "Justcrip18"
   },
-  "promedio": 285.82,
+  "promedio": 285.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
