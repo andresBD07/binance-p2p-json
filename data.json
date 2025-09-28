@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T06:49:52.819724",
-  "actualizado_vzla": "2025-09-28 02:49:52 -04",
+  "timestamp_utc": "2025-09-28T07:11:12.490075",
+  "actualizado_vzla": "2025-09-28 03:11:12 -04",
   "compra_segundo": {
-    "price": 290.0,
-    "name": "AllTraders"
+    "price": 290.8,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 283.7,
     "name": "gmubb123"
   },
-  "promedio": 286.85,
+  "promedio": 287.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
