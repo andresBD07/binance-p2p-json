@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T23:43:20.879628",
-  "actualizado_vzla": "2025-09-28 19:43:20 -04",
+  "timestamp_utc": "2025-09-28T23:56:28.392290",
+  "actualizado_vzla": "2025-09-28 19:56:28 -04",
   "compra_segundo": {
-    "price": 285.4,
-    "name": "cbzdln"
+    "price": 285.9,
+    "name": "Lillie05"
   },
   "venta_maxima": {
-    "price": 285.01,
-    "name": "GoldenLion_"
+    "price": 285.1,
+    "name": "GREEN78"
   },
-  "promedio": 285.2,
+  "promedio": 285.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
