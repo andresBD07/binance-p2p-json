@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T10:32:02.589713",
-  "actualizado_vzla": "2025-09-29 06:32:02 -04",
+  "timestamp_utc": "2025-09-29T10:48:22.239959",
+  "actualizado_vzla": "2025-09-29 06:48:22 -04",
   "compra_segundo": {
-    "price": 291.499,
-    "name": "Otiv_B"
+    "price": 291.0,
+    "name": "Orlando_1705"
   },
   "venta_maxima": {
     "price": 285.0,
     "name": "Gustavo129"
   },
-  "promedio": 288.25,
+  "promedio": 288.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
