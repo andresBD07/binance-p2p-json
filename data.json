@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T18:50:49.532889",
-  "actualizado_vzla": "2025-09-29 14:50:49 -04",
+  "timestamp_utc": "2025-09-29T19:11:59.211012",
+  "actualizado_vzla": "2025-09-29 15:11:59 -04",
   "compra_segundo": {
-    "price": 290.45,
-    "name": "dcamacho"
+    "price": 292.0,
+    "name": "EXCELENTEEE"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "TheBlackHand"
+    "price": 293.0,
+    "name": "hudsonriver"
   },
-  "promedio": 290.73,
+  "promedio": 292.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
