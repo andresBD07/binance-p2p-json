@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T16:46:09.669476",
-  "actualizado_vzla": "2025-09-29 12:46:09 -04",
+  "timestamp_utc": "2025-09-29T16:58:50.988394",
+  "actualizado_vzla": "2025-09-29 12:58:50 -04",
   "compra_segundo": {
-    "price": 290.73,
-    "name": "CambiosExpresSS"
+    "price": 290.2,
+    "name": "REMESAFG"
   },
   "venta_maxima": {
-    "price": 290.5,
-    "name": "JLxanges"
+    "price": 290.0,
+    "name": "GoldenLion_"
   },
-  "promedio": 290.62,
+  "promedio": 290.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
