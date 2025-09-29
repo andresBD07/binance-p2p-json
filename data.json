@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T06:41:45.798383",
-  "actualizado_vzla": "2025-09-29 02:41:45 -04",
+  "timestamp_utc": "2025-09-29T06:57:44.189117",
+  "actualizado_vzla": "2025-09-29 02:57:44 -04",
   "compra_segundo": {
-    "price": 300.01,
-    "name": "Loyalbtc"
+    "price": 301.0,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
     "price": 285.3,
     "name": "Criptoseed"
   },
-  "promedio": 292.65,
+  "promedio": 293.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
