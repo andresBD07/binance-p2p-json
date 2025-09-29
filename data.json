@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T23:28:33.225791",
-  "actualizado_vzla": "2025-09-29 19:28:33 -04",
+  "timestamp_utc": "2025-09-29T23:42:03.269511",
+  "actualizado_vzla": "2025-09-29 19:42:03 -04",
   "compra_segundo": {
-    "price": 290.908,
-    "name": "Trader_MVG"
+    "price": 290.8,
+    "name": "Viamort"
   },
   "venta_maxima": {
-    "price": 289.505,
-    "name": "ProfitCM"
+    "price": 289.3,
+    "name": "LogisticExchange"
   },
-  "promedio": 290.21,
+  "promedio": 290.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
