@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T19:40:59.244264",
-  "actualizado_vzla": "2025-09-29 15:40:59 -04",
+  "timestamp_utc": "2025-09-29T19:53:59.666707",
+  "actualizado_vzla": "2025-09-29 15:53:59 -04",
   "compra_segundo": {
-    "price": 293.28,
-    "name": "CoinGonzo"
+    "price": 293.2,
+    "name": "Destin117"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "hectoraltrader"
+    "price": 292.03,
+    "name": "Bettyma_trader"
   },
-  "promedio": 292.64,
+  "promedio": 292.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
