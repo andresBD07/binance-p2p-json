@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T08:36:51.166302",
-  "actualizado_vzla": "2025-09-29 04:36:51 -04",
+  "timestamp_utc": "2025-09-29T08:55:00.036352",
+  "actualizado_vzla": "2025-09-29 04:55:00 -04",
   "compra_segundo": {
     "price": 299.0,
     "name": "5k-trader"
   },
   "venta_maxima": {
-    "price": 286.0,
-    "name": "suri2023"
+    "price": 285.4,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 292.5,
+  "promedio": 292.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
