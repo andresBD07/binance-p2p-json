@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T19:53:59.666707",
-  "actualizado_vzla": "2025-09-29 15:53:59 -04",
+  "timestamp_utc": "2025-09-29T20:21:25.415112",
+  "actualizado_vzla": "2025-09-29 16:21:25 -04",
   "compra_segundo": {
-    "price": 293.2,
-    "name": "Destin117"
+    "price": 292.89,
+    "name": "BiosPraga"
   },
   "venta_maxima": {
-    "price": 292.03,
-    "name": "Bettyma_trader"
+    "price": 292.001,
+    "name": "hectoraltrader"
   },
-  "promedio": 292.62,
+  "promedio": 292.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
