@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T23:11:30.486902",
-  "actualizado_vzla": "2025-09-29 19:11:30 -04",
+  "timestamp_utc": "2025-09-29T23:28:33.225791",
+  "actualizado_vzla": "2025-09-29 19:28:33 -04",
   "compra_segundo": {
-    "price": 291.998,
-    "name": "Mercurius_P2P"
+    "price": 290.908,
+    "name": "Trader_MVG"
   },
   "venta_maxima": {
-    "price": 292.3,
-    "name": "Quick Payment"
+    "price": 289.505,
+    "name": "ProfitCM"
   },
-  "promedio": 292.15,
+  "promedio": 290.21,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
