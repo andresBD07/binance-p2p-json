@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T22:36:22.036992",
-  "actualizado_vzla": "2025-09-29 18:36:22 -04",
+  "timestamp_utc": "2025-09-29T22:49:39.566944",
+  "actualizado_vzla": "2025-09-29 18:49:39 -04",
   "compra_segundo": {
-    "price": 292.78,
-    "name": "Lillie05"
+    "price": 292.37,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
     "price": 292.3,
     "name": "Quick Payment"
   },
-  "promedio": 292.54,
+  "promedio": 292.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
