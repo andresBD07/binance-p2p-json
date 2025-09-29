@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T16:58:50.988394",
-  "actualizado_vzla": "2025-09-29 12:58:50 -04",
+  "timestamp_utc": "2025-09-29T17:25:17.401379",
+  "actualizado_vzla": "2025-09-29 13:25:17 -04",
   "compra_segundo": {
-    "price": 290.2,
-    "name": "REMESAFG"
+    "price": 289.7,
+    "name": "RE_CA2003"
   },
   "venta_maxima": {
-    "price": 290.0,
-    "name": "GoldenLion_"
+    "price": 289.301,
+    "name": "ANTONIOC15"
   },
-  "promedio": 290.1,
+  "promedio": 289.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
