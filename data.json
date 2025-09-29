@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T21:13:04.247780",
-  "actualizado_vzla": "2025-09-29 17:13:04 -04",
+  "timestamp_utc": "2025-09-29T21:29:30.187447",
+  "actualizado_vzla": "2025-09-29 17:29:30 -04",
   "compra_segundo": {
-    "price": 292.6,
-    "name": "ADLRExpress"
+    "price": 292.819,
+    "name": "Yourcoins"
   },
   "venta_maxima": {
     "price": 292.3,
     "name": "Quick Payment"
   },
-  "promedio": 292.45,
+  "promedio": 292.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
