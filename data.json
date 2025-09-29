@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T08:55:00.036352",
-  "actualizado_vzla": "2025-09-29 04:55:00 -04",
+  "timestamp_utc": "2025-09-29T09:28:39.027263",
+  "actualizado_vzla": "2025-09-29 05:28:39 -04",
   "compra_segundo": {
-    "price": 299.0,
-    "name": "5k-trader"
+    "price": 294.49,
+    "name": "Saher7"
   },
   "venta_maxima": {
     "price": 285.4,
     "name": "Daikokuten-Finance"
   },
-  "promedio": 292.2,
+  "promedio": 289.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
