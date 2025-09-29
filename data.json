@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T20:51:21.037759",
-  "actualizado_vzla": "2025-09-29 16:51:21 -04",
+  "timestamp_utc": "2025-09-29T21:13:04.247780",
+  "actualizado_vzla": "2025-09-29 17:13:04 -04",
   "compra_segundo": {
-    "price": 292.599,
-    "name": "R0ckandR0ll"
+    "price": 292.6,
+    "name": "ADLRExpress"
   },
   "venta_maxima": {
-    "price": 293.0,
-    "name": "To0809"
+    "price": 292.3,
+    "name": "Quick Payment"
   },
-  "promedio": 292.8,
+  "promedio": 292.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
