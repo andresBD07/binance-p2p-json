@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T03:10:49.833807",
-  "actualizado_vzla": "2025-09-28 23:10:49 -04",
+  "timestamp_utc": "2025-09-29T03:46:10.682547",
+  "actualizado_vzla": "2025-09-28 23:46:10 -04",
   "compra_segundo": {
-    "price": 291.5,
-    "name": "AllTraders"
+    "price": 291.699,
+    "name": "imgpayfast12"
   },
   "venta_maxima": {
     "price": 286.0,
-    "name": "USDTpulso"
+    "name": "Marquez25"
   },
-  "promedio": 288.75,
+  "promedio": 288.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
