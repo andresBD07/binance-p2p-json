@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T14:37:45.897165",
-  "actualizado_vzla": "2025-09-29 10:37:45 -04",
+  "timestamp_utc": "2025-09-29T14:51:13.534821",
+  "actualizado_vzla": "2025-09-29 10:51:13 -04",
   "compra_segundo": {
-    "price": 291.09,
-    "name": "CambioSExpreessS"
+    "price": 290.9,
+    "name": "Rebeasc"
   },
   "venta_maxima": {
     "price": 291.0,
     "name": "FinanceSecure"
   },
-  "promedio": 291.04,
+  "promedio": 290.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
