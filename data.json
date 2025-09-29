@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T23:42:03.269511",
-  "actualizado_vzla": "2025-09-29 19:42:03 -04",
+  "timestamp_utc": "2025-09-29T23:55:25.972363",
+  "actualizado_vzla": "2025-09-29 19:55:25 -04",
   "compra_segundo": {
-    "price": 290.8,
-    "name": "Viamort"
+    "price": 290.9,
+    "name": "FASTCrazyFrog"
   },
   "venta_maxima": {
     "price": 289.3,
     "name": "LogisticExchange"
   },
-  "promedio": 290.05,
+  "promedio": 290.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
