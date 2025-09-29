@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-28T23:56:28.392290",
-  "actualizado_vzla": "2025-09-28 19:56:28 -04",
+  "timestamp_utc": "2025-09-29T02:00:35.078595",
+  "actualizado_vzla": "2025-09-28 22:00:35 -04",
   "compra_segundo": {
-    "price": 285.9,
-    "name": "Lillie05"
+    "price": 291.5,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 285.1,
-    "name": "GREEN78"
+    "price": 286.41,
+    "name": "May2524"
   },
-  "promedio": 285.5,
+  "promedio": 288.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
