@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T13:30:54.421533",
-  "actualizado_vzla": "2025-09-29 09:30:54 -04",
+  "timestamp_utc": "2025-09-29T13:49:11.210218",
+  "actualizado_vzla": "2025-09-29 09:49:11 -04",
   "compra_segundo": {
-    "price": 289.45,
-    "name": "Cambios2x3"
+    "price": 289.8,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 288.0,
-    "name": "FinanceSecure"
+    "price": 289.001,
+    "name": "VECTURAFX"
   },
-  "promedio": 288.73,
+  "promedio": 289.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
