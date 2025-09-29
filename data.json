@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T20:21:25.415112",
-  "actualizado_vzla": "2025-09-29 16:21:25 -04",
+  "timestamp_utc": "2025-09-29T20:37:57.748818",
+  "actualizado_vzla": "2025-09-29 16:37:57 -04",
   "compra_segundo": {
-    "price": 292.89,
-    "name": "BiosPraga"
+    "price": 292.99,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 292.001,
-    "name": "hectoraltrader"
+    "price": 292.2,
+    "name": "ALASKA-"
   },
-  "promedio": 292.45,
+  "promedio": 292.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
