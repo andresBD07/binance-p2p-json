@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T21:29:30.187447",
-  "actualizado_vzla": "2025-09-29 17:29:30 -04",
+  "timestamp_utc": "2025-09-29T21:42:53.932678",
+  "actualizado_vzla": "2025-09-29 17:42:53 -04",
   "compra_segundo": {
-    "price": 292.819,
-    "name": "Yourcoins"
+    "price": 292.87,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
     "price": 292.3,
     "name": "Quick Payment"
   },
-  "promedio": 292.56,
+  "promedio": 292.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
