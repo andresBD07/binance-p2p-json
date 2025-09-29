@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T15:49:12.738166",
-  "actualizado_vzla": "2025-09-29 11:49:12 -04",
+  "timestamp_utc": "2025-09-29T16:12:20.670142",
+  "actualizado_vzla": "2025-09-29 12:12:20 -04",
   "compra_segundo": {
-    "price": 291.45,
-    "name": "cryptoparra16"
+    "price": 292.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "Quick Payment"
+    "price": 292.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 291.73,
+  "promedio": 292.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
