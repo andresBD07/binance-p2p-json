@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T02:00:35.078595",
-  "actualizado_vzla": "2025-09-28 22:00:35 -04",
+  "timestamp_utc": "2025-09-29T03:10:49.833807",
+  "actualizado_vzla": "2025-09-28 23:10:49 -04",
   "compra_segundo": {
     "price": 291.5,
     "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 286.41,
-    "name": "May2524"
+    "price": 286.0,
+    "name": "USDTpulso"
   },
-  "promedio": 288.96,
+  "promedio": 288.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
