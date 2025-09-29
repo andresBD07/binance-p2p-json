@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T03:46:10.682547",
-  "actualizado_vzla": "2025-09-28 23:46:10 -04",
+  "timestamp_utc": "2025-09-29T03:58:55.467891",
+  "actualizado_vzla": "2025-09-28 23:58:55 -04",
   "compra_segundo": {
-    "price": 291.699,
-    "name": "imgpayfast12"
+    "price": 292.5,
+    "name": "JP-Services"
   },
   "venta_maxima": {
     "price": 286.0,
     "name": "Marquez25"
   },
-  "promedio": 288.85,
+  "promedio": 289.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
