@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T07:42:51.104503",
-  "actualizado_vzla": "2025-09-29 03:42:51 -04",
+  "timestamp_utc": "2025-09-29T07:55:35.925547",
+  "actualizado_vzla": "2025-09-29 03:55:35 -04",
   "compra_segundo": {
-    "price": 301.0,
-    "name": "AndradeGasconTITULAR"
+    "price": 300.0,
+    "name": "ChuchoTrader-_-"
   },
   "venta_maxima": {
-    "price": 286.95,
-    "name": "MolinaJP_"
+    "price": 286.81,
+    "name": "Marquez25"
   },
-  "promedio": 293.98,
+  "promedio": 293.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
