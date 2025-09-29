@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T18:30:38.932225",
-  "actualizado_vzla": "2025-09-29 14:30:38 -04",
+  "timestamp_utc": "2025-09-29T18:50:49.532889",
+  "actualizado_vzla": "2025-09-29 14:50:49 -04",
   "compra_segundo": {
-    "price": 289.798,
-    "name": "bullbridge"
+    "price": 290.45,
+    "name": "dcamacho"
   },
   "venta_maxima": {
     "price": 291.0,
-    "name": "WORL1EXCHANGE"
+    "name": "TheBlackHand"
   },
-  "promedio": 290.4,
+  "promedio": 290.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
