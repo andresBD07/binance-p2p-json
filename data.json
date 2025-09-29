@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T14:51:13.534821",
-  "actualizado_vzla": "2025-09-29 10:51:13 -04",
+  "timestamp_utc": "2025-09-29T15:16:25.446716",
+  "actualizado_vzla": "2025-09-29 11:16:25 -04",
   "compra_segundo": {
-    "price": 290.9,
-    "name": "Rebeasc"
+    "price": 290.99,
+    "name": "Rappid0"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "FinanceSecure"
+    "price": 291.5,
+    "name": "CC_pagos"
   },
-  "promedio": 290.95,
+  "promedio": 291.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
