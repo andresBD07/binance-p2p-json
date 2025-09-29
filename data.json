@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T16:32:55.742582",
-  "actualizado_vzla": "2025-09-29 12:32:55 -04",
+  "timestamp_utc": "2025-09-29T16:46:09.669476",
+  "actualizado_vzla": "2025-09-29 12:46:09 -04",
   "compra_segundo": {
-    "price": 291.8,
-    "name": "carmelog04"
+    "price": 290.73,
+    "name": "CambiosExpresSS"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "Quick Payment"
+    "price": 290.5,
+    "name": "JLxanges"
   },
-  "promedio": 291.9,
+  "promedio": 290.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
