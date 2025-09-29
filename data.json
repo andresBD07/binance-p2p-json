@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T05:59:49.213607",
-  "actualizado_vzla": "2025-09-29 01:59:49 -04",
+  "timestamp_utc": "2025-09-29T06:41:45.798383",
+  "actualizado_vzla": "2025-09-29 02:41:45 -04",
   "compra_segundo": {
-    "price": 299.0,
-    "name": "CambioExpressUSDT1"
+    "price": 300.01,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
     "price": 285.3,
     "name": "Criptoseed"
   },
-  "promedio": 292.15,
+  "promedio": 292.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
