@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T21:42:53.932678",
-  "actualizado_vzla": "2025-09-29 17:42:53 -04",
+  "timestamp_utc": "2025-09-29T21:56:00.030446",
+  "actualizado_vzla": "2025-09-29 17:56:00 -04",
   "compra_segundo": {
-    "price": 292.87,
-    "name": "RyderXchange"
+    "price": 292.78,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 292.3,
-    "name": "Quick Payment"
+    "price": 292.35,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 292.59,
+  "promedio": 292.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
