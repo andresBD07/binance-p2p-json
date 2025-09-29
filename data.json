@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T17:39:46.045485",
-  "actualizado_vzla": "2025-09-29 13:39:46 -04",
+  "timestamp_utc": "2025-09-29T17:53:22.446002",
+  "actualizado_vzla": "2025-09-29 13:53:22 -04",
   "compra_segundo": {
-    "price": 289.49,
-    "name": "LaYanza"
+    "price": 289.1,
+    "name": "Gjsan"
   },
   "venta_maxima": {
-    "price": 288.0,
-    "name": "aerm38"
+    "price": 288.501,
+    "name": "All-inCrypto"
   },
-  "promedio": 288.75,
+  "promedio": 288.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
