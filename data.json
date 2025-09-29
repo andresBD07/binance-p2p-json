@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T09:45:47.745213",
-  "actualizado_vzla": "2025-09-29 05:45:47 -04",
+  "timestamp_utc": "2025-09-29T09:59:16.514360",
+  "actualizado_vzla": "2025-09-29 05:59:16 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "zama2004"
+    "price": 293.0,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 285.5,
-    "name": "fnog"
+    "price": 285.51,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 289.75,
+  "promedio": 289.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
