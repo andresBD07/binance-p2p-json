@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T12:55:47.745177",
-  "actualizado_vzla": "2025-09-30 08:55:47 -04",
+  "timestamp_utc": "2025-09-30T13:34:35.737258",
+  "actualizado_vzla": "2025-09-30 09:34:35 -04",
   "compra_segundo": {
-    "price": 288.35,
-    "name": "BlockArbi-X"
+    "price": 286.7,
+    "name": "Metavic96_Pago-5-min"
   },
   "venta_maxima": {
-    "price": 287.0,
-    "name": "LogisticExchange"
+    "price": 286.6,
+    "name": "Gustavo129"
   },
-  "promedio": 287.68,
+  "promedio": 286.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
