@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T17:15:42.375375",
-  "actualizado_vzla": "2025-09-30 13:15:42 -04",
+  "timestamp_utc": "2025-09-30T17:34:38.555830",
+  "actualizado_vzla": "2025-09-30 13:34:38 -04",
   "compra_segundo": {
-    "price": 291.0,
-    "name": "CarlosBelloTrader "
+    "price": 291.25,
+    "name": "Cambi0Express"
   },
   "venta_maxima": {
-    "price": 290.95,
-    "name": "JLxanges"
+    "price": 292.0,
+    "name": "TAURUS85"
   },
-  "promedio": 290.98,
+  "promedio": 291.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
