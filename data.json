@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T20:10:43.370546",
-  "actualizado_vzla": "2025-09-30 16:10:43 -04",
+  "timestamp_utc": "2025-09-30T20:33:06.286271",
+  "actualizado_vzla": "2025-09-30 16:33:06 -04",
   "compra_segundo": {
-    "price": 291.4,
-    "name": "LinkxD"
+    "price": 290.999,
+    "name": "DLR06"
   },
   "venta_maxima": {
-    "price": 291.801,
-    "name": "cazing2230"
+    "price": 291.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 291.6,
+  "promedio": 291.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
