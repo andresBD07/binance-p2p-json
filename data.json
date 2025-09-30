@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-29T23:55:25.972363",
-  "actualizado_vzla": "2025-09-29 19:55:25 -04",
+  "timestamp_utc": "2025-09-30T01:52:39.097772",
+  "actualizado_vzla": "2025-09-29 21:52:39 -04",
   "compra_segundo": {
-    "price": 290.9,
-    "name": "FASTCrazyFrog"
+    "price": 291.98,
+    "name": "Trader_MVG"
   },
   "venta_maxima": {
-    "price": 289.3,
-    "name": "LogisticExchange"
+    "price": 289.2,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 290.1,
+  "promedio": 290.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
