@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T23:01:18.895338",
-  "actualizado_vzla": "2025-09-30 19:01:18 -04",
+  "timestamp_utc": "2025-09-30T23:24:07.916189",
+  "actualizado_vzla": "2025-09-30 19:24:07 -04",
   "compra_segundo": {
-    "price": 292.65,
-    "name": "Habrahanp2p"
+    "price": 292.63,
+    "name": "CambiosLaGoma"
   },
   "venta_maxima": {
-    "price": 292.85,
-    "name": "hectoraltrader"
+    "price": 292.2,
+    "name": "aerm38"
   },
-  "promedio": 292.75,
+  "promedio": 292.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
