@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T15:33:28.371113",
-  "actualizado_vzla": "2025-09-30 11:33:28 -04",
+  "timestamp_utc": "2025-09-30T15:46:52.179594",
+  "actualizado_vzla": "2025-09-30 11:46:52 -04",
   "compra_segundo": {
-    "price": 288.8,
-    "name": "TU CAMBIO"
+    "price": 288.79,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 289.2,
-    "name": "JLxanges"
+    "price": 290.0,
+    "name": "TAURUS85"
   },
-  "promedio": 289.0,
+  "promedio": 289.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
