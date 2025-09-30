@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T11:29:47.687905",
-  "actualizado_vzla": "2025-09-30 07:29:47 -04",
+  "timestamp_utc": "2025-09-30T11:42:43.148651",
+  "actualizado_vzla": "2025-09-30 07:42:43 -04",
   "compra_segundo": {
-    "price": 291.911,
-    "name": "rapidos15"
+    "price": 291.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
     "price": 289.5,
     "name": "Child-CambioFacil"
   },
-  "promedio": 290.71,
+  "promedio": 290.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
