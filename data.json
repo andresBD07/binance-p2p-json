@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T16:00:03.539679",
-  "actualizado_vzla": "2025-09-30 12:00:03 -04",
+  "timestamp_utc": "2025-09-30T16:34:21.964018",
+  "actualizado_vzla": "2025-09-30 12:34:21 -04",
   "compra_segundo": {
-    "price": 289.64,
-    "name": "Viamort"
+    "price": 290.58,
+    "name": "DLR06"
   },
   "venta_maxima": {
-    "price": 290.4,
-    "name": "JLxanges"
+    "price": 290.5,
+    "name": "TAURUS85"
   },
-  "promedio": 290.02,
+  "promedio": 290.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
