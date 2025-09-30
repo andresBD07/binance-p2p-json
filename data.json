@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T04:42:01.349995",
-  "actualizado_vzla": "2025-09-30 00:42:01 -04",
+  "timestamp_utc": "2025-09-30T04:54:48.671461",
+  "actualizado_vzla": "2025-09-30 00:54:48 -04",
   "compra_segundo": {
-    "price": 295.95,
-    "name": "Imperiocrypto_co"
+    "price": 295.9,
+    "name": "Emmanuelli"
   },
   "venta_maxima": {
-    "price": 290.1,
+    "price": 288.7,
     "name": "Suora21"
   },
-  "promedio": 293.02,
+  "promedio": 292.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
