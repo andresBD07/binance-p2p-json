@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T19:34:54.693333",
-  "actualizado_vzla": "2025-09-30 15:34:54 -04",
+  "timestamp_utc": "2025-09-30T19:48:26.935424",
+  "actualizado_vzla": "2025-09-30 15:48:26 -04",
   "compra_segundo": {
-    "price": 292.75,
-    "name": "LelysMed"
+    "price": 291.996,
+    "name": "Elitecambios_J"
   },
   "venta_maxima": {
-    "price": 292.7,
-    "name": "JLxanges"
+    "price": 292.5,
+    "name": "TAURUS85"
   },
-  "promedio": 292.73,
+  "promedio": 292.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
