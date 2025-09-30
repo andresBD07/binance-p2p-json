@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T14:16:57.504341",
-  "actualizado_vzla": "2025-09-30 10:16:57 -04",
+  "timestamp_utc": "2025-09-30T14:38:13.370599",
+  "actualizado_vzla": "2025-09-30 10:38:13 -04",
   "compra_segundo": {
-    "price": 291.73,
-    "name": "Caps-Exchange"
+    "price": 291.7,
+    "name": "DPcambios"
   },
   "venta_maxima": {
-    "price": 290.3,
-    "name": "exchangesamam22"
+    "price": 290.5,
+    "name": "JLxanges"
   },
-  "promedio": 291.01,
+  "promedio": 291.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
