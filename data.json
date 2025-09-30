@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T22:15:14.501887",
-  "actualizado_vzla": "2025-09-30 18:15:14 -04",
+  "timestamp_utc": "2025-09-30T22:34:24.725708",
+  "actualizado_vzla": "2025-09-30 18:34:24 -04",
   "compra_segundo": {
-    "price": 292.3,
-    "name": "LelysMed"
+    "price": 292.5,
+    "name": "GlobalEth"
   },
   "venta_maxima": {
-    "price": 291.8,
-    "name": "aerm38"
+    "price": 292.0,
+    "name": "cazing2230"
   },
-  "promedio": 292.05,
+  "promedio": 292.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
