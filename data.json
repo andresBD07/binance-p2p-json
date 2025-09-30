@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T10:10:45.121845",
-  "actualizado_vzla": "2025-09-30 06:10:45 -04",
+  "timestamp_utc": "2025-09-30T10:37:13.311900",
+  "actualizado_vzla": "2025-09-30 06:37:13 -04",
   "compra_segundo": {
-    "price": 293.67,
-    "name": "Btctronics"
+    "price": 293.05,
+    "name": "CAMBIOSVIP_A1"
   },
   "venta_maxima": {
-    "price": 288.5,
-    "name": "Casmar84"
+    "price": 288.01,
+    "name": "AGROCAMBIO"
   },
-  "promedio": 291.09,
+  "promedio": 290.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
