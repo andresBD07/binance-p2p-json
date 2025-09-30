@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T01:52:39.097772",
-  "actualizado_vzla": "2025-09-29 21:52:39 -04",
+  "timestamp_utc": "2025-09-30T02:57:49.146022",
+  "actualizado_vzla": "2025-09-29 22:57:49 -04",
   "compra_segundo": {
-    "price": 291.98,
-    "name": "Trader_MVG"
+    "price": 292.55,
+    "name": "R_kambios"
   },
   "venta_maxima": {
-    "price": 289.2,
-    "name": "Jin-Woo-Sung"
+    "price": 290.0,
+    "name": "inverck"
   },
-  "promedio": 290.59,
+  "promedio": 291.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
