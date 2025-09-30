@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T14:38:13.370599",
-  "actualizado_vzla": "2025-09-30 10:38:13 -04",
+  "timestamp_utc": "2025-09-30T14:51:22.953589",
+  "actualizado_vzla": "2025-09-30 10:51:22 -04",
   "compra_segundo": {
-    "price": 291.7,
-    "name": "DPcambios"
+    "price": 290.99,
+    "name": "BusinessWoman7"
   },
   "venta_maxima": {
-    "price": 290.5,
+    "price": 291.5,
     "name": "JLxanges"
   },
-  "promedio": 291.1,
+  "promedio": 291.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
