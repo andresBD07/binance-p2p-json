@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T21:23:50.899004",
-  "actualizado_vzla": "2025-09-30 17:23:50 -04",
+  "timestamp_utc": "2025-09-30T21:38:42.077035",
+  "actualizado_vzla": "2025-09-30 17:38:42 -04",
   "compra_segundo": {
-    "price": 290.5,
-    "name": "Mahc012712"
+    "price": 290.999,
+    "name": "nicolasvm"
   },
   "venta_maxima": {
     "price": 291.0,
-    "name": "aerm38"
+    "name": "cazing2230"
   },
-  "promedio": 290.75,
+  "promedio": 291.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
