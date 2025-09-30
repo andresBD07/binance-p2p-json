@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T22:47:45.420426",
-  "actualizado_vzla": "2025-09-30 18:47:45 -04",
+  "timestamp_utc": "2025-09-30T23:01:18.895338",
+  "actualizado_vzla": "2025-09-30 19:01:18 -04",
   "compra_segundo": {
-    "price": 292.7,
-    "name": "_InversionesJG_"
+    "price": 292.65,
+    "name": "Habrahanp2p"
   },
   "venta_maxima": {
-    "price": 293.0,
-    "name": "cazing2230"
+    "price": 292.85,
+    "name": "hectoraltrader"
   },
-  "promedio": 292.85,
+  "promedio": 292.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
