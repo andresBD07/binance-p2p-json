@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T09:48:20.841655",
-  "actualizado_vzla": "2025-09-30 05:48:20 -04",
+  "timestamp_utc": "2025-09-30T10:10:45.121845",
+  "actualizado_vzla": "2025-09-30 06:10:45 -04",
   "compra_segundo": {
-    "price": 294.999,
-    "name": "VENDE AQUI"
+    "price": 293.67,
+    "name": "Btctronics"
   },
   "venta_maxima": {
-    "price": 288.7,
-    "name": "Suora21"
+    "price": 288.5,
+    "name": "Casmar84"
   },
-  "promedio": 291.85,
+  "promedio": 291.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
