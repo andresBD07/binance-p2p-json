@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T20:33:06.286271",
-  "actualizado_vzla": "2025-09-30 16:33:06 -04",
+  "timestamp_utc": "2025-09-30T20:46:00.306053",
+  "actualizado_vzla": "2025-09-30 16:46:00 -04",
   "compra_segundo": {
-    "price": 290.999,
-    "name": "DLR06"
+    "price": 289.9,
+    "name": "chikil"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "TOPlevelS"
+    "price": 291.3,
+    "name": "Solvenza"
   },
-  "promedio": 291.0,
+  "promedio": 290.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
