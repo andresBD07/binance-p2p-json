@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T20:58:52.250240",
-  "actualizado_vzla": "2025-09-30 16:58:52 -04",
+  "timestamp_utc": "2025-09-30T21:23:50.899004",
+  "actualizado_vzla": "2025-09-30 17:23:50 -04",
   "compra_segundo": {
-    "price": 290.298,
-    "name": "MSaracai"
+    "price": 290.5,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "To0809"
+    "price": 291.0,
+    "name": "aerm38"
   },
-  "promedio": 291.15,
+  "promedio": 290.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
