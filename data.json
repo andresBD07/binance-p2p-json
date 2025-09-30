@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T15:15:18.852908",
-  "actualizado_vzla": "2025-09-30 11:15:18 -04",
+  "timestamp_utc": "2025-09-30T15:33:28.371113",
+  "actualizado_vzla": "2025-09-30 11:33:28 -04",
   "compra_segundo": {
-    "price": 289.25,
-    "name": "andrsn"
+    "price": 288.8,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
     "price": 289.2,
     "name": "JLxanges"
   },
-  "promedio": 289.23,
+  "promedio": 289.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
