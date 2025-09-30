@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T09:14:02.248584",
-  "actualizado_vzla": "2025-09-30 05:14:02 -04",
+  "timestamp_utc": "2025-09-30T09:34:32.456882",
+  "actualizado_vzla": "2025-09-30 05:34:32 -04",
   "compra_segundo": {
-    "price": 295.88,
-    "name": "GaAle19"
+    "price": 294.999,
+    "name": "VENDE AQUI"
   },
   "venta_maxima": {
     "price": 288.7,
     "name": "Suora21"
   },
-  "promedio": 292.29,
+  "promedio": 291.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
