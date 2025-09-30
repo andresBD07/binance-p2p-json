@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T23:38:30.328483",
-  "actualizado_vzla": "2025-09-30 19:38:30 -04",
+  "timestamp_utc": "2025-09-30T23:51:57.975586",
+  "actualizado_vzla": "2025-09-30 19:51:57 -04",
   "compra_segundo": {
-    "price": 292.68,
-    "name": "圎Sushi"
+    "price": 292.7,
+    "name": "Elite"
   },
   "venta_maxima": {
-    "price": 292.2,
+    "price": 292.5,
     "name": "aerm38"
   },
-  "promedio": 292.44,
+  "promedio": 292.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
