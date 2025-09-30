@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T17:48:13.522685",
-  "actualizado_vzla": "2025-09-30 13:48:13 -04",
+  "timestamp_utc": "2025-09-30T18:13:34.306485",
+  "actualizado_vzla": "2025-09-30 14:13:34 -04",
   "compra_segundo": {
-    "price": 291.8,
-    "name": "Jesús López 15 "
+    "price": 292.3,
+    "name": "Nirvanacafe"
   },
   "venta_maxima": {
-    "price": 292.5,
-    "name": "TAURUS85"
+    "price": 293.5,
+    "name": "To0809"
   },
-  "promedio": 292.15,
+  "promedio": 292.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
