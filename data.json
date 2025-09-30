@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T21:51:47.035033",
-  "actualizado_vzla": "2025-09-30 17:51:47 -04",
+  "timestamp_utc": "2025-09-30T22:15:14.501887",
+  "actualizado_vzla": "2025-09-30 18:15:14 -04",
   "compra_segundo": {
-    "price": 291.4,
+    "price": 292.3,
     "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 291.2,
+    "price": 291.8,
     "name": "aerm38"
   },
-  "promedio": 291.3,
+  "promedio": 292.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
