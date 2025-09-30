@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T16:34:21.964018",
-  "actualizado_vzla": "2025-09-30 12:34:21 -04",
+  "timestamp_utc": "2025-09-30T16:51:58.413108",
+  "actualizado_vzla": "2025-09-30 12:51:58 -04",
   "compra_segundo": {
-    "price": 290.58,
-    "name": "DLR06"
+    "price": 290.92,
+    "name": "REMESAS_ELMARACUCHO"
   },
   "venta_maxima": {
-    "price": 290.5,
-    "name": "TAURUS85"
+    "price": 291.0,
+    "name": "To0809"
   },
-  "promedio": 290.54,
+  "promedio": 290.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
