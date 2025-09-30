@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T11:13:14.096255",
-  "actualizado_vzla": "2025-09-30 07:13:14 -04",
+  "timestamp_utc": "2025-09-30T11:29:47.687905",
+  "actualizado_vzla": "2025-09-30 07:29:47 -04",
   "compra_segundo": {
-    "price": 292.0,
-    "name": "Bestsellerrr"
+    "price": 291.911,
+    "name": "rapidos15"
   },
   "venta_maxima": {
-    "price": 288.2,
-    "name": "RIVERMONEY"
+    "price": 289.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 290.1,
+  "promedio": 290.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
