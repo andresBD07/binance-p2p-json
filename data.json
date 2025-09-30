@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T17:34:38.555830",
-  "actualizado_vzla": "2025-09-30 13:34:38 -04",
+  "timestamp_utc": "2025-09-30T17:48:13.522685",
+  "actualizado_vzla": "2025-09-30 13:48:13 -04",
   "compra_segundo": {
-    "price": 291.25,
-    "name": "Cambi0Express"
+    "price": 291.8,
+    "name": "Jesús López 15 "
   },
   "venta_maxima": {
-    "price": 292.0,
+    "price": 292.5,
     "name": "TAURUS85"
   },
-  "promedio": 291.62,
+  "promedio": 292.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
