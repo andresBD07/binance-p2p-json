@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T23:38:37.068172",
-  "actualizado_vzla": "2025-10-01 19:38:37 -04",
+  "timestamp_utc": "2025-10-01T23:51:53.834033",
+  "actualizado_vzla": "2025-10-01 19:51:53 -04",
   "compra_segundo": {
-    "price": 295.499,
-    "name": "angelesbr"
+    "price": 295.25,
+    "name": "Trader_AngC"
   },
   "venta_maxima": {
-    "price": 294.5,
+    "price": 294.2,
     "name": "El-Warao"
   },
-  "promedio": 295.0,
+  "promedio": 294.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
