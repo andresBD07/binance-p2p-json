@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T12:33:58.133856",
-  "actualizado_vzla": "2025-10-01 08:33:58 -04",
+  "timestamp_utc": "2025-10-01T13:17:12.028189",
+  "actualizado_vzla": "2025-10-01 09:17:12 -04",
   "compra_segundo": {
-    "price": 292.8,
-    "name": "RE_CA2003"
+    "price": 293.85,
+    "name": "DPcambios"
   },
   "venta_maxima": {
     "price": 292.5,
     "name": "JLxanges"
   },
-  "promedio": 292.65,
+  "promedio": 293.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
