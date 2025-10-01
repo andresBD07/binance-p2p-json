@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-09-30T23:51:57.975586",
-  "actualizado_vzla": "2025-09-30 19:51:57 -04",
+  "timestamp_utc": "2025-10-01T01:25:29.186194",
+  "actualizado_vzla": "2025-09-30 21:25:29 -04",
   "compra_segundo": {
-    "price": 292.7,
-    "name": "Elite"
+    "price": 293.3,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 292.5,
-    "name": "aerm38"
+    "price": 291.5,
+    "name": "hectoraltrader"
   },
-  "promedio": 292.6,
+  "promedio": 292.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
