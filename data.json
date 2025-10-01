@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T05:33:42.818298",
-  "actualizado_vzla": "2025-10-01 01:33:42 -04",
+  "timestamp_utc": "2025-10-01T05:47:06.811770",
+  "actualizado_vzla": "2025-10-01 01:47:06 -04",
   "compra_segundo": {
-    "price": 295.8,
-    "name": "EnlineaRyK"
+    "price": 296.0,
+    "name": "Buzzlightyearzz"
   },
   "venta_maxima": {
     "price": 288.2,
     "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 292.0,
+  "promedio": 292.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
