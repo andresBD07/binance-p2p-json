@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T22:33:25.693940",
-  "actualizado_vzla": "2025-10-01 18:33:25 -04",
+  "timestamp_utc": "2025-10-01T22:46:44.151549",
+  "actualizado_vzla": "2025-10-01 18:46:44 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "MMIJ_Crip2023"
+    "price": 295.399,
+    "name": "JS_Valentine"
   },
   "venta_maxima": {
-    "price": 293.801,
-    "name": "Cripto_Operaciones"
+    "price": 293.9,
+    "name": "El-Warao"
   },
-  "promedio": 294.4,
+  "promedio": 294.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
