@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T16:51:17.056746",
-  "actualizado_vzla": "2025-10-01 12:51:17 -04",
+  "timestamp_utc": "2025-10-01T17:14:29.472249",
+  "actualizado_vzla": "2025-10-01 13:14:29 -04",
   "compra_segundo": {
-    "price": 294.51,
-    "name": "SanMiguelArc"
+    "price": 293.95,
+    "name": "Elleonesleo"
   },
   "venta_maxima": {
-    "price": 294.15,
-    "name": "JoseParedez"
+    "price": 295.5,
+    "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 294.33,
+  "promedio": 294.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
