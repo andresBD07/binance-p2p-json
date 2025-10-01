@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T07:55:37.092088",
-  "actualizado_vzla": "2025-10-01 03:55:37 -04",
+  "timestamp_utc": "2025-10-01T08:34:12.383233",
+  "actualizado_vzla": "2025-10-01 04:34:12 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "DardoVeloz"
+    "price": 297.7,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 288.5,
     "name": "RIVERMONEY"
   },
-  "promedio": 292.75,
+  "promedio": 293.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
