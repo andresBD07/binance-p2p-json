@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T03:46:58.602356",
-  "actualizado_vzla": "2025-09-30 23:46:58 -04",
+  "timestamp_utc": "2025-10-01T04:00:39.211194",
+  "actualizado_vzla": "2025-10-01 00:00:39 -04",
   "compra_segundo": {
-    "price": 293.488,
-    "name": "angels123"
+    "price": 293.5,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 290.5,
-    "name": "Quick Payment"
+    "price": 290.1,
+    "name": "RIVERMONEY"
   },
-  "promedio": 291.99,
+  "promedio": 291.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
