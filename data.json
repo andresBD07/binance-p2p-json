@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T11:23:15.986984",
-  "actualizado_vzla": "2025-10-01 07:23:15 -04",
+  "timestamp_utc": "2025-10-01T11:37:55.905927",
+  "actualizado_vzla": "2025-10-01 07:37:55 -04",
   "compra_segundo": {
-    "price": 293.49,
-    "name": "LeNary-"
+    "price": 293.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 290.001,
+    "price": 290.101,
     "name": "hudsonriver"
   },
-  "promedio": 291.75,
+  "promedio": 291.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
