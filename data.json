@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T07:25:52.045978",
-  "actualizado_vzla": "2025-10-01 03:25:52 -04",
+  "timestamp_utc": "2025-10-01T07:42:24.337113",
+  "actualizado_vzla": "2025-10-01 03:42:24 -04",
   "compra_segundo": {
-    "price": 298.7,
-    "name": "Imperiocrypto_co"
+    "price": 297.2,
+    "name": "UniversalCash"
   },
   "venta_maxima": {
-    "price": 288.2,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 288.5,
+    "name": "RIVERMONEY"
   },
-  "promedio": 293.45,
+  "promedio": 292.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
