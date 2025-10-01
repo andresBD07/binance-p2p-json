@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T15:27:57.554700",
-  "actualizado_vzla": "2025-10-01 11:27:57 -04",
+  "timestamp_utc": "2025-10-01T15:44:20.496953",
+  "actualizado_vzla": "2025-10-01 11:44:20 -04",
   "compra_segundo": {
-    "price": 294.05,
-    "name": "GIROSYREMESASDAN"
+    "price": 294.199,
+    "name": "Cambioya12"
   },
   "venta_maxima": {
-    "price": 294.5,
-    "name": "cazing2230"
+    "price": 294.1,
+    "name": "JoseParedez"
   },
-  "promedio": 294.27,
+  "promedio": 294.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
