@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T16:33:05.928667",
-  "actualizado_vzla": "2025-10-01 12:33:05 -04",
+  "timestamp_utc": "2025-10-01T16:51:17.056746",
+  "actualizado_vzla": "2025-10-01 12:51:17 -04",
   "compra_segundo": {
-    "price": 294.7,
-    "name": "lamejoropcion"
+    "price": 294.51,
+    "name": "SanMiguelArc"
   },
   "venta_maxima": {
     "price": 294.15,
     "name": "JoseParedez"
   },
-  "promedio": 294.42,
+  "promedio": 294.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
