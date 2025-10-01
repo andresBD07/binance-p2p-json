@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T11:37:55.905927",
-  "actualizado_vzla": "2025-10-01 07:37:55 -04",
+  "timestamp_utc": "2025-10-01T11:51:06.180331",
+  "actualizado_vzla": "2025-10-01 07:51:06 -04",
   "compra_segundo": {
-    "price": 293.0,
-    "name": "lamejoropcion"
+    "price": 292.9,
+    "name": "Manda2"
   },
   "venta_maxima": {
-    "price": 290.101,
+    "price": 290.7,
     "name": "hudsonriver"
   },
-  "promedio": 291.55,
+  "promedio": 291.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
