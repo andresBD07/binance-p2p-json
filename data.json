@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T15:44:20.496953",
-  "actualizado_vzla": "2025-10-01 11:44:20 -04",
+  "timestamp_utc": "2025-10-01T15:57:28.270713",
+  "actualizado_vzla": "2025-10-01 11:57:28 -04",
   "compra_segundo": {
-    "price": 294.199,
-    "name": "Cambioya12"
+    "price": 294.4,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
-    "price": 294.1,
+    "price": 294.15,
     "name": "JoseParedez"
   },
-  "promedio": 294.15,
+  "promedio": 294.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
