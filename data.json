@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T22:13:45.067276",
-  "actualizado_vzla": "2025-10-01 18:13:45 -04",
+  "timestamp_utc": "2025-10-01T22:33:25.693940",
+  "actualizado_vzla": "2025-10-01 18:33:25 -04",
   "compra_segundo": {
-    "price": 294.7,
-    "name": "BusinessWoman7"
+    "price": 295.0,
+    "name": "MMIJ_Crip2023"
   },
   "venta_maxima": {
-    "price": 293.7,
-    "name": "KillKeroy"
+    "price": 293.801,
+    "name": "Cripto_Operaciones"
   },
-  "promedio": 294.2,
+  "promedio": 294.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
