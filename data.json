@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T19:43:40.743108",
-  "actualizado_vzla": "2025-10-01 15:43:40 -04",
+  "timestamp_utc": "2025-10-01T19:56:43.046539",
+  "actualizado_vzla": "2025-10-01 15:56:43 -04",
   "compra_segundo": {
-    "price": 295.99,
-    "name": "Cambios_Jear"
+    "price": 295.815,
+    "name": "edeysa"
   },
   "venta_maxima": {
-    "price": 295.26,
-    "name": "GIROSAMERICA"
+    "price": 296.0,
+    "name": "0xSai"
   },
-  "promedio": 295.62,
+  "promedio": 295.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
