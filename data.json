@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T17:34:00.169670",
-  "actualizado_vzla": "2025-10-01 13:34:00 -04",
+  "timestamp_utc": "2025-10-01T17:46:56.902465",
+  "actualizado_vzla": "2025-10-01 13:46:56 -04",
   "compra_segundo": {
-    "price": 293.849,
-    "name": "CambiosToGo"
+    "price": 293.897,
+    "name": "CambiosExpresSS"
   },
   "venta_maxima": {
-    "price": 295.2,
+    "price": 295.0,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 294.52,
+  "promedio": 294.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
