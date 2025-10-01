@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T13:56:55.440193",
-  "actualizado_vzla": "2025-10-01 09:56:55 -04",
+  "timestamp_utc": "2025-10-01T14:28:00.125746",
+  "actualizado_vzla": "2025-10-01 10:28:00 -04",
   "compra_segundo": {
-    "price": 293.8,
-    "name": "TradingWolfe"
+    "price": 293.5,
+    "name": "Millaluz"
   },
   "venta_maxima": {
-    "price": 293.5,
-    "name": "cazing2230"
+    "price": 294.2,
+    "name": "JLxanges"
   },
-  "promedio": 293.65,
+  "promedio": 293.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
