@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T07:42:24.337113",
-  "actualizado_vzla": "2025-10-01 03:42:24 -04",
+  "timestamp_utc": "2025-10-01T07:55:37.092088",
+  "actualizado_vzla": "2025-10-01 03:55:37 -04",
   "compra_segundo": {
-    "price": 297.2,
-    "name": "UniversalCash"
+    "price": 297.0,
+    "name": "DardoVeloz"
   },
   "venta_maxima": {
     "price": 288.5,
     "name": "RIVERMONEY"
   },
-  "promedio": 292.85,
+  "promedio": 292.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
