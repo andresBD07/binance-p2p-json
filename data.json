@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T19:30:35.799460",
-  "actualizado_vzla": "2025-10-01 15:30:35 -04",
+  "timestamp_utc": "2025-10-01T19:43:40.743108",
+  "actualizado_vzla": "2025-10-01 15:43:40 -04",
   "compra_segundo": {
-    "price": 296.15,
-    "name": "MarDiodoros"
+    "price": 295.99,
+    "name": "Cambios_Jear"
   },
   "venta_maxima": {
-    "price": 295.45,
-    "name": "MacroSistema"
+    "price": 295.26,
+    "name": "GIROSAMERICA"
   },
-  "promedio": 295.8,
+  "promedio": 295.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
