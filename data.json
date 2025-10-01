@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T01:25:29.186194",
-  "actualizado_vzla": "2025-09-30 21:25:29 -04",
+  "timestamp_utc": "2025-10-01T03:00:05.195761",
+  "actualizado_vzla": "2025-09-30 23:00:05 -04",
   "compra_segundo": {
-    "price": 293.3,
-    "name": "ElCandidoP2P"
+    "price": 292.85,
+    "name": "chaker9"
   },
   "venta_maxima": {
-    "price": 291.5,
-    "name": "hectoraltrader"
+    "price": 291.3,
+    "name": "TAURUS85"
   },
-  "promedio": 292.4,
+  "promedio": 292.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
