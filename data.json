@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T17:46:56.902465",
-  "actualizado_vzla": "2025-10-01 13:46:56 -04",
+  "timestamp_utc": "2025-10-01T17:59:56.530724",
+  "actualizado_vzla": "2025-10-01 13:59:56 -04",
   "compra_segundo": {
-    "price": 293.897,
-    "name": "CambiosExpresSS"
+    "price": 294.0,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
     "price": 295.0,
-    "name": "-TRADER_NEMESIS-"
+    "name": "0xSai"
   },
-  "promedio": 294.45,
+  "promedio": 294.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
