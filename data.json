@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T04:48:51.723968",
-  "actualizado_vzla": "2025-10-01 00:48:51 -04",
+  "timestamp_utc": "2025-10-01T05:11:40.436259",
+  "actualizado_vzla": "2025-10-01 01:11:40 -04",
   "compra_segundo": {
     "price": 295.45,
     "name": "cambiosvz19"
   },
   "venta_maxima": {
-    "price": 289.5,
-    "name": "ClandestinoX"
+    "price": 288.2,
+    "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 292.48,
+  "promedio": 291.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
