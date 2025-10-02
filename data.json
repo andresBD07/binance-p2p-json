@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T14:46:12.790448",
-  "actualizado_vzla": "2025-10-02 10:46:12 -04",
+  "timestamp_utc": "2025-10-02T14:59:10.514391",
+  "actualizado_vzla": "2025-10-02 10:59:10 -04",
   "compra_segundo": {
-    "price": 294.9,
-    "name": "Trader_CambiosDigital"
+    "price": 295.0,
+    "name": "CambiosGugool"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "CC_pagos"
+    "price": 295.05,
+    "name": "KillKeroy"
   },
-  "promedio": 294.95,
+  "promedio": 295.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
