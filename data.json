@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T03:43:39.659388",
-  "actualizado_vzla": "2025-10-01 23:43:39 -04",
+  "timestamp_utc": "2025-10-02T03:56:32.898247",
+  "actualizado_vzla": "2025-10-01 23:56:32 -04",
   "compra_segundo": {
-    "price": 299.7,
-    "name": "PrimeCripto"
+    "price": 299.97,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "SantiagoR19"
+    "price": 294.2,
+    "name": "Gimol"
   },
-  "promedio": 296.85,
+  "promedio": 297.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
