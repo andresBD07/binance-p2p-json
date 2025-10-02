@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T05:25:44.702380",
-  "actualizado_vzla": "2025-10-02 01:25:44 -04",
+  "timestamp_utc": "2025-10-02T05:41:55.997057",
+  "actualizado_vzla": "2025-10-02 01:41:56 -04",
   "compra_segundo": {
     "price": 304.0,
     "name": "usdtking"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "Quick Payment"
+    "price": 293.125,
+    "name": "usdtking"
   },
-  "promedio": 299.5,
+  "promedio": 298.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
