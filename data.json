@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T10:44:04.150134",
-  "actualizado_vzla": "2025-10-02 06:44:04 -04",
+  "timestamp_utc": "2025-10-02T10:57:00.460394",
+  "actualizado_vzla": "2025-10-02 06:57:00 -04",
   "compra_segundo": {
-    "price": 298.5,
-    "name": "Clay_Class"
+    "price": 297.6,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
     "price": 295.0,
     "name": "TEXAS-TRADER"
   },
-  "promedio": 296.75,
+  "promedio": 296.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
