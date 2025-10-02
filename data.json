@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T09:59:50.869118",
-  "actualizado_vzla": "2025-10-02 05:59:50 -04",
+  "timestamp_utc": "2025-10-02T10:29:05.843718",
+  "actualizado_vzla": "2025-10-02 06:29:05 -04",
   "compra_segundo": {
-    "price": 299.9,
-    "name": "IntercambiosC"
+    "price": 299.7,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 294.001,
-    "name": "AGROCAMBIO"
+    "price": 295.0,
+    "name": "TEXAS-TRADER"
   },
-  "promedio": 296.95,
+  "promedio": 297.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
