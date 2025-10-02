@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T19:50:49.806780",
-  "actualizado_vzla": "2025-10-02 15:50:49 -04",
+  "timestamp_utc": "2025-10-02T20:15:59.993543",
+  "actualizado_vzla": "2025-10-02 16:16:00 -04",
   "compra_segundo": {
-    "price": 296.3,
-    "name": "Krypto-Handeln"
+    "price": 296.665,
+    "name": "Black-182"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "LogisticExchange"
   },
-  "promedio": 296.65,
+  "promedio": 296.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
