@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T12:17:57.255692",
-  "actualizado_vzla": "2025-10-02 08:17:57 -04",
+  "timestamp_utc": "2025-10-02T12:59:03.517740",
+  "actualizado_vzla": "2025-10-02 08:59:03 -04",
   "compra_segundo": {
-    "price": 295.9,
-    "name": "TradewCrypto"
+    "price": 295.998,
+    "name": "CarlosBelloTrader "
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "RONIN_COIN"
+    "price": 294.1,
+    "name": "InvGaus"
   },
-  "promedio": 294.95,
+  "promedio": 295.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
