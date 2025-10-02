@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T19:10:28.264680",
-  "actualizado_vzla": "2025-10-02 15:10:28 -04",
+  "timestamp_utc": "2025-10-02T19:23:19.502859",
+  "actualizado_vzla": "2025-10-02 15:23:19 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "LopezInvestment"
+    "price": 296.7,
+    "name": "LACHARCUTE"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "cazing2230"
+    "price": 296.6,
+    "name": "JoseParedez"
   },
-  "promedio": 297.25,
+  "promedio": 296.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
