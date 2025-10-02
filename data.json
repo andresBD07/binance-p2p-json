@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T03:19:45.815834",
-  "actualizado_vzla": "2025-10-01 23:19:45 -04",
+  "timestamp_utc": "2025-10-02T03:43:39.659388",
+  "actualizado_vzla": "2025-10-01 23:43:39 -04",
   "compra_segundo": {
-    "price": 299.69,
-    "name": "Emmanuelli"
+    "price": 299.7,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "Jin-Woo-Sung"
+    "price": 294.0,
+    "name": "SantiagoR19"
   },
-  "promedio": 297.85,
+  "promedio": 296.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
