@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T17:42:12.827389",
-  "actualizado_vzla": "2025-10-02 13:42:12 -04",
+  "timestamp_utc": "2025-10-02T17:55:10.004979",
+  "actualizado_vzla": "2025-10-02 13:55:10 -04",
   "compra_segundo": {
-    "price": 297.899,
-    "name": "AdriV-P2P"
+    "price": 298.9,
+    "name": "sheva07"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "Si Me Pasas Te Paso"
+    "price": 298.6,
+    "name": "Jas2213"
   },
-  "promedio": 298.2,
+  "promedio": 298.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
