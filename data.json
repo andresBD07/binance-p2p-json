@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T21:26:23.759026",
-  "actualizado_vzla": "2025-10-02 17:26:23 -04",
+  "timestamp_utc": "2025-10-02T21:39:09.142513",
+  "actualizado_vzla": "2025-10-02 17:39:09 -04",
   "compra_segundo": {
-    "price": 297.79,
-    "name": "MMarket_CL"
+    "price": 297.849,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 296.8,
-    "name": "JoseParedez"
+    "price": 297.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 297.3,
+  "promedio": 297.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
