@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T21:39:09.142513",
-  "actualizado_vzla": "2025-10-02 17:39:09 -04",
+  "timestamp_utc": "2025-10-02T21:52:12.539452",
+  "actualizado_vzla": "2025-10-02 17:52:12 -04",
   "compra_segundo": {
     "price": 297.849,
-    "name": "你看_VES_你看_VES_你看Like"
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "FinanceSecure"
+    "price": 297.11,
+    "name": "RONIN_COIN"
   },
-  "promedio": 297.42,
+  "promedio": 297.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
