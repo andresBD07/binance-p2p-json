@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T21:52:12.539452",
-  "actualizado_vzla": "2025-10-02 17:52:12 -04",
+  "timestamp_utc": "2025-10-02T22:15:49.311542",
+  "actualizado_vzla": "2025-10-02 18:15:49 -04",
   "compra_segundo": {
-    "price": 297.849,
-    "name": "MarDiodoros"
+    "price": 298.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 297.11,
-    "name": "RONIN_COIN"
+    "price": 297.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 297.48,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
