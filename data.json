@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T08:50:53.064365",
-  "actualizado_vzla": "2025-10-02 04:50:53 -04",
+  "timestamp_utc": "2025-10-02T09:15:34.583068",
+  "actualizado_vzla": "2025-10-02 05:15:34 -04",
   "compra_segundo": {
-    "price": 304.001,
-    "name": "En-Dios-confiamos"
+    "price": 302.6,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 293.137,
     "name": "TilinArberto"
   },
-  "promedio": 298.57,
+  "promedio": 297.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
