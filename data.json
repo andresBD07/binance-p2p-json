@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-01T23:51:53.834033",
-  "actualizado_vzla": "2025-10-01 19:51:53 -04",
+  "timestamp_utc": "2025-10-02T01:15:10.100157",
+  "actualizado_vzla": "2025-10-01 21:15:10 -04",
   "compra_segundo": {
-    "price": 295.25,
-    "name": "Trader_AngC"
+    "price": 296.99,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 294.2,
-    "name": "El-Warao"
+    "price": 295.0,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 294.73,
+  "promedio": 296.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
