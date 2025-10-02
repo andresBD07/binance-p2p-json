@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T15:27:52.457382",
-  "actualizado_vzla": "2025-10-02 11:27:52 -04",
+  "timestamp_utc": "2025-10-02T15:44:20.319487",
+  "actualizado_vzla": "2025-10-02 11:44:20 -04",
   "compra_segundo": {
-    "price": 295.999,
-    "name": "ErudioCl"
+    "price": 295.95,
+    "name": "Rebeasc"
   },
   "venta_maxima": {
-    "price": 295.051,
-    "name": "InvGaus"
+    "price": 295.0,
+    "name": "Gustavo129"
   },
-  "promedio": 295.52,
+  "promedio": 295.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
