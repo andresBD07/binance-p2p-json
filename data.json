@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T07:30:33.285107",
-  "actualizado_vzla": "2025-10-02 03:30:33 -04",
+  "timestamp_utc": "2025-10-02T07:43:50.745830",
+  "actualizado_vzla": "2025-10-02 03:43:50 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "CAMBIOs_PrO"
+    "price": 304.9,
+    "name": "彡TrustyTrader1A彡"
   },
   "venta_maxima": {
     "price": 293.137,
     "name": "TilinArberto"
   },
-  "promedio": 299.57,
+  "promedio": 299.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
