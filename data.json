@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T22:33:53.151974",
-  "actualizado_vzla": "2025-10-02 18:33:53 -04",
+  "timestamp_utc": "2025-10-02T22:47:06.260812",
+  "actualizado_vzla": "2025-10-02 18:47:06 -04",
   "compra_segundo": {
-    "price": 298.3,
-    "name": "Flashpoint98"
+    "price": 298.5,
+    "name": "ANMAIYANME"
   },
   "venta_maxima": {
     "price": 300.0,
     "name": "Yossetmz"
   },
-  "promedio": 299.15,
+  "promedio": 299.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
