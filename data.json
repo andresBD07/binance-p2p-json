@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-02T19:37:40.153486",
-  "actualizado_vzla": "2025-10-02 15:37:40 -04",
+  "timestamp_utc": "2025-10-02T19:50:49.806780",
+  "actualizado_vzla": "2025-10-02 15:50:49 -04",
   "compra_segundo": {
-    "price": 296.6,
-    "name": "ChangerExpress"
+    "price": 296.3,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "LogisticExchange"
   },
-  "promedio": 296.8,
+  "promedio": 296.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
