@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T11:49:25.121616",
-  "actualizado_vzla": "2025-10-03 07:49:25 -04",
+  "timestamp_utc": "2025-10-03T12:22:34.557811",
+  "actualizado_vzla": "2025-10-03 08:22:34 -04",
   "compra_segundo": {
-    "price": 297.555,
-    "name": "OikonomiaDigital"
+    "price": 296.89,
+    "name": "DPcambios"
   },
   "venta_maxima": {
-    "price": 296.3,
-    "name": "KillKeroy"
+    "price": 296.5,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 296.93,
+  "promedio": 296.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
