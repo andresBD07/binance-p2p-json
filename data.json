@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T14:44:56.492478",
-  "actualizado_vzla": "2025-10-03 10:44:56 -04",
+  "timestamp_utc": "2025-10-03T14:57:40.222890",
+  "actualizado_vzla": "2025-10-03 10:57:40 -04",
   "compra_segundo": {
-    "price": 295.3,
-    "name": "Guayoyoo"
+    "price": 295.0,
+    "name": "andrsn"
   },
   "venta_maxima": {
     "price": 295.0,
     "name": "JLxanges"
   },
-  "promedio": 295.15,
+  "promedio": 295.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
