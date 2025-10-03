@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-03T07:57:36.798888",
-  "actualizado_vzla": "2025-10-03 03:57:36 -04",
+  "timestamp_utc": "2025-10-03T08:32:38.169950",
+  "actualizado_vzla": "2025-10-03 04:32:38 -04",
   "compra_segundo": {
-    "price": 301.7,
-    "name": "ARKADB"
+    "price": 301.8,
+    "name": "JESUS-CRIPTOS"
   },
   "venta_maxima": {
-    "price": 295.2,
-    "name": "CriptoEche"
+    "price": 295.109,
+    "name": "SPYG"
   },
   "promedio": 298.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
