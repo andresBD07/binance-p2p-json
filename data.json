@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T19:39:25.370512",
-  "actualizado_vzla": "2025-10-03 15:39:25 -04",
+  "timestamp_utc": "2025-10-03T19:52:11.843118",
+  "actualizado_vzla": "2025-10-03 15:52:11 -04",
   "compra_segundo": {
-    "price": 295.999,
-    "name": "PrecozPay"
+    "price": 295.979,
+    "name": "AirExhanger"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "FinanceSecure"
+    "price": 298.5,
+    "name": "Dante_IF"
   },
-  "promedio": 296.75,
+  "promedio": 297.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
