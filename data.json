@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T10:56:54.914524",
-  "actualizado_vzla": "2025-10-03 06:56:54 -04",
+  "timestamp_utc": "2025-10-03T11:20:50.242045",
+  "actualizado_vzla": "2025-10-03 07:20:50 -04",
   "compra_segundo": {
-    "price": 299.7,
-    "name": "DanielaCambios"
+    "price": 299.0,
+    "name": "Franb23"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "SecurityCriptos"
+    "price": 297.527,
+    "name": "DNG168CAMBIO"
   },
-  "promedio": 297.85,
+  "promedio": 298.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
