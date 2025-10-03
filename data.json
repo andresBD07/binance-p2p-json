@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T15:26:17.409765",
-  "actualizado_vzla": "2025-10-03 11:26:17 -04",
+  "timestamp_utc": "2025-10-03T15:42:43.752360",
+  "actualizado_vzla": "2025-10-03 11:42:43 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "andrsn"
+    "price": 295.1,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
-    "price": 295.7,
-    "name": "-TRADER_NEMESIS-"
+    "price": 296.0,
+    "name": "Eliezerjph"
   },
-  "promedio": 295.35,
+  "promedio": 295.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
