@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T17:55:36.203170",
-  "actualizado_vzla": "2025-10-03 13:55:36 -04",
+  "timestamp_utc": "2025-10-03T18:35:08.963037",
+  "actualizado_vzla": "2025-10-03 14:35:08 -04",
   "compra_segundo": {
-    "price": 296.0,
-    "name": "cambiosaular"
+    "price": 296.695,
+    "name": "SrTocino"
   },
   "venta_maxima": {
-    "price": 296.5,
+    "price": 296.7,
     "name": "Dante_IF"
   },
-  "promedio": 296.25,
+  "promedio": 296.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
