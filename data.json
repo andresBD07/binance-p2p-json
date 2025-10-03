@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-03T04:28:46.114426",
-  "actualizado_vzla": "2025-10-03 00:28:46 -04",
+  "timestamp_utc": "2025-10-03T04:44:11.498776",
+  "actualizado_vzla": "2025-10-03 00:44:11 -04",
   "compra_segundo": {
-    "price": 301.299,
-    "name": "EXITOSOS2025"
+    "price": 301.4,
+    "name": "SantiagoR19"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "AkExpress"
+    "price": 295.501,
+    "name": "Zelda_34"
   },
   "promedio": 298.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
