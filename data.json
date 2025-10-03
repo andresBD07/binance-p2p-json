@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T21:27:27.647124",
-  "actualizado_vzla": "2025-10-03 17:27:27 -04",
+  "timestamp_utc": "2025-10-03T21:40:42.860033",
+  "actualizado_vzla": "2025-10-03 17:40:42 -04",
   "compra_segundo": {
-    "price": 297.39,
-    "name": "DxvidExchange"
+    "price": 297.75,
+    "name": "racaste"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 297.69,
+  "promedio": 297.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
