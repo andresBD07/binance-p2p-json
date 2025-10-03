@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T23:08:00.216264",
-  "actualizado_vzla": "2025-10-03 19:08:00 -04",
+  "timestamp_utc": "2025-10-03T23:26:08.057763",
+  "actualizado_vzla": "2025-10-03 19:26:08 -04",
   "compra_segundo": {
-    "price": 297.8,
-    "name": "Servic2009"
+    "price": 297.4,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 298.2,
+    "price": 297.0,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 298.0,
+  "promedio": 297.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
