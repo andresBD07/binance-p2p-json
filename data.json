@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-03T04:57:13.558524",
-  "actualizado_vzla": "2025-10-03 00:57:13 -04",
+  "timestamp_utc": "2025-10-03T05:25:45.402348",
+  "actualizado_vzla": "2025-10-03 01:25:45 -04",
   "compra_segundo": {
-    "price": 301.2,
-    "name": "usdtking"
+    "price": 301.5,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 295.501,
-    "name": "Zelda_34"
+    "price": 295.2,
+    "name": "cambioson"
   },
   "promedio": 298.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
