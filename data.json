@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T13:33:31.651367",
-  "actualizado_vzla": "2025-10-03 09:33:31 -04",
+  "timestamp_utc": "2025-10-03T13:47:03.282576",
+  "actualizado_vzla": "2025-10-03 09:47:03 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "HidrotornosCA"
+    "price": 295.4,
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "JoseParedez"
+    "price": 294.323,
+    "name": "CriptoEche"
   },
-  "promedio": 295.0,
+  "promedio": 294.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
