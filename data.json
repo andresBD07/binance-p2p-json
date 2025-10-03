@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T11:35:54.020419",
-  "actualizado_vzla": "2025-10-03 07:35:54 -04",
+  "timestamp_utc": "2025-10-03T11:49:25.121616",
+  "actualizado_vzla": "2025-10-03 07:49:25 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "CriptoInversionesSpa"
+    "price": 297.555,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
     "price": 296.3,
     "name": "KillKeroy"
   },
-  "promedio": 297.15,
+  "promedio": 296.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
