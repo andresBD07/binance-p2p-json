@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T19:52:11.843118",
-  "actualizado_vzla": "2025-10-03 15:52:11 -04",
+  "timestamp_utc": "2025-10-03T20:18:44.109131",
+  "actualizado_vzla": "2025-10-03 16:18:44 -04",
   "compra_segundo": {
-    "price": 295.979,
-    "name": "AirExhanger"
+    "price": 296.294,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "Dante_IF"
+    "price": 297.6,
+    "name": "SS_CAMBIOS"
   },
-  "promedio": 297.24,
+  "promedio": 296.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
