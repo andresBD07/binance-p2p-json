@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T15:56:03.998744",
-  "actualizado_vzla": "2025-10-03 11:56:04 -04",
+  "timestamp_utc": "2025-10-03T16:30:47.945973",
+  "actualizado_vzla": "2025-10-03 12:30:47 -04",
   "compra_segundo": {
-    "price": 295.5,
-    "name": "Servicios_JT"
+    "price": 296.49,
+    "name": "CriptoDan84"
   },
   "venta_maxima": {
-    "price": 296.5,
+    "price": 297.0,
     "name": "Dante_IF"
   },
-  "promedio": 296.0,
+  "promedio": 296.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
