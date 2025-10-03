@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T18:35:08.963037",
-  "actualizado_vzla": "2025-10-03 14:35:08 -04",
+  "timestamp_utc": "2025-10-03T18:51:39.724837",
+  "actualizado_vzla": "2025-10-03 14:51:39 -04",
   "compra_segundo": {
-    "price": 296.695,
-    "name": "SrTocino"
+    "price": 296.6,
+    "name": "CORPORACION_YYSE-25"
   },
   "venta_maxima": {
-    "price": 296.7,
+    "price": 296.75,
     "name": "Dante_IF"
   },
-  "promedio": 296.7,
+  "promedio": 296.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
