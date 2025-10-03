@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T19:12:53.342352",
-  "actualizado_vzla": "2025-10-03 15:12:53 -04",
+  "timestamp_utc": "2025-10-03T19:25:39.962662",
+  "actualizado_vzla": "2025-10-03 15:25:39 -04",
   "compra_segundo": {
-    "price": 296.37,
-    "name": "criptoAJ"
+    "price": 296.05,
+    "name": "VICKYMAN02"
   },
   "venta_maxima": {
-    "price": 297.01,
-    "name": "SS_CAMBIOS"
+    "price": 297.015,
+    "name": "Dante_IF"
   },
-  "promedio": 296.69,
+  "promedio": 296.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
