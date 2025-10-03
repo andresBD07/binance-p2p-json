@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T21:40:42.860033",
-  "actualizado_vzla": "2025-10-03 17:40:42 -04",
+  "timestamp_utc": "2025-10-03T21:53:55.407994",
+  "actualizado_vzla": "2025-10-03 17:53:55 -04",
   "compra_segundo": {
-    "price": 297.75,
-    "name": "racaste"
+    "price": 297.998,
+    "name": "Ekxprees"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 297.88,
+  "promedio": 298.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
