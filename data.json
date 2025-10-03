@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T22:18:46.387059",
-  "actualizado_vzla": "2025-10-03 18:18:46 -04",
+  "timestamp_utc": "2025-10-03T22:34:58.835825",
+  "actualizado_vzla": "2025-10-03 18:34:58 -04",
   "compra_segundo": {
-    "price": 298.248,
-    "name": "VGV"
+    "price": 298.0,
+    "name": "racaste"
   },
   "venta_maxima": {
     "price": 298.01,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 298.13,
+  "promedio": 298.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
