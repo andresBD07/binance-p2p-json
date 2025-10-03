@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T20:18:44.109131",
-  "actualizado_vzla": "2025-10-03 16:18:44 -04",
+  "timestamp_utc": "2025-10-03T20:36:47.365206",
+  "actualizado_vzla": "2025-10-03 16:36:47 -04",
   "compra_segundo": {
-    "price": 296.294,
-    "name": "Perfect_Process"
+    "price": 296.25,
+    "name": "大TaiLung龙"
   },
   "venta_maxima": {
-    "price": 297.6,
-    "name": "SS_CAMBIOS"
+    "price": 298.0,
+    "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 296.95,
+  "promedio": 297.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
