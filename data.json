@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T19:25:39.962662",
-  "actualizado_vzla": "2025-10-03 15:25:39 -04",
+  "timestamp_utc": "2025-10-03T19:39:25.370512",
+  "actualizado_vzla": "2025-10-03 15:39:25 -04",
   "compra_segundo": {
-    "price": 296.05,
-    "name": "VICKYMAN02"
+    "price": 295.999,
+    "name": "PrecozPay"
   },
   "venta_maxima": {
-    "price": 297.015,
-    "name": "Dante_IF"
+    "price": 297.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 296.53,
+  "promedio": 296.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
