@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T06:35:00.802291",
-  "actualizado_vzla": "2025-10-03 02:35:00 -04",
+  "timestamp_utc": "2025-10-03T06:52:09.663206",
+  "actualizado_vzla": "2025-10-03 02:52:09 -04",
   "compra_segundo": {
-    "price": 301.6,
-    "name": "CryptoSickoP2P"
+    "price": 301.7,
+    "name": "ARKADB"
   },
   "venta_maxima": {
     "price": 295.2,
-    "name": "cambioson"
+    "name": "CriptoEche"
   },
-  "promedio": 298.4,
+  "promedio": 298.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
