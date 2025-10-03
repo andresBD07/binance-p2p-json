@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T22:34:58.835825",
-  "actualizado_vzla": "2025-10-03 18:34:58 -04",
+  "timestamp_utc": "2025-10-03T22:48:06.421398",
+  "actualizado_vzla": "2025-10-03 18:48:06 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "racaste"
+    "price": 298.2,
+    "name": "CORPORACION_YYSE-25"
   },
   "venta_maxima": {
     "price": 298.01,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 298.0,
+  "promedio": 298.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
