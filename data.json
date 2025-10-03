@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-03T03:18:32.891970",
-  "actualizado_vzla": "2025-10-02 23:18:32 -04",
+  "timestamp_utc": "2025-10-03T03:42:35.138363",
+  "actualizado_vzla": "2025-10-02 23:42:35 -04",
   "compra_segundo": {
-    "price": 299.68,
-    "name": "DanielaCambios"
+    "price": 299.8,
+    "name": "Trader_Lio"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "FinanceSecure"
+    "price": 296.015,
+    "name": "RONIN_COIN"
   },
-  "promedio": 298.59,
+  "promedio": 297.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
