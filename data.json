@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-04T06:34:25.025722",
-  "actualizado_vzla": "2025-10-04 02:34:25 -04",
+  "timestamp_utc": "2025-10-04T06:50:00.764822",
+  "actualizado_vzla": "2025-10-04 02:50:00 -04",
   "compra_segundo": {
-    "price": 299.99,
-    "name": "Manda2"
+    "price": 299.998,
+    "name": "Reginald_TITULAR"
   },
   "venta_maxima": {
     "price": 295.1,
