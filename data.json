@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T11:45:51.213090",
-  "actualizado_vzla": "2025-10-04 07:45:51 -04",
+  "timestamp_utc": "2025-10-04T11:58:37.242889",
+  "actualizado_vzla": "2025-10-04 07:58:37 -04",
   "compra_segundo": {
-    "price": 297.48,
-    "name": "VENCAMBIOS™"
+    "price": 297.699,
+    "name": "Shar-KExchange"
   },
   "venta_maxima": {
-    "price": 294.5,
-    "name": "hectoraltrader"
+    "price": 295.1,
+    "name": "Quick Payment"
   },
-  "promedio": 295.99,
+  "promedio": 296.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
