@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T02:37:48.088888",
-  "actualizado_vzla": "2025-10-03 22:37:48 -04",
+  "timestamp_utc": "2025-10-04T03:13:57.736777",
+  "actualizado_vzla": "2025-10-03 23:13:57 -04",
   "compra_segundo": {
-    "price": 298.9,
-    "name": "succubus"
+    "price": 298.8,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
     "price": 296.8,
-    "name": "MaxuelTrader"
+    "name": "Quick Payment"
   },
-  "promedio": 297.85,
+  "promedio": 297.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
