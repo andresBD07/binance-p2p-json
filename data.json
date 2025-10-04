@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-04T07:10:53.989468",
-  "actualizado_vzla": "2025-10-04 03:10:53 -04",
+  "timestamp_utc": "2025-10-04T07:27:12.177757",
+  "actualizado_vzla": "2025-10-04 03:27:12 -04",
   "compra_segundo": {
-    "price": 299.999,
-    "name": "AllTraders"
+    "price": 300.0,
+    "name": "RemesasCougar_wise"
   },
   "venta_maxima": {
     "price": 295.1,
