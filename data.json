@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T01:24:01.568671",
-  "actualizado_vzla": "2025-10-03 21:24:01 -04",
+  "timestamp_utc": "2025-10-04T02:37:48.088888",
+  "actualizado_vzla": "2025-10-03 22:37:48 -04",
   "compra_segundo": {
-    "price": 298.495,
-    "name": "AllTraders"
+    "price": 298.9,
+    "name": "succubus"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "-TRADER_NEMESIS-"
+    "price": 296.8,
+    "name": "MaxuelTrader"
   },
-  "promedio": 298.0,
+  "promedio": 297.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
