@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T22:42:57.006102",
-  "actualizado_vzla": "2025-10-04 18:42:57 -04",
+  "timestamp_utc": "2025-10-04T22:56:06.158355",
+  "actualizado_vzla": "2025-10-04 18:56:06 -04",
   "compra_segundo": {
-    "price": 293.4,
-    "name": "RE_CA2003"
+    "price": 293.5,
+    "name": "RapidEx369"
   },
   "venta_maxima": {
-    "price": 292.284,
-    "name": "RAMVALL01"
+    "price": 292.35,
+    "name": "CriptoVergara"
   },
-  "promedio": 292.84,
+  "promedio": 292.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
