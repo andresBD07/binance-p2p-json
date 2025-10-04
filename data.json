@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T03:50:24.820219",
-  "actualizado_vzla": "2025-10-03 23:50:24 -04",
+  "timestamp_utc": "2025-10-04T04:15:30.978190",
+  "actualizado_vzla": "2025-10-04 00:15:30 -04",
   "compra_segundo": {
-    "price": 299.29,
-    "name": "彡TrustyTrader1A彡"
+    "price": 299.0,
+    "name": "VENCAMBIOS™"
   },
   "venta_maxima": {
     "price": 295.5,
-    "name": "TuPagoRapido"
+    "name": "MaxuelTrader"
   },
-  "promedio": 297.39,
+  "promedio": 297.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
