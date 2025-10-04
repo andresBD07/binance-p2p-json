@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T14:22:35.588230",
-  "actualizado_vzla": "2025-10-04 10:22:35 -04",
+  "timestamp_utc": "2025-10-04T14:36:53.856515",
+  "actualizado_vzla": "2025-10-04 10:36:53 -04",
   "compra_segundo": {
-    "price": 295.988,
-    "name": "Harcapital"
+    "price": 295.99,
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
-    "price": 294.9,
-    "name": "hectoraltrader"
+    "price": 295.5,
+    "name": "JoseParedez"
   },
-  "promedio": 295.44,
+  "promedio": 295.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
