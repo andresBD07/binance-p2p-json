@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T08:42:17.783116",
-  "actualizado_vzla": "2025-10-04 04:42:17 -04",
+  "timestamp_utc": "2025-10-04T08:55:07.662997",
+  "actualizado_vzla": "2025-10-04 04:55:07 -04",
   "compra_segundo": {
-    "price": 299.999,
-    "name": "usdtking"
+    "price": 299.98,
+    "name": "彡TrustyTrader1A彡"
   },
   "venta_maxima": {
     "price": 295.1,
     "name": "Suora21"
   },
-  "promedio": 297.55,
+  "promedio": 297.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
