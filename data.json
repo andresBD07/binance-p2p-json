@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T13:57:40.998278",
-  "actualizado_vzla": "2025-10-04 09:57:41 -04",
+  "timestamp_utc": "2025-10-04T14:22:35.588230",
+  "actualizado_vzla": "2025-10-04 10:22:35 -04",
   "compra_segundo": {
-    "price": 296.0,
-    "name": "FRANFLASH8"
+    "price": 295.988,
+    "name": "Harcapital"
   },
   "venta_maxima": {
-    "price": 295.2,
-    "name": "FinanceSecure"
+    "price": 294.9,
+    "name": "hectoraltrader"
   },
-  "promedio": 295.6,
+  "promedio": 295.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
