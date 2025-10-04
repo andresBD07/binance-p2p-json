@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T16:56:00.893486",
-  "actualizado_vzla": "2025-10-04 12:56:00 -04",
+  "timestamp_utc": "2025-10-04T17:19:09.718804",
+  "actualizado_vzla": "2025-10-04 13:19:09 -04",
   "compra_segundo": {
-    "price": 295.45,
-    "name": "Cambi0Express"
+    "price": 295.55,
+    "name": "LaYanza"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "hudsonriver"
+    "price": 295.1,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 295.48,
+  "promedio": 295.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
