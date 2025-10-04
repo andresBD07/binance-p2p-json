@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T22:56:06.158355",
-  "actualizado_vzla": "2025-10-04 18:56:06 -04",
+  "timestamp_utc": "2025-10-04T23:21:58.733433",
+  "actualizado_vzla": "2025-10-04 19:21:58 -04",
   "compra_segundo": {
-    "price": 293.5,
-    "name": "RapidEx369"
+    "price": 293.649,
+    "name": "OLDCARTO"
   },
   "venta_maxima": {
-    "price": 292.35,
-    "name": "CriptoVergara"
+    "price": 292.36,
+    "name": "Criptotur"
   },
-  "promedio": 292.93,
+  "promedio": 293.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
