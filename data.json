@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T17:59:08.553500",
-  "actualizado_vzla": "2025-10-04 13:59:08 -04",
+  "timestamp_utc": "2025-10-04T18:33:39.722089",
+  "actualizado_vzla": "2025-10-04 14:33:39 -04",
   "compra_segundo": {
-    "price": 294.999,
-    "name": "Exoticswaps"
+    "price": 294.99,
+    "name": "Crypto_InvestVEN"
   },
   "venta_maxima": {
-    "price": 294.15,
-    "name": "All-inCrypto"
+    "price": 294.25,
+    "name": "abudeep_"
   },
-  "promedio": 294.57,
+  "promedio": 294.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
