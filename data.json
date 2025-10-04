@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T17:33:18.349812",
-  "actualizado_vzla": "2025-10-04 13:33:18 -04",
+  "timestamp_utc": "2025-10-04T17:46:16.277535",
+  "actualizado_vzla": "2025-10-04 13:46:16 -04",
   "compra_segundo": {
-    "price": 295.5,
-    "name": "AkExpress"
+    "price": 295.35,
+    "name": "IntercambiosC"
   },
   "venta_maxima": {
-    "price": 295.53,
-    "name": "MaestroRoshi-"
+    "price": 294.401,
+    "name": "hudsonriver"
   },
-  "promedio": 295.51,
+  "promedio": 294.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
