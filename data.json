@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T05:56:56.198799",
-  "actualizado_vzla": "2025-10-04 01:56:56 -04",
+  "timestamp_utc": "2025-10-04T06:34:25.025722",
+  "actualizado_vzla": "2025-10-04 02:34:25 -04",
   "compra_segundo": {
-    "price": 299.88,
-    "name": "ChuchoTrader-_-"
+    "price": 299.99,
+    "name": "Manda2"
   },
   "venta_maxima": {
     "price": 295.1,
     "name": "Suora21"
   },
-  "promedio": 297.49,
+  "promedio": 297.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
