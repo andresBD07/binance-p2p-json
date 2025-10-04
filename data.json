@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T17:19:09.718804",
-  "actualizado_vzla": "2025-10-04 13:19:09 -04",
+  "timestamp_utc": "2025-10-04T17:33:18.349812",
+  "actualizado_vzla": "2025-10-04 13:33:18 -04",
   "compra_segundo": {
-    "price": 295.55,
-    "name": "LaYanza"
+    "price": 295.5,
+    "name": "AkExpress"
   },
   "venta_maxima": {
-    "price": 295.1,
-    "name": "被放逐的狐狸"
+    "price": 295.53,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 295.33,
+  "promedio": 295.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
