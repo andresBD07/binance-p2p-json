@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T05:44:05.365620",
-  "actualizado_vzla": "2025-10-04 01:44:05 -04",
+  "timestamp_utc": "2025-10-04T05:56:56.198799",
+  "actualizado_vzla": "2025-10-04 01:56:56 -04",
   "compra_segundo": {
-    "price": 299.79,
-    "name": "Imperiocrypto_co"
+    "price": 299.88,
+    "name": "ChuchoTrader-_-"
   },
   "venta_maxima": {
     "price": 295.1,
     "name": "Suora21"
   },
-  "promedio": 297.45,
+  "promedio": 297.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
