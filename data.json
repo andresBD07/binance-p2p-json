@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T14:50:09.284679",
-  "actualizado_vzla": "2025-10-04 10:50:09 -04",
+  "timestamp_utc": "2025-10-04T15:11:06.345887",
+  "actualizado_vzla": "2025-10-04 11:11:06 -04",
   "compra_segundo": {
-    "price": 295.689,
-    "name": "VENDE AQUI"
+    "price": 295.6,
+    "name": "RE_CA2003"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "JoseParedez"
+    "price": 295.21,
+    "name": "cazing2230"
   },
-  "promedio": 295.59,
+  "promedio": 295.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
