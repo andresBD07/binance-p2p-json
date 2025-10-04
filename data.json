@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-04T18:33:39.722089",
-  "actualizado_vzla": "2025-10-04 14:33:39 -04",
+  "timestamp_utc": "2025-10-04T18:48:44.470619",
+  "actualizado_vzla": "2025-10-04 14:48:44 -04",
   "compra_segundo": {
-    "price": 294.99,
-    "name": "Crypto_InvestVEN"
+    "price": 294.95,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
-    "price": 294.25,
-    "name": "abudeep_"
+    "price": 294.3,
+    "name": "exchangesamam22"
   },
   "promedio": 294.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
