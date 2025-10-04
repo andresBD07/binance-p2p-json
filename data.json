@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T22:08:31.757480",
-  "actualizado_vzla": "2025-10-04 18:08:31 -04",
+  "timestamp_utc": "2025-10-04T22:29:36.433582",
+  "actualizado_vzla": "2025-10-04 18:29:36 -04",
   "compra_segundo": {
-    "price": 293.6,
-    "name": "denny34"
+    "price": 293.5,
+    "name": "CambioSPinex"
   },
   "venta_maxima": {
-    "price": 291.919,
+    "price": 292.13,
     "name": "Coinectado"
   },
-  "promedio": 292.76,
+  "promedio": 292.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
