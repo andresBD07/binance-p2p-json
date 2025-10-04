@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-04T10:31:35.192084",
-  "actualizado_vzla": "2025-10-04 06:31:35 -04",
+  "timestamp_utc": "2025-10-04T10:44:39.693977",
+  "actualizado_vzla": "2025-10-04 06:44:39 -04",
   "compra_segundo": {
     "price": 298.77,
-    "name": "CryptoSickoP2P"
+    "name": "圎Sushi"
   },
   "venta_maxima": {
     "price": 295.1,
-    "name": "Suora21"
+    "name": "Quick Payment"
   },
   "promedio": 296.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
