@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T22:29:36.433582",
-  "actualizado_vzla": "2025-10-04 18:29:36 -04",
+  "timestamp_utc": "2025-10-04T22:42:57.006102",
+  "actualizado_vzla": "2025-10-04 18:42:57 -04",
   "compra_segundo": {
-    "price": 293.5,
-    "name": "CambioSPinex"
+    "price": 293.4,
+    "name": "RE_CA2003"
   },
   "venta_maxima": {
-    "price": 292.13,
-    "name": "Coinectado"
+    "price": 292.284,
+    "name": "RAMVALL01"
   },
-  "promedio": 292.81,
+  "promedio": 292.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
