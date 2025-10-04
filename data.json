@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T14:36:53.856515",
-  "actualizado_vzla": "2025-10-04 10:36:53 -04",
+  "timestamp_utc": "2025-10-04T14:50:09.284679",
+  "actualizado_vzla": "2025-10-04 10:50:09 -04",
   "compra_segundo": {
-    "price": 295.99,
-    "name": "Blockchain-Experts"
+    "price": 295.689,
+    "name": "VENDE AQUI"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "JoseParedez"
   },
-  "promedio": 295.75,
+  "promedio": 295.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
