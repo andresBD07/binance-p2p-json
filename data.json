@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T23:21:58.733433",
-  "actualizado_vzla": "2025-10-04 19:21:58 -04",
+  "timestamp_utc": "2025-10-04T23:36:25.990997",
+  "actualizado_vzla": "2025-10-04 19:36:26 -04",
   "compra_segundo": {
-    "price": 293.649,
-    "name": "OLDCARTO"
+    "price": 293.4,
+    "name": "CAMBIOCARVAJAL"
   },
   "venta_maxima": {
-    "price": 292.36,
-    "name": "Criptotur"
+    "price": 292.24,
+    "name": "Coinectado"
   },
-  "promedio": 293.0,
+  "promedio": 292.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
