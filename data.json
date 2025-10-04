@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T03:13:57.736777",
-  "actualizado_vzla": "2025-10-03 23:13:57 -04",
+  "timestamp_utc": "2025-10-04T03:37:38.035069",
+  "actualizado_vzla": "2025-10-03 23:37:38 -04",
   "compra_segundo": {
-    "price": 298.8,
-    "name": "TUCAMBIOSEGURO24"
+    "price": 298.999,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 296.8,
-    "name": "Quick Payment"
+    "price": 295.5,
+    "name": "TuPagoRapido"
   },
-  "promedio": 297.8,
+  "promedio": 297.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
