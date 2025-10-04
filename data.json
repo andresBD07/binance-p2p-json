@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T15:11:06.345887",
-  "actualizado_vzla": "2025-10-04 11:11:06 -04",
+  "timestamp_utc": "2025-10-04T15:28:10.707705",
+  "actualizado_vzla": "2025-10-04 11:28:10 -04",
   "compra_segundo": {
-    "price": 295.6,
-    "name": "RE_CA2003"
+    "price": 295.5,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 295.21,
-    "name": "cazing2230"
+    "price": 295.51,
+    "name": "hectoraltrader"
   },
-  "promedio": 295.4,
+  "promedio": 295.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
