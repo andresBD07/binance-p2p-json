@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T20:30:59.289037",
-  "actualizado_vzla": "2025-10-04 16:30:59 -04",
+  "timestamp_utc": "2025-10-04T20:43:50.577975",
+  "actualizado_vzla": "2025-10-04 16:43:50 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "Manda2"
+    "price": 293.919,
+    "name": "Cating"
   },
   "venta_maxima": {
     "price": 293.1,
     "name": "RONIN_COIN"
   },
-  "promedio": 293.55,
+  "promedio": 293.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
