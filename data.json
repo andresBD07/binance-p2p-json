@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T11:32:24.726170",
-  "actualizado_vzla": "2025-10-04 07:32:24 -04",
+  "timestamp_utc": "2025-10-04T11:45:51.213090",
+  "actualizado_vzla": "2025-10-04 07:45:51 -04",
   "compra_segundo": {
-    "price": 297.499,
-    "name": "Orlando_1705"
+    "price": 297.48,
+    "name": "VENCAMBIOS™"
   },
   "venta_maxima": {
-    "price": 295.1,
-    "name": "Quick Payment"
+    "price": 294.5,
+    "name": "hectoraltrader"
   },
-  "promedio": 296.3,
+  "promedio": 295.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
