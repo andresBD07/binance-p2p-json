@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T10:44:39.693977",
-  "actualizado_vzla": "2025-10-04 06:44:39 -04",
+  "timestamp_utc": "2025-10-04T10:57:37.326763",
+  "actualizado_vzla": "2025-10-04 06:57:37 -04",
   "compra_segundo": {
-    "price": 298.77,
-    "name": "圎Sushi"
+    "price": 298.55,
+    "name": "CambiosFlassh"
   },
   "venta_maxima": {
     "price": 295.1,
     "name": "Quick Payment"
   },
-  "promedio": 296.94,
+  "promedio": 296.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
