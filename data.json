@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T04:36:09.229238",
-  "actualizado_vzla": "2025-10-04 00:36:09 -04",
+  "timestamp_utc": "2025-10-04T04:49:33.279695",
+  "actualizado_vzla": "2025-10-04 00:49:33 -04",
   "compra_segundo": {
-    "price": 299.8,
-    "name": "KobyTrader"
+    "price": 299.7,
+    "name": "IBEROGESTION"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "MaxuelTrader"
   },
-  "promedio": 297.65,
+  "promedio": 297.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
