@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T23:36:25.990997",
-  "actualizado_vzla": "2025-10-04 19:36:26 -04",
+  "timestamp_utc": "2025-10-04T23:49:09.668667",
+  "actualizado_vzla": "2025-10-04 19:49:09 -04",
   "compra_segundo": {
-    "price": 293.4,
-    "name": "CAMBIOCARVAJAL"
+    "price": 293.39,
+    "name": "SupersonicPay"
   },
   "venta_maxima": {
     "price": 292.24,
     "name": "Coinectado"
   },
-  "promedio": 292.82,
+  "promedio": 292.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
