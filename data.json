@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T17:47:45.351737",
-  "actualizado_vzla": "2025-10-05 13:47:45 -04",
+  "timestamp_utc": "2025-10-05T18:10:31.292615",
+  "actualizado_vzla": "2025-10-05 14:10:31 -04",
   "compra_segundo": {
-    "price": 292.45,
-    "name": "EmporioExchange"
+    "price": 292.6,
+    "name": "Bestsellerrr"
   },
   "venta_maxima": {
-    "price": 291.4,
-    "name": "RONIN_COIN"
+    "price": 291.0,
+    "name": "JLxanges"
   },
-  "promedio": 291.92,
+  "promedio": 291.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
