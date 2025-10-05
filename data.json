@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T13:57:39.160750",
-  "actualizado_vzla": "2025-10-05 09:57:39 -04",
+  "timestamp_utc": "2025-10-05T14:22:27.215792",
+  "actualizado_vzla": "2025-10-05 10:22:27 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "Camilo171"
+    "price": 293.59,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
     "price": 292.0,
-    "name": "Godisgift"
+    "name": "JoseParedez"
   },
-  "promedio": 293.0,
+  "promedio": 292.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
