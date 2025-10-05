@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T20:46:02.802004",
-  "actualizado_vzla": "2025-10-05 16:46:02 -04",
+  "timestamp_utc": "2025-10-05T20:58:47.529906",
+  "actualizado_vzla": "2025-10-05 16:58:47 -04",
   "compra_segundo": {
-    "price": 292.99,
-    "name": "CambioSExpreessS"
+    "price": 292.998,
+    "name": "CambiosFlassh"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "JLxanges"
+    "price": 291.5,
+    "name": "RONIN_COIN"
   },
-  "promedio": 292.0,
+  "promedio": 292.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
