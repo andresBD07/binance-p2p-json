@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T07:40:16.088411",
-  "actualizado_vzla": "2025-10-05 03:40:16 -04",
+  "timestamp_utc": "2025-10-05T07:53:21.418128",
+  "actualizado_vzla": "2025-10-05 03:53:21 -04",
   "compra_segundo": {
-    "price": 297.199,
-    "name": "panchofranco1"
+    "price": 297.1,
+    "name": "ARKADB"
   },
   "venta_maxima": {
     "price": 290.3,
     "name": "zama2004"
   },
-  "promedio": 293.75,
+  "promedio": 293.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
