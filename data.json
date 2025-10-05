@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T18:50:42.912019",
-  "actualizado_vzla": "2025-10-05 14:50:42 -04",
+  "timestamp_utc": "2025-10-05T19:10:36.120038",
+  "actualizado_vzla": "2025-10-05 15:10:36 -04",
   "compra_segundo": {
-    "price": 292.25,
-    "name": "DanielaCambios"
+    "price": 292.1,
+    "name": "Jcby"
   },
   "venta_maxima": {
     "price": 291.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 291.77,
+  "promedio": 291.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
