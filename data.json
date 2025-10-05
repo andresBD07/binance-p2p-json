@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T08:54:02.377397",
-  "actualizado_vzla": "2025-10-05 04:54:02 -04",
+  "timestamp_utc": "2025-10-05T09:18:51.477138",
+  "actualizado_vzla": "2025-10-05 05:18:51 -04",
   "compra_segundo": {
-    "price": 296.999,
-    "name": "AlainT"
+    "price": 296.0,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 290.3,
     "name": "zama2004"
   },
-  "promedio": 293.65,
+  "promedio": 293.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
