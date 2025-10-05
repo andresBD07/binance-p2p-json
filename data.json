@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-05T10:41:02.549881",
-  "actualizado_vzla": "2025-10-05 06:41:02 -04",
+  "timestamp_utc": "2025-10-05T10:54:25.582031",
+  "actualizado_vzla": "2025-10-05 06:54:25 -04",
   "compra_segundo": {
     "price": 295.0,
-    "name": "Exoticswaps"
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 290.009,
-    "name": "SPYG"
+    "price": 290.0,
+    "name": "Weppatech"
   },
   "promedio": 292.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
