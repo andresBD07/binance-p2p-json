@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T22:56:50.298471",
-  "actualizado_vzla": "2025-10-05 18:56:50 -04",
+  "timestamp_utc": "2025-10-05T23:20:16.386915",
+  "actualizado_vzla": "2025-10-05 19:20:16 -04",
   "compra_segundo": {
-    "price": 293.579,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 293.97,
+    "name": "SmarPhon3"
   },
   "venta_maxima": {
     "price": 291.7,
-    "name": "hectoraltrader"
+    "name": "RONIN_COIN"
   },
-  "promedio": 292.64,
+  "promedio": 292.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
