@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T20:58:47.529906",
-  "actualizado_vzla": "2025-10-05 16:58:47 -04",
+  "timestamp_utc": "2025-10-05T21:21:42.200095",
+  "actualizado_vzla": "2025-10-05 17:21:42 -04",
   "compra_segundo": {
-    "price": 292.998,
-    "name": "CambiosFlassh"
+    "price": 293.69,
+    "name": "ChuchoTrader-_-"
   },
   "venta_maxima": {
-    "price": 291.5,
-    "name": "RONIN_COIN"
+    "price": 291.3,
+    "name": "TOPlevelS"
   },
-  "promedio": 292.25,
+  "promedio": 292.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
