@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T05:10:01.249533",
-  "actualizado_vzla": "2025-10-05 01:10:01 -04",
+  "timestamp_utc": "2025-10-05T05:30:20.538781",
+  "actualizado_vzla": "2025-10-05 01:30:20 -04",
   "compra_segundo": {
-    "price": 296.75,
-    "name": "CRIPTOMAINN"
+    "price": 296.98,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 292.009,
     "name": "SPYG"
   },
-  "promedio": 294.38,
+  "promedio": 294.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
