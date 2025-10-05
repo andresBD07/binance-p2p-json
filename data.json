@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T05:56:55.186003",
-  "actualizado_vzla": "2025-10-05 01:56:55 -04",
+  "timestamp_utc": "2025-10-05T06:34:42.495561",
+  "actualizado_vzla": "2025-10-05 02:34:42 -04",
   "compra_segundo": {
-    "price": 297.19,
-    "name": "--FLASH--"
+    "price": 297.0,
+    "name": "ivaneskape1"
   },
   "venta_maxima": {
-    "price": 292.009,
-    "name": "SPYG"
+    "price": 290.3,
+    "name": "zama2004"
   },
-  "promedio": 294.6,
+  "promedio": 293.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
