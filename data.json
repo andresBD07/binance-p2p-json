@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T13:31:33.018728",
-  "actualizado_vzla": "2025-10-05 09:31:33 -04",
+  "timestamp_utc": "2025-10-05T13:44:34.845946",
+  "actualizado_vzla": "2025-10-05 09:44:34 -04",
   "compra_segundo": {
-    "price": 294.099,
-    "name": "guillermoP"
+    "price": 294.5,
+    "name": "PayFast"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "USDTpulso"
+    "price": 291.15,
+    "name": "CriptoVergara"
   },
-  "promedio": 292.55,
+  "promedio": 292.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
