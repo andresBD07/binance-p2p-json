@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T15:42:09.766901",
-  "actualizado_vzla": "2025-10-05 11:42:09 -04",
+  "timestamp_utc": "2025-10-05T15:55:01.445263",
+  "actualizado_vzla": "2025-10-05 11:55:01 -04",
   "compra_segundo": {
     "price": 292.0,
     "name": "HidrotornosCA"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "Child-CambioFacil"
+    "price": 291.2,
+    "name": "JoseParedez"
   },
-  "promedio": 291.5,
+  "promedio": 291.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
