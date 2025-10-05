@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T17:20:00.169605",
-  "actualizado_vzla": "2025-10-05 13:20:00 -04",
+  "timestamp_utc": "2025-10-05T17:34:32.033496",
+  "actualizado_vzla": "2025-10-05 13:34:32 -04",
   "compra_segundo": {
-    "price": 292.42,
-    "name": "DxvidExchange"
+    "price": 292.685,
+    "name": "CambiosLaGoma"
   },
   "venta_maxima": {
-    "price": 290.8,
-    "name": "aerm38"
+    "price": 291.5,
+    "name": "RONIN_COIN"
   },
-  "promedio": 291.61,
+  "promedio": 292.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
