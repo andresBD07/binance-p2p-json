@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T14:37:13.077975",
-  "actualizado_vzla": "2025-10-05 10:37:13 -04",
+  "timestamp_utc": "2025-10-05T14:50:37.999335",
+  "actualizado_vzla": "2025-10-05 10:50:38 -04",
   "compra_segundo": {
-    "price": 292.995,
-    "name": "DARITA25"
+    "price": 293.12,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 291.3,
-    "name": "abudeep_"
+    "price": 292.0,
+    "name": "JoseParedez"
   },
-  "promedio": 292.15,
+  "promedio": 292.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
