@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T16:43:25.930609",
-  "actualizado_vzla": "2025-10-05 12:43:25 -04",
+  "timestamp_utc": "2025-10-05T16:56:19.259015",
+  "actualizado_vzla": "2025-10-05 12:56:19 -04",
   "compra_segundo": {
-    "price": 292.38,
-    "name": "PagoInstantaneoP2P"
+    "price": 292.5,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 290.4,
-    "name": "Godisgift"
+    "price": 290.3,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 291.39,
+  "promedio": 291.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
