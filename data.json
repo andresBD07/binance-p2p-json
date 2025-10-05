@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T13:44:34.845946",
-  "actualizado_vzla": "2025-10-05 09:44:34 -04",
+  "timestamp_utc": "2025-10-05T13:57:39.160750",
+  "actualizado_vzla": "2025-10-05 09:57:39 -04",
   "compra_segundo": {
-    "price": 294.5,
-    "name": "PayFast"
+    "price": 294.0,
+    "name": "Camilo171"
   },
   "venta_maxima": {
-    "price": 291.15,
-    "name": "CriptoVergara"
+    "price": 292.0,
+    "name": "Godisgift"
   },
-  "promedio": 292.82,
+  "promedio": 293.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
