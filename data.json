@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T09:32:37.358253",
-  "actualizado_vzla": "2025-10-05 05:32:37 -04",
+  "timestamp_utc": "2025-10-05T09:45:42.957644",
+  "actualizado_vzla": "2025-10-05 05:45:42 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "DardoVeloz"
+    "price": 295.8,
+    "name": "Kryptorey"
   },
   "venta_maxima": {
     "price": 290.3,
     "name": "zama2004"
   },
-  "promedio": 293.65,
+  "promedio": 293.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
