@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T04:48:56.653696",
-  "actualizado_vzla": "2025-10-05 00:48:56 -04",
+  "timestamp_utc": "2025-10-05T05:10:01.249533",
+  "actualizado_vzla": "2025-10-05 01:10:01 -04",
   "compra_segundo": {
-    "price": 296.4,
-    "name": "CriptoBlessed"
+    "price": 296.75,
+    "name": "CRIPTOMAINN"
   },
   "venta_maxima": {
     "price": 292.009,
     "name": "SPYG"
   },
-  "promedio": 294.2,
+  "promedio": 294.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
