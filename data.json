@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T14:22:27.215792",
-  "actualizado_vzla": "2025-10-05 10:22:27 -04",
+  "timestamp_utc": "2025-10-05T14:37:13.077975",
+  "actualizado_vzla": "2025-10-05 10:37:13 -04",
   "compra_segundo": {
-    "price": 293.59,
-    "name": "NexusBlock"
+    "price": 292.995,
+    "name": "DARITA25"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "JoseParedez"
+    "price": 291.3,
+    "name": "abudeep_"
   },
-  "promedio": 292.79,
+  "promedio": 292.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
