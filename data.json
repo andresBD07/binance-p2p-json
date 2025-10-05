@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T05:43:33.085117",
-  "actualizado_vzla": "2025-10-05 01:43:33 -04",
+  "timestamp_utc": "2025-10-05T05:56:55.186003",
+  "actualizado_vzla": "2025-10-05 01:56:55 -04",
   "compra_segundo": {
-    "price": 296.98,
-    "name": "Digitalimport"
+    "price": 297.19,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
     "price": 292.009,
     "name": "SPYG"
   },
-  "promedio": 294.49,
+  "promedio": 294.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
