@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T06:49:50.321422",
-  "actualizado_vzla": "2025-10-05 02:49:50 -04",
+  "timestamp_utc": "2025-10-05T07:10:53.760641",
+  "actualizado_vzla": "2025-10-05 03:10:53 -04",
   "compra_segundo": {
-    "price": 297.099,
-    "name": "edeysa"
+    "price": 297.199,
+    "name": "panchofranco1"
   },
   "venta_maxima": {
     "price": 290.3,
     "name": "zama2004"
   },
-  "promedio": 293.7,
+  "promedio": 293.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
