@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-05T03:28:30.302540",
-  "actualizado_vzla": "2025-10-04 23:28:30 -04",
+  "timestamp_utc": "2025-10-05T03:49:58.435630",
+  "actualizado_vzla": "2025-10-04 23:49:58 -04",
   "compra_segundo": {
-    "price": 294.999,
-    "name": "Hottiee"
+    "price": 295.0,
+    "name": "AvExchange"
   },
   "venta_maxima": {
     "price": 292.009,
