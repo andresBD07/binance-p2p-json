@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T16:26:14.362750",
-  "actualizado_vzla": "2025-10-05 12:26:14 -04",
+  "timestamp_utc": "2025-10-05T16:43:25.930609",
+  "actualizado_vzla": "2025-10-05 12:43:25 -04",
   "compra_segundo": {
-    "price": 292.69,
-    "name": "Gossip_r"
+    "price": 292.38,
+    "name": "PagoInstantaneoP2P"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "Child-CambioFacil"
+    "price": 290.4,
+    "name": "Godisgift"
   },
-  "promedio": 291.85,
+  "promedio": 291.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
