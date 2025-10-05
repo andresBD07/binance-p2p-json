@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T16:56:19.259015",
-  "actualizado_vzla": "2025-10-05 12:56:19 -04",
+  "timestamp_utc": "2025-10-05T17:20:00.169605",
+  "actualizado_vzla": "2025-10-05 13:20:00 -04",
   "compra_segundo": {
-    "price": 292.5,
-    "name": "JP-Services"
+    "price": 292.42,
+    "name": "DxvidExchange"
   },
   "venta_maxima": {
-    "price": 290.3,
-    "name": "Child-CambioFacil"
+    "price": 290.8,
+    "name": "aerm38"
   },
-  "promedio": 291.4,
+  "promedio": 291.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
