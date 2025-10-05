@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T14:50:37.999335",
-  "actualizado_vzla": "2025-10-05 10:50:38 -04",
+  "timestamp_utc": "2025-10-05T15:12:12.185849",
+  "actualizado_vzla": "2025-10-05 11:12:12 -04",
   "compra_segundo": {
-    "price": 293.12,
-    "name": "ISATradea"
+    "price": 292.9,
+    "name": "CORPORACION_YYSE-25"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "JoseParedez"
+    "price": 291.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 292.56,
+  "promedio": 291.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
