@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T13:13:03.990713",
-  "actualizado_vzla": "2025-10-05 09:13:04 -04",
+  "timestamp_utc": "2025-10-05T13:31:33.018728",
+  "actualizado_vzla": "2025-10-05 09:31:33 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "cambiosaular"
+    "price": 294.099,
+    "name": "guillermoP"
   },
   "venta_maxima": {
-    "price": 292.0,
-    "name": "Godisgift"
+    "price": 291.0,
+    "name": "USDTpulso"
   },
-  "promedio": 293.0,
+  "promedio": 292.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
