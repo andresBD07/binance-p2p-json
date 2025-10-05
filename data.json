@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-04T23:49:09.668667",
-  "actualizado_vzla": "2025-10-04 19:49:09 -04",
+  "timestamp_utc": "2025-10-05T00:57:10.121075",
+  "actualizado_vzla": "2025-10-04 20:57:10 -04",
   "compra_segundo": {
-    "price": 293.39,
-    "name": "SupersonicPay"
+    "price": 293.45,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
-    "price": 292.24,
-    "name": "Coinectado"
+    "price": 291.909,
+    "name": "SPYG"
   },
-  "promedio": 292.81,
+  "promedio": 292.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
