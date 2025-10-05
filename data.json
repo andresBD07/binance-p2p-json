@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T09:45:42.957644",
-  "actualizado_vzla": "2025-10-05 05:45:42 -04",
+  "timestamp_utc": "2025-10-05T09:58:26.134147",
+  "actualizado_vzla": "2025-10-05 05:58:26 -04",
   "compra_segundo": {
     "price": 295.8,
-    "name": "Kryptorey"
+    "name": "Lillie05"
   },
   "venta_maxima": {
-    "price": 290.3,
-    "name": "zama2004"
+    "price": 290.009,
+    "name": "SPYG"
   },
-  "promedio": 293.05,
+  "promedio": 292.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
