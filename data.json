@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T21:49:14.093323",
-  "actualizado_vzla": "2025-10-05 17:49:14 -04",
+  "timestamp_utc": "2025-10-05T22:09:52.307419",
+  "actualizado_vzla": "2025-10-05 18:09:52 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "zama2004"
+    "price": 293.79,
+    "name": "epiracFJ"
   },
   "venta_maxima": {
-    "price": 291.6,
+    "price": 291.7,
     "name": "hectoraltrader"
   },
-  "promedio": 292.8,
+  "promedio": 292.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
