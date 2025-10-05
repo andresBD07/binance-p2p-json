@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T09:18:51.477138",
-  "actualizado_vzla": "2025-10-05 05:18:51 -04",
+  "timestamp_utc": "2025-10-05T09:32:37.358253",
+  "actualizado_vzla": "2025-10-05 05:32:37 -04",
   "compra_segundo": {
-    "price": 296.0,
-    "name": "GaAle19"
+    "price": 297.0,
+    "name": "DardoVeloz"
   },
   "venta_maxima": {
     "price": 290.3,
     "name": "zama2004"
   },
-  "promedio": 293.15,
+  "promedio": 293.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
