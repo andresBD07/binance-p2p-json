@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T00:57:10.121075",
-  "actualizado_vzla": "2025-10-04 20:57:10 -04",
+  "timestamp_utc": "2025-10-05T02:42:51.000233",
+  "actualizado_vzla": "2025-10-04 22:42:51 -04",
   "compra_segundo": {
-    "price": 293.45,
-    "name": "-----ELITE"
+    "price": 295.0,
+    "name": "GokuExchange"
   },
   "venta_maxima": {
-    "price": 291.909,
+    "price": 292.009,
     "name": "SPYG"
   },
-  "promedio": 292.68,
+  "promedio": 293.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
