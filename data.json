@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T18:10:31.292615",
-  "actualizado_vzla": "2025-10-05 14:10:31 -04",
+  "timestamp_utc": "2025-10-05T18:37:56.953991",
+  "actualizado_vzla": "2025-10-05 14:37:56 -04",
   "compra_segundo": {
-    "price": 292.6,
-    "name": "Bestsellerrr"
+    "price": 292.25,
+    "name": "Rappid0"
   },
   "venta_maxima": {
-    "price": 291.0,
-    "name": "JLxanges"
+    "price": 291.3,
+    "name": "RONIN_COIN"
   },
-  "promedio": 291.8,
+  "promedio": 291.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
