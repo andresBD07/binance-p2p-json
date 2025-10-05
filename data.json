@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T22:43:52.987818",
-  "actualizado_vzla": "2025-10-05 18:43:52 -04",
+  "timestamp_utc": "2025-10-05T22:56:50.298471",
+  "actualizado_vzla": "2025-10-05 18:56:50 -04",
   "compra_segundo": {
-    "price": 293.499,
-    "name": "Perfect_Process"
+    "price": 293.579,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
     "price": 291.7,
     "name": "hectoraltrader"
   },
-  "promedio": 292.6,
+  "promedio": 292.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
