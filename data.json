@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T11:42:31.029719",
-  "actualizado_vzla": "2025-10-05 07:42:31 -04",
+  "timestamp_utc": "2025-10-05T11:55:31.597178",
+  "actualizado_vzla": "2025-10-05 07:55:31 -04",
   "compra_segundo": {
-    "price": 294.4,
-    "name": "PayBin07"
+    "price": 294.0,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
-    "price": 290.1,
-    "name": "jewishdiamond"
+    "price": 290.0,
+    "name": "Weppatech"
   },
-  "promedio": 292.25,
+  "promedio": 292.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
