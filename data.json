@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T17:10:58.154924",
-  "actualizado_vzla": "2025-10-06 13:10:58 -04",
+  "timestamp_utc": "2025-10-06T17:31:21.413649",
+  "actualizado_vzla": "2025-10-06 13:31:21 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "JorleGP"
+    "price": 296.995,
+    "name": "MOISES0908"
   },
   "venta_maxima": {
-    "price": 296.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 297.5,
+    "name": "hudsonriver"
   },
-  "promedio": 296.75,
+  "promedio": 297.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
