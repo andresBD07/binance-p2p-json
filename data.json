@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T12:26:12.176463",
-  "actualizado_vzla": "2025-10-06 08:26:12 -04",
+  "timestamp_utc": "2025-10-06T13:07:04.757379",
+  "actualizado_vzla": "2025-10-06 09:07:04 -04",
   "compra_segundo": {
-    "price": 291.9,
-    "name": "CambioSExpreessS"
+    "price": 292.9,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 290.2,
-    "name": "MaxuelTrader"
+    "price": 291.5,
+    "name": "hudsonriver"
   },
-  "promedio": 291.05,
+  "promedio": 292.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
