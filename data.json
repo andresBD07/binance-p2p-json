@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T21:50:24.531843",
-  "actualizado_vzla": "2025-10-06 17:50:24 -04",
+  "timestamp_utc": "2025-10-06T22:12:31.242998",
+  "actualizado_vzla": "2025-10-06 18:12:31 -04",
   "compra_segundo": {
-    "price": 297.97,
-    "name": "R0ckandR0ll"
+    "price": 297.799,
+    "name": "CambiosYA _SOLO TITULARES"
   },
   "venta_maxima": {
-    "price": 297.3,
-    "name": "El-Warao"
+    "price": 298.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 297.63,
+  "promedio": 298.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
