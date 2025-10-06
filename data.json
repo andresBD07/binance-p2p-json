@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-05T23:47:51.917898",
-  "actualizado_vzla": "2025-10-05 19:47:51 -04",
+  "timestamp_utc": "2025-10-06T00:40:18.691683",
+  "actualizado_vzla": "2025-10-05 20:40:18 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "zama2004"
+    "price": 295.0,
+    "name": "Del_Caribe_19"
   },
   "venta_maxima": {
     "price": 291.91,
     "name": "RONIN_COIN"
   },
-  "promedio": 292.96,
+  "promedio": 293.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
