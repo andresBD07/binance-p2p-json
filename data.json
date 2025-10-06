@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T21:22:53.985046",
-  "actualizado_vzla": "2025-10-06 17:22:53 -04",
+  "timestamp_utc": "2025-10-06T21:37:24.943815",
+  "actualizado_vzla": "2025-10-06 17:37:24 -04",
   "compra_segundo": {
-    "price": 298.2,
-    "name": "Lunicrypto"
+    "price": 298.187,
+    "name": "CambiosYA _SOLO TITULARES"
   },
   "venta_maxima": {
-    "price": 297.9,
+    "price": 297.5,
     "name": "RONIN_COIN"
   },
-  "promedio": 298.05,
+  "promedio": 297.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
