@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T17:31:21.413649",
-  "actualizado_vzla": "2025-10-06 13:31:21 -04",
+  "timestamp_utc": "2025-10-06T17:44:25.600950",
+  "actualizado_vzla": "2025-10-06 13:44:25 -04",
   "compra_segundo": {
-    "price": 296.995,
-    "name": "MOISES0908"
+    "price": 296.99,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "hudsonriver"
+    "price": 297.0,
+    "name": "TAURUS85"
   },
-  "promedio": 297.25,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
