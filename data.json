@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T10:57:35.441812",
-  "actualizado_vzla": "2025-10-06 06:57:35 -04",
+  "timestamp_utc": "2025-10-06T11:21:56.948542",
+  "actualizado_vzla": "2025-10-06 07:21:56 -04",
   "compra_segundo": {
-    "price": 294.74,
-    "name": "Neriojo"
+    "price": 293.28,
+    "name": "fnog"
   },
   "venta_maxima": {
-    "price": 289.8,
-    "name": "MaxuelTrader"
+    "price": 290.0,
+    "name": "EDbusiness"
   },
-  "promedio": 292.27,
+  "promedio": 291.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
