@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T10:44:12.923825",
-  "actualizado_vzla": "2025-10-06 06:44:12 -04",
+  "timestamp_utc": "2025-10-06T10:57:35.441812",
+  "actualizado_vzla": "2025-10-06 06:57:35 -04",
   "compra_segundo": {
-    "price": 295.496,
-    "name": "CriptoEliser"
+    "price": 294.74,
+    "name": "Neriojo"
   },
   "venta_maxima": {
     "price": 289.8,
     "name": "MaxuelTrader"
   },
-  "promedio": 292.65,
+  "promedio": 292.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
