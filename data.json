@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T22:12:31.242998",
-  "actualizado_vzla": "2025-10-06 18:12:31 -04",
+  "timestamp_utc": "2025-10-06T22:32:14.314009",
+  "actualizado_vzla": "2025-10-06 18:32:14 -04",
   "compra_segundo": {
-    "price": 297.799,
-    "name": "CambiosYA _SOLO TITULARES"
+    "price": 297.595,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
     "price": 298.5,
     "name": "FinanceSecure"
   },
-  "promedio": 298.15,
+  "promedio": 298.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
