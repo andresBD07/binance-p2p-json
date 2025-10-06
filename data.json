@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-06T07:55:18.374577",
-  "actualizado_vzla": "2025-10-06 03:55:18 -04",
+  "timestamp_utc": "2025-10-06T08:33:17.074320",
+  "actualizado_vzla": "2025-10-06 04:33:17 -04",
   "compra_segundo": {
-    "price": 299.99,
-    "name": "ComercioJRG"
+    "price": 299.989,
+    "name": "DardoVeloz"
   },
   "venta_maxima": {
     "price": 290.4,
