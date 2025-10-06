@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T18:53:33.330144",
-  "actualizado_vzla": "2025-10-06 14:53:33 -04",
+  "timestamp_utc": "2025-10-06T19:16:39.126036",
+  "actualizado_vzla": "2025-10-06 15:16:39 -04",
   "compra_segundo": {
-    "price": 296.75,
-    "name": "大TaiLung龙"
+    "price": 296.94,
+    "name": "cambiosvz19"
   },
   "venta_maxima": {
-    "price": 297.1,
-    "name": "hectoraltrader"
+    "price": 297.0,
+    "name": "DNG168CAMBIO"
   },
-  "promedio": 296.93,
+  "promedio": 296.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
