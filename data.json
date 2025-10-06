@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T23:23:55.328546",
-  "actualizado_vzla": "2025-10-06 19:23:55 -04",
+  "timestamp_utc": "2025-10-06T23:38:17.665967",
+  "actualizado_vzla": "2025-10-06 19:38:17 -04",
   "compra_segundo": {
-    "price": 296.8,
-    "name": "Capital_Cambios"
+    "price": 296.799,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
-    "price": 295.7,
-    "name": "Angelojbs"
+    "price": 295.6,
+    "name": "MaxuelTrader"
   },
-  "promedio": 296.25,
+  "promedio": 296.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
