@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T15:24:03.466435",
-  "actualizado_vzla": "2025-10-06 11:24:03 -04",
+  "timestamp_utc": "2025-10-06T15:41:44.348320",
+  "actualizado_vzla": "2025-10-06 11:41:44 -04",
   "compra_segundo": {
-    "price": 295.095,
-    "name": "MolinaJP_"
+    "price": 295.995,
+    "name": "Qlq_Men0r"
   },
   "venta_maxima": {
-    "price": 295.7,
-    "name": "hectoraltrader"
+    "price": 296.0,
+    "name": "0xSai"
   },
-  "promedio": 295.4,
+  "promedio": 296.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
