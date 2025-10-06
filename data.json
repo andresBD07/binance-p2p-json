@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T05:56:20.699847",
-  "actualizado_vzla": "2025-10-06 01:56:20 -04",
+  "timestamp_utc": "2025-10-06T06:38:51.645315",
+  "actualizado_vzla": "2025-10-06 02:38:51 -04",
   "compra_segundo": {
-    "price": 299.9,
-    "name": "TheMerchanTHM"
+    "price": 299.85,
+    "name": "EnlineaRyK"
   },
   "venta_maxima": {
-    "price": 289.1,
-    "name": "Suora21"
+    "price": 292.5,
+    "name": "Quick Payment"
   },
-  "promedio": 294.5,
+  "promedio": 296.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
