@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T02:15:16.241981",
-  "actualizado_vzla": "2025-10-05 22:15:16 -04",
+  "timestamp_utc": "2025-10-06T03:12:37.830190",
+  "actualizado_vzla": "2025-10-05 23:12:37 -04",
   "compra_segundo": {
-    "price": 294.9,
-    "name": "CambioExpressUSDT1"
+    "price": 295.5,
+    "name": "fundatrade"
   },
   "venta_maxima": {
-    "price": 291.5,
-    "name": "RONIN_COIN"
+    "price": 291.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 293.2,
+  "promedio": 293.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
