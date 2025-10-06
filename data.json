@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T11:21:56.948542",
-  "actualizado_vzla": "2025-10-06 07:21:56 -04",
+  "timestamp_utc": "2025-10-06T11:36:47.411638",
+  "actualizado_vzla": "2025-10-06 07:36:47 -04",
   "compra_segundo": {
-    "price": 293.28,
-    "name": "fnog"
+    "price": 292.64,
+    "name": "SKATFORT"
   },
   "venta_maxima": {
-    "price": 290.0,
-    "name": "EDbusiness"
+    "price": 290.2,
+    "name": "MaxuelTrader"
   },
-  "promedio": 291.64,
+  "promedio": 291.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
