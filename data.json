@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T09:54:09.503733",
-  "actualizado_vzla": "2025-10-06 05:54:09 -04",
+  "timestamp_utc": "2025-10-06T10:25:07.590079",
+  "actualizado_vzla": "2025-10-06 06:25:07 -04",
   "compra_segundo": {
-    "price": 297.89,
-    "name": "AlainT"
+    "price": 295.9,
+    "name": "Lillie05"
   },
   "venta_maxima": {
     "price": 290.4,
     "name": "ARKADB"
   },
-  "promedio": 294.14,
+  "promedio": 293.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
