@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T17:44:25.600950",
-  "actualizado_vzla": "2025-10-06 13:44:25 -04",
+  "timestamp_utc": "2025-10-06T17:57:47.249151",
+  "actualizado_vzla": "2025-10-06 13:57:47 -04",
   "compra_segundo": {
     "price": 296.99,
-    "name": "Krypto-Handeln"
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "TAURUS85"
+    "price": 297.4,
+    "name": "Gustavo129"
   },
-  "promedio": 297.0,
+  "promedio": 297.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
