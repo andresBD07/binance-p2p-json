@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T19:43:23.000447",
-  "actualizado_vzla": "2025-10-06 15:43:23 -04",
+  "timestamp_utc": "2025-10-06T19:56:14.688972",
+  "actualizado_vzla": "2025-10-06 15:56:14 -04",
   "compra_segundo": {
-    "price": 297.238,
-    "name": "GBC1pro"
+    "price": 297.0,
+    "name": "JorleGP"
   },
   "venta_maxima": {
     "price": 297.2,
     "name": "Angelojbs"
   },
-  "promedio": 297.22,
+  "promedio": 297.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
