@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T21:37:24.943815",
-  "actualizado_vzla": "2025-10-06 17:37:24 -04",
+  "timestamp_utc": "2025-10-06T21:50:24.531843",
+  "actualizado_vzla": "2025-10-06 17:50:24 -04",
   "compra_segundo": {
-    "price": 298.187,
-    "name": "CambiosYA _SOLO TITULARES"
+    "price": 297.97,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "RONIN_COIN"
+    "price": 297.3,
+    "name": "El-Warao"
   },
-  "promedio": 297.84,
+  "promedio": 297.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
