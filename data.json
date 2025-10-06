@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T11:49:50.719740",
-  "actualizado_vzla": "2025-10-06 07:49:50 -04",
+  "timestamp_utc": "2025-10-06T12:26:12.176463",
+  "actualizado_vzla": "2025-10-06 08:26:12 -04",
   "compra_segundo": {
-    "price": 292.15,
-    "name": "Dayuda"
+    "price": 291.9,
+    "name": "CambioSExpreessS"
   },
   "venta_maxima": {
     "price": 290.2,
     "name": "MaxuelTrader"
   },
-  "promedio": 291.17,
+  "promedio": 291.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
