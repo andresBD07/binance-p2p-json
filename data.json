@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T11:36:47.411638",
-  "actualizado_vzla": "2025-10-06 07:36:47 -04",
+  "timestamp_utc": "2025-10-06T11:49:50.719740",
+  "actualizado_vzla": "2025-10-06 07:49:50 -04",
   "compra_segundo": {
-    "price": 292.64,
-    "name": "SKATFORT"
+    "price": 292.15,
+    "name": "Dayuda"
   },
   "venta_maxima": {
     "price": 290.2,
     "name": "MaxuelTrader"
   },
-  "promedio": 291.42,
+  "promedio": 291.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
