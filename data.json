@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T06:38:51.645315",
-  "actualizado_vzla": "2025-10-06 02:38:51 -04",
+  "timestamp_utc": "2025-10-06T06:55:53.393137",
+  "actualizado_vzla": "2025-10-06 02:55:53 -04",
   "compra_segundo": {
-    "price": 299.85,
-    "name": "EnlineaRyK"
+    "price": 299.99,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 292.5,
-    "name": "Quick Payment"
+    "price": 293.01,
+    "name": "cambiosvz19"
   },
-  "promedio": 296.18,
+  "promedio": 296.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
