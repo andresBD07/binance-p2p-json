@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T07:42:13.852014",
-  "actualizado_vzla": "2025-10-06 03:42:13 -04",
+  "timestamp_utc": "2025-10-06T07:55:18.374577",
+  "actualizado_vzla": "2025-10-06 03:55:18 -04",
   "compra_segundo": {
     "price": 299.99,
     "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 292.5,
-    "name": "Quick Payment"
+    "price": 290.4,
+    "name": "ARKADB"
   },
-  "promedio": 296.25,
+  "promedio": 295.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
