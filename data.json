@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-06T04:30:05.239712",
-  "actualizado_vzla": "2025-10-06 00:30:05 -04",
+  "timestamp_utc": "2025-10-06T04:46:01.453103",
+  "actualizado_vzla": "2025-10-06 00:46:01 -04",
   "compra_segundo": {
-    "price": 299.0,
-    "name": "CambiosGrupoGM"
+    "price": 298.8,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
     "price": 289.062,
     "name": "panchofranco1"
   },
-  "promedio": 294.03,
+  "promedio": 293.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
