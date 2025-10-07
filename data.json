@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T14:45:00.830209",
-  "actualizado_vzla": "2025-10-07 10:45:00 -04",
+  "timestamp_utc": "2025-10-07T14:58:14.944828",
+  "actualizado_vzla": "2025-10-07 10:58:14 -04",
   "compra_segundo": {
-    "price": 296.15,
-    "name": "Jin-Woo-Sung"
+    "price": 295.999,
+    "name": "Hiroma"
   },
   "venta_maxima": {
-    "price": 295.35,
+    "price": 295.6,
     "name": "hectoraltrader"
   },
-  "promedio": 295.75,
+  "promedio": 295.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
