@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T21:51:26.015005",
-  "actualizado_vzla": "2025-10-07 17:51:26 -04",
+  "timestamp_utc": "2025-10-07T22:15:00.941076",
+  "actualizado_vzla": "2025-10-07 18:15:00 -04",
   "compra_segundo": {
-    "price": 300.5,
-    "name": "CH-Intercambios"
+    "price": 300.29,
+    "name": "IntercambiosC"
   },
   "venta_maxima": {
-    "price": 299.501,
+    "price": 299.516,
     "name": "-TRADER_NEMESIS-"
   },
-  "promedio": 300.0,
+  "promedio": 299.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
