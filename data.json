@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T19:21:11.241805",
-  "actualizado_vzla": "2025-10-07 15:21:11 -04",
+  "timestamp_utc": "2025-10-07T19:36:14.320006",
+  "actualizado_vzla": "2025-10-07 15:36:14 -04",
   "compra_segundo": {
-    "price": 298.8,
-    "name": "CORPORACION_YYSE-25"
+    "price": 298.879,
+    "name": "Mantequilla777"
   },
   "venta_maxima": {
-    "price": 297.4,
-    "name": "cazing2230"
+    "price": 298.7,
+    "name": "To0809"
   },
-  "promedio": 298.1,
+  "promedio": 298.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
