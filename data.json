@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T23:23:45.549008",
-  "actualizado_vzla": "2025-10-07 19:23:45 -04",
+  "timestamp_utc": "2025-10-07T23:38:02.304909",
+  "actualizado_vzla": "2025-10-07 19:38:02 -04",
   "compra_segundo": {
-    "price": 301.3,
-    "name": "CERRATO23__"
+    "price": 301.29,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 300.2,
+    "price": 300.5,
     "name": "TOPlevelS"
   },
-  "promedio": 300.75,
+  "promedio": 300.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
