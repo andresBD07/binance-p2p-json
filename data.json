@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T05:27:27.569194",
-  "actualizado_vzla": "2025-10-07 01:27:27 -04",
+  "timestamp_utc": "2025-10-07T05:42:51.259163",
+  "actualizado_vzla": "2025-10-07 01:42:51 -04",
   "compra_segundo": {
-    "price": 301.49,
-    "name": "Saher7"
+    "price": 302.5,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
     "price": 297.0,
-    "name": "Fakefk"
+    "name": "Quick Payment"
   },
-  "promedio": 299.25,
+  "promedio": 299.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
