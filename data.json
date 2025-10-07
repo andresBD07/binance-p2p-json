@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T04:59:05.077671",
-  "actualizado_vzla": "2025-10-07 00:59:05 -04",
+  "timestamp_utc": "2025-10-07T05:27:27.569194",
+  "actualizado_vzla": "2025-10-07 01:27:27 -04",
   "compra_segundo": {
-    "price": 300.8,
-    "name": "Jin-Woo-Sung"
+    "price": 301.49,
+    "name": "Saher7"
   },
   "venta_maxima": {
-    "price": 296.5,
-    "name": "edwardgoldchhh"
+    "price": 297.0,
+    "name": "Fakefk"
   },
-  "promedio": 298.65,
+  "promedio": 299.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
