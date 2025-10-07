@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T23:00:06.967058",
-  "actualizado_vzla": "2025-10-07 19:00:06 -04",
+  "timestamp_utc": "2025-10-07T23:23:45.549008",
+  "actualizado_vzla": "2025-10-07 19:23:45 -04",
   "compra_segundo": {
     "price": 301.3,
-    "name": "Neiker-Exchange"
+    "name": "CERRATO23__"
   },
   "venta_maxima": {
-    "price": 301.0,
+    "price": 300.2,
     "name": "TOPlevelS"
   },
-  "promedio": 301.15,
+  "promedio": 300.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
