@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T20:59:57.006363",
-  "actualizado_vzla": "2025-10-07 16:59:57 -04",
+  "timestamp_utc": "2025-10-07T21:23:40.601909",
+  "actualizado_vzla": "2025-10-07 17:23:40 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "Elleonesleo"
+    "price": 300.348,
+    "name": "LordTUKY"
   },
   "venta_maxima": {
-    "price": 299.25,
-    "name": "TOPlevelS"
+    "price": 299.7,
+    "name": "To0809"
   },
-  "promedio": 299.62,
+  "promedio": 300.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
