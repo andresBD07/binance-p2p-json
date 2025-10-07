@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T12:30:26.843661",
-  "actualizado_vzla": "2025-10-07 08:30:26 -04",
+  "timestamp_utc": "2025-10-07T13:08:12.907159",
+  "actualizado_vzla": "2025-10-07 09:08:12 -04",
   "compra_segundo": {
-    "price": 297.84,
-    "name": "Seyo97"
+    "price": 298.5,
+    "name": "Cripto_04"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "Fakefk"
   },
-  "promedio": 297.42,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
