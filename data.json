@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T19:49:16.645481",
-  "actualizado_vzla": "2025-10-07 15:49:16 -04",
+  "timestamp_utc": "2025-10-07T20:12:44.084155",
+  "actualizado_vzla": "2025-10-07 16:12:44 -04",
   "compra_segundo": {
-    "price": 298.8,
-    "name": "CH-Intercambios"
+    "price": 299.55,
+    "name": "Exchanger_Global"
   },
   "venta_maxima": {
-    "price": 299.0,
-    "name": "To0809"
+    "price": 298.38,
+    "name": "JLxanges"
   },
-  "promedio": 298.9,
+  "promedio": 298.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
