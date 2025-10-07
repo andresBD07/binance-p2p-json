@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T11:50:39.411354",
-  "actualizado_vzla": "2025-10-07 07:50:39 -04",
+  "timestamp_utc": "2025-10-07T12:30:26.843661",
+  "actualizado_vzla": "2025-10-07 08:30:26 -04",
   "compra_segundo": {
-    "price": 297.98,
-    "name": "TradEr2025_Drjgh"
+    "price": 297.84,
+    "name": "Seyo97"
   },
   "venta_maxima": {
-    "price": 296.8,
-    "name": "RONIN_COIN"
+    "price": 297.0,
+    "name": "Fakefk"
   },
-  "promedio": 297.39,
+  "promedio": 297.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
