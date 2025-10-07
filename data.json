@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T18:58:09.060027",
-  "actualizado_vzla": "2025-10-07 14:58:09 -04",
+  "timestamp_utc": "2025-10-07T19:21:11.241805",
+  "actualizado_vzla": "2025-10-07 15:21:11 -04",
   "compra_segundo": {
-    "price": 299.0,
-    "name": "CarlosBelloTrader "
+    "price": 298.8,
+    "name": "CORPORACION_YYSE-25"
   },
   "venta_maxima": {
-    "price": 297.3,
+    "price": 297.4,
     "name": "cazing2230"
   },
-  "promedio": 298.15,
+  "promedio": 298.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
