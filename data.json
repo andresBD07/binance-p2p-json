@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T10:28:54.507627",
-  "actualizado_vzla": "2025-10-07 06:28:54 -04",
+  "timestamp_utc": "2025-10-07T10:45:48.283603",
+  "actualizado_vzla": "2025-10-07 06:45:48 -04",
   "compra_segundo": {
-    "price": 299.35,
-    "name": "GaAle19"
+    "price": 298.9,
+    "name": "T-Pago-rapido"
   },
   "venta_maxima": {
     "price": 296.5,
     "name": "edwardgoldchhh"
   },
-  "promedio": 297.93,
+  "promedio": 297.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
