@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T05:42:51.259163",
-  "actualizado_vzla": "2025-10-07 01:42:51 -04",
+  "timestamp_utc": "2025-10-07T05:55:41.933871",
+  "actualizado_vzla": "2025-10-07 01:55:41 -04",
   "compra_segundo": {
-    "price": 302.5,
-    "name": "LinkVzla"
+    "price": 302.68,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "Quick Payment"
+    "price": 296.5,
+    "name": "edwardgoldchhh"
   },
-  "promedio": 299.75,
+  "promedio": 299.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
