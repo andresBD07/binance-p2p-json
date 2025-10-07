@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T06:37:38.889921",
-  "actualizado_vzla": "2025-10-07 02:37:38 -04",
+  "timestamp_utc": "2025-10-07T06:54:21.039347",
+  "actualizado_vzla": "2025-10-07 02:54:21 -04",
   "compra_segundo": {
-    "price": 302.0,
-    "name": "usdtking"
+    "price": 301.0,
+    "name": "moneive"
   },
   "venta_maxima": {
     "price": 296.5,
     "name": "edwardgoldchhh"
   },
-  "promedio": 299.25,
+  "promedio": 298.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
