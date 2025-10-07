@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T14:24:09.375333",
-  "actualizado_vzla": "2025-10-07 10:24:09 -04",
+  "timestamp_utc": "2025-10-07T14:45:00.830209",
+  "actualizado_vzla": "2025-10-07 10:45:00 -04",
   "compra_segundo": {
-    "price": 296.59,
-    "name": "BlockArbi-X"
+    "price": 296.15,
+    "name": "Jin-Woo-Sung"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "Si Me Pasas Te Paso"
+    "price": 295.35,
+    "name": "hectoraltrader"
   },
-  "promedio": 296.79,
+  "promedio": 295.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
