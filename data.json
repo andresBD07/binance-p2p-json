@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T13:54:27.323462",
-  "actualizado_vzla": "2025-10-07 09:54:27 -04",
+  "timestamp_utc": "2025-10-07T14:24:09.375333",
+  "actualizado_vzla": "2025-10-07 10:24:09 -04",
   "compra_segundo": {
-    "price": 298.45,
-    "name": "Hispano-Cripto"
+    "price": 296.59,
+    "name": "BlockArbi-X"
   },
   "venta_maxima": {
-    "price": 297.322,
-    "name": "novatecno"
+    "price": 297.0,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 297.89,
+  "promedio": 296.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
