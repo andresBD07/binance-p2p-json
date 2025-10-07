@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T14:58:14.944828",
-  "actualizado_vzla": "2025-10-07 10:58:14 -04",
+  "timestamp_utc": "2025-10-07T15:29:41.649103",
+  "actualizado_vzla": "2025-10-07 11:29:41 -04",
   "compra_segundo": {
-    "price": 295.999,
-    "name": "Hiroma"
+    "price": 296.985,
+    "name": "KEYLOR_CRIPTO_Vzla"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "hectoraltrader"
+    "price": 296.5,
+    "name": "JLxanges"
   },
-  "promedio": 295.8,
+  "promedio": 296.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
