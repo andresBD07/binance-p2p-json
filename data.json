@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T13:08:12.907159",
-  "actualizado_vzla": "2025-10-07 09:08:12 -04",
+  "timestamp_utc": "2025-10-07T13:40:45.906390",
+  "actualizado_vzla": "2025-10-07 09:40:45 -04",
   "compra_segundo": {
-    "price": 298.5,
-    "name": "Cripto_04"
+    "price": 298.398,
+    "name": "Cambios_El_Trebol"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "Fakefk"
+    "price": 297.501,
+    "name": "Burdyn"
   },
-  "promedio": 297.75,
+  "promedio": 297.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
