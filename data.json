@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T17:35:00.133439",
-  "actualizado_vzla": "2025-10-07 13:35:00 -04",
+  "timestamp_utc": "2025-10-07T17:48:11.424727",
+  "actualizado_vzla": "2025-10-07 13:48:11 -04",
   "compra_segundo": {
-    "price": 298.65,
-    "name": "LOMAX1982"
+    "price": 298.8,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
-    "price": 298.66,
-    "name": "cazing2230"
+    "price": 298.7,
+    "name": "JLxanges"
   },
-  "promedio": 298.65,
+  "promedio": 298.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
