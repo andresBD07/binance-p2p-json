@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-07T11:37:15.296455",
-  "actualizado_vzla": "2025-10-07 07:37:15 -04",
+  "timestamp_utc": "2025-10-07T11:50:39.411354",
+  "actualizado_vzla": "2025-10-07 07:50:39 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "zama2004"
+    "price": 297.98,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "DolceGabbana"
+    "price": 296.8,
+    "name": "RONIN_COIN"
   },
-  "promedio": 297.0,
+  "promedio": 297.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
