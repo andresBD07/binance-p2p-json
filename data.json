@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T03:20:22.425307",
-  "actualizado_vzla": "2025-10-07 23:20:22 -04",
+  "timestamp_utc": "2025-10-08T03:45:22.682888",
+  "actualizado_vzla": "2025-10-07 23:45:22 -04",
   "compra_segundo": {
-    "price": 303.199,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 303.6,
+    "name": "Imperiocrypto_co"
   },
   "venta_maxima": {
     "price": 300.05,
     "name": "Jin-Woo-Sung"
   },
-  "promedio": 301.62,
+  "promedio": 301.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
