@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T17:35:27.492781",
-  "actualizado_vzla": "2025-10-08 13:35:27 -04",
+  "timestamp_utc": "2025-10-08T17:48:37.906382",
+  "actualizado_vzla": "2025-10-08 13:48:37 -04",
   "compra_segundo": {
     "price": 300.5,
-    "name": "CRIPTOEXPRESS"
+    "name": "Viamort"
   },
   "venta_maxima": {
-    "price": 299.0,
-    "name": "MILOMA-EXCHANGE"
+    "price": 299.105,
+    "name": "Dante_IF"
   },
-  "promedio": 299.75,
+  "promedio": 299.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
