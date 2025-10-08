@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T18:58:42.343427",
-  "actualizado_vzla": "2025-10-08 14:58:42 -04",
+  "timestamp_utc": "2025-10-08T19:21:36.759745",
+  "actualizado_vzla": "2025-10-08 15:21:36 -04",
   "compra_segundo": {
-    "price": 301.999,
-    "name": "Nena0820"
+    "price": 302.2,
+    "name": "Bip2p"
   },
   "venta_maxima": {
-    "price": 302.55,
-    "name": "hectoraltrader"
+    "price": 302.2,
+    "name": "JLxanges"
   },
-  "promedio": 302.27,
+  "promedio": 302.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
