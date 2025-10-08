@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T10:59:54.063698",
-  "actualizado_vzla": "2025-10-08 06:59:54 -04",
+  "timestamp_utc": "2025-10-08T11:23:01.102997",
+  "actualizado_vzla": "2025-10-08 07:23:01 -04",
   "compra_segundo": {
-    "price": 303.1,
-    "name": "MWCAMBIOS"
+    "price": 302.78,
+    "name": "REMESAS_ELMARACUCHO"
   },
   "venta_maxima": {
-    "price": 299.9,
-    "name": "WORL1EXCHANGE"
+    "price": 299.905,
+    "name": "CAMBIOSPRO2000"
   },
-  "promedio": 301.5,
+  "promedio": 301.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
