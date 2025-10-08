@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T23:13:51.398858",
-  "actualizado_vzla": "2025-10-08 19:13:51 -04",
+  "timestamp_utc": "2025-10-08T23:29:30.603562",
+  "actualizado_vzla": "2025-10-08 19:29:30 -04",
   "compra_segundo": {
-    "price": 302.99,
-    "name": "RyderXchange"
+    "price": 303.5,
+    "name": "Cambioslinarez"
   },
   "venta_maxima": {
-    "price": 303.605,
+    "price": 303.3,
     "name": "Dante_IF"
   },
-  "promedio": 303.3,
+  "promedio": 303.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
