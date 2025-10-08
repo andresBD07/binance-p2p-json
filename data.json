@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T17:16:33.725632",
-  "actualizado_vzla": "2025-10-08 13:16:33 -04",
+  "timestamp_utc": "2025-10-08T17:35:27.492781",
+  "actualizado_vzla": "2025-10-08 13:35:27 -04",
   "compra_segundo": {
-    "price": 300.39,
-    "name": "Hispano-Cripto"
+    "price": 300.5,
+    "name": "CRIPTOEXPRESS"
   },
   "venta_maxima": {
-    "price": 299.3,
-    "name": "KillKeroy"
+    "price": 299.0,
+    "name": "MILOMA-EXCHANGE"
   },
-  "promedio": 299.85,
+  "promedio": 299.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
