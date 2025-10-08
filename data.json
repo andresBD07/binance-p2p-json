@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T10:47:11.239301",
-  "actualizado_vzla": "2025-10-08 06:47:11 -04",
+  "timestamp_utc": "2025-10-08T10:59:54.063698",
+  "actualizado_vzla": "2025-10-08 06:59:54 -04",
   "compra_segundo": {
-    "price": 303.35,
-    "name": "CAMBIOSVIP_A1"
+    "price": 303.1,
+    "name": "MWCAMBIOS"
   },
   "venta_maxima": {
     "price": 299.9,
     "name": "WORL1EXCHANGE"
   },
-  "promedio": 301.62,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
