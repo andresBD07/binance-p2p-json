@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T22:38:00.054508",
-  "actualizado_vzla": "2025-10-08 18:38:00 -04",
+  "timestamp_utc": "2025-10-08T22:51:18.770551",
+  "actualizado_vzla": "2025-10-08 18:51:18 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "Manda2"
+    "price": 302.88,
+    "name": "seb4tiq4n carvajal"
   },
   "venta_maxima": {
-    "price": 302.255,
+    "price": 302.305,
     "name": "Dante_IF"
   },
-  "promedio": 302.63,
+  "promedio": 302.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
