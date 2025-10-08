@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T01:08:34.169105",
-  "actualizado_vzla": "2025-10-07 21:08:34 -04",
+  "timestamp_utc": "2025-10-08T02:36:53.758594",
+  "actualizado_vzla": "2025-10-07 22:36:53 -04",
   "compra_segundo": {
-    "price": 301.99,
-    "name": "Bigwhale12"
+    "price": 302.95,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 300.1,
-    "name": "TOPlevelS"
+    "price": 300.05,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 301.05,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
