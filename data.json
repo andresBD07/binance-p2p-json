@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T19:21:36.759745",
-  "actualizado_vzla": "2025-10-08 15:21:36 -04",
+  "timestamp_utc": "2025-10-08T19:36:37.516030",
+  "actualizado_vzla": "2025-10-08 15:36:37 -04",
   "compra_segundo": {
-    "price": 302.2,
-    "name": "Bip2p"
+    "price": 302.19,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
     "price": 302.2,
     "name": "JLxanges"
   },
-  "promedio": 302.2,
+  "promedio": 302.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
