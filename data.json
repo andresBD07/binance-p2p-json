@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T21:53:47.959094",
-  "actualizado_vzla": "2025-10-08 17:53:47 -04",
+  "timestamp_utc": "2025-10-08T22:19:53.045207",
+  "actualizado_vzla": "2025-10-08 18:19:53 -04",
   "compra_segundo": {
-    "price": 302.7,
-    "name": "SmarPhon3"
+    "price": 302.77,
+    "name": "Trader_LB"
   },
   "venta_maxima": {
-    "price": 301.5,
+    "price": 302.2,
     "name": "JLxanges"
   },
-  "promedio": 302.1,
+  "promedio": 302.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
