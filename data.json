@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T23:29:30.603562",
-  "actualizado_vzla": "2025-10-08 19:29:30 -04",
+  "timestamp_utc": "2025-10-08T23:43:00.441789",
+  "actualizado_vzla": "2025-10-08 19:43:00 -04",
   "compra_segundo": {
-    "price": 303.5,
-    "name": "Cambioslinarez"
+    "price": 303.499,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
   "venta_maxima": {
-    "price": 303.3,
-    "name": "Dante_IF"
+    "price": 303.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 303.4,
+  "promedio": 303.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
