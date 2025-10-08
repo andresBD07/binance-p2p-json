@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T18:15:22.842363",
-  "actualizado_vzla": "2025-10-08 14:15:22 -04",
+  "timestamp_utc": "2025-10-08T18:45:58.003461",
+  "actualizado_vzla": "2025-10-08 14:45:58 -04",
   "compra_segundo": {
-    "price": 301.2,
-    "name": "Cambioseguros4552"
+    "price": 301.5,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 300.01,
-    "name": "Dante_IF"
+    "price": 302.0,
+    "name": "JLxanges"
   },
-  "promedio": 300.61,
+  "promedio": 301.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
