@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-08T23:43:00.441789",
-  "actualizado_vzla": "2025-10-08 19:43:00 -04",
+  "timestamp_utc": "2025-10-08T23:55:56.772749",
+  "actualizado_vzla": "2025-10-08 19:55:56 -04",
   "compra_segundo": {
-    "price": 303.499,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 303.5,
+    "name": "Servic2009"
   },
   "venta_maxima": {
-    "price": 303.0,
-    "name": "hectoraltrader"
+    "price": 303.005,
+    "name": "Dante_IF"
   },
   "promedio": 303.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
