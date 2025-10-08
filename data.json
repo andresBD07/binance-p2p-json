@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T19:50:03.972784",
-  "actualizado_vzla": "2025-10-08 15:50:03 -04",
+  "timestamp_utc": "2025-10-08T20:14:38.100874",
+  "actualizado_vzla": "2025-10-08 16:14:38 -04",
   "compra_segundo": {
-    "price": 302.189,
-    "name": "Apocax"
+    "price": 302.25,
+    "name": "Job2025"
   },
   "venta_maxima": {
-    "price": 301.8,
+    "price": 302.0,
     "name": "JLxanges"
   },
-  "promedio": 301.99,
+  "promedio": 302.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
