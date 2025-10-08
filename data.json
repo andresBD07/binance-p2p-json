@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T15:59:32.076826",
-  "actualizado_vzla": "2025-10-08 11:59:32 -04",
+  "timestamp_utc": "2025-10-08T16:34:13.197126",
+  "actualizado_vzla": "2025-10-08 12:34:13 -04",
   "compra_segundo": {
-    "price": 301.49,
-    "name": "Cambioya12"
+    "price": 300.375,
+    "name": "Blokchaiger"
   },
   "venta_maxima": {
-    "price": 301.1,
-    "name": "Child-CambioFacil"
+    "price": 299.105,
+    "name": "Dante_IF"
   },
-  "promedio": 301.3,
+  "promedio": 299.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
