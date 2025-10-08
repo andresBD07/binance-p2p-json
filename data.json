@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-08T14:47:42.920355",
-  "actualizado_vzla": "2025-10-08 10:47:42 -04",
+  "timestamp_utc": "2025-10-08T15:01:11.783127",
+  "actualizado_vzla": "2025-10-08 11:01:11 -04",
   "compra_segundo": {
-    "price": 303.48,
-    "name": "Manda2"
+    "price": 303.475,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
     "price": 302.5,
