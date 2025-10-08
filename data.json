@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T03:58:08.312996",
-  "actualizado_vzla": "2025-10-07 23:58:08 -04",
+  "timestamp_utc": "2025-10-08T04:30:49.371961",
+  "actualizado_vzla": "2025-10-08 00:30:49 -04",
   "compra_segundo": {
-    "price": 303.7,
-    "name": "InvDelta"
+    "price": 304.6,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 300.05,
+    "price": 299.9,
     "name": "Jin-Woo-Sung"
   },
-  "promedio": 301.88,
+  "promedio": 302.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
