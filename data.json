@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T15:30:08.305912",
-  "actualizado_vzla": "2025-10-08 11:30:08 -04",
+  "timestamp_utc": "2025-10-08T15:46:07.824671",
+  "actualizado_vzla": "2025-10-08 11:46:07 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "Lunicrypto"
+    "price": 302.3,
+    "name": "TuRemesaInt"
   },
   "venta_maxima": {
-    "price": 302.5,
-    "name": "FinanceSecure"
+    "price": 302.0,
+    "name": "WarlopCambios"
   },
-  "promedio": 302.75,
+  "promedio": 302.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
