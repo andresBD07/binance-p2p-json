@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T22:51:18.770551",
-  "actualizado_vzla": "2025-10-08 18:51:18 -04",
+  "timestamp_utc": "2025-10-08T23:13:51.398858",
+  "actualizado_vzla": "2025-10-08 19:13:51 -04",
   "compra_segundo": {
-    "price": 302.88,
-    "name": "seb4tiq4n carvajal"
+    "price": 302.99,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 302.305,
+    "price": 303.605,
     "name": "Dante_IF"
   },
-  "promedio": 302.59,
+  "promedio": 303.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
