@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T21:28:00.798954",
-  "actualizado_vzla": "2025-10-08 17:28:00 -04",
+  "timestamp_utc": "2025-10-08T21:41:10.994076",
+  "actualizado_vzla": "2025-10-08 17:41:11 -04",
   "compra_segundo": {
-    "price": 302.2,
-    "name": "chaker9"
+    "price": 302.0,
+    "name": "MMIJ_Crip2023"
   },
   "venta_maxima": {
     "price": 301.5,
     "name": "JLxanges"
   },
-  "promedio": 301.85,
+  "promedio": 301.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
