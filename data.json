@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T04:59:43.234848",
-  "actualizado_vzla": "2025-10-08 00:59:43 -04",
+  "timestamp_utc": "2025-10-08T05:28:41.799098",
+  "actualizado_vzla": "2025-10-08 01:28:41 -04",
   "compra_segundo": {
-    "price": 304.99,
-    "name": "ComercioJRG"
+    "price": 305.0,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 299.9,
-    "name": "Jin-Woo-Sung"
+    "price": 299.85,
+    "name": "cambioson"
   },
-  "promedio": 302.44,
+  "promedio": 302.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
