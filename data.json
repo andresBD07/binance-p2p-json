@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T04:46:50.768859",
-  "actualizado_vzla": "2025-10-08 00:46:50 -04",
+  "timestamp_utc": "2025-10-08T04:59:43.234848",
+  "actualizado_vzla": "2025-10-08 00:59:43 -04",
   "compra_segundo": {
-    "price": 304.75,
-    "name": "METODICO"
+    "price": 304.99,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
     "price": 299.9,
     "name": "Jin-Woo-Sung"
   },
-  "promedio": 302.32,
+  "promedio": 302.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
