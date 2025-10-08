@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T16:34:13.197126",
-  "actualizado_vzla": "2025-10-08 12:34:13 -04",
+  "timestamp_utc": "2025-10-08T16:52:26.389969",
+  "actualizado_vzla": "2025-10-08 12:52:26 -04",
   "compra_segundo": {
-    "price": 300.375,
-    "name": "Blokchaiger"
+    "price": 300.75,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 299.105,
-    "name": "Dante_IF"
+    "price": 299.1,
+    "name": "app2112"
   },
-  "promedio": 299.74,
+  "promedio": 299.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
