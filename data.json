@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T05:44:15.889684",
-  "actualizado_vzla": "2025-10-08 01:44:15 -04",
+  "timestamp_utc": "2025-10-08T05:57:35.297811",
+  "actualizado_vzla": "2025-10-08 01:57:35 -04",
   "compra_segundo": {
-    "price": 304.995,
-    "name": "Budyzz"
+    "price": 305.0,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
     "price": 299.85,
     "name": "cambioson"
   },
-  "promedio": 302.42,
+  "promedio": 302.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
