@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T13:42:58.700829",
-  "actualizado_vzla": "2025-10-08 09:42:58 -04",
+  "timestamp_utc": "2025-10-08T13:56:19.215099",
+  "actualizado_vzla": "2025-10-08 09:56:19 -04",
   "compra_segundo": {
-    "price": 301.89,
-    "name": "MauricioRisso"
+    "price": 302.235,
+    "name": "Clovers-"
   },
   "venta_maxima": {
-    "price": 301.5,
+    "price": 302.0,
     "name": "FinanceSecure"
   },
-  "promedio": 301.69,
+  "promedio": 302.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
