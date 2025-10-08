@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-08T13:17:37.874288",
-  "actualizado_vzla": "2025-10-08 09:17:37 -04",
+  "timestamp_utc": "2025-10-08T13:42:58.700829",
+  "actualizado_vzla": "2025-10-08 09:42:58 -04",
   "compra_segundo": {
-    "price": 301.55,
-    "name": "PagoInstantaneo"
+    "price": 301.89,
+    "name": "MauricioRisso"
   },
   "venta_maxima": {
-    "price": 301.0,
-    "name": "TheBlackHand"
+    "price": 301.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 301.27,
+  "promedio": 301.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
