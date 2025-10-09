@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T21:51:04.773473",
-  "actualizado_vzla": "2025-10-09 17:51:04 -04",
+  "timestamp_utc": "2025-10-09T22:13:55.107004",
+  "actualizado_vzla": "2025-10-09 18:13:55 -04",
   "compra_segundo": {
-    "price": 302.5,
-    "name": "MikasaAckerman"
+    "price": 302.24,
+    "name": "DLR06"
   },
   "venta_maxima": {
-    "price": 300.7,
-    "name": "Brawlcoins"
+    "price": 300.01,
+    "name": "TH10TRADE"
   },
-  "promedio": 301.6,
+  "promedio": 301.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
