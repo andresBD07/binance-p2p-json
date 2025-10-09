@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T05:44:19.417354",
-  "actualizado_vzla": "2025-10-09 01:44:19 -04",
+  "timestamp_utc": "2025-10-09T05:57:29.058530",
+  "actualizado_vzla": "2025-10-09 01:57:29 -04",
   "compra_segundo": {
     "price": 307.48,
     "name": "Juan15_7"
   },
   "venta_maxima": {
-    "price": 302.0,
-    "name": "Suora21"
+    "price": 300.95,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 304.74,
+  "promedio": 304.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
