@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T13:34:52.693690",
-  "actualizado_vzla": "2025-10-09 09:34:52 -04",
+  "timestamp_utc": "2025-10-09T13:51:44.139194",
+  "actualizado_vzla": "2025-10-09 09:51:44 -04",
   "compra_segundo": {
-    "price": 303.29,
-    "name": "CryptoIngAlex"
+    "price": 303.18,
+    "name": "IntercambiosC"
   },
   "venta_maxima": {
-    "price": 303.0,
-    "name": "Gustavo129"
+    "price": 302.4,
+    "name": "JLxanges"
   },
-  "promedio": 303.14,
+  "promedio": 302.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
