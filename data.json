@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T18:36:12.539154",
-  "actualizado_vzla": "2025-10-09 14:36:12 -04",
+  "timestamp_utc": "2025-10-09T18:53:33.199759",
+  "actualizado_vzla": "2025-10-09 14:53:33 -04",
   "compra_segundo": {
-    "price": 301.59,
-    "name": "Chespi_cripto8"
+    "price": 301.5,
+    "name": "MMIJ_Crip2023"
   },
   "venta_maxima": {
-    "price": 301.0,
+    "price": 301.5,
     "name": "TOPlevelS"
   },
-  "promedio": 301.29,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
