@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T11:31:02.057602",
-  "actualizado_vzla": "2025-10-09 07:31:02 -04",
+  "timestamp_utc": "2025-10-09T11:44:06.980272",
+  "actualizado_vzla": "2025-10-09 07:44:06 -04",
   "compra_segundo": {
-    "price": 304.4,
-    "name": "EliteSummitPro"
+    "price": 304.0,
+    "name": "REMESAFG"
   },
   "venta_maxima": {
-    "price": 303.05,
-    "name": "Suora21"
+    "price": 302.5,
+    "name": "SupersonicPay"
   },
-  "promedio": 303.73,
+  "promedio": 303.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
