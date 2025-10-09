@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T17:43:14.894022",
-  "actualizado_vzla": "2025-10-09 13:43:14 -04",
+  "timestamp_utc": "2025-10-09T17:56:10.131441",
+  "actualizado_vzla": "2025-10-09 13:56:10 -04",
   "compra_segundo": {
-    "price": 301.298,
-    "name": "FlashCambios1"
+    "price": 301.425,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 300.0,
+    "price": 300.5,
     "name": "Brawlcoins"
   },
-  "promedio": 300.65,
+  "promedio": 300.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
