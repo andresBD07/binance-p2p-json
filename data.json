@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T09:36:01.628462",
-  "actualizado_vzla": "2025-10-09 05:36:01 -04",
+  "timestamp_utc": "2025-10-09T09:49:02.096494",
+  "actualizado_vzla": "2025-10-09 05:49:02 -04",
   "compra_segundo": {
-    "price": 308.0,
-    "name": "BOOOM"
+    "price": 307.6,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 301.0,
-    "name": "Marketplace66"
+    "price": 301.101,
+    "name": "RiddleTrader1998"
   },
-  "promedio": 304.5,
+  "promedio": 304.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
