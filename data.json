@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T23:00:02.045777",
-  "actualizado_vzla": "2025-10-09 19:00:02 -04",
+  "timestamp_utc": "2025-10-09T23:24:14.284067",
+  "actualizado_vzla": "2025-10-09 19:24:14 -04",
   "compra_segundo": {
-    "price": 302.1,
-    "name": "traing_balto"
+    "price": 301.5,
+    "name": "Alex-MARTIN"
   },
   "venta_maxima": {
-    "price": 300.5,
-    "name": "Brawlcoins"
+    "price": 299.1,
+    "name": "MaxuelTrader"
   },
-  "promedio": 301.3,
+  "promedio": 300.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
