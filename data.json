@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T01:56:44.928668",
-  "actualizado_vzla": "2025-10-08 21:56:44 -04",
+  "timestamp_utc": "2025-10-09T03:05:24.294828",
+  "actualizado_vzla": "2025-10-08 23:05:24 -04",
   "compra_segundo": {
-    "price": 305.4,
-    "name": "Bigwhale12"
+    "price": 305.32,
+    "name": "Exotico"
   },
   "venta_maxima": {
-    "price": 304.005,
-    "name": "Dante_IF"
+    "price": 302.6,
+    "name": "Suora21"
   },
-  "promedio": 304.7,
+  "promedio": 303.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
