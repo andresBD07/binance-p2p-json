@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T03:05:24.294828",
-  "actualizado_vzla": "2025-10-08 23:05:24 -04",
+  "timestamp_utc": "2025-10-09T03:41:08.149502",
+  "actualizado_vzla": "2025-10-08 23:41:08 -04",
   "compra_segundo": {
-    "price": 305.32,
-    "name": "Exotico"
+    "price": 305.7,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 302.6,
-    "name": "Suora21"
+    "price": 302.0,
+    "name": "Edu2015"
   },
-  "promedio": 303.96,
+  "promedio": 303.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
