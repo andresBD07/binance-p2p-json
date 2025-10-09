@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T21:38:05.818969",
-  "actualizado_vzla": "2025-10-09 17:38:05 -04",
+  "timestamp_utc": "2025-10-09T21:51:04.773473",
+  "actualizado_vzla": "2025-10-09 17:51:04 -04",
   "compra_segundo": {
-    "price": 302.369,
-    "name": "trade-key"
+    "price": 302.5,
+    "name": "MikasaAckerman"
   },
   "venta_maxima": {
     "price": 300.7,
     "name": "Brawlcoins"
   },
-  "promedio": 301.53,
+  "promedio": 301.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
