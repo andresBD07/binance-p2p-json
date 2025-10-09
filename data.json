@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T13:51:44.139194",
-  "actualizado_vzla": "2025-10-09 09:51:44 -04",
+  "timestamp_utc": "2025-10-09T14:16:36.080222",
+  "actualizado_vzla": "2025-10-09 10:16:36 -04",
   "compra_segundo": {
-    "price": 303.18,
-    "name": "IntercambiosC"
+    "price": 303.5,
+    "name": "MMarket_CL"
   },
   "venta_maxima": {
-    "price": 302.4,
-    "name": "JLxanges"
+    "price": 303.0,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 302.79,
+  "promedio": 303.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
