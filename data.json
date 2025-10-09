@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T10:12:37.906514",
-  "actualizado_vzla": "2025-10-09 06:12:37 -04",
+  "timestamp_utc": "2025-10-09T10:49:57.929330",
+  "actualizado_vzla": "2025-10-09 06:49:57 -04",
   "compra_segundo": {
-    "price": 307.0,
-    "name": "CAMBIOs_PrO"
+    "price": 304.9,
+    "name": "PayFast"
   },
   "venta_maxima": {
-    "price": 301.4,
-    "name": "CAMBIOs_PrO"
+    "price": 301.303,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 304.2,
+  "promedio": 303.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
