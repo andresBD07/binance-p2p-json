@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-09T04:28:45.162103",
-  "actualizado_vzla": "2025-10-09 00:28:45 -04",
+  "timestamp_utc": "2025-10-09T04:46:11.772372",
+  "actualizado_vzla": "2025-10-09 00:46:11 -04",
   "compra_segundo": {
-    "price": 306.99,
-    "name": "AndradeGasconTITULAR"
+    "price": 307.0,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 301.909,
