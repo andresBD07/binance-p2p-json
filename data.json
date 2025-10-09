@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T19:30:38.144690",
-  "actualizado_vzla": "2025-10-09 15:30:38 -04",
+  "timestamp_utc": "2025-10-09T19:43:27.702268",
+  "actualizado_vzla": "2025-10-09 15:43:27 -04",
   "compra_segundo": {
-    "price": 301.898,
-    "name": "R0ckandR0ll"
+    "price": 301.8,
+    "name": "imgpayfast12"
   },
   "venta_maxima": {
     "price": 301.1,
     "name": "willr99"
   },
-  "promedio": 301.5,
+  "promedio": 301.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
