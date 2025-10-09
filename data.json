@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T10:53:05.175108",
-  "actualizado_vzla": "2025-10-09 06:53:05 -04",
+  "timestamp_utc": "2025-10-09T11:16:29.186419",
+  "actualizado_vzla": "2025-10-09 07:16:29 -04",
   "compra_segundo": {
-    "price": 304.888,
-    "name": "CryptoSickoP2P"
+    "price": 304.47,
+    "name": "CambioSExpreessS"
   },
   "venta_maxima": {
-    "price": 301.4,
-    "name": "Brawlcoins"
+    "price": 302.11,
+    "name": "IMPERIOROMANO"
   },
-  "promedio": 303.14,
+  "promedio": 303.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
