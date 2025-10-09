@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T08:50:56.629323",
-  "actualizado_vzla": "2025-10-09 04:50:56 -04",
+  "timestamp_utc": "2025-10-09T09:16:20.131620",
+  "actualizado_vzla": "2025-10-09 05:16:20 -04",
   "compra_segundo": {
-    "price": 308.0,
-    "name": "btcmamba24"
+    "price": 307.999,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 300.95,
     "name": "Child-CambioFacil"
   },
-  "promedio": 304.48,
+  "promedio": 304.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
