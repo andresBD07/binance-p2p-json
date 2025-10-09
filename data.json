@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T21:23:25.424173",
-  "actualizado_vzla": "2025-10-09 17:23:25 -04",
+  "timestamp_utc": "2025-10-09T21:38:05.818969",
+  "actualizado_vzla": "2025-10-09 17:38:05 -04",
   "compra_segundo": {
-    "price": 302.45,
-    "name": "CambiosLindos2"
+    "price": 302.369,
+    "name": "trade-key"
   },
   "venta_maxima": {
     "price": 300.7,
     "name": "Brawlcoins"
   },
-  "promedio": 301.57,
+  "promedio": 301.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
