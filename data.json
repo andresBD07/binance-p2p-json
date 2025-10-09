@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T19:17:34.239098",
-  "actualizado_vzla": "2025-10-09 15:17:34 -04",
+  "timestamp_utc": "2025-10-09T19:30:38.144690",
+  "actualizado_vzla": "2025-10-09 15:30:38 -04",
   "compra_segundo": {
-    "price": 301.575,
-    "name": "ISATradea"
+    "price": 301.898,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
-    "price": 301.0,
-    "name": "TheBlackHand"
+    "price": 301.1,
+    "name": "willr99"
   },
-  "promedio": 301.29,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
