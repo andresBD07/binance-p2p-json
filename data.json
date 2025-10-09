@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T20:28:35.887880",
-  "actualizado_vzla": "2025-10-09 16:28:35 -04",
+  "timestamp_utc": "2025-10-09T20:44:24.181817",
+  "actualizado_vzla": "2025-10-09 16:44:24 -04",
   "compra_segundo": {
-    "price": 302.4,
-    "name": "Crypto_Oslian"
+    "price": 302.45,
+    "name": "DPcambios"
   },
   "venta_maxima": {
-    "price": 300.8,
+    "price": 300.5,
     "name": "JLxanges"
   },
-  "promedio": 301.6,
+  "promedio": 301.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
