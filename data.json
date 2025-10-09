@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T16:43:58.733131",
-  "actualizado_vzla": "2025-10-09 12:43:58 -04",
+  "timestamp_utc": "2025-10-09T16:58:43.878222",
+  "actualizado_vzla": "2025-10-09 12:58:43 -04",
   "compra_segundo": {
-    "price": 302.6,
-    "name": "ExpressCriptoP2P"
+    "price": 301.985,
+    "name": "Clovers-"
   },
   "venta_maxima": {
-    "price": 301.0,
+    "price": 300.5,
     "name": "Brawlcoins"
   },
-  "promedio": 301.8,
+  "promedio": 301.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
