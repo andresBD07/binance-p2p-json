@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T19:40:06.954958",
-  "actualizado_vzla": "2025-10-10 15:40:06 -04",
+  "timestamp_utc": "2025-10-10T19:53:35.247440",
+  "actualizado_vzla": "2025-10-10 15:53:35 -04",
   "compra_segundo": {
-    "price": 298.89,
-    "name": "Criptotur"
+    "price": 298.7,
+    "name": "Chespi_cripto8"
   },
   "venta_maxima": {
     "price": 300.0,
     "name": "LogisticExchange"
   },
-  "promedio": 299.44,
+  "promedio": 299.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
