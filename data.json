@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T14:21:23.757067",
-  "actualizado_vzla": "2025-10-10 10:21:23 -04",
+  "timestamp_utc": "2025-10-10T14:41:27.507669",
+  "actualizado_vzla": "2025-10-10 10:41:27 -04",
   "compra_segundo": {
-    "price": 298.3,
-    "name": "Millaluz"
+    "price": 298.499,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
-    "price": 296.56,
-    "name": "TOPlevelS"
+    "price": 296.75,
+    "name": "KillKeroy"
   },
-  "promedio": 297.43,
+  "promedio": 297.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
