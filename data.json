@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T13:14:49.576019",
-  "actualizado_vzla": "2025-10-10 09:14:49 -04",
+  "timestamp_utc": "2025-10-10T13:40:47.157253",
+  "actualizado_vzla": "2025-10-10 09:40:47 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "rausseol"
+    "price": 297.799,
+    "name": "nicolasvm"
   },
   "venta_maxima": {
-    "price": 296.85,
-    "name": "CoinBeek"
+    "price": 295.0,
+    "name": "Quick Payment"
   },
-  "promedio": 297.43,
+  "promedio": 296.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
