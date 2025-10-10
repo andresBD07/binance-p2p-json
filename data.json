@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T01:13:02.003173",
-  "actualizado_vzla": "2025-10-09 21:13:02 -04",
+  "timestamp_utc": "2025-10-10T02:40:28.979341",
+  "actualizado_vzla": "2025-10-09 22:40:28 -04",
   "compra_segundo": {
-    "price": 301.0,
-    "name": "tovarpro"
+    "price": 302.921,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 298.8,
-    "name": "hectoraltrader"
+    "price": 299.31,
+    "name": "Caps-Exchange"
   },
-  "promedio": 299.9,
+  "promedio": 301.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
