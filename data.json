@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T09:47:41.863112",
-  "actualizado_vzla": "2025-10-10 05:47:41 -04",
+  "timestamp_utc": "2025-10-10T10:01:26.699484",
+  "actualizado_vzla": "2025-10-10 06:01:26 -04",
   "compra_segundo": {
-    "price": 303.97,
-    "name": "PlutoTrading"
+    "price": 303.475,
+    "name": "AARONEX"
   },
   "venta_maxima": {
     "price": 298.5,
     "name": "Cripto-Ale"
   },
-  "promedio": 301.24,
+  "promedio": 300.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
