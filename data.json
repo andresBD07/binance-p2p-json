@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T05:36:00.193923",
-  "actualizado_vzla": "2025-10-10 01:36:00 -04",
+  "timestamp_utc": "2025-10-10T05:48:57.951937",
+  "actualizado_vzla": "2025-10-10 01:48:57 -04",
   "compra_segundo": {
-    "price": 304.45,
-    "name": "usdtking"
+    "price": 304.99,
+    "name": "Saher7"
   },
   "venta_maxima": {
     "price": 298.5,
     "name": "Cripto-Ale"
   },
-  "promedio": 301.48,
+  "promedio": 301.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
