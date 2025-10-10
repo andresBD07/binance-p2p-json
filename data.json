@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T20:24:46.907199",
-  "actualizado_vzla": "2025-10-10 16:24:46 -04",
+  "timestamp_utc": "2025-10-10T20:39:34.518112",
+  "actualizado_vzla": "2025-10-10 16:39:34 -04",
   "compra_segundo": {
-    "price": 299.25,
-    "name": "ZeusRawr"
+    "price": 299.15,
+    "name": "Fast Cash "
   },
   "venta_maxima": {
-    "price": 300.002,
-    "name": "Whale-SharkCrypto"
+    "price": 300.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 299.63,
+  "promedio": 299.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
