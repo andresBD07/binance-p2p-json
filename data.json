@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T17:54:23.555903",
-  "actualizado_vzla": "2025-10-10 13:54:23 -04",
+  "timestamp_utc": "2025-10-10T18:32:12.093370",
+  "actualizado_vzla": "2025-10-10 14:32:12 -04",
   "compra_segundo": {
     "price": 298.0,
-    "name": "Criptoseed"
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 297.2,
-    "name": "TOPlevelS"
+    "price": 297.0,
+    "name": "GoldenLion_"
   },
-  "promedio": 297.6,
+  "promedio": 297.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
