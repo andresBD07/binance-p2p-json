@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-09T23:51:26.041856",
-  "actualizado_vzla": "2025-10-09 19:51:26 -04",
+  "timestamp_utc": "2025-10-10T01:13:02.003173",
+  "actualizado_vzla": "2025-10-09 21:13:02 -04",
   "compra_segundo": {
-    "price": 300.93,
-    "name": "ArrozMaryCA"
+    "price": 301.0,
+    "name": "tovarpro"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "Buzzlightyearzz"
+    "price": 298.8,
+    "name": "hectoraltrader"
   },
-  "promedio": 299.47,
+  "promedio": 299.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
