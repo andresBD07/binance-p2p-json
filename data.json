@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T21:55:16.674277",
-  "actualizado_vzla": "2025-10-10 17:55:16 -04",
+  "timestamp_utc": "2025-10-10T22:22:23.288678",
+  "actualizado_vzla": "2025-10-10 18:22:23 -04",
   "compra_segundo": {
-    "price": 299.999,
-    "name": "ejecutivo-cripto"
+    "price": 299.8,
+    "name": "MSaracai"
   },
   "venta_maxima": {
     "price": 298.0,
-    "name": "KillKeroy"
+    "name": "被放逐的狐狸"
   },
-  "promedio": 299.0,
+  "promedio": 298.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
