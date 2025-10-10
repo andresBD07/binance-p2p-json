@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T11:38:14.047583",
-  "actualizado_vzla": "2025-10-10 07:38:14 -04",
+  "timestamp_utc": "2025-10-10T11:51:39.250759",
+  "actualizado_vzla": "2025-10-10 07:51:39 -04",
   "compra_segundo": {
-    "price": 301.8,
-    "name": "Neiker-Exchange"
+    "price": 301.3,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 297.8,
-    "name": "NicTin08"
+    "price": 298.0,
+    "name": "Interredca"
   },
-  "promedio": 299.8,
+  "promedio": 299.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
