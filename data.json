@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T03:24:22.031676",
-  "actualizado_vzla": "2025-10-09 23:24:22 -04",
+  "timestamp_utc": "2025-10-10T03:48:42.571157",
+  "actualizado_vzla": "2025-10-09 23:48:42 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "RapidPago "
+    "price": 303.79,
+    "name": "Check-eate"
   },
   "venta_maxima": {
-    "price": 299.25,
-    "name": "NGM"
+    "price": 299.2,
+    "name": "Fakefk"
   },
-  "promedio": 301.12,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
