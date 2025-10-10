@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T09:34:21.329144",
-  "actualizado_vzla": "2025-10-10 05:34:21 -04",
+  "timestamp_utc": "2025-10-10T09:47:41.863112",
+  "actualizado_vzla": "2025-10-10 05:47:41 -04",
   "compra_segundo": {
-    "price": 304.4,
-    "name": "ComercioJRG"
+    "price": 303.97,
+    "name": "PlutoTrading"
   },
   "venta_maxima": {
     "price": 298.5,
     "name": "Cripto-Ale"
   },
-  "promedio": 301.45,
+  "promedio": 301.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
