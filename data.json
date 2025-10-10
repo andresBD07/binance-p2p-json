@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T11:51:39.250759",
-  "actualizado_vzla": "2025-10-10 07:51:39 -04",
+  "timestamp_utc": "2025-10-10T12:34:46.127368",
+  "actualizado_vzla": "2025-10-10 08:34:46 -04",
   "compra_segundo": {
-    "price": 301.3,
-    "name": "Criptoseed"
+    "price": 300.0,
+    "name": "LaDulzuraMia"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "Interredca"
+    "price": 298.5,
+    "name": "DNG168CAMBIO"
   },
-  "promedio": 299.65,
+  "promedio": 299.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
