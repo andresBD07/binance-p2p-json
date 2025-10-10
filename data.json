@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T10:01:26.699484",
-  "actualizado_vzla": "2025-10-10 06:01:26 -04",
+  "timestamp_utc": "2025-10-10T10:32:22.787175",
+  "actualizado_vzla": "2025-10-10 06:32:22 -04",
   "compra_segundo": {
-    "price": 303.475,
-    "name": "AARONEX"
+    "price": 303.38,
+    "name": "DardoVeloz"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "Cripto-Ale"
+    "price": 298.0,
+    "name": "DNG168CAMBIO"
   },
-  "promedio": 300.99,
+  "promedio": 300.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
