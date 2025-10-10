@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T15:54:18.648919",
-  "actualizado_vzla": "2025-10-10 11:54:18 -04",
+  "timestamp_utc": "2025-10-10T16:27:49.568054",
+  "actualizado_vzla": "2025-10-10 12:27:49 -04",
   "compra_segundo": {
     "price": 299.1,
-    "name": "Exchanger_Global"
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "0xSai"
+    "price": 297.6,
+    "name": "TOPlevelS"
   },
-  "promedio": 298.55,
+  "promedio": 298.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
