@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T21:15:31.256694",
-  "actualizado_vzla": "2025-10-10 17:15:31 -04",
+  "timestamp_utc": "2025-10-10T21:29:14.759639",
+  "actualizado_vzla": "2025-10-10 17:29:14 -04",
   "compra_segundo": {
-    "price": 299.1,
-    "name": "Neiker-Exchange"
+    "price": 299.44,
+    "name": "HidrotornoCA"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 298.55,
+  "promedio": 298.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
