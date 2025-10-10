@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T04:12:43.286882",
-  "actualizado_vzla": "2025-10-10 00:12:43 -04",
+  "timestamp_utc": "2025-10-10T04:37:37.318741",
+  "actualizado_vzla": "2025-10-10 00:37:37 -04",
   "compra_segundo": {
-    "price": 304.0,
-    "name": "Cambios996"
+    "price": 303.97,
+    "name": "PlutoTrading"
   },
   "venta_maxima": {
-    "price": 299.2,
-    "name": "Fakefk"
+    "price": 299.0,
+    "name": "Quick Payment"
   },
-  "promedio": 301.6,
+  "promedio": 301.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
