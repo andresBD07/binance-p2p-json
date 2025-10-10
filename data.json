@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T15:23:55.290067",
-  "actualizado_vzla": "2025-10-10 11:23:55 -04",
+  "timestamp_utc": "2025-10-10T15:40:42.640098",
+  "actualizado_vzla": "2025-10-10 11:40:42 -04",
   "compra_segundo": {
-    "price": 298.88,
-    "name": "Check-eate"
+    "price": 299.2,
+    "name": "-----CASUVEN-----"
   },
   "venta_maxima": {
-    "price": 297.8,
-    "name": "KillKeroy"
+    "price": 298.0,
+    "name": "0xSai"
   },
-  "promedio": 298.34,
+  "promedio": 298.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
