@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T06:16:52.735682",
-  "actualizado_vzla": "2025-10-10 02:16:52 -04",
+  "timestamp_utc": "2025-10-10T06:46:47.185342",
+  "actualizado_vzla": "2025-10-10 02:46:47 -04",
   "compra_segundo": {
-    "price": 304.99,
-    "name": "Saher7"
-  },
-  "venta_maxima": {
-    "price": 300.001,
+    "price": 304.8,
     "name": "DardoVeloz"
   },
-  "promedio": 302.5,
+  "venta_maxima": {
+    "price": 298.5,
+    "name": "Cripto-Ale"
+  },
+  "promedio": 301.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
