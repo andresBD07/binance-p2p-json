@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T17:26:06.372087",
-  "actualizado_vzla": "2025-10-10 13:26:06 -04",
+  "timestamp_utc": "2025-10-10T17:41:30.586572",
+  "actualizado_vzla": "2025-10-10 13:41:30 -04",
   "compra_segundo": {
-    "price": 298.65,
-    "name": "ANMAIYANME"
+    "price": 298.0,
+    "name": "Lasserr"
   },
   "venta_maxima": {
     "price": 297.2,
     "name": "TOPlevelS"
   },
-  "promedio": 297.92,
+  "promedio": 297.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
