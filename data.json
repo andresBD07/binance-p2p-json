@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T13:54:08.948971",
-  "actualizado_vzla": "2025-10-10 09:54:08 -04",
+  "timestamp_utc": "2025-10-10T14:21:23.757067",
+  "actualizado_vzla": "2025-10-10 10:21:23 -04",
   "compra_segundo": {
-    "price": 297.49,
-    "name": "CambioSExpreessS"
+    "price": 298.3,
+    "name": "Millaluz"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "0xSai"
+    "price": 296.56,
+    "name": "TOPlevelS"
   },
-  "promedio": 296.75,
+  "promedio": 297.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
