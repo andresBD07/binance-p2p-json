@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T16:47:42.384396",
-  "actualizado_vzla": "2025-10-10 12:47:42 -04",
+  "timestamp_utc": "2025-10-10T17:01:06.096398",
+  "actualizado_vzla": "2025-10-10 13:01:06 -04",
   "compra_segundo": {
-    "price": 298.999,
-    "name": "chiwirito"
+    "price": 298.75,
+    "name": "RM-CAMBIOS"
   },
   "venta_maxima": {
-    "price": 297.5,
+    "price": 297.0,
     "name": "TOPlevelS"
   },
-  "promedio": 298.25,
+  "promedio": 297.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
