@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T21:42:26.314729",
-  "actualizado_vzla": "2025-10-10 17:42:26 -04",
+  "timestamp_utc": "2025-10-10T21:55:16.674277",
+  "actualizado_vzla": "2025-10-10 17:55:16 -04",
   "compra_segundo": {
-    "price": 299.799,
-    "name": "Morrachon_CyR"
+    "price": 299.999,
+    "name": "ejecutivo-cripto"
   },
   "venta_maxima": {
-    "price": 298.85,
-    "name": "TOPlevelS"
+    "price": 298.0,
+    "name": "KillKeroy"
   },
-  "promedio": 299.32,
+  "promedio": 299.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
