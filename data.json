@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-10T10:32:22.787175",
-  "actualizado_vzla": "2025-10-10 06:32:22 -04",
+  "timestamp_utc": "2025-10-10T10:47:35.948264",
+  "actualizado_vzla": "2025-10-10 06:47:35 -04",
   "compra_segundo": {
-    "price": 303.38,
-    "name": "DardoVeloz"
+    "price": 302.99,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "DNG168CAMBIO"
+    "price": 298.5,
+    "name": "Cripto-Ale"
   },
-  "promedio": 300.69,
+  "promedio": 300.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
