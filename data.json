@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T04:54:20.368613",
-  "actualizado_vzla": "2025-10-11 00:54:20 -04",
+  "timestamp_utc": "2025-10-11T05:20:15.017320",
+  "actualizado_vzla": "2025-10-11 01:20:15 -04",
   "compra_segundo": {
     "price": 300.95,
     "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "LogisticExchange"
+    "price": 296.55,
+    "name": "RONIN_COIN"
   },
-  "promedio": 298.98,
+  "promedio": 298.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
