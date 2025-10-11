@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T11:02:33.569920",
-  "actualizado_vzla": "2025-10-11 07:02:33 -04",
+  "timestamp_utc": "2025-10-11T11:21:08.972694",
+  "actualizado_vzla": "2025-10-11 07:21:08 -04",
   "compra_segundo": {
-    "price": 298.859,
-    "name": "epiracFJ"
+    "price": 298.41,
+    "name": "Jgonza16"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "LogisticExchange"
+    "price": 295.68,
+    "name": "CriptoEche"
   },
-  "promedio": 297.93,
+  "promedio": 297.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
