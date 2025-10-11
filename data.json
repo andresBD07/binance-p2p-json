@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T16:47:41.084576",
-  "actualizado_vzla": "2025-10-11 12:47:41 -04",
+  "timestamp_utc": "2025-10-11T17:01:15.975720",
+  "actualizado_vzla": "2025-10-11 13:01:15 -04",
   "compra_segundo": {
-    "price": 296.8,
-    "name": "大TaiLung龙"
+    "price": 296.7,
+    "name": "Exchanger_Global"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "TheOchoa"
+    "price": 294.6,
+    "name": "Challenger2"
   },
-  "promedio": 296.15,
+  "promedio": 295.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
