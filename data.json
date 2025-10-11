@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T18:38:27.560087",
-  "actualizado_vzla": "2025-10-11 14:38:27 -04",
+  "timestamp_utc": "2025-10-11T18:51:46.808425",
+  "actualizado_vzla": "2025-10-11 14:51:46 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "Kartozpk"
+    "price": 295.4,
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
     "price": 295.0,
     "name": "MikasaAckerman"
   },
-  "promedio": 295.0,
+  "promedio": 295.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
