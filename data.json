@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T12:17:52.256674",
-  "actualizado_vzla": "2025-10-11 08:17:52 -04",
+  "timestamp_utc": "2025-10-11T12:54:46.210030",
+  "actualizado_vzla": "2025-10-11 08:54:46 -04",
   "compra_segundo": {
-    "price": 299.8,
-    "name": "javi1203"
+    "price": 298.2,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 296.2,
-    "name": "Burdyn"
+    "price": 297.0,
+    "name": "BigIron-"
   },
-  "promedio": 298.0,
+  "promedio": 297.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
