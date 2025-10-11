@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T06:17:42.140607",
-  "actualizado_vzla": "2025-10-11 02:17:42 -04",
+  "timestamp_utc": "2025-10-11T06:42:10.002850",
+  "actualizado_vzla": "2025-10-11 02:42:10 -04",
   "compra_segundo": {
-    "price": 300.999,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 301.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "LogisticExchange"
+    "price": 296.55,
+    "name": "RONIN_COIN"
   },
-  "promedio": 299.0,
+  "promedio": 298.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
