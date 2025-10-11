@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T19:11:34.467745",
-  "actualizado_vzla": "2025-10-11 15:11:34 -04",
+  "timestamp_utc": "2025-10-11T19:24:22.338283",
+  "actualizado_vzla": "2025-10-11 15:24:22 -04",
   "compra_segundo": {
-    "price": 295.5,
-    "name": "JaviSwap"
+    "price": 295.65,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "MikasaAckerman"
+    "price": 294.001,
+    "name": "cazing2230"
   },
-  "promedio": 295.25,
+  "promedio": 294.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
