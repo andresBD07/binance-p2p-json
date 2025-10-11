@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T15:35:50.686925",
-  "actualizado_vzla": "2025-10-11 11:35:50 -04",
+  "timestamp_utc": "2025-10-11T15:49:12.518543",
+  "actualizado_vzla": "2025-10-11 11:49:12 -04",
   "compra_segundo": {
-    "price": 297.9,
-    "name": "TUCRIPseguro"
+    "price": 297.5,
+    "name": "Metavic96_Pago-5-min"
   },
   "venta_maxima": {
-    "price": 296.8,
-    "name": "Child-CambioFacil"
+    "price": 296.6,
+    "name": "Kingtrade5555"
   },
-  "promedio": 297.35,
+  "promedio": 297.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
