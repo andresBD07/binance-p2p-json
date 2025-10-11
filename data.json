@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T16:34:18.276250",
-  "actualizado_vzla": "2025-10-11 12:34:18 -04",
+  "timestamp_utc": "2025-10-11T16:47:41.084576",
+  "actualizado_vzla": "2025-10-11 12:47:41 -04",
   "compra_segundo": {
-    "price": 296.99,
-    "name": "CriptoBlessed"
+    "price": 296.8,
+    "name": "大TaiLung龙"
   },
   "venta_maxima": {
-    "price": 295.15,
-    "name": "TuPagoRapido"
+    "price": 295.5,
+    "name": "TheOchoa"
   },
-  "promedio": 296.07,
+  "promedio": 296.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
