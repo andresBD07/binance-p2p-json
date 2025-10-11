@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T19:24:22.338283",
-  "actualizado_vzla": "2025-10-11 15:24:22 -04",
+  "timestamp_utc": "2025-10-11T19:38:02.893596",
+  "actualizado_vzla": "2025-10-11 15:38:02 -04",
   "compra_segundo": {
-    "price": 295.65,
-    "name": "LinkVzla"
+    "price": 295.5,
+    "name": "FragataExchange"
   },
   "venta_maxima": {
-    "price": 294.001,
-    "name": "cazing2230"
+    "price": 295.0,
+    "name": "MikasaAckerman"
   },
-  "promedio": 294.83,
+  "promedio": 295.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
