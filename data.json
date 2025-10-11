@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T10:34:40.318567",
-  "actualizado_vzla": "2025-10-11 06:34:40 -04",
+  "timestamp_utc": "2025-10-11T10:48:04.550431",
+  "actualizado_vzla": "2025-10-11 06:48:04 -04",
   "compra_segundo": {
-    "price": 299.4,
-    "name": "Open-cambios"
+    "price": 299.0,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 294.2,
-    "name": "RONIN_COIN"
+    "price": 295.53,
+    "name": "REGT"
   },
-  "promedio": 296.8,
+  "promedio": 297.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
