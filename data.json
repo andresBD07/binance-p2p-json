@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-11T13:24:59.619833",
-  "actualizado_vzla": "2025-10-11 09:24:59 -04",
+  "timestamp_utc": "2025-10-11T13:38:58.985023",
+  "actualizado_vzla": "2025-10-11 09:38:58 -04",
   "compra_segundo": {
     "price": 298.5,
     "name": "CripSeguro23"
   },
   "venta_maxima": {
     "price": 296.5,
-    "name": "hectoraltrader"
+    "name": "TheOchoa"
   },
   "promedio": 297.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
