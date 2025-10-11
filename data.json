@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T02:44:28.728798",
-  "actualizado_vzla": "2025-10-10 22:44:28 -04",
+  "timestamp_utc": "2025-10-11T03:18:08.935709",
+  "actualizado_vzla": "2025-10-10 23:18:08 -04",
   "compra_segundo": {
-    "price": 299.6,
-    "name": "Marquez25"
+    "price": 300.2,
+    "name": "marote28"
   },
   "venta_maxima": {
-    "price": 296.6,
-    "name": "TuPagoRapido"
+    "price": 297.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 298.1,
+  "promedio": 298.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
