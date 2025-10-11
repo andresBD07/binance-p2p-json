@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T21:34:54.364308",
-  "actualizado_vzla": "2025-10-11 17:34:54 -04",
+  "timestamp_utc": "2025-10-11T21:48:09.802452",
+  "actualizado_vzla": "2025-10-11 17:48:09 -04",
   "compra_segundo": {
-    "price": 295.35,
-    "name": "racaste"
+    "price": 295.25,
+    "name": "SIVE_Trading"
   },
   "venta_maxima": {
-    "price": 293.9,
-    "name": "RONIN_COIN"
+    "price": 293.109,
+    "name": "SPYG"
   },
-  "promedio": 294.62,
+  "promedio": 294.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
