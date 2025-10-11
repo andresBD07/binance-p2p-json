@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T21:20:43.933662",
-  "actualizado_vzla": "2025-10-11 17:20:43 -04",
+  "timestamp_utc": "2025-10-11T21:34:54.364308",
+  "actualizado_vzla": "2025-10-11 17:34:54 -04",
   "compra_segundo": {
     "price": 295.35,
-    "name": "-----ELITE"
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 293.9,
+    "name": "RONIN_COIN"
   },
-  "promedio": 294.68,
+  "promedio": 294.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
