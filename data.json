@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T14:29:54.395031",
-  "actualizado_vzla": "2025-10-11 10:29:54 -04",
+  "timestamp_utc": "2025-10-11T14:42:52.470615",
+  "actualizado_vzla": "2025-10-11 10:42:52 -04",
   "compra_segundo": {
-    "price": 297.85,
-    "name": "_Dinastia_"
+    "price": 297.65,
+    "name": "ChaizySwap"
   },
   "venta_maxima": {
-    "price": 296.7,
-    "name": "TheOchoa"
+    "price": 296.6,
+    "name": "Kingtrade5555"
   },
-  "promedio": 297.27,
+  "promedio": 297.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
