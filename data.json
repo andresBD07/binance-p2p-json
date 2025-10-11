@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T13:38:58.985023",
-  "actualizado_vzla": "2025-10-11 09:38:58 -04",
+  "timestamp_utc": "2025-10-11T13:51:56.842796",
+  "actualizado_vzla": "2025-10-11 09:51:56 -04",
   "compra_segundo": {
-    "price": 298.5,
-    "name": "CripSeguro23"
+    "price": 298.199,
+    "name": "K-0S"
   },
   "venta_maxima": {
-    "price": 296.5,
-    "name": "TheOchoa"
+    "price": 297.5,
+    "name": "TAURUS85"
   },
-  "promedio": 297.5,
+  "promedio": 297.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
