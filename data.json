@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T06:55:07.153078",
-  "actualizado_vzla": "2025-10-11 02:55:07 -04",
+  "timestamp_utc": "2025-10-11T07:19:47.070093",
+  "actualizado_vzla": "2025-10-11 03:19:47 -04",
   "compra_segundo": {
-    "price": 301.0,
-    "name": "xJamgM"
+    "price": 301.9,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 296.55,
-    "name": "RONIN_COIN"
+    "price": 297.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 298.77,
+  "promedio": 299.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
