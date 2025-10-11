@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T22:55:10.335167",
-  "actualizado_vzla": "2025-10-11 18:55:10 -04",
+  "timestamp_utc": "2025-10-11T23:20:40.115459",
+  "actualizado_vzla": "2025-10-11 19:20:40 -04",
   "compra_segundo": {
-    "price": 295.2,
-    "name": "SnixCryptoFinance"
+    "price": 295.4,
+    "name": "7Trinity7"
   },
   "venta_maxima": {
-    "price": 294.2,
-    "name": "TOPlevelS"
+    "price": 294.15,
+    "name": "RONIN_COIN"
   },
-  "promedio": 294.7,
+  "promedio": 294.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
