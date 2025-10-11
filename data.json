@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T21:48:09.802452",
-  "actualizado_vzla": "2025-10-11 17:48:09 -04",
+  "timestamp_utc": "2025-10-11T22:07:47.153316",
+  "actualizado_vzla": "2025-10-11 18:07:47 -04",
   "compra_segundo": {
-    "price": 295.25,
-    "name": "SIVE_Trading"
+    "price": 295.2,
+    "name": "GLOBAL_STEPHANIE_SPA"
   },
   "venta_maxima": {
-    "price": 293.109,
-    "name": "SPYG"
+    "price": 294.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 294.18,
+  "promedio": 294.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
