@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-11T14:13:46.250886",
-  "actualizado_vzla": "2025-10-11 10:13:46 -04",
+  "timestamp_utc": "2025-10-11T14:29:54.395031",
+  "actualizado_vzla": "2025-10-11 10:29:54 -04",
   "compra_segundo": {
-    "price": 297.55,
-    "name": "CriiptoEnergy"
+    "price": 297.85,
+    "name": "_Dinastia_"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "TheBlackHand"
+    "price": 296.7,
+    "name": "TheOchoa"
   },
   "promedio": 297.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
