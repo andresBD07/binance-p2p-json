@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T17:50:22.767786",
-  "actualizado_vzla": "2025-10-11 13:50:22 -04",
+  "timestamp_utc": "2025-10-11T18:16:17.595043",
+  "actualizado_vzla": "2025-10-11 14:16:17 -04",
   "compra_segundo": {
-    "price": 295.6,
-    "name": "Criptotrading"
+    "price": 295.0,
+    "name": "GokuExchange"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "MikasaAckerman"
+    "price": 295.5,
+    "name": "JoseParedez"
   },
-  "promedio": 295.3,
+  "promedio": 295.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
