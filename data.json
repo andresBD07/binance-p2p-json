@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-11T20:44:09.868865",
-  "actualizado_vzla": "2025-10-11 16:44:09 -04",
+  "timestamp_utc": "2025-10-11T20:56:55.193769",
+  "actualizado_vzla": "2025-10-11 16:56:55 -04",
   "compra_segundo": {
-    "price": 295.1,
-    "name": "LinkVzla"
+    "price": 295.2,
+    "name": "CERRATO23__"
   },
   "venta_maxima": {
     "price": 294.5,
     "name": "Child-CambioFacil"
   },
-  "promedio": 294.8,
+  "promedio": 294.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
