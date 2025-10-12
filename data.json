@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T08:54:43.241903",
-  "actualizado_vzla": "2025-10-12 04:54:43 -04",
+  "timestamp_utc": "2025-10-12T09:21:32.211329",
+  "actualizado_vzla": "2025-10-12 05:21:32 -04",
   "compra_segundo": {
-    "price": 298.8,
-    "name": "usdtking"
+    "price": 298.0,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 292.6,
     "name": "US-PROFIT_EXCHANGE"
   },
-  "promedio": 295.7,
+  "promedio": 295.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
