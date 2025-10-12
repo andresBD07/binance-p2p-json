@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T04:29:14.087645",
-  "actualizado_vzla": "2025-10-12 00:29:14 -04",
+  "timestamp_utc": "2025-10-12T04:44:45.355713",
+  "actualizado_vzla": "2025-10-12 00:44:45 -04",
   "compra_segundo": {
-    "price": 297.895,
-    "name": "CASH_SA"
+    "price": 297.4,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
     "price": 292.6,
     "name": "US-PROFIT_EXCHANGE"
   },
-  "promedio": 295.25,
+  "promedio": 295.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
