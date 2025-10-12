@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T17:21:31.206301",
-  "actualizado_vzla": "2025-10-12 13:21:31 -04",
+  "timestamp_utc": "2025-10-12T17:36:37.168388",
+  "actualizado_vzla": "2025-10-12 13:36:37 -04",
   "compra_segundo": {
-    "price": 295.4,
-    "name": "HectorB"
+    "price": 295.85,
+    "name": "LaYanza"
   },
   "venta_maxima": {
-    "price": 295.101,
-    "name": "GoldenLion_"
+    "price": 295.5,
+    "name": "MikasaAckerman"
   },
-  "promedio": 295.25,
+  "promedio": 295.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
