@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T12:01:09.500577",
-  "actualizado_vzla": "2025-10-12 08:01:09 -04",
+  "timestamp_utc": "2025-10-12T12:49:43.630891",
+  "actualizado_vzla": "2025-10-12 08:49:43 -04",
   "compra_segundo": {
-    "price": 296.879,
-    "name": "EVER-08"
+    "price": 296.5,
+    "name": "大TaiLung龙"
   },
   "venta_maxima": {
-    "price": 293.501,
-    "name": "MikasaAckerman"
+    "price": 294.0,
+    "name": "KillKeroy"
   },
-  "promedio": 295.19,
+  "promedio": 295.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
