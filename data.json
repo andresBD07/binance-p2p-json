@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T22:33:38.490210",
-  "actualizado_vzla": "2025-10-12 18:33:38 -04",
+  "timestamp_utc": "2025-10-12T22:46:48.049431",
+  "actualizado_vzla": "2025-10-12 18:46:48 -04",
   "compra_segundo": {
-    "price": 296.4,
-    "name": "Kartozpk"
+    "price": 296.5,
+    "name": "Elion-Trading"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "MikasaAckerman"
+    "price": 295.3,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 295.95,
+  "promedio": 295.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
