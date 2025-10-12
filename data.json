@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T02:19:02.389811",
-  "actualizado_vzla": "2025-10-11 22:19:02 -04",
+  "timestamp_utc": "2025-10-12T03:13:46.055195",
+  "actualizado_vzla": "2025-10-11 23:13:46 -04",
   "compra_segundo": {
-    "price": 295.999,
-    "name": "TRANSFERE-EL-AGUILA"
+    "price": 296.5,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
-    "price": 293.5,
-    "name": "Budyzz"
+    "price": 292.9,
+    "name": "jewishdiamond"
   },
-  "promedio": 294.75,
+  "promedio": 294.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
