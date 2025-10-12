@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T19:52:56.604146",
-  "actualizado_vzla": "2025-10-12 15:52:56 -04",
+  "timestamp_utc": "2025-10-12T20:19:44.835528",
+  "actualizado_vzla": "2025-10-12 16:19:44 -04",
   "compra_segundo": {
-    "price": 296.9,
-    "name": "EdwardJMT"
+    "price": 297.0,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
     "price": 295.6,
     "name": "Child-CambioFacil"
   },
-  "promedio": 296.25,
+  "promedio": 296.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
