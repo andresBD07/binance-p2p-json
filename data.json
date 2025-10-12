@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T21:08:49.270406",
-  "actualizado_vzla": "2025-10-12 17:08:49 -04",
+  "timestamp_utc": "2025-10-12T21:26:32.144440",
+  "actualizado_vzla": "2025-10-12 17:26:32 -04",
   "compra_segundo": {
-    "price": 296.42,
-    "name": "Ekxprees"
+    "price": 296.45,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "app2112"
+    "price": 295.909,
+    "name": "SPYG"
   },
-  "promedio": 296.21,
+  "promedio": 296.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
