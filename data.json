@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T16:28:38.120630",
-  "actualizado_vzla": "2025-10-12 12:28:38 -04",
+  "timestamp_utc": "2025-10-12T16:44:45.251095",
+  "actualizado_vzla": "2025-10-12 12:44:45 -04",
   "compra_segundo": {
-    "price": 295.65,
-    "name": "_InversionesJG_"
+    "price": 295.63,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
     "price": 295.0,
     "name": "MikasaAckerman"
   },
-  "promedio": 295.32,
+  "promedio": 295.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
