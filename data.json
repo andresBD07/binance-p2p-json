@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T09:48:59.838302",
-  "actualizado_vzla": "2025-10-12 05:48:59 -04",
+  "timestamp_utc": "2025-10-12T10:10:12.566390",
+  "actualizado_vzla": "2025-10-12 06:10:12 -04",
   "compra_segundo": {
-    "price": 297.8,
-    "name": "TradEr2025_Drjgh"
+    "price": 297.75,
+    "name": "RAPIDOySEGURO_EAGLE"
   },
   "venta_maxima": {
     "price": 292.6,
     "name": "US-PROFIT_EXCHANGE"
   },
-  "promedio": 295.2,
+  "promedio": 295.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
