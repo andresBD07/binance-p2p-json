@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T06:48:02.495389",
-  "actualizado_vzla": "2025-10-12 02:48:02 -04",
+  "timestamp_utc": "2025-10-12T07:07:48.857990",
+  "actualizado_vzla": "2025-10-12 03:07:48 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "AllTraders"
+    "price": 298.7,
+    "name": "El Buitre"
   },
   "venta_maxima": {
     "price": 292.6,
     "name": "US-PROFIT_EXCHANGE"
   },
-  "promedio": 295.3,
+  "promedio": 295.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
