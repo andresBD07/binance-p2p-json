@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T15:30:16.711960",
-  "actualizado_vzla": "2025-10-12 11:30:16 -04",
+  "timestamp_utc": "2025-10-12T15:43:14.232997",
+  "actualizado_vzla": "2025-10-12 11:43:14 -04",
   "compra_segundo": {
-    "price": 295.5,
-    "name": "ElCandidoP2P"
+    "price": 295.63,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 295.5,
+    "price": 296.1,
     "name": "JoseParedez"
   },
-  "promedio": 295.5,
+  "promedio": 295.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
