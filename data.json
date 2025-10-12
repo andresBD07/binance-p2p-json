@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2025-10-12T23:37:59.108601",
-  "actualizado_vzla": "2025-10-12 19:37:59 -04",
+  "timestamp_utc": "2025-10-12T23:51:07.063835",
+  "actualizado_vzla": "2025-10-12 19:51:07 -04",
   "compra_segundo": {
-    "price": 296.999,
-    "name": "Darvin"
+    "price": 297.0,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 295.001,
+    "price": 295.0,
     "name": "MikasaAckerman"
   },
   "promedio": 296.0,
