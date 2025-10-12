@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T15:43:14.232997",
-  "actualizado_vzla": "2025-10-12 11:43:14 -04",
+  "timestamp_utc": "2025-10-12T15:56:01.898733",
+  "actualizado_vzla": "2025-10-12 11:56:01 -04",
   "compra_segundo": {
-    "price": 295.63,
-    "name": "RyderXchange"
+    "price": 295.41,
+    "name": "JIJ_1"
   },
   "venta_maxima": {
-    "price": 296.1,
-    "name": "JoseParedez"
+    "price": 295.25,
+    "name": "TuPagoRapido"
   },
-  "promedio": 295.87,
+  "promedio": 295.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
