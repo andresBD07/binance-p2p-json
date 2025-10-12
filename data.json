@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T23:23:24.245827",
-  "actualizado_vzla": "2025-10-12 19:23:24 -04",
+  "timestamp_utc": "2025-10-12T23:37:59.108601",
+  "actualizado_vzla": "2025-10-12 19:37:59 -04",
   "compra_segundo": {
     "price": 296.999,
     "name": "Darvin"
   },
   "venta_maxima": {
-    "price": 295.2,
-    "name": "GOMEZTUSOLUCION"
+    "price": 295.001,
+    "name": "MikasaAckerman"
   },
-  "promedio": 296.1,
+  "promedio": 296.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
