@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T12:49:43.630891",
-  "actualizado_vzla": "2025-10-12 08:49:43 -04",
+  "timestamp_utc": "2025-10-12T13:17:17.126557",
+  "actualizado_vzla": "2025-10-12 09:17:17 -04",
   "compra_segundo": {
-    "price": 296.5,
-    "name": "大TaiLung龙"
+    "price": 296.3,
+    "name": "SmarPhon3"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "KillKeroy"
+    "price": 294.501,
+    "name": "MikasaAckerman"
   },
-  "promedio": 295.25,
+  "promedio": 295.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
