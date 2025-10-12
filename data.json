@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T03:13:46.055195",
-  "actualizado_vzla": "2025-10-11 23:13:46 -04",
+  "timestamp_utc": "2025-10-12T03:44:21.319125",
+  "actualizado_vzla": "2025-10-11 23:44:21 -04",
   "compra_segundo": {
-    "price": 296.5,
-    "name": "RAULITO2809"
+    "price": 296.98,
+    "name": "METODICO"
   },
   "venta_maxima": {
     "price": 292.9,
     "name": "jewishdiamond"
   },
-  "promedio": 294.7,
+  "promedio": 294.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
