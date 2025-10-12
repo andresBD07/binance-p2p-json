@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T20:19:44.835528",
-  "actualizado_vzla": "2025-10-12 16:19:44 -04",
+  "timestamp_utc": "2025-10-12T20:35:54.855975",
+  "actualizado_vzla": "2025-10-12 16:35:54 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "IA_CORPORATE"
+    "price": 296.8,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "Child-CambioFacil"
+    "price": 295.5,
+    "name": "MikasaAckerman"
   },
-  "promedio": 296.3,
+  "promedio": 296.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
