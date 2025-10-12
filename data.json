@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T22:59:48.408917",
-  "actualizado_vzla": "2025-10-12 18:59:48 -04",
+  "timestamp_utc": "2025-10-12T23:23:24.245827",
+  "actualizado_vzla": "2025-10-12 19:23:24 -04",
   "compra_segundo": {
-    "price": 296.75,
-    "name": "Yoinered"
+    "price": 296.999,
+    "name": "Darvin"
   },
   "venta_maxima": {
     "price": 295.2,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 295.98,
+  "promedio": 296.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
