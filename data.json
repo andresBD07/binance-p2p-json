@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T13:46:57.714007",
-  "actualizado_vzla": "2025-10-12 09:46:57 -04",
+  "timestamp_utc": "2025-10-12T14:00:03.995071",
+  "actualizado_vzla": "2025-10-12 10:00:04 -04",
   "compra_segundo": {
-    "price": 295.7,
-    "name": "Magnetic10"
+    "price": 295.89,
+    "name": "RoyMustang_"
   },
   "venta_maxima": {
     "price": 294.501,
     "name": "MikasaAckerman"
   },
-  "promedio": 295.1,
+  "promedio": 295.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
