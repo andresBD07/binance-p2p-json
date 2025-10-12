@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T15:15:45.652126",
-  "actualizado_vzla": "2025-10-12 11:15:45 -04",
+  "timestamp_utc": "2025-10-12T15:30:16.711960",
+  "actualizado_vzla": "2025-10-12 11:30:16 -04",
   "compra_segundo": {
-    "price": 295.4,
-    "name": "LEOCASHFAST"
+    "price": 295.5,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "JoseParedez"
   },
-  "promedio": 295.45,
+  "promedio": 295.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
