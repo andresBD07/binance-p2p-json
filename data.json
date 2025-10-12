@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T11:19:41.667071",
-  "actualizado_vzla": "2025-10-12 07:19:41 -04",
+  "timestamp_utc": "2025-10-12T11:34:35.333201",
+  "actualizado_vzla": "2025-10-12 07:34:35 -04",
   "compra_segundo": {
-    "price": 297.7,
-    "name": "Girasolee"
+    "price": 297.29,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
     "price": 293.5,
     "name": "KillKeroy"
   },
-  "promedio": 295.6,
+  "promedio": 295.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
