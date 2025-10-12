@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T20:35:54.855975",
-  "actualizado_vzla": "2025-10-12 16:35:54 -04",
+  "timestamp_utc": "2025-10-12T20:49:00.590729",
+  "actualizado_vzla": "2025-10-12 16:49:00 -04",
   "compra_segundo": {
-    "price": 296.8,
-    "name": "MikasaExchange"
+    "price": 296.9,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 295.5,
+    "price": 295.0,
     "name": "MikasaAckerman"
   },
-  "promedio": 296.15,
+  "promedio": 295.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
