@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T18:39:56.709389",
-  "actualizado_vzla": "2025-10-12 14:39:56 -04",
+  "timestamp_utc": "2025-10-12T18:53:06.869790",
+  "actualizado_vzla": "2025-10-12 14:53:06 -04",
   "compra_segundo": {
-    "price": 296.5,
-    "name": "LaDulzuraMia"
+    "price": 296.6,
+    "name": "CriptoVa10"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "MikasaAckerman"
   },
-  "promedio": 296.0,
+  "promedio": 296.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
