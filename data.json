@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T08:22:31.894044",
-  "actualizado_vzla": "2025-10-12 04:22:31 -04",
+  "timestamp_utc": "2025-10-12T08:41:34.303635",
+  "actualizado_vzla": "2025-10-12 04:41:34 -04",
   "compra_segundo": {
-    "price": 298.8,
-    "name": "DardoVeloz"
+    "price": 298.7,
+    "name": "El Buitre"
   },
   "venta_maxima": {
     "price": 292.6,
     "name": "US-PROFIT_EXCHANGE"
   },
-  "promedio": 295.7,
+  "promedio": 295.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
