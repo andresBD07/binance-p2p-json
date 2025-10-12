@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T14:39:33.004811",
-  "actualizado_vzla": "2025-10-12 10:39:33 -04",
+  "timestamp_utc": "2025-10-12T14:52:33.299315",
+  "actualizado_vzla": "2025-10-12 10:52:33 -04",
   "compra_segundo": {
-    "price": 295.79,
-    "name": "MisterfastP2P"
+    "price": 295.53,
+    "name": "AMR0918"
   },
   "venta_maxima": {
     "price": 295.0,
     "name": "JoseParedez"
   },
-  "promedio": 295.39,
+  "promedio": 295.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
