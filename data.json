@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T18:53:06.869790",
-  "actualizado_vzla": "2025-10-12 14:53:06 -04",
+  "timestamp_utc": "2025-10-12T19:14:12.390256",
+  "actualizado_vzla": "2025-10-12 15:14:12 -04",
   "compra_segundo": {
-    "price": 296.6,
-    "name": "CriptoVa10"
+    "price": 296.95,
+    "name": "Cambi0Express"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "MikasaAckerman"
+    "price": 295.6,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 296.05,
+  "promedio": 296.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
