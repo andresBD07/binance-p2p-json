@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-12T14:52:33.299315",
-  "actualizado_vzla": "2025-10-12 10:52:33 -04",
+  "timestamp_utc": "2025-10-12T15:15:45.652126",
+  "actualizado_vzla": "2025-10-12 11:15:45 -04",
   "compra_segundo": {
-    "price": 295.53,
-    "name": "AMR0918"
+    "price": 295.4,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 295.0,
+    "price": 295.5,
     "name": "JoseParedez"
   },
-  "promedio": 295.26,
+  "promedio": 295.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
