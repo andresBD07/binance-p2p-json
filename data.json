@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T14:18:37.809854",
-  "actualizado_vzla": "2025-10-13 10:18:37 -04",
+  "timestamp_utc": "2025-10-13T14:40:43.339525",
+  "actualizado_vzla": "2025-10-13 10:40:43 -04",
   "compra_segundo": {
-    "price": 296.8,
-    "name": "TuRemesaInt"
+    "price": 296.4,
+    "name": "maikolmai"
   },
   "venta_maxima": {
-    "price": 295.71,
-    "name": "All-inCrypto"
+    "price": 297.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 296.25,
+  "promedio": 296.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
