@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T13:34:39.779294",
-  "actualizado_vzla": "2025-10-13 09:34:39 -04",
+  "timestamp_utc": "2025-10-13T13:52:02.445648",
+  "actualizado_vzla": "2025-10-13 09:52:02 -04",
   "compra_segundo": {
-    "price": 297.2,
-    "name": "Horusrs"
+    "price": 297.25,
+    "name": "Divisas_Coffee"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "Tradingfriend"
   },
-  "promedio": 297.1,
+  "promedio": 297.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
