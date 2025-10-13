@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T05:13:09.770444",
-  "actualizado_vzla": "2025-10-13 01:13:09 -04",
+  "timestamp_utc": "2025-10-13T05:35:54.270286",
+  "actualizado_vzla": "2025-10-13 01:35:54 -04",
   "compra_segundo": {
-    "price": 302.28,
-    "name": "PlutoTrading"
+    "price": 304.897,
+    "name": "USDT_INVERSIONES"
   },
   "venta_maxima": {
-    "price": 294.6,
-    "name": "cambiovzx2"
+    "price": 293.51,
+    "name": "VR46-"
   },
-  "promedio": 298.44,
+  "promedio": 299.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
