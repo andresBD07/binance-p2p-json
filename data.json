@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T10:10:52.600175",
-  "actualizado_vzla": "2025-10-13 06:10:52 -04",
+  "timestamp_utc": "2025-10-13T10:39:08.195826",
+  "actualizado_vzla": "2025-10-13 06:39:08 -04",
   "compra_segundo": {
-    "price": 299.5,
-    "name": "CorvoMecanique"
+    "price": 298.995,
+    "name": "Neriojo"
   },
   "venta_maxima": {
     "price": 293.51,
     "name": "Invcaf"
   },
-  "promedio": 296.5,
+  "promedio": 296.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
