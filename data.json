@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T22:42:13.142665",
-  "actualizado_vzla": "2025-10-13 18:42:13 -04",
+  "timestamp_utc": "2025-10-13T22:55:02.087575",
+  "actualizado_vzla": "2025-10-13 18:55:02 -04",
   "compra_segundo": {
-    "price": 299.0,
-    "name": "Dpay21"
+    "price": 298.898,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "SmartSolutionn"
+    "price": 297.7,
+    "name": "JLxanges"
   },
-  "promedio": 298.25,
+  "promedio": 298.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
