@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T13:52:02.445648",
-  "actualizado_vzla": "2025-10-13 09:52:02 -04",
+  "timestamp_utc": "2025-10-13T14:18:37.809854",
+  "actualizado_vzla": "2025-10-13 10:18:37 -04",
   "compra_segundo": {
-    "price": 297.25,
-    "name": "Divisas_Coffee"
+    "price": 296.8,
+    "name": "TuRemesaInt"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "Tradingfriend"
+    "price": 295.71,
+    "name": "All-inCrypto"
   },
-  "promedio": 297.12,
+  "promedio": 296.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
