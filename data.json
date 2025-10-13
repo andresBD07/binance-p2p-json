@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T10:52:35.105885",
-  "actualizado_vzla": "2025-10-13 06:52:35 -04",
+  "timestamp_utc": "2025-10-13T11:16:37.865576",
+  "actualizado_vzla": "2025-10-13 07:16:37 -04",
   "compra_segundo": {
-    "price": 297.85,
-    "name": "Trader_AngC"
+    "price": 297.68,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 292.3,
-    "name": "RONIN_COIN"
+    "price": 294.4,
+    "name": "Weppatech"
   },
-  "promedio": 295.08,
+  "promedio": 296.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
