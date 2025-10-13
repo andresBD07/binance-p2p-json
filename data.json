@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T01:14:33.729252",
-  "actualizado_vzla": "2025-10-12 21:14:33 -04",
+  "timestamp_utc": "2025-10-13T02:48:45.644134",
+  "actualizado_vzla": "2025-10-12 22:48:45 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "1PIECE-BLESS"
+    "price": 298.58,
+    "name": "METODICO"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "MikasaAckerman"
+    "price": 295.5,
+    "name": "cambioson"
   },
-  "promedio": 297.0,
+  "promedio": 297.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
