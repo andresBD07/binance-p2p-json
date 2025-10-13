@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T17:00:13.708587",
-  "actualizado_vzla": "2025-10-13 13:00:13 -04",
+  "timestamp_utc": "2025-10-13T17:25:24.406342",
+  "actualizado_vzla": "2025-10-13 13:25:24 -04",
   "compra_segundo": {
-    "price": 297.38,
-    "name": "Criscripto18M"
+    "price": 298.0,
+    "name": "laratradingcl"
   },
   "venta_maxima": {
-    "price": 298.1,
-    "name": "FinanceSecure"
+    "price": 298.5,
+    "name": "JLxanges"
   },
-  "promedio": 297.74,
+  "promedio": 298.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
