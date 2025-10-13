@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-13T21:19:32.585862",
-  "actualizado_vzla": "2025-10-13 17:19:32 -04",
+  "timestamp_utc": "2025-10-13T21:33:13.848269",
+  "actualizado_vzla": "2025-10-13 17:33:13 -04",
   "compra_segundo": {
     "price": 298.9,
-    "name": "MikasaExchange"
+    "name": "traing_balto"
   },
   "venta_maxima": {
     "price": 298.001,
