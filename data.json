@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T08:56:23.956429",
-  "actualizado_vzla": "2025-10-13 04:56:23 -04",
+  "timestamp_utc": "2025-10-13T09:31:28.775075",
+  "actualizado_vzla": "2025-10-13 05:31:28 -04",
   "compra_segundo": {
-    "price": 301.49,
-    "name": "Saher7"
+    "price": 300.9,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
-    "price": 293.5,
-    "name": "edwardgoldchhh"
+    "price": 294.0,
+    "name": "RIVERMONEY"
   },
-  "promedio": 297.5,
+  "promedio": 297.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
