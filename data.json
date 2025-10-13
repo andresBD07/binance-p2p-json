@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T23:35:48.563442",
-  "actualizado_vzla": "2025-10-13 19:35:48 -04",
+  "timestamp_utc": "2025-10-13T23:48:55.852389",
+  "actualizado_vzla": "2025-10-13 19:48:55 -04",
   "compra_segundo": {
-    "price": 298.849,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 298.85,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
     "price": 297.5,
-    "name": "GhostRS"
+    "name": "SmartSolutionn"
   },
-  "promedio": 298.17,
+  "promedio": 298.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
