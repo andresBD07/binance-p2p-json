@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T09:31:28.775075",
-  "actualizado_vzla": "2025-10-13 05:31:28 -04",
+  "timestamp_utc": "2025-10-13T09:47:50.392754",
+  "actualizado_vzla": "2025-10-13 05:47:50 -04",
   "compra_segundo": {
-    "price": 300.9,
-    "name": "Mero-Mero"
+    "price": 300.0,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
     "price": 294.0,
     "name": "RIVERMONEY"
   },
-  "promedio": 297.45,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
