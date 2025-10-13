@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T15:21:26.771498",
-  "actualizado_vzla": "2025-10-13 11:21:26 -04",
+  "timestamp_utc": "2025-10-13T15:39:03.971928",
+  "actualizado_vzla": "2025-10-13 11:39:03 -04",
   "compra_segundo": {
-    "price": 296.75,
-    "name": "CriptoBlessed"
+    "price": 296.79,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "notorius11"
+    "price": 296.5,
+    "name": "JLxanges"
   },
-  "promedio": 296.12,
+  "promedio": 296.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
