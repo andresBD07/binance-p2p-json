@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T20:54:03.516585",
-  "actualizado_vzla": "2025-10-13 16:54:03 -04",
+  "timestamp_utc": "2025-10-13T21:19:32.585862",
+  "actualizado_vzla": "2025-10-13 17:19:32 -04",
   "compra_segundo": {
-    "price": 298.8,
-    "name": "Emmanuelli"
+    "price": 298.9,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "LogisticExchange"
+    "price": 298.001,
+    "name": "Luigismansion "
   },
-  "promedio": 298.65,
+  "promedio": 298.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
