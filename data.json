@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T12:55:12.698202",
-  "actualizado_vzla": "2025-10-13 08:55:12 -04",
+  "timestamp_utc": "2025-10-13T13:34:39.779294",
+  "actualizado_vzla": "2025-10-13 09:34:39 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "Saher7"
+    "price": 297.2,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "OTCLEGEND"
+    "price": 297.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 296.5,
+  "promedio": 297.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
