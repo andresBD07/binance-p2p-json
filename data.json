@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T16:46:42.592817",
-  "actualizado_vzla": "2025-10-13 12:46:42 -04",
+  "timestamp_utc": "2025-10-13T17:00:13.708587",
+  "actualizado_vzla": "2025-10-13 13:00:13 -04",
   "compra_segundo": {
-    "price": 297.2,
-    "name": "CAMBIOSAVILA"
+    "price": 297.38,
+    "name": "Criscripto18M"
   },
   "venta_maxima": {
-    "price": 298.0,
+    "price": 298.1,
     "name": "FinanceSecure"
   },
-  "promedio": 297.6,
+  "promedio": 297.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
