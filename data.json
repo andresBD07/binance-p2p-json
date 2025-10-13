@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T22:55:02.087575",
-  "actualizado_vzla": "2025-10-13 18:55:02 -04",
+  "timestamp_utc": "2025-10-13T23:21:17.800484",
+  "actualizado_vzla": "2025-10-13 19:21:17 -04",
   "compra_segundo": {
-    "price": 298.898,
-    "name": "Cambios-JH-Express"
+    "price": 298.89,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 297.7,
-    "name": "JLxanges"
+    "price": 297.5,
+    "name": "Luigismansion "
   },
-  "promedio": 298.3,
+  "promedio": 298.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
