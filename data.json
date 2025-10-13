@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T09:47:50.392754",
-  "actualizado_vzla": "2025-10-13 05:47:50 -04",
+  "timestamp_utc": "2025-10-13T10:10:52.600175",
+  "actualizado_vzla": "2025-10-13 06:10:52 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "Cambia-Seguro-01"
+    "price": 299.5,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "RIVERMONEY"
+    "price": 293.51,
+    "name": "Invcaf"
   },
-  "promedio": 297.0,
+  "promedio": 296.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
