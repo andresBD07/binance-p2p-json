@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T19:26:13.248532",
-  "actualizado_vzla": "2025-10-13 15:26:13 -04",
+  "timestamp_utc": "2025-10-13T19:40:15.111448",
+  "actualizado_vzla": "2025-10-13 15:40:15 -04",
   "compra_segundo": {
-    "price": 298.3,
-    "name": "Anthonyil"
+    "price": 298.48,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
-    "price": 298.11,
-    "name": "C_Pagos"
+    "price": 298.62,
+    "name": "MikasaExchange"
   },
-  "promedio": 298.21,
+  "promedio": 298.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
