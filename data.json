@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T14:40:43.339525",
-  "actualizado_vzla": "2025-10-13 10:40:43 -04",
+  "timestamp_utc": "2025-10-13T14:53:31.730209",
+  "actualizado_vzla": "2025-10-13 10:53:31 -04",
   "compra_segundo": {
-    "price": 296.4,
-    "name": "maikolmai"
+    "price": 296.47,
+    "name": "FC-Ultimate"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "Tradingfriend"
   },
-  "promedio": 296.7,
+  "promedio": 296.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
