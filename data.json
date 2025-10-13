@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T03:37:09.666812",
-  "actualizado_vzla": "2025-10-12 23:37:09 -04",
+  "timestamp_utc": "2025-10-13T03:58:40.184808",
+  "actualizado_vzla": "2025-10-12 23:58:40 -04",
   "compra_segundo": {
-    "price": 299.7,
-    "name": "nene"
+    "price": 299.999,
+    "name": "Cdrn19"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "cambioson"
   },
-  "promedio": 297.6,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
