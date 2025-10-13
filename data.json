@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T17:54:19.729400",
-  "actualizado_vzla": "2025-10-13 13:54:19 -04",
+  "timestamp_utc": "2025-10-13T18:31:38.506592",
+  "actualizado_vzla": "2025-10-13 14:31:38 -04",
   "compra_segundo": {
-    "price": 298.999,
-    "name": "R0ckandR0ll"
+    "price": 298.499,
+    "name": "epiracFJ"
   },
   "venta_maxima": {
-    "price": 298.6,
-    "name": "FinanceSecure"
+    "price": 299.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 298.8,
+  "promedio": 298.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
