@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T07:11:03.286386",
-  "actualizado_vzla": "2025-10-13 03:11:03 -04",
+  "timestamp_utc": "2025-10-13T07:31:53.930377",
+  "actualizado_vzla": "2025-10-13 03:31:53 -04",
   "compra_segundo": {
-    "price": 304.99,
-    "name": "CAMBIOs_PrO"
+    "price": 304.9,
+    "name": "OTTONIELK"
   },
   "venta_maxima": {
     "price": 293.5,
     "name": "edwardgoldchhh"
   },
-  "promedio": 299.25,
+  "promedio": 299.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
