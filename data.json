@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T14:53:31.730209",
-  "actualizado_vzla": "2025-10-13 10:53:31 -04",
+  "timestamp_utc": "2025-10-13T15:21:26.771498",
+  "actualizado_vzla": "2025-10-13 11:21:26 -04",
   "compra_segundo": {
-    "price": 296.47,
-    "name": "FC-Ultimate"
+    "price": 296.75,
+    "name": "CriptoBlessed"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "Tradingfriend"
+    "price": 295.5,
+    "name": "notorius11"
   },
-  "promedio": 296.74,
+  "promedio": 296.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
