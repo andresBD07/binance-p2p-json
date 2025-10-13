@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T17:25:24.406342",
-  "actualizado_vzla": "2025-10-13 13:25:24 -04",
+  "timestamp_utc": "2025-10-13T17:41:28.173022",
+  "actualizado_vzla": "2025-10-13 13:41:28 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "laratradingcl"
+    "price": 298.75,
+    "name": "CambiosSilva"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "JLxanges"
+    "price": 298.6,
+    "name": "FinanceSecure"
   },
-  "promedio": 298.25,
+  "promedio": 298.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
