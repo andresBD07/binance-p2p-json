@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T02:48:45.644134",
-  "actualizado_vzla": "2025-10-12 22:48:45 -04",
+  "timestamp_utc": "2025-10-13T03:37:09.666812",
+  "actualizado_vzla": "2025-10-12 23:37:09 -04",
   "compra_segundo": {
-    "price": 298.58,
-    "name": "METODICO"
+    "price": 299.7,
+    "name": "nene"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "cambioson"
   },
-  "promedio": 297.04,
+  "promedio": 297.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
