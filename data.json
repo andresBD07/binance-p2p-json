@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-13T15:39:03.971928",
-  "actualizado_vzla": "2025-10-13 11:39:03 -04",
+  "timestamp_utc": "2025-10-13T15:52:34.566251",
+  "actualizado_vzla": "2025-10-13 11:52:34 -04",
   "compra_segundo": {
-    "price": 296.79,
-    "name": "ISATradea"
+    "price": 296.999,
+    "name": "WChurchill"
   },
   "venta_maxima": {
-    "price": 296.5,
-    "name": "JLxanges"
+    "price": 297.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 296.64,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
