@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T17:12:35.053356",
-  "actualizado_vzla": "2025-10-14 13:12:35 -04",
+  "timestamp_utc": "2025-10-14T17:30:25.113572",
+  "actualizado_vzla": "2025-10-14 13:30:25 -04",
   "compra_segundo": {
-    "price": 297.8,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 297.75,
+    "name": "大TaiLung龙"
   },
   "venta_maxima": {
     "price": 297.5,
     "name": "0xSai"
   },
-  "promedio": 297.65,
+  "promedio": 297.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
