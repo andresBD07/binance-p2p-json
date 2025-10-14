@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T13:28:14.973987",
-  "actualizado_vzla": "2025-10-14 09:28:14 -04",
+  "timestamp_utc": "2025-10-14T13:48:55.876926",
+  "actualizado_vzla": "2025-10-14 09:48:55 -04",
   "compra_segundo": {
-    "price": 298.149,
-    "name": "Mantequilla777"
+    "price": 297.85,
+    "name": "Cambioya12"
   },
   "venta_maxima": {
-    "price": 297.31,
-    "name": "hectoraltrader"
+    "price": 298.05,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 297.73,
+  "promedio": 297.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
