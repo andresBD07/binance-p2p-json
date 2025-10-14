@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T16:30:13.405091",
-  "actualizado_vzla": "2025-10-14 12:30:13 -04",
+  "timestamp_utc": "2025-10-14T16:50:02.176231",
+  "actualizado_vzla": "2025-10-14 12:50:02 -04",
   "compra_segundo": {
-    "price": 297.9,
-    "name": "CriptoCambiosWA"
+    "price": 297.942,
+    "name": "Orlozada"
   },
   "venta_maxima": {
-    "price": 298.69,
-    "name": "CryptoIngAlex"
+    "price": 296.7,
+    "name": "TuPagoRapido"
   },
-  "promedio": 298.29,
+  "promedio": 297.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
