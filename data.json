@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T17:30:25.113572",
-  "actualizado_vzla": "2025-10-14 13:30:25 -04",
+  "timestamp_utc": "2025-10-14T17:43:54.697320",
+  "actualizado_vzla": "2025-10-14 13:43:54 -04",
   "compra_segundo": {
-    "price": 297.75,
-    "name": "大TaiLung龙"
+    "price": 297.74,
+    "name": "Cripto_04"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "0xSai"
+    "price": 296.701,
+    "name": "Servic-Karyguz"
   },
-  "promedio": 297.62,
+  "promedio": 297.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
