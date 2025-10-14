@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T15:54:46.250190",
-  "actualizado_vzla": "2025-10-14 11:54:46 -04",
+  "timestamp_utc": "2025-10-14T16:30:13.405091",
+  "actualizado_vzla": "2025-10-14 12:30:13 -04",
   "compra_segundo": {
-    "price": 298.25,
-    "name": "_AltCoinMaster_"
+    "price": 297.9,
+    "name": "CriptoCambiosWA"
   },
   "venta_maxima": {
-    "price": 297.2,
-    "name": "OTCLEGEND"
+    "price": 298.69,
+    "name": "CryptoIngAlex"
   },
-  "promedio": 297.73,
+  "promedio": 298.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
