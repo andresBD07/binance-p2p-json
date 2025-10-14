@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T21:21:50.453787",
-  "actualizado_vzla": "2025-10-14 17:21:50 -04",
+  "timestamp_utc": "2025-10-14T21:36:28.418872",
+  "actualizado_vzla": "2025-10-14 17:36:28 -04",
   "compra_segundo": {
-    "price": 298.2,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 298.4,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
     "price": 297.3,
     "name": "FinanceSecure"
   },
-  "promedio": 297.75,
+  "promedio": 297.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
