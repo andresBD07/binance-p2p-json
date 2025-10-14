@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T21:36:28.418872",
-  "actualizado_vzla": "2025-10-14 17:36:28 -04",
+  "timestamp_utc": "2025-10-14T21:49:56.280079",
+  "actualizado_vzla": "2025-10-14 17:49:56 -04",
   "compra_segundo": {
-    "price": 298.4,
-    "name": "Cambia-Seguro-01"
+    "price": 298.3,
+    "name": "REMESAFG"
   },
   "venta_maxima": {
-    "price": 297.3,
-    "name": "FinanceSecure"
+    "price": 296.8,
+    "name": "hectoraltrader"
   },
-  "promedio": 297.85,
+  "promedio": 297.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
