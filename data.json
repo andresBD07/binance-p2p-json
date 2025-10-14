@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T08:46:55.975865",
-  "actualizado_vzla": "2025-10-14 04:46:55 -04",
+  "timestamp_utc": "2025-10-14T08:59:51.929187",
+  "actualizado_vzla": "2025-10-14 04:59:51 -04",
   "compra_segundo": {
-    "price": 300.81,
-    "name": "GaAle19"
+    "price": 300.8,
+    "name": "White_Gab19"
   },
   "venta_maxima": {
-    "price": 295.006,
-    "name": "JuanFlash"
+    "price": 298.0,
+    "name": "Godisgift"
   },
-  "promedio": 297.91,
+  "promedio": 299.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
