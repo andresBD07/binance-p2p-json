@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T14:38:50.721757",
-  "actualizado_vzla": "2025-10-14 10:38:50 -04",
+  "timestamp_utc": "2025-10-14T14:53:46.861348",
+  "actualizado_vzla": "2025-10-14 10:53:46 -04",
   "compra_segundo": {
-    "price": 298.48,
-    "name": "Christiancinho"
+    "price": 298.58,
+    "name": "BodegonLasPalmas"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "genxd"
+    "price": 298.1,
+    "name": "Godisgift"
   },
-  "promedio": 298.24,
+  "promedio": 298.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
