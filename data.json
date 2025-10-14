@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T11:27:22.800427",
-  "actualizado_vzla": "2025-10-14 07:27:22 -04",
+  "timestamp_utc": "2025-10-14T11:41:30.481823",
+  "actualizado_vzla": "2025-10-14 07:41:30 -04",
   "compra_segundo": {
-    "price": 299.96,
-    "name": "_InversionesJG_"
+    "price": 299.69,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "Godisgift"
+    "price": 298.3,
+    "name": "GhostRS"
   },
-  "promedio": 298.98,
+  "promedio": 299.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
