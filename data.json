@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T21:49:56.280079",
-  "actualizado_vzla": "2025-10-14 17:49:56 -04",
+  "timestamp_utc": "2025-10-14T22:12:54.868946",
+  "actualizado_vzla": "2025-10-14 18:12:54 -04",
   "compra_segundo": {
-    "price": 298.3,
-    "name": "REMESAFG"
+    "price": 298.147,
+    "name": "AMR0918"
   },
   "venta_maxima": {
-    "price": 296.8,
-    "name": "hectoraltrader"
+    "price": 297.2,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 297.55,
+  "promedio": 297.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
