@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T17:43:54.697320",
-  "actualizado_vzla": "2025-10-14 13:43:54 -04",
+  "timestamp_utc": "2025-10-14T17:56:49.136618",
+  "actualizado_vzla": "2025-10-14 13:56:49 -04",
   "compra_segundo": {
-    "price": 297.74,
-    "name": "Cripto_04"
+    "price": 297.5,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 296.701,
-    "name": "Servic-Karyguz"
+    "price": 297.21,
+    "name": "app2112"
   },
-  "promedio": 297.22,
+  "promedio": 297.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
