@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T06:37:55.676607",
-  "actualizado_vzla": "2025-10-14 02:37:55 -04",
+  "timestamp_utc": "2025-10-14T06:54:28.700143",
+  "actualizado_vzla": "2025-10-14 02:54:28 -04",
   "compra_segundo": {
-    "price": 300.87,
-    "name": "ASCENDERLTDA"
+    "price": 300.8,
+    "name": "White_Gab19"
   },
   "venta_maxima": {
     "price": 297.2,
     "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 299.03,
+  "promedio": 299.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
