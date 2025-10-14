@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T03:57:09.108588",
-  "actualizado_vzla": "2025-10-13 23:57:09 -04",
+  "timestamp_utc": "2025-10-14T04:30:49.808363",
+  "actualizado_vzla": "2025-10-14 00:30:49 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "btcmamba24"
+    "price": 300.3,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "Godisgift"
   },
-  "promedio": 299.0,
+  "promedio": 299.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
