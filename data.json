@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T10:48:20.198336",
-  "actualizado_vzla": "2025-10-14 06:48:20 -04",
+  "timestamp_utc": "2025-10-14T11:08:15.080066",
+  "actualizado_vzla": "2025-10-14 07:08:15 -04",
   "compra_segundo": {
-    "price": 299.799,
+    "price": 299.899,
     "name": "AdriV-P2P"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "Godisgift"
   },
-  "promedio": 298.9,
+  "promedio": 298.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
