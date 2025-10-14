@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T06:54:28.700143",
-  "actualizado_vzla": "2025-10-14 02:54:28 -04",
+  "timestamp_utc": "2025-10-14T07:23:22.307683",
+  "actualizado_vzla": "2025-10-14 03:23:22 -04",
   "compra_segundo": {
-    "price": 300.8,
-    "name": "White_Gab19"
+    "price": 300.9,
+    "name": "GregoSwap"
   },
   "venta_maxima": {
-    "price": 297.2,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 295.006,
+    "name": "JuanFlash"
   },
-  "promedio": 299.0,
+  "promedio": 297.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
