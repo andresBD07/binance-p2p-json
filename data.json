@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T18:37:47.072994",
-  "actualizado_vzla": "2025-10-14 14:37:47 -04",
+  "timestamp_utc": "2025-10-14T18:52:48.987368",
+  "actualizado_vzla": "2025-10-14 14:52:48 -04",
   "compra_segundo": {
-    "price": 297.698,
-    "name": "Trader_MVG"
+    "price": 297.85,
+    "name": "CERRATO23__"
   },
   "venta_maxima": {
-    "price": 297.61,
-    "name": "app2112"
+    "price": 297.5,
+    "name": "Kingtrade5555"
   },
-  "promedio": 297.65,
+  "promedio": 297.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
