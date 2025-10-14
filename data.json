@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T08:23:32.933174",
-  "actualizado_vzla": "2025-10-14 04:23:32 -04",
+  "timestamp_utc": "2025-10-14T08:46:55.975865",
+  "actualizado_vzla": "2025-10-14 04:46:55 -04",
   "compra_segundo": {
-    "price": 300.9,
-    "name": "GregoSwap"
+    "price": 300.81,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 295.006,
     "name": "JuanFlash"
   },
-  "promedio": 297.95,
+  "promedio": 297.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
