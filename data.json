@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T05:43:23.783015",
-  "actualizado_vzla": "2025-10-14 01:43:23 -04",
+  "timestamp_utc": "2025-10-14T05:56:19.245212",
+  "actualizado_vzla": "2025-10-14 01:56:19 -04",
   "compra_segundo": {
-    "price": 300.81,
-    "name": "GaAle19"
+    "price": 300.999,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "Godisgift"
   },
-  "promedio": 299.4,
+  "promedio": 299.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
