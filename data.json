@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T15:24:25.471558",
-  "actualizado_vzla": "2025-10-14 11:24:25 -04",
+  "timestamp_utc": "2025-10-14T15:41:27.360557",
+  "actualizado_vzla": "2025-10-14 11:41:27 -04",
   "compra_segundo": {
-    "price": 298.5,
-    "name": "CripSeguro23"
+    "price": 298.3,
+    "name": "Lacsen"
   },
   "venta_maxima": {
-    "price": 297.6,
+    "price": 297.2,
     "name": "OTCLEGEND"
   },
-  "promedio": 298.05,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
