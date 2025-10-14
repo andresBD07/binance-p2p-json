@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T05:28:04.162410",
-  "actualizado_vzla": "2025-10-14 01:28:04 -04",
+  "timestamp_utc": "2025-10-14T05:43:23.783015",
+  "actualizado_vzla": "2025-10-14 01:43:23 -04",
   "compra_segundo": {
-    "price": 300.65,
-    "name": "Daikokuten-Finance"
+    "price": 300.81,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "Godisgift"
   },
-  "promedio": 299.32,
+  "promedio": 299.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
