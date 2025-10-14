@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T17:56:49.136618",
-  "actualizado_vzla": "2025-10-14 13:56:49 -04",
+  "timestamp_utc": "2025-10-14T18:37:47.072994",
+  "actualizado_vzla": "2025-10-14 14:37:47 -04",
   "compra_segundo": {
-    "price": 297.5,
-    "name": "btcmamba24"
+    "price": 297.698,
+    "name": "Trader_MVG"
   },
   "venta_maxima": {
-    "price": 297.21,
+    "price": 297.61,
     "name": "app2112"
   },
-  "promedio": 297.36,
+  "promedio": 297.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
