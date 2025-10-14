@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T19:28:33.624195",
-  "actualizado_vzla": "2025-10-14 15:28:33 -04",
+  "timestamp_utc": "2025-10-14T19:41:26.479942",
+  "actualizado_vzla": "2025-10-14 15:41:26 -04",
   "compra_segundo": {
-    "price": 297.65,
-    "name": "TU CAMBIO"
+    "price": 297.58,
+    "name": "Avrisiel"
   },
   "venta_maxima": {
-    "price": 297.11,
-    "name": "NicTin08"
+    "price": 297.0,
+    "name": "GhostRS"
   },
-  "promedio": 297.38,
+  "promedio": 297.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
