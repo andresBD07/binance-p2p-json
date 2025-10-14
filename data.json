@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T22:12:54.868946",
-  "actualizado_vzla": "2025-10-14 18:12:54 -04",
+  "timestamp_utc": "2025-10-14T22:33:14.752807",
+  "actualizado_vzla": "2025-10-14 18:33:14 -04",
   "compra_segundo": {
-    "price": 298.147,
-    "name": "AMR0918"
+    "price": 298.0,
+    "name": "Vitol"
   },
   "venta_maxima": {
-    "price": 297.2,
-    "name": "GOMEZTUSOLUCION"
+    "price": 297.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 297.67,
+  "promedio": 297.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
