@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T23:39:06.892929",
-  "actualizado_vzla": "2025-10-14 19:39:06 -04",
+  "timestamp_utc": "2025-10-14T23:52:19.925967",
+  "actualizado_vzla": "2025-10-14 19:52:19 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "Yossetmz"
+    "price": 298.3,
+    "name": "Neiker-Exchange"
   },
   "venta_maxima": {
-    "price": 297.0,
+    "price": 297.5,
     "name": "被放逐的狐狸"
   },
-  "promedio": 297.5,
+  "promedio": 297.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
