@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T19:54:23.566100",
-  "actualizado_vzla": "2025-10-14 15:54:23 -04",
+  "timestamp_utc": "2025-10-14T20:25:16.647195",
+  "actualizado_vzla": "2025-10-14 16:25:16 -04",
   "compra_segundo": {
-    "price": 297.79,
-    "name": "CambiosLaGoma"
+    "price": 298.0,
+    "name": "JokerSwap"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "TOPlevelS"
+    "price": 297.501,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 297.39,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
