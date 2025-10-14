@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T14:53:46.861348",
-  "actualizado_vzla": "2025-10-14 10:53:46 -04",
+  "timestamp_utc": "2025-10-14T15:24:25.471558",
+  "actualizado_vzla": "2025-10-14 11:24:25 -04",
   "compra_segundo": {
-    "price": 298.58,
-    "name": "BodegonLasPalmas"
+    "price": 298.5,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 298.1,
-    "name": "Godisgift"
+    "price": 297.6,
+    "name": "OTCLEGEND"
   },
-  "promedio": 298.34,
+  "promedio": 298.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
