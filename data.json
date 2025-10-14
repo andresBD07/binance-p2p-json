@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-14T20:42:35.093815",
-  "actualizado_vzla": "2025-10-14 16:42:35 -04",
+  "timestamp_utc": "2025-10-14T20:55:18.404251",
+  "actualizado_vzla": "2025-10-14 16:55:18 -04",
   "compra_segundo": {
-    "price": 298.222,
-    "name": "CambiaFast"
+    "price": 298.2,
+    "name": "IMPORTACIONEMUNVE"
   },
   "venta_maxima": {
-    "price": 297.6,
+    "price": 297.3,
     "name": "FinanceSecure"
   },
-  "promedio": 297.91,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
