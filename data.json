@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T19:36:13.956727",
-  "actualizado_vzla": "2025-10-15 15:36:13 -04",
+  "timestamp_utc": "2025-10-15T19:49:37.523265",
+  "actualizado_vzla": "2025-10-15 15:49:37 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "lamejoropcion"
+    "price": 295.245,
+    "name": "RAPIDOySEGURO_EAGLE"
   },
   "venta_maxima": {
     "price": 293.31,
-    "name": "novatecno"
+    "name": "Coinectado"
   },
-  "promedio": 294.15,
+  "promedio": 294.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
