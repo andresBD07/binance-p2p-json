@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T15:26:26.708997",
-  "actualizado_vzla": "2025-10-15 11:26:26 -04",
+  "timestamp_utc": "2025-10-15T15:44:17.627469",
+  "actualizado_vzla": "2025-10-15 11:44:17 -04",
   "compra_segundo": {
-    "price": 294.2,
-    "name": "HidrotornosCA"
+    "price": 293.9,
+    "name": "Jin-Woo-Sung"
   },
   "venta_maxima": {
     "price": 293.0,
-    "name": "Megapagos"
+    "name": "Gustavo129"
   },
-  "promedio": 293.6,
+  "promedio": 293.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
