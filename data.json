@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T18:55:33.377381",
-  "actualizado_vzla": "2025-10-15 14:55:33 -04",
+  "timestamp_utc": "2025-10-15T19:20:58.678476",
+  "actualizado_vzla": "2025-10-15 15:20:58 -04",
   "compra_segundo": {
-    "price": 294.399,
-    "name": "Krypto-Handeln"
+    "price": 294.75,
+    "name": "DanielaCambios"
   },
   "venta_maxima": {
-    "price": 293.0,
-    "name": "C_Pagos"
+    "price": 293.31,
+    "name": "FinanceSecure"
   },
-  "promedio": 293.7,
+  "promedio": 294.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
