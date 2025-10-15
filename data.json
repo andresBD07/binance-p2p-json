@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T17:58:26.900916",
-  "actualizado_vzla": "2025-10-15 13:58:26 -04",
+  "timestamp_utc": "2025-10-15T18:39:17.102832",
+  "actualizado_vzla": "2025-10-15 14:39:17 -04",
   "compra_segundo": {
-    "price": 293.996,
-    "name": "HectorB"
+    "price": 293.73,
+    "name": "Dajming-Remesas-P2P"
   },
   "venta_maxima": {
     "price": 293.0,
     "name": "C_Pagos"
   },
-  "promedio": 293.5,
+  "promedio": 293.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
