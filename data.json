@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T04:45:11.314308",
-  "actualizado_vzla": "2025-10-15 00:45:11 -04",
+  "timestamp_utc": "2025-10-15T04:58:19.742290",
+  "actualizado_vzla": "2025-10-15 00:58:19 -04",
   "compra_segundo": {
-    "price": 299.9,
-    "name": "RAPIDOySEGURO_EAGLE"
+    "price": 299.99,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "Quick Payment"
+    "price": 296.005,
+    "name": "Marquez25"
   },
-  "promedio": 298.95,
+  "promedio": 298.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
