@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-15T04:58:19.742290",
-  "actualizado_vzla": "2025-10-15 00:58:19 -04",
+  "timestamp_utc": "2025-10-15T05:27:33.102413",
+  "actualizado_vzla": "2025-10-15 01:27:33 -04",
   "compra_segundo": {
-    "price": 299.99,
-    "name": "Mero-Mero"
+    "price": 300.0,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
     "price": 296.005,
