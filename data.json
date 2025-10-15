@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T10:49:55.404268",
-  "actualizado_vzla": "2025-10-15 06:49:55 -04",
+  "timestamp_utc": "2025-10-15T11:11:33.032344",
+  "actualizado_vzla": "2025-10-15 07:11:33 -04",
   "compra_segundo": {
     "price": 298.7,
     "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 295.61,
-    "name": "Emmanuelli"
+    "price": 296.0,
+    "name": "AcMilan38"
   },
-  "promedio": 297.15,
+  "promedio": 297.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
