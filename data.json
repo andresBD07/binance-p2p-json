@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T23:16:04.932893",
-  "actualizado_vzla": "2025-10-15 19:16:04 -04",
+  "timestamp_utc": "2025-10-15T23:30:20.109397",
+  "actualizado_vzla": "2025-10-15 19:30:20 -04",
   "compra_segundo": {
     "price": 295.0,
-    "name": "SupersonicPay"
+    "name": "succubus"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "JLxanges"
+    "price": 293.3,
+    "name": "Burdyn"
   },
-  "promedio": 294.5,
+  "promedio": 294.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
