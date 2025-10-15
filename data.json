@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T12:56:20.245482",
-  "actualizado_vzla": "2025-10-15 08:56:20 -04",
+  "timestamp_utc": "2025-10-15T13:37:37.112659",
+  "actualizado_vzla": "2025-10-15 09:37:37 -04",
   "compra_segundo": {
-    "price": 296.24,
-    "name": "P2P-Dulce"
+    "price": 296.79,
+    "name": "AlejandrojP2P"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "Swteet"
+    "price": 295.2,
+    "name": "hectoraltrader"
   },
-  "promedio": 295.12,
+  "promedio": 296.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
