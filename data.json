@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T13:37:37.112659",
-  "actualizado_vzla": "2025-10-15 09:37:37 -04",
+  "timestamp_utc": "2025-10-15T13:53:20.682194",
+  "actualizado_vzla": "2025-10-15 09:53:20 -04",
   "compra_segundo": {
-    "price": 296.79,
-    "name": "AlejandrojP2P"
+    "price": 296.48,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 295.2,
-    "name": "hectoraltrader"
+    "price": 294.2,
+    "name": "towerbridge"
   },
-  "promedio": 296.0,
+  "promedio": 295.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
