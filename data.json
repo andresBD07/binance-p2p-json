@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T20:14:27.114059",
-  "actualizado_vzla": "2025-10-15 16:14:27 -04",
+  "timestamp_utc": "2025-10-15T20:36:53.999902",
+  "actualizado_vzla": "2025-10-15 16:36:54 -04",
   "compra_segundo": {
-    "price": 295.08,
-    "name": "SrTocino"
+    "price": 294.699,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "To0809"
+    "price": 293.321,
+    "name": "Coinectado"
   },
-  "promedio": 294.54,
+  "promedio": 294.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
