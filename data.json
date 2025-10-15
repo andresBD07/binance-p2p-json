@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-15T17:32:30.961849",
-  "actualizado_vzla": "2025-10-15 13:32:30 -04",
+  "timestamp_utc": "2025-10-15T17:45:31.623085",
+  "actualizado_vzla": "2025-10-15 13:45:31 -04",
   "compra_segundo": {
-    "price": 294.0,
-    "name": "CambiosGugool"
+    "price": 293.99,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
     "price": 293.0,
