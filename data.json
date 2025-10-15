@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T13:53:20.682194",
-  "actualizado_vzla": "2025-10-15 09:53:20 -04",
+  "timestamp_utc": "2025-10-15T14:21:52.945902",
+  "actualizado_vzla": "2025-10-15 10:21:52 -04",
   "compra_segundo": {
-    "price": 296.48,
-    "name": "RapidEnvios"
+    "price": 295.29,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 294.2,
-    "name": "towerbridge"
+    "price": 294.5,
+    "name": "JoseParedez"
   },
-  "promedio": 295.34,
+  "promedio": 294.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
