@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T11:42:38.414611",
-  "actualizado_vzla": "2025-10-15 07:42:38 -04",
+  "timestamp_utc": "2025-10-15T11:55:37.568493",
+  "actualizado_vzla": "2025-10-15 07:55:37 -04",
   "compra_segundo": {
-    "price": 298.4,
-    "name": "大TaiLung龙"
+    "price": 298.2,
+    "name": "Rapidcambiosayj"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "Godisgift"
+    "price": 296.1,
+    "name": "Marketplace66"
   },
-  "promedio": 297.7,
+  "promedio": 297.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
