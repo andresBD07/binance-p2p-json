@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T23:43:38.778183",
-  "actualizado_vzla": "2025-10-15 19:43:38 -04",
+  "timestamp_utc": "2025-10-15T23:56:26.180530",
+  "actualizado_vzla": "2025-10-15 19:56:26 -04",
   "compra_segundo": {
-    "price": 295.349,
-    "name": "PringlesBBQ"
+    "price": 295.45,
+    "name": "Trellvader"
   },
   "venta_maxima": {
-    "price": 293.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 293.3,
+    "name": "Burdyn"
   },
-  "promedio": 294.42,
+  "promedio": 294.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
