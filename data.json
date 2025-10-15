@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T05:56:37.386034",
-  "actualizado_vzla": "2025-10-15 01:56:37 -04",
+  "timestamp_utc": "2025-10-15T06:38:47.906245",
+  "actualizado_vzla": "2025-10-15 02:38:47 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "LinkVzla"
+    "price": 300.7,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 295.6,
     "name": "inverck"
   },
-  "promedio": 297.8,
+  "promedio": 298.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
