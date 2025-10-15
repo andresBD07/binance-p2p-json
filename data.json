@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T11:55:37.568493",
-  "actualizado_vzla": "2025-10-15 07:55:37 -04",
+  "timestamp_utc": "2025-10-15T12:56:20.245482",
+  "actualizado_vzla": "2025-10-15 08:56:20 -04",
   "compra_segundo": {
-    "price": 298.2,
-    "name": "Rapidcambiosayj"
+    "price": 296.24,
+    "name": "P2P-Dulce"
   },
   "venta_maxima": {
-    "price": 296.1,
-    "name": "Marketplace66"
+    "price": 294.0,
+    "name": "Swteet"
   },
-  "promedio": 297.15,
+  "promedio": 295.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
