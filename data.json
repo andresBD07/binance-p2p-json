@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T01:23:01.140823",
-  "actualizado_vzla": "2025-10-14 21:23:01 -04",
+  "timestamp_utc": "2025-10-15T02:50:41.334599",
+  "actualizado_vzla": "2025-10-14 22:50:41 -04",
   "compra_segundo": {
-    "price": 298.7,
-    "name": "CenterToken"
+    "price": 299.1,
+    "name": "ColmePlus"
   },
   "venta_maxima": {
-    "price": 296.5,
-    "name": "talepagos"
+    "price": 297.001,
+    "name": "F_A_I_R"
   },
-  "promedio": 297.6,
+  "promedio": 298.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
