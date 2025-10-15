@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T07:26:37.910790",
-  "actualizado_vzla": "2025-10-15 03:26:37 -04",
+  "timestamp_utc": "2025-10-15T07:42:47.626078",
+  "actualizado_vzla": "2025-10-15 03:42:47 -04",
   "compra_segundo": {
-    "price": 300.4,
-    "name": "ivaneskape1"
+    "price": 300.199,
+    "name": "aldoblanca1"
   },
   "venta_maxima": {
     "price": 295.6,
     "name": "inverck"
   },
-  "promedio": 298.0,
+  "promedio": 297.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
