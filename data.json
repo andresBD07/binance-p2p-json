@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T03:54:10.358485",
-  "actualizado_vzla": "2025-10-14 23:54:10 -04",
+  "timestamp_utc": "2025-10-15T04:26:41.440437",
+  "actualizado_vzla": "2025-10-15 00:26:41 -04",
   "compra_segundo": {
-    "price": 299.5,
-    "name": "MarcosWillexis"
+    "price": 299.9,
+    "name": "RAPIDOySEGURO_EAGLE"
   },
   "venta_maxima": {
-    "price": 296.3,
-    "name": "Marketplace66"
+    "price": 295.6,
+    "name": "inverck"
   },
-  "promedio": 297.9,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
