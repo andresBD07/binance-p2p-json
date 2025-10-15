@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-15T21:43:09.071068",
-  "actualizado_vzla": "2025-10-15 17:43:09 -04",
+  "timestamp_utc": "2025-10-15T21:56:00.243509",
+  "actualizado_vzla": "2025-10-15 17:56:00 -04",
   "compra_segundo": {
-    "price": 294.99,
-    "name": "criptoAJ"
+    "price": 294.9,
+    "name": "MikasaAckerman"
   },
   "venta_maxima": {
-    "price": 293.5,
-    "name": "JLxanges"
+    "price": 293.6,
+    "name": "DNG168CAMBIO"
   },
   "promedio": 294.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
