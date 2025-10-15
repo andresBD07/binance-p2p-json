@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T22:38:59.790444",
-  "actualizado_vzla": "2025-10-15 18:38:59 -04",
+  "timestamp_utc": "2025-10-15T22:52:21.317798",
+  "actualizado_vzla": "2025-10-15 18:52:21 -04",
   "compra_segundo": {
-    "price": 294.389,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 294.39,
+    "name": "SantiagoR19"
   },
   "venta_maxima": {
-    "price": 293.6,
-    "name": "LogisticExchange"
+    "price": 293.5,
+    "name": "JLxanges"
   },
-  "promedio": 293.99,
+  "promedio": 293.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
