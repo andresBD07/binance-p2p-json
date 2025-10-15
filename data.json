@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T09:28:50.473601",
-  "actualizado_vzla": "2025-10-15 05:28:50 -04",
+  "timestamp_utc": "2025-10-15T09:46:24.441671",
+  "actualizado_vzla": "2025-10-15 05:46:24 -04",
   "compra_segundo": {
-    "price": 299.99,
-    "name": "Mero-Mero"
+    "price": 299.98,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "inverck"
+    "price": 295.31,
+    "name": "DAKLANID"
   },
-  "promedio": 297.8,
+  "promedio": 297.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
