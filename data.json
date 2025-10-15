@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T16:31:06.111275",
-  "actualizado_vzla": "2025-10-15 12:31:06 -04",
+  "timestamp_utc": "2025-10-15T16:49:59.323552",
+  "actualizado_vzla": "2025-10-15 12:49:59 -04",
   "compra_segundo": {
-    "price": 293.5,
-    "name": "CRIPTOEXPRESS"
+    "price": 293.94,
+    "name": "CarlosBelloTrader "
   },
   "venta_maxima": {
-    "price": 293.0,
-    "name": "C_Pagos"
+    "price": 292.8,
+    "name": "bigmitchum"
   },
-  "promedio": 293.25,
+  "promedio": 293.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
