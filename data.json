@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T21:56:00.243509",
-  "actualizado_vzla": "2025-10-15 17:56:00 -04",
+  "timestamp_utc": "2025-10-15T22:22:59.888837",
+  "actualizado_vzla": "2025-10-15 18:22:59 -04",
   "compra_segundo": {
-    "price": 294.9,
-    "name": "MikasaAckerman"
+    "price": 294.5,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 293.6,
-    "name": "DNG168CAMBIO"
+    "price": 293.5,
+    "name": "JLxanges"
   },
-  "promedio": 294.25,
+  "promedio": 294.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
