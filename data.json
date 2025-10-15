@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T16:49:59.323552",
-  "actualizado_vzla": "2025-10-15 12:49:59 -04",
+  "timestamp_utc": "2025-10-15T17:12:12.263370",
+  "actualizado_vzla": "2025-10-15 13:12:12 -04",
   "compra_segundo": {
-    "price": 293.94,
-    "name": "CarlosBelloTrader "
+    "price": 294.0,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 292.8,
-    "name": "bigmitchum"
+    "price": 293.0,
+    "name": "C_Pagos"
   },
-  "promedio": 293.37,
+  "promedio": 293.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
