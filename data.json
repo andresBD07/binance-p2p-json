@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T14:58:10.110303",
-  "actualizado_vzla": "2025-10-15 10:58:10 -04",
+  "timestamp_utc": "2025-10-15T15:26:26.708997",
+  "actualizado_vzla": "2025-10-15 11:26:26 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "Millaluz"
+    "price": 294.2,
+    "name": "HidrotornosCA"
   },
   "venta_maxima": {
-    "price": 293.25,
-    "name": "BigIron-"
+    "price": 293.0,
+    "name": "Megapagos"
   },
-  "promedio": 294.12,
+  "promedio": 293.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
