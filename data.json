@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T02:50:41.334599",
-  "actualizado_vzla": "2025-10-14 22:50:41 -04",
+  "timestamp_utc": "2025-10-15T03:34:20.277594",
+  "actualizado_vzla": "2025-10-14 23:34:20 -04",
   "compra_segundo": {
-    "price": 299.1,
-    "name": "ColmePlus"
+    "price": 299.4,
+    "name": "EnlineaRyK"
   },
   "venta_maxima": {
-    "price": 297.001,
-    "name": "F_A_I_R"
+    "price": 297.0,
+    "name": "Quick Payment"
   },
-  "promedio": 298.05,
+  "promedio": 298.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
