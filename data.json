@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T22:52:21.317798",
-  "actualizado_vzla": "2025-10-15 18:52:21 -04",
+  "timestamp_utc": "2025-10-15T23:16:04.932893",
+  "actualizado_vzla": "2025-10-15 19:16:04 -04",
   "compra_segundo": {
-    "price": 294.39,
-    "name": "SantiagoR19"
+    "price": 295.0,
+    "name": "SupersonicPay"
   },
   "venta_maxima": {
-    "price": 293.5,
+    "price": 294.0,
     "name": "JLxanges"
   },
-  "promedio": 293.94,
+  "promedio": 294.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
