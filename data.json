@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T08:56:03.271453",
-  "actualizado_vzla": "2025-10-15 04:56:03 -04",
+  "timestamp_utc": "2025-10-15T09:28:50.473601",
+  "actualizado_vzla": "2025-10-15 05:28:50 -04",
   "compra_segundo": {
-    "price": 300.199,
-    "name": "aldoblanca1"
+    "price": 299.99,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 295.6,
     "name": "inverck"
   },
-  "promedio": 297.9,
+  "promedio": 297.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
