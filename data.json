@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T19:20:58.678476",
-  "actualizado_vzla": "2025-10-15 15:20:58 -04",
+  "timestamp_utc": "2025-10-15T19:36:13.956727",
+  "actualizado_vzla": "2025-10-15 15:36:13 -04",
   "compra_segundo": {
-    "price": 294.75,
-    "name": "DanielaCambios"
+    "price": 295.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
     "price": 293.31,
-    "name": "FinanceSecure"
+    "name": "novatecno"
   },
-  "promedio": 294.03,
+  "promedio": 294.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
