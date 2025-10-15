@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T21:30:15.296980",
-  "actualizado_vzla": "2025-10-15 17:30:15 -04",
+  "timestamp_utc": "2025-10-15T21:43:09.071068",
+  "actualizado_vzla": "2025-10-15 17:43:09 -04",
   "compra_segundo": {
-    "price": 295.0,
-    "name": "kervinAP"
+    "price": 294.99,
+    "name": "criptoAJ"
   },
   "venta_maxima": {
-    "price": 293.1,
-    "name": "Coinectado"
+    "price": 293.5,
+    "name": "JLxanges"
   },
-  "promedio": 294.05,
+  "promedio": 294.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
