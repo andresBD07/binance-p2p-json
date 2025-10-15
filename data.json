@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T21:13:32.211580",
-  "actualizado_vzla": "2025-10-15 17:13:32 -04",
+  "timestamp_utc": "2025-10-15T21:30:15.296980",
+  "actualizado_vzla": "2025-10-15 17:30:15 -04",
   "compra_segundo": {
-    "price": 294.5,
-    "name": "Vanecastll"
+    "price": 295.0,
+    "name": "kervinAP"
   },
   "venta_maxima": {
-    "price": 293.41,
+    "price": 293.1,
     "name": "Coinectado"
   },
-  "promedio": 293.96,
+  "promedio": 294.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
