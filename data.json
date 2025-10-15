@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T20:50:46.933382",
-  "actualizado_vzla": "2025-10-15 16:50:46 -04",
+  "timestamp_utc": "2025-10-15T21:13:32.211580",
+  "actualizado_vzla": "2025-10-15 17:13:32 -04",
   "compra_segundo": {
-    "price": 294.55,
+    "price": 294.5,
     "name": "Vanecastll"
   },
   "venta_maxima": {
-    "price": 293.5,
-    "name": "JLxanges"
+    "price": 293.41,
+    "name": "Coinectado"
   },
-  "promedio": 294.02,
+  "promedio": 293.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
