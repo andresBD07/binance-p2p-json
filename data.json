@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T17:37:29.441079",
-  "actualizado_vzla": "2025-10-16 13:37:29 -04",
+  "timestamp_utc": "2025-10-16T17:50:56.232897",
+  "actualizado_vzla": "2025-10-16 13:50:56 -04",
   "compra_segundo": {
-    "price": 298.75,
-    "name": "Cambioya12"
+    "price": 298.95,
+    "name": "Jearrioja"
   },
   "venta_maxima": {
-    "price": 298.6,
-    "name": "SmartSolutionn"
+    "price": 299.0,
+    "name": "To0809"
   },
-  "promedio": 298.68,
+  "promedio": 298.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
