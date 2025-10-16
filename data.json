@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T23:09:40.287226",
-  "actualizado_vzla": "2025-10-16 19:09:40 -04",
+  "timestamp_utc": "2025-10-16T23:25:40.774217",
+  "actualizado_vzla": "2025-10-16 19:25:40 -04",
   "compra_segundo": {
-    "price": 297.95,
-    "name": "KingTradeVzla"
+    "price": 298.29,
+    "name": "Criptotur"
   },
   "venta_maxima": {
-    "price": 295.25,
-    "name": "USDTpulso"
+    "price": 295.6,
+    "name": "SmartSolutionn"
   },
-  "promedio": 296.6,
+  "promedio": 296.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
