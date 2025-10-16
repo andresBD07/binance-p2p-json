@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T20:52:05.781154",
-  "actualizado_vzla": "2025-10-16 16:52:05 -04",
+  "timestamp_utc": "2025-10-16T21:15:38.703910",
+  "actualizado_vzla": "2025-10-16 17:15:38 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "alelean"
+    "price": 297.4,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "RONIN_COIN"
+    "price": 297.0,
+    "name": "C_Pagos"
   },
-  "promedio": 296.5,
+  "promedio": 297.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
