@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T19:24:26.608682",
-  "actualizado_vzla": "2025-10-16 15:24:26 -04",
+  "timestamp_utc": "2025-10-16T19:39:29.941345",
+  "actualizado_vzla": "2025-10-16 15:39:29 -04",
   "compra_segundo": {
-    "price": 299.87,
-    "name": "X-O-X"
+    "price": 299.749,
+    "name": "-TheZ-"
   },
   "venta_maxima": {
-    "price": 299.4,
-    "name": "RONIN_COIN"
+    "price": 298.0,
+    "name": "app2112"
   },
-  "promedio": 299.63,
+  "promedio": 298.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
