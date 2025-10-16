@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T14:40:33.859664",
-  "actualizado_vzla": "2025-10-16 10:40:33 -04",
+  "timestamp_utc": "2025-10-16T14:54:28.617780",
+  "actualizado_vzla": "2025-10-16 10:54:28 -04",
   "compra_segundo": {
-    "price": 295.19,
-    "name": "DAKLANID"
+    "price": 295.3,
+    "name": "NGM"
   },
   "venta_maxima": {
-    "price": 294.5,
-    "name": "hectoraltrader"
+    "price": 299.5,
+    "name": "T_A_U_R_O--pro--"
   },
-  "promedio": 294.85,
+  "promedio": 297.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
