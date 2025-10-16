@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T15:43:53.929820",
-  "actualizado_vzla": "2025-10-16 11:43:53 -04",
+  "timestamp_utc": "2025-10-16T15:57:22.797816",
+  "actualizado_vzla": "2025-10-16 11:57:22 -04",
   "compra_segundo": {
-    "price": 295.999,
-    "name": "LAULAR87"
+    "price": 296.43,
+    "name": "Exchanger_Global"
   },
   "venta_maxima": {
-    "price": 295.0,
+    "price": 295.5,
     "name": "hectoraltrader"
   },
-  "promedio": 295.5,
+  "promedio": 295.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
