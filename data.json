@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-15T23:56:26.180530",
-  "actualizado_vzla": "2025-10-15 19:56:26 -04",
+  "timestamp_utc": "2025-10-16T01:59:32.635416",
+  "actualizado_vzla": "2025-10-15 21:59:32 -04",
   "compra_segundo": {
-    "price": 295.45,
-    "name": "Trellvader"
+    "price": 297.49,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 293.3,
-    "name": "Burdyn"
+    "price": 295.0,
+    "name": "Godisgift"
   },
-  "promedio": 294.38,
+  "promedio": 296.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
