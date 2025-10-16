@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T22:48:40.872339",
-  "actualizado_vzla": "2025-10-16 18:48:40 -04",
+  "timestamp_utc": "2025-10-16T23:09:40.287226",
+  "actualizado_vzla": "2025-10-16 19:09:40 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "Al3ss0"
+    "price": 297.95,
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
-    "price": 296.2,
-    "name": "cambioson"
+    "price": 295.25,
+    "name": "USDTpulso"
   },
-  "promedio": 297.1,
+  "promedio": 296.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
