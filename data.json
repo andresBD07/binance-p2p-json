@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T18:21:50.417509",
-  "actualizado_vzla": "2025-10-16 14:21:50 -04",
+  "timestamp_utc": "2025-10-16T18:48:56.032558",
+  "actualizado_vzla": "2025-10-16 14:48:56 -04",
   "compra_segundo": {
-    "price": 299.15,
-    "name": "Ekxprees"
+    "price": 299.9,
+    "name": "CriptoBlessed"
   },
   "venta_maxima": {
-    "price": 298.255,
-    "name": "SafeBolivars"
+    "price": 298.6,
+    "name": "SmartSolutionn"
   },
-  "promedio": 298.7,
+  "promedio": 299.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
