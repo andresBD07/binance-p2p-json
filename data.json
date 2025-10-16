@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T07:24:45.793427",
-  "actualizado_vzla": "2025-10-16 03:24:45 -04",
+  "timestamp_utc": "2025-10-16T07:41:06.128782",
+  "actualizado_vzla": "2025-10-16 03:41:06 -04",
   "compra_segundo": {
-    "price": 299.5,
-    "name": "btcmamba24"
+    "price": 299.8,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
     "price": 294.0,
     "name": "Tumundoexchange"
   },
-  "promedio": 296.75,
+  "promedio": 296.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
