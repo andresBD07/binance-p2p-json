@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T16:53:15.624343",
-  "actualizado_vzla": "2025-10-16 12:53:15 -04",
+  "timestamp_utc": "2025-10-16T17:18:14.167043",
+  "actualizado_vzla": "2025-10-16 13:18:14 -04",
   "compra_segundo": {
-    "price": 297.899,
-    "name": "Guayoyoo"
+    "price": 298.2,
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 297.305,
-    "name": "SafeBolivars"
+    "price": 297.5,
+    "name": "cazing2230"
   },
-  "promedio": 297.6,
+  "promedio": 297.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
