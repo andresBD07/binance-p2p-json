@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T21:15:38.703910",
-  "actualizado_vzla": "2025-10-16 17:15:38 -04",
+  "timestamp_utc": "2025-10-16T21:28:44.180643",
+  "actualizado_vzla": "2025-10-16 17:28:44 -04",
   "compra_segundo": {
-    "price": 297.4,
-    "name": "Inversiones-Vicky"
+    "price": 297.8,
+    "name": "RebeP2P"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "C_Pagos"
+    "price": 295.51,
+    "name": "cazing2230"
   },
-  "promedio": 297.2,
+  "promedio": 296.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
