@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T19:39:29.941345",
-  "actualizado_vzla": "2025-10-16 15:39:29 -04",
+  "timestamp_utc": "2025-10-16T19:52:23.318492",
+  "actualizado_vzla": "2025-10-16 15:52:23 -04",
   "compra_segundo": {
-    "price": 299.749,
-    "name": "-TheZ-"
+    "price": 298.748,
+    "name": "VGV"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "app2112"
+    "price": 297.5,
+    "name": "exchangesamam22"
   },
-  "promedio": 298.87,
+  "promedio": 298.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
