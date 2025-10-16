@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T16:34:32.856856",
-  "actualizado_vzla": "2025-10-16 12:34:32 -04",
+  "timestamp_utc": "2025-10-16T16:53:15.624343",
+  "actualizado_vzla": "2025-10-16 12:53:15 -04",
   "compra_segundo": {
-    "price": 297.311,
-    "name": "rapidos15"
+    "price": 297.899,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 297.1,
-    "name": "SmartSolutionn"
+    "price": 297.305,
+    "name": "SafeBolivars"
   },
-  "promedio": 297.21,
+  "promedio": 297.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
