@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T11:07:42.987013",
-  "actualizado_vzla": "2025-10-16 07:07:42 -04",
+  "timestamp_utc": "2025-10-16T11:27:44.798139",
+  "actualizado_vzla": "2025-10-16 07:27:44 -04",
   "compra_segundo": {
-    "price": 297.5,
-    "name": "Gossip_r"
+    "price": 296.799,
+    "name": "Cristh957"
   },
   "venta_maxima": {
-    "price": 294.2,
-    "name": "RONIN_COIN"
+    "price": 294.5,
+    "name": "Coinectado"
   },
-  "promedio": 295.85,
+  "promedio": 295.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
