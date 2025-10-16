@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T01:59:32.635416",
-  "actualizado_vzla": "2025-10-15 21:59:32 -04",
+  "timestamp_utc": "2025-10-16T03:09:57.251463",
+  "actualizado_vzla": "2025-10-15 23:09:57 -04",
   "compra_segundo": {
-    "price": 297.49,
-    "name": "ElCandidoP2P"
+    "price": 298.0,
+    "name": "chaker9"
   },
   "venta_maxima": {
-    "price": 295.0,
-    "name": "Godisgift"
+    "price": 294.36,
+    "name": "FinanceSecure"
   },
-  "promedio": 296.25,
+  "promedio": 296.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
