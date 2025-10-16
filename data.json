@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T17:18:14.167043",
-  "actualizado_vzla": "2025-10-16 13:18:14 -04",
+  "timestamp_utc": "2025-10-16T17:37:29.441079",
+  "actualizado_vzla": "2025-10-16 13:37:29 -04",
   "compra_segundo": {
-    "price": 298.2,
-    "name": "水猴"
+    "price": 298.75,
+    "name": "Cambioya12"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "cazing2230"
+    "price": 298.6,
+    "name": "SmartSolutionn"
   },
-  "promedio": 297.85,
+  "promedio": 298.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
