@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T10:30:28.912106",
-  "actualizado_vzla": "2025-10-16 06:30:28 -04",
+  "timestamp_utc": "2025-10-16T10:47:49.417559",
+  "actualizado_vzla": "2025-10-16 06:47:49 -04",
   "compra_segundo": {
-    "price": 298.0,
-    "name": "chaker9"
+    "price": 297.9,
+    "name": "Caps-Exchange"
   },
   "venta_maxima": {
-    "price": 294.0,
-    "name": "Tumundoexchange"
+    "price": 294.01,
+    "name": "Caps-Exchange"
   },
-  "promedio": 296.0,
+  "promedio": 295.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
