@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T03:58:45.144969",
-  "actualizado_vzla": "2025-10-15 23:58:45 -04",
+  "timestamp_utc": "2025-10-16T04:31:13.750674",
+  "actualizado_vzla": "2025-10-16 00:31:13 -04",
   "compra_segundo": {
-    "price": 298.45,
-    "name": "TheMerchanTHM"
+    "price": 298.8,
+    "name": "LeNary-"
   },
   "venta_maxima": {
     "price": 294.36,
     "name": "FinanceSecure"
   },
-  "promedio": 296.4,
+  "promedio": 296.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
