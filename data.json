@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T11:27:44.798139",
-  "actualizado_vzla": "2025-10-16 07:27:44 -04",
+  "timestamp_utc": "2025-10-16T11:41:47.337188",
+  "actualizado_vzla": "2025-10-16 07:41:47 -04",
   "compra_segundo": {
-    "price": 296.799,
+    "price": 296.76,
     "name": "Cristh957"
   },
   "venta_maxima": {
     "price": 294.5,
     "name": "Coinectado"
   },
-  "promedio": 295.65,
+  "promedio": 295.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
