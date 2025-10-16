@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-16T19:52:23.318492",
-  "actualizado_vzla": "2025-10-16 15:52:23 -04",
+  "timestamp_utc": "2025-10-16T20:20:34.230776",
+  "actualizado_vzla": "2025-10-16 16:20:34 -04",
   "compra_segundo": {
-    "price": 298.748,
-    "name": "VGV"
+    "price": 297.999,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
-    "price": 297.5,
+    "price": 297.53,
     "name": "exchangesamam22"
   },
-  "promedio": 298.12,
+  "promedio": 297.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
