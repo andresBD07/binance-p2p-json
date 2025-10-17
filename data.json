@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T04:54:42.876305",
-  "actualizado_vzla": "2025-10-17 00:54:42 -04",
+  "timestamp_utc": "2025-10-17T05:22:17.245489",
+  "actualizado_vzla": "2025-10-17 01:22:17 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "zucorp"
+    "price": 303.78,
+    "name": "Btctronics"
   },
   "venta_maxima": {
-    "price": 295.601,
-    "name": "Orgs85"
+    "price": 296.0,
+    "name": "Technicianzz"
   },
-  "promedio": 299.3,
+  "promedio": 299.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
