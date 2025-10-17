@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T03:52:08.268228",
-  "actualizado_vzla": "2025-10-16 23:52:08 -04",
+  "timestamp_utc": "2025-10-17T04:21:19.680595",
+  "actualizado_vzla": "2025-10-17 00:21:19 -04",
   "compra_segundo": {
-    "price": 300.899,
-    "name": "MoshiRemesas"
+    "price": 302.49,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 296.301,
     "name": "Orgs85"
   },
-  "promedio": 298.6,
+  "promedio": 299.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
