@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T11:36:09.622508",
-  "actualizado_vzla": "2025-10-17 07:36:09 -04",
+  "timestamp_utc": "2025-10-17T11:49:35.694250",
+  "actualizado_vzla": "2025-10-17 07:49:35 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "HarveySpecterTrader"
+    "price": 299.999,
+    "name": "HR_Wolowitz"
   },
   "venta_maxima": {
-    "price": 300.0,
-    "name": "SibyDr"
+    "price": 296.56,
+    "name": "chaker9"
   },
-  "promedio": 300.0,
+  "promedio": 298.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
