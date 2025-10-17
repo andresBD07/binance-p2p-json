@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T09:40:56.132826",
-  "actualizado_vzla": "2025-10-17 05:40:56 -04",
+  "timestamp_utc": "2025-10-17T09:53:57.773926",
+  "actualizado_vzla": "2025-10-17 05:53:57 -04",
   "compra_segundo": {
-    "price": 302.4,
-    "name": "CorvoMecanique"
+    "price": 301.5,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "Technicianzz"
+    "price": 295.41,
+    "name": "RIVERMONEY"
   },
-  "promedio": 299.2,
+  "promedio": 298.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
