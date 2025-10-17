@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T21:38:30.823808",
-  "actualizado_vzla": "2025-10-17 17:38:30 -04",
+  "timestamp_utc": "2025-10-17T21:51:55.602832",
+  "actualizado_vzla": "2025-10-17 17:51:55 -04",
   "compra_segundo": {
-    "price": 297.75,
-    "name": "LaYanza"
+    "price": 297.5,
+    "name": "BlockArbi-X"
   },
   "venta_maxima": {
     "price": 296.5,
     "name": "hectoraltrader"
   },
-  "promedio": 297.12,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
