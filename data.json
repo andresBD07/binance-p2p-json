@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T15:36:00.109888",
-  "actualizado_vzla": "2025-10-17 11:36:00 -04",
+  "timestamp_utc": "2025-10-17T15:48:58.951974",
+  "actualizado_vzla": "2025-10-17 11:48:58 -04",
   "compra_segundo": {
-    "price": 297.1,
-    "name": "CambiosLindos2"
+    "price": 296.9,
+    "name": "CenterToken"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "JoseParedez"
+    "price": 373.2,
+    "name": "Jompu"
   },
-  "promedio": 296.3,
+  "promedio": 335.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
