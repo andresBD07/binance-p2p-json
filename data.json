@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T03:32:20.647892",
-  "actualizado_vzla": "2025-10-16 23:32:20 -04",
+  "timestamp_utc": "2025-10-17T03:52:08.268228",
+  "actualizado_vzla": "2025-10-16 23:52:08 -04",
   "compra_segundo": {
-    "price": 300.9,
-    "name": "IEvangelineI"
+    "price": 300.899,
+    "name": "MoshiRemesas"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "F_A_I_R"
+    "price": 296.301,
+    "name": "Orgs85"
   },
-  "promedio": 298.45,
+  "promedio": 298.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
