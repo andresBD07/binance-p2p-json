@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T20:46:47.606072",
-  "actualizado_vzla": "2025-10-17 16:46:47 -04",
+  "timestamp_utc": "2025-10-17T20:59:38.145449",
+  "actualizado_vzla": "2025-10-17 16:59:38 -04",
   "compra_segundo": {
-    "price": 298.499,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 298.3,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
     "price": 296.5,
     "name": "OTCLEGEND"
   },
-  "promedio": 297.5,
+  "promedio": 297.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
