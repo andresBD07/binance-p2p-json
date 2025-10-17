@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T17:51:47.122781",
-  "actualizado_vzla": "2025-10-17 13:51:47 -04",
+  "timestamp_utc": "2025-10-17T18:21:56.283333",
+  "actualizado_vzla": "2025-10-17 14:21:56 -04",
   "compra_segundo": {
-    "price": 298.479,
-    "name": "Cmkplus"
+    "price": 298.98,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 296.1,
-    "name": "JoseParedez"
+    "price": 296.2,
+    "name": "ALASKA-"
   },
-  "promedio": 297.29,
+  "promedio": 297.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
