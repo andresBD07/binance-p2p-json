@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T10:56:09.435539",
-  "actualizado_vzla": "2025-10-17 06:56:09 -04",
+  "timestamp_utc": "2025-10-17T11:21:06.303960",
+  "actualizado_vzla": "2025-10-17 07:21:06 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "zama2004"
+    "price": 299.89,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
-    "price": 295.526,
-    "name": "X-O-X"
+    "price": 296.31,
+    "name": "TH10TRADE"
   },
-  "promedio": 297.76,
+  "promedio": 298.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
