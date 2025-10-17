@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T19:36:12.848963",
-  "actualizado_vzla": "2025-10-17 15:36:12 -04",
+  "timestamp_utc": "2025-10-17T19:49:04.158431",
+  "actualizado_vzla": "2025-10-17 15:49:04 -04",
   "compra_segundo": {
-    "price": 298.28,
-    "name": "Dajming-Remesas-P2P"
+    "price": 298.0,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "-PositiveMind-"
+    "price": 296.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 296.94,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
