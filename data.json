@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T09:23:22.976545",
-  "actualizado_vzla": "2025-10-17 05:23:22 -04",
+  "timestamp_utc": "2025-10-17T09:40:56.132826",
+  "actualizado_vzla": "2025-10-17 05:40:56 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "zucorp"
+    "price": 302.4,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
     "price": 296.0,
     "name": "Technicianzz"
   },
-  "promedio": 299.5,
+  "promedio": 299.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
