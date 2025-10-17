@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T09:53:57.773926",
-  "actualizado_vzla": "2025-10-17 05:53:57 -04",
+  "timestamp_utc": "2025-10-17T10:23:48.921837",
+  "actualizado_vzla": "2025-10-17 06:23:48 -04",
   "compra_segundo": {
-    "price": 301.5,
-    "name": "GaAle19"
+    "price": 300.099,
+    "name": "Thony"
   },
   "venta_maxima": {
     "price": 295.41,
     "name": "RIVERMONEY"
   },
-  "promedio": 298.46,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
