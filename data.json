@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T20:33:35.046304",
-  "actualizado_vzla": "2025-10-17 16:33:35 -04",
+  "timestamp_utc": "2025-10-17T20:46:47.606072",
+  "actualizado_vzla": "2025-10-17 16:46:47 -04",
   "compra_segundo": {
-    "price": 297.88,
-    "name": "ROMANCHO_"
+    "price": 298.499,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 296.0,
-    "name": "hectoraltrader"
+    "price": 296.5,
+    "name": "OTCLEGEND"
   },
-  "promedio": 296.94,
+  "promedio": 297.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
