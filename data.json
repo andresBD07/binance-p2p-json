@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T20:12:51.918988",
-  "actualizado_vzla": "2025-10-17 16:12:51 -04",
+  "timestamp_utc": "2025-10-17T20:33:35.046304",
+  "actualizado_vzla": "2025-10-17 16:33:35 -04",
   "compra_segundo": {
-    "price": 297.899,
-    "name": "SrTocino"
+    "price": 297.88,
+    "name": "ROMANCHO_"
   },
   "venta_maxima": {
     "price": 296.0,
     "name": "hectoraltrader"
   },
-  "promedio": 296.95,
+  "promedio": 296.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
