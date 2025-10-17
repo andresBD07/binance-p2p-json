@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T18:45:45.258912",
-  "actualizado_vzla": "2025-10-17 14:45:45 -04",
+  "timestamp_utc": "2025-10-17T18:58:58.327472",
+  "actualizado_vzla": "2025-10-17 14:58:58 -04",
   "compra_segundo": {
-    "price": 298.78,
-    "name": "Safe-tradeV"
+    "price": 298.7,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 296.601,
+    "price": 297.101,
     "name": "All-inCrypto"
   },
-  "promedio": 297.69,
+  "promedio": 297.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
