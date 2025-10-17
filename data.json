@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T18:58:58.327472",
-  "actualizado_vzla": "2025-10-17 14:58:58 -04",
+  "timestamp_utc": "2025-10-17T19:21:09.415293",
+  "actualizado_vzla": "2025-10-17 15:21:09 -04",
   "compra_segundo": {
-    "price": 298.7,
-    "name": "Yossetmz"
+    "price": 298.59,
+    "name": "-JOGASA-"
   },
   "venta_maxima": {
-    "price": 297.101,
-    "name": "All-inCrypto"
+    "price": 296.8,
+    "name": "OTCLEGEND"
   },
-  "promedio": 297.9,
+  "promedio": 297.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
