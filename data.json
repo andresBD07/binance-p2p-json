@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T07:46:03.852531",
-  "actualizado_vzla": "2025-10-17 03:46:03 -04",
+  "timestamp_utc": "2025-10-17T07:58:44.065434",
+  "actualizado_vzla": "2025-10-17 03:58:44 -04",
   "compra_segundo": {
-    "price": 303.86,
-    "name": "fundatrade"
+    "price": 303.8,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 296.0,
     "name": "Technicianzz"
   },
-  "promedio": 299.93,
+  "promedio": 299.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
