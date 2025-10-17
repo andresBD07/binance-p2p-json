@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T11:49:35.694250",
-  "actualizado_vzla": "2025-10-17 07:49:35 -04",
+  "timestamp_utc": "2025-10-17T12:24:26.743345",
+  "actualizado_vzla": "2025-10-17 08:24:26 -04",
   "compra_segundo": {
-    "price": 299.999,
-    "name": "HR_Wolowitz"
+    "price": 299.7,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 296.56,
-    "name": "chaker9"
+    "price": 296.7,
+    "name": "Godisgift"
   },
-  "promedio": 298.28,
+  "promedio": 298.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
