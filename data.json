@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T17:21:48.357816",
-  "actualizado_vzla": "2025-10-17 13:21:48 -04",
+  "timestamp_utc": "2025-10-17T17:38:21.104698",
+  "actualizado_vzla": "2025-10-17 13:38:21 -04",
   "compra_segundo": {
-    "price": 297.0,
-    "name": "CoinGonzo"
+    "price": 298.4,
+    "name": "BallGroup"
   },
   "venta_maxima": {
     "price": 295.001,
-    "name": "novatecno"
+    "name": "Burdyn"
   },
-  "promedio": 296.0,
+  "promedio": 296.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
