@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T04:41:39.828468",
-  "actualizado_vzla": "2025-10-17 00:41:39 -04",
+  "timestamp_utc": "2025-10-17T04:54:42.876305",
+  "actualizado_vzla": "2025-10-17 00:54:42 -04",
   "compra_segundo": {
-    "price": 302.8,
-    "name": "WebMoneyExchanger"
+    "price": 303.0,
+    "name": "zucorp"
   },
   "venta_maxima": {
-    "price": 295.6,
-    "name": "Suora21"
+    "price": 295.601,
+    "name": "Orgs85"
   },
-  "promedio": 299.2,
+  "promedio": 299.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
