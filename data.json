@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T16:13:34.921751",
-  "actualizado_vzla": "2025-10-17 12:13:34 -04",
+  "timestamp_utc": "2025-10-17T16:41:08.346472",
+  "actualizado_vzla": "2025-10-17 12:41:08 -04",
   "compra_segundo": {
-    "price": 296.0,
-    "name": "AvExchange"
+    "price": 297.0,
+    "name": "MONTERCCCCCCCCCCP"
   },
   "venta_maxima": {
-    "price": 293.0,
-    "name": "OTCLEGEND"
+    "price": 293.71,
+    "name": "cazing2230"
   },
-  "promedio": 294.5,
+  "promedio": 295.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
