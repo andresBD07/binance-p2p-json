@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T10:43:33.846756",
-  "actualizado_vzla": "2025-10-17 06:43:33 -04",
+  "timestamp_utc": "2025-10-17T10:56:09.435539",
+  "actualizado_vzla": "2025-10-17 06:56:09 -04",
   "compra_segundo": {
-    "price": 299.7,
-    "name": "TradEr2025_Drjgh"
+    "price": 300.0,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 295.5,
+    "price": 295.526,
     "name": "X-O-X"
   },
-  "promedio": 297.6,
+  "promedio": 297.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
