@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T17:38:21.104698",
-  "actualizado_vzla": "2025-10-17 13:38:21 -04",
+  "timestamp_utc": "2025-10-17T17:51:47.122781",
+  "actualizado_vzla": "2025-10-17 13:51:47 -04",
   "compra_segundo": {
-    "price": 298.4,
-    "name": "BallGroup"
+    "price": 298.479,
+    "name": "Cmkplus"
   },
   "venta_maxima": {
-    "price": 295.001,
-    "name": "Burdyn"
+    "price": 296.1,
+    "name": "JoseParedez"
   },
-  "promedio": 296.7,
+  "promedio": 297.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
