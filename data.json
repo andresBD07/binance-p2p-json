@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T07:58:44.065434",
-  "actualizado_vzla": "2025-10-17 03:58:44 -04",
+  "timestamp_utc": "2025-10-17T08:35:53.020743",
+  "actualizado_vzla": "2025-10-17 04:35:53 -04",
   "compra_segundo": {
-    "price": 303.8,
-    "name": "usdtking"
+    "price": 303.78,
+    "name": "Btctronics"
   },
   "venta_maxima": {
     "price": 296.0,
     "name": "Technicianzz"
   },
-  "promedio": 299.9,
+  "promedio": 299.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
