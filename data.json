@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T10:23:48.921837",
-  "actualizado_vzla": "2025-10-17 06:23:48 -04",
+  "timestamp_utc": "2025-10-17T10:43:33.846756",
+  "actualizado_vzla": "2025-10-17 06:43:33 -04",
   "compra_segundo": {
-    "price": 300.099,
-    "name": "Thony"
+    "price": 299.7,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 295.41,
-    "name": "RIVERMONEY"
+    "price": 295.5,
+    "name": "X-O-X"
   },
-  "promedio": 297.75,
+  "promedio": 297.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
