@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T04:21:19.680595",
-  "actualizado_vzla": "2025-10-17 00:21:19 -04",
+  "timestamp_utc": "2025-10-17T04:41:39.828468",
+  "actualizado_vzla": "2025-10-17 00:41:39 -04",
   "compra_segundo": {
-    "price": 302.49,
-    "name": "KobyTrader"
+    "price": 302.8,
+    "name": "WebMoneyExchanger"
   },
   "venta_maxima": {
-    "price": 296.301,
-    "name": "Orgs85"
+    "price": 295.6,
+    "name": "Suora21"
   },
-  "promedio": 299.4,
+  "promedio": 299.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
