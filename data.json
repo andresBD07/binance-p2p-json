@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T15:48:58.951974",
-  "actualizado_vzla": "2025-10-17 11:48:58 -04",
+  "timestamp_utc": "2025-10-17T16:13:34.921751",
+  "actualizado_vzla": "2025-10-17 12:13:34 -04",
   "compra_segundo": {
-    "price": 296.9,
-    "name": "CenterToken"
+    "price": 296.0,
+    "name": "AvExchange"
   },
   "venta_maxima": {
-    "price": 373.2,
-    "name": "Jompu"
+    "price": 293.0,
+    "name": "OTCLEGEND"
   },
-  "promedio": 335.05,
+  "promedio": 294.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
