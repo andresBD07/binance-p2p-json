@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T10:19:00.462647",
-  "actualizado_vzla": "2025-10-18 06:19:00 -04",
+  "timestamp_utc": "2025-10-18T10:37:37.474099",
+  "actualizado_vzla": "2025-10-18 06:37:37 -04",
   "compra_segundo": {
-    "price": 300.79,
-    "name": "InvMiggy"
+    "price": 299.333,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "TheBlackHand"
   },
-  "promedio": 298.14,
+  "promedio": 297.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
