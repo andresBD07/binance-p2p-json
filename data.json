@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-17T23:53:51.023045",
-  "actualizado_vzla": "2025-10-17 19:53:51 -04",
+  "timestamp_utc": "2025-10-18T01:37:54.015966",
+  "actualizado_vzla": "2025-10-17 21:37:54 -04",
   "compra_segundo": {
-    "price": 297.9,
-    "name": "RAULITO2809"
+    "price": 298.39,
+    "name": "HectorB"
   },
   "venta_maxima": {
-    "price": 296.5,
-    "name": "hectoraltrader"
+    "price": 296.56,
+    "name": "RONIN_COIN"
   },
-  "promedio": 297.2,
+  "promedio": 297.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
