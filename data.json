@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T16:59:21.756331",
-  "actualizado_vzla": "2025-10-18 12:59:21 -04",
+  "timestamp_utc": "2025-10-18T17:22:28.633256",
+  "actualizado_vzla": "2025-10-18 13:22:28 -04",
   "compra_segundo": {
-    "price": 299.6,
-    "name": "MONTERCCCCCCCCCCP"
+    "price": 299.649,
+    "name": "XckSeguros"
   },
   "venta_maxima": {
-    "price": 299.5,
+    "price": 300.0,
     "name": "Godisgift"
   },
-  "promedio": 299.55,
+  "promedio": 299.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
