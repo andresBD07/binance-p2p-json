@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T18:53:52.530254",
-  "actualizado_vzla": "2025-10-18 14:53:52 -04",
+  "timestamp_utc": "2025-10-18T19:15:20.462102",
+  "actualizado_vzla": "2025-10-18 15:15:20 -04",
   "compra_segundo": {
-    "price": 299.0,
-    "name": "Cambiosbraycar"
+    "price": 298.99,
+    "name": "TuCambioPreferido"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "Fakefk"
+    "price": 298.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 298.75,
+  "promedio": 298.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
