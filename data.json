@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T20:38:52.556491",
-  "actualizado_vzla": "2025-10-18 16:38:52 -04",
+  "timestamp_utc": "2025-10-18T20:52:05.398523",
+  "actualizado_vzla": "2025-10-18 16:52:05 -04",
   "compra_segundo": {
-    "price": 299.198,
-    "name": "IBEROGESTION"
+    "price": 299.149,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
     "price": 298.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 298.75,
+  "promedio": 298.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
