@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T07:27:44.913737",
-  "actualizado_vzla": "2025-10-18 03:27:44 -04",
+  "timestamp_utc": "2025-10-18T07:40:57.774686",
+  "actualizado_vzla": "2025-10-18 03:40:57 -04",
   "compra_segundo": {
-    "price": 299.986,
-    "name": "Apolo_Cript"
+    "price": 300.0,
+    "name": "PayBin07"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "TheBlackHand"
   },
-  "promedio": 297.74,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
