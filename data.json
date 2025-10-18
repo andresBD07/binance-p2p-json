@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T11:52:54.908707",
-  "actualizado_vzla": "2025-10-18 07:52:54 -04",
+  "timestamp_utc": "2025-10-18T12:36:37.939049",
+  "actualizado_vzla": "2025-10-18 08:36:37 -04",
   "compra_segundo": {
-    "price": 298.6,
-    "name": "Caps-Exchange"
+    "price": 298.0,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
-    "price": 295.5,
-    "name": "TheBlackHand"
+    "price": 296.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 297.05,
+  "promedio": 297.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
