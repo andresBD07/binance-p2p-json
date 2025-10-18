@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T15:56:38.908689",
-  "actualizado_vzla": "2025-10-18 11:56:38 -04",
+  "timestamp_utc": "2025-10-18T16:29:25.249459",
+  "actualizado_vzla": "2025-10-18 12:29:25 -04",
   "compra_segundo": {
-    "price": 299.6,
-    "name": "MUNDOGENIAL"
+    "price": 299.9,
+    "name": "ANMAIYANME"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "hectoraltrader"
+    "price": 299.5,
+    "name": "RONIN_COIN"
   },
-  "promedio": 299.05,
+  "promedio": 299.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
