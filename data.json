@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T06:32:00.316141",
-  "actualizado_vzla": "2025-10-18 02:32:00 -04",
+  "timestamp_utc": "2025-10-18T06:49:18.185646",
+  "actualizado_vzla": "2025-10-18 02:49:18 -04",
   "compra_segundo": {
-    "price": 299.98,
-    "name": "PlutoTrading"
+    "price": 300.0,
+    "name": "PayBin07"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "TheBlackHand"
   },
-  "promedio": 297.74,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
