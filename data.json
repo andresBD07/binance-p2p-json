@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T03:19:30.496657",
-  "actualizado_vzla": "2025-10-17 23:19:30 -04",
+  "timestamp_utc": "2025-10-18T03:42:56.114822",
+  "actualizado_vzla": "2025-10-17 23:42:56 -04",
   "compra_segundo": {
-    "price": 298.7,
-    "name": "Exchanger_Global"
+    "price": 298.99,
+    "name": "Dinero-Seguro"
   },
   "venta_maxima": {
     "price": 296.5,
     "name": "Quick Payment"
   },
-  "promedio": 297.6,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
