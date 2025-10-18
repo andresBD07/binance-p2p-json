@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T23:28:24.293686",
-  "actualizado_vzla": "2025-10-18 19:28:24 -04",
+  "timestamp_utc": "2025-10-18T23:41:48.301472",
+  "actualizado_vzla": "2025-10-18 19:41:48 -04",
   "compra_segundo": {
-    "price": 299.094,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 299.192,
+    "name": "Paotrader"
   },
   "venta_maxima": {
-    "price": 298.0,
-    "name": "hectoraltrader"
+    "price": 297.7,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 298.55,
+  "promedio": 298.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
