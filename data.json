@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T04:57:35.359855",
-  "actualizado_vzla": "2025-10-18 00:57:35 -04",
+  "timestamp_utc": "2025-10-18T05:25:30.587480",
+  "actualizado_vzla": "2025-10-18 01:25:30 -04",
   "compra_segundo": {
-    "price": 299.75,
-    "name": "Jin-Woo-Sung"
+    "price": 299.7,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
     "price": 296.0,
     "name": "Quick Payment"
   },
-  "promedio": 297.88,
+  "promedio": 297.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
