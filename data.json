@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T21:28:47.051866",
-  "actualizado_vzla": "2025-10-18 17:28:47 -04",
+  "timestamp_utc": "2025-10-18T21:41:40.659483",
+  "actualizado_vzla": "2025-10-18 17:41:40 -04",
   "compra_segundo": {
-    "price": 299.05,
-    "name": "Inversiones-Vicky"
+    "price": 298.88,
+    "name": "CERRATO23__"
   },
   "venta_maxima": {
     "price": 298.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 298.68,
+  "promedio": 298.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
