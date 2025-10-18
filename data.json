@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T13:29:52.881160",
-  "actualizado_vzla": "2025-10-18 09:29:52 -04",
+  "timestamp_utc": "2025-10-18T13:43:15.354577",
+  "actualizado_vzla": "2025-10-18 09:43:15 -04",
   "compra_segundo": {
-    "price": 298.25,
+    "price": 298.5,
     "name": "ChaizySwap"
   },
   "venta_maxima": {
-    "price": 296.8,
-    "name": "JoseParedez"
+    "price": 297.0,
+    "name": "OTCLEGEND"
   },
-  "promedio": 297.52,
+  "promedio": 297.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
