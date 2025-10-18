@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T21:54:31.856743",
-  "actualizado_vzla": "2025-10-18 17:54:31 -04",
+  "timestamp_utc": "2025-10-18T22:20:04.558709",
+  "actualizado_vzla": "2025-10-18 18:20:04 -04",
   "compra_segundo": {
-    "price": 298.495,
-    "name": "OikonomiaDigital"
+    "price": 298.69,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 298.4,
-    "name": "notorius11"
+    "price": 298.3,
+    "name": "RONIN_COIN"
   },
-  "promedio": 298.45,
+  "promedio": 298.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
