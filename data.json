@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T03:42:56.114822",
-  "actualizado_vzla": "2025-10-17 23:42:56 -04",
+  "timestamp_utc": "2025-10-18T03:55:49.574451",
+  "actualizado_vzla": "2025-10-17 23:55:49 -04",
   "compra_segundo": {
-    "price": 298.99,
-    "name": "Dinero-Seguro"
+    "price": 299.18,
+    "name": "SiriExchange22"
   },
   "venta_maxima": {
     "price": 296.5,
     "name": "Quick Payment"
   },
-  "promedio": 297.75,
+  "promedio": 297.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
