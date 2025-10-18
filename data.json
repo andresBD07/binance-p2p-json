@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T10:37:37.474099",
-  "actualizado_vzla": "2025-10-18 06:37:37 -04",
+  "timestamp_utc": "2025-10-18T10:51:08.959846",
+  "actualizado_vzla": "2025-10-18 06:51:08 -04",
   "compra_segundo": {
-    "price": 299.333,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 299.05,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "TheBlackHand"
   },
-  "promedio": 297.42,
+  "promedio": 297.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
