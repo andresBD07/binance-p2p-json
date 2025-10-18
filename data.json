@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T14:37:50.408144",
-  "actualizado_vzla": "2025-10-18 10:37:50 -04",
+  "timestamp_utc": "2025-10-18T14:51:17.931907",
+  "actualizado_vzla": "2025-10-18 10:51:17 -04",
   "compra_segundo": {
-    "price": 298.24,
-    "name": "RapidEnvios"
+    "price": 298.56,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 297.7,
-    "name": "hectoraltrader"
+    "price": 298.5,
+    "name": "JoseParedez"
   },
-  "promedio": 297.97,
+  "promedio": 298.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
