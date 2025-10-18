@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-18T19:41:37.161973",
-  "actualizado_vzla": "2025-10-18 15:41:37 -04",
+  "timestamp_utc": "2025-10-18T19:54:32.993636",
+  "actualizado_vzla": "2025-10-18 15:54:33 -04",
   "compra_segundo": {
     "price": 299.0,
-    "name": "Cambios_Jear"
+    "name": "AvExchange"
   },
   "venta_maxima": {
     "price": 298.0,
