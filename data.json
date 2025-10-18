@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T16:29:25.249459",
-  "actualizado_vzla": "2025-10-18 12:29:25 -04",
+  "timestamp_utc": "2025-10-18T16:46:09.605343",
+  "actualizado_vzla": "2025-10-18 12:46:09 -04",
   "compra_segundo": {
-    "price": 299.9,
-    "name": "ANMAIYANME"
+    "price": 299.7,
+    "name": "INTEL_CHILE_2"
   },
   "venta_maxima": {
     "price": 299.5,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.7,
+  "promedio": 299.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
