@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T18:17:12.447187",
-  "actualizado_vzla": "2025-10-18 14:17:12 -04",
+  "timestamp_utc": "2025-10-18T18:40:53.271504",
+  "actualizado_vzla": "2025-10-18 14:40:53 -04",
   "compra_segundo": {
-    "price": 299.099,
-    "name": "P2P-Dulce"
+    "price": 299.09,
+    "name": "v0xx2"
   },
   "venta_maxima": {
-    "price": 298.1,
-    "name": "Godisgift"
+    "price": 298.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 298.6,
+  "promedio": 298.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
