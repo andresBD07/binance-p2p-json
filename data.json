@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T09:40:09.782365",
-  "actualizado_vzla": "2025-10-18 05:40:09 -04",
+  "timestamp_utc": "2025-10-18T09:53:14.381413",
+  "actualizado_vzla": "2025-10-18 05:53:14 -04",
   "compra_segundo": {
-    "price": 301.0,
-    "name": "CambiosJR2"
+    "price": 300.8,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
     "price": 295.5,
     "name": "TheBlackHand"
   },
-  "promedio": 298.25,
+  "promedio": 298.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
