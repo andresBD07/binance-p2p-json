@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T15:30:18.438424",
-  "actualizado_vzla": "2025-10-18 11:30:18 -04",
+  "timestamp_utc": "2025-10-18T15:43:31.073098",
+  "actualizado_vzla": "2025-10-18 11:43:31 -04",
   "compra_segundo": {
-    "price": 299.6,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 299.648,
+    "name": "VGV"
   },
   "venta_maxima": {
-    "price": 299.1,
+    "price": 298.5,
     "name": "hectoraltrader"
   },
-  "promedio": 299.35,
+  "promedio": 299.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
