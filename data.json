@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T13:04:01.636423",
-  "actualizado_vzla": "2025-10-18 09:04:01 -04",
+  "timestamp_utc": "2025-10-18T13:29:52.881160",
+  "actualizado_vzla": "2025-10-18 09:29:52 -04",
   "compra_segundo": {
-    "price": 297.99,
-    "name": "CryptoIngAlex"
+    "price": 298.25,
+    "name": "ChaizySwap"
   },
   "venta_maxima": {
-    "price": 295.7,
-    "name": "RONIN_COIN"
+    "price": 296.8,
+    "name": "JoseParedez"
   },
-  "promedio": 296.85,
+  "promedio": 297.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
