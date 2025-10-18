@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T21:14:14.696337",
-  "actualizado_vzla": "2025-10-18 17:14:14 -04",
+  "timestamp_utc": "2025-10-18T21:28:47.051866",
+  "actualizado_vzla": "2025-10-18 17:28:47 -04",
   "compra_segundo": {
-    "price": 299.04,
-    "name": "_AltCoinMaster_"
+    "price": 299.05,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
     "price": 298.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 298.67,
+  "promedio": 298.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
