@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T20:52:05.398523",
-  "actualizado_vzla": "2025-10-18 16:52:05 -04",
+  "timestamp_utc": "2025-10-18T21:14:14.696337",
+  "actualizado_vzla": "2025-10-18 17:14:14 -04",
   "compra_segundo": {
-    "price": 299.149,
-    "name": "Juan15_7"
+    "price": 299.04,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
     "price": 298.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 298.72,
+  "promedio": 298.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
