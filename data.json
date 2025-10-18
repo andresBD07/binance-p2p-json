@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T15:13:49.748331",
-  "actualizado_vzla": "2025-10-18 11:13:49 -04",
+  "timestamp_utc": "2025-10-18T15:30:18.438424",
+  "actualizado_vzla": "2025-10-18 11:30:18 -04",
   "compra_segundo": {
-    "price": 298.999,
-    "name": "Perfect_Process"
+    "price": 299.6,
+    "name": "IMPORTACIONEMUNVE"
   },
   "venta_maxima": {
-    "price": 298.55,
+    "price": 299.1,
     "name": "hectoraltrader"
   },
-  "promedio": 298.77,
+  "promedio": 299.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
