@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T14:51:17.931907",
-  "actualizado_vzla": "2025-10-18 10:51:17 -04",
+  "timestamp_utc": "2025-10-18T15:13:49.748331",
+  "actualizado_vzla": "2025-10-18 11:13:49 -04",
   "compra_segundo": {
-    "price": 298.56,
-    "name": "CoinGonzo"
+    "price": 298.999,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 298.5,
-    "name": "JoseParedez"
+    "price": 298.55,
+    "name": "hectoraltrader"
   },
-  "promedio": 298.53,
+  "promedio": 298.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
