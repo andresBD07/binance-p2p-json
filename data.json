@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T23:11:27.205471",
-  "actualizado_vzla": "2025-10-18 19:11:27 -04",
+  "timestamp_utc": "2025-10-18T23:28:24.293686",
+  "actualizado_vzla": "2025-10-18 19:28:24 -04",
   "compra_segundo": {
-    "price": 299.21,
-    "name": "MisterfastP2P"
+    "price": 299.094,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "Child-CambioFacil"
+    "price": 298.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 298.36,
+  "promedio": 298.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
