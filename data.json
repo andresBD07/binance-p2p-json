@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T10:34:20.850605",
-  "actualizado_vzla": "2025-10-19 06:34:20 -04",
+  "timestamp_utc": "2025-10-19T10:47:38.665301",
+  "actualizado_vzla": "2025-10-19 06:47:38 -04",
   "compra_segundo": {
-    "price": 301.5,
-    "name": "T-Pago-rapido"
+    "price": 300.999,
+    "name": "roxcrip"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.25,
+  "promedio": 299.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
