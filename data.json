@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T14:36:25.501465",
-  "actualizado_vzla": "2025-10-19 10:36:25 -04",
+  "timestamp_utc": "2025-10-19T14:49:27.667227",
+  "actualizado_vzla": "2025-10-19 10:49:27 -04",
   "compra_segundo": {
-    "price": 300.8,
-    "name": "AngelysGr"
+    "price": 300.9,
+    "name": "INVERSIONES_AM_VZLA"
   },
   "venta_maxima": {
-    "price": 300.301,
-    "name": "RONIN_COIN"
+    "price": 300.5,
+    "name": "JoseParedez"
   },
-  "promedio": 300.55,
+  "promedio": 300.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
