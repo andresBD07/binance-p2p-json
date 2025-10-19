@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T05:56:42.387166",
-  "actualizado_vzla": "2025-10-19 01:56:42 -04",
+  "timestamp_utc": "2025-10-19T06:36:05.646522",
+  "actualizado_vzla": "2025-10-19 02:36:05 -04",
   "compra_segundo": {
-    "price": 302.18,
-    "name": "Facd90"
+    "price": 302.8,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.59,
+  "promedio": 299.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
