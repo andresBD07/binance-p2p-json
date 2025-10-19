@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T18:54:46.003978",
-  "actualizado_vzla": "2025-10-19 14:54:46 -04",
+  "timestamp_utc": "2025-10-19T19:17:32.109132",
+  "actualizado_vzla": "2025-10-19 15:17:32 -04",
   "compra_segundo": {
-    "price": 303.1,
-    "name": "TU CAMBIO"
+    "price": 302.489,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
-    "price": 301.2,
-    "name": "SCGR--"
+    "price": 301.5,
+    "name": "RONIN_COIN"
   },
-  "promedio": 302.15,
+  "promedio": 301.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
