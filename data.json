@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T15:10:32.662075",
-  "actualizado_vzla": "2025-10-19 11:10:32 -04",
+  "timestamp_utc": "2025-10-19T15:28:39.772901",
+  "actualizado_vzla": "2025-10-19 11:28:39 -04",
   "compra_segundo": {
-    "price": 301.499,
-    "name": "criptorapiseguro1"
+    "price": 302.0,
+    "name": "Jin-Woo-Sung"
   },
   "venta_maxima": {
-    "price": 300.5,
-    "name": "JoseParedez"
+    "price": 301.001,
+    "name": "Servic-Karyguz"
   },
-  "promedio": 301.0,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
