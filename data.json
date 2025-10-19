@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T06:36:05.646522",
-  "actualizado_vzla": "2025-10-19 02:36:05 -04",
+  "timestamp_utc": "2025-10-19T06:51:00.300510",
+  "actualizado_vzla": "2025-10-19 02:51:00 -04",
   "compra_segundo": {
-    "price": 302.8,
-    "name": "Mero-Mero"
+    "price": 302.87,
+    "name": "ASCENDERLTDA"
   },
   "venta_maxima": {
-    "price": 297.0,
-    "name": "RONIN_COIN"
+    "price": 297.05,
+    "name": "RIVERMONEY"
   },
-  "promedio": 299.9,
+  "promedio": 299.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
