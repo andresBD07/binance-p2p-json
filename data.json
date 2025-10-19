@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T08:56:37.414033",
-  "actualizado_vzla": "2025-10-19 04:56:37 -04",
+  "timestamp_utc": "2025-10-19T09:23:27.848021",
+  "actualizado_vzla": "2025-10-19 05:23:27 -04",
   "compra_segundo": {
-    "price": 302.0,
-    "name": "GaAle19"
+    "price": 301.987,
+    "name": "Apolo_Cript"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.5,
+  "promedio": 299.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
