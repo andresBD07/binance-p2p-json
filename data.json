@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T13:41:40.123807",
-  "actualizado_vzla": "2025-10-19 09:41:40 -04",
+  "timestamp_utc": "2025-10-19T13:54:43.092555",
+  "actualizado_vzla": "2025-10-19 09:54:43 -04",
   "compra_segundo": {
-    "price": 300.59,
-    "name": "MisterfastP2P"
+    "price": 300.695,
+    "name": "Light Transaction Essentially "
   },
   "venta_maxima": {
-    "price": 298.3,
-    "name": "RONIN_COIN"
+    "price": 298.5,
+    "name": "JoseParedez"
   },
-  "promedio": 299.44,
+  "promedio": 299.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
