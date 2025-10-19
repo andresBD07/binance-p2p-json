@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T17:22:31.091560",
-  "actualizado_vzla": "2025-10-19 13:22:31 -04",
+  "timestamp_utc": "2025-10-19T17:37:27.906865",
+  "actualizado_vzla": "2025-10-19 13:37:27 -04",
   "compra_segundo": {
-    "price": 304.1,
-    "name": "HidrotornosCA"
+    "price": 303.799,
+    "name": "kikediaz02"
   },
   "venta_maxima": {
-    "price": 303.07,
-    "name": "Montcios"
+    "price": 302.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 303.59,
+  "promedio": 303.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
