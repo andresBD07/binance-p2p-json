@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T07:13:03.512953",
-  "actualizado_vzla": "2025-10-19 03:13:03 -04",
+  "timestamp_utc": "2025-10-19T07:28:13.598728",
+  "actualizado_vzla": "2025-10-19 03:28:13 -04",
   "compra_segundo": {
     "price": 302.87,
     "name": "ASCENDERLTDA"
   },
   "venta_maxima": {
-    "price": 297.05,
-    "name": "RIVERMONEY"
+    "price": 297.0,
+    "name": "RONIN_COIN"
   },
-  "promedio": 299.96,
+  "promedio": 299.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
