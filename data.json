@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T20:55:47.819335",
-  "actualizado_vzla": "2025-10-19 16:55:47 -04",
+  "timestamp_utc": "2025-10-19T21:21:23.473663",
+  "actualizado_vzla": "2025-10-19 17:21:23 -04",
   "compra_segundo": {
-    "price": 302.68,
-    "name": "Safe-tradeV"
+    "price": 302.89,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 301.5,
-    "name": "被放逐的狐狸"
+    "price": 301.85,
+    "name": "talepagos"
   },
-  "promedio": 302.09,
+  "promedio": 302.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
