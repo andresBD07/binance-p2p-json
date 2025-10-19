@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T20:27:14.777750",
-  "actualizado_vzla": "2025-10-19 16:27:14 -04",
+  "timestamp_utc": "2025-10-19T20:42:39.736951",
+  "actualizado_vzla": "2025-10-19 16:42:39 -04",
   "compra_segundo": {
-    "price": 302.397,
-    "name": "R1skTaker"
+    "price": 302.5,
+    "name": "FastEG"
   },
   "venta_maxima": {
     "price": 301.7,
     "name": "RONIN_COIN"
   },
-  "promedio": 302.05,
+  "promedio": 302.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
