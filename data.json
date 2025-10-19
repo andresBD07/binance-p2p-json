@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T12:56:25.906585",
-  "actualizado_vzla": "2025-10-19 08:56:25 -04",
+  "timestamp_utc": "2025-10-19T13:28:05.831676",
+  "actualizado_vzla": "2025-10-19 09:28:05 -04",
   "compra_segundo": {
-    "price": 300.0,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 300.6,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 298.0,
+    "price": 298.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.0,
+  "promedio": 299.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
