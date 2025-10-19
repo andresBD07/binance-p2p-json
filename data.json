@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-19T11:20:56.726116",
-  "actualizado_vzla": "2025-10-19 07:20:56 -04",
+  "timestamp_utc": "2025-10-19T11:35:48.492905",
+  "actualizado_vzla": "2025-10-19 07:35:48 -04",
   "compra_segundo": {
     "price": 300.4,
-    "name": "ElPolaris"
+    "name": "Open-cambios"
   },
   "venta_maxima": {
     "price": 297.0,
-    "name": "RONIN_COIN"
+    "name": "DNG168CAMBIO"
   },
   "promedio": 298.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
