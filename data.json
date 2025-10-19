@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T19:57:12.024544",
-  "actualizado_vzla": "2025-10-19 15:57:12 -04",
+  "timestamp_utc": "2025-10-19T20:27:14.777750",
+  "actualizado_vzla": "2025-10-19 16:27:14 -04",
   "compra_segundo": {
-    "price": 302.1,
-    "name": "YGSCAPITALSPA"
+    "price": 302.397,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
-    "price": 301.5,
-    "name": "被放逐的狐狸"
+    "price": 301.7,
+    "name": "RONIN_COIN"
   },
-  "promedio": 301.8,
+  "promedio": 302.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
