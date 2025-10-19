@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T11:35:48.492905",
-  "actualizado_vzla": "2025-10-19 07:35:48 -04",
+  "timestamp_utc": "2025-10-19T11:48:46.872821",
+  "actualizado_vzla": "2025-10-19 07:48:46 -04",
   "compra_segundo": {
-    "price": 300.4,
-    "name": "Open-cambios"
+    "price": 300.0,
+    "name": "PayBin07"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "DNG168CAMBIO"
   },
-  "promedio": 298.7,
+  "promedio": 298.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
