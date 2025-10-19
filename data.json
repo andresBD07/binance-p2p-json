@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-18T23:54:45.785652",
-  "actualizado_vzla": "2025-10-18 19:54:45 -04",
+  "timestamp_utc": "2025-10-19T02:02:07.292277",
+  "actualizado_vzla": "2025-10-18 22:02:07 -04",
   "compra_segundo": {
-    "price": 299.199,
-    "name": "Mercurius_P2P"
+    "price": 299.989,
+    "name": "AxelKingS"
   },
   "venta_maxima": {
-    "price": 297.55,
-    "name": "RONIN_COIN"
+    "price": 298.7,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 298.37,
+  "promedio": 299.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
