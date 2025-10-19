@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T05:43:40.530134",
-  "actualizado_vzla": "2025-10-19 01:43:40 -04",
+  "timestamp_utc": "2025-10-19T05:56:42.387166",
+  "actualizado_vzla": "2025-10-19 01:56:42 -04",
   "compra_segundo": {
-    "price": 302.0,
-    "name": "GaAle19"
+    "price": 302.18,
+    "name": "Facd90"
   },
   "venta_maxima": {
-    "price": 297.5,
-    "name": "Fakefk"
+    "price": 297.0,
+    "name": "RONIN_COIN"
   },
-  "promedio": 299.75,
+  "promedio": 299.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
