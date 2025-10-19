@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T02:02:07.292277",
-  "actualizado_vzla": "2025-10-18 22:02:07 -04",
+  "timestamp_utc": "2025-10-19T03:21:16.460455",
+  "actualizado_vzla": "2025-10-18 23:21:16 -04",
   "compra_segundo": {
-    "price": 299.989,
-    "name": "AxelKingS"
+    "price": 300.37,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
     "price": 298.7,
     "name": "Child-CambioFacil"
   },
-  "promedio": 299.34,
+  "promedio": 299.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
