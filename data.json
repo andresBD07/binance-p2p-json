@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T18:41:38.626365",
-  "actualizado_vzla": "2025-10-19 14:41:38 -04",
+  "timestamp_utc": "2025-10-19T18:54:46.003978",
+  "actualizado_vzla": "2025-10-19 14:54:46 -04",
   "compra_segundo": {
-    "price": 303.489,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 303.1,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 301.91,
-    "name": "hectoraltrader"
+    "price": 301.2,
+    "name": "SCGR--"
   },
-  "promedio": 302.7,
+  "promedio": 302.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
