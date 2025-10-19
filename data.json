@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T16:58:09.171433",
-  "actualizado_vzla": "2025-10-19 12:58:09 -04",
+  "timestamp_utc": "2025-10-19T17:22:31.091560",
+  "actualizado_vzla": "2025-10-19 13:22:31 -04",
   "compra_segundo": {
-    "price": 304.49,
-    "name": "Saher7"
+    "price": 304.1,
+    "name": "HidrotornosCA"
   },
   "venta_maxima": {
-    "price": 303.0,
-    "name": "JoseParedez"
+    "price": 303.07,
+    "name": "Montcios"
   },
-  "promedio": 303.75,
+  "promedio": 303.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
