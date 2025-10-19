@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T19:30:30.579301",
-  "actualizado_vzla": "2025-10-19 15:30:30 -04",
+  "timestamp_utc": "2025-10-19T19:43:45.899894",
+  "actualizado_vzla": "2025-10-19 15:43:45 -04",
   "compra_segundo": {
-    "price": 302.079,
-    "name": "CryptoSickoP2P"
+    "price": 302.099,
+    "name": "cambiofast24h"
   },
   "venta_maxima": {
     "price": 301.5,
     "name": "RONIN_COIN"
   },
-  "promedio": 301.79,
+  "promedio": 301.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
