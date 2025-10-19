@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T21:35:49.381601",
-  "actualizado_vzla": "2025-10-19 17:35:49 -04",
+  "timestamp_utc": "2025-10-19T21:49:10.644738",
+  "actualizado_vzla": "2025-10-19 17:49:10 -04",
   "compra_segundo": {
     "price": 302.9,
     "name": "PagoInstantaneoP2P"
   },
   "venta_maxima": {
-    "price": 301.509,
-    "name": "SPYG"
+    "price": 302.0,
+    "name": "exchangesamam22"
   },
-  "promedio": 302.2,
+  "promedio": 302.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
