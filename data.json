@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T17:37:27.906865",
-  "actualizado_vzla": "2025-10-19 13:37:27 -04",
+  "timestamp_utc": "2025-10-19T17:50:31.666885",
+  "actualizado_vzla": "2025-10-19 13:50:31 -04",
   "compra_segundo": {
-    "price": 303.799,
-    "name": "kikediaz02"
+    "price": 303.89,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 302.5,
+    "price": 303.0,
     "name": "Child-CambioFacil"
   },
-  "promedio": 303.15,
+  "promedio": 303.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
