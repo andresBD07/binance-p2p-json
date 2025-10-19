@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T22:44:57.293960",
-  "actualizado_vzla": "2025-10-19 18:44:57 -04",
+  "timestamp_utc": "2025-10-19T22:58:22.530964",
+  "actualizado_vzla": "2025-10-19 18:58:22 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "GokuExchange"
+    "price": 302.97,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
     "price": 302.0,
     "name": "Child-CambioFacil"
   },
-  "promedio": 302.5,
+  "promedio": 302.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
