@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T15:54:58.749518",
-  "actualizado_vzla": "2025-10-19 11:54:58 -04",
+  "timestamp_utc": "2025-10-19T16:27:15.871660",
+  "actualizado_vzla": "2025-10-19 12:27:15 -04",
   "compra_segundo": {
-    "price": 302.85,
-    "name": "Jearrioja"
+    "price": 303.5,
+    "name": "Martony_23"
   },
   "venta_maxima": {
-    "price": 302.001,
+    "price": 302.5,
     "name": "JoseParedez"
   },
-  "promedio": 302.43,
+  "promedio": 303.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
