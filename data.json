@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T18:18:31.907983",
-  "actualizado_vzla": "2025-10-19 14:18:31 -04",
+  "timestamp_utc": "2025-10-19T18:41:38.626365",
+  "actualizado_vzla": "2025-10-19 14:41:38 -04",
   "compra_segundo": {
-    "price": 303.89,
-    "name": "-JOGASA-"
+    "price": 303.489,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
-    "price": 303.0,
-    "name": "Child-CambioFacil"
+    "price": 301.91,
+    "name": "hectoraltrader"
   },
-  "promedio": 303.44,
+  "promedio": 302.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
