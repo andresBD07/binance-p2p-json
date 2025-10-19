@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T07:54:08.255992",
-  "actualizado_vzla": "2025-10-19 03:54:08 -04",
+  "timestamp_utc": "2025-10-19T08:25:35.208322",
+  "actualizado_vzla": "2025-10-19 04:25:35 -04",
   "compra_segundo": {
-    "price": 302.5,
-    "name": "HidrotornosCA"
+    "price": 302.0,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.75,
+  "promedio": 299.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
