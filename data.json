@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T03:21:16.460455",
-  "actualizado_vzla": "2025-10-18 23:21:16 -04",
+  "timestamp_utc": "2025-10-19T03:56:09.542544",
+  "actualizado_vzla": "2025-10-18 23:56:09 -04",
   "compra_segundo": {
-    "price": 300.37,
-    "name": "TU CAMBIO"
+    "price": 300.8,
+    "name": "Exotico"
   },
   "venta_maxima": {
-    "price": 298.7,
-    "name": "Child-CambioFacil"
+    "price": 300.0,
+    "name": "Godisgift"
   },
-  "promedio": 299.53,
+  "promedio": 300.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
