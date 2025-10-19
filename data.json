@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T09:50:57.493006",
-  "actualizado_vzla": "2025-10-19 05:50:57 -04",
+  "timestamp_utc": "2025-10-19T10:14:27.636998",
+  "actualizado_vzla": "2025-10-19 06:14:27 -04",
   "compra_segundo": {
-    "price": 301.8,
-    "name": "tuagenciadeconfianza"
+    "price": 301.5,
+    "name": "Rous_Only"
   },
   "venta_maxima": {
     "price": 297.0,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.4,
+  "promedio": 299.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
