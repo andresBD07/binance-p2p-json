@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T13:28:05.831676",
-  "actualizado_vzla": "2025-10-19 09:28:05 -04",
+  "timestamp_utc": "2025-10-19T13:41:40.123807",
+  "actualizado_vzla": "2025-10-19 09:41:40 -04",
   "compra_segundo": {
-    "price": 300.6,
-    "name": "Criptotrading"
+    "price": 300.59,
+    "name": "MisterfastP2P"
   },
   "venta_maxima": {
     "price": 298.3,
     "name": "RONIN_COIN"
   },
-  "promedio": 299.45,
+  "promedio": 299.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
