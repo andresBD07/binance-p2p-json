@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T15:15:12.449810",
-  "actualizado_vzla": "2025-10-20 11:15:12 -04",
+  "timestamp_utc": "2025-10-20T15:35:20.813978",
+  "actualizado_vzla": "2025-10-20 11:35:20 -04",
   "compra_segundo": {
-    "price": 304.29,
-    "name": "CambiosJR2"
+    "price": 305.0,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 303.51,
-    "name": "TuPagoRapido"
+    "price": 304.01,
+    "name": "MARACAIBOBTC"
   },
-  "promedio": 303.9,
+  "promedio": 304.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
