@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T23:43:55.232684",
-  "actualizado_vzla": "2025-10-20 19:43:55 -04",
+  "timestamp_utc": "2025-10-20T23:56:33.909374",
+  "actualizado_vzla": "2025-10-20 19:56:33 -04",
   "compra_segundo": {
-    "price": 303.5,
-    "name": "Servic2009"
+    "price": 303.951,
+    "name": "Elion-Trading"
   },
   "venta_maxima": {
-    "price": 302.007,
-    "name": "lobocoin"
+    "price": 301.2,
+    "name": "jewishdiamond"
   },
-  "promedio": 302.75,
+  "promedio": 302.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
