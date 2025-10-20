@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T22:53:03.382205",
-  "actualizado_vzla": "2025-10-20 18:53:03 -04",
+  "timestamp_utc": "2025-10-20T23:17:32.903313",
+  "actualizado_vzla": "2025-10-20 19:17:32 -04",
   "compra_segundo": {
-    "price": 304.899,
-    "name": "nuvis171905"
+    "price": 303.0,
+    "name": "CRIPTOEXPRESS"
   },
   "venta_maxima": {
-    "price": 304.0,
-    "name": "KillKeroy"
+    "price": 302.5,
+    "name": "F_A_I_R"
   },
-  "promedio": 304.45,
+  "promedio": 302.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
