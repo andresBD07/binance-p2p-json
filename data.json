@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T16:12:50.516909",
-  "actualizado_vzla": "2025-10-20 12:12:50 -04",
+  "timestamp_utc": "2025-10-20T16:41:59.032231",
+  "actualizado_vzla": "2025-10-20 12:41:59 -04",
   "compra_segundo": {
-    "price": 306.259,
-    "name": "epiracFJ"
+    "price": 307.0,
+    "name": "Sariiwow"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "Godisgift"
+    "price": 306.2,
+    "name": "LuxuryExchanges"
   },
-  "promedio": 305.63,
+  "promedio": 306.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
