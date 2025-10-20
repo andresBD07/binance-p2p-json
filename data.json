@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T10:48:25.757974",
-  "actualizado_vzla": "2025-10-20 06:48:25 -04",
+  "timestamp_utc": "2025-10-20T11:08:39.898246",
+  "actualizado_vzla": "2025-10-20 07:08:39 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "Servic2009"
+    "price": 305.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
     "price": 301.909,
     "name": "SPYG"
   },
-  "promedio": 303.95,
+  "promedio": 303.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
