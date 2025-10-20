@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T11:08:39.898246",
-  "actualizado_vzla": "2025-10-20 07:08:39 -04",
+  "timestamp_utc": "2025-10-20T11:28:02.020435",
+  "actualizado_vzla": "2025-10-20 07:28:02 -04",
   "compra_segundo": {
-    "price": 305.0,
-    "name": "Daikokuten-Finance"
+    "price": 304.45,
+    "name": "CriiptoEnergy"
   },
   "venta_maxima": {
     "price": 301.909,
     "name": "SPYG"
   },
-  "promedio": 303.45,
+  "promedio": 303.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
