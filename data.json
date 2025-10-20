@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T08:34:54.224706",
-  "actualizado_vzla": "2025-10-20 04:34:54 -04",
+  "timestamp_utc": "2025-10-20T08:53:11.671204",
+  "actualizado_vzla": "2025-10-20 04:53:11 -04",
   "compra_segundo": {
-    "price": 309.0,
-    "name": "ARKADB"
+    "price": 307.7,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
     "price": 301.0,
     "name": "DNG168CAMBIO"
   },
-  "promedio": 305.0,
+  "promedio": 304.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
