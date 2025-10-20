@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T04:47:07.401000",
-  "actualizado_vzla": "2025-10-20 00:47:07 -04",
+  "timestamp_utc": "2025-10-20T05:00:00.030975",
+  "actualizado_vzla": "2025-10-20 01:00:00 -04",
   "compra_segundo": {
-    "price": 306.49,
-    "name": "Saher7"
+    "price": 306.78,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 301.8,
-    "name": "Coinectado"
+    "price": 301.0,
+    "name": "DNG168CAMBIO"
   },
-  "promedio": 304.14,
+  "promedio": 303.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
