@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T23:17:32.903313",
-  "actualizado_vzla": "2025-10-20 19:17:32 -04",
+  "timestamp_utc": "2025-10-20T23:30:53.839035",
+  "actualizado_vzla": "2025-10-20 19:30:53 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "CRIPTOEXPRESS"
+    "price": 303.4,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 302.5,
-    "name": "F_A_I_R"
+    "price": 299.6,
+    "name": "Swteet"
   },
-  "promedio": 302.75,
+  "promedio": 301.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
