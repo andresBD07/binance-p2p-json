@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T01:26:04.676998",
-  "actualizado_vzla": "2025-10-19 21:26:04 -04",
+  "timestamp_utc": "2025-10-20T03:05:28.910744",
+  "actualizado_vzla": "2025-10-19 23:05:28 -04",
   "compra_segundo": {
-    "price": 304.6,
-    "name": "Yossetmz"
+    "price": 305.0,
+    "name": "Marketplace66"
   },
   "venta_maxima": {
-    "price": 302.5,
-    "name": "RONIN_COIN"
+    "price": 301.8,
+    "name": "TuPagoRapido"
   },
-  "promedio": 303.55,
+  "promedio": 303.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
