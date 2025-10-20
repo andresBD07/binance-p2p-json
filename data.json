@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T19:34:25.457561",
-  "actualizado_vzla": "2025-10-20 15:34:25 -04",
+  "timestamp_utc": "2025-10-20T19:47:43.793017",
+  "actualizado_vzla": "2025-10-20 15:47:43 -04",
   "compra_segundo": {
-    "price": 308.09,
-    "name": "jerg788"
+    "price": 308.0,
+    "name": "MATTHCAPITAL"
   },
   "venta_maxima": {
     "price": 306.4,
     "name": "MikasaAckerman"
   },
-  "promedio": 307.25,
+  "promedio": 307.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
