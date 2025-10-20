@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T22:22:52.209371",
-  "actualizado_vzla": "2025-10-20 18:22:52 -04",
+  "timestamp_utc": "2025-10-20T22:39:46.812503",
+  "actualizado_vzla": "2025-10-20 18:39:46 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "Kartozpk"
+    "price": 305.399,
+    "name": "Yourcoins"
   },
   "venta_maxima": {
-    "price": 304.5,
-    "name": "LogisticExchange"
+    "price": 303.3,
+    "name": "F_A_I_R"
   },
-  "promedio": 305.25,
+  "promedio": 304.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
