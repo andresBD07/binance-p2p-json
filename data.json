@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-19T23:52:06.861370",
-  "actualizado_vzla": "2025-10-19 19:52:06 -04",
+  "timestamp_utc": "2025-10-20T01:26:04.676998",
+  "actualizado_vzla": "2025-10-19 21:26:04 -04",
   "compra_segundo": {
-    "price": 303.99,
-    "name": "seb4tiq4n carvajal"
+    "price": 304.6,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 302.001,
-    "name": "TOPlevelS"
+    "price": 302.5,
+    "name": "RONIN_COIN"
   },
-  "promedio": 303.0,
+  "promedio": 303.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
