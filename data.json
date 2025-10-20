@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T21:41:33.677000",
-  "actualizado_vzla": "2025-10-20 17:41:33 -04",
+  "timestamp_utc": "2025-10-20T21:55:00.342244",
+  "actualizado_vzla": "2025-10-20 17:55:00 -04",
   "compra_segundo": {
-    "price": 306.97,
-    "name": "TradingWolfe"
+    "price": 306.499,
+    "name": "DigitalesYaSpa"
   },
   "venta_maxima": {
-    "price": 307.0,
-    "name": "Godisgift"
+    "price": 305.6,
+    "name": "Swteet"
   },
-  "promedio": 306.99,
+  "promedio": 306.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
