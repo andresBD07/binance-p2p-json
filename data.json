@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T05:57:31.887971",
-  "actualizado_vzla": "2025-10-20 01:57:31 -04",
+  "timestamp_utc": "2025-10-20T06:40:18.349743",
+  "actualizado_vzla": "2025-10-20 02:40:18 -04",
   "compra_segundo": {
-    "price": 307.95,
-    "name": "TheMerchanTHM"
+    "price": 308.0,
+    "name": "Marketplace66"
   },
   "venta_maxima": {
     "price": 301.0,
     "name": "DNG168CAMBIO"
   },
-  "promedio": 304.48,
+  "promedio": 304.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
