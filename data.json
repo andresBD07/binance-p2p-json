@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T04:29:07.611019",
-  "actualizado_vzla": "2025-10-20 00:29:07 -04",
+  "timestamp_utc": "2025-10-20T04:47:07.401000",
+  "actualizado_vzla": "2025-10-20 00:47:07 -04",
   "compra_segundo": {
-    "price": 305.999,
-    "name": "White_Gab19"
+    "price": 306.49,
+    "name": "Saher7"
   },
   "venta_maxima": {
     "price": 301.8,
     "name": "Coinectado"
   },
-  "promedio": 303.9,
+  "promedio": 304.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
