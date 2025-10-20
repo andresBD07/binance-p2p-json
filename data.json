@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T07:27:49.937288",
-  "actualizado_vzla": "2025-10-20 03:27:49 -04",
+  "timestamp_utc": "2025-10-20T07:42:45.419673",
+  "actualizado_vzla": "2025-10-20 03:42:45 -04",
   "compra_segundo": {
-    "price": 309.9,
-    "name": "ComercioJRG"
+    "price": 309.3,
+    "name": "willbyruz"
   },
   "venta_maxima": {
     "price": 301.0,
     "name": "DNG168CAMBIO"
   },
-  "promedio": 305.45,
+  "promedio": 305.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
