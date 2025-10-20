@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T23:30:53.839035",
-  "actualizado_vzla": "2025-10-20 19:30:53 -04",
+  "timestamp_utc": "2025-10-20T23:43:55.232684",
+  "actualizado_vzla": "2025-10-20 19:43:55 -04",
   "compra_segundo": {
-    "price": 303.4,
-    "name": "LEOCASHFAST"
+    "price": 303.5,
+    "name": "Servic2009"
   },
   "venta_maxima": {
-    "price": 299.6,
-    "name": "Swteet"
+    "price": 302.007,
+    "name": "lobocoin"
   },
-  "promedio": 301.5,
+  "promedio": 302.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
