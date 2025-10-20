@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T17:41:17.587742",
-  "actualizado_vzla": "2025-10-20 13:41:17 -04",
+  "timestamp_utc": "2025-10-20T17:53:57.957314",
+  "actualizado_vzla": "2025-10-20 13:53:57 -04",
   "compra_segundo": {
-    "price": 308.25,
-    "name": "IsaBTC-"
+    "price": 308.0,
+    "name": "Manda2"
   },
   "venta_maxima": {
-    "price": 306.41,
-    "name": "Exotico"
+    "price": 306.7,
+    "name": "exchangesamam22"
   },
-  "promedio": 307.33,
+  "promedio": 307.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
