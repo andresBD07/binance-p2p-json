@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T15:35:20.813978",
-  "actualizado_vzla": "2025-10-20 11:35:20 -04",
+  "timestamp_utc": "2025-10-20T15:48:42.675780",
+  "actualizado_vzla": "2025-10-20 11:48:42 -04",
   "compra_segundo": {
-    "price": 305.0,
-    "name": "zama2004"
+    "price": 305.6,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 304.01,
-    "name": "MARACAIBOBTC"
+    "price": 304.401,
+    "name": "Servic-Karyguz"
   },
-  "promedio": 304.5,
+  "promedio": 305.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
