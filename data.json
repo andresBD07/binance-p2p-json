@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T20:38:28.292977",
-  "actualizado_vzla": "2025-10-21 16:38:28 -04",
+  "timestamp_utc": "2025-10-21T20:51:54.332249",
+  "actualizado_vzla": "2025-10-21 16:51:54 -04",
   "compra_segundo": {
-    "price": 305.1,
-    "name": "INGENERIA_D_CAMBIO"
+    "price": 305.677,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
-    "price": 303.1,
-    "name": "hectoraltrader"
+    "price": 303.61,
+    "name": "Orgs85"
   },
-  "promedio": 304.1,
+  "promedio": 304.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
