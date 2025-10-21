@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T12:37:35.815405",
-  "actualizado_vzla": "2025-10-21 08:37:35 -04",
+  "timestamp_utc": "2025-10-21T13:22:32.541504",
+  "actualizado_vzla": "2025-10-21 09:22:32 -04",
   "compra_segundo": {
-    "price": 305.14,
-    "name": "MMarket_CL"
+    "price": 305.793,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 303.156,
-    "name": "VR46-"
+    "price": 304.0,
+    "name": "0xSai"
   },
-  "promedio": 304.15,
+  "promedio": 304.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
