@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T09:57:38.994905",
-  "actualizado_vzla": "2025-10-21 05:57:39 -04",
+  "timestamp_utc": "2025-10-21T10:30:49.228466",
+  "actualizado_vzla": "2025-10-21 06:30:49 -04",
   "compra_segundo": {
-    "price": 307.444,
-    "name": "JESUS-CRIPTOS"
+    "price": 306.99,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 302.01,
-    "name": "TATUNI"
+    "price": 302.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 304.73,
+  "promedio": 304.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
