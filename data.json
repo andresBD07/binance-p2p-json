@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T20:14:38.163251",
-  "actualizado_vzla": "2025-10-21 16:14:38 -04",
+  "timestamp_utc": "2025-10-21T20:38:28.292977",
+  "actualizado_vzla": "2025-10-21 16:38:28 -04",
   "compra_segundo": {
-    "price": 305.17,
-    "name": "Traderp2pVzla"
+    "price": 305.1,
+    "name": "INGENERIA_D_CAMBIO"
   },
   "venta_maxima": {
-    "price": 304.5,
-    "name": "Tradingfriend"
+    "price": 303.1,
+    "name": "hectoraltrader"
   },
-  "promedio": 304.84,
+  "promedio": 304.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
