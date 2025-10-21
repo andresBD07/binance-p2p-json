@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T21:31:24.321566",
-  "actualizado_vzla": "2025-10-21 17:31:24 -04",
+  "timestamp_utc": "2025-10-21T21:44:08.366134",
+  "actualizado_vzla": "2025-10-21 17:44:08 -04",
   "compra_segundo": {
-    "price": 305.868,
-    "name": "majog"
+    "price": 306.0,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 303.91,
-    "name": "Emmanuelli"
+    "price": 304.5,
+    "name": "Lacsen"
   },
-  "promedio": 304.89,
+  "promedio": 305.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
