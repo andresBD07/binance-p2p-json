@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T11:51:55.034024",
-  "actualizado_vzla": "2025-10-21 07:51:55 -04",
+  "timestamp_utc": "2025-10-21T12:37:35.815405",
+  "actualizado_vzla": "2025-10-21 08:37:35 -04",
   "compra_segundo": {
-    "price": 305.19,
-    "name": "DxvidExchange"
+    "price": 305.14,
+    "name": "MMarket_CL"
   },
   "venta_maxima": {
-    "price": 303.01,
+    "price": 303.156,
     "name": "VR46-"
   },
-  "promedio": 304.1,
+  "promedio": 304.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
