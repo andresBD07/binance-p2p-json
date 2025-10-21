@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T21:44:08.366134",
-  "actualizado_vzla": "2025-10-21 17:44:08 -04",
+  "timestamp_utc": "2025-10-21T21:57:10.654310",
+  "actualizado_vzla": "2025-10-21 17:57:10 -04",
   "compra_segundo": {
     "price": 306.0,
     "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 304.5,
-    "name": "Lacsen"
+    "price": 304.3,
+    "name": "ALASKA-"
   },
-  "promedio": 305.25,
+  "promedio": 305.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
