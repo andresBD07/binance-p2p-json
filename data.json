@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T17:24:41.048806",
-  "actualizado_vzla": "2025-10-21 13:24:41 -04",
+  "timestamp_utc": "2025-10-21T17:42:17.769958",
+  "actualizado_vzla": "2025-10-21 13:42:17 -04",
   "compra_segundo": {
-    "price": 304.999,
-    "name": "MAOB"
+    "price": 304.599,
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 303.65,
-    "name": "TuPagoRapido"
+    "price": 304.0,
+    "name": "JoseParedez"
   },
-  "promedio": 304.32,
+  "promedio": 304.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
