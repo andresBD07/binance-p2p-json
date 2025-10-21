@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T10:30:49.228466",
-  "actualizado_vzla": "2025-10-21 06:30:49 -04",
+  "timestamp_utc": "2025-10-21T10:48:10.331076",
+  "actualizado_vzla": "2025-10-21 06:48:10 -04",
   "compra_segundo": {
-    "price": 306.99,
-    "name": "CAMBIOS-SERVICIOS-ED"
+    "price": 306.9,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
-    "price": 302.0,
-    "name": "Child-CambioFacil"
+    "price": 302.315,
+    "name": "Invcaf"
   },
-  "promedio": 304.5,
+  "promedio": 304.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
