@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T22:52:40.928571",
-  "actualizado_vzla": "2025-10-21 18:52:40 -04",
+  "timestamp_utc": "2025-10-21T23:18:25.921629",
+  "actualizado_vzla": "2025-10-21 19:18:25 -04",
   "compra_segundo": {
-    "price": 306.3,
-    "name": "andrsn"
+    "price": 306.49,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
-    "price": 304.55,
-    "name": "Expecto_Patronum"
+    "price": 304.7,
+    "name": "TOPlevelS"
   },
-  "promedio": 305.43,
+  "promedio": 305.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
