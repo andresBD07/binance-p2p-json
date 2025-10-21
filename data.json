@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-20T23:56:33.909374",
-  "actualizado_vzla": "2025-10-20 19:56:33 -04",
+  "timestamp_utc": "2025-10-21T02:01:53.024006",
+  "actualizado_vzla": "2025-10-20 22:01:53 -04",
   "compra_segundo": {
-    "price": 303.951,
-    "name": "Elion-Trading"
+    "price": 305.1,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 301.2,
-    "name": "jewishdiamond"
+    "price": 303.1,
+    "name": "VR46-"
   },
-  "promedio": 302.58,
+  "promedio": 304.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
