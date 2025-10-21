@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T16:19:06.399460",
-  "actualizado_vzla": "2025-10-21 12:19:06 -04",
+  "timestamp_utc": "2025-10-21T16:43:06.129611",
+  "actualizado_vzla": "2025-10-21 12:43:06 -04",
   "compra_segundo": {
-    "price": 305.28,
-    "name": "TuCambioPreferido"
+    "price": 305.18,
+    "name": "cambiosvz19"
   },
   "venta_maxima": {
-    "price": 304.3,
-    "name": "JoseParedez"
+    "price": 304.109,
+    "name": "SPYG"
   },
-  "promedio": 304.79,
+  "promedio": 304.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
