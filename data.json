@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-21T05:10:09.886795",
-  "actualizado_vzla": "2025-10-21 01:10:09 -04",
+  "timestamp_utc": "2025-10-21T05:33:29.845833",
+  "actualizado_vzla": "2025-10-21 01:33:29 -04",
   "compra_segundo": {
-    "price": 307.99,
-    "name": "CH-Intercambios"
+    "price": 308.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
     "price": 302.0,
