@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T19:20:45.755852",
-  "actualizado_vzla": "2025-10-21 15:20:45 -04",
+  "timestamp_utc": "2025-10-21T19:36:16.199875",
+  "actualizado_vzla": "2025-10-21 15:36:16 -04",
   "compra_segundo": {
     "price": 305.0,
-    "name": "CUATROSIETE"
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 303.73,
-    "name": "VR46-"
+    "price": 303.5,
+    "name": "Gustavo129"
   },
-  "promedio": 304.37,
+  "promedio": 304.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
