@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T15:36:37.638587",
-  "actualizado_vzla": "2025-10-21 11:36:37 -04",
+  "timestamp_utc": "2025-10-21T15:50:38.786384",
+  "actualizado_vzla": "2025-10-21 11:50:38 -04",
   "compra_segundo": {
-    "price": 305.485,
-    "name": "mfernandom1"
+    "price": 305.399,
+    "name": "RM-CAMBIOS"
   },
   "venta_maxima": {
-    "price": 304.3,
-    "name": "JoseParedez"
+    "price": 304.0,
+    "name": "lamentemaestra"
   },
-  "promedio": 304.89,
+  "promedio": 304.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
