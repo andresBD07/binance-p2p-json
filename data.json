@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T23:18:25.921629",
-  "actualizado_vzla": "2025-10-21 19:18:25 -04",
+  "timestamp_utc": "2025-10-21T23:33:19.898803",
+  "actualizado_vzla": "2025-10-21 19:33:19 -04",
   "compra_segundo": {
-    "price": 306.49,
-    "name": "AdriV-P2P"
+    "price": 306.5,
+    "name": "DLR06"
   },
   "venta_maxima": {
-    "price": 304.7,
+    "price": 304.81,
     "name": "TOPlevelS"
   },
-  "promedio": 305.6,
+  "promedio": 305.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
