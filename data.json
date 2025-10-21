@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T16:43:06.129611",
-  "actualizado_vzla": "2025-10-21 12:43:06 -04",
+  "timestamp_utc": "2025-10-21T16:57:31.268043",
+  "actualizado_vzla": "2025-10-21 12:57:31 -04",
   "compra_segundo": {
-    "price": 305.18,
-    "name": "cambiosvz19"
+    "price": 305.2,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 304.109,
-    "name": "SPYG"
+    "price": 304.0,
+    "name": "0xSai"
   },
-  "promedio": 304.64,
+  "promedio": 304.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
