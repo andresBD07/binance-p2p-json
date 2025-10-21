@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T20:51:54.332249",
-  "actualizado_vzla": "2025-10-21 16:51:54 -04",
+  "timestamp_utc": "2025-10-21T21:16:11.725189",
+  "actualizado_vzla": "2025-10-21 17:16:11 -04",
   "compra_segundo": {
-    "price": 305.677,
-    "name": "ledezmagm"
+    "price": 305.9,
+    "name": "AvExchange"
   },
   "venta_maxima": {
-    "price": 303.61,
-    "name": "Orgs85"
+    "price": 304.0,
+    "name": "cambioson"
   },
-  "promedio": 304.64,
+  "promedio": 304.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
