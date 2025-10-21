@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T21:57:10.654310",
-  "actualizado_vzla": "2025-10-21 17:57:10 -04",
+  "timestamp_utc": "2025-10-21T22:23:19.493140",
+  "actualizado_vzla": "2025-10-21 18:23:19 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "xJamgM"
+    "price": 306.3,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 304.3,
-    "name": "ALASKA-"
+    "price": 304.5,
+    "name": "cambioson"
   },
-  "promedio": 305.15,
+  "promedio": 305.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
