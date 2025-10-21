@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T03:46:27.629338",
-  "actualizado_vzla": "2025-10-20 23:46:27 -04",
+  "timestamp_utc": "2025-10-21T03:59:10.208437",
+  "actualizado_vzla": "2025-10-20 23:59:10 -04",
   "compra_segundo": {
-    "price": 306.5,
-    "name": "Exotico"
+    "price": 306.8,
+    "name": "WebMoneyExchanger"
   },
   "venta_maxima": {
     "price": 302.5,
     "name": "talepagos"
   },
-  "promedio": 304.5,
+  "promedio": 304.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
