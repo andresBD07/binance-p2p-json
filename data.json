@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T14:13:41.961813",
-  "actualizado_vzla": "2025-10-21 10:13:41 -04",
+  "timestamp_utc": "2025-10-21T14:35:24.782776",
+  "actualizado_vzla": "2025-10-21 10:35:24 -04",
   "compra_segundo": {
-    "price": 305.78,
-    "name": "Jin-Woo-Sung"
+    "price": 305.5,
+    "name": "Millicripto"
   },
   "venta_maxima": {
-    "price": 308.5,
-    "name": "Buzzlightyearzz"
+    "price": 305.0,
+    "name": "JoseParedez"
   },
-  "promedio": 307.14,
+  "promedio": 305.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
