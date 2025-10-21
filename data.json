@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T17:42:17.769958",
-  "actualizado_vzla": "2025-10-21 13:42:17 -04",
+  "timestamp_utc": "2025-10-21T17:55:26.725998",
+  "actualizado_vzla": "2025-10-21 13:55:26 -04",
   "compra_segundo": {
-    "price": 304.599,
-    "name": "水猴"
+    "price": 304.7,
+    "name": "casacambiosRodriguez"
   },
   "venta_maxima": {
     "price": 304.0,
     "name": "JoseParedez"
   },
-  "promedio": 304.3,
+  "promedio": 304.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
