@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T14:51:15.280493",
-  "actualizado_vzla": "2025-10-21 10:51:15 -04",
+  "timestamp_utc": "2025-10-21T15:16:35.101166",
+  "actualizado_vzla": "2025-10-21 11:16:35 -04",
   "compra_segundo": {
-    "price": 305.9,
-    "name": "Cripto_bananero"
+    "price": 305.79,
+    "name": "Job2025"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "JoseParedez"
   },
-  "promedio": 305.45,
+  "promedio": 305.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
