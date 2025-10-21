@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T17:55:26.725998",
-  "actualizado_vzla": "2025-10-21 13:55:26 -04",
+  "timestamp_utc": "2025-10-21T18:36:48.794485",
+  "actualizado_vzla": "2025-10-21 14:36:48 -04",
   "compra_segundo": {
-    "price": 304.7,
-    "name": "casacambiosRodriguez"
+    "price": 304.9,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
     "price": 304.0,
     "name": "JoseParedez"
   },
-  "promedio": 304.35,
+  "promedio": 304.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
