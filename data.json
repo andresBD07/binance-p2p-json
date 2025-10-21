@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T19:49:39.381079",
-  "actualizado_vzla": "2025-10-21 15:49:39 -04",
+  "timestamp_utc": "2025-10-21T20:14:38.163251",
+  "actualizado_vzla": "2025-10-21 16:14:38 -04",
   "compra_segundo": {
-    "price": 305.1,
-    "name": "BearExchangeP2P"
+    "price": 305.17,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 303.522,
-    "name": "lobocoin"
+    "price": 304.5,
+    "name": "Tradingfriend"
   },
-  "promedio": 304.31,
+  "promedio": 304.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
