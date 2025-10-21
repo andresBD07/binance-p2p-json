@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T18:55:05.297739",
-  "actualizado_vzla": "2025-10-21 14:55:05 -04",
+  "timestamp_utc": "2025-10-21T19:20:45.755852",
+  "actualizado_vzla": "2025-10-21 15:20:45 -04",
   "compra_segundo": {
-    "price": 304.999,
-    "name": "Perfect_Process"
+    "price": 305.0,
+    "name": "CUATROSIETE"
   },
   "venta_maxima": {
-    "price": 304.1,
-    "name": "WORL1EXCHANGE"
+    "price": 303.73,
+    "name": "VR46-"
   },
-  "promedio": 304.55,
+  "promedio": 304.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
