@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T14:02:00.150670",
-  "actualizado_vzla": "2025-10-22 10:02:00 -04",
+  "timestamp_utc": "2025-10-22T14:34:52.003039",
+  "actualizado_vzla": "2025-10-22 10:34:52 -04",
   "compra_segundo": {
-    "price": 307.0,
-    "name": "andrsn"
+    "price": 307.289,
+    "name": "Christiancinho"
   },
   "venta_maxima": {
-    "price": 306.5,
-    "name": "hectoraltrader"
+    "price": 306.011,
+    "name": "DULCANEL1"
   },
-  "promedio": 306.75,
+  "promedio": 306.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
