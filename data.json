@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T09:31:35.814686",
-  "actualizado_vzla": "2025-10-22 05:31:35 -04",
+  "timestamp_utc": "2025-10-22T09:48:13.986942",
+  "actualizado_vzla": "2025-10-22 05:48:13 -04",
   "compra_segundo": {
-    "price": 309.2,
-    "name": "PrimeCripto"
+    "price": 309.099,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "Godisgift"
   },
-  "promedio": 307.6,
+  "promedio": 307.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
