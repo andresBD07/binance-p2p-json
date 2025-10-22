@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T08:37:37.587789",
-  "actualizado_vzla": "2025-10-22 04:37:37 -04",
+  "timestamp_utc": "2025-10-22T08:57:23.027989",
+  "actualizado_vzla": "2025-10-22 04:57:23 -04",
   "compra_segundo": {
-    "price": 309.49,
-    "name": "KRIPTOREY"
+    "price": 309.48,
+    "name": "CAMBIOs_PrO"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "Godisgift"
   },
-  "promedio": 307.75,
+  "promedio": 307.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
