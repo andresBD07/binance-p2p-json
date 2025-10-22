@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T19:15:00.823017",
-  "actualizado_vzla": "2025-10-22 15:15:00 -04",
+  "timestamp_utc": "2025-10-22T19:28:28.250812",
+  "actualizado_vzla": "2025-10-22 15:28:28 -04",
   "compra_segundo": {
-    "price": 305.999,
-    "name": "LRchanges"
+    "price": 306.0,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 305.2,
-    "name": "TheOchoa"
+    "price": 305.0,
+    "name": "CAMBIOS_ABG_WILMER_G"
   },
-  "promedio": 305.6,
+  "promedio": 305.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
