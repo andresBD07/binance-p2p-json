@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-21T23:59:14.313278",
-  "actualizado_vzla": "2025-10-21 19:59:14 -04",
+  "timestamp_utc": "2025-10-22T02:06:09.794846",
+  "actualizado_vzla": "2025-10-21 22:06:09 -04",
   "compra_segundo": {
-    "price": 306.428,
-    "name": "Latinlf"
+    "price": 308.25,
+    "name": "Wdmirandas"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "TheOchoa"
+    "price": 305.8,
+    "name": "exchangesamam22"
   },
-  "promedio": 305.71,
+  "promedio": 307.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
