@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T19:28:28.250812",
-  "actualizado_vzla": "2025-10-22 15:28:28 -04",
+  "timestamp_utc": "2025-10-22T19:42:11.912251",
+  "actualizado_vzla": "2025-10-22 15:42:11 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "MikasaExchange"
+    "price": 306.1,
+    "name": "Vane_CARDONAGROUP"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "CAMBIOS_ABG_WILMER_G"
+    "price": 305.5,
+    "name": "cambioson"
   },
-  "promedio": 305.5,
+  "promedio": 305.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
