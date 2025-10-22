@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T17:52:13.586093",
-  "actualizado_vzla": "2025-10-22 13:52:13 -04",
+  "timestamp_utc": "2025-10-22T18:27:57.837620",
+  "actualizado_vzla": "2025-10-22 14:27:57 -04",
   "compra_segundo": {
     "price": 306.0,
-    "name": "ElCandidoP2P"
+    "name": "Capital_Cambios"
   },
   "venta_maxima": {
-    "price": 304.801,
-    "name": "DULCANEL1"
+    "price": 305.6,
+    "name": "Vanecastll"
   },
-  "promedio": 305.4,
+  "promedio": 305.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
