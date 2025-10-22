@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T05:27:36.940028",
-  "actualizado_vzla": "2025-10-22 01:27:36 -04",
+  "timestamp_utc": "2025-10-22T05:45:09.740171",
+  "actualizado_vzla": "2025-10-22 01:45:09 -04",
   "compra_segundo": {
-    "price": 309.5,
-    "name": "Elion-Trading"
+    "price": 309.7,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "Godisgift"
   },
-  "promedio": 307.25,
+  "promedio": 307.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
