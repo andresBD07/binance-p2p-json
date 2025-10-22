@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T15:24:05.894226",
-  "actualizado_vzla": "2025-10-22 11:24:05 -04",
+  "timestamp_utc": "2025-10-22T15:42:08.201492",
+  "actualizado_vzla": "2025-10-22 11:42:08 -04",
   "compra_segundo": {
-    "price": 307.1,
-    "name": "RENBA-EXCHANGE"
+    "price": 306.99,
+    "name": "RemesasMaracaibo"
   },
   "venta_maxima": {
-    "price": 306.75,
-    "name": "KillKeroy"
+    "price": 306.002,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 306.93,
+  "promedio": 306.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
