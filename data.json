@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T20:43:53.656949",
-  "actualizado_vzla": "2025-10-22 16:43:53 -04",
+  "timestamp_utc": "2025-10-22T20:57:20.590307",
+  "actualizado_vzla": "2025-10-22 16:57:20 -04",
   "compra_segundo": {
-    "price": 306.24,
-    "name": "EduardoApg"
+    "price": 306.29,
+    "name": "Safe-tradeV"
   },
   "venta_maxima": {
-    "price": 304.8,
+    "price": 305.3,
     "name": "Swteet"
   },
-  "promedio": 305.52,
+  "promedio": 305.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
