@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T21:20:39.861894",
-  "actualizado_vzla": "2025-10-22 17:20:39 -04",
+  "timestamp_utc": "2025-10-22T21:35:14.312534",
+  "actualizado_vzla": "2025-10-22 17:35:14 -04",
   "compra_segundo": {
-    "price": 306.4,
-    "name": "succubus"
+    "price": 306.61,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 305.38,
-    "name": "大TaiLung龙"
+    "price": 305.37,
+    "name": "SCGR--"
   },
-  "promedio": 305.89,
+  "promedio": 305.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
