@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-22T23:29:40.851428",
-  "actualizado_vzla": "2025-10-22 19:29:40 -04",
+  "timestamp_utc": "2025-10-22T23:42:28.585371",
+  "actualizado_vzla": "2025-10-22 19:42:28 -04",
   "compra_segundo": {
-    "price": 307.19,
-    "name": "MikasaAckerman"
+    "price": 307.199,
+    "name": "TejoTrader"
   },
   "venta_maxima": {
     "price": 306.0,
