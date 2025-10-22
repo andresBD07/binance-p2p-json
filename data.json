@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T22:38:29.030158",
-  "actualizado_vzla": "2025-10-22 18:38:29 -04",
+  "timestamp_utc": "2025-10-22T22:52:01.572612",
+  "actualizado_vzla": "2025-10-22 18:52:01 -04",
   "compra_segundo": {
-    "price": 307.4,
-    "name": "IBEROGESTION"
+    "price": 307.148,
+    "name": "rParadas"
   },
   "venta_maxima": {
     "price": 305.7,
     "name": "Lacsen"
   },
-  "promedio": 306.55,
+  "promedio": 306.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
