@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T03:18:25.169617",
-  "actualizado_vzla": "2025-10-21 23:18:25 -04",
+  "timestamp_utc": "2025-10-22T03:52:45.775975",
+  "actualizado_vzla": "2025-10-21 23:52:45 -04",
   "compra_segundo": {
-    "price": 308.94,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 309.0,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 307.0,
-    "name": "F_A_I_R"
+    "price": 305.305,
+    "name": "Marketplace66"
   },
-  "promedio": 307.97,
+  "promedio": 307.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
