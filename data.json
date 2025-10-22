@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T06:58:26.032643",
-  "actualizado_vzla": "2025-10-22 02:58:26 -04",
+  "timestamp_utc": "2025-10-22T07:27:19.779333",
+  "actualizado_vzla": "2025-10-22 03:27:19 -04",
   "compra_segundo": {
-    "price": 310.0,
-    "name": "MarcosWillexis"
+    "price": 309.99,
+    "name": "Saher7"
   },
   "venta_maxima": {
-    "price": 306.0,
-    "name": "Godisgift"
+    "price": 304.653,
+    "name": "CriptoEche"
   },
-  "promedio": 308.0,
+  "promedio": 307.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
