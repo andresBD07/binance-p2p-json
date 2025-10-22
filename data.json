@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T21:48:00.921215",
-  "actualizado_vzla": "2025-10-22 17:48:00 -04",
+  "timestamp_utc": "2025-10-22T22:01:14.683142",
+  "actualizado_vzla": "2025-10-22 18:01:14 -04",
   "compra_segundo": {
-    "price": 306.85,
-    "name": "INGENERIA_D_CAMBIO"
+    "price": 306.99,
+    "name": "rjdq01"
   },
   "venta_maxima": {
     "price": 305.3,
     "name": "Swteet"
   },
-  "promedio": 306.08,
+  "promedio": 306.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
