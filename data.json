@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T20:57:20.590307",
-  "actualizado_vzla": "2025-10-22 16:57:20 -04",
+  "timestamp_utc": "2025-10-22T21:20:39.861894",
+  "actualizado_vzla": "2025-10-22 17:20:39 -04",
   "compra_segundo": {
-    "price": 306.29,
-    "name": "Safe-tradeV"
+    "price": 306.4,
+    "name": "succubus"
   },
   "venta_maxima": {
-    "price": 305.3,
-    "name": "Swteet"
+    "price": 305.38,
+    "name": "大TaiLung龙"
   },
-  "promedio": 305.8,
+  "promedio": 305.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
