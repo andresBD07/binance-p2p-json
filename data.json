@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-22T21:35:14.312534",
-  "actualizado_vzla": "2025-10-22 17:35:14 -04",
+  "timestamp_utc": "2025-10-22T21:48:00.921215",
+  "actualizado_vzla": "2025-10-22 17:48:00 -04",
   "compra_segundo": {
-    "price": 306.61,
-    "name": "majog"
+    "price": 306.85,
+    "name": "INGENERIA_D_CAMBIO"
   },
   "venta_maxima": {
-    "price": 305.37,
-    "name": "SCGR--"
+    "price": 305.3,
+    "name": "Swteet"
   },
-  "promedio": 305.99,
+  "promedio": 306.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
