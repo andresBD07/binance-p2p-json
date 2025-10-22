@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-22T18:52:52.455926",
-  "actualizado_vzla": "2025-10-22 14:52:52 -04",
+  "timestamp_utc": "2025-10-22T19:15:00.823017",
+  "actualizado_vzla": "2025-10-22 15:15:00 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "TradewCrypto"
+    "price": 305.999,
+    "name": "LRchanges"
   },
   "venta_maxima": {
     "price": 305.2,
-    "name": "KillKeroy"
+    "name": "TheOchoa"
   },
   "promedio": 305.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
