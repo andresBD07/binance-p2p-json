@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T12:44:37.232181",
-  "actualizado_vzla": "2025-10-23 08:44:37 -04",
+  "timestamp_utc": "2025-10-23T13:23:14.221367",
+  "actualizado_vzla": "2025-10-23 09:23:14 -04",
   "compra_segundo": {
-    "price": 307.2,
-    "name": "NGM"
+    "price": 306.68,
+    "name": "MMarket_CL"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "Eliezerjph"
   },
-  "promedio": 306.1,
+  "promedio": 305.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
