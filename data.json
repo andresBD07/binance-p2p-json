@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T21:53:58.662235",
-  "actualizado_vzla": "2025-10-23 17:53:58 -04",
+  "timestamp_utc": "2025-10-23T22:19:54.735844",
+  "actualizado_vzla": "2025-10-23 18:19:54 -04",
   "compra_segundo": {
-    "price": 307.5,
-    "name": "TradewCrypto"
+    "price": 307.7,
+    "name": "Yolo_C"
   },
   "venta_maxima": {
-    "price": 307.0,
+    "price": 307.1,
     "name": "hectoraltrader"
   },
-  "promedio": 307.25,
+  "promedio": 307.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
