@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-23T15:55:20.430392",
-  "actualizado_vzla": "2025-10-23 11:55:20 -04",
+  "timestamp_utc": "2025-10-23T16:32:30.375400",
+  "actualizado_vzla": "2025-10-23 12:32:30 -04",
   "compra_segundo": {
-    "price": 306.884,
-    "name": "Latinlf"
+    "price": 307.0,
+    "name": "Buzzlightyearzz"
   },
   "venta_maxima": {
-    "price": 306.01,
-    "name": "TuPagoRapido"
+    "price": 305.9,
+    "name": "Solvenza"
   },
   "promedio": 306.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
