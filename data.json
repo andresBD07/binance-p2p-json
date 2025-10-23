@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T20:36:44.412845",
-  "actualizado_vzla": "2025-10-23 16:36:44 -04",
+  "timestamp_utc": "2025-10-23T20:50:05.250039",
+  "actualizado_vzla": "2025-10-23 16:50:05 -04",
   "compra_segundo": {
-    "price": 306.79,
-    "name": "IEvangelineI"
+    "price": 306.85,
+    "name": "JM-p2p"
   },
   "venta_maxima": {
-    "price": 306.0,
-    "name": "Twcl"
+    "price": 305.8,
+    "name": "OTCLEGEND"
   },
-  "promedio": 306.39,
+  "promedio": 306.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
