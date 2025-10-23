@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T20:16:29.719223",
-  "actualizado_vzla": "2025-10-23 16:16:29 -04",
+  "timestamp_utc": "2025-10-23T20:36:44.412845",
+  "actualizado_vzla": "2025-10-23 16:36:44 -04",
   "compra_segundo": {
-    "price": 306.75,
-    "name": "JLACOIN"
+    "price": 306.79,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
-    "price": 306.55,
-    "name": "ElHijo2407"
+    "price": 306.0,
+    "name": "Twcl"
   },
-  "promedio": 306.65,
+  "promedio": 306.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
