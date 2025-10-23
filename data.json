@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T20:50:05.250039",
-  "actualizado_vzla": "2025-10-23 16:50:05 -04",
+  "timestamp_utc": "2025-10-23T21:11:42.692519",
+  "actualizado_vzla": "2025-10-23 17:11:42 -04",
   "compra_segundo": {
-    "price": 306.85,
-    "name": "JM-p2p"
+    "price": 307.1,
+    "name": "Servic2009"
   },
   "venta_maxima": {
-    "price": 305.8,
+    "price": 305.98,
     "name": "OTCLEGEND"
   },
-  "promedio": 306.33,
+  "promedio": 306.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
