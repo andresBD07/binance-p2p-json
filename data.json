@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T18:15:29.273620",
-  "actualizado_vzla": "2025-10-23 14:15:29 -04",
+  "timestamp_utc": "2025-10-23T18:45:28.720682",
+  "actualizado_vzla": "2025-10-23 14:45:28 -04",
   "compra_segundo": {
-    "price": 306.4,
-    "name": "majog"
+    "price": 306.5,
+    "name": "Cambios_Deluxe"
   },
   "venta_maxima": {
-    "price": 305.3,
-    "name": "exchangesamam22"
+    "price": 305.5,
+    "name": "hectoraltrader"
   },
-  "promedio": 305.85,
+  "promedio": 306.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
