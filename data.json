@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T04:31:37.382064",
-  "actualizado_vzla": "2025-10-23 00:31:37 -04",
+  "timestamp_utc": "2025-10-23T04:47:33.290656",
+  "actualizado_vzla": "2025-10-23 00:47:33 -04",
   "compra_segundo": {
-    "price": 308.9,
-    "name": "Criptoseed"
+    "price": 308.99,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 304.45,
-    "name": "K_H2"
+    "price": 304.32,
+    "name": "angelchacon"
   },
-  "promedio": 306.67,
+  "promedio": 306.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
