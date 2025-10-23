@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T09:59:04.769325",
-  "actualizado_vzla": "2025-10-23 05:59:04 -04",
+  "timestamp_utc": "2025-10-23T10:32:27.565663",
+  "actualizado_vzla": "2025-10-23 06:32:27 -04",
   "compra_segundo": {
-    "price": 308.8,
-    "name": "PayBin07"
+    "price": 308.5,
+    "name": "T_A_U_R_O--pro--"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "Godisgift"
   },
-  "promedio": 307.4,
+  "promedio": 307.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
