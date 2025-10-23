@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T21:40:28.685357",
-  "actualizado_vzla": "2025-10-23 17:40:28 -04",
+  "timestamp_utc": "2025-10-23T21:53:58.662235",
+  "actualizado_vzla": "2025-10-23 17:53:58 -04",
   "compra_segundo": {
-    "price": 307.68,
-    "name": "ROMANCHO_"
+    "price": 307.5,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 306.5,
+    "price": 307.0,
     "name": "hectoraltrader"
   },
-  "promedio": 307.09,
+  "promedio": 307.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
