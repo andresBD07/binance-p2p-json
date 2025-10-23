@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T05:57:44.588589",
-  "actualizado_vzla": "2025-10-23 01:57:44 -04",
+  "timestamp_utc": "2025-10-23T06:39:40.031119",
+  "actualizado_vzla": "2025-10-23 02:39:40 -04",
   "compra_segundo": {
-    "price": 309.0,
-    "name": "WChurchill"
+    "price": 309.5,
+    "name": "chaker9"
   },
   "venta_maxima": {
     "price": 304.3,
     "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 306.65,
+  "promedio": 306.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
