@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T16:52:23.619193",
-  "actualizado_vzla": "2025-10-24 12:52:23 -04",
+  "timestamp_utc": "2025-10-24T17:16:20.225048",
+  "actualizado_vzla": "2025-10-24 13:16:20 -04",
   "compra_segundo": {
-    "price": 306.5,
-    "name": "REMESAS-INTER"
+    "price": 306.095,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 306.0,
-    "name": "citipay"
+    "price": 305.3,
+    "name": "JoseParedez"
   },
-  "promedio": 306.25,
+  "promedio": 305.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
