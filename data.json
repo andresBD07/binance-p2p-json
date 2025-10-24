@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T20:14:58.116017",
-  "actualizado_vzla": "2025-10-24 16:14:58 -04",
+  "timestamp_utc": "2025-10-24T20:36:55.876064",
+  "actualizado_vzla": "2025-10-24 16:36:55 -04",
   "compra_segundo": {
-    "price": 307.2,
-    "name": "LaDulzuraMia"
+    "price": 307.16,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 306.1,
+    "price": 306.101,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 306.65,
+  "promedio": 306.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
