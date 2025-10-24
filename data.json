@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T21:43:12.602316",
-  "actualizado_vzla": "2025-10-24 17:43:12 -04",
+  "timestamp_utc": "2025-10-24T21:56:26.656765",
+  "actualizado_vzla": "2025-10-24 17:56:26 -04",
   "compra_segundo": {
-    "price": 306.9,
-    "name": "MUNDOGENIAL"
+    "price": 306.87,
+    "name": "Exchanger_Global"
   },
   "venta_maxima": {
     "price": 306.1,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 306.5,
+  "promedio": 306.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
