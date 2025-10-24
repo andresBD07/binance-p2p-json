@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T18:14:44.737221",
-  "actualizado_vzla": "2025-10-24 14:14:44 -04",
+  "timestamp_utc": "2025-10-24T18:43:15.217440",
+  "actualizado_vzla": "2025-10-24 14:43:15 -04",
   "compra_segundo": {
-    "price": 306.595,
-    "name": "Traderp2pVzla"
+    "price": 306.8,
+    "name": "Cripto_04"
   },
   "venta_maxima": {
-    "price": 305.7,
-    "name": "TuPagoRapido"
+    "price": 305.8,
+    "name": "N1Capital"
   },
-  "promedio": 306.15,
+  "promedio": 306.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
