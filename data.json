@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T22:56:40.140750",
-  "actualizado_vzla": "2025-10-24 18:56:40 -04",
+  "timestamp_utc": "2025-10-24T23:23:49.948551",
+  "actualizado_vzla": "2025-10-24 19:23:49 -04",
   "compra_segundo": {
-    "price": 307.0,
-    "name": "filipense_4_13"
+    "price": 306.9,
+    "name": "CAMBIOS JV"
   },
   "venta_maxima": {
-    "price": 306.0,
-    "name": "Godisgift"
+    "price": 306.2,
+    "name": "VR46-"
   },
-  "promedio": 306.5,
+  "promedio": 306.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
