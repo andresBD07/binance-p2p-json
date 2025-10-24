@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T15:25:35.349401",
-  "actualizado_vzla": "2025-10-24 11:25:35 -04",
+  "timestamp_utc": "2025-10-24T15:43:33.716694",
+  "actualizado_vzla": "2025-10-24 11:43:33 -04",
   "compra_segundo": {
-    "price": 307.37,
-    "name": "EdwardJMT"
+    "price": 307.33,
+    "name": "carmelog04"
   },
   "venta_maxima": {
-    "price": 306.1,
-    "name": "Si Me Pasas Te Paso"
+    "price": 306.5,
+    "name": "Megapagos"
   },
-  "promedio": 306.74,
+  "promedio": 306.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
