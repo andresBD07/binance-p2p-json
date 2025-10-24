@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-23T23:55:29.485831",
-  "actualizado_vzla": "2025-10-23 19:55:29 -04",
+  "timestamp_utc": "2025-10-24T01:53:30.813545",
+  "actualizado_vzla": "2025-10-23 21:53:30 -04",
   "compra_segundo": {
-    "price": 308.3,
-    "name": "CRIPTOEXPRESS"
+    "price": 308.88,
+    "name": "Gossip_r"
   },
   "venta_maxima": {
-    "price": 306.9,
-    "name": "P_A_C_A"
+    "price": 306.87,
+    "name": "CriptoVergara"
   },
-  "promedio": 307.6,
+  "promedio": 307.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
