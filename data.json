@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T10:49:27.102722",
-  "actualizado_vzla": "2025-10-24 06:49:27 -04",
+  "timestamp_utc": "2025-10-24T11:10:50.314805",
+  "actualizado_vzla": "2025-10-24 07:10:50 -04",
   "compra_segundo": {
-    "price": 308.599,
-    "name": "Richgato_Cambios"
+    "price": 308.43,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "P2P-Ricardo"
+    "price": 305.1,
+    "name": "USDTFASTTT"
   },
-  "promedio": 306.8,
+  "promedio": 306.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
