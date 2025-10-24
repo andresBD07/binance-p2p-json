@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T11:10:50.314805",
-  "actualizado_vzla": "2025-10-24 07:10:50 -04",
+  "timestamp_utc": "2025-10-24T11:29:40.822168",
+  "actualizado_vzla": "2025-10-24 07:29:40 -04",
   "compra_segundo": {
-    "price": 308.43,
-    "name": "Yossetmz"
+    "price": 308.3,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 305.1,
-    "name": "USDTFASTTT"
+    "price": 305.2,
+    "name": "Lacsen"
   },
-  "promedio": 306.76,
+  "promedio": 306.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
