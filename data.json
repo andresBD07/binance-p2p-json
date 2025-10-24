@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T21:56:26.656765",
-  "actualizado_vzla": "2025-10-24 17:56:26 -04",
+  "timestamp_utc": "2025-10-24T22:25:53.995387",
+  "actualizado_vzla": "2025-10-24 18:25:54 -04",
   "compra_segundo": {
-    "price": 306.87,
-    "name": "Exchanger_Global"
+    "price": 306.99,
+    "name": "SantiagoR19"
   },
   "venta_maxima": {
     "price": 306.1,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 306.49,
+  "promedio": 306.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
