@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T07:51:49.263968",
-  "actualizado_vzla": "2025-10-24 03:51:49 -04",
+  "timestamp_utc": "2025-10-24T08:23:19.782859",
+  "actualizado_vzla": "2025-10-24 04:23:19 -04",
   "compra_segundo": {
-    "price": 309.39,
-    "name": "彡TrustyTrader1A彡"
+    "price": 309.495,
+    "name": "Btctronics"
   },
   "venta_maxima": {
     "price": 306.2,
     "name": "edwardgoldchhh"
   },
-  "promedio": 307.79,
+  "promedio": 307.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
