@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T22:43:06.918066",
-  "actualizado_vzla": "2025-10-24 18:43:06 -04",
+  "timestamp_utc": "2025-10-24T22:56:40.140750",
+  "actualizado_vzla": "2025-10-24 18:56:40 -04",
   "compra_segundo": {
-    "price": 306.94,
-    "name": "SantiagoR19"
+    "price": 307.0,
+    "name": "filipense_4_13"
   },
   "venta_maxima": {
-    "price": 305.6,
-    "name": "hectoraltrader"
+    "price": 306.0,
+    "name": "Godisgift"
   },
-  "promedio": 306.27,
+  "promedio": 306.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
