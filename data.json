@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T10:33:12.369073",
-  "actualizado_vzla": "2025-10-24 06:33:12 -04",
+  "timestamp_utc": "2025-10-24T10:49:27.102722",
+  "actualizado_vzla": "2025-10-24 06:49:27 -04",
   "compra_segundo": {
-    "price": 308.789,
-    "name": "criptoAJ"
+    "price": 308.599,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 306.2,
-    "name": "edwardgoldchhh"
+    "price": 305.0,
+    "name": "P2P-Ricardo"
   },
-  "promedio": 307.49,
+  "promedio": 306.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
