@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T17:16:20.225048",
-  "actualizado_vzla": "2025-10-24 13:16:20 -04",
+  "timestamp_utc": "2025-10-24T17:35:27.836340",
+  "actualizado_vzla": "2025-10-24 13:35:27 -04",
   "compra_segundo": {
-    "price": 306.095,
-    "name": "LTCambiosRapido"
+    "price": 306.0,
+    "name": "LuzChanges"
   },
   "venta_maxima": {
-    "price": 305.3,
+    "price": 305.5,
     "name": "JoseParedez"
   },
-  "promedio": 305.7,
+  "promedio": 305.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
