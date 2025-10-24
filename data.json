@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T17:48:30.805302",
-  "actualizado_vzla": "2025-10-24 13:48:30 -04",
+  "timestamp_utc": "2025-10-24T18:14:44.737221",
+  "actualizado_vzla": "2025-10-24 14:14:44 -04",
   "compra_segundo": {
-    "price": 306.1,
-    "name": "JJM_TRADER"
+    "price": 306.595,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 305.51,
-    "name": "JoseParedez"
+    "price": 305.7,
+    "name": "TuPagoRapido"
   },
-  "promedio": 305.81,
+  "promedio": 306.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
