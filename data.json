@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T15:43:33.716694",
-  "actualizado_vzla": "2025-10-24 11:43:33 -04",
+  "timestamp_utc": "2025-10-24T15:56:17.511931",
+  "actualizado_vzla": "2025-10-24 11:56:17 -04",
   "compra_segundo": {
-    "price": 307.33,
-    "name": "carmelog04"
+    "price": 307.2,
+    "name": "traing_balto"
   },
   "venta_maxima": {
-    "price": 306.5,
-    "name": "Megapagos"
+    "price": 306.0,
+    "name": "citipay"
   },
-  "promedio": 306.91,
+  "promedio": 306.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
