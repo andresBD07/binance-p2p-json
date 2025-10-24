@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T19:21:39.297848",
-  "actualizado_vzla": "2025-10-24 15:21:39 -04",
+  "timestamp_utc": "2025-10-24T19:36:47.798308",
+  "actualizado_vzla": "2025-10-24 15:36:47 -04",
   "compra_segundo": {
-    "price": 306.68,
-    "name": "ISATradea"
+    "price": 306.75,
+    "name": "TuRemesaInt"
   },
   "venta_maxima": {
-    "price": 305.4,
-    "name": "P_A_C_A"
+    "price": 305.8,
+    "name": "Godisgift"
   },
-  "promedio": 306.04,
+  "promedio": 306.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
