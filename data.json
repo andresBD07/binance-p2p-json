@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T11:29:40.822168",
-  "actualizado_vzla": "2025-10-24 07:29:40 -04",
+  "timestamp_utc": "2025-10-24T11:43:22.896072",
+  "actualizado_vzla": "2025-10-24 07:43:22 -04",
   "compra_segundo": {
-    "price": 308.3,
-    "name": "Guayoyoo"
+    "price": 308.075,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
-    "price": 305.2,
-    "name": "Lacsen"
+    "price": 306.0,
+    "name": "WORL1EXCHANGE"
   },
-  "promedio": 306.75,
+  "promedio": 307.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
