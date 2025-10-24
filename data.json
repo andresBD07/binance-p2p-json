@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T20:50:43.123532",
-  "actualizado_vzla": "2025-10-24 16:50:43 -04",
+  "timestamp_utc": "2025-10-24T21:12:51.231749",
+  "actualizado_vzla": "2025-10-24 17:12:51 -04",
   "compra_segundo": {
-    "price": 307.14,
-    "name": "Exchanger_Global"
+    "price": 306.9,
+    "name": "DIGITAL_CAMBIOS_PD"
   },
   "venta_maxima": {
     "price": 306.101,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 306.62,
+  "promedio": 306.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
