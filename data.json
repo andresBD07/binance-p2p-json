@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T04:57:28.314811",
-  "actualizado_vzla": "2025-10-24 00:57:28 -04",
+  "timestamp_utc": "2025-10-24T05:27:15.818146",
+  "actualizado_vzla": "2025-10-24 01:27:15 -04",
   "compra_segundo": {
-    "price": 309.0,
-    "name": "Budyzz"
+    "price": 309.38,
+    "name": "ToroCoin"
   },
   "venta_maxima": {
-    "price": 306.2,
-    "name": "edwardgoldchhh"
+    "price": 306.5,
+    "name": "Quick Payment"
   },
-  "promedio": 307.6,
+  "promedio": 307.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
