@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T11:43:22.896072",
-  "actualizado_vzla": "2025-10-24 07:43:22 -04",
+  "timestamp_utc": "2025-10-24T11:56:38.285999",
+  "actualizado_vzla": "2025-10-24 07:56:38 -04",
   "compra_segundo": {
-    "price": 308.075,
-    "name": "JesusCrip"
+    "price": 308.0,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "WORL1EXCHANGE"
   },
-  "promedio": 307.04,
+  "promedio": 307.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
