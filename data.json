@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T03:38:15.372322",
-  "actualizado_vzla": "2025-10-23 23:38:15 -04",
+  "timestamp_utc": "2025-10-24T03:54:02.654388",
+  "actualizado_vzla": "2025-10-23 23:54:02 -04",
   "compra_segundo": {
-    "price": 308.845,
-    "name": "METODICO"
+    "price": 308.985,
+    "name": "Black-182"
   },
   "venta_maxima": {
-    "price": 306.7,
-    "name": "Quick Payment"
+    "price": 306.2,
+    "name": "edwardgoldchhh"
   },
-  "promedio": 307.77,
+  "promedio": 307.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
