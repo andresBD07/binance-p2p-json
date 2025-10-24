@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T15:56:17.511931",
-  "actualizado_vzla": "2025-10-24 11:56:17 -04",
+  "timestamp_utc": "2025-10-24T16:33:24.558953",
+  "actualizado_vzla": "2025-10-24 12:33:24 -04",
   "compra_segundo": {
-    "price": 307.2,
-    "name": "traing_balto"
+    "price": 306.995,
+    "name": "chikil"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "citipay"
   },
-  "promedio": 306.6,
+  "promedio": 306.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
