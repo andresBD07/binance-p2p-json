@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T21:21:48.454826",
-  "actualizado_vzla": "2025-10-25 17:21:48 -04",
+  "timestamp_utc": "2025-10-25T21:36:04.615897",
+  "actualizado_vzla": "2025-10-25 17:36:04 -04",
   "compra_segundo": {
-    "price": 306.28,
-    "name": "Dinero-Seguro"
+    "price": 306.25,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 305.001,
-    "name": "VR46-"
+    "price": 304.7,
+    "name": "Burdyn"
   },
-  "promedio": 305.64,
+  "promedio": 305.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
