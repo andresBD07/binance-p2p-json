@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T14:22:57.528445",
-  "actualizado_vzla": "2025-10-25 10:22:57 -04",
+  "timestamp_utc": "2025-10-25T14:38:39.403074",
+  "actualizado_vzla": "2025-10-25 10:38:39 -04",
   "compra_segundo": {
-    "price": 306.638,
-    "name": "AxelKingS"
+    "price": 306.679,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 306.1,
-    "name": "F_A_I_R"
+    "price": 306.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 306.37,
+  "promedio": 306.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
