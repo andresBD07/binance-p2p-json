@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T22:56:40.658555",
-  "actualizado_vzla": "2025-10-25 18:56:40 -04",
+  "timestamp_utc": "2025-10-25T23:22:27.532205",
+  "actualizado_vzla": "2025-10-25 19:22:27 -04",
   "compra_segundo": {
-    "price": 305.0,
-    "name": "Magnetic10"
+    "price": 304.99,
+    "name": "CAMBIO-LAGO"
   },
   "venta_maxima": {
-    "price": 304.4,
-    "name": "Child-CambioFacil"
+    "price": 304.6,
+    "name": "TuPagoRapido"
   },
-  "promedio": 304.7,
+  "promedio": 304.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
