@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-25T07:29:23.071840",
-  "actualizado_vzla": "2025-10-25 03:29:23 -04",
+  "timestamp_utc": "2025-10-25T07:42:30.290869",
+  "actualizado_vzla": "2025-10-25 03:42:30 -04",
   "compra_segundo": {
-    "price": 307.98,
-    "name": "Yoinered"
+    "price": 307.999,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
     "price": 305.25,
