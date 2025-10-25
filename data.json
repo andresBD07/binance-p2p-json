@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T16:30:41.089746",
-  "actualizado_vzla": "2025-10-25 12:30:41 -04",
+  "timestamp_utc": "2025-10-25T16:47:22.391143",
+  "actualizado_vzla": "2025-10-25 12:47:22 -04",
   "compra_segundo": {
-    "price": 305.9,
-    "name": "carmelog04"
+    "price": 305.798,
+    "name": "VGV"
   },
   "venta_maxima": {
     "price": 305.0,
-    "name": "JoseParedez"
+    "name": "luis12crt"
   },
-  "promedio": 305.45,
+  "promedio": 305.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
