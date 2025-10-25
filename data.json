@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T17:38:51.381150",
-  "actualizado_vzla": "2025-10-25 13:38:51 -04",
+  "timestamp_utc": "2025-10-25T17:51:44.295378",
+  "actualizado_vzla": "2025-10-25 13:51:44 -04",
   "compra_segundo": {
-    "price": 305.64,
-    "name": "FREQUIMO"
+    "price": 305.5,
+    "name": "ZeusRawr"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "luis12crt"
   },
-  "promedio": 305.32,
+  "promedio": 305.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
