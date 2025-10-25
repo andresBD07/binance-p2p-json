@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T14:38:39.403074",
-  "actualizado_vzla": "2025-10-25 10:38:39 -04",
+  "timestamp_utc": "2025-10-25T14:51:54.885196",
+  "actualizado_vzla": "2025-10-25 10:51:54 -04",
   "compra_segundo": {
-    "price": 306.679,
-    "name": "trade-key"
+    "price": 306.5,
+    "name": "nene"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "LogisticExchange"
   },
-  "promedio": 306.34,
+  "promedio": 306.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
