@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T17:00:22.330884",
-  "actualizado_vzla": "2025-10-25 13:00:22 -04",
+  "timestamp_utc": "2025-10-25T17:24:22.586395",
+  "actualizado_vzla": "2025-10-25 13:24:22 -04",
   "compra_segundo": {
-    "price": 305.75,
-    "name": "RapidEnvios"
+    "price": 305.679,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 305.5,
-    "name": "TAURUS85"
+    "price": 305.0,
+    "name": "luis12crt"
   },
-  "promedio": 305.62,
+  "promedio": 305.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
