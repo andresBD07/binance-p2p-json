@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T11:53:45.465741",
-  "actualizado_vzla": "2025-10-25 07:53:45 -04",
+  "timestamp_utc": "2025-10-25T12:38:52.567736",
+  "actualizado_vzla": "2025-10-25 08:38:52 -04",
   "compra_segundo": {
-    "price": 307.05,
-    "name": "MACHUFI"
+    "price": 306.65,
+    "name": "carmelog04"
   },
   "venta_maxima": {
     "price": 305.0,
-    "name": "cambioson"
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 306.02,
+  "promedio": 305.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
