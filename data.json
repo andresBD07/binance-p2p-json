@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T15:30:51.203477",
-  "actualizado_vzla": "2025-10-25 11:30:51 -04",
+  "timestamp_utc": "2025-10-25T15:43:59.651326",
+  "actualizado_vzla": "2025-10-25 11:43:59 -04",
   "compra_segundo": {
-    "price": 306.5,
-    "name": "LEOCASHFAST"
+    "price": 306.38,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 305.105,
-    "name": "All-inCrypto"
+    "price": 305.102,
+    "name": "Aszahi7"
   },
-  "promedio": 305.8,
+  "promedio": 305.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
