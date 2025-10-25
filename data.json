@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T22:30:36.342977",
-  "actualizado_vzla": "2025-10-25 18:30:36 -04",
+  "timestamp_utc": "2025-10-25T22:43:38.561652",
+  "actualizado_vzla": "2025-10-25 18:43:38 -04",
   "compra_segundo": {
-    "price": 305.5,
-    "name": "Alex-MARTIN"
+    "price": 305.0,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "cambioson"
+    "price": 304.35,
+    "name": "Swteet"
   },
-  "promedio": 305.25,
+  "promedio": 304.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
