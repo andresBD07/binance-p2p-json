@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T21:49:16.340856",
-  "actualizado_vzla": "2025-10-25 17:49:16 -04",
+  "timestamp_utc": "2025-10-25T22:09:53.305620",
+  "actualizado_vzla": "2025-10-25 18:09:53 -04",
   "compra_segundo": {
-    "price": 306.2,
-    "name": "TUCRIPseguro"
+    "price": 305.93,
+    "name": "angelchacon"
   },
   "venta_maxima": {
-    "price": 304.75,
-    "name": "Child-CambioFacil"
+    "price": 305.0,
+    "name": "cambioson"
   },
-  "promedio": 305.48,
+  "promedio": 305.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
