@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T23:36:59.727131",
-  "actualizado_vzla": "2025-10-25 19:36:59 -04",
+  "timestamp_utc": "2025-10-25T23:50:07.301704",
+  "actualizado_vzla": "2025-10-25 19:50:07 -04",
   "compra_segundo": {
-    "price": 305.0,
-    "name": "ElCandidoP2P"
+    "price": 305.49,
+    "name": "Capital_Cambios"
   },
   "venta_maxima": {
-    "price": 304.61,
+    "price": 304.65,
     "name": "SmartSolutionn"
   },
-  "promedio": 304.81,
+  "promedio": 305.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
