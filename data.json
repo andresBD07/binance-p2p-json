@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T03:50:49.907214",
-  "actualizado_vzla": "2025-10-24 23:50:49 -04",
+  "timestamp_utc": "2025-10-25T04:17:09.624194",
+  "actualizado_vzla": "2025-10-25 00:17:09 -04",
   "compra_segundo": {
-    "price": 307.42,
-    "name": "Criptoseed"
+    "price": 307.5,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
     "price": 305.25,
     "name": "FinanceSecure"
   },
-  "promedio": 306.34,
+  "promedio": 306.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
