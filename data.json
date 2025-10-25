@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T18:21:41.964914",
-  "actualizado_vzla": "2025-10-25 14:21:41 -04",
+  "timestamp_utc": "2025-10-25T18:44:18.244584",
+  "actualizado_vzla": "2025-10-25 14:44:18 -04",
   "compra_segundo": {
-    "price": 305.68,
-    "name": "R0ckandR0ll"
+    "price": 305.7,
+    "name": "RECARGASYSERVICIOSYA"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "luis12crt"
+    "price": 305.01,
+    "name": "TuPagoRapido"
   },
-  "promedio": 305.34,
+  "promedio": 305.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
