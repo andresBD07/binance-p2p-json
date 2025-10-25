@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-24T23:51:26.937945",
-  "actualizado_vzla": "2025-10-24 19:51:26 -04",
+  "timestamp_utc": "2025-10-25T01:12:34.689398",
+  "actualizado_vzla": "2025-10-24 21:12:34 -04",
   "compra_segundo": {
-    "price": 306.84,
-    "name": "AxelKingS"
+    "price": 307.0,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
     "price": 306.0,
-    "name": "VR46-"
+    "name": "Quick Payment"
   },
-  "promedio": 306.42,
+  "promedio": 306.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
