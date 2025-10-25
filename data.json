@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T13:56:39.028829",
-  "actualizado_vzla": "2025-10-25 09:56:39 -04",
+  "timestamp_utc": "2025-10-25T14:22:57.528445",
+  "actualizado_vzla": "2025-10-25 10:22:57 -04",
   "compra_segundo": {
-    "price": 306.6,
-    "name": "Trader_CambiosDigital"
+    "price": 306.638,
+    "name": "AxelKingS"
   },
   "venta_maxima": {
     "price": 306.1,
-    "name": "TspeedT"
+    "name": "F_A_I_R"
   },
-  "promedio": 306.35,
+  "promedio": 306.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
