@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T03:26:53.107304",
-  "actualizado_vzla": "2025-10-24 23:26:53 -04",
+  "timestamp_utc": "2025-10-25T03:50:49.907214",
+  "actualizado_vzla": "2025-10-24 23:50:49 -04",
   "compra_segundo": {
-    "price": 307.449,
-    "name": "CesarRodriguez53"
+    "price": 307.42,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
     "price": 305.25,
     "name": "FinanceSecure"
   },
-  "promedio": 306.35,
+  "promedio": 306.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
