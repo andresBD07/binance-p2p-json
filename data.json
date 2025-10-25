@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T19:33:34.038959",
-  "actualizado_vzla": "2025-10-25 15:33:34 -04",
+  "timestamp_utc": "2025-10-25T19:47:03.518356",
+  "actualizado_vzla": "2025-10-25 15:47:03 -04",
   "compra_segundo": {
-    "price": 305.977,
-    "name": "XckSeguros"
+    "price": 305.99,
+    "name": "EnlineaRyK"
   },
   "venta_maxima": {
     "price": 305.1,
     "name": "hectoraltrader"
   },
-  "promedio": 305.54,
+  "promedio": 305.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
