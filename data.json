@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T04:17:09.624194",
-  "actualizado_vzla": "2025-10-25 00:17:09 -04",
+  "timestamp_utc": "2025-10-25T04:38:07.830830",
+  "actualizado_vzla": "2025-10-25 00:38:07 -04",
   "compra_segundo": {
-    "price": 307.5,
-    "name": "CambiosFacil"
+    "price": 307.6,
+    "name": "LeNary-"
   },
   "venta_maxima": {
     "price": 305.25,
     "name": "FinanceSecure"
   },
-  "promedio": 306.38,
+  "promedio": 306.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
