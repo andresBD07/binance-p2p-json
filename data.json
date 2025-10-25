@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-25T07:55:39.541278",
-  "actualizado_vzla": "2025-10-25 03:55:39 -04",
+  "timestamp_utc": "2025-10-25T08:30:06.942964",
+  "actualizado_vzla": "2025-10-25 04:30:06 -04",
   "compra_segundo": {
-    "price": 307.999,
-    "name": "CIFRANAUTA"
+    "price": 308.0,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
     "price": 305.0,
