@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T22:09:53.305620",
-  "actualizado_vzla": "2025-10-25 18:09:53 -04",
+  "timestamp_utc": "2025-10-25T22:30:36.342977",
+  "actualizado_vzla": "2025-10-25 18:30:36 -04",
   "compra_segundo": {
-    "price": 305.93,
-    "name": "angelchacon"
+    "price": 305.5,
+    "name": "Alex-MARTIN"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "cambioson"
   },
-  "promedio": 305.47,
+  "promedio": 305.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
