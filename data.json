@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T08:46:56.795797",
-  "actualizado_vzla": "2025-10-25 04:46:56 -04",
+  "timestamp_utc": "2025-10-25T08:59:40.463141",
+  "actualizado_vzla": "2025-10-25 04:59:40 -04",
   "compra_segundo": {
-    "price": 308.0,
-    "name": "ToNGolaVibes"
+    "price": 308.1,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "cambioson"
   },
-  "promedio": 306.5,
+  "promedio": 306.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
