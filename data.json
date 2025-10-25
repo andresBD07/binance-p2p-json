@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-25T21:36:04.615897",
-  "actualizado_vzla": "2025-10-25 17:36:04 -04",
+  "timestamp_utc": "2025-10-25T21:49:16.340856",
+  "actualizado_vzla": "2025-10-25 17:49:16 -04",
   "compra_segundo": {
-    "price": 306.25,
-    "name": "racaste"
+    "price": 306.2,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 304.7,
-    "name": "Burdyn"
+    "price": 304.75,
+    "name": "Child-CambioFacil"
   },
   "promedio": 305.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
