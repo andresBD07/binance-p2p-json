@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T17:51:44.295378",
-  "actualizado_vzla": "2025-10-25 13:51:44 -04",
+  "timestamp_utc": "2025-10-25T18:21:41.964914",
+  "actualizado_vzla": "2025-10-25 14:21:41 -04",
   "compra_segundo": {
-    "price": 305.5,
-    "name": "ZeusRawr"
+    "price": 305.68,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "luis12crt"
   },
-  "promedio": 305.25,
+  "promedio": 305.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
