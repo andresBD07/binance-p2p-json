@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T04:38:07.830830",
-  "actualizado_vzla": "2025-10-25 00:38:07 -04",
+  "timestamp_utc": "2025-10-25T04:51:29.599242",
+  "actualizado_vzla": "2025-10-25 00:51:29 -04",
   "compra_segundo": {
-    "price": 307.6,
-    "name": "LeNary-"
+    "price": 307.8,
+    "name": "Bigwhale12"
   },
   "venta_maxima": {
     "price": 305.25,
     "name": "FinanceSecure"
   },
-  "promedio": 306.43,
+  "promedio": 306.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
