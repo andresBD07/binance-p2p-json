@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T19:59:59.709062",
-  "actualizado_vzla": "2025-10-25 15:59:59 -04",
+  "timestamp_utc": "2025-10-25T20:28:32.772688",
+  "actualizado_vzla": "2025-10-25 16:28:32 -04",
   "compra_segundo": {
-    "price": 305.989,
-    "name": "Chespi_cripto8"
+    "price": 306.08,
+    "name": "Trader_LC"
   },
   "venta_maxima": {
-    "price": 305.1,
-    "name": "hectoraltrader"
+    "price": 305.5,
+    "name": "0xSai"
   },
-  "promedio": 305.54,
+  "promedio": 305.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
