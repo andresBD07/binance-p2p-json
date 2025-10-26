@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T17:32:53.622867",
-  "actualizado_vzla": "2025-10-26 13:32:53 -04",
+  "timestamp_utc": "2025-10-26T17:45:38.856035",
+  "actualizado_vzla": "2025-10-26 13:45:38 -04",
   "compra_segundo": {
-    "price": 306.98,
-    "name": "MyAngelHM"
+    "price": 306.9,
+    "name": "Mustangp2p"
   },
   "venta_maxima": {
     "price": 305.5,
     "name": "KillKeroy"
   },
-  "promedio": 306.24,
+  "promedio": 306.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
