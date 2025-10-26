@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-25T23:50:07.301704",
-  "actualizado_vzla": "2025-10-25 19:50:07 -04",
+  "timestamp_utc": "2025-10-26T01:06:10.842499",
+  "actualizado_vzla": "2025-10-25 21:06:10 -04",
   "compra_segundo": {
-    "price": 305.49,
-    "name": "Capital_Cambios"
+    "price": 306.49,
+    "name": "davzotrading"
   },
   "venta_maxima": {
-    "price": 304.65,
-    "name": "SmartSolutionn"
+    "price": 304.78,
+    "name": "FMDeluXchange"
   },
-  "promedio": 305.07,
+  "promedio": 305.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
