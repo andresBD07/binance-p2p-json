@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T06:36:41.919273",
-  "actualizado_vzla": "2025-10-26 02:36:41 -04",
+  "timestamp_utc": "2025-10-26T06:52:20.834198",
+  "actualizado_vzla": "2025-10-26 02:52:20 -04",
   "compra_segundo": {
-    "price": 307.95,
-    "name": "WebMoneyExchanger"
+    "price": 307.989,
+    "name": "彡TrustyTrader1A彡"
   },
   "venta_maxima": {
-    "price": 303.5,
+    "price": 302.7,
     "name": "Suora21"
   },
-  "promedio": 305.73,
+  "promedio": 305.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
