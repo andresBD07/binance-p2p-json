@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T07:55:55.995198",
-  "actualizado_vzla": "2025-10-26 03:55:56 -04",
+  "timestamp_utc": "2025-10-26T08:30:36.744439",
+  "actualizado_vzla": "2025-10-26 04:30:36 -04",
   "compra_segundo": {
     "price": 308.0,
     "name": "PlutoTrading"
   },
   "venta_maxima": {
-    "price": 302.7,
-    "name": "Suora21"
+    "price": 303.0,
+    "name": "T1_______"
   },
-  "promedio": 305.35,
+  "promedio": 305.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
