@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T19:40:33.633216",
-  "actualizado_vzla": "2025-10-26 15:40:33 -04",
+  "timestamp_utc": "2025-10-26T19:53:52.591139",
+  "actualizado_vzla": "2025-10-26 15:53:52 -04",
   "compra_segundo": {
-    "price": 305.59,
-    "name": "CambiaFast"
+    "price": 305.6,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 304.78,
-    "name": "Lacsen"
+    "price": 305.0,
+    "name": "bigmitchum"
   },
-  "promedio": 305.18,
+  "promedio": 305.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
