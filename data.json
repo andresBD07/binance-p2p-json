@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T21:56:20.200647",
-  "actualizado_vzla": "2025-10-26 17:56:20 -04",
+  "timestamp_utc": "2025-10-26T22:25:03.765454",
+  "actualizado_vzla": "2025-10-26 18:25:03 -04",
   "compra_segundo": {
-    "price": 305.898,
-    "name": "Duquessa"
+    "price": 305.74,
+    "name": "hohenheim-"
   },
   "venta_maxima": {
-    "price": 304.005,
-    "name": "All-inCrypto"
+    "price": 304.1,
+    "name": "USDTpulso"
   },
-  "promedio": 304.95,
+  "promedio": 304.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
