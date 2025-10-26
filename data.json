@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T22:55:10.051174",
-  "actualizado_vzla": "2025-10-26 18:55:10 -04",
+  "timestamp_utc": "2025-10-26T23:22:16.552600",
+  "actualizado_vzla": "2025-10-26 19:22:16 -04",
   "compra_segundo": {
-    "price": 305.9,
-    "name": "_AltCoinMaster_"
+    "price": 306.0,
+    "name": "Crypto_Oslian"
   },
   "venta_maxima": {
-    "price": 304.05,
-    "name": "Cripto_Operaciones"
+    "price": 304.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 304.98,
+  "promedio": 305.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
