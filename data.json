@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T15:37:08.177770",
-  "actualizado_vzla": "2025-10-26 11:37:08 -04",
+  "timestamp_utc": "2025-10-26T15:50:21.662810",
+  "actualizado_vzla": "2025-10-26 11:50:21 -04",
   "compra_segundo": {
-    "price": 306.5,
-    "name": "Magnetic10"
+    "price": 306.7,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 305.61,
-    "name": "TOPlevelS"
+    "price": 305.8,
+    "name": "Luis2086"
   },
-  "promedio": 306.06,
+  "promedio": 306.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
