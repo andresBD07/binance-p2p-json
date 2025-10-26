@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T23:22:16.552600",
-  "actualizado_vzla": "2025-10-26 19:22:16 -04",
+  "timestamp_utc": "2025-10-26T23:37:27.863156",
+  "actualizado_vzla": "2025-10-26 19:37:27 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "Crypto_Oslian"
+    "price": 306.035,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
-    "price": 304.5,
+    "price": 305.0,
     "name": "Child-CambioFacil"
   },
-  "promedio": 305.25,
+  "promedio": 305.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
