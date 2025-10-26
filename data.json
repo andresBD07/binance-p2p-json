@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T08:46:47.509292",
-  "actualizado_vzla": "2025-10-26 04:46:47 -04",
+  "timestamp_utc": "2025-10-26T09:00:01.926518",
+  "actualizado_vzla": "2025-10-26 05:00:01 -04",
   "compra_segundo": {
-    "price": 308.0,
-    "name": "PlutoTrading"
+    "price": 308.3,
+    "name": "ARKADB"
   },
   "venta_maxima": {
     "price": 303.0,
     "name": "T1_______"
   },
-  "promedio": 305.5,
+  "promedio": 305.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
