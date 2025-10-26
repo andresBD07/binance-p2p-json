@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T21:43:38.598120",
-  "actualizado_vzla": "2025-10-26 17:43:38 -04",
+  "timestamp_utc": "2025-10-26T21:56:20.200647",
+  "actualizado_vzla": "2025-10-26 17:56:20 -04",
   "compra_segundo": {
-    "price": 305.89,
-    "name": "Crypto_Kalev"
+    "price": 305.898,
+    "name": "Duquessa"
   },
   "venta_maxima": {
-    "price": 304.5,
-    "name": "FinanceSecure"
+    "price": 304.005,
+    "name": "All-inCrypto"
   },
-  "promedio": 305.19,
+  "promedio": 304.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
