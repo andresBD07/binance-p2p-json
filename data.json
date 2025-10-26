@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T14:42:10.964878",
-  "actualizado_vzla": "2025-10-26 10:42:10 -04",
+  "timestamp_utc": "2025-10-26T14:55:05.113779",
+  "actualizado_vzla": "2025-10-26 10:55:05 -04",
   "compra_segundo": {
-    "price": 306.3,
-    "name": "rgomezd1"
+    "price": 306.45,
+    "name": "DE2V"
   },
   "venta_maxima": {
-    "price": 305.3,
-    "name": "KillKeroy"
+    "price": 305.8,
+    "name": "Godisgift"
   },
-  "promedio": 305.8,
+  "promedio": 306.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
