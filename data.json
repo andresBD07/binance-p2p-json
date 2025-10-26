@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-10-26T19:53:52.591139",
-  "actualizado_vzla": "2025-10-26 15:53:52 -04",
+  "timestamp_utc": "2025-10-26T20:22:48.814067",
+  "actualizado_vzla": "2025-10-26 16:22:48 -04",
   "compra_segundo": {
-    "price": 305.6,
-    "name": "TUCRIPseguro"
+    "price": 305.8,
+    "name": "BaldomeroH"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "bigmitchum"
+    "price": 304.79,
+    "name": "May2524"
   },
   "promedio": 305.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
