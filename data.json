@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T12:39:50.144558",
-  "actualizado_vzla": "2025-10-26 08:39:50 -04",
+  "timestamp_utc": "2025-10-26T13:12:35.332576",
+  "actualizado_vzla": "2025-10-26 09:12:35 -04",
   "compra_segundo": {
-    "price": 306.47,
-    "name": "FREQUIMO"
+    "price": 306.5,
+    "name": "Will_Cripto"
   },
   "venta_maxima": {
-    "price": 304.0,
-    "name": "Panamtrading"
+    "price": 304.001,
+    "name": "Guayoyoo"
   },
-  "promedio": 305.24,
+  "promedio": 305.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
