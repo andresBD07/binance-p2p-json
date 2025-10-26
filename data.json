@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T21:16:31.478606",
-  "actualizado_vzla": "2025-10-26 17:16:31 -04",
+  "timestamp_utc": "2025-10-26T21:30:48.409369",
+  "actualizado_vzla": "2025-10-26 17:30:48 -04",
   "compra_segundo": {
-    "price": 305.8,
-    "name": "Cambi0Express"
+    "price": 305.86,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
     "price": 304.5,
-    "name": "KillKeroy"
+    "name": "FinanceSecure"
   },
-  "promedio": 305.15,
+  "promedio": 305.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
