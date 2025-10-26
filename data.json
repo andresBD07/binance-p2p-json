@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T05:43:07.576542",
-  "actualizado_vzla": "2025-10-26 01:43:07 -04",
+  "timestamp_utc": "2025-10-26T05:56:23.271445",
+  "actualizado_vzla": "2025-10-26 01:56:23 -04",
   "compra_segundo": {
-    "price": 307.85,
-    "name": "TheMerchanTHM"
+    "price": 307.9,
+    "name": "Suora21"
   },
   "venta_maxima": {
     "price": 304.025,
     "name": "TORINO_AK"
   },
-  "promedio": 305.94,
+  "promedio": 305.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
