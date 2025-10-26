@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T15:50:21.662810",
-  "actualizado_vzla": "2025-10-26 11:50:21 -04",
+  "timestamp_utc": "2025-10-26T16:15:33.650272",
+  "actualizado_vzla": "2025-10-26 12:15:33 -04",
   "compra_segundo": {
-    "price": 306.7,
-    "name": "Kartozpk"
+    "price": 306.94,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
-    "price": 305.8,
-    "name": "Luis2086"
+    "price": 305.5,
+    "name": "KillKeroy"
   },
-  "promedio": 306.25,
+  "promedio": 306.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
