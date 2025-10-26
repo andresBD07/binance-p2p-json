@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T21:30:48.409369",
-  "actualizado_vzla": "2025-10-26 17:30:48 -04",
+  "timestamp_utc": "2025-10-26T21:43:38.598120",
+  "actualizado_vzla": "2025-10-26 17:43:38 -04",
   "compra_segundo": {
-    "price": 305.86,
-    "name": "Cambios-JH-Express"
+    "price": 305.89,
+    "name": "Crypto_Kalev"
   },
   "venta_maxima": {
     "price": 304.5,
     "name": "FinanceSecure"
   },
-  "promedio": 305.18,
+  "promedio": 305.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
