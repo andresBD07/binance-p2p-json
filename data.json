@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T19:27:07.259824",
-  "actualizado_vzla": "2025-10-26 15:27:07 -04",
+  "timestamp_utc": "2025-10-26T19:40:33.633216",
+  "actualizado_vzla": "2025-10-26 15:40:33 -04",
   "compra_segundo": {
-    "price": 305.95,
-    "name": "Hiroma"
+    "price": 305.59,
+    "name": "CambiaFast"
   },
   "venta_maxima": {
-    "price": 305.2,
-    "name": "KillKeroy"
+    "price": 304.78,
+    "name": "Lacsen"
   },
-  "promedio": 305.57,
+  "promedio": 305.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
