@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T15:21:52.764449",
-  "actualizado_vzla": "2025-10-26 11:21:52 -04",
+  "timestamp_utc": "2025-10-26T15:37:08.177770",
+  "actualizado_vzla": "2025-10-26 11:37:08 -04",
   "compra_segundo": {
     "price": 306.5,
     "name": "Magnetic10"
   },
   "venta_maxima": {
-    "price": 305.65,
-    "name": "KillKeroy"
+    "price": 305.61,
+    "name": "TOPlevelS"
   },
-  "promedio": 306.07,
+  "promedio": 306.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
