@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T20:40:00.304256",
-  "actualizado_vzla": "2025-10-26 16:40:00 -04",
+  "timestamp_utc": "2025-10-26T20:52:48.868566",
+  "actualizado_vzla": "2025-10-26 16:52:48 -04",
   "compra_segundo": {
-    "price": 305.6,
-    "name": "MUNDOGENIAL"
+    "price": 305.599,
+    "name": "Yourcoins"
   },
   "venta_maxima": {
-    "price": 303.81,
-    "name": "CoinBeek"
+    "price": 304.5,
+    "name": "KillKeroy"
   },
-  "promedio": 304.71,
+  "promedio": 305.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
