@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T13:34:34.037141",
-  "actualizado_vzla": "2025-10-26 09:34:34 -04",
+  "timestamp_utc": "2025-10-26T13:47:49.314576",
+  "actualizado_vzla": "2025-10-26 09:47:49 -04",
   "compra_segundo": {
-    "price": 306.499,
-    "name": "Cambios_MH2107"
+    "price": 306.49,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 304.1,
-    "name": "Exotico"
+    "price": 305.0,
+    "name": "Godisgift"
   },
-  "promedio": 305.3,
+  "promedio": 305.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
