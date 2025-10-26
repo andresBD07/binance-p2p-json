@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T02:48:08.840272",
-  "actualizado_vzla": "2025-10-25 22:48:08 -04",
+  "timestamp_utc": "2025-10-26T03:34:36.349268",
+  "actualizado_vzla": "2025-10-25 23:34:36 -04",
   "compra_segundo": {
-    "price": 306.79,
-    "name": "DLR06"
+    "price": 307.0,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
-    "price": 304.4,
-    "name": "Child-CambioFacil"
+    "price": 304.0,
+    "name": "Vicky201403"
   },
-  "promedio": 305.6,
+  "promedio": 305.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
