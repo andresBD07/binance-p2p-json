@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T05:44:09.035029",
-  "actualizado_vzla": "2025-10-27 01:44:09 -04",
+  "timestamp_utc": "2025-10-27T05:57:40.152435",
+  "actualizado_vzla": "2025-10-27 01:57:40 -04",
   "compra_segundo": {
-    "price": 309.799,
-    "name": "圎Sushi"
+    "price": 309.5,
+    "name": "fundatrade"
   },
   "venta_maxima": {
     "price": 304.6,
     "name": "TuPagoRapido"
   },
-  "promedio": 307.2,
+  "promedio": 307.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
