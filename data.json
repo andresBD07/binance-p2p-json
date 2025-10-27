@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T17:54:28.992652",
-  "actualizado_vzla": "2025-10-27 13:54:29 -04",
+  "timestamp_utc": "2025-10-27T18:34:25.411572",
+  "actualizado_vzla": "2025-10-27 14:34:25 -04",
   "compra_segundo": {
-    "price": 309.8,
-    "name": "TradewCrypto"
+    "price": 309.22,
+    "name": "breintrader"
   },
   "venta_maxima": {
-    "price": 308.5,
-    "name": "KillKeroy"
+    "price": 308.42,
+    "name": "citipay"
   },
-  "promedio": 309.15,
+  "promedio": 308.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
