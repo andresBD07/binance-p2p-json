@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T01:16:08.929602",
-  "actualizado_vzla": "2025-10-26 21:16:08 -04",
+  "timestamp_utc": "2025-10-27T02:57:29.411637",
+  "actualizado_vzla": "2025-10-26 22:57:29 -04",
   "compra_segundo": {
-    "price": 306.55,
-    "name": "KingTradeVzla"
+    "price": 307.4,
+    "name": "WebMoneyExchanger"
   },
   "venta_maxima": {
-    "price": 304.9,
-    "name": "WarlopCambios"
+    "price": 304.6,
+    "name": "TuPagoRapido"
   },
-  "promedio": 305.73,
+  "promedio": 306.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
