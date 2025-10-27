@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T21:52:11.510631",
-  "actualizado_vzla": "2025-10-27 17:52:11 -04",
+  "timestamp_utc": "2025-10-27T22:16:44.031781",
+  "actualizado_vzla": "2025-10-27 18:16:44 -04",
   "compra_segundo": {
-    "price": 309.999,
-    "name": "EduardoApg"
+    "price": 310.395,
+    "name": "Blokchaiger"
   },
   "venta_maxima": {
     "price": 309.2,
     "name": "-tsushima-"
   },
-  "promedio": 309.6,
+  "promedio": 309.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
