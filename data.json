@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T20:57:29.284110",
-  "actualizado_vzla": "2025-10-27 16:57:29 -04",
+  "timestamp_utc": "2025-10-27T21:23:59.982920",
+  "actualizado_vzla": "2025-10-27 17:23:59 -04",
   "compra_segundo": {
-    "price": 309.099,
-    "name": "MSaracai"
+    "price": 309.35,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 308.6,
-    "name": "SmartSolutionn"
+    "price": 309.0,
+    "name": "-tsushima-"
   },
-  "promedio": 308.85,
+  "promedio": 309.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
