@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T19:42:39.062537",
-  "actualizado_vzla": "2025-10-27 15:42:39 -04",
+  "timestamp_utc": "2025-10-27T19:55:32.483921",
+  "actualizado_vzla": "2025-10-27 15:55:32 -04",
   "compra_segundo": {
-    "price": 309.18,
-    "name": "TradEr2025_Drjgh"
+    "price": 309.15,
+    "name": "ZeusRawr"
   },
   "venta_maxima": {
-    "price": 308.25,
-    "name": "Lacsen"
+    "price": 308.7,
+    "name": "SmartSolutionn"
   },
-  "promedio": 308.72,
+  "promedio": 308.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
