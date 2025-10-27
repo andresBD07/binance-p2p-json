@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T22:36:29.633388",
-  "actualizado_vzla": "2025-10-27 18:36:29 -04",
+  "timestamp_utc": "2025-10-27T22:49:55.955196",
+  "actualizado_vzla": "2025-10-27 18:49:55 -04",
   "compra_segundo": {
-    "price": 310.79,
+    "price": 310.64,
     "name": "-JOGASA-"
   },
   "venta_maxima": {
-    "price": 309.6,
-    "name": "CoinFlou"
+    "price": 309.85,
+    "name": "KillKeroy"
   },
-  "promedio": 310.2,
+  "promedio": 310.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
