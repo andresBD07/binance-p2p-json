@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T15:29:16.102221",
-  "actualizado_vzla": "2025-10-27 11:29:16 -04",
+  "timestamp_utc": "2025-10-27T15:45:28.215127",
+  "actualizado_vzla": "2025-10-27 11:45:28 -04",
   "compra_segundo": {
-    "price": 307.4,
-    "name": "Ecapitals Services Corp"
+    "price": 307.87,
+    "name": "Money_Fast_Transfers"
   },
   "venta_maxima": {
-    "price": 307.8,
+    "price": 307.85,
     "name": "TAURUS85"
   },
-  "promedio": 307.6,
+  "promedio": 307.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
