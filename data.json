@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T19:55:32.483921",
-  "actualizado_vzla": "2025-10-27 15:55:32 -04",
+  "timestamp_utc": "2025-10-27T20:27:17.628550",
+  "actualizado_vzla": "2025-10-27 16:27:17 -04",
   "compra_segundo": {
-    "price": 309.15,
-    "name": "ZeusRawr"
+    "price": 309.19,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
     "price": 308.7,
     "name": "SmartSolutionn"
   },
-  "promedio": 308.92,
+  "promedio": 308.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
