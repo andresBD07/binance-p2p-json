@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T05:24:34.165617",
-  "actualizado_vzla": "2025-10-27 01:24:34 -04",
+  "timestamp_utc": "2025-10-27T05:44:09.035029",
+  "actualizado_vzla": "2025-10-27 01:44:09 -04",
   "compra_segundo": {
-    "price": 308.8,
-    "name": "TheMerchanTHM"
+    "price": 309.799,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
     "price": 304.6,
     "name": "TuPagoRapido"
   },
-  "promedio": 306.7,
+  "promedio": 307.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
