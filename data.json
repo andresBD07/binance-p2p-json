@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T19:29:39.489848",
-  "actualizado_vzla": "2025-10-27 15:29:39 -04",
+  "timestamp_utc": "2025-10-27T19:42:39.062537",
+  "actualizado_vzla": "2025-10-27 15:42:39 -04",
   "compra_segundo": {
-    "price": 309.29,
-    "name": "KingTradeVzla"
+    "price": 309.18,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 308.8,
-    "name": "OpCripto"
+    "price": 308.25,
+    "name": "Lacsen"
   },
-  "promedio": 309.05,
+  "promedio": 308.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
