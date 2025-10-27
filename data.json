@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-26T23:50:50.834727",
-  "actualizado_vzla": "2025-10-26 19:50:50 -04",
+  "timestamp_utc": "2025-10-27T01:16:08.929602",
+  "actualizado_vzla": "2025-10-26 21:16:08 -04",
   "compra_segundo": {
-    "price": 306.035,
-    "name": "MarDiodoros"
+    "price": 306.55,
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "Child-CambioFacil"
+    "price": 304.9,
+    "name": "WarlopCambios"
   },
-  "promedio": 305.52,
+  "promedio": 305.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
