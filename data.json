@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T22:16:44.031781",
-  "actualizado_vzla": "2025-10-27 18:16:44 -04",
+  "timestamp_utc": "2025-10-27T22:36:29.633388",
+  "actualizado_vzla": "2025-10-27 18:36:29 -04",
   "compra_segundo": {
-    "price": 310.395,
-    "name": "Blokchaiger"
+    "price": 310.79,
+    "name": "-JOGASA-"
   },
   "venta_maxima": {
-    "price": 309.2,
-    "name": "-tsushima-"
+    "price": 309.6,
+    "name": "CoinFlou"
   },
-  "promedio": 309.8,
+  "promedio": 310.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
