@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-27T07:28:32.310826",
-  "actualizado_vzla": "2025-10-27 03:28:32 -04",
+  "timestamp_utc": "2025-10-27T07:43:25.018720",
+  "actualizado_vzla": "2025-10-27 03:43:25 -04",
   "compra_segundo": {
-    "price": 309.999,
-    "name": "AlainT"
+    "price": 310.0,
+    "name": "Jin-Woo-Sung"
   },
   "venta_maxima": {
     "price": 304.6,
