@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T07:56:37.558461",
-  "actualizado_vzla": "2025-10-27 03:56:37 -04",
+  "timestamp_utc": "2025-10-27T08:36:34.248528",
+  "actualizado_vzla": "2025-10-27 04:36:34 -04",
   "compra_segundo": {
-    "price": 310.0,
-    "name": "erengome04"
+    "price": 309.986,
+    "name": "Apolo_Cript"
   },
   "venta_maxima": {
     "price": 304.6,
     "name": "TuPagoRapido"
   },
-  "promedio": 307.3,
+  "promedio": 307.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
