@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T20:43:56.353515",
-  "actualizado_vzla": "2025-10-27 16:43:56 -04",
+  "timestamp_utc": "2025-10-27T20:57:29.284110",
+  "actualizado_vzla": "2025-10-27 16:57:29 -04",
   "compra_segundo": {
-    "price": 309.13,
-    "name": "NuebotFlash"
+    "price": 309.099,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 308.612,
-    "name": "WORL1EXCHANGE"
+    "price": 308.6,
+    "name": "SmartSolutionn"
   },
-  "promedio": 308.87,
+  "promedio": 308.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
