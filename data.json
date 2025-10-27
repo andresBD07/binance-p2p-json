@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T17:41:07.496424",
-  "actualizado_vzla": "2025-10-27 13:41:07 -04",
+  "timestamp_utc": "2025-10-27T17:54:28.992652",
+  "actualizado_vzla": "2025-10-27 13:54:29 -04",
   "compra_segundo": {
     "price": 309.8,
-    "name": "BlockArbi-X"
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 308.81,
-    "name": "app2112"
+    "price": 308.5,
+    "name": "KillKeroy"
   },
-  "promedio": 309.31,
+  "promedio": 309.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
