@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T12:30:33.377293",
-  "actualizado_vzla": "2025-10-27 08:30:33 -04",
+  "timestamp_utc": "2025-10-27T13:17:34.536271",
+  "actualizado_vzla": "2025-10-27 09:17:34 -04",
   "compra_segundo": {
-    "price": 305.5,
-    "name": "Mustangp2p"
+    "price": 306.1,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 304.6,
-    "name": "TICOFINANCIAL"
+    "price": 304.9,
+    "name": "RubenNYC"
   },
-  "promedio": 305.05,
+  "promedio": 305.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
