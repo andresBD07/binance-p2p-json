@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T09:30:57.337886",
-  "actualizado_vzla": "2025-10-27 05:30:57 -04",
+  "timestamp_utc": "2025-10-27T09:48:24.628209",
+  "actualizado_vzla": "2025-10-27 05:48:24 -04",
   "compra_segundo": {
-    "price": 308.85,
-    "name": "RAPIDOySEGURO_EAGLE"
+    "price": 308.5,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
     "price": 304.6,
     "name": "TuPagoRapido"
   },
-  "promedio": 306.73,
+  "promedio": 306.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
