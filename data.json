@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T18:53:23.194863",
-  "actualizado_vzla": "2025-10-27 14:53:23 -04",
+  "timestamp_utc": "2025-10-27T19:16:50.791346",
+  "actualizado_vzla": "2025-10-27 15:16:50 -04",
   "compra_segundo": {
-    "price": 309.25,
-    "name": "Dpay21"
+    "price": 309.4,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
     "price": 309.0,
     "name": "Godisgift"
   },
-  "promedio": 309.12,
+  "promedio": 309.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
