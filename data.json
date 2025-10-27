@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T11:50:38.560611",
-  "actualizado_vzla": "2025-10-27 07:50:38 -04",
+  "timestamp_utc": "2025-10-27T12:30:33.377293",
+  "actualizado_vzla": "2025-10-27 08:30:33 -04",
   "compra_segundo": {
-    "price": 306.0,
-    "name": "cambiosaular1"
+    "price": 305.5,
+    "name": "Mustangp2p"
   },
   "venta_maxima": {
     "price": 304.6,
-    "name": "TuPagoRapido"
+    "name": "TICOFINANCIAL"
   },
-  "promedio": 305.3,
+  "promedio": 305.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
