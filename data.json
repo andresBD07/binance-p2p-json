@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T10:41:31.957523",
-  "actualizado_vzla": "2025-10-27 06:41:31 -04",
+  "timestamp_utc": "2025-10-27T10:54:52.181449",
+  "actualizado_vzla": "2025-10-27 06:54:52 -04",
   "compra_segundo": {
-    "price": 307.8,
-    "name": "INVERSIONES-RCCH"
+    "price": 307.4,
+    "name": "Samtur"
   },
   "venta_maxima": {
     "price": 304.6,
     "name": "TuPagoRapido"
   },
-  "promedio": 306.2,
+  "promedio": 306.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
