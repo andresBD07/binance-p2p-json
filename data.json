@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-27T21:23:59.982920",
-  "actualizado_vzla": "2025-10-27 17:23:59 -04",
+  "timestamp_utc": "2025-10-27T21:39:21.324450",
+  "actualizado_vzla": "2025-10-27 17:39:21 -04",
   "compra_segundo": {
-    "price": 309.35,
-    "name": "Mahc012712"
+    "price": 309.65,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
     "price": 309.0,
     "name": "-tsushima-"
   },
-  "promedio": 309.18,
+  "promedio": 309.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
