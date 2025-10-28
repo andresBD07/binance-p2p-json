@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-28T23:44:28.733911",
-  "actualizado_vzla": "2025-10-28 19:44:28 -04",
+  "timestamp_utc": "2025-10-28T23:57:29.948249",
+  "actualizado_vzla": "2025-10-28 19:57:29 -04",
   "compra_segundo": {
-    "price": 309.9,
-    "name": "leosolox"
+    "price": 309.86,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
-    "price": 309.0,
-    "name": "FinanceSecure"
+    "price": 308.8,
+    "name": "Harrypotter1408"
   },
-  "promedio": 309.45,
+  "promedio": 309.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
