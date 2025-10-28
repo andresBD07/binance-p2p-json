@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-28T23:11:17.500663",
-  "actualizado_vzla": "2025-10-28 19:11:17 -04",
+  "timestamp_utc": "2025-10-28T23:30:47.864557",
+  "actualizado_vzla": "2025-10-28 19:30:47 -04",
   "compra_segundo": {
-    "price": 309.998,
-    "name": "Wil2589"
+    "price": 310.0,
+    "name": "TAT22"
   },
   "venta_maxima": {
-    "price": 308.8,
-    "name": "Aszahi7"
+    "price": 309.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 309.4,
+  "promedio": 309.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
