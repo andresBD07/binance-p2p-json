@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T05:57:38.557489",
-  "actualizado_vzla": "2025-10-29 01:57:38 -04",
+  "timestamp_utc": "2025-10-29T06:41:12.463697",
+  "actualizado_vzla": "2025-10-29 02:41:12 -04",
   "compra_segundo": {
     "price": 313.0,
-    "name": "zucorp"
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 308.3,
-    "name": "Criptoseed"
+    "price": 308.55,
+    "name": "CryptoCapitalService"
   },
-  "promedio": 310.65,
+  "promedio": 310.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
