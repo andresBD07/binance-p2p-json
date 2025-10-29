@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T21:33:22.793939",
-  "actualizado_vzla": "2025-10-29 17:33:22 -04",
+  "timestamp_utc": "2025-10-29T21:46:23.996511",
+  "actualizado_vzla": "2025-10-29 17:46:24 -04",
   "compra_segundo": {
-    "price": 308.75,
-    "name": "SIVE_Trading"
+    "price": 308.7,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 308.35,
+    "price": 308.55,
     "name": "hectoraltrader"
   },
-  "promedio": 308.55,
+  "promedio": 308.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
