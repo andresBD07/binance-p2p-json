@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T22:58:28.701564",
-  "actualizado_vzla": "2025-10-29 18:58:28 -04",
+  "timestamp_utc": "2025-10-29T23:25:59.647210",
+  "actualizado_vzla": "2025-10-29 19:25:59 -04",
   "compra_segundo": {
-    "price": 308.9,
-    "name": "BETO_TRADER"
+    "price": 308.8,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 307.5,
-    "name": "Montcios"
+    "price": 308.0,
+    "name": "TheBlackHand"
   },
-  "promedio": 308.2,
+  "promedio": 308.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
