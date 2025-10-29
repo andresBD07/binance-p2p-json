@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T07:57:14.066806",
-  "actualizado_vzla": "2025-10-29 03:57:14 -04",
+  "timestamp_utc": "2025-10-29T08:37:00.993273",
+  "actualizado_vzla": "2025-10-29 04:37:01 -04",
   "compra_segundo": {
     "price": 313.8,
-    "name": "PrimeCripto"
+    "name": "AlainT"
   },
   "venta_maxima": {
-    "price": 308.3,
-    "name": "Criptoseed"
+    "price": 308.112,
+    "name": "HiIAmIvan"
   },
-  "promedio": 311.05,
+  "promedio": 310.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
