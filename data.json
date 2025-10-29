@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T04:00:58.645405",
-  "actualizado_vzla": "2025-10-29 00:00:58 -04",
+  "timestamp_utc": "2025-10-29T04:36:57.924864",
+  "actualizado_vzla": "2025-10-29 00:36:57 -04",
   "compra_segundo": {
-    "price": 312.78,
-    "name": "Mero-Mero"
+    "price": 312.9,
+    "name": "TransJ_J"
   },
   "venta_maxima": {
-    "price": 309.05,
-    "name": "Marquez25"
+    "price": 309.35,
+    "name": "rrmadrid92"
   },
-  "promedio": 310.91,
+  "promedio": 311.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
