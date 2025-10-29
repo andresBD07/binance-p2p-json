@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T06:41:12.463697",
-  "actualizado_vzla": "2025-10-29 02:41:12 -04",
+  "timestamp_utc": "2025-10-29T06:58:35.404611",
+  "actualizado_vzla": "2025-10-29 02:58:35 -04",
   "compra_segundo": {
-    "price": 313.0,
-    "name": "btcmamba24"
+    "price": 313.3,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
-    "price": 308.55,
-    "name": "CryptoCapitalService"
+    "price": 308.6,
+    "name": "AirExhanger"
   },
-  "promedio": 310.77,
+  "promedio": 310.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
