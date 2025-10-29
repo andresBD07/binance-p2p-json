@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T02:09:00.046706",
-  "actualizado_vzla": "2025-10-28 22:09:00 -04",
+  "timestamp_utc": "2025-10-29T03:31:34.646051",
+  "actualizado_vzla": "2025-10-28 23:31:34 -04",
   "compra_segundo": {
-    "price": 311.4,
-    "name": "ChaizySwap"
+    "price": 312.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 308.709,
-    "name": "WOLFIAO"
+    "price": 309.1,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 310.05,
+  "promedio": 310.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
