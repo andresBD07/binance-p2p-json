@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T16:56:57.726706",
-  "actualizado_vzla": "2025-10-29 12:56:57 -04",
+  "timestamp_utc": "2025-10-29T17:26:39.812785",
+  "actualizado_vzla": "2025-10-29 13:26:39 -04",
   "compra_segundo": {
-    "price": 308.54,
-    "name": "Yourcoins"
+    "price": 308.5,
+    "name": "_AliExpress_"
   },
   "venta_maxima": {
     "price": 308.0,
     "name": "Quick Payment"
   },
-  "promedio": 308.27,
+  "promedio": 308.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
