@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T04:36:57.924864",
-  "actualizado_vzla": "2025-10-29 00:36:57 -04",
+  "timestamp_utc": "2025-10-29T04:54:12.804418",
+  "actualizado_vzla": "2025-10-29 00:54:12 -04",
   "compra_segundo": {
-    "price": 312.9,
-    "name": "TransJ_J"
+    "price": 312.93,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 309.35,
     "name": "rrmadrid92"
   },
-  "promedio": 311.12,
+  "promedio": 311.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
