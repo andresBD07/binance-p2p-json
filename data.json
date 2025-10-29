@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T20:52:27.060081",
-  "actualizado_vzla": "2025-10-29 16:52:27 -04",
+  "timestamp_utc": "2025-10-29T21:17:31.437857",
+  "actualizado_vzla": "2025-10-29 17:17:31 -04",
   "compra_segundo": {
-    "price": 308.333,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 308.62,
+    "name": "Trader_AngC"
   },
   "venta_maxima": {
-    "price": 307.92,
+    "price": 308.12,
     "name": "app2112"
   },
-  "promedio": 308.13,
+  "promedio": 308.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
