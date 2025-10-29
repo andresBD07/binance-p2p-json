@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T15:16:09.669095",
-  "actualizado_vzla": "2025-10-29 11:16:09 -04",
+  "timestamp_utc": "2025-10-29T15:41:17.241142",
+  "actualizado_vzla": "2025-10-29 11:41:17 -04",
   "compra_segundo": {
     "price": 308.0,
-    "name": "Candy2754"
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 307.001,
-    "name": "Servic-Karyguz"
+    "price": 307.7,
+    "name": "hectoraltrader"
   },
-  "promedio": 307.5,
+  "promedio": 307.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
