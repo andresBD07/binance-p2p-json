@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T11:57:01.917968",
-  "actualizado_vzla": "2025-10-29 07:57:01 -04",
+  "timestamp_utc": "2025-10-29T12:58:12.174903",
+  "actualizado_vzla": "2025-10-29 08:58:12 -04",
   "compra_segundo": {
-    "price": 310.9,
-    "name": "Magnetic10"
+    "price": 309.288,
+    "name": "SIVE_Trading"
   },
   "venta_maxima": {
-    "price": 309.0,
-    "name": "CambiossAvila"
+    "price": 308.25,
+    "name": "RATON JERRY"
   },
-  "promedio": 309.95,
+  "promedio": 308.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
