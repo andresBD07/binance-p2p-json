@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T14:29:22.466279",
-  "actualizado_vzla": "2025-10-29 10:29:22 -04",
+  "timestamp_utc": "2025-10-29T14:50:07.671930",
+  "actualizado_vzla": "2025-10-29 10:50:07 -04",
   "compra_segundo": {
-    "price": 308.0,
-    "name": "GokuExchange"
+    "price": 308.155,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
     "price": 307.0,
     "name": "TAURUS85"
   },
-  "promedio": 307.5,
+  "promedio": 307.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
