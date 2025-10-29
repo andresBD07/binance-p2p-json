@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T09:58:27.733880",
-  "actualizado_vzla": "2025-10-29 05:58:27 -04",
+  "timestamp_utc": "2025-10-29T10:32:35.528152",
+  "actualizado_vzla": "2025-10-29 06:32:35 -04",
   "compra_segundo": {
-    "price": 313.0,
-    "name": "btcmamba24"
+    "price": 312.0,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
-    "price": 308.2,
+    "price": 308.4,
     "name": "MikasaAckerman"
   },
-  "promedio": 310.6,
+  "promedio": 310.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
