@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T12:58:12.174903",
-  "actualizado_vzla": "2025-10-29 08:58:12 -04",
+  "timestamp_utc": "2025-10-29T13:39:35.831086",
+  "actualizado_vzla": "2025-10-29 09:39:35 -04",
   "compra_segundo": {
-    "price": 309.288,
-    "name": "SIVE_Trading"
+    "price": 308.45,
+    "name": "Alex"
   },
   "venta_maxima": {
-    "price": 308.25,
-    "name": "RATON JERRY"
+    "price": 306.4,
+    "name": "LogisticExchange"
   },
-  "promedio": 308.77,
+  "promedio": 307.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
