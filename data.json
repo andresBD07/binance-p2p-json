@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T19:50:26.685541",
-  "actualizado_vzla": "2025-10-29 15:50:26 -04",
+  "timestamp_utc": "2025-10-29T20:16:10.563289",
+  "actualizado_vzla": "2025-10-29 16:16:10 -04",
   "compra_segundo": {
-    "price": 308.3,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 308.399,
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 307.6,
-    "name": "hectoraltrader"
+    "price": 307.7,
+    "name": "SmartSolutionn"
   },
-  "promedio": 307.95,
+  "promedio": 308.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
