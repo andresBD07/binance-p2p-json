@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T23:42:32.423892",
-  "actualizado_vzla": "2025-10-29 19:42:32 -04",
+  "timestamp_utc": "2025-10-29T23:55:57.726382",
+  "actualizado_vzla": "2025-10-29 19:55:57 -04",
   "compra_segundo": {
-    "price": 308.899,
-    "name": "LAULAR87"
+    "price": 308.999,
+    "name": "A_CARDONAGROUP_"
   },
   "venta_maxima": {
     "price": 308.0,
     "name": "TheBlackHand"
   },
-  "promedio": 308.45,
+  "promedio": 308.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
