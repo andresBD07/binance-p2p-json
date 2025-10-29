@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T06:58:35.404611",
-  "actualizado_vzla": "2025-10-29 02:58:35 -04",
+  "timestamp_utc": "2025-10-29T07:27:45.212131",
+  "actualizado_vzla": "2025-10-29 03:27:45 -04",
   "compra_segundo": {
-    "price": 313.3,
-    "name": "CazadorDeBallenas"
+    "price": 313.8,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
     "price": 308.6,
     "name": "AirExhanger"
   },
-  "promedio": 310.95,
+  "promedio": 311.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
