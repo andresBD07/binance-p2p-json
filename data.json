@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T05:44:21.964705",
-  "actualizado_vzla": "2025-10-29 01:44:21 -04",
+  "timestamp_utc": "2025-10-29T05:57:38.557489",
+  "actualizado_vzla": "2025-10-29 01:57:38 -04",
   "compra_segundo": {
-    "price": 312.997,
-    "name": "USDT_INVERSIONES"
+    "price": 313.0,
+    "name": "zucorp"
   },
   "venta_maxima": {
-    "price": 308.2,
-    "name": "AirExhanger"
+    "price": 308.3,
+    "name": "Criptoseed"
   },
-  "promedio": 310.6,
+  "promedio": 310.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
