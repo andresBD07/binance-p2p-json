@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T11:39:33.119193",
-  "actualizado_vzla": "2025-10-30 07:39:33 -04",
+  "timestamp_utc": "2025-10-30T11:52:49.702371",
+  "actualizado_vzla": "2025-10-30 07:52:49 -04",
   "compra_segundo": {
-    "price": 308.4,
-    "name": "Inversiones-Kary"
+    "price": 308.48,
+    "name": "SKATFORT"
   },
   "venta_maxima": {
-    "price": 306.751,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 306.75,
+    "name": "Lacsen"
   },
-  "promedio": 307.58,
+  "promedio": 307.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
