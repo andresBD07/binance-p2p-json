@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T23:44:41.541165",
-  "actualizado_vzla": "2025-10-30 19:44:41 -04",
+  "timestamp_utc": "2025-10-30T23:57:57.401986",
+  "actualizado_vzla": "2025-10-30 19:57:57 -04",
   "compra_segundo": {
-    "price": 306.1,
-    "name": "CORPORACION_YYSE-25"
+    "price": 306.0,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "TheOchoa"
   },
-  "promedio": 305.55,
+  "promedio": 305.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
