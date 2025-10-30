@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T13:21:45.237342",
-  "actualizado_vzla": "2025-10-30 09:21:45 -04",
+  "timestamp_utc": "2025-10-30T13:47:06.287568",
+  "actualizado_vzla": "2025-10-30 09:47:06 -04",
   "compra_segundo": {
-    "price": 307.48,
-    "name": "Pivot_05"
+    "price": 307.0,
+    "name": "Specione"
   },
   "venta_maxima": {
-    "price": 306.6,
-    "name": "Coinectado"
+    "price": 307.0,
+    "name": "TheOchoa"
   },
-  "promedio": 307.04,
+  "promedio": 307.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
