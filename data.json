@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T05:56:33.861016",
-  "actualizado_vzla": "2025-10-30 01:56:33 -04",
+  "timestamp_utc": "2025-10-30T06:38:58.048357",
+  "actualizado_vzla": "2025-10-30 02:38:58 -04",
   "compra_segundo": {
-    "price": 309.85,
-    "name": "Mero-Mero"
+    "price": 309.9,
+    "name": "Suora21"
   },
   "venta_maxima": {
-    "price": 305.6,
-    "name": "Budyzz"
+    "price": 305.3,
+    "name": "PlutoTrading"
   },
-  "promedio": 307.73,
+  "promedio": 307.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
