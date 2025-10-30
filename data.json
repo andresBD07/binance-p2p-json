@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T03:18:13.086248",
-  "actualizado_vzla": "2025-10-29 23:18:13 -04",
+  "timestamp_utc": "2025-10-30T03:51:55.880377",
+  "actualizado_vzla": "2025-10-29 23:51:55 -04",
   "compra_segundo": {
-    "price": 309.0,
-    "name": "ElCandidoP2P"
+    "price": 309.37,
+    "name": "ratg1980"
   },
   "venta_maxima": {
-    "price": 307.5,
-    "name": "cambioson"
+    "price": 307.96,
+    "name": "Emmanuelli"
   },
-  "promedio": 308.25,
+  "promedio": 308.66,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
