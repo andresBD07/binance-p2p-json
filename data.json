@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T10:58:26.624038",
-  "actualizado_vzla": "2025-10-30 06:58:26 -04",
+  "timestamp_utc": "2025-10-30T11:24:01.423504",
+  "actualizado_vzla": "2025-10-30 07:24:01 -04",
   "compra_segundo": {
-    "price": 308.989,
-    "name": "SISISY"
+    "price": 308.525,
+    "name": "rebirthofthephoenix"
   },
   "venta_maxima": {
-    "price": 306.0,
-    "name": "Godisgift"
+    "price": 306.01,
+    "name": "Lacsen"
   },
-  "promedio": 307.49,
+  "promedio": 307.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
