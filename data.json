@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-29T23:55:57.726382",
-  "actualizado_vzla": "2025-10-29 19:55:57 -04",
+  "timestamp_utc": "2025-10-30T02:06:42.856584",
+  "actualizado_vzla": "2025-10-29 22:06:42 -04",
   "compra_segundo": {
-    "price": 308.999,
-    "name": "A_CARDONAGROUP_"
+    "price": 309.18,
+    "name": "DanielaCambios"
   },
   "venta_maxima": {
-    "price": 308.0,
-    "name": "TheBlackHand"
+    "price": 307.6,
+    "name": "Lacsen"
   },
-  "promedio": 308.5,
+  "promedio": 308.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
