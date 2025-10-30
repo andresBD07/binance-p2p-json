@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T21:25:10.686036",
-  "actualizado_vzla": "2025-10-30 17:25:10 -04",
+  "timestamp_utc": "2025-10-30T21:40:50.814774",
+  "actualizado_vzla": "2025-10-30 17:40:50 -04",
   "compra_segundo": {
-    "price": 306.1,
-    "name": "Neiker-Exchange"
+    "price": 305.999,
+    "name": "Jesús aranguren"
   },
   "venta_maxima": {
-    "price": 304.8,
-    "name": "TheOchoa"
+    "price": 306.0,
+    "name": "Quick Payment"
   },
-  "promedio": 305.45,
+  "promedio": 306.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
