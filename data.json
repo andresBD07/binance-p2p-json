@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T15:39:47.036657",
-  "actualizado_vzla": "2025-10-30 11:39:47 -04",
+  "timestamp_utc": "2025-10-30T15:54:50.955681",
+  "actualizado_vzla": "2025-10-30 11:54:50 -04",
   "compra_segundo": {
-    "price": 305.999,
-    "name": "Cambios_MH2107"
+    "price": 305.9,
+    "name": "Cambi0Express"
   },
   "venta_maxima": {
     "price": 305.5,
     "name": "TheOchoa"
   },
-  "promedio": 305.75,
+  "promedio": 305.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
