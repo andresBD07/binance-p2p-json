@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T02:06:42.856584",
-  "actualizado_vzla": "2025-10-29 22:06:42 -04",
+  "timestamp_utc": "2025-10-30T03:18:13.086248",
+  "actualizado_vzla": "2025-10-29 23:18:13 -04",
   "compra_segundo": {
-    "price": 309.18,
-    "name": "DanielaCambios"
+    "price": 309.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 307.6,
-    "name": "Lacsen"
+    "price": 307.5,
+    "name": "cambioson"
   },
-  "promedio": 308.39,
+  "promedio": 308.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
