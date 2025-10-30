@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T11:24:01.423504",
-  "actualizado_vzla": "2025-10-30 07:24:01 -04",
+  "timestamp_utc": "2025-10-30T11:39:33.119193",
+  "actualizado_vzla": "2025-10-30 07:39:33 -04",
   "compra_segundo": {
-    "price": 308.525,
-    "name": "rebirthofthephoenix"
+    "price": 308.4,
+    "name": "Inversiones-Kary"
   },
   "venta_maxima": {
-    "price": 306.01,
-    "name": "Lacsen"
+    "price": 306.751,
+    "name": "_CAMBI0S_SEGUR0S_"
   },
-  "promedio": 307.27,
+  "promedio": 307.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
