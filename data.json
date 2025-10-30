@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T05:43:19.657914",
-  "actualizado_vzla": "2025-10-30 01:43:19 -04",
+  "timestamp_utc": "2025-10-30T05:56:33.861016",
+  "actualizado_vzla": "2025-10-30 01:56:33 -04",
   "compra_segundo": {
     "price": 309.85,
     "name": "Mero-Mero"
   },
   "venta_maxima": {
-    "price": 306.585,
-    "name": "Cambios IvS"
+    "price": 305.6,
+    "name": "Budyzz"
   },
-  "promedio": 308.22,
+  "promedio": 307.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
