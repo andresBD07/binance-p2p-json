@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T20:58:49.180938",
-  "actualizado_vzla": "2025-10-30 16:58:49 -04",
+  "timestamp_utc": "2025-10-30T21:25:10.686036",
+  "actualizado_vzla": "2025-10-30 17:25:10 -04",
   "compra_segundo": {
-    "price": 306.4,
-    "name": "JJcambiosUSD"
+    "price": 306.1,
+    "name": "Neiker-Exchange"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "JoseParedez"
+    "price": 304.8,
+    "name": "TheOchoa"
   },
-  "promedio": 305.7,
+  "promedio": 305.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
