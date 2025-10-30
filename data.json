@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T18:52:38.443901",
-  "actualizado_vzla": "2025-10-30 14:52:38 -04",
+  "timestamp_utc": "2025-10-30T19:15:26.194545",
+  "actualizado_vzla": "2025-10-30 15:15:26 -04",
   "compra_segundo": {
-    "price": 306.149,
-    "name": "Guayoyoo"
+    "price": 305.995,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 306.0,
-    "name": "Si Me Pasas Te Paso"
+    "price": 305.5,
+    "name": "TheOchoa"
   },
-  "promedio": 306.07,
+  "promedio": 305.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
