@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T09:40:30.203190",
-  "actualizado_vzla": "2025-10-30 05:40:30 -04",
+  "timestamp_utc": "2025-10-30T09:53:50.174713",
+  "actualizado_vzla": "2025-10-30 05:53:50 -04",
   "compra_segundo": {
-    "price": 309.8,
-    "name": "RAULITO2809"
+    "price": 309.7,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
     "price": 305.5,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 307.65,
+  "promedio": 307.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
