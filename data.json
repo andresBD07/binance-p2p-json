@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T09:53:50.174713",
-  "actualizado_vzla": "2025-10-30 05:53:50 -04",
+  "timestamp_utc": "2025-10-30T10:24:16.820066",
+  "actualizado_vzla": "2025-10-30 06:24:16 -04",
   "compra_segundo": {
-    "price": 309.7,
-    "name": "圎Sushi"
+    "price": 309.42,
+    "name": "OTTONIELK"
   },
   "venta_maxima": {
     "price": 305.5,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 307.6,
+  "promedio": 307.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
