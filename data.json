@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T22:21:35.954932",
-  "actualizado_vzla": "2025-10-30 18:21:35 -04",
+  "timestamp_utc": "2025-10-30T22:38:31.103308",
+  "actualizado_vzla": "2025-10-30 18:38:31 -04",
   "compra_segundo": {
-    "price": 305.86,
-    "name": "CambiosJR2"
+    "price": 305.89,
+    "name": "水猴"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "Quick Payment"
   },
-  "promedio": 305.93,
+  "promedio": 305.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
