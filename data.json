@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T04:41:58.519515",
-  "actualizado_vzla": "2025-10-30 00:41:58 -04",
+  "timestamp_utc": "2025-10-30T04:55:19.991517",
+  "actualizado_vzla": "2025-10-30 00:55:20 -04",
   "compra_segundo": {
-    "price": 309.65,
-    "name": "Kartozpk"
+    "price": 309.85,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
-    "price": 307.96,
-    "name": "Emmanuelli"
+    "price": 306.585,
+    "name": "Cambios IvS"
   },
-  "promedio": 308.8,
+  "promedio": 308.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
