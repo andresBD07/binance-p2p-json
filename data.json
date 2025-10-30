@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-30T14:50:05.871358",
-  "actualizado_vzla": "2025-10-30 10:50:05 -04",
+  "timestamp_utc": "2025-10-30T15:15:25.262084",
+  "actualizado_vzla": "2025-10-30 11:15:25 -04",
   "compra_segundo": {
-    "price": 307.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 306.767,
+    "name": "Lextomato"
   },
   "venta_maxima": {
-    "price": 306.5,
+    "price": 307.0,
     "name": "TheOchoa"
   },
-  "promedio": 306.75,
+  "promedio": 306.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
