@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T11:20:58.231934",
-  "actualizado_vzla": "2025-10-31 07:20:58 -04",
+  "timestamp_utc": "2025-10-31T11:36:20.136300",
+  "actualizado_vzla": "2025-10-31 07:36:20 -04",
   "compra_segundo": {
-    "price": 306.3,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 306.25,
+    "name": "TheMerchanTHM"
   },
   "venta_maxima": {
-    "price": 304.509,
-    "name": "SPYG"
+    "price": 305.0,
+    "name": "TheOchoa"
   },
-  "promedio": 305.4,
+  "promedio": 305.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
