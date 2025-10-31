@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T15:58:01.817878",
-  "actualizado_vzla": "2025-10-31 11:58:01 -04",
+  "timestamp_utc": "2025-10-31T16:34:56.776918",
+  "actualizado_vzla": "2025-10-31 12:34:56 -04",
   "compra_segundo": {
-    "price": 303.7,
-    "name": "NexusBlock"
+    "price": 303.6,
+    "name": "Rebeasc"
   },
   "venta_maxima": {
-    "price": 303.21,
-    "name": "Brawlcoins"
+    "price": 304.1,
+    "name": "SmartSolutionn"
   },
-  "promedio": 303.45,
+  "promedio": 303.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
