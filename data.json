@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T19:40:46.491627",
-  "actualizado_vzla": "2025-10-31 15:40:46 -04",
+  "timestamp_utc": "2025-10-31T19:53:38.009560",
+  "actualizado_vzla": "2025-10-31 15:53:38 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "Ricardo"
+    "price": 302.9,
+    "name": "Cs Global"
   },
   "venta_maxima": {
-    "price": 302.5,
+    "price": 302.3,
     "name": "TheOchoa"
   },
-  "promedio": 302.75,
+  "promedio": 302.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
