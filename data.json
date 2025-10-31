@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T14:45:25.891436",
-  "actualizado_vzla": "2025-10-31 10:45:25 -04",
+  "timestamp_utc": "2025-10-31T14:57:59.998679",
+  "actualizado_vzla": "2025-10-31 10:58:00 -04",
   "compra_segundo": {
-    "price": 304.0,
-    "name": "MarcosWillexis"
+    "price": 303.998,
+    "name": "SISISY"
   },
   "venta_maxima": {
-    "price": 303.5,
-    "name": "TheOchoa"
+    "price": 306.0,
+    "name": "Raasca_System_Crypto"
   },
-  "promedio": 303.75,
+  "promedio": 305.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
