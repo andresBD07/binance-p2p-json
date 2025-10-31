@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T22:33:49.822697",
-  "actualizado_vzla": "2025-10-31 18:33:49 -04",
+  "timestamp_utc": "2025-10-31T22:46:45.779590",
+  "actualizado_vzla": "2025-10-31 18:46:45 -04",
   "compra_segundo": {
-    "price": 302.949,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 302.99,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
-    "price": 302.501,
-    "name": "MikasaAckerman"
+    "price": 303.2,
+    "name": "TheOchoa"
   },
-  "promedio": 302.73,
+  "promedio": 303.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
