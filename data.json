@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T17:39:01.803718",
-  "actualizado_vzla": "2025-10-31 13:39:01 -04",
+  "timestamp_utc": "2025-10-31T17:52:04.695569",
+  "actualizado_vzla": "2025-10-31 13:52:04 -04",
   "compra_segundo": {
-    "price": 303.5,
-    "name": "Camilo171"
+    "price": 303.49,
+    "name": "Hispano-Cripto"
   },
   "venta_maxima": {
-    "price": 304.0,
+    "price": 303.5,
     "name": "TheOchoa"
   },
-  "promedio": 303.75,
+  "promedio": 303.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
