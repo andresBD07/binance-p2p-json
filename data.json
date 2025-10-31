@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-10-31T05:45:29.603536",
-  "actualizado_vzla": "2025-10-31 01:45:29 -04",
+  "timestamp_utc": "2025-10-31T05:58:19.486729",
+  "actualizado_vzla": "2025-10-31 01:58:19 -04",
   "compra_segundo": {
-    "price": 307.99,
-    "name": "WebMoneyExchanger"
+    "price": 308.0,
+    "name": "Exotico"
   },
   "venta_maxima": {
     "price": 304.5,
