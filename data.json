@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T06:57:36.883478",
-  "actualizado_vzla": "2025-10-31 02:57:36 -04",
+  "timestamp_utc": "2025-10-31T07:25:48.730321",
+  "actualizado_vzla": "2025-10-31 03:25:48 -04",
   "compra_segundo": {
-    "price": 308.0,
-    "name": "ComercioJRG"
+    "price": 308.145,
+    "name": "Btctronics"
   },
   "venta_maxima": {
     "price": 304.5,
     "name": "talepagos"
   },
-  "promedio": 306.25,
+  "promedio": 306.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
