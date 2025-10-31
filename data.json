@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T22:11:42.382751",
-  "actualizado_vzla": "2025-10-31 18:11:42 -04",
+  "timestamp_utc": "2025-10-31T22:33:49.822697",
+  "actualizado_vzla": "2025-10-31 18:33:49 -04",
   "compra_segundo": {
-    "price": 302.8,
-    "name": "SoloTitularsNoTrcros"
+    "price": 302.949,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 302.5,
-    "name": "TheOchoa"
+    "price": 302.501,
+    "name": "MikasaAckerman"
   },
-  "promedio": 302.65,
+  "promedio": 302.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
