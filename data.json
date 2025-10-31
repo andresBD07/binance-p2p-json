@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T13:07:29.573454",
-  "actualizado_vzla": "2025-10-31 09:07:29 -04",
+  "timestamp_utc": "2025-10-31T13:41:19.127582",
+  "actualizado_vzla": "2025-10-31 09:41:19 -04",
   "compra_segundo": {
-    "price": 305.1,
-    "name": "JM-p2p"
+    "price": 304.458,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
-    "price": 305.0,
+    "price": 304.5,
     "name": "TheOchoa"
   },
-  "promedio": 305.05,
+  "promedio": 304.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
