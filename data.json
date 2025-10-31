@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T22:46:45.779590",
-  "actualizado_vzla": "2025-10-31 18:46:45 -04",
+  "timestamp_utc": "2025-10-31T22:59:49.646348",
+  "actualizado_vzla": "2025-10-31 18:59:49 -04",
   "compra_segundo": {
-    "price": 302.99,
-    "name": "圎Sushi"
+    "price": 303.24,
+    "name": "CryptoKoku"
   },
   "venta_maxima": {
-    "price": 303.2,
+    "price": 303.0,
     "name": "TheOchoa"
   },
-  "promedio": 303.1,
+  "promedio": 303.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
