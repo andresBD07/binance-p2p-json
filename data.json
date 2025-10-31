@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T19:26:58.334128",
-  "actualizado_vzla": "2025-10-31 15:26:58 -04",
+  "timestamp_utc": "2025-10-31T19:40:46.491627",
+  "actualizado_vzla": "2025-10-31 15:40:46 -04",
   "compra_segundo": {
     "price": 303.0,
-    "name": "TradewCrypto"
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 303.0,
+    "price": 302.5,
     "name": "TheOchoa"
   },
-  "promedio": 303.0,
+  "promedio": 302.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
