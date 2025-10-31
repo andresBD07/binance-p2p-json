@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T18:51:22.596859",
-  "actualizado_vzla": "2025-10-31 14:51:22 -04",
+  "timestamp_utc": "2025-10-31T19:11:34.540641",
+  "actualizado_vzla": "2025-10-31 15:11:34 -04",
   "compra_segundo": {
-    "price": 303.49,
-    "name": "BallGroup"
+    "price": 303.249,
+    "name": "IBEROGESTION"
   },
   "venta_maxima": {
     "price": 303.0,
     "name": "TheOchoa"
   },
-  "promedio": 303.25,
+  "promedio": 303.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
