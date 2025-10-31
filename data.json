@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T20:43:37.875455",
-  "actualizado_vzla": "2025-10-31 16:43:37 -04",
+  "timestamp_utc": "2025-10-31T20:57:05.386584",
+  "actualizado_vzla": "2025-10-31 16:57:05 -04",
   "compra_segundo": {
-    "price": 302.3,
-    "name": "N1-Casa_Cripto-N1"
+    "price": 302.39,
+    "name": "Rappid0"
   },
   "venta_maxima": {
     "price": 302.1,
     "name": "TheOchoa"
   },
-  "promedio": 302.2,
+  "promedio": 302.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
