@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T14:24:22.034216",
-  "actualizado_vzla": "2025-10-31 10:24:22 -04",
+  "timestamp_utc": "2025-10-31T14:45:25.891436",
+  "actualizado_vzla": "2025-10-31 10:45:25 -04",
   "compra_segundo": {
-    "price": 303.98,
-    "name": "CenterToken"
+    "price": 304.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 303.0,
+    "price": 303.5,
     "name": "TheOchoa"
   },
-  "promedio": 303.49,
+  "promedio": 303.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
