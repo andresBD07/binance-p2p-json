@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T04:58:49.273795",
-  "actualizado_vzla": "2025-10-31 00:58:49 -04",
+  "timestamp_utc": "2025-10-31T05:29:37.892349",
+  "actualizado_vzla": "2025-10-31 01:29:37 -04",
   "compra_segundo": {
-    "price": 307.4,
-    "name": "Camilo171"
+    "price": 307.95,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 304.5,
     "name": "talepagos"
   },
-  "promedio": 305.95,
+  "promedio": 306.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
