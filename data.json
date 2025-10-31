@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T16:53:53.455915",
-  "actualizado_vzla": "2025-10-31 12:53:53 -04",
+  "timestamp_utc": "2025-10-31T17:20:33.922898",
+  "actualizado_vzla": "2025-10-31 13:20:33 -04",
   "compra_segundo": {
-    "price": 303.8,
-    "name": "Safe-tradeV"
+    "price": 303.585,
+    "name": "Cmkplus"
   },
   "venta_maxima": {
-    "price": 304.0,
-    "name": "TheOchoa"
+    "price": 303.32,
+    "name": "Orgs85"
   },
-  "promedio": 303.9,
+  "promedio": 303.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
