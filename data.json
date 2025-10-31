@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T15:45:11.116420",
-  "actualizado_vzla": "2025-10-31 11:45:11 -04",
+  "timestamp_utc": "2025-10-31T15:58:01.817878",
+  "actualizado_vzla": "2025-10-31 11:58:01 -04",
   "compra_segundo": {
-    "price": 303.8,
-    "name": "CambiosAshley"
+    "price": 303.7,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
-    "price": 303.5,
-    "name": "LogisticExchange"
+    "price": 303.21,
+    "name": "Brawlcoins"
   },
-  "promedio": 303.65,
+  "promedio": 303.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
