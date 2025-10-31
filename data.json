@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T11:36:20.136300",
-  "actualizado_vzla": "2025-10-31 07:36:20 -04",
+  "timestamp_utc": "2025-10-31T11:49:39.915248",
+  "actualizado_vzla": "2025-10-31 07:49:39 -04",
   "compra_segundo": {
-    "price": 306.25,
-    "name": "TheMerchanTHM"
+    "price": 306.18,
+    "name": "fnog"
   },
   "venta_maxima": {
     "price": 305.0,
     "name": "TheOchoa"
   },
-  "promedio": 305.62,
+  "promedio": 305.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
