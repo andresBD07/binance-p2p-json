@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T17:52:04.695569",
-  "actualizado_vzla": "2025-10-31 13:52:04 -04",
+  "timestamp_utc": "2025-10-31T18:26:08.904684",
+  "actualizado_vzla": "2025-10-31 14:26:08 -04",
   "compra_segundo": {
-    "price": 303.49,
-    "name": "Hispano-Cripto"
+    "price": 303.32,
+    "name": "JMCrip26"
   },
   "venta_maxima": {
     "price": 303.5,
-    "name": "TheOchoa"
+    "name": "Quick Payment"
   },
-  "promedio": 303.5,
+  "promedio": 303.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
