@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T03:52:47.944260",
-  "actualizado_vzla": "2025-10-30 23:52:47 -04",
+  "timestamp_utc": "2025-10-31T04:23:58.365542",
+  "actualizado_vzla": "2025-10-31 00:23:58 -04",
   "compra_segundo": {
-    "price": 306.998,
-    "name": "Dinero-Seguro"
+    "price": 307.3,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 304.5,
     "name": "talepagos"
   },
-  "promedio": 305.75,
+  "promedio": 305.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
