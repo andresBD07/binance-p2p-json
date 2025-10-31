@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T13:54:26.250705",
-  "actualizado_vzla": "2025-10-31 09:54:26 -04",
+  "timestamp_utc": "2025-10-31T14:24:22.034216",
+  "actualizado_vzla": "2025-10-31 10:24:22 -04",
   "compra_segundo": {
-    "price": 304.3,
-    "name": "LaYanza"
+    "price": 303.98,
+    "name": "CenterToken"
   },
   "venta_maxima": {
-    "price": 304.0,
+    "price": 303.0,
     "name": "TheOchoa"
   },
-  "promedio": 304.15,
+  "promedio": 303.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
