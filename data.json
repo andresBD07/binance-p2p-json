@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T08:31:22.597358",
-  "actualizado_vzla": "2025-10-31 04:31:22 -04",
+  "timestamp_utc": "2025-10-31T08:51:30.369492",
+  "actualizado_vzla": "2025-10-31 04:51:30 -04",
   "compra_segundo": {
-    "price": 308.145,
-    "name": "Btctronics"
+    "price": 308.2,
+    "name": "Imperiocrypto_co"
   },
   "venta_maxima": {
     "price": 304.5,
     "name": "talepagos"
   },
-  "promedio": 306.32,
+  "promedio": 306.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
