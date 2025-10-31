@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-10-31T19:53:38.009560",
-  "actualizado_vzla": "2025-10-31 15:53:38 -04",
+  "timestamp_utc": "2025-10-31T20:24:06.500215",
+  "actualizado_vzla": "2025-10-31 16:24:06 -04",
   "compra_segundo": {
-    "price": 302.9,
-    "name": "Cs Global"
+    "price": 302.499,
+    "name": "Tumonedavirtual"
   },
   "venta_maxima": {
-    "price": 302.3,
+    "price": 302.1,
     "name": "TheOchoa"
   },
-  "promedio": 302.6,
+  "promedio": 302.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
