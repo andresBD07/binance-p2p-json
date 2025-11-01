@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T06:35:28.284101",
-  "actualizado_vzla": "2025-11-01 02:35:28 -04",
+  "timestamp_utc": "2025-11-01T06:50:57.155028",
+  "actualizado_vzla": "2025-11-01 02:50:57 -04",
   "compra_segundo": {
-    "price": 304.75,
-    "name": "GaAle19"
+    "price": 304.5,
+    "name": "IA_CORPORATE"
   },
   "venta_maxima": {
     "price": 301.1,
     "name": "cambiosguarico"
   },
-  "promedio": 302.93,
+  "promedio": 302.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
