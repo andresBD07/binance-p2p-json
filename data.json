@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T21:59:02.207461",
-  "actualizado_vzla": "2025-11-01 17:59:02 -04",
+  "timestamp_utc": "2025-11-01T22:25:57.837808",
+  "actualizado_vzla": "2025-11-01 18:25:57 -04",
   "compra_segundo": {
-    "price": 302.195,
-    "name": "Sg-Cambioseguro"
+    "price": 302.04,
+    "name": "Trader_LB"
   },
   "venta_maxima": {
-    "price": 301.9,
-    "name": "Child-CambioFacil"
+    "price": 301.0,
+    "name": "Biyt"
   },
-  "promedio": 302.05,
+  "promedio": 301.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
