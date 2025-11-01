@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-01T09:40:36.065973",
-  "actualizado_vzla": "2025-11-01 05:40:36 -04",
+  "timestamp_utc": "2025-11-01T09:53:45.570389",
+  "actualizado_vzla": "2025-11-01 05:53:45 -04",
   "compra_segundo": {
-    "price": 304.495,
-    "name": "INGENERIA_D_CAMBIO"
+    "price": 304.5,
+    "name": "WebMoneyExchanger"
   },
   "venta_maxima": {
     "price": 301.1,
