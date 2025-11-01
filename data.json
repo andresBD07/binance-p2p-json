@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-01T13:34:39.246413",
-  "actualizado_vzla": "2025-11-01 09:34:39 -04",
+  "timestamp_utc": "2025-11-01T13:47:40.031041",
+  "actualizado_vzla": "2025-11-01 09:47:40 -04",
   "compra_segundo": {
-    "price": 302.5,
-    "name": "Dayuda"
+    "price": 302.499,
+    "name": "BiosPraga"
   },
   "venta_maxima": {
     "price": 301.5,
