@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T23:19:28.943705",
-  "actualizado_vzla": "2025-11-01 19:19:28 -04",
+  "timestamp_utc": "2025-11-01T23:33:47.986810",
+  "actualizado_vzla": "2025-11-01 19:33:47 -04",
   "compra_segundo": {
-    "price": 301.72,
-    "name": "Jumpsuit"
+    "price": 301.689,
+    "name": "Fexyz"
   },
   "venta_maxima": {
     "price": 301.7,
     "name": "MaxuelTrader"
   },
-  "promedio": 301.71,
+  "promedio": 301.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
