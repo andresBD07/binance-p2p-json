@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T01:25:20.717620",
-  "actualizado_vzla": "2025-10-31 21:25:20 -04",
+  "timestamp_utc": "2025-11-01T02:59:04.612305",
+  "actualizado_vzla": "2025-10-31 22:59:04 -04",
   "compra_segundo": {
-    "price": 303.0,
-    "name": "ElCandidoP2P"
+    "price": 303.14,
+    "name": "DanielaCambios"
   },
   "venta_maxima": {
-    "price": 302.35,
-    "name": "TheOchoa"
+    "price": 301.2,
+    "name": "TuPagoRapido"
   },
-  "promedio": 302.68,
+  "promedio": 302.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
