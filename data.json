@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T04:00:06.314344",
-  "actualizado_vzla": "2025-11-01 00:00:06 -04",
+  "timestamp_utc": "2025-11-01T04:30:55.905728",
+  "actualizado_vzla": "2025-11-01 00:30:55 -04",
   "compra_segundo": {
-    "price": 303.7,
-    "name": "Ekxprees"
+    "price": 303.995,
+    "name": "7Trinity7"
   },
   "venta_maxima": {
     "price": 301.2,
     "name": "TuPagoRapido"
   },
-  "promedio": 302.45,
+  "promedio": 302.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
