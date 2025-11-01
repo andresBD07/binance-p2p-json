@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T18:29:24.329676",
-  "actualizado_vzla": "2025-11-01 14:29:24 -04",
+  "timestamp_utc": "2025-11-01T18:46:30.979619",
+  "actualizado_vzla": "2025-11-01 14:46:30 -04",
   "compra_segundo": {
-    "price": 303.3,
-    "name": "愛PolarcitaCoin愛"
+    "price": 303.2,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 303.07,
+    "price": 302.62,
     "name": "TheOchoa"
   },
-  "promedio": 303.19,
+  "promedio": 302.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
