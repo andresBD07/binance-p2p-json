@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T15:49:08.148132",
-  "actualizado_vzla": "2025-11-01 11:49:08 -04",
+  "timestamp_utc": "2025-11-01T16:11:38.005227",
+  "actualizado_vzla": "2025-11-01 12:11:38 -04",
   "compra_segundo": {
-    "price": 303.489,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 303.5,
+    "name": "MONEY-EXCHANGE-RS"
   },
   "venta_maxima": {
     "price": 303.4,
     "name": "TheOchoa"
   },
-  "promedio": 303.44,
+  "promedio": 303.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
