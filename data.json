@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T20:41:24.871545",
-  "actualizado_vzla": "2025-11-01 16:41:24 -04",
+  "timestamp_utc": "2025-11-01T20:54:43.397132",
+  "actualizado_vzla": "2025-11-01 16:54:43 -04",
   "compra_segundo": {
-    "price": 302.494,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 302.44,
+    "name": "Sag87"
   },
   "venta_maxima": {
-    "price": 302.3,
-    "name": "Eliezerjph"
+    "price": 302.0,
+    "name": "Godisgift"
   },
-  "promedio": 302.4,
+  "promedio": 302.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
