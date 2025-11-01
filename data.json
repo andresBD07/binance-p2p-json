@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T16:35:39.738865",
-  "actualizado_vzla": "2025-11-01 12:35:39 -04",
+  "timestamp_utc": "2025-11-01T16:49:11.383037",
+  "actualizado_vzla": "2025-11-01 12:49:11 -04",
   "compra_segundo": {
-    "price": 303.81,
-    "name": "InvMiggy"
+    "price": 303.6,
+    "name": "LelysMed"
   },
   "venta_maxima": {
     "price": 303.2,
     "name": "TheOchoa"
   },
-  "promedio": 303.5,
+  "promedio": 303.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
