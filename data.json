@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T14:01:01.334205",
-  "actualizado_vzla": "2025-11-01 10:01:01 -04",
+  "timestamp_utc": "2025-11-01T14:26:39.249241",
+  "actualizado_vzla": "2025-11-01 10:26:39 -04",
   "compra_segundo": {
-    "price": 302.499,
+    "price": 302.379,
     "name": "Cambiosbraycar"
   },
   "venta_maxima": {
-    "price": 302.0,
-    "name": "LogisticExchange"
+    "price": 302.7,
+    "name": "TheOchoa"
   },
-  "promedio": 302.25,
+  "promedio": 302.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
