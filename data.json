@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T17:54:12.060672",
-  "actualizado_vzla": "2025-11-01 13:54:12 -04",
+  "timestamp_utc": "2025-11-01T18:29:24.329676",
+  "actualizado_vzla": "2025-11-01 14:29:24 -04",
   "compra_segundo": {
-    "price": 303.466,
-    "name": "LTCambiosRapido"
+    "price": 303.3,
+    "name": "愛PolarcitaCoin愛"
   },
   "venta_maxima": {
-    "price": 303.2,
+    "price": 303.07,
     "name": "TheOchoa"
   },
-  "promedio": 303.33,
+  "promedio": 303.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
