@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T05:43:12.147957",
-  "actualizado_vzla": "2025-11-01 01:43:12 -04",
+  "timestamp_utc": "2025-11-01T05:56:09.579775",
+  "actualizado_vzla": "2025-11-01 01:56:09 -04",
   "compra_segundo": {
-    "price": 304.35,
-    "name": "彡TrustyTrader1A彡"
+    "price": 304.45,
+    "name": "YeyoYeyo"
   },
   "venta_maxima": {
     "price": 301.2,
     "name": "TuPagoRapido"
   },
-  "promedio": 302.77,
+  "promedio": 302.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
