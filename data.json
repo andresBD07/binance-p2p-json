@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T23:33:47.986810",
-  "actualizado_vzla": "2025-11-01 19:33:47 -04",
+  "timestamp_utc": "2025-11-01T23:46:58.002701",
+  "actualizado_vzla": "2025-11-01 19:46:58 -04",
   "compra_segundo": {
-    "price": 301.689,
-    "name": "Fexyz"
+    "price": 301.9,
+    "name": "KittyTrader16"
   },
   "venta_maxima": {
-    "price": 301.7,
-    "name": "MaxuelTrader"
+    "price": 300.85,
+    "name": "ComerciosLobo_"
   },
-  "promedio": 301.69,
+  "promedio": 301.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
