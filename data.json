@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T21:33:05.333716",
-  "actualizado_vzla": "2025-11-01 17:33:05 -04",
+  "timestamp_utc": "2025-11-01T21:46:00.050066",
+  "actualizado_vzla": "2025-11-01 17:46:00 -04",
   "compra_segundo": {
-    "price": 302.38,
-    "name": "RAPIDOySEGURO_EAGLE"
+    "price": 302.253,
+    "name": "CriptoALG"
   },
   "venta_maxima": {
     "price": 302.0,
     "name": "Godisgift"
   },
-  "promedio": 302.19,
+  "promedio": 302.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
