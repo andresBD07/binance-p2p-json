@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T04:46:00.653508",
-  "actualizado_vzla": "2025-11-01 00:46:00 -04",
+  "timestamp_utc": "2025-11-01T04:58:52.740178",
+  "actualizado_vzla": "2025-11-01 00:58:52 -04",
   "compra_segundo": {
-    "price": 303.99,
-    "name": "Elitecambios_J"
+    "price": 303.8,
+    "name": "nene"
   },
   "venta_maxima": {
     "price": 301.2,
     "name": "TuPagoRapido"
   },
-  "promedio": 302.6,
+  "promedio": 302.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
