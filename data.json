@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T17:27:40.790960",
-  "actualizado_vzla": "2025-11-01 13:27:40 -04",
+  "timestamp_utc": "2025-11-01T17:41:05.456126",
+  "actualizado_vzla": "2025-11-01 13:41:05 -04",
   "compra_segundo": {
-    "price": 303.649,
-    "name": "CIFRANAUTA"
+    "price": 303.5,
+    "name": "AkExpress"
   },
   "venta_maxima": {
     "price": 303.2,
     "name": "TheOchoa"
   },
-  "promedio": 303.42,
+  "promedio": 303.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
