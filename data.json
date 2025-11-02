@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T10:51:01.318143",
-  "actualizado_vzla": "2025-11-02 06:51:01 -04",
+  "timestamp_utc": "2025-11-02T11:11:34.501361",
+  "actualizado_vzla": "2025-11-02 07:11:34 -04",
   "compra_segundo": {
-    "price": 303.99,
-    "name": "Servicios_JT"
+    "price": 303.9,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
     "price": 300.0,
     "name": "Cripto-Ale"
   },
-  "promedio": 302.0,
+  "promedio": 301.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
