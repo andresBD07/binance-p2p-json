@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T14:38:29.121422",
-  "actualizado_vzla": "2025-11-02 10:38:29 -04",
+  "timestamp_utc": "2025-11-02T14:51:36.830636",
+  "actualizado_vzla": "2025-11-02 10:51:36 -04",
   "compra_segundo": {
-    "price": 303.5,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 303.6,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 302.0,
-    "name": "JoseParedez"
+    "name": "TheOchoa"
   },
-  "promedio": 302.75,
+  "promedio": 302.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
