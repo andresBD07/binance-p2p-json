@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T09:25:23.574877",
-  "actualizado_vzla": "2025-11-02 05:25:23 -04",
+  "timestamp_utc": "2025-11-02T09:40:03.934050",
+  "actualizado_vzla": "2025-11-02 05:40:03 -04",
   "compra_segundo": {
-    "price": 304.8,
-    "name": "KRIPTOREY"
+    "price": 304.85,
+    "name": "INGENERIA_D_CAMBIO"
   },
   "venta_maxima": {
     "price": 298.0,
     "name": "Panamtrading"
   },
-  "promedio": 301.4,
+  "promedio": 301.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
