@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T17:24:41.536533",
-  "actualizado_vzla": "2025-11-02 13:24:41 -04",
+  "timestamp_utc": "2025-11-02T17:39:18.751939",
+  "actualizado_vzla": "2025-11-02 13:39:18 -04",
   "compra_segundo": {
-    "price": 303.999,
-    "name": "Chopyman"
+    "price": 303.989,
+    "name": "NimaX-64"
   },
   "venta_maxima": {
-    "price": 303.8,
+    "price": 303.2,
     "name": "JoseParedez"
   },
-  "promedio": 303.9,
+  "promedio": 303.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
