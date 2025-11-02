@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T22:55:18.056655",
-  "actualizado_vzla": "2025-11-02 18:55:18 -04",
+  "timestamp_utc": "2025-11-02T23:22:10.623115",
+  "actualizado_vzla": "2025-11-02 19:22:10 -04",
   "compra_segundo": {
-    "price": 304.18,
-    "name": "NuebotFlash"
+    "price": 304.19,
+    "name": "CambiosLaGoma2"
   },
   "venta_maxima": {
-    "price": 303.301,
-    "name": "Cripto_Operaciones"
+    "price": 303.0,
+    "name": "Eliezerjph"
   },
-  "promedio": 303.74,
+  "promedio": 303.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
