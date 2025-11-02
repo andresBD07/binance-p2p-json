@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T18:22:12.203538",
-  "actualizado_vzla": "2025-11-02 14:22:12 -04",
+  "timestamp_utc": "2025-11-02T18:43:12.002155",
+  "actualizado_vzla": "2025-11-02 14:43:12 -04",
   "compra_segundo": {
     "price": 304.0,
-    "name": "Will_Cripto"
+    "name": "ELGOCHOXCHANGE31"
   },
   "venta_maxima": {
-    "price": 303.0,
-    "name": "Eliezerjph"
+    "price": 304.0,
+    "name": "JoseParedez"
   },
-  "promedio": 303.5,
+  "promedio": 304.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
