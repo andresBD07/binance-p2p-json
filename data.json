@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T11:26:19.393733",
-  "actualizado_vzla": "2025-11-02 07:26:19 -04",
+  "timestamp_utc": "2025-11-02T11:40:19.939776",
+  "actualizado_vzla": "2025-11-02 07:40:19 -04",
   "compra_segundo": {
-    "price": 303.77,
-    "name": "JS_Valentine"
+    "price": 303.1,
+    "name": "Puerto-Trader"
   },
   "venta_maxima": {
     "price": 300.0,
     "name": "Cripto-Ale"
   },
-  "promedio": 301.88,
+  "promedio": 301.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
