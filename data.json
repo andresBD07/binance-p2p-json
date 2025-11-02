@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T20:41:45.808261",
-  "actualizado_vzla": "2025-11-02 16:41:45 -04",
+  "timestamp_utc": "2025-11-02T20:54:31.230124",
+  "actualizado_vzla": "2025-11-02 16:54:31 -04",
   "compra_segundo": {
-    "price": 303.899,
-    "name": "Dr Trader"
+    "price": 303.92,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 303.2,
-    "name": "JoseParedez"
+    "price": 303.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 303.55,
+  "promedio": 303.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
