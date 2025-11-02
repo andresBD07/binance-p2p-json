@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T12:38:51.995117",
-  "actualizado_vzla": "2025-11-02 08:38:52 -04",
+  "timestamp_utc": "2025-11-02T13:05:13.313294",
+  "actualizado_vzla": "2025-11-02 09:05:13 -04",
   "compra_segundo": {
-    "price": 302.94,
-    "name": "TeresaCrip"
+    "price": 303.489,
+    "name": "Duquessa"
   },
   "venta_maxima": {
-    "price": 301.0,
-    "name": "bigmitchum"
+    "price": 300.5,
+    "name": "ComerciosLobo_"
   },
-  "promedio": 301.97,
+  "promedio": 301.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
