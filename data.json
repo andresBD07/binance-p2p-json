@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T07:46:15.435078",
-  "actualizado_vzla": "2025-11-02 03:46:15 -04",
+  "timestamp_utc": "2025-11-02T07:59:33.758213",
+  "actualizado_vzla": "2025-11-02 03:59:33 -04",
   "compra_segundo": {
-    "price": 304.697,
-    "name": "Capital Bloom"
+    "price": 304.8,
+    "name": "Imperiocrypto_co"
   },
   "venta_maxima": {
-    "price": 299.5,
-    "name": "leomileo2022"
+    "price": 299.1,
+    "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 302.1,
+  "promedio": 301.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
