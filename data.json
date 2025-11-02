@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T19:18:15.963806",
-  "actualizado_vzla": "2025-11-02 15:18:15 -04",
+  "timestamp_utc": "2025-11-02T19:31:48.155381",
+  "actualizado_vzla": "2025-11-02 15:31:48 -04",
   "compra_segundo": {
-    "price": 303.95,
-    "name": "Trading_professional"
+    "price": 303.9,
+    "name": "_AliExpress_"
   },
   "venta_maxima": {
-    "price": 303.5,
+    "price": 304.0,
     "name": "JoseParedez"
   },
-  "promedio": 303.73,
+  "promedio": 303.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
