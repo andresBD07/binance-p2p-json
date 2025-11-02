@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-01T23:59:59.120129",
-  "actualizado_vzla": "2025-11-01 19:59:59 -04",
+  "timestamp_utc": "2025-11-02T02:17:45.609166",
+  "actualizado_vzla": "2025-11-01 22:17:45 -04",
   "compra_segundo": {
-    "price": 301.9,
-    "name": "Mauro03"
+    "price": 302.25,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 301.7,
-    "name": "GREEN78"
+    "price": 301.2,
+    "name": "Cambioscorleone"
   },
-  "promedio": 301.8,
+  "promedio": 301.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
