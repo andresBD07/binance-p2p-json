@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T14:23:01.705714",
-  "actualizado_vzla": "2025-11-02 10:23:01 -04",
+  "timestamp_utc": "2025-11-02T14:38:29.121422",
+  "actualizado_vzla": "2025-11-02 10:38:29 -04",
   "compra_segundo": {
-    "price": 303.36,
-    "name": "Bigwhale12"
+    "price": 303.5,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 301.5,
+    "price": 302.0,
     "name": "JoseParedez"
   },
-  "promedio": 302.43,
+  "promedio": 302.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
