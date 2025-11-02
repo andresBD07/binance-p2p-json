@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T10:19:15.073598",
-  "actualizado_vzla": "2025-11-02 06:19:15 -04",
+  "timestamp_utc": "2025-11-02T10:37:42.065696",
+  "actualizado_vzla": "2025-11-02 06:37:42 -04",
   "compra_segundo": {
-    "price": 304.25,
-    "name": "PrimeCripto"
+    "price": 304.0,
+    "name": "Chopyman"
   },
   "venta_maxima": {
-    "price": 299.0,
-    "name": "inverck"
+    "price": 299.5,
+    "name": "leomileo2022"
   },
-  "promedio": 301.62,
+  "promedio": 301.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
