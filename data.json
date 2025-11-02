@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T21:46:40.958144",
-  "actualizado_vzla": "2025-11-02 17:46:40 -04",
+  "timestamp_utc": "2025-11-02T21:59:31.857588",
+  "actualizado_vzla": "2025-11-02 17:59:31 -04",
   "compra_segundo": {
-    "price": 304.0,
-    "name": "succubus"
+    "price": 303.9,
+    "name": "nene"
   },
   "venta_maxima": {
     "price": 303.0,
     "name": "All-inCrypto"
   },
-  "promedio": 303.5,
+  "promedio": 303.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
