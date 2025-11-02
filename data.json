@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-02T19:44:40.084653",
-  "actualizado_vzla": "2025-11-02 15:44:40 -04",
+  "timestamp_utc": "2025-11-02T19:57:37.350669",
+  "actualizado_vzla": "2025-11-02 15:57:37 -04",
   "compra_segundo": {
     "price": 303.7,
-    "name": "REMESAS_M_L_Y_YORBIS"
+    "name": "JJcambiosUSD"
   },
   "venta_maxima": {
     "price": 303.999,
