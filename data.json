@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T05:45:21.655229",
-  "actualizado_vzla": "2025-11-02 01:45:21 -04",
+  "timestamp_utc": "2025-11-02T05:58:34.463790",
+  "actualizado_vzla": "2025-11-02 01:58:34 -04",
   "compra_segundo": {
-    "price": 304.29,
-    "name": "KRIPTOREY"
+    "price": 304.2,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
     "price": 301.0,
     "name": "TuPagoRapido"
   },
-  "promedio": 302.64,
+  "promedio": 302.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
