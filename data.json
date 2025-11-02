@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T07:19:18.073639",
-  "actualizado_vzla": "2025-11-02 03:19:18 -04",
+  "timestamp_utc": "2025-11-02T07:33:21.208973",
+  "actualizado_vzla": "2025-11-02 03:33:21 -04",
   "compra_segundo": {
     "price": 304.695,
     "name": "Elitecambios_J"
   },
   "venta_maxima": {
-    "price": 300.1,
-    "name": "leomileo2022"
+    "price": 304.0,
+    "name": "cambiosancristobal"
   },
-  "promedio": 302.4,
+  "promedio": 304.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
