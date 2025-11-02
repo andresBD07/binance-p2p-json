@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T08:31:30.356640",
-  "actualizado_vzla": "2025-11-02 04:31:30 -04",
+  "timestamp_utc": "2025-11-02T08:46:17.230165",
+  "actualizado_vzla": "2025-11-02 04:46:17 -04",
   "compra_segundo": {
-    "price": 304.739,
-    "name": "Juan15_7"
+    "price": 304.8,
+    "name": "Imperiocrypto_co"
   },
   "venta_maxima": {
-    "price": 299.1,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 304.0,
+    "name": "cambiosancristobal"
   },
-  "promedio": 301.92,
+  "promedio": 304.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
