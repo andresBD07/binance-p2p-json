@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T10:37:42.065696",
-  "actualizado_vzla": "2025-11-02 06:37:42 -04",
+  "timestamp_utc": "2025-11-02T10:51:01.318143",
+  "actualizado_vzla": "2025-11-02 06:51:01 -04",
   "compra_segundo": {
-    "price": 304.0,
-    "name": "Chopyman"
+    "price": 303.99,
+    "name": "Servicios_JT"
   },
   "venta_maxima": {
-    "price": 299.5,
-    "name": "leomileo2022"
+    "price": 300.0,
+    "name": "Cripto-Ale"
   },
-  "promedio": 301.75,
+  "promedio": 302.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
