@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T20:54:31.230124",
-  "actualizado_vzla": "2025-11-02 16:54:31 -04",
+  "timestamp_utc": "2025-11-02T21:19:20.804264",
+  "actualizado_vzla": "2025-11-02 17:19:20 -04",
   "compra_segundo": {
-    "price": 303.92,
-    "name": "DAKLANID"
+    "price": 303.85,
+    "name": "Trellvader"
   },
   "venta_maxima": {
     "price": 303.0,
-    "name": "hectoraltrader"
+    "name": "All-inCrypto"
   },
-  "promedio": 303.46,
+  "promedio": 303.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
