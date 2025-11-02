@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-02T15:31:22.052929",
-  "actualizado_vzla": "2025-11-02 11:31:22 -04",
+  "timestamp_utc": "2025-11-02T15:44:23.636515",
+  "actualizado_vzla": "2025-11-02 11:44:23 -04",
   "compra_segundo": {
-    "price": 304.1,
-    "name": "LaYanza"
+    "price": 304.0,
+    "name": "AvExchange"
   },
   "venta_maxima": {
-    "price": 303.0,
-    "name": "JoseParedez"
+    "price": 302.6,
+    "name": "USDTpulso"
   },
-  "promedio": 303.55,
+  "promedio": 303.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
