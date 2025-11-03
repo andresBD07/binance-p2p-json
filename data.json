@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T18:36:19.800029",
-  "actualizado_vzla": "2025-11-03 14:36:19 -04",
+  "timestamp_utc": "2025-11-03T18:52:49.802923",
+  "actualizado_vzla": "2025-11-03 14:52:49 -04",
   "compra_segundo": {
-    "price": 305.35,
-    "name": "Fast-CambiosSeguro-"
+    "price": 305.09,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
-    "price": 305.1,
-    "name": "Si Me Pasas Te Paso"
+    "price": 305.21,
+    "name": "WORL1EXCHANGE"
   },
-  "promedio": 305.23,
+  "promedio": 305.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
