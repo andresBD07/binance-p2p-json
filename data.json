@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T22:56:35.912532",
-  "actualizado_vzla": "2025-11-03 18:56:35 -04",
+  "timestamp_utc": "2025-11-03T23:24:56.381225",
+  "actualizado_vzla": "2025-11-03 19:24:56 -04",
   "compra_segundo": {
-    "price": 307.149,
-    "name": "OLDCARTO"
+    "price": 307.15,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 306.7,
-    "name": "hectoraltrader"
+    "price": 306.701,
+    "name": "All-inCrypto"
   },
-  "promedio": 306.92,
+  "promedio": 306.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
