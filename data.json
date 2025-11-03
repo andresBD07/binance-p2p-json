@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T04:50:07.236971",
-  "actualizado_vzla": "2025-11-03 00:50:07 -04",
+  "timestamp_utc": "2025-11-03T05:14:46.063074",
+  "actualizado_vzla": "2025-11-03 01:14:46 -04",
   "compra_segundo": {
-    "price": 306.199,
-    "name": "MAOB"
+    "price": 306.5,
+    "name": "IMPERIOROMANO"
   },
   "venta_maxima": {
-    "price": 302.501,
-    "name": "Extranjero"
+    "price": 302.3,
+    "name": "X-O-X"
   },
-  "promedio": 304.35,
+  "promedio": 304.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
