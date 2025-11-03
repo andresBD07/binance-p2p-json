@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-03T19:29:23.885101",
-  "actualizado_vzla": "2025-11-03 15:29:23 -04",
+  "timestamp_utc": "2025-11-03T19:42:46.880505",
+  "actualizado_vzla": "2025-11-03 15:42:46 -04",
   "compra_segundo": {
-    "price": 304.8,
-    "name": "SiempreCalificoPositivo"
+    "price": 304.999,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 305.2,
-    "name": "Vitatech"
+    "price": 305.0,
+    "name": "OTCLEGEND"
   },
   "promedio": 305.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
