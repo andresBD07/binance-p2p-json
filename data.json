@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T08:54:34.315576",
-  "actualizado_vzla": "2025-11-03 04:54:34 -04",
+  "timestamp_utc": "2025-11-03T09:29:31.551317",
+  "actualizado_vzla": "2025-11-03 05:29:31 -04",
   "compra_segundo": {
-    "price": 307.0,
-    "name": "EliteSummitPro"
+    "price": 306.5,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
     "price": 301.8,
     "name": "leomileo2022"
   },
-  "promedio": 304.4,
+  "promedio": 304.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
