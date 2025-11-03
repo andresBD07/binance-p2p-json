@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T15:50:03.485371",
-  "actualizado_vzla": "2025-11-03 11:50:03 -04",
+  "timestamp_utc": "2025-11-03T16:16:53.668114",
+  "actualizado_vzla": "2025-11-03 12:16:53 -04",
   "compra_segundo": {
-    "price": 306.48,
-    "name": "CoinFlou"
+    "price": 306.745,
+    "name": "X-O-X"
   },
   "venta_maxima": {
-    "price": 306.1,
+    "price": 306.6,
     "name": "OTCLEGEND"
   },
-  "promedio": 306.29,
+  "promedio": 306.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
