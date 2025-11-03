@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T23:40:50.827045",
-  "actualizado_vzla": "2025-11-03 19:40:50 -04",
+  "timestamp_utc": "2025-11-03T23:53:38.805252",
+  "actualizado_vzla": "2025-11-03 19:53:38 -04",
   "compra_segundo": {
-    "price": 307.29,
-    "name": "PrecozPay"
+    "price": 307.3,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 306.75,
+    "price": 307.51,
     "name": "hectoraltrader"
   },
-  "promedio": 307.02,
+  "promedio": 307.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
