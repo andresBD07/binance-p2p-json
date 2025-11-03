@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T05:52:15.956702",
-  "actualizado_vzla": "2025-11-03 01:52:15 -04",
+  "timestamp_utc": "2025-11-03T06:30:01.701323",
+  "actualizado_vzla": "2025-11-03 02:30:01 -04",
   "compra_segundo": {
-    "price": 306.55,
-    "name": "Jeshua-01"
+    "price": 306.95,
+    "name": "JF_Trading_Flash"
   },
   "venta_maxima": {
-    "price": 397.6,
-    "name": "cambiosvz19"
+    "price": 302.1,
+    "name": "PlutoTrading"
   },
-  "promedio": 352.08,
+  "promedio": 304.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
