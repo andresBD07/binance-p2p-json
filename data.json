@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T10:55:17.287519",
-  "actualizado_vzla": "2025-11-03 06:55:17 -04",
+  "timestamp_utc": "2025-11-03T11:21:51.961221",
+  "actualizado_vzla": "2025-11-03 07:21:51 -04",
   "compra_segundo": {
-    "price": 305.4,
-    "name": "T-Pago-rapido"
+    "price": 305.3,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
-    "price": 302.2,
-    "name": "KriptoxExchange"
+    "price": 302.4,
+    "name": "MaxuelTrader"
   },
-  "promedio": 303.8,
+  "promedio": 303.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
