@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T16:16:53.668114",
-  "actualizado_vzla": "2025-11-03 12:16:53 -04",
+  "timestamp_utc": "2025-11-03T16:44:17.352296",
+  "actualizado_vzla": "2025-11-03 12:44:17 -04",
   "compra_segundo": {
-    "price": 306.745,
-    "name": "X-O-X"
+    "price": 306.84,
+    "name": "Jesantab"
   },
   "venta_maxima": {
-    "price": 306.6,
-    "name": "OTCLEGEND"
+    "price": 306.3,
+    "name": "GREEN78"
   },
-  "promedio": 306.67,
+  "promedio": 306.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
