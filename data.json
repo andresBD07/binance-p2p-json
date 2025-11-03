@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T10:12:51.530315",
-  "actualizado_vzla": "2025-11-03 06:12:51 -04",
+  "timestamp_utc": "2025-11-03T10:42:35.940525",
+  "actualizado_vzla": "2025-11-03 06:42:35 -04",
   "compra_segundo": {
-    "price": 306.144,
-    "name": "InversionesMR"
+    "price": 305.38,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 302.0,
-    "name": "Ralcam"
+    "price": 302.11,
+    "name": "InvMiggy"
   },
-  "promedio": 304.07,
+  "promedio": 303.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
