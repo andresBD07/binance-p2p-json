@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T19:55:40.407648",
-  "actualizado_vzla": "2025-11-03 15:55:40 -04",
+  "timestamp_utc": "2025-11-03T20:29:51.455247",
+  "actualizado_vzla": "2025-11-03 16:29:51 -04",
   "compra_segundo": {
-    "price": 305.499,
-    "name": "Cambioslinarez"
+    "price": 305.8,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
-    "price": 305.31,
-    "name": "TuPagoRapido"
+    "price": 305.5,
+    "name": "TheOchoa"
   },
-  "promedio": 305.4,
+  "promedio": 305.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
