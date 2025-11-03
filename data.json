@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T21:55:04.989340",
-  "actualizado_vzla": "2025-11-03 17:55:04 -04",
+  "timestamp_utc": "2025-11-03T22:24:56.848295",
+  "actualizado_vzla": "2025-11-03 18:24:56 -04",
   "compra_segundo": {
-    "price": 306.5,
-    "name": "MikasaExchange"
+    "price": 306.99,
+    "name": "ZeusRawr"
   },
   "venta_maxima": {
-    "price": 306.2,
-    "name": "WORL1EXCHANGE"
+    "price": 306.655,
+    "name": "Cripto_Operaciones"
   },
-  "promedio": 306.35,
+  "promedio": 306.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
