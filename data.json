@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T20:59:44.262548",
-  "actualizado_vzla": "2025-11-03 16:59:44 -04",
+  "timestamp_utc": "2025-11-03T21:26:02.502185",
+  "actualizado_vzla": "2025-11-03 17:26:02 -04",
   "compra_segundo": {
-    "price": 306.23,
-    "name": "HidrotornoCA"
+    "price": 306.5,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 305.91,
+    "price": 306.0,
     "name": "WORL1EXCHANGE"
   },
-  "promedio": 306.07,
+  "promedio": 306.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
