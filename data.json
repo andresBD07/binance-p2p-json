@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T19:42:46.880505",
-  "actualizado_vzla": "2025-11-03 15:42:46 -04",
+  "timestamp_utc": "2025-11-03T19:55:40.407648",
+  "actualizado_vzla": "2025-11-03 15:55:40 -04",
   "compra_segundo": {
-    "price": 304.999,
-    "name": "Latinlf"
+    "price": 305.499,
+    "name": "Cambioslinarez"
   },
   "venta_maxima": {
-    "price": 305.0,
-    "name": "OTCLEGEND"
+    "price": 305.31,
+    "name": "TuPagoRapido"
   },
-  "promedio": 305.0,
+  "promedio": 305.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
