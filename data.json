@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T18:52:49.802923",
-  "actualizado_vzla": "2025-11-03 14:52:49 -04",
+  "timestamp_utc": "2025-11-03T19:16:03.123898",
+  "actualizado_vzla": "2025-11-03 15:16:03 -04",
   "compra_segundo": {
-    "price": 305.09,
-    "name": "Inversiones-Vicky"
+    "price": 304.9,
+    "name": "Ebenezer Flash"
   },
   "venta_maxima": {
-    "price": 305.21,
+    "price": 305.65,
     "name": "WORL1EXCHANGE"
   },
-  "promedio": 305.15,
+  "promedio": 305.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
