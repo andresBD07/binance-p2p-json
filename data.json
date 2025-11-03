@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T23:24:56.381225",
-  "actualizado_vzla": "2025-11-03 19:24:56 -04",
+  "timestamp_utc": "2025-11-03T23:40:50.827045",
+  "actualizado_vzla": "2025-11-03 19:40:50 -04",
   "compra_segundo": {
-    "price": 307.15,
-    "name": "LinkVzla"
+    "price": 307.29,
+    "name": "PrecozPay"
   },
   "venta_maxima": {
-    "price": 306.701,
-    "name": "All-inCrypto"
+    "price": 306.75,
+    "name": "hectoraltrader"
   },
-  "promedio": 306.93,
+  "promedio": 307.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
