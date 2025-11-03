@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T17:26:25.036878",
-  "actualizado_vzla": "2025-11-03 13:26:25 -04",
+  "timestamp_utc": "2025-11-03T17:43:51.791976",
+  "actualizado_vzla": "2025-11-03 13:43:51 -04",
   "compra_segundo": {
-    "price": 306.89,
-    "name": "AvaStark"
+    "price": 306.25,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
     "price": 306.1,
     "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 306.5,
+  "promedio": 306.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
