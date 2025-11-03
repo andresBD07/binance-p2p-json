@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T12:28:58.814959",
-  "actualizado_vzla": "2025-11-03 08:28:58 -04",
+  "timestamp_utc": "2025-11-03T13:09:15.748958",
+  "actualizado_vzla": "2025-11-03 09:09:15 -04",
   "compra_segundo": {
-    "price": 303.8,
-    "name": "RJ_SaveExchange"
+    "price": 303.46,
+    "name": "HarlenCH"
   },
   "venta_maxima": {
-    "price": 302.0,
-    "name": "LogisticExchange"
+    "price": 302.51,
+    "name": "TuPagoRapido"
   },
-  "promedio": 302.9,
+  "promedio": 302.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
