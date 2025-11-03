@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T21:41:36.301211",
-  "actualizado_vzla": "2025-11-03 17:41:36 -04",
+  "timestamp_utc": "2025-11-03T21:55:04.989340",
+  "actualizado_vzla": "2025-11-03 17:55:04 -04",
   "compra_segundo": {
-    "price": 306.7,
-    "name": "MauricioRisso"
+    "price": 306.5,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 306.3,
+    "price": 306.2,
     "name": "WORL1EXCHANGE"
   },
-  "promedio": 306.5,
+  "promedio": 306.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
