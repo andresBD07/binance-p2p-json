@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T14:28:27.923547",
-  "actualizado_vzla": "2025-11-03 10:28:27 -04",
+  "timestamp_utc": "2025-11-03T14:47:44.383664",
+  "actualizado_vzla": "2025-11-03 10:47:44 -04",
   "compra_segundo": {
-    "price": 303.75,
-    "name": "XpeedRL8"
+    "price": 304.1,
+    "name": "LUISHERNANDEZ"
   },
   "venta_maxima": {
-    "price": 303.555,
-    "name": "ComerciosLobo_"
+    "price": 305.2,
+    "name": "TOPlevelS"
   },
-  "promedio": 303.65,
+  "promedio": 304.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
