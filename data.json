@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T17:57:12.056455",
-  "actualizado_vzla": "2025-11-03 13:57:12 -04",
+  "timestamp_utc": "2025-11-03T18:36:19.800029",
+  "actualizado_vzla": "2025-11-03 14:36:19 -04",
   "compra_segundo": {
-    "price": 305.994,
-    "name": "SeguroVeloz"
+    "price": 305.35,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 306.1,
+    "price": 305.1,
     "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 306.05,
+  "promedio": 305.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
