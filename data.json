@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-03T20:29:51.455247",
-  "actualizado_vzla": "2025-11-03 16:29:51 -04",
+  "timestamp_utc": "2025-11-03T20:46:50.537306",
+  "actualizado_vzla": "2025-11-03 16:46:50 -04",
   "compra_segundo": {
-    "price": 305.8,
-    "name": "Inversiones-Vicky"
+    "price": 305.999,
+    "name": "ErudioCl"
   },
   "venta_maxima": {
-    "price": 305.5,
-    "name": "TheOchoa"
+    "price": 305.7,
+    "name": "OTCLEGEND"
   },
-  "promedio": 305.65,
+  "promedio": 305.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
