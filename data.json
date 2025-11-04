@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T13:39:40.421856",
-  "actualizado_vzla": "2025-11-04 09:39:40 -04",
+  "timestamp_utc": "2025-11-04T13:56:18.206554",
+  "actualizado_vzla": "2025-11-04 09:56:18 -04",
   "compra_segundo": {
     "price": 309.0,
-    "name": "XSwapSecure"
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 308.2,
-    "name": "Gustavo129"
+    "price": 308.6,
+    "name": "JoseParedez"
   },
-  "promedio": 308.6,
+  "promedio": 308.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
