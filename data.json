@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T03:02:36.163270",
-  "actualizado_vzla": "2025-11-03 23:02:36 -04",
+  "timestamp_utc": "2025-11-04T03:48:00.281172",
+  "actualizado_vzla": "2025-11-03 23:48:00 -04",
   "compra_segundo": {
-    "price": 309.29,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 309.4,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 307.021,
-    "name": "CoinBeek"
+    "price": 306.1,
+    "name": "Manda2"
   },
-  "promedio": 308.16,
+  "promedio": 307.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
