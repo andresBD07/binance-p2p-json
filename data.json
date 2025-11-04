@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T13:56:18.206554",
-  "actualizado_vzla": "2025-11-04 09:56:18 -04",
+  "timestamp_utc": "2025-11-04T14:29:15.257501",
+  "actualizado_vzla": "2025-11-04 10:29:15 -04",
   "compra_segundo": {
-    "price": 309.0,
-    "name": "水猴"
+    "price": 309.3,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
-    "price": 308.6,
-    "name": "JoseParedez"
+    "price": 309.3,
+    "name": "OTCLEGEND"
   },
-  "promedio": 308.8,
+  "promedio": 309.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
