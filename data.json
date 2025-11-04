@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T17:32:27.173048",
-  "actualizado_vzla": "2025-11-04 13:32:27 -04",
+  "timestamp_utc": "2025-11-04T17:46:27.438256",
+  "actualizado_vzla": "2025-11-04 13:46:27 -04",
   "compra_segundo": {
-    "price": 308.743,
-    "name": "SISISY"
+    "price": 308.695,
+    "name": "Check-eate"
   },
   "venta_maxima": {
-    "price": 308.7,
-    "name": "hectoraltrader"
+    "price": 309.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 308.72,
+  "promedio": 308.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
