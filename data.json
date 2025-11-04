@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T18:56:01.623609",
-  "actualizado_vzla": "2025-11-04 14:56:01 -04",
+  "timestamp_utc": "2025-11-04T19:21:51.090234",
+  "actualizado_vzla": "2025-11-04 15:21:51 -04",
   "compra_segundo": {
     "price": 309.5,
-    "name": "Cripto_04"
+    "name": "CoinFlou"
   },
   "venta_maxima": {
-    "price": 309.06,
-    "name": "jxsosa"
+    "price": 309.2,
+    "name": "hectoraltrader"
   },
-  "promedio": 309.28,
+  "promedio": 309.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
