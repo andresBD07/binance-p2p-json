@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T21:34:39.016894",
-  "actualizado_vzla": "2025-11-04 17:34:39 -04",
+  "timestamp_utc": "2025-11-04T21:47:38.364275",
+  "actualizado_vzla": "2025-11-04 17:47:38 -04",
   "compra_segundo": {
-    "price": 310.4,
-    "name": "XpeedRL8"
+    "price": 310.65,
+    "name": "dcamacho"
   },
   "venta_maxima": {
-    "price": 310.0,
-    "name": "C_Pagos"
+    "price": 310.1,
+    "name": "hectoraltrader"
   },
-  "promedio": 310.2,
+  "promedio": 310.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
