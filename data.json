@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T19:36:22.625627",
-  "actualizado_vzla": "2025-11-04 15:36:22 -04",
+  "timestamp_utc": "2025-11-04T19:50:03.203712",
+  "actualizado_vzla": "2025-11-04 15:50:03 -04",
   "compra_segundo": {
-    "price": 309.498,
-    "name": "Wil2589"
+    "price": 309.8,
+    "name": "SmarPhon3"
   },
   "venta_maxima": {
     "price": 309.5,
     "name": "hectoraltrader"
   },
-  "promedio": 309.5,
+  "promedio": 309.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
