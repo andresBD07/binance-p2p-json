@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-04T22:01:17.715892",
-  "actualizado_vzla": "2025-11-04 18:01:17 -04",
+  "timestamp_utc": "2025-11-04T22:29:57.578404",
+  "actualizado_vzla": "2025-11-04 18:29:57 -04",
   "compra_segundo": {
-    "price": 310.99,
-    "name": "ChaizySwap"
+    "price": 311.099,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 310.1,
-    "name": "hectoraltrader"
+    "price": 310.0,
+    "name": "C_Pagos"
   },
   "promedio": 310.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
