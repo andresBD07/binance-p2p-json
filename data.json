@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T15:39:02.004234",
-  "actualizado_vzla": "2025-11-04 11:39:02 -04",
+  "timestamp_utc": "2025-11-04T15:53:26.839408",
+  "actualizado_vzla": "2025-11-04 11:53:26 -04",
   "compra_segundo": {
-    "price": 310.0,
-    "name": "angeldoza25"
+    "price": 309.975,
+    "name": "AllDayTrade"
   },
   "venta_maxima": {
     "price": 309.5,
     "name": "LogisticExchange"
   },
-  "promedio": 309.75,
+  "promedio": 309.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
