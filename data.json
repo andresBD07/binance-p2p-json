@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T14:29:15.257501",
-  "actualizado_vzla": "2025-11-04 10:29:15 -04",
+  "timestamp_utc": "2025-11-04T14:50:06.146004",
+  "actualizado_vzla": "2025-11-04 10:50:06 -04",
   "compra_segundo": {
-    "price": 309.3,
-    "name": "ExpressCash23"
+    "price": 309.78,
+    "name": "ghyss"
   },
   "venta_maxima": {
-    "price": 309.3,
-    "name": "OTCLEGEND"
+    "price": 309.701,
+    "name": "Biyt"
   },
-  "promedio": 309.3,
+  "promedio": 309.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
