@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T15:53:26.839408",
-  "actualizado_vzla": "2025-11-04 11:53:26 -04",
+  "timestamp_utc": "2025-11-04T16:27:11.171301",
+  "actualizado_vzla": "2025-11-04 12:27:11 -04",
   "compra_segundo": {
-    "price": 309.975,
-    "name": "AllDayTrade"
+    "price": 309.65,
+    "name": "ANMAIYANME"
   },
   "venta_maxima": {
-    "price": 309.5,
-    "name": "LogisticExchange"
+    "price": 308.7,
+    "name": "hectoraltrader"
   },
-  "promedio": 309.74,
+  "promedio": 309.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
