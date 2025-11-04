@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T07:42:21.190547",
-  "actualizado_vzla": "2025-11-04 03:42:21 -04",
+  "timestamp_utc": "2025-11-04T07:55:39.174736",
+  "actualizado_vzla": "2025-11-04 03:55:39 -04",
   "compra_segundo": {
-    "price": 310.8,
-    "name": "ComercioJRG"
+    "price": 310.54,
+    "name": "M13M"
   },
   "venta_maxima": {
     "price": 306.0,
     "name": "TuPagoRapido"
   },
-  "promedio": 308.4,
+  "promedio": 308.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
