@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T22:29:57.578404",
-  "actualizado_vzla": "2025-11-04 18:29:57 -04",
+  "timestamp_utc": "2025-11-04T22:46:01.317391",
+  "actualizado_vzla": "2025-11-04 18:46:01 -04",
   "compra_segundo": {
-    "price": 311.099,
-    "name": "majog"
+    "price": 311.3,
+    "name": "LACHARCUTE"
   },
   "venta_maxima": {
-    "price": 310.0,
-    "name": "C_Pagos"
+    "price": 310.2,
+    "name": "SmartSolutionn"
   },
-  "promedio": 310.55,
+  "promedio": 310.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
