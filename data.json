@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-04T19:21:51.090234",
-  "actualizado_vzla": "2025-11-04 15:21:51 -04",
+  "timestamp_utc": "2025-11-04T19:36:22.625627",
+  "actualizado_vzla": "2025-11-04 15:36:22 -04",
   "compra_segundo": {
-    "price": 309.5,
-    "name": "CoinFlou"
+    "price": 309.498,
+    "name": "Wil2589"
   },
   "venta_maxima": {
-    "price": 309.2,
+    "price": 309.5,
     "name": "hectoraltrader"
   },
-  "promedio": 309.35,
+  "promedio": 309.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
