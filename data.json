@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T03:54:07.243806",
-  "actualizado_vzla": "2025-11-04 23:54:07 -04",
+  "timestamp_utc": "2025-11-05T04:27:28.850844",
+  "actualizado_vzla": "2025-11-05 00:27:28 -04",
   "compra_segundo": {
-    "price": 313.5,
-    "name": "Dayuda"
+    "price": 313.998,
+    "name": "Reginald_TITULAR"
   },
   "venta_maxima": {
-    "price": 311.2,
-    "name": "Quick Payment"
+    "price": 310.85,
+    "name": "IMPERIOROMANO"
   },
-  "promedio": 312.35,
+  "promedio": 312.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
