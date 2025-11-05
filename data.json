@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T13:48:53.302479",
-  "actualizado_vzla": "2025-11-05 09:48:53 -04",
+  "timestamp_utc": "2025-11-05T14:11:39.671142",
+  "actualizado_vzla": "2025-11-05 10:11:39 -04",
   "compra_segundo": {
-    "price": 314.0,
-    "name": "Criptofxve"
+    "price": 314.2,
+    "name": "LeNary-"
   },
   "venta_maxima": {
-    "price": 314.35,
-    "name": "FinanceSecure"
+    "price": 314.7,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 314.18,
+  "promedio": 314.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
