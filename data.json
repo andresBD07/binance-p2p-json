@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T20:18:39.459345",
-  "actualizado_vzla": "2025-11-05 16:18:39 -04",
+  "timestamp_utc": "2025-11-05T20:40:57.527505",
+  "actualizado_vzla": "2025-11-05 16:40:57 -04",
   "compra_segundo": {
-    "price": 317.9,
-    "name": "Cambiocripto64"
+    "price": 317.98,
+    "name": "DanielaCambios"
   },
   "venta_maxima": {
-    "price": 317.7,
-    "name": "Biyt"
+    "price": 318.0,
+    "name": "citipay"
   },
-  "promedio": 317.8,
+  "promedio": 317.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
