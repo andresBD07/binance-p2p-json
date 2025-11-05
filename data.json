@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T09:49:00.525142",
-  "actualizado_vzla": "2025-11-05 05:49:00 -04",
+  "timestamp_utc": "2025-11-05T10:13:49.751081",
+  "actualizado_vzla": "2025-11-05 06:13:49 -04",
   "compra_segundo": {
-    "price": 314.699,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 314.0,
+    "name": "A1000C"
   },
   "venta_maxima": {
     "price": 310.8,
     "name": "Eliezerjph"
   },
-  "promedio": 312.75,
+  "promedio": 312.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
