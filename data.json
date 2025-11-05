@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T20:54:39.986482",
-  "actualizado_vzla": "2025-11-05 16:54:39 -04",
+  "timestamp_utc": "2025-11-05T21:23:02.298039",
+  "actualizado_vzla": "2025-11-05 17:23:02 -04",
   "compra_segundo": {
-    "price": 318.0,
-    "name": "-----CASUVEN-----"
+    "price": 318.1,
+    "name": "KittyTrader16"
   },
   "venta_maxima": {
     "price": 317.5,
-    "name": "hectoraltrader"
+    "name": "SmartSolutionn"
   },
-  "promedio": 317.75,
+  "promedio": 317.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
