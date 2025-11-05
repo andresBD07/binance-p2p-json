@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-05T10:41:48.580280",
-  "actualizado_vzla": "2025-11-05 06:41:48 -04",
+  "timestamp_utc": "2025-11-05T10:55:05.674827",
+  "actualizado_vzla": "2025-11-05 06:55:05 -04",
   "compra_segundo": {
-    "price": 313.8,
-    "name": "Wdmirandas"
+    "price": 313.79,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
     "price": 310.8,
