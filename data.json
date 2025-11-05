@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T20:40:57.527505",
-  "actualizado_vzla": "2025-11-05 16:40:57 -04",
+  "timestamp_utc": "2025-11-05T20:54:39.986482",
+  "actualizado_vzla": "2025-11-05 16:54:39 -04",
   "compra_segundo": {
-    "price": 317.98,
-    "name": "DanielaCambios"
+    "price": 318.0,
+    "name": "-----CASUVEN-----"
   },
   "venta_maxima": {
-    "price": 318.0,
-    "name": "citipay"
+    "price": 317.5,
+    "name": "hectoraltrader"
   },
-  "promedio": 317.99,
+  "promedio": 317.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
