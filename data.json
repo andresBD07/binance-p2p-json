@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T15:46:04.790528",
-  "actualizado_vzla": "2025-11-05 11:46:04 -04",
+  "timestamp_utc": "2025-11-05T15:59:01.607236",
+  "actualizado_vzla": "2025-11-05 11:59:01 -04",
   "compra_segundo": {
-    "price": 316.44,
-    "name": "CryptoIngAlex"
+    "price": 316.45,
+    "name": "Vanecastll"
   },
   "venta_maxima": {
-    "price": 315.0,
-    "name": "hectoraltrader"
+    "price": 315.6,
+    "name": "ALASKA-"
   },
-  "promedio": 315.72,
+  "promedio": 316.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
