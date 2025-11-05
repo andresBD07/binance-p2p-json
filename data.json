@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T21:37:38.366082",
-  "actualizado_vzla": "2025-11-05 17:37:38 -04",
+  "timestamp_utc": "2025-11-05T21:51:01.140188",
+  "actualizado_vzla": "2025-11-05 17:51:01 -04",
   "compra_segundo": {
-    "price": 318.29,
-    "name": "Blockchain-Experts"
+    "price": 318.28,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "SmartSolutionn"
+    "price": 317.8,
+    "name": "Biyt"
   },
-  "promedio": 317.89,
+  "promedio": 318.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
