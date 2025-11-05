@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T19:22:33.843608",
-  "actualizado_vzla": "2025-11-05 15:22:33 -04",
+  "timestamp_utc": "2025-11-05T19:37:46.349663",
+  "actualizado_vzla": "2025-11-05 15:37:46 -04",
   "compra_segundo": {
-    "price": 317.899,
-    "name": "carmelog04"
+    "price": 317.97,
+    "name": "CryptoKoku"
   },
   "venta_maxima": {
     "price": 317.5,
     "name": "Biyt"
   },
-  "promedio": 317.7,
+  "promedio": 317.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
