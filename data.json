@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T07:26:51.854996",
-  "actualizado_vzla": "2025-11-05 03:26:51 -04",
+  "timestamp_utc": "2025-11-05T07:43:08.669798",
+  "actualizado_vzla": "2025-11-05 03:43:08 -04",
   "compra_segundo": {
-    "price": 315.99,
-    "name": "VelkanVe"
+    "price": 315.999,
+    "name": "-BBRYP2P-"
   },
   "venta_maxima": {
     "price": 310.8,
     "name": "Eliezerjph"
   },
-  "promedio": 313.39,
+  "promedio": 313.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
