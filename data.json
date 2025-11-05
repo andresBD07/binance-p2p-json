@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T19:37:46.349663",
-  "actualizado_vzla": "2025-11-05 15:37:46 -04",
+  "timestamp_utc": "2025-11-05T19:51:11.433062",
+  "actualizado_vzla": "2025-11-05 15:51:11 -04",
   "compra_segundo": {
-    "price": 317.97,
-    "name": "CryptoKoku"
+    "price": 317.88,
+    "name": "SIVE_Trading"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "Biyt"
+    "price": 317.505,
+    "name": "AryJr"
   },
-  "promedio": 317.74,
+  "promedio": 317.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
