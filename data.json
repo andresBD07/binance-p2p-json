@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T12:39:09.676257",
-  "actualizado_vzla": "2025-11-05 08:39:09 -04",
+  "timestamp_utc": "2025-11-05T13:21:42.111592",
+  "actualizado_vzla": "2025-11-05 09:21:42 -04",
   "compra_segundo": {
-    "price": 313.14,
-    "name": "yosbth"
+    "price": 313.5,
+    "name": "WorldTradeinCripto"
   },
   "venta_maxima": {
-    "price": 312.2,
-    "name": "GoldenLion_"
+    "price": 313.71,
+    "name": "cazing2230"
   },
-  "promedio": 312.67,
+  "promedio": 313.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
