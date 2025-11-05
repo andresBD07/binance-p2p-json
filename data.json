@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T14:11:39.671142",
-  "actualizado_vzla": "2025-11-05 10:11:39 -04",
+  "timestamp_utc": "2025-11-05T14:39:56.278904",
+  "actualizado_vzla": "2025-11-05 10:39:56 -04",
   "compra_segundo": {
-    "price": 314.2,
-    "name": "LeNary-"
+    "price": 315.0,
+    "name": "MileondeJudas"
   },
   "venta_maxima": {
-    "price": 314.7,
-    "name": "被放逐的狐狸"
+    "price": 316.0,
+    "name": "cazing2230"
   },
-  "promedio": 314.45,
+  "promedio": 315.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
