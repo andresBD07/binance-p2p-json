@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T15:26:36.668515",
-  "actualizado_vzla": "2025-11-05 11:26:36 -04",
+  "timestamp_utc": "2025-11-05T15:46:04.790528",
+  "actualizado_vzla": "2025-11-05 11:46:04 -04",
   "compra_segundo": {
-    "price": 316.25,
-    "name": "ANMAIYANME"
+    "price": 316.44,
+    "name": "CryptoIngAlex"
   },
   "venta_maxima": {
-    "price": 315.1,
-    "name": "HAWKEYE-1"
+    "price": 315.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 315.68,
+  "promedio": 315.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
