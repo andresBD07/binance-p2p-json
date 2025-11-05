@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T23:46:09.092977",
-  "actualizado_vzla": "2025-11-05 19:46:09 -04",
+  "timestamp_utc": "2025-11-05T23:59:00.826472",
+  "actualizado_vzla": "2025-11-05 19:59:00 -04",
   "compra_segundo": {
-    "price": 318.0,
-    "name": "FRANFLASH8"
+    "price": 318.25,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
     "price": 317.8,
     "name": "AryJr"
   },
-  "promedio": 317.9,
+  "promedio": 318.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
