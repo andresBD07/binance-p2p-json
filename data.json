@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T09:31:14.306359",
-  "actualizado_vzla": "2025-11-05 05:31:14 -04",
+  "timestamp_utc": "2025-11-05T09:49:00.525142",
+  "actualizado_vzla": "2025-11-05 05:49:00 -04",
   "compra_segundo": {
-    "price": 314.4,
-    "name": "PrimeCripto"
+    "price": 314.699,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
     "price": 310.8,
     "name": "Eliezerjph"
   },
-  "promedio": 312.6,
+  "promedio": 312.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
