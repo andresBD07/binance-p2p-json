@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T19:51:11.433062",
-  "actualizado_vzla": "2025-11-05 15:51:11 -04",
+  "timestamp_utc": "2025-11-05T20:18:39.459345",
+  "actualizado_vzla": "2025-11-05 16:18:39 -04",
   "compra_segundo": {
-    "price": 317.88,
-    "name": "SIVE_Trading"
+    "price": 317.9,
+    "name": "Cambiocripto64"
   },
   "venta_maxima": {
-    "price": 317.505,
-    "name": "AryJr"
+    "price": 317.7,
+    "name": "Biyt"
   },
-  "promedio": 317.69,
+  "promedio": 317.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
