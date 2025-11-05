@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T23:15:23.758656",
-  "actualizado_vzla": "2025-11-05 19:15:23 -04",
+  "timestamp_utc": "2025-11-05T23:32:51.159395",
+  "actualizado_vzla": "2025-11-05 19:32:51 -04",
   "compra_segundo": {
-    "price": 318.099,
-    "name": "YGSCAPITALSPA"
+    "price": 318.0,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 318.0,
+    "price": 317.8,
     "name": "AryJr"
   },
-  "promedio": 318.05,
+  "promedio": 317.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
