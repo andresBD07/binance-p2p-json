@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T21:23:02.298039",
-  "actualizado_vzla": "2025-11-05 17:23:02 -04",
+  "timestamp_utc": "2025-11-05T21:37:38.366082",
+  "actualizado_vzla": "2025-11-05 17:37:38 -04",
   "compra_segundo": {
-    "price": 318.1,
-    "name": "KittyTrader16"
+    "price": 318.29,
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
     "price": 317.5,
     "name": "SmartSolutionn"
   },
-  "promedio": 317.8,
+  "promedio": 317.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
