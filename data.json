@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T22:15:16.640704",
-  "actualizado_vzla": "2025-11-05 18:15:16 -04",
+  "timestamp_utc": "2025-11-05T22:37:48.269241",
+  "actualizado_vzla": "2025-11-05 18:37:48 -04",
   "compra_segundo": {
-    "price": 318.29,
-    "name": "Blockchain-Experts"
+    "price": 318.175,
+    "name": "HarCapital"
   },
   "venta_maxima": {
-    "price": 317.8,
-    "name": "Biyt"
+    "price": 318.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 318.05,
+  "promedio": 318.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
