@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T20:54:33.773698",
-  "actualizado_vzla": "2025-11-06 16:54:33 -04",
+  "timestamp_utc": "2025-11-06T21:21:28.502118",
+  "actualizado_vzla": "2025-11-06 17:21:28 -04",
   "compra_segundo": {
-    "price": 318.8,
-    "name": "PagoInstantaneoP2P"
+    "price": 318.89,
+    "name": "CambiosLaGoma"
   },
   "venta_maxima": {
-    "price": 318.9,
-    "name": "hudsonriver"
+    "price": 318.6,
+    "name": "hectoraltrader"
   },
-  "promedio": 318.85,
+  "promedio": 318.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
