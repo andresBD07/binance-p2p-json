@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T20:41:23.568930",
-  "actualizado_vzla": "2025-11-06 16:41:23 -04",
+  "timestamp_utc": "2025-11-06T20:54:33.773698",
+  "actualizado_vzla": "2025-11-06 16:54:33 -04",
   "compra_segundo": {
-    "price": 318.9,
-    "name": "Fast-CambiosSeguro-"
+    "price": 318.8,
+    "name": "PagoInstantaneoP2P"
   },
   "venta_maxima": {
-    "price": 318.41,
-    "name": "Vitatech"
+    "price": 318.9,
+    "name": "hudsonriver"
   },
-  "promedio": 318.65,
+  "promedio": 318.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
