@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T09:47:29.336103",
-  "actualizado_vzla": "2025-11-06 05:47:29 -04",
+  "timestamp_utc": "2025-11-06T10:00:17.916009",
+  "actualizado_vzla": "2025-11-06 06:00:17 -04",
   "compra_segundo": {
-    "price": 319.7,
-    "name": "Daikokuten-Finance"
+    "price": 319.4,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "AryJr"
+    "price": 316.0,
+    "name": "Kartozpk"
   },
-  "promedio": 318.6,
+  "promedio": 317.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
