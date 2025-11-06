@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-06T03:30:42.706840",
-  "actualizado_vzla": "2025-11-05 23:30:42 -04",
+  "timestamp_utc": "2025-11-06T04:00:45.849454",
+  "actualizado_vzla": "2025-11-06 00:00:45 -04",
   "compra_segundo": {
-    "price": 319.3,
-    "name": "PrimeCripto"
+    "price": 319.299,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
     "price": 317.5,
