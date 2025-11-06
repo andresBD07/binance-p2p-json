@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T10:34:38.583519",
-  "actualizado_vzla": "2025-11-06 06:34:38 -04",
+  "timestamp_utc": "2025-11-06T10:51:47.148611",
+  "actualizado_vzla": "2025-11-06 06:51:47 -04",
   "compra_segundo": {
     "price": 318.999,
-    "name": "RAULITO2809"
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 315.83,
-    "name": "CAMBIOSPRO2000"
+    "price": 316.0,
+    "name": "Exotico"
   },
-  "promedio": 317.41,
+  "promedio": 317.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
