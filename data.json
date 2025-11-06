@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T19:23:50.660648",
-  "actualizado_vzla": "2025-11-06 15:23:50 -04",
+  "timestamp_utc": "2025-11-06T19:38:48.344483",
+  "actualizado_vzla": "2025-11-06 15:38:48 -04",
   "compra_segundo": {
-    "price": 318.999,
-    "name": "IBEROGESTION"
+    "price": 319.1,
+    "name": "CambiosLindos2"
   },
   "venta_maxima": {
-    "price": 318.8,
-    "name": "SmartSolutionn"
+    "price": 318.805,
+    "name": "cazing2230"
   },
-  "promedio": 318.9,
+  "promedio": 318.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
