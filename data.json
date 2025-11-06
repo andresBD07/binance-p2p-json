@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T11:32:09.715434",
-  "actualizado_vzla": "2025-11-06 07:32:09 -04",
+  "timestamp_utc": "2025-11-06T11:45:27.687863",
+  "actualizado_vzla": "2025-11-06 07:45:27 -04",
   "compra_segundo": {
-    "price": 318.5,
-    "name": "CAMBIOs_PrO"
+    "price": 318.19,
+    "name": "Criptotur"
   },
   "venta_maxima": {
-    "price": 315.3,
-    "name": "hectoraltrader"
+    "price": 315.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 316.9,
+  "promedio": 316.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
