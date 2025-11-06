@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T23:43:44.581518",
-  "actualizado_vzla": "2025-11-06 19:43:44 -04",
+  "timestamp_utc": "2025-11-06T23:56:33.922466",
+  "actualizado_vzla": "2025-11-06 19:56:33 -04",
   "compra_segundo": {
-    "price": 318.15,
-    "name": "FastEG"
+    "price": 318.277,
+    "name": "EXITOSOS2025"
   },
   "venta_maxima": {
-    "price": 317.8,
-    "name": "GREEN78"
+    "price": 317.7,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 317.98,
+  "promedio": 317.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
