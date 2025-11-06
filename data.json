@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-06T21:21:28.502118",
-  "actualizado_vzla": "2025-11-06 17:21:28 -04",
+  "timestamp_utc": "2025-11-06T21:37:02.372331",
+  "actualizado_vzla": "2025-11-06 17:37:02 -04",
   "compra_segundo": {
-    "price": 318.89,
-    "name": "CambiosLaGoma"
+    "price": 318.9,
+    "name": "racaste"
   },
   "venta_maxima": {
     "price": 318.6,
