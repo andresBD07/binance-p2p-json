@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T21:37:02.372331",
-  "actualizado_vzla": "2025-11-06 17:37:02 -04",
+  "timestamp_utc": "2025-11-06T21:50:26.120817",
+  "actualizado_vzla": "2025-11-06 17:50:26 -04",
   "compra_segundo": {
-    "price": 318.9,
-    "name": "racaste"
+    "price": 318.89,
+    "name": "IAlexsI"
   },
   "venta_maxima": {
-    "price": 318.6,
+    "price": 318.75,
     "name": "hectoraltrader"
   },
-  "promedio": 318.75,
+  "promedio": 318.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
