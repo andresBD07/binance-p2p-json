@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T11:15:50.632117",
-  "actualizado_vzla": "2025-11-06 07:15:50 -04",
+  "timestamp_utc": "2025-11-06T11:32:09.715434",
+  "actualizado_vzla": "2025-11-06 07:32:09 -04",
   "compra_segundo": {
-    "price": 318.999,
-    "name": "AllTraders"
+    "price": 318.5,
+    "name": "CAMBIOs_PrO"
   },
   "venta_maxima": {
-    "price": 316.0,
-    "name": "Exotico"
+    "price": 315.3,
+    "name": "hectoraltrader"
   },
-  "promedio": 317.5,
+  "promedio": 316.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
