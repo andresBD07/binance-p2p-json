@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T22:14:02.078959",
-  "actualizado_vzla": "2025-11-06 18:14:02 -04",
+  "timestamp_utc": "2025-11-06T22:36:56.977236",
+  "actualizado_vzla": "2025-11-06 18:36:56 -04",
   "compra_segundo": {
-    "price": 318.7,
-    "name": "MikasaExchange"
+    "price": 318.28,
+    "name": "P2P-Dulce"
   },
   "venta_maxima": {
     "price": 318.7,
     "name": "Quick Payment"
   },
-  "promedio": 318.7,
+  "promedio": 318.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
