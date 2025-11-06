@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T14:59:37.603495",
-  "actualizado_vzla": "2025-11-06 10:59:37 -04",
+  "timestamp_utc": "2025-11-06T15:32:04.586641",
+  "actualizado_vzla": "2025-11-06 11:32:04 -04",
   "compra_segundo": {
-    "price": 315.199,
-    "name": "EXDOMO"
+    "price": 315.0,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 316.6,
-    "name": "OTCLEGEND"
+    "price": 316.71,
+    "name": "SmartSolutionn"
   },
-  "promedio": 315.9,
+  "promedio": 315.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
