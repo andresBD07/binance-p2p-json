@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T10:00:17.916009",
-  "actualizado_vzla": "2025-11-06 06:00:17 -04",
+  "timestamp_utc": "2025-11-06T10:34:38.583519",
+  "actualizado_vzla": "2025-11-06 06:34:38 -04",
   "compra_segundo": {
-    "price": 319.4,
-    "name": "Zeta_Cripto"
+    "price": 318.999,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
-    "price": 316.0,
-    "name": "Kartozpk"
+    "price": 315.83,
+    "name": "CAMBIOSPRO2000"
   },
-  "promedio": 317.7,
+  "promedio": 317.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
