@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-05T23:59:00.826472",
-  "actualizado_vzla": "2025-11-05 19:59:00 -04",
+  "timestamp_utc": "2025-11-06T02:07:48.521081",
+  "actualizado_vzla": "2025-11-05 22:07:48 -04",
   "compra_segundo": {
-    "price": 318.25,
-    "name": "Trading_professional"
+    "price": 319.2,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 317.8,
+    "price": 317.5,
     "name": "AryJr"
   },
-  "promedio": 318.02,
+  "promedio": 318.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
