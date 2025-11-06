@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T05:57:11.157695",
-  "actualizado_vzla": "2025-11-06 01:57:11 -04",
+  "timestamp_utc": "2025-11-06T06:40:42.638414",
+  "actualizado_vzla": "2025-11-06 02:40:42 -04",
   "compra_segundo": {
-    "price": 319.9,
-    "name": "Manda2"
+    "price": 320.0,
+    "name": "HiIAmIvan"
   },
   "venta_maxima": {
     "price": 317.5,
     "name": "AryJr"
   },
-  "promedio": 318.7,
+  "promedio": 318.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
