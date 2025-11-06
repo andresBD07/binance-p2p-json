@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-06T13:38:18.141899",
-  "actualizado_vzla": "2025-11-06 09:38:18 -04",
+  "timestamp_utc": "2025-11-06T13:54:46.790886",
+  "actualizado_vzla": "2025-11-06 09:54:46 -04",
   "compra_segundo": {
-    "price": 316.3,
-    "name": "CambiosAshley"
+    "price": 316.2,
+    "name": "CAMBIOS JV"
   },
   "venta_maxima": {
-    "price": 316.15,
-    "name": "OTCLEGEND"
+    "price": 316.25,
+    "name": "AryJr"
   },
   "promedio": 316.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
