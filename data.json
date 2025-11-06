@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T18:17:24.919500",
-  "actualizado_vzla": "2025-11-06 14:17:24 -04",
+  "timestamp_utc": "2025-11-06T18:47:37.793945",
+  "actualizado_vzla": "2025-11-06 14:47:37 -04",
   "compra_segundo": {
-    "price": 317.4,
-    "name": "caralex"
+    "price": 318.19,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 317.2,
-    "name": "JLxanges"
+    "price": 318.2,
+    "name": "SmartSolutionn"
   },
-  "promedio": 317.3,
+  "promedio": 318.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
