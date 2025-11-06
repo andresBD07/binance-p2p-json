@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T12:57:35.308364",
-  "actualizado_vzla": "2025-11-06 08:57:35 -04",
+  "timestamp_utc": "2025-11-06T13:38:18.141899",
+  "actualizado_vzla": "2025-11-06 09:38:18 -04",
   "compra_segundo": {
-    "price": 316.75,
-    "name": "FastEG"
+    "price": 316.3,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
-    "price": 316.6,
-    "name": "AryJr"
+    "price": 316.15,
+    "name": "OTCLEGEND"
   },
-  "promedio": 316.68,
+  "promedio": 316.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
