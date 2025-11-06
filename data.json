@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T19:38:48.344483",
-  "actualizado_vzla": "2025-11-06 15:38:48 -04",
+  "timestamp_utc": "2025-11-06T19:52:12.465836",
+  "actualizado_vzla": "2025-11-06 15:52:12 -04",
   "compra_segundo": {
-    "price": 319.1,
-    "name": "CambiosLindos2"
+    "price": 319.15,
+    "name": "Free Trade and Investments"
   },
   "venta_maxima": {
-    "price": 318.805,
+    "price": 319.11,
     "name": "cazing2230"
   },
-  "promedio": 318.95,
+  "promedio": 319.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
