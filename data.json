@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T11:58:17.674567",
-  "actualizado_vzla": "2025-11-06 07:58:17 -04",
+  "timestamp_utc": "2025-11-06T12:57:35.308364",
+  "actualizado_vzla": "2025-11-06 08:57:35 -04",
   "compra_segundo": {
-    "price": 317.64,
-    "name": "ToroCoin"
+    "price": 316.75,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 315.5,
-    "name": "被放逐的狐狸"
+    "price": 316.6,
+    "name": "AryJr"
   },
-  "promedio": 316.57,
+  "promedio": 316.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
