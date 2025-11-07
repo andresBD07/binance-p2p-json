@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T21:22:03.968469",
-  "actualizado_vzla": "2025-11-07 17:22:03 -04",
+  "timestamp_utc": "2025-11-07T21:36:50.629161",
+  "actualizado_vzla": "2025-11-07 17:36:50 -04",
   "compra_segundo": {
-    "price": 317.98,
-    "name": "NexusBlock"
+    "price": 318.0,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 317.68,
-    "name": "HAWKEYE-1"
+    "price": 317.9,
+    "name": "exchangesamam22"
   },
-  "promedio": 317.83,
+  "promedio": 317.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
