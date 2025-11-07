@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T23:39:53.234104",
-  "actualizado_vzla": "2025-11-07 19:39:53 -04",
+  "timestamp_utc": "2025-11-07T23:54:06.316008",
+  "actualizado_vzla": "2025-11-07 19:54:06 -04",
   "compra_segundo": {
-    "price": 318.1,
-    "name": "DigitalesYaSpa"
+    "price": 318.129,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 318.2,
-    "name": "FinanceSecure"
+    "price": 318.1,
+    "name": "LogisticExchange"
   },
-  "promedio": 318.15,
+  "promedio": 318.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
