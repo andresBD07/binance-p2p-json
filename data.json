@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T21:36:50.629161",
-  "actualizado_vzla": "2025-11-07 17:36:50 -04",
+  "timestamp_utc": "2025-11-07T21:50:06.105786",
+  "actualizado_vzla": "2025-11-07 17:50:06 -04",
   "compra_segundo": {
-    "price": 318.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 318.23,
+    "name": "CambiosLindos2"
   },
   "venta_maxima": {
-    "price": 317.9,
-    "name": "exchangesamam22"
+    "price": 317.86,
+    "name": "cazing2230"
   },
-  "promedio": 317.95,
+  "promedio": 318.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
