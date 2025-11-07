@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T03:17:51.891435",
-  "actualizado_vzla": "2025-11-06 23:17:51 -04",
+  "timestamp_utc": "2025-11-07T03:52:34.193535",
+  "actualizado_vzla": "2025-11-06 23:52:34 -04",
   "compra_segundo": {
-    "price": 318.9,
-    "name": "cambiosaular"
+    "price": 318.98,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
-    "price": 317.18,
-    "name": "Cambioscorleone"
+    "price": 317.11,
+    "name": "hectoraltrader"
   },
-  "promedio": 318.04,
+  "promedio": 318.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
