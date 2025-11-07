@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T10:30:40.356906",
-  "actualizado_vzla": "2025-11-07 06:30:40 -04",
+  "timestamp_utc": "2025-11-07T10:48:02.668918",
+  "actualizado_vzla": "2025-11-07 06:48:02 -04",
   "compra_segundo": {
-    "price": 318.84,
-    "name": "Viamort"
+    "price": 318.7,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
     "price": 315.8,
     "name": "SPYG"
   },
-  "promedio": 317.32,
+  "promedio": 317.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
