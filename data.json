@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T04:43:14.356573",
-  "actualizado_vzla": "2025-11-07 00:43:14 -04",
+  "timestamp_utc": "2025-11-07T04:56:13.034507",
+  "actualizado_vzla": "2025-11-07 00:56:13 -04",
   "compra_segundo": {
-    "price": 319.37,
-    "name": "danieltjr"
+    "price": 319.39,
+    "name": "彡TrustyTrader1A彡"
   },
   "venta_maxima": {
     "price": 316.603,
     "name": "CriptoEche"
   },
-  "promedio": 317.99,
+  "promedio": 318.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
