@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T05:58:07.589808",
-  "actualizado_vzla": "2025-11-07 01:58:07 -04",
+  "timestamp_utc": "2025-11-07T06:40:27.044394",
+  "actualizado_vzla": "2025-11-07 02:40:27 -04",
   "compra_segundo": {
-    "price": 319.5,
-    "name": "ASCENDERLTDA"
+    "price": 319.69,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 316.6,
-    "name": "Quick Payment"
+    "price": 315.8,
+    "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 318.05,
+  "promedio": 317.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
