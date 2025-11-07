@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T20:13:44.556873",
-  "actualizado_vzla": "2025-11-07 16:13:44 -04",
+  "timestamp_utc": "2025-11-07T20:32:43.118402",
+  "actualizado_vzla": "2025-11-07 16:32:43 -04",
   "compra_segundo": {
-    "price": 317.196,
-    "name": "TradeWithAshley"
+    "price": 317.219,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 317.2,
-    "name": "cazing2230"
+    "price": 317.43,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 317.2,
+  "promedio": 317.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
