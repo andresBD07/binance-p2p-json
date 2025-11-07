@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T04:56:13.034507",
-  "actualizado_vzla": "2025-11-07 00:56:13 -04",
+  "timestamp_utc": "2025-11-07T05:27:49.078450",
+  "actualizado_vzla": "2025-11-07 01:27:49 -04",
   "compra_segundo": {
-    "price": 319.39,
-    "name": "彡TrustyTrader1A彡"
+    "price": 319.46,
+    "name": "Habrahanp2p"
   },
   "venta_maxima": {
-    "price": 316.603,
-    "name": "CriptoEche"
+    "price": 316.6,
+    "name": "Quick Payment"
   },
-  "promedio": 318.0,
+  "promedio": 318.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
