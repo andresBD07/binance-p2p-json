@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T18:56:06.944311",
-  "actualizado_vzla": "2025-11-07 14:56:06 -04",
+  "timestamp_utc": "2025-11-07T19:21:31.261136",
+  "actualizado_vzla": "2025-11-07 15:21:31 -04",
   "compra_segundo": {
-    "price": 317.26,
-    "name": "Carlitos-trading"
+    "price": 317.0,
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 317.51,
+    "price": 317.55,
     "name": "cazing2230"
   },
-  "promedio": 317.38,
+  "promedio": 317.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
