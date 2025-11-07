@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T12:54:07.921136",
-  "actualizado_vzla": "2025-11-07 08:54:07 -04",
+  "timestamp_utc": "2025-11-07T13:30:45.334337",
+  "actualizado_vzla": "2025-11-07 09:30:45 -04",
   "compra_segundo": {
-    "price": 317.14,
-    "name": "InvMiggy"
+    "price": 316.9,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
     "price": 317.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 317.07,
+  "promedio": 316.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
