@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-06T23:56:33.922466",
-  "actualizado_vzla": "2025-11-06 19:56:33 -04",
+  "timestamp_utc": "2025-11-07T02:04:44.336952",
+  "actualizado_vzla": "2025-11-06 22:04:44 -04",
   "compra_segundo": {
-    "price": 318.277,
-    "name": "EXITOSOS2025"
+    "price": 318.6,
+    "name": "Cmaximoj"
   },
   "venta_maxima": {
-    "price": 317.7,
-    "name": "Inversiones-ADSC"
+    "price": 317.262,
+    "name": "Cambioscorleone"
   },
-  "promedio": 317.99,
+  "promedio": 317.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
