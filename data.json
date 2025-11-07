@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T23:00:28.010213",
-  "actualizado_vzla": "2025-11-07 19:00:28 -04",
+  "timestamp_utc": "2025-11-07T23:25:03.166355",
+  "actualizado_vzla": "2025-11-07 19:25:03 -04",
   "compra_segundo": {
-    "price": 318.455,
-    "name": "eercripto"
+    "price": 318.299,
+    "name": "casacambiosRodriguez"
   },
   "venta_maxima": {
-    "price": 318.0,
-    "name": "FinanceSecure"
+    "price": 318.1,
+    "name": "LogisticExchange"
   },
-  "promedio": 318.23,
+  "promedio": 318.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
