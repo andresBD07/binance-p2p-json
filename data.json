@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T15:00:28.283721",
-  "actualizado_vzla": "2025-11-07 11:00:28 -04",
+  "timestamp_utc": "2025-11-07T15:30:13.515698",
+  "actualizado_vzla": "2025-11-07 11:30:13 -04",
   "compra_segundo": {
-    "price": 316.6,
-    "name": "CAMBIOS JV"
+    "price": 316.999,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
     "price": 317.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 316.8,
+  "promedio": 317.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
