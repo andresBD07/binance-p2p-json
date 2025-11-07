@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T17:14:31.027298",
-  "actualizado_vzla": "2025-11-07 13:14:31 -04",
+  "timestamp_utc": "2025-11-07T17:35:05.626779",
+  "actualizado_vzla": "2025-11-07 13:35:05 -04",
   "compra_segundo": {
-    "price": 316.9,
-    "name": "JF_Trading_Flash"
+    "price": 317.177,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 316.7,
-    "name": "WORL1EXCHANGE"
+    "price": 317.65,
+    "name": "To0809"
   },
-  "promedio": 316.8,
+  "promedio": 317.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
