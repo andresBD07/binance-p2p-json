@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T02:04:44.336952",
-  "actualizado_vzla": "2025-11-06 22:04:44 -04",
+  "timestamp_utc": "2025-11-07T03:17:51.891435",
+  "actualizado_vzla": "2025-11-06 23:17:51 -04",
   "compra_segundo": {
-    "price": 318.6,
-    "name": "Cmaximoj"
+    "price": 318.9,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 317.262,
+    "price": 317.18,
     "name": "Cambioscorleone"
   },
-  "promedio": 317.93,
+  "promedio": 318.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
