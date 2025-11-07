@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T14:47:30.272944",
-  "actualizado_vzla": "2025-11-07 10:47:30 -04",
+  "timestamp_utc": "2025-11-07T15:00:28.283721",
+  "actualizado_vzla": "2025-11-07 11:00:28 -04",
   "compra_segundo": {
-    "price": 316.788,
-    "name": "AllDayTrade"
+    "price": 316.6,
+    "name": "CAMBIOS JV"
   },
   "venta_maxima": {
     "price": 317.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 316.89,
+  "promedio": 316.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
