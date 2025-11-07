@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-07T21:50:06.105786",
-  "actualizado_vzla": "2025-11-07 17:50:06 -04",
+  "timestamp_utc": "2025-11-07T22:12:35.051483",
+  "actualizado_vzla": "2025-11-07 18:12:35 -04",
   "compra_segundo": {
-    "price": 318.23,
-    "name": "CambiosLindos2"
+    "price": 318.299,
+    "name": "Criptofxve"
   },
   "venta_maxima": {
-    "price": 317.86,
-    "name": "cazing2230"
+    "price": 317.8,
+    "name": "WinerBTC"
   },
   "promedio": 318.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
