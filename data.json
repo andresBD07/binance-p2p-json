@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T19:49:58.085113",
-  "actualizado_vzla": "2025-11-07 15:49:58 -04",
+  "timestamp_utc": "2025-11-07T20:13:44.556873",
+  "actualizado_vzla": "2025-11-07 16:13:44 -04",
   "compra_segundo": {
-    "price": 317.0,
-    "name": "Cripto_04"
+    "price": 317.196,
+    "name": "TradeWithAshley"
   },
   "venta_maxima": {
-    "price": 317.0,
-    "name": "LosSsoul"
+    "price": 317.2,
+    "name": "cazing2230"
   },
-  "promedio": 317.0,
+  "promedio": 317.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
