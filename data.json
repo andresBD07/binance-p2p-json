@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T20:46:09.984337",
-  "actualizado_vzla": "2025-11-07 16:46:09 -04",
+  "timestamp_utc": "2025-11-07T20:59:12.961501",
+  "actualizado_vzla": "2025-11-07 16:59:12 -04",
   "compra_segundo": {
-    "price": 317.345,
-    "name": "adonisdroid"
+    "price": 317.799,
+    "name": "CryptoConnectPro "
   },
   "venta_maxima": {
-    "price": 317.45,
+    "price": 317.46,
     "name": "HAWKEYE-1"
   },
-  "promedio": 317.4,
+  "promedio": 317.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
