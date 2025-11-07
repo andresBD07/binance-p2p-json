@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T22:34:10.207349",
-  "actualizado_vzla": "2025-11-07 18:34:10 -04",
+  "timestamp_utc": "2025-11-07T22:47:26.842651",
+  "actualizado_vzla": "2025-11-07 18:47:26 -04",
   "compra_segundo": {
-    "price": 318.455,
-    "name": "eercripto"
+    "price": 318.5,
+    "name": "KenpachiZ21"
   },
   "venta_maxima": {
     "price": 317.7,
     "name": "cazing2230"
   },
-  "promedio": 318.08,
+  "promedio": 318.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
