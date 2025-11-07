@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T13:47:30.370880",
-  "actualizado_vzla": "2025-11-07 09:47:30 -04",
+  "timestamp_utc": "2025-11-07T14:00:12.617683",
+  "actualizado_vzla": "2025-11-07 10:00:12 -04",
   "compra_segundo": {
-    "price": 316.8,
-    "name": "lamejoropcion"
+    "price": 316.89,
+    "name": "HR_Wolowitz"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "Cripto_04"
+    "price": 317.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 317.15,
+  "promedio": 316.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
