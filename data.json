@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T09:56:56.617752",
-  "actualizado_vzla": "2025-11-07 05:56:56 -04",
+  "timestamp_utc": "2025-11-07T10:30:40.356906",
+  "actualizado_vzla": "2025-11-07 06:30:40 -04",
   "compra_segundo": {
-    "price": 319.4,
-    "name": "PrimeCripto"
+    "price": 318.84,
+    "name": "Viamort"
   },
   "venta_maxima": {
-    "price": 315.0,
-    "name": "zama2004"
+    "price": 315.8,
+    "name": "SPYG"
   },
-  "promedio": 317.2,
+  "promedio": 317.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
