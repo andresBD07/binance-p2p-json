@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T15:58:56.808711",
-  "actualizado_vzla": "2025-11-07 11:58:56 -04",
+  "timestamp_utc": "2025-11-07T16:32:36.572881",
+  "actualizado_vzla": "2025-11-07 12:32:36 -04",
   "compra_segundo": {
-    "price": 317.0,
-    "name": "Criptotrading"
+    "price": 316.915,
+    "name": "Check-eate"
   },
   "venta_maxima": {
     "price": 317.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 317.0,
+  "promedio": 316.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
