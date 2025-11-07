@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T18:43:06.738025",
-  "actualizado_vzla": "2025-11-07 14:43:06 -04",
+  "timestamp_utc": "2025-11-07T18:56:06.944311",
+  "actualizado_vzla": "2025-11-07 14:56:06 -04",
   "compra_segundo": {
-    "price": 317.28,
-    "name": "ISATradea"
+    "price": 317.26,
+    "name": "Carlitos-trading"
   },
   "venta_maxima": {
-    "price": 318.0,
-    "name": "LogisticExchange"
+    "price": 317.51,
+    "name": "cazing2230"
   },
-  "promedio": 317.64,
+  "promedio": 317.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
