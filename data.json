@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T18:14:56.006591",
-  "actualizado_vzla": "2025-11-07 14:14:56 -04",
+  "timestamp_utc": "2025-11-07T18:43:06.738025",
+  "actualizado_vzla": "2025-11-07 14:43:06 -04",
   "compra_segundo": {
-    "price": 317.19,
-    "name": "RyderXchange"
+    "price": 317.28,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 316.75,
-    "name": "All-inCrypto"
+    "price": 318.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 316.97,
+  "promedio": 317.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
