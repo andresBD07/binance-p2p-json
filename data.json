@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-07T05:27:49.078450",
-  "actualizado_vzla": "2025-11-07 01:27:49 -04",
+  "timestamp_utc": "2025-11-07T05:44:54.055053",
+  "actualizado_vzla": "2025-11-07 01:44:54 -04",
   "compra_segundo": {
-    "price": 319.46,
-    "name": "Habrahanp2p"
+    "price": 319.4,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
     "price": 316.6,
     "name": "Quick Payment"
   },
-  "promedio": 318.03,
+  "promedio": 318.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
