@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T11:48:15.500434",
-  "actualizado_vzla": "2025-11-08 07:48:15 -04",
+  "timestamp_utc": "2025-11-08T12:16:15.623326",
+  "actualizado_vzla": "2025-11-08 08:16:15 -04",
   "compra_segundo": {
-    "price": 317.95,
-    "name": "EVER-08"
+    "price": 317.25,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
-    "price": 315.8,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 316.0,
+    "name": "MikasaAckerman"
   },
-  "promedio": 316.88,
+  "promedio": 316.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
