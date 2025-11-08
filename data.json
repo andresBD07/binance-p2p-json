@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T10:56:21.809111",
-  "actualizado_vzla": "2025-11-08 06:56:21 -04",
+  "timestamp_utc": "2025-11-08T11:20:08.333627",
+  "actualizado_vzla": "2025-11-08 07:20:08 -04",
   "compra_segundo": {
-    "price": 318.28,
-    "name": "Loyalbtc"
+    "price": 318.19,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
     "price": 316.0,
     "name": "T1_______"
   },
-  "promedio": 317.14,
+  "promedio": 317.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
