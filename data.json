@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T04:57:56.266780",
-  "actualizado_vzla": "2025-11-08 00:57:56 -04",
+  "timestamp_utc": "2025-11-08T05:26:46.443659",
+  "actualizado_vzla": "2025-11-08 01:26:46 -04",
   "compra_segundo": {
-    "price": 318.6,
-    "name": "Daikokuten-Finance"
+    "price": 318.65,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
     "price": 316.9,
     "name": "Quick Payment"
   },
-  "promedio": 317.75,
+  "promedio": 317.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
