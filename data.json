@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T14:51:46.488874",
-  "actualizado_vzla": "2025-11-08 10:51:46 -04",
+  "timestamp_utc": "2025-11-08T15:15:44.301934",
+  "actualizado_vzla": "2025-11-08 11:15:44 -04",
   "compra_segundo": {
-    "price": 316.43,
-    "name": "carmelog04"
+    "price": 316.4,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
     "price": 318.0,
     "name": "LogisticExchange"
   },
-  "promedio": 317.22,
+  "promedio": 317.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
