@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T22:09:38.604815",
-  "actualizado_vzla": "2025-11-08 18:09:38 -04",
+  "timestamp_utc": "2025-11-08T22:30:38.761444",
+  "actualizado_vzla": "2025-11-08 18:30:38 -04",
   "compra_segundo": {
-    "price": 316.145,
-    "name": "Betania"
+    "price": 316.1,
+    "name": "BETO_TRADER"
   },
   "venta_maxima": {
     "price": 317.0,
     "name": "FinanceSecure"
   },
-  "promedio": 316.57,
+  "promedio": 316.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
