@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T18:26:39.175353",
-  "actualizado_vzla": "2025-11-08 14:26:39 -04",
+  "timestamp_utc": "2025-11-08T18:47:36.984884",
+  "actualizado_vzla": "2025-11-08 14:47:36 -04",
   "compra_segundo": {
-    "price": 316.3,
-    "name": "GregoSwap"
+    "price": 316.19,
+    "name": "vickyrn13"
   },
   "venta_maxima": {
     "price": 318.0,
     "name": "LogisticExchange"
   },
-  "promedio": 317.15,
+  "promedio": 317.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
