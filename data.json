@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T01:44:33.509982",
-  "actualizado_vzla": "2025-11-07 21:44:33 -04",
+  "timestamp_utc": "2025-11-08T02:54:58.162085",
+  "actualizado_vzla": "2025-11-07 22:54:58 -04",
   "compra_segundo": {
-    "price": 317.88,
-    "name": "cambiaseguro22"
+    "price": 317.999,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 318.0,
-    "name": "FinanceSecure"
+    "price": 321.0,
+    "name": "M3rlinBTC"
   },
-  "promedio": 317.94,
+  "promedio": 319.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
