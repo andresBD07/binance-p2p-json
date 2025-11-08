@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T04:44:38.069966",
-  "actualizado_vzla": "2025-11-08 00:44:38 -04",
+  "timestamp_utc": "2025-11-08T04:57:56.266780",
+  "actualizado_vzla": "2025-11-08 00:57:56 -04",
   "compra_segundo": {
-    "price": 318.5,
-    "name": "MyE_spa"
+    "price": 318.6,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 317.5,
+    "price": 316.9,
     "name": "Quick Payment"
   },
-  "promedio": 318.0,
+  "promedio": 317.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
