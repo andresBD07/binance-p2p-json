@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T20:44:16.527785",
-  "actualizado_vzla": "2025-11-08 16:44:16 -04",
+  "timestamp_utc": "2025-11-08T20:57:12.118703",
+  "actualizado_vzla": "2025-11-08 16:57:12 -04",
   "compra_segundo": {
-    "price": 316.09,
-    "name": "rParadas"
+    "price": 316.2,
+    "name": "CriptoFms10"
   },
   "venta_maxima": {
     "price": 316.5,
     "name": "FinanceSecure"
   },
-  "promedio": 316.29,
+  "promedio": 316.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
