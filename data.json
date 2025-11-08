@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T10:26:19.669148",
-  "actualizado_vzla": "2025-11-08 06:26:19 -04",
+  "timestamp_utc": "2025-11-08T10:43:09.365136",
+  "actualizado_vzla": "2025-11-08 06:43:09 -04",
   "compra_segundo": {
-    "price": 318.54,
-    "name": "PitbullChain"
+    "price": 318.43,
+    "name": "ComerciosCarpo26"
   },
   "venta_maxima": {
     "price": 317.23,
     "name": "EliMerlina"
   },
-  "promedio": 317.88,
+  "promedio": 317.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
