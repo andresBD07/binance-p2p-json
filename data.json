@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T17:52:55.338077",
-  "actualizado_vzla": "2025-11-08 13:52:55 -04",
+  "timestamp_utc": "2025-11-08T18:26:39.175353",
+  "actualizado_vzla": "2025-11-08 14:26:39 -04",
   "compra_segundo": {
-    "price": 316.594,
-    "name": "moises_9mm"
+    "price": 316.3,
+    "name": "GregoSwap"
   },
   "venta_maxima": {
     "price": 318.0,
     "name": "LogisticExchange"
   },
-  "promedio": 317.3,
+  "promedio": 317.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
