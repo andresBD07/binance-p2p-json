@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T05:56:23.495624",
-  "actualizado_vzla": "2025-11-08 01:56:23 -04",
+  "timestamp_utc": "2025-11-08T06:36:04.923604",
+  "actualizado_vzla": "2025-11-08 02:36:04 -04",
   "compra_segundo": {
-    "price": 318.79,
-    "name": "davzotrading"
+    "price": 318.899,
+    "name": "Jcby"
   },
   "venta_maxima": {
-    "price": 316.9,
-    "name": "Quick Payment"
+    "price": 316.33,
+    "name": "NicTin08"
   },
-  "promedio": 317.85,
+  "promedio": 317.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
