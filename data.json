@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T08:32:00.577937",
-  "actualizado_vzla": "2025-11-08 04:32:00 -04",
+  "timestamp_utc": "2025-11-08T08:49:12.690633",
+  "actualizado_vzla": "2025-11-08 04:49:12 -04",
   "compra_segundo": {
-    "price": 318.85,
-    "name": "DopaP2P"
+    "price": 318.899,
+    "name": "Jcby"
   },
   "venta_maxima": {
     "price": 316.33,
     "name": "NicTin08"
   },
-  "promedio": 317.59,
+  "promedio": 317.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
