@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T12:16:15.623326",
-  "actualizado_vzla": "2025-11-08 08:16:15 -04",
+  "timestamp_utc": "2025-11-08T12:56:26.520961",
+  "actualizado_vzla": "2025-11-08 08:56:26 -04",
   "compra_segundo": {
-    "price": 317.25,
-    "name": "DolceGabbana"
+    "price": 317.095,
+    "name": "-APPARATUS-"
   },
   "venta_maxima": {
-    "price": 316.0,
-    "name": "MikasaAckerman"
+    "price": 317.3,
+    "name": "FinanceSecure"
   },
-  "promedio": 316.62,
+  "promedio": 317.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
