@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T03:37:35.172404",
-  "actualizado_vzla": "2025-11-07 23:37:35 -04",
+  "timestamp_utc": "2025-11-08T03:54:12.016055",
+  "actualizado_vzla": "2025-11-07 23:54:12 -04",
   "compra_segundo": {
-    "price": 318.19,
-    "name": "EliteSummitPro"
+    "price": 318.42,
+    "name": "Reinny"
   },
   "venta_maxima": {
-    "price": 317.6,
+    "price": 317.5,
     "name": "Quick Payment"
   },
-  "promedio": 317.89,
+  "promedio": 317.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
