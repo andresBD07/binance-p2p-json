@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T16:47:54.534028",
-  "actualizado_vzla": "2025-11-08 12:47:54 -04",
+  "timestamp_utc": "2025-11-08T17:01:19.850426",
+  "actualizado_vzla": "2025-11-08 13:01:19 -04",
   "compra_segundo": {
-    "price": 316.69,
-    "name": "CryptoIngAlex"
+    "price": 316.65,
+    "name": "Yolo_C"
   },
   "venta_maxima": {
     "price": 318.0,
     "name": "LogisticExchange"
   },
-  "promedio": 317.35,
+  "promedio": 317.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
