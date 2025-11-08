@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T11:34:56.930101",
-  "actualizado_vzla": "2025-11-08 07:34:56 -04",
+  "timestamp_utc": "2025-11-08T11:48:15.500434",
+  "actualizado_vzla": "2025-11-08 07:48:15 -04",
   "compra_segundo": {
-    "price": 318.0,
-    "name": "Rincon25"
+    "price": 317.95,
+    "name": "EVER-08"
   },
   "venta_maxima": {
-    "price": 316.001,
+    "price": 315.8,
     "name": "IMPORTACIONEMUNVE"
   },
-  "promedio": 317.0,
+  "promedio": 316.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
