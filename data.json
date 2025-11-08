@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T09:56:22.552387",
-  "actualizado_vzla": "2025-11-08 05:56:22 -04",
+  "timestamp_utc": "2025-11-08T10:26:19.669148",
+  "actualizado_vzla": "2025-11-08 06:26:19 -04",
   "compra_segundo": {
-    "price": 318.7,
-    "name": "CorvoMecanique"
+    "price": 318.54,
+    "name": "PitbullChain"
   },
   "venta_maxima": {
-    "price": 316.0,
-    "name": "T1_______"
+    "price": 317.23,
+    "name": "EliMerlina"
   },
-  "promedio": 317.35,
+  "promedio": 317.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
