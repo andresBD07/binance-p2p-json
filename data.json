@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T15:57:46.931784",
-  "actualizado_vzla": "2025-11-08 11:57:46 -04",
+  "timestamp_utc": "2025-11-08T16:31:11.871918",
+  "actualizado_vzla": "2025-11-08 12:31:11 -04",
   "compra_segundo": {
-    "price": 316.45,
-    "name": "Shibundo"
+    "price": 316.5,
+    "name": "Silv3rPkm"
   },
   "venta_maxima": {
     "price": 318.0,
     "name": "LogisticExchange"
   },
-  "promedio": 317.23,
+  "promedio": 317.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
