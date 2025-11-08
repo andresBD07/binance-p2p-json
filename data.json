@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T13:55:55.840468",
-  "actualizado_vzla": "2025-11-08 09:55:55 -04",
+  "timestamp_utc": "2025-11-08T14:22:42.534454",
+  "actualizado_vzla": "2025-11-08 10:22:42 -04",
   "compra_segundo": {
-    "price": 316.999,
-    "name": "MikasaAckerman"
+    "price": 316.4,
+    "name": "JaviSwap"
   },
   "venta_maxima": {
-    "price": 317.35,
+    "price": 317.0,
     "name": "FinanceSecure"
   },
-  "promedio": 317.17,
+  "promedio": 316.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
