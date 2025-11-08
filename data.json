@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-08T17:25:02.613639",
-  "actualizado_vzla": "2025-11-08 13:25:02 -04",
+  "timestamp_utc": "2025-11-08T17:40:04.373669",
+  "actualizado_vzla": "2025-11-08 13:40:04 -04",
   "compra_segundo": {
-    "price": 316.6,
-    "name": "Ciclope7"
+    "price": 316.5,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
     "price": 318.0,
     "name": "LogisticExchange"
   },
-  "promedio": 317.3,
+  "promedio": 317.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
