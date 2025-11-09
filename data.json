@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T05:13:50.262822",
-  "actualizado_vzla": "2025-11-09 01:13:50 -04",
+  "timestamp_utc": "2025-11-09T05:34:26.288291",
+  "actualizado_vzla": "2025-11-09 01:34:26 -04",
   "compra_segundo": {
-    "price": 317.6,
-    "name": "PrimeCripto"
+    "price": 317.45,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 315.2,
     "name": "Brawlcoins"
   },
-  "promedio": 316.4,
+  "promedio": 316.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
