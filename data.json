@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T11:54:03.294745",
-  "actualizado_vzla": "2025-11-09 07:54:03 -04",
+  "timestamp_utc": "2025-11-09T12:41:32.329878",
+  "actualizado_vzla": "2025-11-09 08:41:32 -04",
   "compra_segundo": {
-    "price": 317.299,
-    "name": "Coinrich17"
+    "price": 316.99,
+    "name": "RoyMustang_"
   },
   "venta_maxima": {
-    "price": 319.22,
-    "name": "FastChangeSafeChange"
+    "price": 315.5,
+    "name": "MikasaAckerman"
   },
-  "promedio": 318.26,
+  "promedio": 316.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
