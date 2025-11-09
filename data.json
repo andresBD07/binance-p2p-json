@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T11:40:41.873556",
-  "actualizado_vzla": "2025-11-09 07:40:41 -04",
+  "timestamp_utc": "2025-11-09T11:54:03.294745",
+  "actualizado_vzla": "2025-11-09 07:54:03 -04",
   "compra_segundo": {
-    "price": 317.4,
-    "name": "CriptoTrade20"
+    "price": 317.299,
+    "name": "Coinrich17"
   },
   "venta_maxima": {
-    "price": 315.5,
-    "name": "MikasaAckerman"
+    "price": 319.22,
+    "name": "FastChangeSafeChange"
   },
-  "promedio": 316.45,
+  "promedio": 318.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
