@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T20:16:34.945149",
-  "actualizado_vzla": "2025-11-09 16:16:34 -04",
+  "timestamp_utc": "2025-11-09T20:34:34.699539",
+  "actualizado_vzla": "2025-11-09 16:34:34 -04",
   "compra_segundo": {
-    "price": 317.38,
-    "name": "davzotrading"
+    "price": 317.496,
+    "name": "aguadecoco21"
   },
   "venta_maxima": {
-    "price": 317.32,
-    "name": "JLxanges"
+    "price": 317.5,
+    "name": "Masterven"
   },
-  "promedio": 317.35,
+  "promedio": 317.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
