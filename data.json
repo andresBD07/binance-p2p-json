@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T17:45:00.985917",
-  "actualizado_vzla": "2025-11-09 13:45:00 -04",
+  "timestamp_utc": "2025-11-09T17:58:10.104003",
+  "actualizado_vzla": "2025-11-09 13:58:10 -04",
   "compra_segundo": {
-    "price": 317.45,
-    "name": "LaYanza"
+    "price": 317.4,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 316.9,
+    "price": 317.2,
     "name": "JLxanges"
   },
-  "promedio": 317.17,
+  "promedio": 317.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
