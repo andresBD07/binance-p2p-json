@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T15:38:02.640658",
-  "actualizado_vzla": "2025-11-09 11:38:02 -04",
+  "timestamp_utc": "2025-11-09T15:51:16.398245",
+  "actualizado_vzla": "2025-11-09 11:51:16 -04",
   "compra_segundo": {
-    "price": 317.05,
-    "name": "tuagenciadeconfianza"
+    "price": 317.0,
+    "name": "MONEY-EXCHANGE-RS"
   },
   "venta_maxima": {
     "price": 317.0,
     "name": "TuPagoRapido"
   },
-  "promedio": 317.02,
+  "promedio": 317.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
