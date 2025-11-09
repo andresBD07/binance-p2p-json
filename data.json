@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T09:53:28.735708",
-  "actualizado_vzla": "2025-11-09 05:53:28 -04",
+  "timestamp_utc": "2025-11-09T10:20:18.637969",
+  "actualizado_vzla": "2025-11-09 06:20:18 -04",
   "compra_segundo": {
-    "price": 318.79,
-    "name": "MasRapidoMasSeguro"
+    "price": 318.44,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
-    "price": 315.2,
-    "name": "Brawlcoins"
+    "price": 315.5,
+    "name": "MikasaAckerman"
   },
-  "promedio": 317.0,
+  "promedio": 316.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
