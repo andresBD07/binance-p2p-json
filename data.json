@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-09T22:36:17.884392",
-  "actualizado_vzla": "2025-11-09 18:36:17 -04",
+  "timestamp_utc": "2025-11-09T22:49:31.709750",
+  "actualizado_vzla": "2025-11-09 18:49:31 -04",
   "compra_segundo": {
-    "price": 317.79,
-    "name": "ExchangeMarket_Vzla"
+    "price": 317.8,
+    "name": "trade-key"
   },
   "venta_maxima": {
     "price": 317.2,
