@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T22:49:31.709750",
-  "actualizado_vzla": "2025-11-09 18:49:31 -04",
+  "timestamp_utc": "2025-11-09T23:11:09.226713",
+  "actualizado_vzla": "2025-11-09 19:11:09 -04",
   "compra_segundo": {
-    "price": 317.8,
-    "name": "trade-key"
+    "price": 317.98,
+    "name": "MisterfastP2P"
   },
   "venta_maxima": {
-    "price": 317.2,
+    "price": 317.5,
     "name": "JLxanges"
   },
-  "promedio": 317.5,
+  "promedio": 317.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
