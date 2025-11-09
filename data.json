@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-09T09:00:14.541879",
-  "actualizado_vzla": "2025-11-09 05:00:14 -04",
+  "timestamp_utc": "2025-11-09T09:25:23.807600",
+  "actualizado_vzla": "2025-11-09 05:25:23 -04",
   "compra_segundo": {
-    "price": 318.8,
-    "name": "ComerciosCarpo26"
+    "price": 318.79,
+    "name": "MasRapidoMasSeguro"
   },
   "venta_maxima": {
     "price": 315.2,
