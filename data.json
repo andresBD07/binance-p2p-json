@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T02:55:57.984248",
-  "actualizado_vzla": "2025-11-08 22:55:57 -04",
+  "timestamp_utc": "2025-11-09T03:48:09.946127",
+  "actualizado_vzla": "2025-11-08 23:48:09 -04",
   "compra_segundo": {
-    "price": 317.079,
-    "name": "TU CAMBIO"
+    "price": 317.199,
+    "name": "Emm-FAST"
   },
   "venta_maxima": {
     "price": 316.0,
     "name": "GoldenLion_"
   },
-  "promedio": 316.54,
+  "promedio": 316.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
