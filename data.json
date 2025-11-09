@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T19:23:53.730306",
-  "actualizado_vzla": "2025-11-09 15:23:53 -04",
+  "timestamp_utc": "2025-11-09T19:38:09.065678",
+  "actualizado_vzla": "2025-11-09 15:38:09 -04",
   "compra_segundo": {
-    "price": 317.25,
-    "name": "Cmaximoj"
+    "price": 317.2,
+    "name": "LOMAX1982"
   },
   "venta_maxima": {
     "price": 317.5,
     "name": "KillKeroy"
   },
-  "promedio": 317.38,
+  "promedio": 317.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
