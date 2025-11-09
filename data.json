@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T03:48:09.946127",
-  "actualizado_vzla": "2025-11-08 23:48:09 -04",
+  "timestamp_utc": "2025-11-09T04:12:22.277295",
+  "actualizado_vzla": "2025-11-09 00:12:22 -04",
   "compra_segundo": {
-    "price": 317.199,
-    "name": "Emm-FAST"
+    "price": 317.38,
+    "name": "CriptoBlessed"
   },
   "venta_maxima": {
-    "price": 316.0,
-    "name": "GoldenLion_"
+    "price": 315.2,
+    "name": "Brawlcoins"
   },
-  "promedio": 316.6,
+  "promedio": 316.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
