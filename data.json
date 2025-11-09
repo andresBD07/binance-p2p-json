@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-09T21:26:35.686818",
-  "actualizado_vzla": "2025-11-09 17:26:35 -04",
+  "timestamp_utc": "2025-11-09T21:40:19.439364",
+  "actualizado_vzla": "2025-11-09 17:40:19 -04",
   "compra_segundo": {
-    "price": 317.6,
-    "name": "Servicios_JT"
+    "price": 317.599,
+    "name": "Juanvax07"
   },
   "venta_maxima": {
     "price": 317.1,
