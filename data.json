@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T14:55:38.852075",
-  "actualizado_vzla": "2025-11-09 10:55:38 -04",
+  "timestamp_utc": "2025-11-09T15:23:27.660092",
+  "actualizado_vzla": "2025-11-09 11:23:27 -04",
   "compra_segundo": {
-    "price": 316.96,
-    "name": "X-O-X"
+    "price": 317.0,
+    "name": "CambiosAndinos"
   },
   "venta_maxima": {
-    "price": 316.9,
-    "name": "JLxanges"
+    "price": 317.0,
+    "name": "TuPagoRapido"
   },
-  "promedio": 316.93,
+  "promedio": 317.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
