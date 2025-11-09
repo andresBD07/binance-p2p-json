@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T19:51:22.939860",
-  "actualizado_vzla": "2025-11-09 15:51:22 -04",
+  "timestamp_utc": "2025-11-09T20:16:34.945149",
+  "actualizado_vzla": "2025-11-09 16:16:34 -04",
   "compra_segundo": {
-    "price": 317.299,
-    "name": "-APPARATUS-"
+    "price": 317.38,
+    "name": "davzotrading"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "KillKeroy"
+    "price": 317.32,
+    "name": "JLxanges"
   },
-  "promedio": 317.4,
+  "promedio": 317.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
