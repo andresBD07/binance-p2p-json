@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T20:34:34.699539",
-  "actualizado_vzla": "2025-11-09 16:34:34 -04",
+  "timestamp_utc": "2025-11-09T20:47:53.452198",
+  "actualizado_vzla": "2025-11-09 16:47:53 -04",
   "compra_segundo": {
-    "price": 317.496,
-    "name": "aguadecoco21"
+    "price": 317.49,
+    "name": "MauricioRisso"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "Masterven"
+    "price": 317.32,
+    "name": "JLxanges"
   },
-  "promedio": 317.5,
+  "promedio": 317.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
