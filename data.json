@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T07:59:20.695587",
-  "actualizado_vzla": "2025-11-09 03:59:20 -04",
+  "timestamp_utc": "2025-11-09T08:31:37.423214",
+  "actualizado_vzla": "2025-11-09 04:31:37 -04",
   "compra_segundo": {
-    "price": 318.4,
-    "name": "KRIPTOREY"
+    "price": 318.79,
+    "name": "MasRapidoMasSeguro"
   },
   "venta_maxima": {
     "price": 315.2,
     "name": "Brawlcoins"
   },
-  "promedio": 316.8,
+  "promedio": 317.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
