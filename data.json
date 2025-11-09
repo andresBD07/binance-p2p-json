@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T23:43:09.994098",
-  "actualizado_vzla": "2025-11-09 19:43:10 -04",
+  "timestamp_utc": "2025-11-09T23:56:19.646642",
+  "actualizado_vzla": "2025-11-09 19:56:19 -04",
   "compra_segundo": {
     "price": 318.0,
     "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 318.05,
-    "name": "TOPlevelS"
+    "price": 317.64,
+    "name": "JLxanges"
   },
-  "promedio": 318.02,
+  "promedio": 317.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
