@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T17:31:38.630200",
-  "actualizado_vzla": "2025-11-09 13:31:38 -04",
+  "timestamp_utc": "2025-11-09T17:45:00.985917",
+  "actualizado_vzla": "2025-11-09 13:45:00 -04",
   "compra_segundo": {
-    "price": 317.2,
-    "name": "Cambia-Seguro-01"
+    "price": 317.45,
+    "name": "LaYanza"
   },
   "venta_maxima": {
-    "price": 317.0,
-    "name": "TuPagoRapido"
+    "price": 316.9,
+    "name": "JLxanges"
   },
-  "promedio": 317.1,
+  "promedio": 317.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
