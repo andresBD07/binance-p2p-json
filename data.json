@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T17:58:10.104003",
-  "actualizado_vzla": "2025-11-09 13:58:10 -04",
+  "timestamp_utc": "2025-11-09T18:34:15.514028",
+  "actualizado_vzla": "2025-11-09 14:34:15 -04",
   "compra_segundo": {
-    "price": 317.4,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 317.3,
+    "name": "ELGOCHOXCHANGE31"
   },
   "venta_maxima": {
-    "price": 317.2,
-    "name": "JLxanges"
+    "price": 317.5,
+    "name": "KillKeroy"
   },
-  "promedio": 317.3,
+  "promedio": 317.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
