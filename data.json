@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T06:01:07.520912",
-  "actualizado_vzla": "2025-11-09 02:01:07 -04",
+  "timestamp_utc": "2025-11-09T06:38:35.840097",
+  "actualizado_vzla": "2025-11-09 02:38:35 -04",
   "compra_segundo": {
-    "price": 317.4,
-    "name": "Jcby"
+    "price": 317.68,
+    "name": "Reinny"
   },
   "venta_maxima": {
     "price": 315.2,
     "name": "Brawlcoins"
   },
-  "promedio": 316.3,
+  "promedio": 316.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
