@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T14:28:56.131636",
-  "actualizado_vzla": "2025-11-09 10:28:56 -04",
+  "timestamp_utc": "2025-11-09T14:42:24.930731",
+  "actualizado_vzla": "2025-11-09 10:42:24 -04",
   "compra_segundo": {
-    "price": 316.84,
-    "name": "CarlosBelloTrader"
+    "price": 316.899,
+    "name": "TeresaCrip"
   },
   "venta_maxima": {
     "price": 316.9,
     "name": "JLxanges"
   },
-  "promedio": 316.87,
+  "promedio": 316.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
