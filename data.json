@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T22:18:14.208288",
-  "actualizado_vzla": "2025-11-09 18:18:14 -04",
+  "timestamp_utc": "2025-11-09T22:36:17.884392",
+  "actualizado_vzla": "2025-11-09 18:36:17 -04",
   "compra_segundo": {
-    "price": 317.749,
-    "name": "SISISY"
+    "price": 317.79,
+    "name": "ExchangeMarket_Vzla"
   },
   "venta_maxima": {
-    "price": 317.1,
+    "price": 317.2,
     "name": "JLxanges"
   },
-  "promedio": 317.42,
+  "promedio": 317.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
