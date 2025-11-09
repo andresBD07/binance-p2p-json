@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-09T13:35:03.416590",
-  "actualizado_vzla": "2025-11-09 09:35:03 -04",
+  "timestamp_utc": "2025-11-09T13:47:59.220806",
+  "actualizado_vzla": "2025-11-09 09:47:59 -04",
   "compra_segundo": {
-    "price": 316.9,
-    "name": "ELFARMACO-NO_3eros"
+    "price": 316.945,
+    "name": "CAMBIOSPRO2000"
   },
   "venta_maxima": {
     "price": 316.9,
     "name": "JLxanges"
   },
-  "promedio": 316.9,
+  "promedio": 316.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
