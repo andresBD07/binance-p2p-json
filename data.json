@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T13:47:10.953217",
-  "actualizado_vzla": "2025-11-10 09:47:10 -04",
+  "timestamp_utc": "2025-11-10T13:59:56.128234",
+  "actualizado_vzla": "2025-11-10 09:59:56 -04",
   "compra_segundo": {
     "price": 317.9,
-    "name": "Tucambiove"
+    "name": "N1Capital"
   },
   "venta_maxima": {
-    "price": 317.5,
-    "name": "SmartSolutionn"
+    "price": 317.62,
+    "name": "JoseParedez"
   },
-  "promedio": 317.7,
+  "promedio": 317.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
