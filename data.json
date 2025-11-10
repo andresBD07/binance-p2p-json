@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T03:35:27.880254",
-  "actualizado_vzla": "2025-11-09 23:35:27 -04",
+  "timestamp_utc": "2025-11-10T04:03:44.293275",
+  "actualizado_vzla": "2025-11-10 00:03:44 -04",
   "compra_segundo": {
-    "price": 319.298,
-    "name": "TilinArberto"
+    "price": 319.29,
+    "name": "Ekxprees"
   },
   "venta_maxima": {
-    "price": 317.055,
-    "name": "Wil2589"
+    "price": 316.1,
+    "name": "X-O-X"
   },
-  "promedio": 318.18,
+  "promedio": 317.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
