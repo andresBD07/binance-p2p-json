@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T04:54:14.368058",
-  "actualizado_vzla": "2025-11-10 00:54:14 -04",
+  "timestamp_utc": "2025-11-10T05:24:33.211935",
+  "actualizado_vzla": "2025-11-10 01:24:33 -04",
   "compra_segundo": {
-    "price": 319.298,
-    "name": "TilinArberto"
+    "price": 319.4,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 316.1,
-    "name": "X-O-X"
+    "price": 316.11,
+    "name": "SmarPhon3"
   },
-  "promedio": 317.7,
+  "promedio": 317.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
