@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T18:18:16.439696",
-  "actualizado_vzla": "2025-11-10 14:18:16 -04",
+  "timestamp_utc": "2025-11-10T18:46:31.517017",
+  "actualizado_vzla": "2025-11-10 14:46:31 -04",
   "compra_segundo": {
-    "price": 323.4,
-    "name": "DeToditoExpresS"
+    "price": 325.62,
+    "name": "chikil"
   },
   "venta_maxima": {
     "price": 324.5,
-    "name": "Eliezerjph"
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 323.95,
+  "promedio": 325.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
