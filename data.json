@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T11:22:41.269866",
-  "actualizado_vzla": "2025-11-10 07:22:41 -04",
+  "timestamp_utc": "2025-11-10T11:38:57.688590",
+  "actualizado_vzla": "2025-11-10 07:38:57 -04",
   "compra_segundo": {
-    "price": 317.95,
-    "name": "TH10TRADE"
+    "price": 317.99,
+    "name": "Avrisiel"
   },
   "venta_maxima": {
-    "price": 317.0,
-    "name": "JLxanges"
+    "price": 316.6,
+    "name": "KillKeroy"
   },
-  "promedio": 317.48,
+  "promedio": 317.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
