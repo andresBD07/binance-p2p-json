@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T12:38:20.352416",
-  "actualizado_vzla": "2025-11-10 08:38:20 -04",
+  "timestamp_utc": "2025-11-10T13:21:07.098673",
+  "actualizado_vzla": "2025-11-10 09:21:07 -04",
   "compra_segundo": {
-    "price": 317.45,
-    "name": "Krypto-Handeln"
+    "price": 317.699,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 317.0,
-    "name": "WarlopCambios"
+    "price": 317.3,
+    "name": "JLxanges"
   },
-  "promedio": 317.23,
+  "promedio": 317.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
