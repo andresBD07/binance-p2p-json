@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T18:46:31.517017",
-  "actualizado_vzla": "2025-11-10 14:46:31 -04",
+  "timestamp_utc": "2025-11-10T18:59:21.436165",
+  "actualizado_vzla": "2025-11-10 14:59:21 -04",
   "compra_segundo": {
-    "price": 325.62,
-    "name": "chikil"
+    "price": 325.599,
+    "name": "Ivonnexjz"
   },
   "venta_maxima": {
-    "price": 324.5,
-    "name": "Si Me Pasas Te Paso"
+    "price": 324.81,
+    "name": "app2112"
   },
-  "promedio": 325.06,
+  "promedio": 325.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
