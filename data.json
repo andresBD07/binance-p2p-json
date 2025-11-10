@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T21:25:19.319093",
-  "actualizado_vzla": "2025-11-10 17:25:19 -04",
+  "timestamp_utc": "2025-11-10T21:41:56.212299",
+  "actualizado_vzla": "2025-11-10 17:41:56 -04",
   "compra_segundo": {
-    "price": 327.999,
-    "name": "JJM_TRADER"
+    "price": 327.9,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 327.5,
-    "name": "cazing2230"
+    "price": 328.1,
+    "name": "EDbusiness"
   },
-  "promedio": 327.75,
+  "promedio": 328.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
