@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T17:36:13.529673",
-  "actualizado_vzla": "2025-11-10 13:36:13 -04",
+  "timestamp_utc": "2025-11-10T17:49:26.635289",
+  "actualizado_vzla": "2025-11-10 13:49:26 -04",
   "compra_segundo": {
-    "price": 321.499,
-    "name": "AllDayTrade"
+    "price": 321.78,
+    "name": "-Vallenatero-"
   },
   "venta_maxima": {
-    "price": 323.1,
+    "price": 323.6,
     "name": "hectoraltrader"
   },
-  "promedio": 322.3,
+  "promedio": 322.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
