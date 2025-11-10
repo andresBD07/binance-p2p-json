@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T13:59:56.128234",
-  "actualizado_vzla": "2025-11-10 09:59:56 -04",
+  "timestamp_utc": "2025-11-10T14:31:23.255080",
+  "actualizado_vzla": "2025-11-10 10:31:23 -04",
   "compra_segundo": {
-    "price": 317.9,
-    "name": "N1Capital"
+    "price": 318.0,
+    "name": "_InversionesJG_"
   },
   "venta_maxima": {
-    "price": 317.62,
+    "price": 318.8,
     "name": "JoseParedez"
   },
-  "promedio": 317.76,
+  "promedio": 318.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
