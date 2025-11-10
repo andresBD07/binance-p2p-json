@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T13:21:07.098673",
-  "actualizado_vzla": "2025-11-10 09:21:07 -04",
+  "timestamp_utc": "2025-11-10T13:47:10.953217",
+  "actualizado_vzla": "2025-11-10 09:47:10 -04",
   "compra_segundo": {
-    "price": 317.699,
-    "name": "Guayoyoo"
+    "price": 317.9,
+    "name": "Tucambiove"
   },
   "venta_maxima": {
-    "price": 317.3,
-    "name": "JLxanges"
+    "price": 317.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 317.5,
+  "promedio": 317.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
