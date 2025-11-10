@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T07:55:59.229255",
-  "actualizado_vzla": "2025-11-10 03:55:59 -04",
+  "timestamp_utc": "2025-11-10T08:37:02.751878",
+  "actualizado_vzla": "2025-11-10 04:37:02 -04",
   "compra_segundo": {
-    "price": 320.0,
-    "name": "zucorp"
+    "price": 319.989,
+    "name": "NUM3R1T0"
   },
   "venta_maxima": {
     "price": 316.0,
     "name": "RiddleTrader1998"
   },
-  "promedio": 318.0,
+  "promedio": 317.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
