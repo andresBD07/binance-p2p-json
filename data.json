@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-10T05:43:14.830497",
-  "actualizado_vzla": "2025-11-10 01:43:14 -04",
+  "timestamp_utc": "2025-11-10T05:56:04.429039",
+  "actualizado_vzla": "2025-11-10 01:56:04 -04",
   "compra_segundo": {
-    "price": 319.639,
-    "name": "panchofranco1"
+    "price": 319.64,
+    "name": "PlutoTrading"
   },
   "venta_maxima": {
-    "price": 316.125,
-    "name": "DarkLedger"
+    "price": 316.13,
+    "name": "SmarPhon3"
   },
   "promedio": 317.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
