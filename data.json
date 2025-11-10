@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T19:52:12.281234",
-  "actualizado_vzla": "2025-11-10 15:52:12 -04",
+  "timestamp_utc": "2025-11-10T20:21:54.719001",
+  "actualizado_vzla": "2025-11-10 16:21:54 -04",
   "compra_segundo": {
-    "price": 326.9,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 327.199,
+    "name": "docfabi2020"
   },
   "venta_maxima": {
-    "price": 326.3,
+    "price": 327.15,
     "name": "-tsushima-"
   },
-  "promedio": 326.6,
+  "promedio": 327.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
