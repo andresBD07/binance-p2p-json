@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T16:27:44.341289",
-  "actualizado_vzla": "2025-11-10 12:27:44 -04",
+  "timestamp_utc": "2025-11-10T16:52:30.000480",
+  "actualizado_vzla": "2025-11-10 12:52:30 -04",
   "compra_segundo": {
-    "price": 321.0,
-    "name": "trade-key"
+    "price": 321.165,
+    "name": "CryptoKoku"
   },
   "venta_maxima": {
-    "price": 320.5,
-    "name": "Cripto-Ale"
+    "price": 321.11,
+    "name": "cazing2230"
   },
-  "promedio": 320.75,
+  "promedio": 321.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
