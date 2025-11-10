@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T20:21:54.719001",
-  "actualizado_vzla": "2025-11-10 16:21:54 -04",
+  "timestamp_utc": "2025-11-10T20:43:25.171015",
+  "actualizado_vzla": "2025-11-10 16:43:25 -04",
   "compra_segundo": {
-    "price": 327.199,
-    "name": "docfabi2020"
+    "price": 327.499,
+    "name": "Winprox-Exchange"
   },
   "venta_maxima": {
-    "price": 327.15,
-    "name": "-tsushima-"
+    "price": 328.5,
+    "name": "EDbusiness"
   },
-  "promedio": 327.17,
+  "promedio": 328.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
