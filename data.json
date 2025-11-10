@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T02:10:37.602571",
-  "actualizado_vzla": "2025-11-09 22:10:37 -04",
+  "timestamp_utc": "2025-11-10T03:35:27.880254",
+  "actualizado_vzla": "2025-11-09 23:35:27 -04",
   "compra_segundo": {
-    "price": 318.499,
-    "name": "Elitecambios_J"
+    "price": 319.298,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
-    "price": 317.7,
-    "name": "Child-CambioFacil"
+    "price": 317.055,
+    "name": "Wil2589"
   },
-  "promedio": 318.1,
+  "promedio": 318.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
