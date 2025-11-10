@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T15:38:47.679773",
-  "actualizado_vzla": "2025-11-10 11:38:47 -04",
+  "timestamp_utc": "2025-11-10T15:52:48.339144",
+  "actualizado_vzla": "2025-11-10 11:52:48 -04",
   "compra_segundo": {
-    "price": 320.0,
-    "name": "Criptofxve"
+    "price": 320.78,
+    "name": "Rebeasc"
   },
   "venta_maxima": {
-    "price": 319.65,
-    "name": "cazing2230"
+    "price": 320.25,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 319.82,
+  "promedio": 320.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
