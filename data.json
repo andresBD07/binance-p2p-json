@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T10:55:28.451554",
-  "actualizado_vzla": "2025-11-10 06:55:28 -04",
+  "timestamp_utc": "2025-11-10T11:22:41.269866",
+  "actualizado_vzla": "2025-11-10 07:22:41 -04",
   "compra_segundo": {
-    "price": 318.865,
-    "name": "urotrader"
+    "price": 317.95,
+    "name": "TH10TRADE"
   },
   "venta_maxima": {
-    "price": 315.5,
-    "name": "leomileo2022"
+    "price": 317.0,
+    "name": "JLxanges"
   },
-  "promedio": 317.18,
+  "promedio": 317.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
