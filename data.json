@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T05:56:04.429039",
-  "actualizado_vzla": "2025-11-10 01:56:04 -04",
+  "timestamp_utc": "2025-11-10T06:41:49.650132",
+  "actualizado_vzla": "2025-11-10 02:41:49 -04",
   "compra_segundo": {
-    "price": 319.64,
-    "name": "PlutoTrading"
+    "price": 319.886,
+    "name": "Apolo_Cript"
   },
   "venta_maxima": {
-    "price": 316.13,
-    "name": "SmarPhon3"
+    "price": 316.14,
+    "name": "TuCambioYa_"
   },
-  "promedio": 317.88,
+  "promedio": 318.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
