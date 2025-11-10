@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-10T16:52:30.000480",
-  "actualizado_vzla": "2025-11-10 12:52:30 -04",
+  "timestamp_utc": "2025-11-10T17:17:27.810716",
+  "actualizado_vzla": "2025-11-10 13:17:27 -04",
   "compra_segundo": {
-    "price": 321.165,
-    "name": "CryptoKoku"
+    "price": 321.085,
+    "name": "Gasper25"
   },
   "venta_maxima": {
-    "price": 321.11,
-    "name": "cazing2230"
+    "price": 322.5,
+    "name": "hudsonriver"
   },
-  "promedio": 321.14,
+  "promedio": 321.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
