@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T23:25:38.252076",
-  "actualizado_vzla": "2025-11-11 19:25:38 -04",
+  "timestamp_utc": "2025-11-11T23:42:04.603101",
+  "actualizado_vzla": "2025-11-11 19:42:04 -04",
   "compra_segundo": {
     "price": 337.5,
-    "name": "ChangesCoinsTrade"
+    "name": "-Vallenatero-"
   },
   "venta_maxima": {
-    "price": 338.21,
+    "price": 337.01,
     "name": "CambiosEVolucion"
   },
-  "promedio": 337.86,
+  "promedio": 337.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
