@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T14:18:11.231400",
-  "actualizado_vzla": "2025-11-11 10:18:11 -04",
+  "timestamp_utc": "2025-11-11T14:41:10.074885",
+  "actualizado_vzla": "2025-11-11 10:41:10 -04",
   "compra_segundo": {
-    "price": 326.395,
-    "name": "Richgato_Cambios"
+    "price": 326.255,
+    "name": "eercripto"
   },
   "venta_maxima": {
-    "price": 327.0,
-    "name": "OTCLEGEND"
+    "price": 326.72,
+    "name": "cazing2230"
   },
-  "promedio": 326.7,
+  "promedio": 326.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
