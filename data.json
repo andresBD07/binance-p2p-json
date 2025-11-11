@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T05:51:02.237478",
-  "actualizado_vzla": "2025-11-11 01:51:02 -04",
+  "timestamp_utc": "2025-11-11T06:25:22.383320",
+  "actualizado_vzla": "2025-11-11 02:25:22 -04",
   "compra_segundo": {
-    "price": 331.1,
-    "name": "Check-eate"
+    "price": 331.25,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
     "price": 326.01,
     "name": "DxvidExchange"
   },
-  "promedio": 328.56,
+  "promedio": 328.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
