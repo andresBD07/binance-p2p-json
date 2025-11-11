@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T16:55:47.646602",
-  "actualizado_vzla": "2025-11-11 12:55:47 -04",
+  "timestamp_utc": "2025-11-11T17:25:02.233874",
+  "actualizado_vzla": "2025-11-11 13:25:02 -04",
   "compra_segundo": {
-    "price": 330.3,
-    "name": "K-0S"
+    "price": 330.99,
+    "name": "RECARGASYSERVICIOSYA"
   },
   "venta_maxima": {
-    "price": 329.261,
-    "name": "VECTURAFX"
+    "price": 329.5,
+    "name": "RubenNYC"
   },
-  "promedio": 329.78,
+  "promedio": 330.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
