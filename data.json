@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T06:25:22.383320",
-  "actualizado_vzla": "2025-11-11 02:25:22 -04",
+  "timestamp_utc": "2025-11-11T06:53:24.586726",
+  "actualizado_vzla": "2025-11-11 02:53:24 -04",
   "compra_segundo": {
-    "price": 331.25,
-    "name": "-----ELITE"
+    "price": 331.2,
+    "name": "VICKYMAN02"
   },
   "venta_maxima": {
-    "price": 326.01,
-    "name": "DxvidExchange"
+    "price": 325.6,
+    "name": "PlutoTrading"
   },
-  "promedio": 328.63,
+  "promedio": 328.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
