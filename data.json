@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T17:25:02.233874",
-  "actualizado_vzla": "2025-11-11 13:25:02 -04",
+  "timestamp_utc": "2025-11-11T17:44:01.387410",
+  "actualizado_vzla": "2025-11-11 13:44:01 -04",
   "compra_segundo": {
-    "price": 330.99,
-    "name": "RECARGASYSERVICIOSYA"
+    "price": 330.9,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 329.5,
-    "name": "RubenNYC"
+    "price": 330.9,
+    "name": "ALASKA-"
   },
-  "promedio": 330.25,
+  "promedio": 330.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
