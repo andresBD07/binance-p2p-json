@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T22:44:51.066378",
-  "actualizado_vzla": "2025-11-11 18:44:51 -04",
+  "timestamp_utc": "2025-11-11T22:57:53.959002",
+  "actualizado_vzla": "2025-11-11 18:57:53 -04",
   "compra_segundo": {
-    "price": 337.939,
-    "name": "Tonytrade27"
+    "price": 337.55,
+    "name": "denny34"
   },
   "venta_maxima": {
-    "price": 337.6,
-    "name": "VR46-"
+    "price": 338.01,
+    "name": "CambiosEVolucion"
   },
-  "promedio": 337.77,
+  "promedio": 337.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
