@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T09:39:08.451111",
-  "actualizado_vzla": "2025-11-11 05:39:08 -04",
+  "timestamp_utc": "2025-11-11T09:52:28.944713",
+  "actualizado_vzla": "2025-11-11 05:52:28 -04",
   "compra_segundo": {
-    "price": 330.89,
-    "name": "GJTG84"
+    "price": 330.0,
+    "name": "ricardobtc2279"
   },
   "venta_maxima": {
     "price": 325.6,
     "name": "PlutoTrading"
   },
-  "promedio": 328.25,
+  "promedio": 327.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
