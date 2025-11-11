@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T14:54:42.931139",
-  "actualizado_vzla": "2025-11-11 10:54:42 -04",
+  "timestamp_utc": "2025-11-11T15:27:28.422823",
+  "actualizado_vzla": "2025-11-11 11:27:28 -04",
   "compra_segundo": {
-    "price": 326.255,
-    "name": "eercripto"
+    "price": 326.69,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 326.87,
-    "name": "cazing2230"
+    "price": 329.0,
+    "name": "EDbusiness"
   },
-  "promedio": 326.56,
+  "promedio": 327.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
