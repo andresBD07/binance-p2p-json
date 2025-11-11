@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T20:14:48.424540",
-  "actualizado_vzla": "2025-11-11 16:14:48 -04",
+  "timestamp_utc": "2025-11-11T20:37:34.178456",
+  "actualizado_vzla": "2025-11-11 16:37:34 -04",
   "compra_segundo": {
-    "price": 334.0,
-    "name": "Cambiosbraycar"
+    "price": 334.59,
+    "name": "ASCENDERLTDA"
   },
   "venta_maxima": {
-    "price": 334.6,
-    "name": "TOPlevelS"
+    "price": 335.201,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 334.3,
+  "promedio": 334.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
