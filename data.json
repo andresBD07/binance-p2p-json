@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T22:57:53.959002",
-  "actualizado_vzla": "2025-11-11 18:57:53 -04",
+  "timestamp_utc": "2025-11-11T23:25:38.252076",
+  "actualizado_vzla": "2025-11-11 19:25:38 -04",
   "compra_segundo": {
-    "price": 337.55,
-    "name": "denny34"
+    "price": 337.5,
+    "name": "ChangesCoinsTrade"
   },
   "venta_maxima": {
-    "price": 338.01,
+    "price": 338.21,
     "name": "CambiosEVolucion"
   },
-  "promedio": 337.78,
+  "promedio": 337.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
