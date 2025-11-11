@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T17:44:01.387410",
-  "actualizado_vzla": "2025-11-11 13:44:01 -04",
+  "timestamp_utc": "2025-11-11T17:57:05.973508",
+  "actualizado_vzla": "2025-11-11 13:57:05 -04",
   "compra_segundo": {
-    "price": 330.9,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 330.98,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 330.9,
-    "name": "ALASKA-"
+    "price": 331.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 330.9,
+  "promedio": 331.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
