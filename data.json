@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T11:55:19.897520",
-  "actualizado_vzla": "2025-11-11 07:55:19 -04",
+  "timestamp_utc": "2025-11-11T12:54:46.521774",
+  "actualizado_vzla": "2025-11-11 08:54:46 -04",
   "compra_segundo": {
-    "price": 328.2,
-    "name": "CriptradeAEMS"
+    "price": 327.2,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 326.121,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 327.501,
+    "name": "VR46-"
   },
-  "promedio": 327.16,
+  "promedio": 327.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
