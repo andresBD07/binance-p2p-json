@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T12:54:46.521774",
-  "actualizado_vzla": "2025-11-11 08:54:46 -04",
+  "timestamp_utc": "2025-11-11T13:35:03.848769",
+  "actualizado_vzla": "2025-11-11 09:35:03 -04",
   "compra_segundo": {
-    "price": 327.2,
-    "name": "Criptoseed"
+    "price": 326.895,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 327.501,
-    "name": "VR46-"
+    "price": 327.5,
+    "name": "Vitatech"
   },
-  "promedio": 327.35,
+  "promedio": 327.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
