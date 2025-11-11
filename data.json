@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T13:35:03.848769",
-  "actualizado_vzla": "2025-11-11 09:35:03 -04",
+  "timestamp_utc": "2025-11-11T13:51:46.925333",
+  "actualizado_vzla": "2025-11-11 09:51:46 -04",
   "compra_segundo": {
-    "price": 326.895,
-    "name": "OikonomiaDigital"
+    "price": 326.64,
+    "name": "Crypto_Kalev"
   },
   "venta_maxima": {
-    "price": 327.5,
+    "price": 326.5,
     "name": "Vitatech"
   },
-  "promedio": 327.2,
+  "promedio": 326.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
