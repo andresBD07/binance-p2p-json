@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T07:52:07.904440",
-  "actualizado_vzla": "2025-11-11 03:52:07 -04",
+  "timestamp_utc": "2025-11-11T08:25:00.881951",
+  "actualizado_vzla": "2025-11-11 04:25:00 -04",
   "compra_segundo": {
     "price": 331.75,
     "name": "zucorp"
   },
   "venta_maxima": {
-    "price": 325.6,
-    "name": "PlutoTrading"
+    "price": 326.01,
+    "name": "DxvidExchange"
   },
-  "promedio": 328.68,
+  "promedio": 328.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
