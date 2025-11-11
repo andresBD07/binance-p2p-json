@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T21:13:59.879645",
-  "actualizado_vzla": "2025-11-11 17:13:59 -04",
+  "timestamp_utc": "2025-11-11T21:32:04.545654",
+  "actualizado_vzla": "2025-11-11 17:32:04 -04",
   "compra_segundo": {
-    "price": 335.7,
-    "name": "Jesus_viloriagil"
+    "price": 336.0,
+    "name": "Inversiones-Walaw"
   },
   "venta_maxima": {
-    "price": 336.2,
+    "price": 336.3,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 335.95,
+  "promedio": 336.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
