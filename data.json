@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T22:28:05.812478",
-  "actualizado_vzla": "2025-11-11 18:28:05 -04",
+  "timestamp_utc": "2025-11-11T22:44:51.066378",
+  "actualizado_vzla": "2025-11-11 18:44:51 -04",
   "compra_segundo": {
-    "price": 338.0,
-    "name": "Lunicrypto"
+    "price": 337.939,
+    "name": "Tonytrade27"
   },
   "venta_maxima": {
-    "price": 337.42,
-    "name": "Piolinn18"
+    "price": 337.6,
+    "name": "VR46-"
   },
-  "promedio": 337.71,
+  "promedio": 337.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
