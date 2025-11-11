@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T20:00:41.036898",
-  "actualizado_vzla": "2025-11-11 16:00:41 -04",
+  "timestamp_utc": "2025-11-11T20:14:48.424540",
+  "actualizado_vzla": "2025-11-11 16:14:48 -04",
   "compra_segundo": {
     "price": 334.0,
-    "name": "_InversionesJG_"
+    "name": "Cambiosbraycar"
   },
   "venta_maxima": {
-    "price": 334.2,
+    "price": 334.6,
     "name": "TOPlevelS"
   },
-  "promedio": 334.1,
+  "promedio": 334.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
