@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T18:55:48.161219",
-  "actualizado_vzla": "2025-11-11 14:55:48 -04",
+  "timestamp_utc": "2025-11-11T19:21:22.845901",
+  "actualizado_vzla": "2025-11-11 15:21:22 -04",
   "compra_segundo": {
-    "price": 333.0,
-    "name": "Servic2009"
+    "price": 334.0,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 333.5,
-    "name": "-PositiveMind-"
+    "price": 333.35,
+    "name": "app2112"
   },
-  "promedio": 333.25,
+  "promedio": 333.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
