@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T21:32:04.545654",
-  "actualizado_vzla": "2025-11-11 17:32:04 -04",
+  "timestamp_utc": "2025-11-11T21:45:01.903330",
+  "actualizado_vzla": "2025-11-11 17:45:01 -04",
   "compra_segundo": {
-    "price": 336.0,
-    "name": "Inversiones-Walaw"
+    "price": 336.999,
+    "name": "Kadaki_fast"
   },
   "venta_maxima": {
-    "price": 336.3,
+    "price": 338.0,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 336.15,
+  "promedio": 337.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
