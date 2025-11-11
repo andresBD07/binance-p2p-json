@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T09:16:42.195898",
-  "actualizado_vzla": "2025-11-11 05:16:42 -04",
+  "timestamp_utc": "2025-11-11T09:39:08.451111",
+  "actualizado_vzla": "2025-11-11 05:39:08 -04",
   "compra_segundo": {
-    "price": 330.99,
+    "price": 330.89,
     "name": "GJTG84"
   },
   "venta_maxima": {
-    "price": 326.01,
-    "name": "DxvidExchange"
+    "price": 325.6,
+    "name": "PlutoTrading"
   },
-  "promedio": 328.5,
+  "promedio": 328.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
