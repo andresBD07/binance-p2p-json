@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T09:52:28.944713",
-  "actualizado_vzla": "2025-11-11 05:52:28 -04",
+  "timestamp_utc": "2025-11-11T10:21:56.097395",
+  "actualizado_vzla": "2025-11-11 06:21:56 -04",
   "compra_segundo": {
-    "price": 330.0,
-    "name": "ricardobtc2279"
+    "price": 329.8,
+    "name": "labebe2222"
   },
   "venta_maxima": {
-    "price": 325.6,
-    "name": "PlutoTrading"
+    "price": 325.25,
+    "name": "RiddleTrader1998"
   },
-  "promedio": 327.8,
+  "promedio": 327.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
