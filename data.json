@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T07:21:06.628619",
-  "actualizado_vzla": "2025-11-11 03:21:06 -04",
+  "timestamp_utc": "2025-11-11T07:38:59.976423",
+  "actualizado_vzla": "2025-11-11 03:38:59 -04",
   "compra_segundo": {
-    "price": 331.75,
-    "name": "zucorp"
+    "price": 331.25,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
     "price": 326.01,
     "name": "DxvidExchange"
   },
-  "promedio": 328.88,
+  "promedio": 328.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
