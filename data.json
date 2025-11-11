@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T15:27:28.422823",
-  "actualizado_vzla": "2025-11-11 11:27:28 -04",
+  "timestamp_utc": "2025-11-11T15:45:27.975036",
+  "actualizado_vzla": "2025-11-11 11:45:27 -04",
   "compra_segundo": {
-    "price": 326.69,
-    "name": "TU CAMBIO"
+    "price": 327.1,
+    "name": "BUSINESS"
   },
   "venta_maxima": {
-    "price": 329.0,
-    "name": "EDbusiness"
+    "price": 329.2,
+    "name": "OTCLEGEND"
   },
-  "promedio": 327.85,
+  "promedio": 328.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
