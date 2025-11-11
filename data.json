@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T15:45:27.975036",
-  "actualizado_vzla": "2025-11-11 11:45:27 -04",
+  "timestamp_utc": "2025-11-11T15:58:33.718678",
+  "actualizado_vzla": "2025-11-11 11:58:33 -04",
   "compra_segundo": {
-    "price": 327.1,
-    "name": "BUSINESS"
+    "price": 327.9,
+    "name": "Music_LatinoVM"
   },
   "venta_maxima": {
-    "price": 329.2,
-    "name": "OTCLEGEND"
+    "price": 329.21,
+    "name": "cazing2230"
   },
-  "promedio": 328.15,
+  "promedio": 328.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
