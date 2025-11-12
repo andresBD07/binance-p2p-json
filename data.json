@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T18:45:29.648165",
-  "actualizado_vzla": "2025-11-12 14:45:29 -04",
+  "timestamp_utc": "2025-11-12T18:58:19.289861",
+  "actualizado_vzla": "2025-11-12 14:58:19 -04",
   "compra_segundo": {
-    "price": 344.65,
-    "name": "CAFE-con-PAN"
+    "price": 344.5,
+    "name": "Jesus_viloriagil"
   },
   "venta_maxima": {
-    "price": 345.8,
-    "name": "ALASKA-"
+    "price": 346.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 345.23,
+  "promedio": 345.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
