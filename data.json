@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T21:26:05.967822",
-  "actualizado_vzla": "2025-11-12 17:26:05 -04",
+  "timestamp_utc": "2025-11-12T21:41:44.782797",
+  "actualizado_vzla": "2025-11-12 17:41:44 -04",
   "compra_segundo": {
-    "price": 343.99,
-    "name": "Trader_LB"
+    "price": 343.55,
+    "name": "Tigre de wall street"
   },
   "venta_maxima": {
-    "price": 345.352,
-    "name": "Whale-SharkCrypto"
+    "price": 345.35,
+    "name": "FinanceSecure"
   },
-  "promedio": 344.67,
+  "promedio": 344.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
