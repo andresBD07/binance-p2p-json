@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T01:59:27.926549",
-  "actualizado_vzla": "2025-11-11 21:59:27 -04",
+  "timestamp_utc": "2025-11-12T03:18:04.982592",
+  "actualizado_vzla": "2025-11-11 23:18:04 -04",
   "compra_segundo": {
-    "price": 338.19,
-    "name": "CriptoWillQV"
+    "price": 338.1,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
     "price": 337.0,
     "name": "FinanceSecure"
   },
-  "promedio": 337.6,
+  "promedio": 337.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
