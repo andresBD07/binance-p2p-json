@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T17:36:20.679611",
-  "actualizado_vzla": "2025-11-12 13:36:20 -04",
+  "timestamp_utc": "2025-11-12T17:49:52.163635",
+  "actualizado_vzla": "2025-11-12 13:49:52 -04",
   "compra_segundo": {
-    "price": 346.1,
-    "name": "NORE19"
+    "price": 346.07,
+    "name": "quiander08"
   },
   "venta_maxima": {
-    "price": 345.5,
+    "price": 346.0,
     "name": "FinanceSecure"
   },
-  "promedio": 345.8,
+  "promedio": 346.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
