@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T22:41:06.414109",
-  "actualizado_vzla": "2025-11-12 18:41:06 -04",
+  "timestamp_utc": "2025-11-12T22:54:04.597873",
+  "actualizado_vzla": "2025-11-12 18:54:04 -04",
   "compra_segundo": {
-    "price": 343.5,
-    "name": "Crypto_Oslian"
+    "price": 344.9,
+    "name": "angela0303"
   },
   "venta_maxima": {
     "price": 345.5,
     "name": "FinanceSecure"
   },
-  "promedio": 344.5,
+  "promedio": 345.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
