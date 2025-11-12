@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T16:48:57.673531",
-  "actualizado_vzla": "2025-11-12 12:48:57 -04",
+  "timestamp_utc": "2025-11-12T17:12:25.487366",
+  "actualizado_vzla": "2025-11-12 13:12:25 -04",
   "compra_segundo": {
-    "price": 342.4,
-    "name": "AndradeGasconTITULAR"
+    "price": 344.45,
+    "name": "Jesús López 15 "
   },
   "venta_maxima": {
-    "price": 344.7,
-    "name": "JLxanges"
+    "price": 344.3,
+    "name": "Quick Payment"
   },
-  "promedio": 343.55,
+  "promedio": 344.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
