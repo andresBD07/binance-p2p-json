@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T14:56:07.165336",
-  "actualizado_vzla": "2025-11-12 10:56:07 -04",
+  "timestamp_utc": "2025-11-12T15:31:16.578870",
+  "actualizado_vzla": "2025-11-12 11:31:16 -04",
   "compra_segundo": {
-    "price": 338.499,
-    "name": "SISISY"
+    "price": 339.2,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 338.5,
+    "price": 339.5,
     "name": "hudsonriver"
   },
-  "promedio": 338.5,
+  "promedio": 339.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
