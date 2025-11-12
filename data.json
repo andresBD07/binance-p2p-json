@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T16:20:00.936080",
-  "actualizado_vzla": "2025-11-12 12:20:00 -04",
+  "timestamp_utc": "2025-11-12T16:48:57.673531",
+  "actualizado_vzla": "2025-11-12 12:48:57 -04",
   "compra_segundo": {
-    "price": 341.3,
-    "name": "fundatrade"
+    "price": 342.4,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 341.7,
-    "name": "Burdyn"
+    "price": 344.7,
+    "name": "JLxanges"
   },
-  "promedio": 341.5,
+  "promedio": 343.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
