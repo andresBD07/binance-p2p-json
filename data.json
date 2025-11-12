@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T08:37:37.261038",
-  "actualizado_vzla": "2025-11-12 04:37:37 -04",
+  "timestamp_utc": "2025-11-12T08:58:01.645996",
+  "actualizado_vzla": "2025-11-12 04:58:01 -04",
   "compra_segundo": {
-    "price": 339.8,
-    "name": "读Relojero_Exchang音"
+    "price": 339.0,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
     "price": 335.0,
     "name": "Kingtrade5555"
   },
-  "promedio": 337.4,
+  "promedio": 337.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
