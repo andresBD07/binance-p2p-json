@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T05:01:26.524859",
-  "actualizado_vzla": "2025-11-12 01:01:26 -04",
+  "timestamp_utc": "2025-11-12T05:31:57.802105",
+  "actualizado_vzla": "2025-11-12 01:31:57 -04",
   "compra_segundo": {
-    "price": 338.99,
-    "name": "愛Hisoka_"
+    "price": 339.0,
+    "name": "Yoinered"
   },
   "venta_maxima": {
-    "price": 337.0,
-    "name": "FinanceSecure"
+    "price": 335.6,
+    "name": "AkExpress"
   },
-  "promedio": 338.0,
+  "promedio": 337.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
