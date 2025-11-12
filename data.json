@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T19:24:20.224694",
-  "actualizado_vzla": "2025-11-12 15:24:20 -04",
+  "timestamp_utc": "2025-11-12T19:40:07.966096",
+  "actualizado_vzla": "2025-11-12 15:40:07 -04",
   "compra_segundo": {
-    "price": 344.78,
-    "name": "alelean"
+    "price": 345.005,
+    "name": "Dajming-Trading-P2P"
   },
   "venta_maxima": {
-    "price": 346.1,
-    "name": "Gustavo129"
+    "price": 345.8,
+    "name": "SmartSolutionn"
   },
-  "promedio": 345.44,
+  "promedio": 345.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
