@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T10:55:39.955408",
-  "actualizado_vzla": "2025-11-12 06:55:39 -04",
+  "timestamp_utc": "2025-11-12T11:23:39.952263",
+  "actualizado_vzla": "2025-11-12 07:23:39 -04",
   "compra_segundo": {
-    "price": 338.3,
-    "name": "FlashPayy"
+    "price": 337.999,
+    "name": "Gjsan"
   },
   "venta_maxima": {
-    "price": 335.7,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 336.5,
+    "name": "Gustavo129"
   },
-  "promedio": 337.0,
+  "promedio": 337.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
