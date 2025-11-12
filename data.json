@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T20:57:19.828329",
-  "actualizado_vzla": "2025-11-12 16:57:19 -04",
+  "timestamp_utc": "2025-11-12T21:26:05.967822",
+  "actualizado_vzla": "2025-11-12 17:26:05 -04",
   "compra_segundo": {
-    "price": 344.91,
-    "name": "Burdyn"
+    "price": 343.99,
+    "name": "Trader_LB"
   },
   "venta_maxima": {
-    "price": 345.5,
-    "name": "Gustavo129"
+    "price": 345.352,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 345.21,
+  "promedio": 344.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
