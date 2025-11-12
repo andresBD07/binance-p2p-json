@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T23:22:14.343040",
-  "actualizado_vzla": "2025-11-12 19:22:14 -04",
+  "timestamp_utc": "2025-11-12T23:38:45.452836",
+  "actualizado_vzla": "2025-11-12 19:38:45 -04",
   "compra_segundo": {
-    "price": 346.0,
-    "name": "Ricardo"
+    "price": 345.95,
+    "name": "IMPORTACIONEMUNVE"
   },
   "venta_maxima": {
     "price": 344.7,
     "name": "JLxanges"
   },
-  "promedio": 345.35,
+  "promedio": 345.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
