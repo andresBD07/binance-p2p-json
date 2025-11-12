@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T17:12:25.487366",
-  "actualizado_vzla": "2025-11-12 13:12:25 -04",
+  "timestamp_utc": "2025-11-12T17:36:20.679611",
+  "actualizado_vzla": "2025-11-12 13:36:20 -04",
   "compra_segundo": {
-    "price": 344.45,
-    "name": "Jesús López 15 "
+    "price": 346.1,
+    "name": "NORE19"
   },
   "venta_maxima": {
-    "price": 344.3,
-    "name": "Quick Payment"
+    "price": 345.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 344.38,
+  "promedio": 345.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
