@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T18:58:19.289861",
-  "actualizado_vzla": "2025-11-12 14:58:19 -04",
+  "timestamp_utc": "2025-11-12T19:24:20.224694",
+  "actualizado_vzla": "2025-11-12 15:24:20 -04",
   "compra_segundo": {
-    "price": 344.5,
-    "name": "Jesus_viloriagil"
+    "price": 344.78,
+    "name": "alelean"
   },
   "venta_maxima": {
-    "price": 346.0,
-    "name": "FinanceSecure"
+    "price": 346.1,
+    "name": "Gustavo129"
   },
-  "promedio": 345.25,
+  "promedio": 345.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
