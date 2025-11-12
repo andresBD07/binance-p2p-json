@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T21:54:49.659105",
-  "actualizado_vzla": "2025-11-12 17:54:49 -04",
+  "timestamp_utc": "2025-11-12T22:24:08.046219",
+  "actualizado_vzla": "2025-11-12 18:24:08 -04",
   "compra_segundo": {
-    "price": 343.296,
-    "name": "Lextomato"
+    "price": 343.0,
+    "name": "RecargasYJuegosVnzla"
   },
   "venta_maxima": {
-    "price": 349.1,
-    "name": "Reimaryp"
+    "price": 346.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 346.2,
+  "promedio": 344.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
