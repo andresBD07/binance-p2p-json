@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-11T23:54:57.676712",
-  "actualizado_vzla": "2025-11-11 19:54:57 -04",
+  "timestamp_utc": "2025-11-12T01:59:27.926549",
+  "actualizado_vzla": "2025-11-11 21:59:27 -04",
   "compra_segundo": {
-    "price": 337.4,
-    "name": "Jearrioja"
+    "price": 338.19,
+    "name": "CriptoWillQV"
   },
   "venta_maxima": {
     "price": 337.0,
     "name": "FinanceSecure"
   },
-  "promedio": 337.2,
+  "promedio": 337.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
