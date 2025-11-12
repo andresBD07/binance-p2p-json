@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T19:40:07.966096",
-  "actualizado_vzla": "2025-11-12 15:40:07 -04",
+  "timestamp_utc": "2025-11-12T19:53:31.450683",
+  "actualizado_vzla": "2025-11-12 15:53:31 -04",
   "compra_segundo": {
-    "price": 345.005,
-    "name": "Dajming-Trading-P2P"
+    "price": 345.399,
+    "name": "CambiosSilva"
   },
   "venta_maxima": {
-    "price": 345.8,
-    "name": "SmartSolutionn"
+    "price": 346.0,
+    "name": "JLxanges"
   },
-  "promedio": 345.4,
+  "promedio": 345.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
