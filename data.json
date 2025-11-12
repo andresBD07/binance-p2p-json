@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T04:47:46.037094",
-  "actualizado_vzla": "2025-11-12 00:47:46 -04",
+  "timestamp_utc": "2025-11-12T05:01:26.524859",
+  "actualizado_vzla": "2025-11-12 01:01:26 -04",
   "compra_segundo": {
-    "price": 338.594,
-    "name": "CAMBIOS VINOTINTO"
+    "price": 338.99,
+    "name": "愛Hisoka_"
   },
   "venta_maxima": {
     "price": 337.0,
     "name": "FinanceSecure"
   },
-  "promedio": 337.8,
+  "promedio": 338.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
