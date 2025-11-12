@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-12T15:31:16.578870",
-  "actualizado_vzla": "2025-11-12 11:31:16 -04",
+  "timestamp_utc": "2025-11-12T15:50:50.292208",
+  "actualizado_vzla": "2025-11-12 11:50:50 -04",
   "compra_segundo": {
-    "price": 339.2,
-    "name": "racaste"
+    "price": 340.4,
+    "name": "Will_Cripto"
   },
   "venta_maxima": {
-    "price": 339.5,
+    "price": 340.0,
     "name": "hudsonriver"
   },
-  "promedio": 339.35,
+  "promedio": 340.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
