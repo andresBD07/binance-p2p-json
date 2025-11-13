@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T11:54:41.357482",
-  "actualizado_vzla": "2025-11-13 07:54:41 -04",
+  "timestamp_utc": "2025-11-13T12:53:55.281615",
+  "actualizado_vzla": "2025-11-13 08:53:55 -04",
   "compra_segundo": {
-    "price": 344.998,
-    "name": "quiander08"
+    "price": 342.9,
+    "name": "Mulancash"
   },
   "venta_maxima": {
-    "price": 343.5,
+    "price": 342.5,
     "name": "OTCLEGEND"
   },
-  "promedio": 344.25,
+  "promedio": 342.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
