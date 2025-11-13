@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T10:42:22.814446",
-  "actualizado_vzla": "2025-11-13 06:42:22 -04",
+  "timestamp_utc": "2025-11-13T10:56:17.562005",
+  "actualizado_vzla": "2025-11-13 06:56:17 -04",
   "compra_segundo": {
-    "price": 345.4,
-    "name": "El Parrax"
+    "price": 345.3,
+    "name": "CarlosBelloTrader"
   },
   "venta_maxima": {
-    "price": 342.3,
+    "price": 341.9,
     "name": "CORPORACION_YYSE-25"
   },
-  "promedio": 343.85,
+  "promedio": 343.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
