@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T10:56:17.562005",
-  "actualizado_vzla": "2025-11-13 06:56:17 -04",
+  "timestamp_utc": "2025-11-13T11:24:54.649142",
+  "actualizado_vzla": "2025-11-13 07:24:54 -04",
   "compra_segundo": {
-    "price": 345.3,
-    "name": "CarlosBelloTrader"
+    "price": 345.399,
+    "name": "Caramelo_11"
   },
   "venta_maxima": {
-    "price": 341.9,
-    "name": "CORPORACION_YYSE-25"
+    "price": 342.401,
+    "name": "_CAMBI0S_SEGUR0S_"
   },
-  "promedio": 343.6,
+  "promedio": 343.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
