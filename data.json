@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T14:40:28.381720",
-  "actualizado_vzla": "2025-11-13 10:40:28 -04",
+  "timestamp_utc": "2025-11-13T15:25:34.727992",
+  "actualizado_vzla": "2025-11-13 11:25:34 -04",
   "compra_segundo": {
-    "price": 334.78,
-    "name": "Tucambiove"
+    "price": 337.999,
+    "name": "CriptoTACHIRA"
   },
   "venta_maxima": {
-    "price": 338.0,
+    "price": 340.0,
     "name": "FinanceSecure"
   },
-  "promedio": 336.39,
+  "promedio": 339.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
