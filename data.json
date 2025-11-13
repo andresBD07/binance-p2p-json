@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T21:46:32.998105",
-  "actualizado_vzla": "2025-11-13 17:46:33 -04",
+  "timestamp_utc": "2025-11-13T21:59:14.880817",
+  "actualizado_vzla": "2025-11-13 17:59:14 -04",
   "compra_segundo": {
-    "price": 336.99,
-    "name": "Subdi-Ta"
+    "price": 336.5,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 337.5,
-    "name": "JLxanges"
+    "price": 337.005,
+    "name": "Gustavo129"
   },
-  "promedio": 337.25,
+  "promedio": 336.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
