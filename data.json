@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T15:43:56.892833",
-  "actualizado_vzla": "2025-11-13 11:43:56 -04",
+  "timestamp_utc": "2025-11-13T15:56:47.087434",
+  "actualizado_vzla": "2025-11-13 11:56:47 -04",
   "compra_segundo": {
-    "price": 339.73,
-    "name": "CoinGonzo"
+    "price": 339.9,
+    "name": "MENEZGI"
   },
   "venta_maxima": {
-    "price": 340.0,
-    "name": "FinanceSecure"
+    "price": 440.0,
+    "name": "cazing2230"
   },
-  "promedio": 339.87,
+  "promedio": 389.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
