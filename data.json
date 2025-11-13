@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T08:37:19.187212",
-  "actualizado_vzla": "2025-11-13 04:37:19 -04",
+  "timestamp_utc": "2025-11-13T08:56:49.068637",
+  "actualizado_vzla": "2025-11-13 04:56:49 -04",
   "compra_segundo": {
-    "price": 346.5,
-    "name": "El Parrax"
+    "price": 346.6,
+    "name": "A1000C"
   },
   "venta_maxima": {
     "price": 341.6,
     "name": "CorporacionGlobalVe"
   },
-  "promedio": 344.05,
+  "promedio": 344.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
