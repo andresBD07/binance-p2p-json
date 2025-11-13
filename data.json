@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T17:45:11.776334",
-  "actualizado_vzla": "2025-11-13 13:45:11 -04",
+  "timestamp_utc": "2025-11-13T17:58:21.447472",
+  "actualizado_vzla": "2025-11-13 13:58:21 -04",
   "compra_segundo": {
-    "price": 338.85,
-    "name": "Fast_-Change"
+    "price": 338.8,
+    "name": "CUATROSIETE"
   },
   "venta_maxima": {
-    "price": 342.0,
+    "price": 341.0,
     "name": "FinanceSecure"
   },
-  "promedio": 340.43,
+  "promedio": 339.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
