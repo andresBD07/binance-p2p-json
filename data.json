@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T06:15:28.907919",
-  "actualizado_vzla": "2025-11-13 02:15:28 -04",
+  "timestamp_utc": "2025-11-13T06:48:13.018189",
+  "actualizado_vzla": "2025-11-13 02:48:13 -04",
   "compra_segundo": {
-    "price": 346.599,
-    "name": "FastChangeSafeChange"
+    "price": 346.4,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
     "price": 342.501,
     "name": "SantiagoR19"
   },
-  "promedio": 344.55,
+  "promedio": 344.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
