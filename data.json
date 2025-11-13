@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T20:39:13.857110",
-  "actualizado_vzla": "2025-11-13 16:39:13 -04",
+  "timestamp_utc": "2025-11-13T20:53:08.654171",
+  "actualizado_vzla": "2025-11-13 16:53:08 -04",
   "compra_segundo": {
-    "price": 336.948,
-    "name": "VzlaCoin"
+    "price": 336.999,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 337.0,
-    "name": "CriptoEche"
+    "price": 337.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 336.97,
+  "promedio": 337.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
