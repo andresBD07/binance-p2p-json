@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T05:31:44.946602",
-  "actualizado_vzla": "2025-11-13 01:31:44 -04",
+  "timestamp_utc": "2025-11-13T05:48:02.219468",
+  "actualizado_vzla": "2025-11-13 01:48:02 -04",
   "compra_segundo": {
-    "price": 345.997,
-    "name": "leto77"
+    "price": 346.4,
+    "name": "FC-Ultimate"
   },
   "venta_maxima": {
     "price": 342.501,
     "name": "SantiagoR19"
   },
-  "promedio": 344.25,
+  "promedio": 344.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
