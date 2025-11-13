@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T11:41:11.289030",
-  "actualizado_vzla": "2025-11-13 07:41:11 -04",
+  "timestamp_utc": "2025-11-13T11:54:41.357482",
+  "actualizado_vzla": "2025-11-13 07:54:41 -04",
   "compra_segundo": {
-    "price": 345.0,
-    "name": "lamejoropcion"
+    "price": 344.998,
+    "name": "quiander08"
   },
   "venta_maxima": {
-    "price": 342.5,
-    "name": "Burdyn"
+    "price": 343.5,
+    "name": "OTCLEGEND"
   },
-  "promedio": 343.75,
+  "promedio": 344.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
