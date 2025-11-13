@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T21:59:14.880817",
-  "actualizado_vzla": "2025-11-13 17:59:14 -04",
+  "timestamp_utc": "2025-11-13T22:29:32.056092",
+  "actualizado_vzla": "2025-11-13 18:29:32 -04",
   "compra_segundo": {
-    "price": 336.5,
-    "name": "cambiosaular"
+    "price": 334.289,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 337.005,
-    "name": "Gustavo129"
+    "price": 336.1,
+    "name": "hectoraltrader"
   },
-  "promedio": 336.75,
+  "promedio": 335.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
