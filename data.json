@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T13:34:57.398426",
-  "actualizado_vzla": "2025-11-13 09:34:57 -04",
+  "timestamp_utc": "2025-11-13T13:53:31.319992",
+  "actualizado_vzla": "2025-11-13 09:53:31 -04",
   "compra_segundo": {
-    "price": 339.0,
-    "name": "ElCandidoP2P"
+    "price": 337.8,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 340.301,
-    "name": "DULCANEL1"
+    "price": 338.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 339.65,
+  "promedio": 338.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
