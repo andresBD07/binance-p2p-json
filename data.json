@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T12:53:55.281615",
-  "actualizado_vzla": "2025-11-13 08:53:55 -04",
+  "timestamp_utc": "2025-11-13T13:34:57.398426",
+  "actualizado_vzla": "2025-11-13 09:34:57 -04",
   "compra_segundo": {
-    "price": 342.9,
-    "name": "Mulancash"
+    "price": 339.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 342.5,
-    "name": "OTCLEGEND"
+    "price": 340.301,
+    "name": "DULCANEL1"
   },
-  "promedio": 342.7,
+  "promedio": 339.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
