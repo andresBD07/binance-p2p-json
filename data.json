@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T15:25:34.727992",
-  "actualizado_vzla": "2025-11-13 11:25:34 -04",
+  "timestamp_utc": "2025-11-13T15:43:56.892833",
+  "actualizado_vzla": "2025-11-13 11:43:56 -04",
   "compra_segundo": {
-    "price": 337.999,
-    "name": "CriptoTACHIRA"
+    "price": 339.73,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
     "price": 340.0,
     "name": "FinanceSecure"
   },
-  "promedio": 339.0,
+  "promedio": 339.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
