@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T20:16:58.641607",
-  "actualizado_vzla": "2025-11-13 16:16:58 -04",
+  "timestamp_utc": "2025-11-13T20:39:13.857110",
+  "actualizado_vzla": "2025-11-13 16:39:13 -04",
   "compra_segundo": {
-    "price": 337.175,
-    "name": "CryptoKoku"
+    "price": 336.948,
+    "name": "VzlaCoin"
   },
   "venta_maxima": {
-    "price": 338.75,
-    "name": "AryJr"
+    "price": 337.0,
+    "name": "CriptoEche"
   },
-  "promedio": 337.96,
+  "promedio": 336.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
