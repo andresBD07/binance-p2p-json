@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T09:48:00.043555",
-  "actualizado_vzla": "2025-11-13 05:48:00 -04",
+  "timestamp_utc": "2025-11-13T10:11:21.351718",
+  "actualizado_vzla": "2025-11-13 06:11:21 -04",
   "compra_segundo": {
-    "price": 345.98,
-    "name": "rParadas"
+    "price": 345.99,
+    "name": "GJTG84"
   },
   "venta_maxima": {
-    "price": 341.6,
-    "name": "CorporacionGlobalVe"
+    "price": 342.5,
+    "name": "IMPORTACIONEMUNVE"
   },
-  "promedio": 343.79,
+  "promedio": 344.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
