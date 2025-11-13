@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T10:11:21.351718",
-  "actualizado_vzla": "2025-11-13 06:11:21 -04",
+  "timestamp_utc": "2025-11-13T10:42:22.814446",
+  "actualizado_vzla": "2025-11-13 06:42:22 -04",
   "compra_segundo": {
-    "price": 345.99,
-    "name": "GJTG84"
+    "price": 345.4,
+    "name": "El Parrax"
   },
   "venta_maxima": {
-    "price": 342.5,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 342.3,
+    "name": "CORPORACION_YYSE-25"
   },
-  "promedio": 344.25,
+  "promedio": 343.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
