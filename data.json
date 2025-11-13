@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T05:48:02.219468",
-  "actualizado_vzla": "2025-11-13 01:48:02 -04",
+  "timestamp_utc": "2025-11-13T06:15:28.907919",
+  "actualizado_vzla": "2025-11-13 02:15:28 -04",
   "compra_segundo": {
-    "price": 346.4,
-    "name": "FC-Ultimate"
+    "price": 346.599,
+    "name": "FastChangeSafeChange"
   },
   "venta_maxima": {
     "price": 342.501,
     "name": "SantiagoR19"
   },
-  "promedio": 344.45,
+  "promedio": 344.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
