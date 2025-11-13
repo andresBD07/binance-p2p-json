@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-13T23:26:05.121327",
-  "actualizado_vzla": "2025-11-13 19:26:05 -04",
+  "timestamp_utc": "2025-11-13T23:42:26.614229",
+  "actualizado_vzla": "2025-11-13 19:42:26 -04",
   "compra_segundo": {
-    "price": 332.99,
-    "name": "SeguroVeloz"
+    "price": 333.0,
+    "name": "ProVerum"
   },
   "venta_maxima": {
     "price": 334.0,
