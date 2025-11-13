@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T21:19:29.982141",
-  "actualizado_vzla": "2025-11-13 17:19:29 -04",
+  "timestamp_utc": "2025-11-13T21:33:33.936159",
+  "actualizado_vzla": "2025-11-13 17:33:33 -04",
   "compra_segundo": {
-    "price": 337.18,
-    "name": "Traderp2pVzla"
+    "price": 337.0,
+    "name": "Cambiosbraycar"
   },
   "venta_maxima": {
-    "price": 337.5,
+    "price": 337.501,
     "name": "被放逐的狐狸"
   },
-  "promedio": 337.34,
+  "promedio": 337.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
