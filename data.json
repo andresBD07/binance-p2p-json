@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T15:56:47.087434",
-  "actualizado_vzla": "2025-11-13 11:56:47 -04",
+  "timestamp_utc": "2025-11-13T16:34:19.706706",
+  "actualizado_vzla": "2025-11-13 12:34:19 -04",
   "compra_segundo": {
-    "price": 339.9,
-    "name": "MENEZGI"
+    "price": 341.39,
+    "name": "JesusDMS2002"
   },
   "venta_maxima": {
-    "price": 440.0,
-    "name": "cazing2230"
+    "price": 342.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 389.95,
+  "promedio": 341.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
