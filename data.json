@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T04:47:32.862866",
-  "actualizado_vzla": "2025-11-13 00:47:32 -04",
+  "timestamp_utc": "2025-11-13T05:00:40.530660",
+  "actualizado_vzla": "2025-11-13 01:00:40 -04",
   "compra_segundo": {
-    "price": 346.0,
-    "name": "Ricardo"
+    "price": 346.05,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 342.501,
     "name": "SantiagoR19"
   },
-  "promedio": 344.25,
+  "promedio": 344.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
