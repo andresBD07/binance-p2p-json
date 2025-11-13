@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T04:26:22.185988",
-  "actualizado_vzla": "2025-11-13 00:26:22 -04",
+  "timestamp_utc": "2025-11-13T04:47:32.862866",
+  "actualizado_vzla": "2025-11-13 00:47:32 -04",
   "compra_segundo": {
-    "price": 345.699,
-    "name": "FastChangeSafeChange"
+    "price": 346.0,
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 343.0,
-    "name": "Cripto-Ale"
+    "price": 342.501,
+    "name": "SantiagoR19"
   },
-  "promedio": 344.35,
+  "promedio": 344.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
