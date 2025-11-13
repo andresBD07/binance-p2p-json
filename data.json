@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T09:30:57.223614",
-  "actualizado_vzla": "2025-11-13 05:30:57 -04",
+  "timestamp_utc": "2025-11-13T09:48:00.043555",
+  "actualizado_vzla": "2025-11-13 05:48:00 -04",
   "compra_segundo": {
-    "price": 346.0,
-    "name": "Cambios77"
+    "price": 345.98,
+    "name": "rParadas"
   },
   "venta_maxima": {
     "price": 341.6,
     "name": "CorporacionGlobalVe"
   },
-  "promedio": 343.8,
+  "promedio": 343.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
