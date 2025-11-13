@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-13T18:39:29.708615",
-  "actualizado_vzla": "2025-11-13 14:39:29 -04",
+  "timestamp_utc": "2025-11-13T18:56:49.213248",
+  "actualizado_vzla": "2025-11-13 14:56:49 -04",
   "compra_segundo": {
-    "price": 338.9,
-    "name": "btcmamba24"
+    "price": 338.49,
+    "name": "CambiosLaGoma"
   },
   "venta_maxima": {
     "price": 340.0,
     "name": "FinanceSecure"
   },
-  "promedio": 339.45,
+  "promedio": 339.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
