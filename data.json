@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-13T21:33:33.936159",
-  "actualizado_vzla": "2025-11-13 17:33:33 -04",
+  "timestamp_utc": "2025-11-13T21:46:32.998105",
+  "actualizado_vzla": "2025-11-13 17:46:33 -04",
   "compra_segundo": {
-    "price": 337.0,
-    "name": "Cambiosbraycar"
+    "price": 336.99,
+    "name": "Subdi-Ta"
   },
   "venta_maxima": {
-    "price": 337.501,
-    "name": "被放逐的狐狸"
+    "price": 337.5,
+    "name": "JLxanges"
   },
   "promedio": 337.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
