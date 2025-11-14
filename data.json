@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T21:45:08.988583",
-  "actualizado_vzla": "2025-11-14 17:45:08 -04",
+  "timestamp_utc": "2025-11-14T21:57:53.335135",
+  "actualizado_vzla": "2025-11-14 17:57:53 -04",
   "compra_segundo": {
-    "price": 330.8,
-    "name": "EL ELEFANTE DE ORO"
+    "price": 330.48,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
     "price": 331.5,
     "name": "EDbusiness"
   },
-  "promedio": 331.15,
+  "promedio": 330.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
