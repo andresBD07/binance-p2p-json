@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T07:12:19.370459",
-  "actualizado_vzla": "2025-11-14 03:12:19 -04",
+  "timestamp_utc": "2025-11-14T07:32:29.833929",
+  "actualizado_vzla": "2025-11-14 03:32:29 -04",
   "compra_segundo": {
-    "price": 336.64,
-    "name": "AskenLurom"
+    "price": 336.9,
+    "name": "El Parrax"
   },
   "venta_maxima": {
-    "price": 331.001,
-    "name": "CesarRodriguez53"
+    "price": 330.001,
+    "name": "CorporacionGlobalVe"
   },
-  "promedio": 333.82,
+  "promedio": 333.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
