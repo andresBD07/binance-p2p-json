@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T15:49:09.331304",
-  "actualizado_vzla": "2025-11-14 11:49:09 -04",
+  "timestamp_utc": "2025-11-14T16:14:47.643319",
+  "actualizado_vzla": "2025-11-14 12:14:47 -04",
   "compra_segundo": {
-    "price": 330.68,
-    "name": "Black-182"
+    "price": 330.5,
+    "name": "Qwer77"
   },
   "venta_maxima": {
-    "price": 331.001,
-    "name": "hectoraltrader"
+    "price": 332.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 330.84,
+  "promedio": 331.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
