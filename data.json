@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T17:27:01.276933",
-  "actualizado_vzla": "2025-11-14 13:27:01 -04",
+  "timestamp_utc": "2025-11-14T17:44:37.100861",
+  "actualizado_vzla": "2025-11-14 13:44:37 -04",
   "compra_segundo": {
-    "price": 330.0,
-    "name": "AnaiaBoutique"
+    "price": 330.3,
+    "name": "Libertad_de_cambio"
   },
   "venta_maxima": {
-    "price": 330.01,
-    "name": "Gonek2k"
+    "price": 331.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 330.0,
+  "promedio": 330.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
