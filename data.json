@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T22:27:56.344372",
-  "actualizado_vzla": "2025-11-14 18:27:56 -04",
+  "timestamp_utc": "2025-11-14T22:44:24.473087",
+  "actualizado_vzla": "2025-11-14 18:44:24 -04",
   "compra_segundo": {
-    "price": 330.8,
-    "name": "Magnetic10"
+    "price": 329.9,
+    "name": "Chespi_cripto8"
   },
   "venta_maxima": {
-    "price": 331.5,
-    "name": "EDbusiness"
+    "price": 330.5,
+    "name": "JLxanges"
   },
-  "promedio": 331.15,
+  "promedio": 330.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
