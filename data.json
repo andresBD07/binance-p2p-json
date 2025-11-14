@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T16:58:56.782264",
-  "actualizado_vzla": "2025-11-14 12:58:56 -04",
+  "timestamp_utc": "2025-11-14T17:27:01.276933",
+  "actualizado_vzla": "2025-11-14 13:27:01 -04",
   "compra_segundo": {
-    "price": 329.8,
-    "name": "lamejoropcion"
+    "price": 330.0,
+    "name": "AnaiaBoutique"
   },
   "venta_maxima": {
-    "price": 331.0,
-    "name": "DULCANEL1"
+    "price": 330.01,
+    "name": "Gonek2k"
   },
-  "promedio": 330.4,
+  "promedio": 330.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
