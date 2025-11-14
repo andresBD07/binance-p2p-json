@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T22:57:07.071427",
-  "actualizado_vzla": "2025-11-14 18:57:07 -04",
+  "timestamp_utc": "2025-11-14T23:25:33.645728",
+  "actualizado_vzla": "2025-11-14 19:25:33 -04",
   "compra_segundo": {
     "price": 329.0,
-    "name": "Criptoseed"
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 330.5,
+    "price": 328.0,
     "name": "JLxanges"
   },
-  "promedio": 329.75,
+  "promedio": 328.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
