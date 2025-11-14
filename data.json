@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T10:32:25.298132",
-  "actualizado_vzla": "2025-11-14 06:32:25 -04",
+  "timestamp_utc": "2025-11-14T10:49:32.659456",
+  "actualizado_vzla": "2025-11-14 06:49:32 -04",
   "compra_segundo": {
-    "price": 335.799,
-    "name": "AlainT"
+    "price": 335.0,
+    "name": "ELpapaCripto"
   },
   "venta_maxima": {
     "price": 330.65,
     "name": "FMDeluXchange"
   },
-  "promedio": 333.22,
+  "promedio": 332.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
