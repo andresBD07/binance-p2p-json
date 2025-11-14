@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T11:56:29.868182",
-  "actualizado_vzla": "2025-11-14 07:56:29 -04",
+  "timestamp_utc": "2025-11-14T12:55:53.275087",
+  "actualizado_vzla": "2025-11-14 08:55:53 -04",
   "compra_segundo": {
-    "price": 333.35,
-    "name": "TRANSFERE-EL-AGUILA"
+    "price": 332.0,
+    "name": "BlockArbi-X"
   },
   "venta_maxima": {
-    "price": 332.0,
+    "price": 333.0,
     "name": "EDbusiness"
   },
-  "promedio": 332.68,
+  "promedio": 332.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
