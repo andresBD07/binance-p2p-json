@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T02:06:00.709184",
-  "actualizado_vzla": "2025-11-13 22:06:00 -04",
+  "timestamp_utc": "2025-11-14T03:20:13.071620",
+  "actualizado_vzla": "2025-11-13 23:20:13 -04",
   "compra_segundo": {
-    "price": 334.85,
-    "name": "IEvangelineI"
+    "price": 334.69,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 334.0,
-    "name": "CriptoEche"
+    "price": 332.109,
+    "name": "SPYG"
   },
-  "promedio": 334.43,
+  "promedio": 333.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
