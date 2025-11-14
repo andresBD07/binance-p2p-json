@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T11:29:45.614958",
-  "actualizado_vzla": "2025-11-14 07:29:45 -04",
+  "timestamp_utc": "2025-11-14T11:43:26.372283",
+  "actualizado_vzla": "2025-11-14 07:43:26 -04",
   "compra_segundo": {
-    "price": 334.0,
-    "name": "CarlosBelloTrader"
+    "price": 333.55,
+    "name": "fnog"
   },
   "venta_maxima": {
-    "price": 331.0,
-    "name": "Miranda "
+    "price": 331.1,
+    "name": "hectoraltrader"
   },
-  "promedio": 332.5,
+  "promedio": 332.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
