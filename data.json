@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T09:45:29.397598",
-  "actualizado_vzla": "2025-11-14 05:45:29 -04",
+  "timestamp_utc": "2025-11-14T09:58:22.303738",
+  "actualizado_vzla": "2025-11-14 05:58:22 -04",
   "compra_segundo": {
-    "price": 335.69,
-    "name": "PagoInstantaneo"
+    "price": 335.8,
+    "name": "NUM3R1T0"
   },
   "venta_maxima": {
     "price": 330.502,
     "name": "AMAZONAS"
   },
-  "promedio": 333.1,
+  "promedio": 333.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
