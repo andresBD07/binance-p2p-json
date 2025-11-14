@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T12:55:53.275087",
-  "actualizado_vzla": "2025-11-14 08:55:53 -04",
+  "timestamp_utc": "2025-11-14T13:35:46.544897",
+  "actualizado_vzla": "2025-11-14 09:35:46 -04",
   "compra_segundo": {
-    "price": 332.0,
-    "name": "BlockArbi-X"
+    "price": 329.85,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
-    "price": 333.0,
-    "name": "EDbusiness"
+    "price": 331.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 332.5,
+  "promedio": 330.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
