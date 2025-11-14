@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T15:16:29.254508",
-  "actualizado_vzla": "2025-11-14 11:16:29 -04",
+  "timestamp_utc": "2025-11-14T15:36:03.099177",
+  "actualizado_vzla": "2025-11-14 11:36:03 -04",
   "compra_segundo": {
-    "price": 330.47,
-    "name": "TradingWolfe"
+    "price": 330.829,
+    "name": "Crypto_InvestVEN"
   },
   "venta_maxima": {
-    "price": 331.5,
-    "name": "EDbusiness"
+    "price": 335.0,
+    "name": "CriptoEche"
   },
-  "promedio": 330.99,
+  "promedio": 332.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
