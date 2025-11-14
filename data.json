@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T19:49:40.963397",
-  "actualizado_vzla": "2025-11-14 15:49:40 -04",
+  "timestamp_utc": "2025-11-14T20:15:01.815476",
+  "actualizado_vzla": "2025-11-14 16:15:01 -04",
   "compra_segundo": {
-    "price": 330.4,
-    "name": "RAULITO2809"
+    "price": 331.099,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
     "price": 331.0,
     "name": "EDbusiness"
   },
-  "promedio": 330.7,
+  "promedio": 331.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
