@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T11:43:26.372283",
-  "actualizado_vzla": "2025-11-14 07:43:26 -04",
+  "timestamp_utc": "2025-11-14T11:56:29.868182",
+  "actualizado_vzla": "2025-11-14 07:56:29 -04",
   "compra_segundo": {
-    "price": 333.55,
-    "name": "fnog"
+    "price": 333.35,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
-    "price": 331.1,
-    "name": "hectoraltrader"
+    "price": 332.0,
+    "name": "EDbusiness"
   },
-  "promedio": 332.33,
+  "promedio": 332.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
