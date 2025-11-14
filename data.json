@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T15:36:03.099177",
-  "actualizado_vzla": "2025-11-14 11:36:03 -04",
+  "timestamp_utc": "2025-11-14T15:49:09.331304",
+  "actualizado_vzla": "2025-11-14 11:49:09 -04",
   "compra_segundo": {
-    "price": 330.829,
-    "name": "Crypto_InvestVEN"
+    "price": 330.68,
+    "name": "Black-182"
   },
   "venta_maxima": {
-    "price": 335.0,
-    "name": "CriptoEche"
+    "price": 331.001,
+    "name": "hectoraltrader"
   },
-  "promedio": 332.91,
+  "promedio": 330.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
