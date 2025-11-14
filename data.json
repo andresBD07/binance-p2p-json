@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T03:55:38.704167",
-  "actualizado_vzla": "2025-11-13 23:55:38 -04",
+  "timestamp_utc": "2025-11-14T04:31:12.668926",
+  "actualizado_vzla": "2025-11-14 00:31:12 -04",
   "compra_segundo": {
-    "price": 334.8,
-    "name": "JP-Services"
+    "price": 335.4,
+    "name": "zucorp"
   },
   "venta_maxima": {
-    "price": 331.78,
+    "price": 332.0,
     "name": "AvExchange"
   },
-  "promedio": 333.29,
+  "promedio": 333.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
