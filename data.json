@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T17:44:37.100861",
-  "actualizado_vzla": "2025-11-14 13:44:37 -04",
+  "timestamp_utc": "2025-11-14T17:57:35.145444",
+  "actualizado_vzla": "2025-11-14 13:57:35 -04",
   "compra_segundo": {
-    "price": 330.3,
-    "name": "Libertad_de_cambio"
+    "price": 330.0,
+    "name": "AnaiaBoutique"
   },
   "venta_maxima": {
-    "price": 331.0,
-    "name": "被放逐的狐狸"
+    "price": 331.5,
+    "name": "OTCLEGEND"
   },
-  "promedio": 330.65,
+  "promedio": 330.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
