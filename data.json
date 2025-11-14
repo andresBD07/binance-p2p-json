@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T16:14:47.643319",
-  "actualizado_vzla": "2025-11-14 12:14:47 -04",
+  "timestamp_utc": "2025-11-14T16:44:57.829201",
+  "actualizado_vzla": "2025-11-14 12:44:57 -04",
   "compra_segundo": {
-    "price": 330.5,
-    "name": "Qwer77"
+    "price": 330.1,
+    "name": "CAMBIOSJEAN"
   },
   "venta_maxima": {
-    "price": 332.0,
-    "name": "被放逐的狐狸"
+    "price": 333.0,
+    "name": "EDbusiness"
   },
-  "promedio": 331.25,
+  "promedio": 331.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
