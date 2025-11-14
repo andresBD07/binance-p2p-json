@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T20:37:44.433770",
-  "actualizado_vzla": "2025-11-14 16:37:44 -04",
+  "timestamp_utc": "2025-11-14T20:51:08.145257",
+  "actualizado_vzla": "2025-11-14 16:51:08 -04",
   "compra_segundo": {
     "price": 331.5,
-    "name": "Mahc012712"
+    "name": "DMCambio2"
   },
   "venta_maxima": {
-    "price": 331.0,
+    "price": 331.5,
     "name": "EDbusiness"
   },
-  "promedio": 331.25,
+  "promedio": 331.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
