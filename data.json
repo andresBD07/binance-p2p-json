@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T20:15:01.815476",
-  "actualizado_vzla": "2025-11-14 16:15:01 -04",
+  "timestamp_utc": "2025-11-14T20:37:44.433770",
+  "actualizado_vzla": "2025-11-14 16:37:44 -04",
   "compra_segundo": {
-    "price": 331.099,
-    "name": "PringlesBBQ"
+    "price": 331.5,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
     "price": 331.0,
     "name": "EDbusiness"
   },
-  "promedio": 331.05,
+  "promedio": 331.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
