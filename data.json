@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-14T16:44:57.829201",
-  "actualizado_vzla": "2025-11-14 12:44:57 -04",
+  "timestamp_utc": "2025-11-14T16:58:56.782264",
+  "actualizado_vzla": "2025-11-14 12:58:56 -04",
   "compra_segundo": {
-    "price": 330.1,
-    "name": "CAMBIOSJEAN"
+    "price": 329.8,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 333.0,
-    "name": "EDbusiness"
+    "price": 331.0,
+    "name": "DULCANEL1"
   },
-  "promedio": 331.55,
+  "promedio": 330.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
