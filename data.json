@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T17:30:57.933228",
-  "actualizado_vzla": "2025-11-15 13:30:57 -04",
+  "timestamp_utc": "2025-11-15T17:44:15.573484",
+  "actualizado_vzla": "2025-11-15 13:44:15 -04",
   "compra_segundo": {
-    "price": 327.8,
-    "name": "Magnetic10"
+    "price": 327.689,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 327.0,
-    "name": "T1_______"
+    "price": 326.7,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 327.4,
+  "promedio": 327.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
