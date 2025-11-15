@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T05:29:44.710478",
-  "actualizado_vzla": "2025-11-15 01:29:44 -04",
+  "timestamp_utc": "2025-11-15T05:44:47.736815",
+  "actualizado_vzla": "2025-11-15 01:44:47 -04",
   "compra_segundo": {
-    "price": 331.4,
-    "name": "WOLFIAO"
+    "price": 331.998,
+    "name": "Reginald_TITULAR"
   },
   "venta_maxima": {
     "price": 327.0,
     "name": "cambioson"
   },
-  "promedio": 329.2,
+  "promedio": 329.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
