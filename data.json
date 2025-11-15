@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T12:15:14.746813",
-  "actualizado_vzla": "2025-11-15 08:15:14 -04",
+  "timestamp_utc": "2025-11-15T12:56:53.451785",
+  "actualizado_vzla": "2025-11-15 08:56:53 -04",
   "compra_segundo": {
-    "price": 329.2,
-    "name": "SraBrownie"
+    "price": 329.0,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
     "price": 327.0,
-    "name": "cambioson"
+    "name": "Mdtextilcrypto"
   },
-  "promedio": 328.1,
+  "promedio": 328.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
