@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T01:50:53.492807",
-  "actualizado_vzla": "2025-11-14 21:50:53 -04",
+  "timestamp_utc": "2025-11-15T03:03:34.972737",
+  "actualizado_vzla": "2025-11-14 23:03:34 -04",
   "compra_segundo": {
-    "price": 329.24,
-    "name": "InvMiggy"
+    "price": 330.0,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 327.6,
-    "name": "TOPlevelS"
+    "price": 327.501,
+    "name": "Cambioscorleone"
   },
-  "promedio": 328.42,
+  "promedio": 328.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
