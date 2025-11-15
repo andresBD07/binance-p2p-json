@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T11:19:46.110692",
-  "actualizado_vzla": "2025-11-15 07:19:46 -04",
+  "timestamp_utc": "2025-11-15T11:34:45.591534",
+  "actualizado_vzla": "2025-11-15 07:34:45 -04",
   "compra_segundo": {
-    "price": 329.99,
-    "name": "Daikokuten-Finance"
+    "price": 329.75,
+    "name": "ArepaConCafé"
   },
   "venta_maxima": {
-    "price": 327.0,
-    "name": "Godisgift"
+    "price": 328.0,
+    "name": "jssepro"
   },
-  "promedio": 328.5,
+  "promedio": 328.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
