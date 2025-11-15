@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T14:24:00.958566",
-  "actualizado_vzla": "2025-11-15 10:24:00 -04",
+  "timestamp_utc": "2025-11-15T14:40:54.030653",
+  "actualizado_vzla": "2025-11-15 10:40:54 -04",
   "compra_segundo": {
-    "price": 328.39,
-    "name": "InvMiggy"
+    "price": 328.29,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 328.0,
-    "name": "DULCANEL1"
+    "price": 327.5,
+    "name": "GREEN78"
   },
-  "promedio": 328.19,
+  "promedio": 327.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
