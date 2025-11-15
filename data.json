@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T22:59:44.164017",
-  "actualizado_vzla": "2025-11-15 18:59:44 -04",
+  "timestamp_utc": "2025-11-15T23:25:18.155894",
+  "actualizado_vzla": "2025-11-15 19:25:18 -04",
   "compra_segundo": {
-    "price": 326.399,
-    "name": "Dr Trader"
+    "price": 326.29,
+    "name": "_InversionesJG_"
   },
   "venta_maxima": {
-    "price": 326.5,
+    "price": 327.0,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 326.45,
+  "promedio": 326.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
