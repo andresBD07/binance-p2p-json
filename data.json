@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T08:31:50.198007",
-  "actualizado_vzla": "2025-11-15 04:31:50 -04",
+  "timestamp_utc": "2025-11-15T08:48:48.383725",
+  "actualizado_vzla": "2025-11-15 04:48:48 -04",
   "compra_segundo": {
-    "price": 332.998,
-    "name": "Reginald_TITULAR"
+    "price": 332.98,
+    "name": "El Buitre"
   },
   "venta_maxima": {
     "price": 327.0,
     "name": "cambioson"
   },
-  "promedio": 330.0,
+  "promedio": 329.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
