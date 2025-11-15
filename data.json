@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T19:24:35.622255",
-  "actualizado_vzla": "2025-11-15 15:24:35 -04",
+  "timestamp_utc": "2025-11-15T19:38:52.217013",
+  "actualizado_vzla": "2025-11-15 15:38:52 -04",
   "compra_segundo": {
-    "price": 326.858,
-    "name": "Trellvader"
+    "price": 326.71,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 326.3,
-    "name": "Child-CambioFacil"
+    "price": 326.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 326.58,
+  "promedio": 326.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
