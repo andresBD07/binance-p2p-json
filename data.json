@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T13:56:51.830364",
-  "actualizado_vzla": "2025-11-15 09:56:51 -04",
+  "timestamp_utc": "2025-11-15T14:24:00.958566",
+  "actualizado_vzla": "2025-11-15 10:24:00 -04",
   "compra_segundo": {
-    "price": 328.9,
-    "name": "Servic2009"
+    "price": 328.39,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
-    "price": 327.7,
-    "name": "TuPagoRapido"
+    "price": 328.0,
+    "name": "DULCANEL1"
   },
-  "promedio": 328.3,
+  "promedio": 328.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
