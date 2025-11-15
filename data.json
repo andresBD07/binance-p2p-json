@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T21:53:26.284879",
-  "actualizado_vzla": "2025-11-15 17:53:26 -04",
+  "timestamp_utc": "2025-11-15T22:17:08.598255",
+  "actualizado_vzla": "2025-11-15 18:17:08 -04",
   "compra_segundo": {
-    "price": 326.7,
-    "name": "CambiosAshley"
+    "price": 326.58,
+    "name": "BallGroup"
   },
   "venta_maxima": {
     "price": 326.501,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 326.6,
+  "promedio": 326.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
