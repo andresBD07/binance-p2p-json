@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T10:26:32.315504",
-  "actualizado_vzla": "2025-11-15 06:26:32 -04",
+  "timestamp_utc": "2025-11-15T10:42:49.400624",
+  "actualizado_vzla": "2025-11-15 06:42:49 -04",
   "compra_segundo": {
-    "price": 331.0,
-    "name": "Cambia-Seguro-01"
+    "price": 330.499,
+    "name": "Sag87"
   },
   "venta_maxima": {
     "price": 327.0,
     "name": "cambioson"
   },
-  "promedio": 329.0,
+  "promedio": 328.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
