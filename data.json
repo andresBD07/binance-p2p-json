@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T17:44:15.573484",
-  "actualizado_vzla": "2025-11-15 13:44:15 -04",
+  "timestamp_utc": "2025-11-15T17:57:00.242057",
+  "actualizado_vzla": "2025-11-15 13:57:00 -04",
   "compra_segundo": {
-    "price": 327.689,
-    "name": "FlashCambios1"
+    "price": 327.5,
+    "name": "Camilo171"
   },
   "venta_maxima": {
-    "price": 326.7,
-    "name": "GOMEZTUSOLUCION"
+    "price": 326.001,
+    "name": "All-inCrypto"
   },
-  "promedio": 327.19,
+  "promedio": 326.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
