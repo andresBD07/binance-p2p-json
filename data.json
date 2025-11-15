@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T20:48:30.283925",
-  "actualizado_vzla": "2025-11-15 16:48:30 -04",
+  "timestamp_utc": "2025-11-15T21:08:09.379820",
+  "actualizado_vzla": "2025-11-15 17:08:09 -04",
   "compra_segundo": {
-    "price": 326.8,
-    "name": "MikasaExchange"
+    "price": 326.9,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 326.5,
+    "price": 326.501,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 326.65,
+  "promedio": 326.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
