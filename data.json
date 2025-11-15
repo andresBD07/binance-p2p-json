@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T21:27:00.102459",
-  "actualizado_vzla": "2025-11-15 17:27:00 -04",
+  "timestamp_utc": "2025-11-15T21:40:26.866969",
+  "actualizado_vzla": "2025-11-15 17:40:26 -04",
   "compra_segundo": {
-    "price": 326.9,
-    "name": "_InversionesJG_"
+    "price": 326.8,
+    "name": "Viamort"
   },
   "venta_maxima": {
     "price": 326.501,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 326.7,
+  "promedio": 326.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
