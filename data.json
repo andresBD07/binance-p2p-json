@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T03:45:18.409493",
-  "actualizado_vzla": "2025-11-14 23:45:18 -04",
+  "timestamp_utc": "2025-11-15T03:58:50.396815",
+  "actualizado_vzla": "2025-11-14 23:58:50 -04",
   "compra_segundo": {
     "price": 331.4,
     "name": "A_CARDONAGROUP_"
   },
   "venta_maxima": {
-    "price": 327.5,
-    "name": "Quick Payment"
+    "price": 327.0,
+    "name": "Budyzz"
   },
-  "promedio": 329.45,
+  "promedio": 329.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
