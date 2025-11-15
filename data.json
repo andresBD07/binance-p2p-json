@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-15T10:55:36.037828",
-  "actualizado_vzla": "2025-11-15 06:55:36 -04",
+  "timestamp_utc": "2025-11-15T11:19:46.110692",
+  "actualizado_vzla": "2025-11-15 07:19:46 -04",
   "compra_segundo": {
-    "price": 330.0,
-    "name": "Cambia-Seguro-01"
+    "price": 329.99,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
     "price": 327.0,
-    "name": "cambioson"
+    "name": "Godisgift"
   },
   "promedio": 328.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
