@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T20:35:07.623397",
-  "actualizado_vzla": "2025-11-15 16:35:07 -04",
+  "timestamp_utc": "2025-11-15T20:48:30.283925",
+  "actualizado_vzla": "2025-11-15 16:48:30 -04",
   "compra_segundo": {
-    "price": 326.79,
-    "name": "Hispano-Cripto"
+    "price": 326.8,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
     "price": 326.5,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 326.64,
+  "promedio": 326.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
