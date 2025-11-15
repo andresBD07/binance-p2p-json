@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T11:34:45.591534",
-  "actualizado_vzla": "2025-11-15 07:34:45 -04",
+  "timestamp_utc": "2025-11-15T11:48:02.476581",
+  "actualizado_vzla": "2025-11-15 07:48:02 -04",
   "compra_segundo": {
-    "price": 329.75,
-    "name": "ArepaConCafé"
+    "price": 329.8,
+    "name": "Dpay21"
   },
   "venta_maxima": {
     "price": 328.0,
     "name": "jssepro"
   },
-  "promedio": 328.88,
+  "promedio": 328.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
