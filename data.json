@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T16:39:33.287195",
-  "actualizado_vzla": "2025-11-15 12:39:33 -04",
+  "timestamp_utc": "2025-11-15T16:52:48.674844",
+  "actualizado_vzla": "2025-11-15 12:52:48 -04",
   "compra_segundo": {
-    "price": 328.425,
-    "name": "CryptoKoku"
+    "price": 328.305,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 327.5,
-    "name": "Eliezerjph"
+    "price": 328.0,
+    "name": "JoseParedez"
   },
-  "promedio": 327.96,
+  "promedio": 328.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
