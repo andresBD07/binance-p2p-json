@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-15T19:10:04.757403",
-  "actualizado_vzla": "2025-11-15 15:10:04 -04",
+  "timestamp_utc": "2025-11-15T19:24:35.622255",
+  "actualizado_vzla": "2025-11-15 15:24:35 -04",
   "compra_segundo": {
-    "price": 326.998,
-    "name": "ArepaConCafé"
+    "price": 326.858,
+    "name": "Trellvader"
   },
   "venta_maxima": {
-    "price": 326.1,
-    "name": "GOMEZTUSOLUCION"
+    "price": 326.3,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 326.55,
+  "promedio": 326.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
