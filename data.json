@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T20:23:23.882939",
-  "actualizado_vzla": "2025-11-16 16:23:23 -04",
+  "timestamp_utc": "2025-11-16T20:40:34.129171",
+  "actualizado_vzla": "2025-11-16 16:40:34 -04",
   "compra_segundo": {
-    "price": 333.5,
-    "name": "IntercambiosC"
+    "price": 333.3,
+    "name": "Jl crissol "
   },
   "venta_maxima": {
-    "price": 331.8,
-    "name": "hectoraltrader"
+    "price": 332.025,
+    "name": "ComerciosLobo_"
   },
-  "promedio": 332.65,
+  "promedio": 332.66,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
