@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T01:51:53.426626",
-  "actualizado_vzla": "2025-11-15 21:51:53 -04",
+  "timestamp_utc": "2025-11-16T03:16:49.366105",
+  "actualizado_vzla": "2025-11-15 23:16:49 -04",
   "compra_segundo": {
-    "price": 327.7,
-    "name": "CORPORACION_YYSE-25"
+    "price": 328.19,
+    "name": "DLR06"
   },
   "venta_maxima": {
     "price": 326.0,
-    "name": "LogisticExchange"
+    "name": "cambioson"
   },
-  "promedio": 326.85,
+  "promedio": 327.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
