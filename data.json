@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T17:32:13.022796",
-  "actualizado_vzla": "2025-11-16 13:32:13 -04",
+  "timestamp_utc": "2025-11-16T17:45:04.647434",
+  "actualizado_vzla": "2025-11-16 13:45:04 -04",
   "compra_segundo": {
-    "price": 331.699,
-    "name": "CambiosYA _SOLO TITULARES"
+    "price": 330.69,
+    "name": "Cristh957"
   },
   "venta_maxima": {
-    "price": 330.2,
-    "name": "gmubb123"
+    "price": 328.72,
+    "name": "Pagos_Fast_"
   },
-  "promedio": 330.95,
+  "promedio": 329.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
