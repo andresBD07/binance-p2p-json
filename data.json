@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T22:43:31.298126",
-  "actualizado_vzla": "2025-11-16 18:43:31 -04",
+  "timestamp_utc": "2025-11-16T22:56:40.443928",
+  "actualizado_vzla": "2025-11-16 18:56:40 -04",
   "compra_segundo": {
-    "price": 332.979,
-    "name": "Exchange-JR"
+    "price": 332.909,
+    "name": "TuCambioPreferido"
   },
   "venta_maxima": {
-    "price": 331.9,
-    "name": "CORPORACION_YYSE-25"
+    "price": 331.8,
+    "name": "hectoraltrader"
   },
-  "promedio": 332.44,
+  "promedio": 332.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
