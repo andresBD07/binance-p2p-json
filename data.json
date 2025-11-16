@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T19:40:38.857798",
-  "actualizado_vzla": "2025-11-16 15:40:38 -04",
+  "timestamp_utc": "2025-11-16T19:53:46.341108",
+  "actualizado_vzla": "2025-11-16 15:53:46 -04",
   "compra_segundo": {
-    "price": 332.63,
-    "name": "OLA-cHANGE"
+    "price": 333.5,
+    "name": "IntercambiosC"
   },
   "venta_maxima": {
-    "price": 331.02,
-    "name": "ComerciosLobo_"
+    "price": 331.8,
+    "name": "hectoraltrader"
   },
-  "promedio": 331.82,
+  "promedio": 332.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
