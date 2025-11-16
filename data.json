@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T16:51:20.691406",
-  "actualizado_vzla": "2025-11-16 12:51:20 -04",
+  "timestamp_utc": "2025-11-16T17:13:31.312803",
+  "actualizado_vzla": "2025-11-16 13:13:31 -04",
   "compra_segundo": {
-    "price": 334.999,
-    "name": "Trader_CambiosDigital"
+    "price": 333.59,
+    "name": "Puerto-Trader"
   },
   "venta_maxima": {
-    "price": 332.75,
+    "price": 332.0,
     "name": "hectoraltrader"
   },
-  "promedio": 333.87,
+  "promedio": 332.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
