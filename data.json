@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T16:36:58.679491",
-  "actualizado_vzla": "2025-11-16 12:36:58 -04",
+  "timestamp_utc": "2025-11-16T16:51:20.691406",
+  "actualizado_vzla": "2025-11-16 12:51:20 -04",
   "compra_segundo": {
-    "price": 335.95,
-    "name": "PagoRapido_P2P"
+    "price": 334.999,
+    "name": "Trader_CambiosDigital"
   },
   "venta_maxima": {
-    "price": 334.001,
-    "name": "EL ELEFANTE DE ORO"
+    "price": 332.75,
+    "name": "hectoraltrader"
   },
-  "promedio": 334.98,
+  "promedio": 333.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
