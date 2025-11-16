@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T15:48:13.945873",
-  "actualizado_vzla": "2025-11-16 11:48:13 -04",
+  "timestamp_utc": "2025-11-16T16:10:07.399518",
+  "actualizado_vzla": "2025-11-16 12:10:07 -04",
   "compra_segundo": {
-    "price": 337.0,
-    "name": "LuzChanges"
+    "price": 336.999,
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 334.11,
-    "name": "hectoraltrader"
+    "price": 335.0,
+    "name": "Godisgift"
   },
-  "promedio": 335.56,
+  "promedio": 336.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
