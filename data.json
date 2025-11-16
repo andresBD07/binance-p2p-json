@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T12:17:50.426457",
-  "actualizado_vzla": "2025-11-16 08:17:50 -04",
+  "timestamp_utc": "2025-11-16T12:57:07.197965",
+  "actualizado_vzla": "2025-11-16 08:57:07 -04",
   "compra_segundo": {
-    "price": 329.129,
-    "name": "OLDCARTO"
+    "price": 328.88,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
-    "price": 326.0,
-    "name": "cambioson"
+    "price": 325.33,
+    "name": "Crypto_Kalev"
   },
-  "promedio": 327.56,
+  "promedio": 327.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
