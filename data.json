@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T23:24:08.736332",
-  "actualizado_vzla": "2025-11-16 19:24:08 -04",
+  "timestamp_utc": "2025-11-16T23:39:52.499912",
+  "actualizado_vzla": "2025-11-16 19:39:52 -04",
   "compra_segundo": {
-    "price": 332.999,
+    "price": 333.15,
     "name": "angels123"
   },
   "venta_maxima": {
-    "price": 331.95,
-    "name": "ComerciosLobo_"
+    "price": 332.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 332.47,
+  "promedio": 332.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
