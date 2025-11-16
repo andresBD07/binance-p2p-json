@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T21:59:59.445881",
-  "actualizado_vzla": "2025-11-16 17:59:59 -04",
+  "timestamp_utc": "2025-11-16T22:28:09.517734",
+  "actualizado_vzla": "2025-11-16 18:28:09 -04",
   "compra_segundo": {
     "price": 332.8,
-    "name": "MEGACAMBIOS16"
+    "name": "CambiosBesmant"
   },
   "venta_maxima": {
-    "price": 331.8,
-    "name": "hectoraltrader"
+    "price": 331.9,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 332.3,
+  "promedio": 332.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
