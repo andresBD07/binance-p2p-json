@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T20:40:34.129171",
-  "actualizado_vzla": "2025-11-16 16:40:34 -04",
+  "timestamp_utc": "2025-11-16T20:53:57.465649",
+  "actualizado_vzla": "2025-11-16 16:53:57 -04",
   "compra_segundo": {
-    "price": 333.3,
-    "name": "Jl crissol "
+    "price": 333.624,
+    "name": "Mercurius_P2P"
   },
   "venta_maxima": {
-    "price": 332.025,
-    "name": "ComerciosLobo_"
+    "price": 332.15,
+    "name": "cambiosguarico"
   },
-  "promedio": 332.66,
+  "promedio": 332.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
