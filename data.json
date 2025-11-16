@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T14:24:04.627219",
-  "actualizado_vzla": "2025-11-16 10:24:04 -04",
+  "timestamp_utc": "2025-11-16T14:40:12.167115",
+  "actualizado_vzla": "2025-11-16 10:40:12 -04",
   "compra_segundo": {
-    "price": 331.3,
-    "name": "carmelog04"
+    "price": 332.599,
+    "name": "farfan21"
   },
   "venta_maxima": {
-    "price": 330.1,
-    "name": "Biyt"
+    "price": 331.0,
+    "name": "Godisgift"
   },
-  "promedio": 330.7,
+  "promedio": 331.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
