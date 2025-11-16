@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-16T08:59:34.957934",
-  "actualizado_vzla": "2025-11-16 04:59:34 -04",
+  "timestamp_utc": "2025-11-16T09:27:17.440360",
+  "actualizado_vzla": "2025-11-16 05:27:17 -04",
   "compra_segundo": {
-    "price": 329.99,
-    "name": "ARKADB"
+    "price": 330.0,
+    "name": "MiguelCryptos"
   },
   "venta_maxima": {
     "price": 326.0,
