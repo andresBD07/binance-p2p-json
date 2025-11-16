@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T21:19:22.593668",
-  "actualizado_vzla": "2025-11-16 17:19:22 -04",
+  "timestamp_utc": "2025-11-16T21:33:51.902227",
+  "actualizado_vzla": "2025-11-16 17:33:51 -04",
   "compra_segundo": {
-    "price": 333.399,
-    "name": "Yourcoins"
+    "price": 332.95,
+    "name": "CriptoBlessed"
   },
   "venta_maxima": {
-    "price": 332.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 331.8,
+    "name": "hectoraltrader"
   },
-  "promedio": 332.7,
+  "promedio": 332.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
