@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T19:27:03.239149",
-  "actualizado_vzla": "2025-11-16 15:27:03 -04",
+  "timestamp_utc": "2025-11-16T19:40:38.857798",
+  "actualizado_vzla": "2025-11-16 15:40:38 -04",
   "compra_segundo": {
-    "price": 332.4,
-    "name": "Tatacash24"
+    "price": 332.63,
+    "name": "OLA-cHANGE"
   },
   "venta_maxima": {
-    "price": 332.5,
-    "name": "Godisgift"
+    "price": 331.02,
+    "name": "ComerciosLobo_"
   },
-  "promedio": 332.45,
+  "promedio": 331.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
