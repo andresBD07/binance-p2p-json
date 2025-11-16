@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T10:26:11.222315",
-  "actualizado_vzla": "2025-11-16 06:26:11 -04",
+  "timestamp_utc": "2025-11-16T10:43:27.606807",
+  "actualizado_vzla": "2025-11-16 06:43:27 -04",
   "compra_segundo": {
-    "price": 329.0,
-    "name": "读Relojero_Exchang音"
+    "price": 328.9,
+    "name": "07-Transpor"
   },
   "venta_maxima": {
     "price": 326.0,
     "name": "cambioson"
   },
-  "promedio": 327.5,
+  "promedio": 327.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
