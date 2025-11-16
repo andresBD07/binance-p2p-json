@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T19:13:20.498463",
-  "actualizado_vzla": "2025-11-16 15:13:20 -04",
+  "timestamp_utc": "2025-11-16T19:27:03.239149",
+  "actualizado_vzla": "2025-11-16 15:27:03 -04",
   "compra_segundo": {
-    "price": 332.39,
-    "name": "Jars88"
+    "price": 332.4,
+    "name": "Tatacash24"
   },
   "venta_maxima": {
-    "price": 332.0,
+    "price": 332.5,
     "name": "Godisgift"
   },
-  "promedio": 332.19,
+  "promedio": 332.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
