@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T04:33:58.367375",
-  "actualizado_vzla": "2025-11-16 00:33:58 -04",
+  "timestamp_utc": "2025-11-16T04:50:19.448265",
+  "actualizado_vzla": "2025-11-16 00:50:19 -04",
   "compra_segundo": {
-    "price": 328.3,
-    "name": "viclop"
+    "price": 328.645,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 326.0,
     "name": "cambioson"
   },
-  "promedio": 327.15,
+  "promedio": 327.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
