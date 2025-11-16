@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-15T23:53:35.311259",
-  "actualizado_vzla": "2025-11-15 19:53:35 -04",
+  "timestamp_utc": "2025-11-16T01:51:53.426626",
+  "actualizado_vzla": "2025-11-15 21:51:53 -04",
   "compra_segundo": {
-    "price": 326.7,
-    "name": "CambioRapido13"
+    "price": 327.7,
+    "name": "CORPORACION_YYSE-25"
   },
   "venta_maxima": {
-    "price": 327.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 326.0,
+    "name": "LogisticExchange"
   },
   "promedio": 326.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
