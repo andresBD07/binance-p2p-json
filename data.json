@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T06:15:19.344830",
-  "actualizado_vzla": "2025-11-16 02:15:19 -04",
+  "timestamp_utc": "2025-11-16T06:45:31.478781",
+  "actualizado_vzla": "2025-11-16 02:45:31 -04",
   "compra_segundo": {
-    "price": 329.99,
-    "name": "Mero-Mero"
+    "price": 329.98,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
     "price": 326.0,
     "name": "cambioson"
   },
-  "promedio": 328.0,
+  "promedio": 327.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
