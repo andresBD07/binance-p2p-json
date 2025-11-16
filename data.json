@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T18:51:52.168016",
-  "actualizado_vzla": "2025-11-16 14:51:52 -04",
+  "timestamp_utc": "2025-11-16T19:13:20.498463",
+  "actualizado_vzla": "2025-11-16 15:13:20 -04",
   "compra_segundo": {
-    "price": 331.4,
-    "name": "BallGroup"
+    "price": 332.39,
+    "name": "Jars88"
   },
   "venta_maxima": {
-    "price": 331.5,
+    "price": 332.0,
     "name": "Godisgift"
   },
-  "promedio": 331.45,
+  "promedio": 332.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
