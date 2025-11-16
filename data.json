@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T17:45:04.647434",
-  "actualizado_vzla": "2025-11-16 13:45:04 -04",
+  "timestamp_utc": "2025-11-16T17:58:22.340962",
+  "actualizado_vzla": "2025-11-16 13:58:22 -04",
   "compra_segundo": {
-    "price": 330.69,
-    "name": "Cristh957"
+    "price": 330.9,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 328.72,
-    "name": "Pagos_Fast_"
+    "price": 329.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 329.71,
+  "promedio": 329.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
