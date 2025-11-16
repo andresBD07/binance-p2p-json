@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T23:39:52.499912",
-  "actualizado_vzla": "2025-11-16 19:39:52 -04",
+  "timestamp_utc": "2025-11-16T23:53:11.097566",
+  "actualizado_vzla": "2025-11-16 19:53:11 -04",
   "compra_segundo": {
-    "price": 333.15,
-    "name": "angels123"
+    "price": 333.0,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 332.0,
+    "price": 332.5,
     "name": "TOPlevelS"
   },
-  "promedio": 332.57,
+  "promedio": 332.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
