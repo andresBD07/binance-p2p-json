@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-16T17:58:22.340962",
-  "actualizado_vzla": "2025-11-16 13:58:22 -04",
+  "timestamp_utc": "2025-11-16T18:36:01.780487",
+  "actualizado_vzla": "2025-11-16 14:36:01 -04",
   "compra_segundo": {
-    "price": 330.9,
-    "name": "nene"
+    "price": 331.1,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 329.0,
-    "name": "Child-CambioFacil"
+    "price": 330.55,
+    "name": "TuPagoRapido"
   },
-  "promedio": 329.95,
+  "promedio": 330.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
