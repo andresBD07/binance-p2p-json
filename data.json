@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T15:48:59.087362",
-  "actualizado_vzla": "2025-11-17 11:48:59 -04",
+  "timestamp_utc": "2025-11-17T16:15:38.906228",
+  "actualizado_vzla": "2025-11-17 12:15:38 -04",
   "compra_segundo": {
-    "price": 339.12,
-    "name": "Blockchain-Experts"
+    "price": 339.39,
+    "name": "CAMBIO-LAGO"
   },
   "venta_maxima": {
-    "price": 338.501,
-    "name": "All-inCrypto"
+    "price": 339.5,
+    "name": "JoseParedez"
   },
-  "promedio": 338.81,
+  "promedio": 339.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
