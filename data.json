@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T16:46:57.751503",
-  "actualizado_vzla": "2025-11-17 12:46:57 -04",
+  "timestamp_utc": "2025-11-17T17:01:18.531901",
+  "actualizado_vzla": "2025-11-17 13:01:18 -04",
   "compra_segundo": {
-    "price": 339.49,
-    "name": "HectorB"
+    "price": 339.0,
+    "name": "CambiosJR2"
   },
   "venta_maxima": {
-    "price": 338.7,
+    "price": 338.95,
     "name": "Burdyn"
   },
-  "promedio": 339.1,
+  "promedio": 338.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
