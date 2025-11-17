@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T17:30:48.525364",
-  "actualizado_vzla": "2025-11-17 13:30:48 -04",
+  "timestamp_utc": "2025-11-17T17:46:34.759212",
+  "actualizado_vzla": "2025-11-17 13:46:34 -04",
   "compra_segundo": {
-    "price": 338.0,
-    "name": "maikolmai"
+    "price": 336.0,
+    "name": "Alex-MARTIN"
   },
   "venta_maxima": {
-    "price": 336.01,
-    "name": "ChaizySwap"
+    "price": 335.5,
+    "name": "T1_______"
   },
-  "promedio": 337.0,
+  "promedio": 335.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
