@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T18:55:36.131606",
-  "actualizado_vzla": "2025-11-17 14:55:36 -04",
+  "timestamp_utc": "2025-11-17T19:21:49.204699",
+  "actualizado_vzla": "2025-11-17 15:21:49 -04",
   "compra_segundo": {
-    "price": 333.5,
-    "name": "大TaiLung龙"
+    "price": 334.889,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 333.62,
-    "name": "hudsonriver"
+    "price": 334.0,
+    "name": "JoseParedez"
   },
-  "promedio": 333.56,
+  "promedio": 334.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
