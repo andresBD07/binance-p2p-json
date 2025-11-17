@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T14:15:54.157914",
-  "actualizado_vzla": "2025-11-17 10:15:54 -04",
+  "timestamp_utc": "2025-11-17T14:41:28.022328",
+  "actualizado_vzla": "2025-11-17 10:41:28 -04",
   "compra_segundo": {
-    "price": 335.0,
-    "name": "Mahc012712"
+    "price": 335.98,
+    "name": "CriptoseguroAyM"
   },
   "venta_maxima": {
-    "price": 334.4,
-    "name": "hudsonriver"
+    "price": 335.7,
+    "name": "SmartSolutionn"
   },
-  "promedio": 334.7,
+  "promedio": 335.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
