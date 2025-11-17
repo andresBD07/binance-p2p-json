@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T10:57:23.465183",
-  "actualizado_vzla": "2025-11-17 06:57:23 -04",
+  "timestamp_utc": "2025-11-17T11:25:03.936026",
+  "actualizado_vzla": "2025-11-17 07:25:03 -04",
   "compra_segundo": {
-    "price": 335.994,
-    "name": "Mercurius_P2P"
+    "price": 335.0,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 332.1,
-    "name": "Daikokuten-Finance"
+    "price": 332.31,
+    "name": "Yourcoins"
   },
-  "promedio": 334.05,
+  "promedio": 333.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
