@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T03:07:20.040859",
-  "actualizado_vzla": "2025-11-16 23:07:20 -04",
+  "timestamp_utc": "2025-11-17T03:55:36.417379",
+  "actualizado_vzla": "2025-11-16 23:55:36 -04",
   "compra_segundo": {
     "price": 336.0,
-    "name": "RushPay"
+    "name": "Neobroker"
   },
   "venta_maxima": {
-    "price": 333.0,
-    "name": "Marketplace66"
+    "price": 333.2,
+    "name": "Quick Payment"
   },
-  "promedio": 334.5,
+  "promedio": 334.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
