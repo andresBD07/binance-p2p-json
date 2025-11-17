@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T15:30:48.277845",
-  "actualizado_vzla": "2025-11-17 11:30:48 -04",
+  "timestamp_utc": "2025-11-17T15:48:59.087362",
+  "actualizado_vzla": "2025-11-17 11:48:59 -04",
   "compra_segundo": {
-    "price": 338.9,
-    "name": "Inversiones F V CA"
+    "price": 339.12,
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
-    "price": 337.6,
-    "name": "ConfianzaEnRed"
+    "price": 338.501,
+    "name": "All-inCrypto"
   },
-  "promedio": 338.25,
+  "promedio": 338.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
