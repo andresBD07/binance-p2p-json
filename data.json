@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T21:13:07.310677",
-  "actualizado_vzla": "2025-11-17 17:13:07 -04",
+  "timestamp_utc": "2025-11-17T21:32:48.280721",
+  "actualizado_vzla": "2025-11-17 17:32:48 -04",
   "compra_segundo": {
-    "price": 337.3,
-    "name": "AngelysGr"
+    "price": 337.7,
+    "name": "PuenteDeCompraP2P"
   },
   "venta_maxima": {
-    "price": 337.5,
+    "price": 338.0,
     "name": "Biyt"
   },
-  "promedio": 337.4,
+  "promedio": 337.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
