@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T18:39:55.757329",
-  "actualizado_vzla": "2025-11-17 14:39:55 -04",
+  "timestamp_utc": "2025-11-17T18:55:36.131606",
+  "actualizado_vzla": "2025-11-17 14:55:36 -04",
   "compra_segundo": {
-    "price": 333.48,
-    "name": "EnLineaPagoRapido"
+    "price": 333.5,
+    "name": "大TaiLung龙"
   },
   "venta_maxima": {
-    "price": 333.42,
+    "price": 333.62,
     "name": "hudsonriver"
   },
-  "promedio": 333.45,
+  "promedio": 333.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
