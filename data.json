@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T20:37:02.088846",
-  "actualizado_vzla": "2025-11-17 16:37:02 -04",
+  "timestamp_utc": "2025-11-17T20:50:20.213728",
+  "actualizado_vzla": "2025-11-17 16:50:20 -04",
   "compra_segundo": {
-    "price": 335.4,
-    "name": "Exotico"
+    "price": 335.97,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 336.0,
+    "price": 337.0,
     "name": "Biyt"
   },
-  "promedio": 335.7,
+  "promedio": 336.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
