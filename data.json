@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T17:59:19.085145",
-  "actualizado_vzla": "2025-11-17 13:59:19 -04",
+  "timestamp_utc": "2025-11-17T18:39:55.757329",
+  "actualizado_vzla": "2025-11-17 14:39:55 -04",
   "compra_segundo": {
-    "price": 334.999,
-    "name": "Hiroma"
+    "price": 333.48,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 333.201,
-    "name": "DULCANEL1"
+    "price": 333.42,
+    "name": "hudsonriver"
   },
-  "promedio": 334.1,
+  "promedio": 333.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
