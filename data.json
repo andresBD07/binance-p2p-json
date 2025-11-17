@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T19:21:49.204699",
-  "actualizado_vzla": "2025-11-17 15:21:49 -04",
+  "timestamp_utc": "2025-11-17T19:36:52.262189",
+  "actualizado_vzla": "2025-11-17 15:36:52 -04",
   "compra_segundo": {
-    "price": 334.889,
-    "name": "majog"
+    "price": 335.0,
+    "name": "Chopyman"
   },
   "venta_maxima": {
-    "price": 334.0,
-    "name": "JoseParedez"
+    "price": 334.12,
+    "name": "D7OS"
   },
-  "promedio": 334.44,
+  "promedio": 334.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
