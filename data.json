@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T19:50:11.414326",
-  "actualizado_vzla": "2025-11-17 15:50:11 -04",
+  "timestamp_utc": "2025-11-17T20:15:52.695530",
+  "actualizado_vzla": "2025-11-17 16:15:52 -04",
   "compra_segundo": {
-    "price": 335.33,
-    "name": "TradingWolfe"
+    "price": 334.99,
+    "name": "CoinFlou"
   },
   "venta_maxima": {
-    "price": 334.0,
-    "name": "JLxanges"
+    "price": 334.7,
+    "name": "SmartSolutionn"
   },
-  "promedio": 334.66,
+  "promedio": 334.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
