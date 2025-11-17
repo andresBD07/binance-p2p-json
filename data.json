@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T09:50:49.791994",
-  "actualizado_vzla": "2025-11-17 05:50:49 -04",
+  "timestamp_utc": "2025-11-17T10:18:18.958686",
+  "actualizado_vzla": "2025-11-17 06:18:18 -04",
   "compra_segundo": {
-    "price": 337.2,
-    "name": "GregoSwap"
+    "price": 336.65,
+    "name": "rParadas"
   },
   "venta_maxima": {
     "price": 333.2,
     "name": "Quick Payment"
   },
-  "promedio": 335.2,
+  "promedio": 334.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
