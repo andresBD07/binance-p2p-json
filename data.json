@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T21:59:02.268191",
-  "actualizado_vzla": "2025-11-17 17:59:02 -04",
+  "timestamp_utc": "2025-11-17T22:29:10.549930",
+  "actualizado_vzla": "2025-11-17 18:29:10 -04",
   "compra_segundo": {
-    "price": 337.999,
-    "name": "Ivonnexjz"
+    "price": 339.0,
+    "name": "CoinFlou"
   },
   "venta_maxima": {
-    "price": 337.5,
+    "price": 338.1,
     "name": "Biyt"
   },
-  "promedio": 337.75,
+  "promedio": 338.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
