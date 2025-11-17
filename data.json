@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T05:40:41.715790",
-  "actualizado_vzla": "2025-11-17 01:40:41 -04",
+  "timestamp_utc": "2025-11-17T05:53:41.046508",
+  "actualizado_vzla": "2025-11-17 01:53:41 -04",
   "compra_segundo": {
-    "price": 337.8,
-    "name": "LinkVzla"
+    "price": 338.0,
+    "name": "SpeedGlobalP2P"
   },
   "venta_maxima": {
     "price": 333.2,
     "name": "Quick Payment"
   },
-  "promedio": 335.5,
+  "promedio": 335.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
