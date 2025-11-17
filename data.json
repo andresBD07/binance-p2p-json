@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T14:55:34.874768",
-  "actualizado_vzla": "2025-11-17 10:55:34 -04",
+  "timestamp_utc": "2025-11-17T15:30:48.277845",
+  "actualizado_vzla": "2025-11-17 11:30:48 -04",
   "compra_segundo": {
-    "price": 336.999,
-    "name": "CAMBIOs_PrO"
+    "price": 338.9,
+    "name": "Inversiones F V CA"
   },
   "venta_maxima": {
-    "price": 336.12,
-    "name": "SmartSolutionn"
+    "price": 337.6,
+    "name": "ConfianzaEnRed"
   },
-  "promedio": 336.56,
+  "promedio": 338.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
