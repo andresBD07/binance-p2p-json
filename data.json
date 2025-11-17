@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T23:42:29.677019",
-  "actualizado_vzla": "2025-11-17 19:42:29 -04",
+  "timestamp_utc": "2025-11-17T23:55:26.276693",
+  "actualizado_vzla": "2025-11-17 19:55:26 -04",
   "compra_segundo": {
-    "price": 338.697,
-    "name": "R1skTaker"
+    "price": 338.299,
+    "name": "Duquessa"
   },
   "venta_maxima": {
     "price": 338.5,
     "name": "Biyt"
   },
-  "promedio": 338.6,
+  "promedio": 338.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
