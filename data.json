@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T16:15:38.906228",
-  "actualizado_vzla": "2025-11-17 12:15:38 -04",
+  "timestamp_utc": "2025-11-17T16:46:57.751503",
+  "actualizado_vzla": "2025-11-17 12:46:57 -04",
   "compra_segundo": {
-    "price": 339.39,
-    "name": "CAMBIO-LAGO"
+    "price": 339.49,
+    "name": "HectorB"
   },
   "venta_maxima": {
-    "price": 339.5,
-    "name": "JoseParedez"
+    "price": 338.7,
+    "name": "Burdyn"
   },
-  "promedio": 339.44,
+  "promedio": 339.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
