@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T08:58:25.852727",
-  "actualizado_vzla": "2025-11-17 04:58:25 -04",
+  "timestamp_utc": "2025-11-17T09:34:15.757132",
+  "actualizado_vzla": "2025-11-17 05:34:15 -04",
   "compra_segundo": {
-    "price": 338.5,
-    "name": "Dayuda"
+    "price": 337.2,
+    "name": "TuCambioPreferido"
   },
   "venta_maxima": {
     "price": 333.2,
     "name": "Quick Payment"
   },
-  "promedio": 335.85,
+  "promedio": 335.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
