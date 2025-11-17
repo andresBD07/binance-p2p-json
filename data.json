@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T04:33:29.024353",
-  "actualizado_vzla": "2025-11-17 00:33:29 -04",
+  "timestamp_utc": "2025-11-17T04:51:31.330446",
+  "actualizado_vzla": "2025-11-17 00:51:31 -04",
   "compra_segundo": {
-    "price": 336.63,
-    "name": "TheMerchanTHM"
+    "price": 336.8,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 333.2,
     "name": "Quick Payment"
   },
-  "promedio": 334.91,
+  "promedio": 335.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
