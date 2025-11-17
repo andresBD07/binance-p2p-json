@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-17T09:34:15.757132",
-  "actualizado_vzla": "2025-11-17 05:34:15 -04",
+  "timestamp_utc": "2025-11-17T09:50:49.791994",
+  "actualizado_vzla": "2025-11-17 05:50:49 -04",
   "compra_segundo": {
     "price": 337.2,
-    "name": "TuCambioPreferido"
+    "name": "GregoSwap"
   },
   "venta_maxima": {
     "price": 333.2,
