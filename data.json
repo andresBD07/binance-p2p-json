@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T07:56:02.563533",
-  "actualizado_vzla": "2025-11-17 03:56:02 -04",
+  "timestamp_utc": "2025-11-17T08:38:10.373943",
+  "actualizado_vzla": "2025-11-17 04:38:10 -04",
   "compra_segundo": {
-    "price": 338.3,
-    "name": "CAMBIOs_PrO"
+    "price": 338.4,
+    "name": "ADA_RAPIDO"
   },
   "venta_maxima": {
-    "price": 332.0,
-    "name": "Aszahi7"
+    "price": 333.2,
+    "name": "Quick Payment"
   },
-  "promedio": 335.15,
+  "promedio": 335.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
