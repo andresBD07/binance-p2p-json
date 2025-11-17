@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T13:50:47.494838",
-  "actualizado_vzla": "2025-11-17 09:50:47 -04",
+  "timestamp_utc": "2025-11-17T14:15:54.157914",
+  "actualizado_vzla": "2025-11-17 10:15:54 -04",
   "compra_segundo": {
-    "price": 334.5,
-    "name": "Digitalvimarket"
+    "price": 335.0,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 333.7,
-    "name": "JAPR20"
+    "price": 334.4,
+    "name": "hudsonriver"
   },
-  "promedio": 334.1,
+  "promedio": 334.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
