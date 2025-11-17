@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T20:15:52.695530",
-  "actualizado_vzla": "2025-11-17 16:15:52 -04",
+  "timestamp_utc": "2025-11-17T20:37:02.088846",
+  "actualizado_vzla": "2025-11-17 16:37:02 -04",
   "compra_segundo": {
-    "price": 334.99,
-    "name": "CoinFlou"
+    "price": 335.4,
+    "name": "Exotico"
   },
   "venta_maxima": {
-    "price": 334.7,
-    "name": "SmartSolutionn"
+    "price": 336.0,
+    "name": "Biyt"
   },
-  "promedio": 334.85,
+  "promedio": 335.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
