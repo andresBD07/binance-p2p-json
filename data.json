@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T11:54:29.880870",
-  "actualizado_vzla": "2025-11-17 07:54:29 -04",
+  "timestamp_utc": "2025-11-17T12:51:52.213637",
+  "actualizado_vzla": "2025-11-17 08:51:52 -04",
   "compra_segundo": {
-    "price": 334.47,
-    "name": "TeresaCrip"
+    "price": 333.799,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 332.509,
-    "name": "SPYG"
+    "price": 332.83,
+    "name": "RubenNYC"
   },
-  "promedio": 333.49,
+  "promedio": 333.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
