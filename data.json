@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T11:25:03.936026",
-  "actualizado_vzla": "2025-11-17 07:25:03 -04",
+  "timestamp_utc": "2025-11-17T11:41:29.844929",
+  "actualizado_vzla": "2025-11-17 07:41:29 -04",
   "compra_segundo": {
-    "price": 335.0,
-    "name": "Yossetmz"
+    "price": 334.74,
+    "name": "Gjsan"
   },
   "venta_maxima": {
-    "price": 332.31,
-    "name": "Yourcoins"
+    "price": 332.402,
+    "name": "AxelKingS"
   },
-  "promedio": 333.65,
+  "promedio": 333.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
