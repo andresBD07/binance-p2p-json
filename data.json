@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T22:45:50.709755",
-  "actualizado_vzla": "2025-11-17 18:45:50 -04",
+  "timestamp_utc": "2025-11-17T22:58:45.351372",
+  "actualizado_vzla": "2025-11-17 18:58:45 -04",
   "compra_segundo": {
-    "price": 338.999,
-    "name": "BakiGoodImport"
+    "price": 338.5,
+    "name": "Servic2009"
   },
   "venta_maxima": {
     "price": 337.6,
-    "name": "FinanceSecure"
+    "name": "Biyt"
   },
-  "promedio": 338.3,
+  "promedio": 338.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
