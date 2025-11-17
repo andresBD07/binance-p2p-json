@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T05:18:18.156152",
-  "actualizado_vzla": "2025-11-17 01:18:18 -04",
+  "timestamp_utc": "2025-11-17T05:40:41.715790",
+  "actualizado_vzla": "2025-11-17 01:40:41 -04",
   "compra_segundo": {
-    "price": 337.0,
-    "name": "ELpapaCripto"
+    "price": 337.8,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
     "price": 333.2,
     "name": "Quick Payment"
   },
-  "promedio": 335.1,
+  "promedio": 335.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
