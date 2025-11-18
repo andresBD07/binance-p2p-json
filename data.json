@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-17T23:55:26.276693",
-  "actualizado_vzla": "2025-11-17 19:55:26 -04",
+  "timestamp_utc": "2025-11-18T02:03:27.357508",
+  "actualizado_vzla": "2025-11-17 22:03:27 -04",
   "compra_segundo": {
-    "price": 338.299,
-    "name": "Duquessa"
+    "price": 342.25,
+    "name": "Reinny"
   },
   "venta_maxima": {
-    "price": 338.5,
-    "name": "Biyt"
+    "price": 339.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 338.4,
+  "promedio": 340.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
