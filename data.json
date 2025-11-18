@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T10:55:49.119309",
-  "actualizado_vzla": "2025-11-18 06:55:49 -04",
+  "timestamp_utc": "2025-11-18T11:24:55.458863",
+  "actualizado_vzla": "2025-11-18 07:24:55 -04",
   "compra_segundo": {
-    "price": 342.76,
-    "name": "ejecutivo-cripto"
+    "price": 341.999,
+    "name": "Grand-Exchange"
   },
   "venta_maxima": {
-    "price": 339.0,
-    "name": "Godisgift"
+    "price": 339.5,
+    "name": "Biyt"
   },
-  "promedio": 340.88,
+  "promedio": 340.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
