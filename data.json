@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T02:03:27.357508",
-  "actualizado_vzla": "2025-11-17 22:03:27 -04",
+  "timestamp_utc": "2025-11-18T03:19:04.636668",
+  "actualizado_vzla": "2025-11-17 23:19:04 -04",
   "compra_segundo": {
-    "price": 342.25,
-    "name": "Reinny"
+    "price": 342.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 339.5,
-    "name": "Child-CambioFacil"
+    "price": 339.0,
+    "name": "talepagos"
   },
-  "promedio": 340.88,
+  "promedio": 340.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
