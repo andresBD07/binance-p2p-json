@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T18:21:10.094348",
-  "actualizado_vzla": "2025-11-18 14:21:10 -04",
+  "timestamp_utc": "2025-11-18T18:50:47.402995",
+  "actualizado_vzla": "2025-11-18 14:50:47 -04",
   "compra_segundo": {
-    "price": 342.87,
-    "name": "quiander08"
+    "price": 341.998,
+    "name": "Cambios_Jear"
   },
   "venta_maxima": {
-    "price": 341.7,
-    "name": "talepagos"
+    "price": 342.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 342.28,
+  "promedio": 342.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
