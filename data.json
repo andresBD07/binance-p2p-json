@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T15:49:58.654647",
-  "actualizado_vzla": "2025-11-18 11:49:58 -04",
+  "timestamp_utc": "2025-11-18T16:19:01.935941",
+  "actualizado_vzla": "2025-11-18 12:19:01 -04",
   "compra_segundo": {
-    "price": 346.99,
-    "name": "Trading_professional"
+    "price": 347.81,
+    "name": "Shar-KExchange"
   },
   "venta_maxima": {
-    "price": 346.0,
-    "name": "SmartSolutionn"
+    "price": 346.27,
+    "name": "FinanceSecure"
   },
-  "promedio": 346.5,
+  "promedio": 347.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
