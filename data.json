@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-18T12:54:05.971818",
-  "actualizado_vzla": "2025-11-18 08:54:05 -04",
+  "timestamp_utc": "2025-11-18T13:34:34.024288",
+  "actualizado_vzla": "2025-11-18 09:34:34 -04",
   "compra_segundo": {
     "price": 342.9,
-    "name": "JaviSwap"
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
     "price": 342.0,
-    "name": "Godisgift"
+    "name": "SmartSolutionn"
   },
   "promedio": 342.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
