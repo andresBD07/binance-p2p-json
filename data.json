@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T07:56:43.493906",
-  "actualizado_vzla": "2025-11-18 03:56:43 -04",
+  "timestamp_utc": "2025-11-18T08:36:44.664182",
+  "actualizado_vzla": "2025-11-18 04:36:44 -04",
   "compra_segundo": {
-    "price": 344.99,
-    "name": "Justcrip18"
+    "price": 344.9,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
     "price": 339.0,
     "name": "Godisgift"
   },
-  "promedio": 342.0,
+  "promedio": 341.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
