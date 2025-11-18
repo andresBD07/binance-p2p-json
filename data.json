@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T13:34:34.024288",
-  "actualizado_vzla": "2025-11-18 09:34:34 -04",
+  "timestamp_utc": "2025-11-18T13:51:50.550424",
+  "actualizado_vzla": "2025-11-18 09:51:50 -04",
   "compra_segundo": {
-    "price": 342.9,
-    "name": "Guayoyoo"
+    "price": 342.89,
+    "name": "Trader_MVG"
   },
   "venta_maxima": {
-    "price": 342.0,
+    "price": 342.5,
     "name": "SmartSolutionn"
   },
-  "promedio": 342.45,
+  "promedio": 342.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
