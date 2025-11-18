@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T23:21:07.892231",
-  "actualizado_vzla": "2025-11-18 19:21:07 -04",
+  "timestamp_utc": "2025-11-18T23:35:16.362902",
+  "actualizado_vzla": "2025-11-18 19:35:16 -04",
   "compra_segundo": {
-    "price": 341.05,
-    "name": "AlejandrojP2P"
+    "price": 341.0,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 340.05,
-    "name": "GoldenLion_"
+    "price": 339.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 340.55,
+  "promedio": 340.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
