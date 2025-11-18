@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T09:30:37.753649",
-  "actualizado_vzla": "2025-11-18 05:30:37 -04",
+  "timestamp_utc": "2025-11-18T09:48:09.584120",
+  "actualizado_vzla": "2025-11-18 05:48:09 -04",
   "compra_segundo": {
-    "price": 343.944,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 343.499,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
     "price": 339.0,
     "name": "Godisgift"
   },
-  "promedio": 341.47,
+  "promedio": 341.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
