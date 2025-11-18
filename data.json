@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T15:30:49.727686",
-  "actualizado_vzla": "2025-11-18 11:30:49 -04",
+  "timestamp_utc": "2025-11-18T15:49:58.654647",
+  "actualizado_vzla": "2025-11-18 11:49:58 -04",
   "compra_segundo": {
-    "price": 346.3,
-    "name": "M3rlinBTC"
+    "price": 346.99,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 345.502,
-    "name": "Whale-SharkCrypto"
+    "price": 346.0,
+    "name": "SmartSolutionn"
   },
-  "promedio": 345.9,
+  "promedio": 346.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
