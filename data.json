@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T16:19:01.935941",
-  "actualizado_vzla": "2025-11-18 12:19:01 -04",
+  "timestamp_utc": "2025-11-18T16:49:38.314813",
+  "actualizado_vzla": "2025-11-18 12:49:38 -04",
   "compra_segundo": {
-    "price": 347.81,
-    "name": "Shar-KExchange"
+    "price": 347.0,
+    "name": "CAMBIOSJLR"
   },
   "venta_maxima": {
-    "price": 346.27,
+    "price": 347.0,
     "name": "FinanceSecure"
   },
-  "promedio": 347.04,
+  "promedio": 347.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
