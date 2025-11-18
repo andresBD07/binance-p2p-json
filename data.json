@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T22:20:59.336980",
-  "actualizado_vzla": "2025-11-18 18:20:59 -04",
+  "timestamp_utc": "2025-11-18T22:40:44.643343",
+  "actualizado_vzla": "2025-11-18 18:40:44 -04",
   "compra_segundo": {
-    "price": 341.8,
-    "name": "Cambios_Deluxe"
+    "price": 341.05,
+    "name": "AlejandrojP2P"
   },
   "venta_maxima": {
-    "price": 343.1,
-    "name": "SmartSolutionn"
+    "price": 342.101,
+    "name": "GoldenLion_"
   },
-  "promedio": 342.45,
+  "promedio": 341.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
