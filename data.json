@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T14:41:46.884395",
-  "actualizado_vzla": "2025-11-18 10:41:46 -04",
+  "timestamp_utc": "2025-11-18T14:55:35.096296",
+  "actualizado_vzla": "2025-11-18 10:55:35 -04",
   "compra_segundo": {
-    "price": 344.4,
-    "name": "IA_CORPORATE"
+    "price": 345.0,
+    "name": "GOMEZTUSOLUCION"
   },
   "venta_maxima": {
-    "price": 343.9,
+    "price": 344.0,
     "name": "SmartSolutionn"
   },
-  "promedio": 344.15,
+  "promedio": 344.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
