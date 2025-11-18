@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-18T05:59:59.657299",
-  "actualizado_vzla": "2025-11-18 01:59:59 -04",
+  "timestamp_utc": "2025-11-18T06:42:00.157035",
+  "actualizado_vzla": "2025-11-18 02:42:00 -04",
   "compra_segundo": {
-    "price": 343.995,
-    "name": "INGENERIA_D_CAMBIO"
+    "price": 344.0,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
     "price": 339.0,
