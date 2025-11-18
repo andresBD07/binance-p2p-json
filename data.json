@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T21:53:16.872732",
-  "actualizado_vzla": "2025-11-18 17:53:16 -04",
+  "timestamp_utc": "2025-11-18T22:20:59.336980",
+  "actualizado_vzla": "2025-11-18 18:20:59 -04",
   "compra_segundo": {
-    "price": 341.5,
-    "name": "Lunicrypto"
+    "price": 341.8,
+    "name": "Cambios_Deluxe"
   },
   "venta_maxima": {
-    "price": 343.0,
-    "name": "FinanceSecure"
+    "price": 343.1,
+    "name": "SmartSolutionn"
   },
-  "promedio": 342.25,
+  "promedio": 342.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
