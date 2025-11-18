@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T23:35:16.362902",
-  "actualizado_vzla": "2025-11-18 19:35:16 -04",
+  "timestamp_utc": "2025-11-18T23:48:29.167764",
+  "actualizado_vzla": "2025-11-18 19:48:29 -04",
   "compra_segundo": {
-    "price": 341.0,
-    "name": "MikasaExchange"
+    "price": 340.745,
+    "name": "CambiosJhonny06"
   },
   "venta_maxima": {
-    "price": 339.5,
-    "name": "-Godgiven-"
+    "price": 339.1,
+    "name": "T1_______"
   },
-  "promedio": 340.25,
+  "promedio": 339.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
