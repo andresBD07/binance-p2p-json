@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T11:41:46.341970",
-  "actualizado_vzla": "2025-11-18 07:41:46 -04",
+  "timestamp_utc": "2025-11-18T11:54:58.877898",
+  "actualizado_vzla": "2025-11-18 07:54:58 -04",
   "compra_segundo": {
-    "price": 341.499,
-    "name": "GJA_25"
+    "price": 341.0,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
-    "price": 339.5,
-    "name": "Biyt"
+    "price": 341.0,
+    "name": "Godisgift"
   },
-  "promedio": 340.5,
+  "promedio": 341.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
