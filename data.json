@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T10:12:13.795336",
-  "actualizado_vzla": "2025-11-18 06:12:13 -04",
+  "timestamp_utc": "2025-11-18T10:42:03.105318",
+  "actualizado_vzla": "2025-11-18 06:42:03 -04",
   "compra_segundo": {
-    "price": 342.85,
-    "name": "Avrisiel"
+    "price": 342.76,
+    "name": "ejecutivo-cripto"
   },
   "venta_maxima": {
     "price": 339.0,
     "name": "Godisgift"
   },
-  "promedio": 340.93,
+  "promedio": 340.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
