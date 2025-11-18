@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T19:23:31.254815",
-  "actualizado_vzla": "2025-11-18 15:23:31 -04",
+  "timestamp_utc": "2025-11-18T19:28:17.910336",
+  "actualizado_vzla": "2025-11-18 15:28:17 -04",
   "compra_segundo": {
-    "price": 342.85,
-    "name": "PagoRapido_P2P"
+    "price": 342.999,
+    "name": "水猴"
   },
   "venta_maxima": {
     "price": 342.5,
     "name": "FinanceSecure"
   },
-  "promedio": 342.68,
+  "promedio": 342.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
