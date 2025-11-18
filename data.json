@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T04:28:54.741088",
-  "actualizado_vzla": "2025-11-18 00:28:54 -04",
+  "timestamp_utc": "2025-11-18T04:47:36.798354",
+  "actualizado_vzla": "2025-11-18 00:47:36 -04",
   "compra_segundo": {
-    "price": 342.49,
-    "name": "Dinero-Seguro"
+    "price": 342.8,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
-    "price": 338.0,
-    "name": "Marketplace66"
+    "price": 339.0,
+    "name": "Godisgift"
   },
-  "promedio": 340.25,
+  "promedio": 340.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
