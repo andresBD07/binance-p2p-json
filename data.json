@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T17:12:07.988309",
-  "actualizado_vzla": "2025-11-18 13:12:07 -04",
+  "timestamp_utc": "2025-11-18T17:35:51.220407",
+  "actualizado_vzla": "2025-11-18 13:35:51 -04",
   "compra_segundo": {
-    "price": 346.199,
-    "name": "Hiroma"
+    "price": 345.41,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 347.0,
+    "price": 346.0,
     "name": "FinanceSecure"
   },
-  "promedio": 346.6,
+  "promedio": 345.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
