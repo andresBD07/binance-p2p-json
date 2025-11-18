@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T13:51:50.550424",
-  "actualizado_vzla": "2025-11-18 09:51:50 -04",
+  "timestamp_utc": "2025-11-18T14:18:24.558773",
+  "actualizado_vzla": "2025-11-18 10:18:24 -04",
   "compra_segundo": {
-    "price": 342.89,
-    "name": "Trader_MVG"
+    "price": 343.5,
+    "name": "MikasaAckerman"
   },
   "venta_maxima": {
-    "price": 342.5,
+    "price": 343.9,
     "name": "SmartSolutionn"
   },
-  "promedio": 342.69,
+  "promedio": 343.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
