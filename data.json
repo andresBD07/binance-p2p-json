@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T07:43:30.837088",
-  "actualizado_vzla": "2025-11-18 03:43:30 -04",
+  "timestamp_utc": "2025-11-18T07:56:43.493906",
+  "actualizado_vzla": "2025-11-18 03:56:43 -04",
   "compra_segundo": {
-    "price": 344.98,
-    "name": "KobyTrader"
+    "price": 344.99,
+    "name": "Justcrip18"
   },
   "venta_maxima": {
     "price": 339.0,
     "name": "Godisgift"
   },
-  "promedio": 341.99,
+  "promedio": 342.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
