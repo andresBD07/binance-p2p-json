@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-18T11:24:55.458863",
-  "actualizado_vzla": "2025-11-18 07:24:55 -04",
+  "timestamp_utc": "2025-11-18T11:41:46.341970",
+  "actualizado_vzla": "2025-11-18 07:41:46 -04",
   "compra_segundo": {
-    "price": 341.999,
-    "name": "Grand-Exchange"
+    "price": 341.499,
+    "name": "GJA_25"
   },
   "venta_maxima": {
     "price": 339.5,
     "name": "Biyt"
   },
-  "promedio": 340.75,
+  "promedio": 340.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
