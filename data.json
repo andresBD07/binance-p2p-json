@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T21:36:06.090545",
-  "actualizado_vzla": "2025-11-19 17:36:06 -04",
+  "timestamp_utc": "2025-11-19T21:49:34.190019",
+  "actualizado_vzla": "2025-11-19 17:49:34 -04",
   "compra_segundo": {
     "price": 343.95,
-    "name": "FastEG"
+    "name": "Coinlu"
   },
   "venta_maxima": {
-    "price": 343.7,
+    "price": 343.52,
     "name": "NicTin08"
   },
-  "promedio": 343.82,
+  "promedio": 343.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
