@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T15:58:44.161729",
-  "actualizado_vzla": "2025-11-19 11:58:44 -04",
+  "timestamp_utc": "2025-11-19T16:37:46.514994",
+  "actualizado_vzla": "2025-11-19 12:37:46 -04",
   "compra_segundo": {
-    "price": 342.2,
-    "name": "_AliExpress_"
+    "price": 342.398,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 341.701,
-    "name": "VECTURAFX"
+    "price": 341.7,
+    "name": "Gustavo129"
   },
-  "promedio": 341.95,
+  "promedio": 342.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
