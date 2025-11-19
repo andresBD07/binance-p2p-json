@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T17:42:00.698095",
-  "actualizado_vzla": "2025-11-19 13:42:00 -04",
+  "timestamp_utc": "2025-11-19T17:55:18.238713",
+  "actualizado_vzla": "2025-11-19 13:55:18 -04",
   "compra_segundo": {
-    "price": 341.748,
-    "name": "Gibit"
+    "price": 341.7,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 341.0,
-    "name": "Gustavo129"
+    "price": 341.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 341.37,
+  "promedio": 341.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
