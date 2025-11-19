@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T15:00:32.854010",
-  "actualizado_vzla": "2025-11-19 11:00:32 -04",
+  "timestamp_utc": "2025-11-19T15:30:36.255761",
+  "actualizado_vzla": "2025-11-19 11:30:36 -04",
   "compra_segundo": {
-    "price": 341.75,
-    "name": "SCambios"
+    "price": 341.998,
+    "name": "CAMBIOEXPRES-JG"
   },
   "venta_maxima": {
-    "price": 341.0,
-    "name": "FinanceSecure"
+    "price": 341.501,
+    "name": "VECTURAFX"
   },
-  "promedio": 341.38,
+  "promedio": 341.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
