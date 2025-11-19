@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T13:38:10.606761",
-  "actualizado_vzla": "2025-11-19 09:38:10 -04",
+  "timestamp_utc": "2025-11-19T13:54:34.266344",
+  "actualizado_vzla": "2025-11-19 09:54:34 -04",
   "compra_segundo": {
-    "price": 344.599,
-    "name": "angels123"
+    "price": 344.09,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 342.502,
-    "name": "Whale-SharkCrypto"
+    "price": 342.65,
+    "name": "jonax"
   },
-  "promedio": 343.55,
+  "promedio": 343.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
