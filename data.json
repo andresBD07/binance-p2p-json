@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T20:28:15.154011",
-  "actualizado_vzla": "2025-11-19 16:28:15 -04",
+  "timestamp_utc": "2025-11-19T20:43:18.021207",
+  "actualizado_vzla": "2025-11-19 16:43:18 -04",
   "compra_segundo": {
-    "price": 342.999,
-    "name": "Marquez25"
+    "price": 343.4,
+    "name": "HidrotornoCA"
   },
   "venta_maxima": {
-    "price": 341.5,
+    "price": 342.0,
     "name": "Gustavo129"
   },
-  "promedio": 342.25,
+  "promedio": 342.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
