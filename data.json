@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T20:56:39.331616",
-  "actualizado_vzla": "2025-11-19 16:56:39 -04",
+  "timestamp_utc": "2025-11-19T21:21:50.580963",
+  "actualizado_vzla": "2025-11-19 17:21:50 -04",
   "compra_segundo": {
-    "price": 343.7,
-    "name": "RebeP2P"
+    "price": 343.96,
+    "name": "RM-CAMBIOS"
   },
   "venta_maxima": {
-    "price": 342.0,
+    "price": 343.0,
     "name": "Gustavo129"
   },
-  "promedio": 342.85,
+  "promedio": 343.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
