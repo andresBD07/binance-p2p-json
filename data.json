@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T17:55:18.238713",
-  "actualizado_vzla": "2025-11-19 13:55:18 -04",
+  "timestamp_utc": "2025-11-19T18:38:37.583067",
+  "actualizado_vzla": "2025-11-19 14:38:37 -04",
   "compra_segundo": {
-    "price": 341.7,
-    "name": "Guayoyoo"
+    "price": 341.89,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
-    "price": 341.5,
-    "name": "-Godgiven-"
+    "price": 341.0,
+    "name": "C_Pagos"
   },
-  "promedio": 341.6,
+  "promedio": 341.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
