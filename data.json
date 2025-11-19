@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T02:27:58.644895",
-  "actualizado_vzla": "2025-11-18 22:27:58 -04",
+  "timestamp_utc": "2025-11-19T03:33:44.394208",
+  "actualizado_vzla": "2025-11-18 23:33:44 -04",
   "compra_segundo": {
-    "price": 342.999,
-    "name": "Cambia-Seguro-01"
+    "price": 343.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 340.3,
-    "name": "AndradeGasconTITULAR"
+    "price": 340.65,
+    "name": "rrmadrid92"
   },
-  "promedio": 341.65,
+  "promedio": 341.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
