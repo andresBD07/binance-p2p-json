@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T04:33:55.468596",
-  "actualizado_vzla": "2025-11-19 00:33:55 -04",
+  "timestamp_utc": "2025-11-19T04:50:53.868573",
+  "actualizado_vzla": "2025-11-19 00:50:53 -04",
   "compra_segundo": {
     "price": 344.0,
     "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 342.1,
-    "name": "TuCambioYa_"
+    "price": 342.0,
+    "name": "Godisgift"
   },
-  "promedio": 343.05,
+  "promedio": 343.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
