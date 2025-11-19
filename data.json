@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T11:09:22.276953",
-  "actualizado_vzla": "2025-11-19 07:09:22 -04",
+  "timestamp_utc": "2025-11-19T11:29:22.551185",
+  "actualizado_vzla": "2025-11-19 07:29:22 -04",
   "compra_segundo": {
-    "price": 344.0,
-    "name": "AllTraders"
+    "price": 343.6,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
     "price": 342.0,
     "name": "Godisgift"
   },
-  "promedio": 343.0,
+  "promedio": 342.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
