@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T15:45:33.239179",
-  "actualizado_vzla": "2025-11-19 11:45:33 -04",
+  "timestamp_utc": "2025-11-19T15:58:44.161729",
+  "actualizado_vzla": "2025-11-19 11:58:44 -04",
   "compra_segundo": {
-    "price": 342.0,
-    "name": "Numero-18"
+    "price": 342.2,
+    "name": "_AliExpress_"
   },
   "venta_maxima": {
-    "price": 341.6,
-    "name": "All-inCrypto"
+    "price": 341.701,
+    "name": "VECTURAFX"
   },
-  "promedio": 341.8,
+  "promedio": 341.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
