@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T18:54:02.586676",
-  "actualizado_vzla": "2025-11-19 14:54:02 -04",
+  "timestamp_utc": "2025-11-19T19:19:15.686655",
+  "actualizado_vzla": "2025-11-19 15:19:15 -04",
   "compra_segundo": {
-    "price": 341.9,
-    "name": "Shibundo"
+    "price": 342.2,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 340.5,
-    "name": "-Godgiven-"
+    "price": 341.0,
+    "name": "C_Pagos"
   },
-  "promedio": 341.2,
+  "promedio": 341.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
