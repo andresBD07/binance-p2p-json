@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T03:33:44.394208",
-  "actualizado_vzla": "2025-11-18 23:33:44 -04",
+  "timestamp_utc": "2025-11-19T03:58:54.187625",
+  "actualizado_vzla": "2025-11-18 23:58:54 -04",
   "compra_segundo": {
-    "price": 343.0,
-    "name": "cambiosaular"
+    "price": 343.8,
+    "name": "Neobroker"
   },
   "venta_maxima": {
-    "price": 340.65,
-    "name": "rrmadrid92"
+    "price": 340.5,
+    "name": "Exotico"
   },
-  "promedio": 341.82,
+  "promedio": 342.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
