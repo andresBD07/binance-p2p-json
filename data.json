@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T21:21:50.580963",
-  "actualizado_vzla": "2025-11-19 17:21:50 -04",
+  "timestamp_utc": "2025-11-19T21:36:06.090545",
+  "actualizado_vzla": "2025-11-19 17:36:06 -04",
   "compra_segundo": {
-    "price": 343.96,
-    "name": "RM-CAMBIOS"
+    "price": 343.95,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 343.0,
-    "name": "Gustavo129"
+    "price": 343.7,
+    "name": "NicTin08"
   },
-  "promedio": 343.48,
+  "promedio": 343.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
