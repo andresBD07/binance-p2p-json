@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T11:43:38.002840",
-  "actualizado_vzla": "2025-11-19 07:43:38 -04",
+  "timestamp_utc": "2025-11-19T11:56:25.957613",
+  "actualizado_vzla": "2025-11-19 07:56:25 -04",
   "compra_segundo": {
-    "price": 343.9,
-    "name": "CriptoWaffle"
+    "price": 343.5,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
     "price": 342.0,
     "name": "Godisgift"
   },
-  "promedio": 342.95,
+  "promedio": 342.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
