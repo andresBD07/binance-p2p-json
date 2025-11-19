@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T16:37:46.514994",
-  "actualizado_vzla": "2025-11-19 12:37:46 -04",
+  "timestamp_utc": "2025-11-19T16:57:32.758738",
+  "actualizado_vzla": "2025-11-19 12:57:32 -04",
   "compra_segundo": {
-    "price": 342.398,
-    "name": "LAULAR87"
+    "price": 342.08,
+    "name": "CityGroup-VM"
   },
   "venta_maxima": {
-    "price": 341.7,
+    "price": 341.5,
     "name": "Gustavo129"
   },
-  "promedio": 342.05,
+  "promedio": 341.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
