@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T14:25:20.427743",
-  "actualizado_vzla": "2025-11-19 10:25:20 -04",
+  "timestamp_utc": "2025-11-19T14:47:32.691400",
+  "actualizado_vzla": "2025-11-19 10:47:32 -04",
   "compra_segundo": {
     "price": 341.8,
-    "name": "TradewCrypto"
+    "name": "REMESAS_M_L_Y_YORBIS"
   },
   "venta_maxima": {
-    "price": 342.5,
-    "name": "Gustavo129"
+    "price": 341.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 342.15,
+  "promedio": 341.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
