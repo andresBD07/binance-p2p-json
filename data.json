@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T23:10:48.932266",
-  "actualizado_vzla": "2025-11-19 19:10:48 -04",
+  "timestamp_utc": "2025-11-19T23:30:46.505954",
+  "actualizado_vzla": "2025-11-19 19:30:46 -04",
   "compra_segundo": {
-    "price": 344.59,
-    "name": "Cristh957"
+    "price": 344.7,
+    "name": "Neiker-Exchange"
   },
   "venta_maxima": {
     "price": 343.6,
     "name": "Gustavo129"
   },
-  "promedio": 344.1,
+  "promedio": 344.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
