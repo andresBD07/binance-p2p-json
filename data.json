@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T17:25:43.546243",
-  "actualizado_vzla": "2025-11-19 13:25:43 -04",
+  "timestamp_utc": "2025-11-19T17:42:00.698095",
+  "actualizado_vzla": "2025-11-19 13:42:00 -04",
   "compra_segundo": {
-    "price": 341.6,
-    "name": "TradewCrypto"
+    "price": 341.748,
+    "name": "Gibit"
   },
   "venta_maxima": {
-    "price": 340.75,
-    "name": "TuPagoRapido"
+    "price": 341.0,
+    "name": "Gustavo129"
   },
-  "promedio": 341.18,
+  "promedio": 341.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
