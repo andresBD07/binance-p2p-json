@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T10:28:09.070604",
-  "actualizado_vzla": "2025-11-19 06:28:09 -04",
+  "timestamp_utc": "2025-11-19T10:48:24.698495",
+  "actualizado_vzla": "2025-11-19 06:48:24 -04",
   "compra_segundo": {
-    "price": 344.997,
-    "name": "Capital Bloom"
+    "price": 344.85,
+    "name": "MyAngelHM"
   },
   "venta_maxima": {
     "price": 342.0,
     "name": "Godisgift"
   },
-  "promedio": 343.5,
+  "promedio": 343.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
