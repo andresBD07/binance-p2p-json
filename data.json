@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T11:56:25.957613",
-  "actualizado_vzla": "2025-11-19 07:56:25 -04",
+  "timestamp_utc": "2025-11-19T12:57:17.457679",
+  "actualizado_vzla": "2025-11-19 08:57:17 -04",
   "compra_segundo": {
-    "price": 343.5,
-    "name": "lamejoropcion"
+    "price": 343.27,
+    "name": "Crypto_InvestVEN"
   },
   "venta_maxima": {
-    "price": 342.0,
-    "name": "Godisgift"
+    "price": 341.201,
+    "name": "AryJr"
   },
-  "promedio": 342.75,
+  "promedio": 342.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
