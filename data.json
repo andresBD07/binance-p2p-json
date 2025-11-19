@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T05:52:24.883034",
-  "actualizado_vzla": "2025-11-19 01:52:24 -04",
+  "timestamp_utc": "2025-11-19T06:29:35.620621",
+  "actualizado_vzla": "2025-11-19 02:29:35 -04",
   "compra_segundo": {
-    "price": 345.899,
-    "name": "CryptoSickoP2P"
+    "price": 345.5,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
     "price": 342.0,
     "name": "Godisgift"
   },
-  "promedio": 343.95,
+  "promedio": 343.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
