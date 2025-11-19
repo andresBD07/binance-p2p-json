@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T22:35:15.608412",
-  "actualizado_vzla": "2025-11-19 18:35:15 -04",
+  "timestamp_utc": "2025-11-19T22:48:48.576916",
+  "actualizado_vzla": "2025-11-19 18:48:48 -04",
   "compra_segundo": {
-    "price": 344.499,
-    "name": "JJM_TRADER"
+    "price": 344.6,
+    "name": "N1-Casa_Cripto-N1"
   },
   "venta_maxima": {
-    "price": 343.001,
-    "name": "VR46-"
+    "price": 343.6,
+    "name": "Gustavo129"
   },
-  "promedio": 343.75,
+  "promedio": 344.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
