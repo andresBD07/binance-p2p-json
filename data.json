@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-19T20:43:18.021207",
-  "actualizado_vzla": "2025-11-19 16:43:18 -04",
+  "timestamp_utc": "2025-11-19T20:56:39.331616",
+  "actualizado_vzla": "2025-11-19 16:56:39 -04",
   "compra_segundo": {
-    "price": 343.4,
-    "name": "HidrotornoCA"
+    "price": 343.7,
+    "name": "RebeP2P"
   },
   "venta_maxima": {
     "price": 342.0,
     "name": "Gustavo129"
   },
-  "promedio": 342.7,
+  "promedio": 342.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
