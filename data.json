@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-20T05:45:16.426249",
-  "actualizado_vzla": "2025-11-20 01:45:16 -04",
+  "timestamp_utc": "2025-11-20T05:58:23.272227",
+  "actualizado_vzla": "2025-11-20 01:58:23 -04",
   "compra_segundo": {
-    "price": 348.998,
-    "name": "Reginald_TITULAR"
+    "price": 349.0,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
     "price": 343.56,
