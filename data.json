@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T16:34:08.639524",
-  "actualizado_vzla": "2025-11-20 12:34:08 -04",
+  "timestamp_utc": "2025-11-20T16:55:49.953466",
+  "actualizado_vzla": "2025-11-20 12:55:49 -04",
   "compra_segundo": {
-    "price": 346.05,
-    "name": "HidrotornoCA"
+    "price": 344.999,
+    "name": "Coinlu"
   },
   "venta_maxima": {
-    "price": 345.0,
-    "name": "EleguaOshun"
+    "price": 344.0,
+    "name": "AryJr"
   },
-  "promedio": 345.52,
+  "promedio": 344.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
