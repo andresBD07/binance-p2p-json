@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T11:57:28.063388",
-  "actualizado_vzla": "2025-11-20 07:57:28 -04",
+  "timestamp_utc": "2025-11-20T12:56:32.724150",
+  "actualizado_vzla": "2025-11-20 08:56:32 -04",
   "compra_segundo": {
-    "price": 346.2,
-    "name": "Coinlu"
+    "price": 345.828,
+    "name": "Exchange-JR"
   },
   "venta_maxima": {
-    "price": 344.2,
+    "price": 344.4,
     "name": "Gustavo129"
   },
-  "promedio": 345.2,
+  "promedio": 345.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
