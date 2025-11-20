@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T03:52:01.332732",
-  "actualizado_vzla": "2025-11-19 23:52:01 -04",
+  "timestamp_utc": "2025-11-20T04:20:51.624739",
+  "actualizado_vzla": "2025-11-20 00:20:51 -04",
   "compra_segundo": {
-    "price": 347.499,
-    "name": "tranfepolvogallo"
+    "price": 347.86,
+    "name": "Ekxprees"
   },
   "venta_maxima": {
     "price": 344.5,
     "name": "༯ShopxD༯"
   },
-  "promedio": 346.0,
+  "promedio": 346.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
