@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T17:21:44.126688",
-  "actualizado_vzla": "2025-11-20 13:21:44 -04",
+  "timestamp_utc": "2025-11-20T17:39:08.031058",
+  "actualizado_vzla": "2025-11-20 13:39:08 -04",
   "compra_segundo": {
-    "price": 344.565,
-    "name": "FlashCambios1"
+    "price": 344.3,
+    "name": "Trader_CambiosDigital"
   },
   "venta_maxima": {
-    "price": 343.3,
+    "price": 343.0,
     "name": "-Godgiven-"
   },
-  "promedio": 343.93,
+  "promedio": 343.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
