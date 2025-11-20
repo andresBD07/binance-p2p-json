@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T21:53:32.293775",
-  "actualizado_vzla": "2025-11-20 17:53:32 -04",
+  "timestamp_utc": "2025-11-20T22:19:41.134298",
+  "actualizado_vzla": "2025-11-20 18:19:41 -04",
   "compra_segundo": {
-    "price": 346.369,
-    "name": "CryptoSickoP2P"
+    "price": 346.76,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
-    "price": 345.8,
+    "price": 346.3,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.08,
+  "promedio": 346.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
