@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T04:20:51.624739",
-  "actualizado_vzla": "2025-11-20 00:20:51 -04",
+  "timestamp_utc": "2025-11-20T04:42:33.330917",
+  "actualizado_vzla": "2025-11-20 00:42:33 -04",
   "compra_segundo": {
-    "price": 347.86,
-    "name": "Ekxprees"
+    "price": 347.999,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 344.5,
-    "name": "༯ShopxD༯"
+    "price": 344.0,
+    "name": "Cambioscorleone"
   },
-  "promedio": 346.18,
+  "promedio": 346.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
