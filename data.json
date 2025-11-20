@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T22:50:22.308138",
-  "actualizado_vzla": "2025-11-20 18:50:22 -04",
+  "timestamp_utc": "2025-11-20T23:13:49.722158",
+  "actualizado_vzla": "2025-11-20 19:13:49 -04",
   "compra_segundo": {
-    "price": 346.97,
-    "name": "TheMerchanTHM"
+    "price": 347.16,
+    "name": "Pivot_05"
   },
   "venta_maxima": {
-    "price": 346.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 346.3,
+    "name": "ALASKA-"
   },
-  "promedio": 346.74,
+  "promedio": 346.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
