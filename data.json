@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T14:52:04.905977",
-  "actualizado_vzla": "2025-11-20 10:52:04 -04",
+  "timestamp_utc": "2025-11-20T15:19:48.524666",
+  "actualizado_vzla": "2025-11-20 11:19:48 -04",
   "compra_segundo": {
-    "price": 343.999,
-    "name": "ABDO"
+    "price": 344.85,
+    "name": "RiddleTrader1998"
   },
   "venta_maxima": {
-    "price": 343.0,
-    "name": "-Godgiven-"
+    "price": 344.202,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 343.5,
+  "promedio": 344.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
