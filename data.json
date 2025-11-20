@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T14:14:26.357559",
-  "actualizado_vzla": "2025-11-20 10:14:26 -04",
+  "timestamp_utc": "2025-11-20T14:38:36.471544",
+  "actualizado_vzla": "2025-11-20 10:38:36 -04",
   "compra_segundo": {
-    "price": 343.964,
-    "name": "CAMBIOEXPRES-JG"
+    "price": 344.0,
+    "name": "REMESAFG"
   },
   "venta_maxima": {
-    "price": 342.5,
-    "name": "-Godgiven-"
+    "price": 342.702,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 343.23,
+  "promedio": 343.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
