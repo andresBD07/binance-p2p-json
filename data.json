@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T23:46:25.184712",
-  "actualizado_vzla": "2025-11-20 19:46:25 -04",
+  "timestamp_utc": "2025-11-20T23:57:41.357563",
+  "actualizado_vzla": "2025-11-20 19:57:41 -04",
   "compra_segundo": {
-    "price": 347.22,
-    "name": "RapidEnvios"
+    "price": 347.4,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
-    "price": 346.5,
-    "name": "VR46-"
+    "price": 346.35,
+    "name": "-Godgiven-"
   },
-  "promedio": 346.86,
+  "promedio": 346.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
