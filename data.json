@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T15:41:26.001165",
-  "actualizado_vzla": "2025-11-20 11:41:26 -04",
+  "timestamp_utc": "2025-11-20T15:55:00.387026",
+  "actualizado_vzla": "2025-11-20 11:55:00 -04",
   "compra_segundo": {
-    "price": 345.6,
-    "name": "CambiosRubiexpress"
+    "price": 345.9,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 345.1,
-    "name": "NicTin08"
+    "price": 345.2,
+    "name": "OTCLEGEND"
   },
-  "promedio": 345.35,
+  "promedio": 345.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
