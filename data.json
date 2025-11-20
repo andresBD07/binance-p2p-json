@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T22:19:41.134298",
-  "actualizado_vzla": "2025-11-20 18:19:41 -04",
+  "timestamp_utc": "2025-11-20T22:37:10.802887",
+  "actualizado_vzla": "2025-11-20 18:37:10 -04",
   "compra_segundo": {
-    "price": 346.76,
-    "name": "InvMiggy"
+    "price": 346.79,
+    "name": "DJ-Trader"
   },
   "venta_maxima": {
-    "price": 346.3,
+    "price": 346.5,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.53,
+  "promedio": 346.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
