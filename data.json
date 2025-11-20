@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T21:26:21.252075",
-  "actualizado_vzla": "2025-11-20 17:26:21 -04",
+  "timestamp_utc": "2025-11-20T21:40:40.818683",
+  "actualizado_vzla": "2025-11-20 17:40:40 -04",
   "compra_segundo": {
-    "price": 346.65,
-    "name": "casacambiosRodriguez"
+    "price": 346.4,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
-    "price": 345.1,
-    "name": "chango_pay"
+    "price": 345.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 345.88,
+  "promedio": 345.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
