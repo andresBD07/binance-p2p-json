@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T02:03:52.477953",
-  "actualizado_vzla": "2025-11-19 22:03:52 -04",
+  "timestamp_utc": "2025-11-20T03:17:20.964636",
+  "actualizado_vzla": "2025-11-19 23:17:20 -04",
   "compra_segundo": {
-    "price": 346.97,
-    "name": "MolinaJP_"
+    "price": 347.4,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 343.9,
-    "name": "Burdyn"
+    "price": 344.35,
+    "name": "Cambioscorleone"
   },
-  "promedio": 345.44,
+  "promedio": 345.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
