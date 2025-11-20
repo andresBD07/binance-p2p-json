@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T10:50:33.292636",
-  "actualizado_vzla": "2025-11-20 06:50:33 -04",
+  "timestamp_utc": "2025-11-20T11:13:34.541879",
+  "actualizado_vzla": "2025-11-20 07:13:34 -04",
   "compra_segundo": {
-    "price": 346.99,
-    "name": "Yossetmz"
+    "price": 346.6,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
-    "price": 343.202,
-    "name": "Donnacambios24h"
+    "price": 343.2,
+    "name": "Gustavo129"
   },
-  "promedio": 345.1,
+  "promedio": 344.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
