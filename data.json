@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T06:57:38.531217",
-  "actualizado_vzla": "2025-11-20 02:57:38 -04",
+  "timestamp_utc": "2025-11-20T07:27:12.768650",
+  "actualizado_vzla": "2025-11-20 03:27:12 -04",
   "compra_segundo": {
-    "price": 349.35,
+    "price": 349.33,
     "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 343.21,
-    "name": "DGOLDGIROS"
+    "price": 342.86,
+    "name": "Criptotur"
   },
-  "promedio": 346.28,
+  "promedio": 346.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
