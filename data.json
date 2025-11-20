@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T21:40:40.818683",
-  "actualizado_vzla": "2025-11-20 17:40:40 -04",
+  "timestamp_utc": "2025-11-20T21:53:32.293775",
+  "actualizado_vzla": "2025-11-20 17:53:32 -04",
   "compra_segundo": {
-    "price": 346.4,
-    "name": "RAULITO2809"
+    "price": 346.369,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
-    "price": 345.5,
+    "price": 345.8,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 345.95,
+  "promedio": 346.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
