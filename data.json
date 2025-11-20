@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T19:58:39.992443",
-  "actualizado_vzla": "2025-11-20 15:58:40 -04",
+  "timestamp_utc": "2025-11-20T20:32:27.011522",
+  "actualizado_vzla": "2025-11-20 16:32:27 -04",
   "compra_segundo": {
-    "price": 346.29,
-    "name": "JJM_TRADER"
+    "price": 346.52,
+    "name": "Tether Premium "
   },
   "venta_maxima": {
-    "price": 345.5,
-    "name": "carluchinl"
+    "price": 345.2,
+    "name": "GREEN78"
   },
-  "promedio": 345.89,
+  "promedio": 345.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
