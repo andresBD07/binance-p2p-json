@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T05:58:23.272227",
-  "actualizado_vzla": "2025-11-20 01:58:23 -04",
+  "timestamp_utc": "2025-11-20T06:40:11.161831",
+  "actualizado_vzla": "2025-11-20 02:40:11 -04",
   "compra_segundo": {
     "price": 349.0,
     "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 343.56,
-    "name": "AndradeGasconTITULAR"
+    "price": 343.22,
+    "name": "TuCambioYa_"
   },
-  "promedio": 346.28,
+  "promedio": 346.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
