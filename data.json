@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T23:13:49.722158",
-  "actualizado_vzla": "2025-11-20 19:13:49 -04",
+  "timestamp_utc": "2025-11-20T23:32:08.758926",
+  "actualizado_vzla": "2025-11-20 19:32:08 -04",
   "compra_segundo": {
-    "price": 347.16,
-    "name": "Pivot_05"
+    "price": 347.269,
+    "name": "Atraderspkj"
   },
   "venta_maxima": {
-    "price": 346.3,
-    "name": "ALASKA-"
+    "price": 346.35,
+    "name": "-Godgiven-"
   },
-  "promedio": 346.73,
+  "promedio": 346.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
