@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-20T07:27:12.768650",
-  "actualizado_vzla": "2025-11-20 03:27:12 -04",
+  "timestamp_utc": "2025-11-20T07:42:39.340388",
+  "actualizado_vzla": "2025-11-20 03:42:39 -04",
   "compra_segundo": {
     "price": 349.33,
     "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 342.86,
-    "name": "Criptotur"
+    "price": 342.861,
+    "name": "TuCambioYa_"
   },
   "promedio": 346.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
