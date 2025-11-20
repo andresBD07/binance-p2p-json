@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T10:32:57.827751",
-  "actualizado_vzla": "2025-11-20 06:32:57 -04",
+  "timestamp_utc": "2025-11-20T10:50:33.292636",
+  "actualizado_vzla": "2025-11-20 06:50:33 -04",
   "compra_segundo": {
-    "price": 347.89,
-    "name": "Trader_MVG"
+    "price": 346.99,
+    "name": "Yossetmz"
   },
   "venta_maxima": {
-    "price": 342.752,
-    "name": "forex25"
+    "price": 343.202,
+    "name": "Donnacambios24h"
   },
-  "promedio": 345.32,
+  "promedio": 345.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
