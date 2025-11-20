@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T15:55:00.387026",
-  "actualizado_vzla": "2025-11-20 11:55:00 -04",
+  "timestamp_utc": "2025-11-20T16:34:08.639524",
+  "actualizado_vzla": "2025-11-20 12:34:08 -04",
   "compra_segundo": {
-    "price": 345.9,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 346.05,
+    "name": "HidrotornoCA"
   },
   "venta_maxima": {
-    "price": 345.2,
-    "name": "OTCLEGEND"
+    "price": 345.0,
+    "name": "EleguaOshun"
   },
-  "promedio": 345.55,
+  "promedio": 345.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
