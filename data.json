@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T05:27:36.841390",
-  "actualizado_vzla": "2025-11-20 01:27:36 -04",
+  "timestamp_utc": "2025-11-20T05:45:16.426249",
+  "actualizado_vzla": "2025-11-20 01:45:16 -04",
   "compra_segundo": {
-    "price": 348.9,
-    "name": "Mero-Mero"
+    "price": 348.998,
+    "name": "Reginald_TITULAR"
   },
   "venta_maxima": {
     "price": 343.56,
     "name": "AndradeGasconTITULAR"
   },
-  "promedio": 346.23,
+  "promedio": 346.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
