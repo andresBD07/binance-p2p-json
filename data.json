@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T02:05:05.343922",
-  "actualizado_vzla": "2025-11-20 22:05:05 -04",
+  "timestamp_utc": "2025-11-21T03:18:02.624637",
+  "actualizado_vzla": "2025-11-20 23:18:02 -04",
   "compra_segundo": {
-    "price": 347.35,
-    "name": "DxvidExchange"
+    "price": 347.398,
+    "name": "Dinero-Seguro"
   },
   "venta_maxima": {
-    "price": 346.0,
-    "name": "edwardgoldchhh"
+    "price": 345.2,
+    "name": "Exotico"
   },
-  "promedio": 346.68,
+  "promedio": 346.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
