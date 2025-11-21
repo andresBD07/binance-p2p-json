@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T08:56:14.242769",
-  "actualizado_vzla": "2025-11-21 04:56:14 -04",
+  "timestamp_utc": "2025-11-21T09:29:14.886014",
+  "actualizado_vzla": "2025-11-21 05:29:14 -04",
   "compra_segundo": {
-    "price": 348.4,
-    "name": "CorvoMecanique"
+    "price": 348.29,
+    "name": "Criptotur"
   },
   "venta_maxima": {
     "price": 344.81,
     "name": "Criptotur"
   },
-  "promedio": 346.61,
+  "promedio": 346.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
