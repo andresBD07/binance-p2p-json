@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-20T23:57:41.357563",
-  "actualizado_vzla": "2025-11-20 19:57:41 -04",
+  "timestamp_utc": "2025-11-21T02:05:05.343922",
+  "actualizado_vzla": "2025-11-20 22:05:05 -04",
   "compra_segundo": {
-    "price": 347.4,
-    "name": "NexusBlock"
+    "price": 347.35,
+    "name": "DxvidExchange"
   },
   "venta_maxima": {
-    "price": 346.35,
-    "name": "-Godgiven-"
+    "price": 346.0,
+    "name": "edwardgoldchhh"
   },
-  "promedio": 346.88,
+  "promedio": 346.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
