@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T03:52:10.608593",
-  "actualizado_vzla": "2025-11-20 23:52:10 -04",
+  "timestamp_utc": "2025-11-21T04:22:14.803231",
+  "actualizado_vzla": "2025-11-21 00:22:14 -04",
   "compra_segundo": {
-    "price": 347.45,
-    "name": "DopaP2P"
+    "price": 347.9,
+    "name": "Al3ss0"
   },
   "venta_maxima": {
-    "price": 345.905,
-    "name": "Marquez25"
+    "price": 345.4,
+    "name": "Exotico"
   },
-  "promedio": 346.68,
+  "promedio": 346.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
