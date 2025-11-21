@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T14:34:39.013565",
-  "actualizado_vzla": "2025-11-21 10:34:39 -04",
+  "timestamp_utc": "2025-11-21T14:49:51.214233",
+  "actualizado_vzla": "2025-11-21 10:49:51 -04",
   "compra_segundo": {
-    "price": 344.799,
-    "name": "Christiancinho"
+    "price": 344.299,
+    "name": "LEMONCHANGE"
   },
   "venta_maxima": {
-    "price": 344.1,
-    "name": "KillKeroy"
+    "price": 342.8,
+    "name": "TuPagoRapido"
   },
-  "promedio": 344.45,
+  "promedio": 343.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
