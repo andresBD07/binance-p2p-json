@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T15:31:06.831166",
-  "actualizado_vzla": "2025-11-21 11:31:06 -04",
+  "timestamp_utc": "2025-11-21T15:43:54.030293",
+  "actualizado_vzla": "2025-11-21 11:43:54 -04",
   "compra_segundo": {
-    "price": 342.74,
-    "name": "NexusBlock"
+    "price": 342.7,
+    "name": "JairGOVA贾尔"
   },
   "venta_maxima": {
     "price": 342.5,
     "name": "LogisticExchange"
   },
-  "promedio": 342.62,
+  "promedio": 342.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
