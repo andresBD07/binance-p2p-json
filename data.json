@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T11:28:47.961647",
-  "actualizado_vzla": "2025-11-21 07:28:47 -04",
+  "timestamp_utc": "2025-11-21T11:42:18.453695",
+  "actualizado_vzla": "2025-11-21 07:42:18 -04",
   "compra_segundo": {
-    "price": 346.75,
-    "name": "Divisas_Coffee"
+    "price": 346.63,
+    "name": "Sag87"
   },
   "venta_maxima": {
-    "price": 344.1,
-    "name": "AcMilan38"
+    "price": 344.01,
+    "name": "JF_Trading_Flash"
   },
-  "promedio": 345.43,
+  "promedio": 345.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
