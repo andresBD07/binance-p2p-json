@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T16:52:03.652692",
-  "actualizado_vzla": "2025-11-21 12:52:03 -04",
+  "timestamp_utc": "2025-11-21T17:16:20.270595",
+  "actualizado_vzla": "2025-11-21 13:16:20 -04",
   "compra_segundo": {
-    "price": 344.1,
-    "name": "NexusBlock"
+    "price": 344.8,
+    "name": "Cashbitapp"
   },
   "venta_maxima": {
-    "price": 344.0,
-    "name": "hudsonriver"
+    "price": 343.6,
+    "name": "KillKeroy"
   },
-  "promedio": 344.05,
+  "promedio": 344.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
