@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T21:59:22.170666",
-  "actualizado_vzla": "2025-11-21 17:59:22 -04",
+  "timestamp_utc": "2025-11-21T22:29:35.236761",
+  "actualizado_vzla": "2025-11-21 18:29:35 -04",
   "compra_segundo": {
-    "price": 346.1,
-    "name": "CambiosAshley"
+    "price": 346.64,
+    "name": "Ignaciorangel29"
   },
   "venta_maxima": {
-    "price": 346.0,
+    "price": 347.0,
     "name": "LogisticExchange"
   },
-  "promedio": 346.05,
+  "promedio": 346.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
