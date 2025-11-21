@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T17:36:31.693963",
-  "actualizado_vzla": "2025-11-21 13:36:31 -04",
+  "timestamp_utc": "2025-11-21T17:49:46.858760",
+  "actualizado_vzla": "2025-11-21 13:49:46 -04",
   "compra_segundo": {
-    "price": 345.2,
-    "name": "ExpressCriptoP2P"
+    "price": 345.4,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 344.0,
-    "name": "Godisgift"
+    "price": 343.9,
+    "name": "KillKeroy"
   },
-  "promedio": 344.6,
+  "promedio": 344.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
