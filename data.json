@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T15:12:54.258125",
-  "actualizado_vzla": "2025-11-21 11:12:54 -04",
+  "timestamp_utc": "2025-11-21T15:31:06.831166",
+  "actualizado_vzla": "2025-11-21 11:31:06 -04",
   "compra_segundo": {
-    "price": 343.0,
-    "name": "TuRemesaInt"
+    "price": 342.74,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
-    "price": 346.11,
-    "name": "DavidGenatio"
+    "price": 342.5,
+    "name": "LogisticExchange"
   },
-  "promedio": 344.56,
+  "promedio": 342.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
