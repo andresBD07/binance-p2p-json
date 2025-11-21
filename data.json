@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T12:54:19.770116",
-  "actualizado_vzla": "2025-11-21 08:54:19 -04",
+  "timestamp_utc": "2025-11-21T13:31:19.975712",
+  "actualizado_vzla": "2025-11-21 09:31:19 -04",
   "compra_segundo": {
-    "price": 344.995,
-    "name": "Sg-Cambioseguro"
+    "price": 345.5,
+    "name": "AvExchange"
   },
   "venta_maxima": {
-    "price": 343.7,
-    "name": "jcavdo"
+    "price": 343.9,
+    "name": "-Godgiven-"
   },
-  "promedio": 344.35,
+  "promedio": 344.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
