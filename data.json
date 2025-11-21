@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T15:43:54.030293",
-  "actualizado_vzla": "2025-11-21 11:43:54 -04",
+  "timestamp_utc": "2025-11-21T15:56:52.916134",
+  "actualizado_vzla": "2025-11-21 11:56:52 -04",
   "compra_segundo": {
-    "price": 342.7,
-    "name": "JairGOVA贾尔"
+    "price": 342.899,
+    "name": "-BBRYP2P-"
   },
   "venta_maxima": {
     "price": 342.5,
-    "name": "LogisticExchange"
+    "name": "Eliezerjph"
   },
-  "promedio": 342.6,
+  "promedio": 342.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
