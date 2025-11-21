@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T09:46:16.600281",
-  "actualizado_vzla": "2025-11-21 05:46:16 -04",
+  "timestamp_utc": "2025-11-21T09:59:17.684291",
+  "actualizado_vzla": "2025-11-21 05:59:17 -04",
   "compra_segundo": {
-    "price": 348.29,
-    "name": "Criptotur"
+    "price": 348.0,
+    "name": "MyE_spa"
   },
   "venta_maxima": {
     "price": 344.81,
     "name": "Criptotur"
   },
-  "promedio": 346.55,
+  "promedio": 346.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
