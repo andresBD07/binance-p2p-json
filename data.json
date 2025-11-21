@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T13:47:52.685789",
-  "actualizado_vzla": "2025-11-21 09:47:52 -04",
+  "timestamp_utc": "2025-11-21T14:09:19.906856",
+  "actualizado_vzla": "2025-11-21 10:09:19 -04",
   "compra_segundo": {
-    "price": 345.42,
-    "name": "Safe-tradeV"
+    "price": 345.148,
+    "name": "VGV"
   },
   "venta_maxima": {
-    "price": 344.0,
-    "name": "hectoraltrader"
+    "price": 343.9,
+    "name": "-Godgiven-"
   },
-  "promedio": 344.71,
+  "promedio": 344.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
