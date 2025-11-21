@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T14:49:51.214233",
-  "actualizado_vzla": "2025-11-21 10:49:51 -04",
+  "timestamp_utc": "2025-11-21T15:12:54.258125",
+  "actualizado_vzla": "2025-11-21 11:12:54 -04",
   "compra_segundo": {
-    "price": 344.299,
-    "name": "LEMONCHANGE"
+    "price": 343.0,
+    "name": "TuRemesaInt"
   },
   "venta_maxima": {
-    "price": 342.8,
-    "name": "TuPagoRapido"
+    "price": 346.11,
+    "name": "DavidGenatio"
   },
-  "promedio": 343.55,
+  "promedio": 344.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
