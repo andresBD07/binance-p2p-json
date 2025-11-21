@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T23:41:16.366070",
-  "actualizado_vzla": "2025-11-21 19:41:16 -04",
+  "timestamp_utc": "2025-11-21T23:54:26.593962",
+  "actualizado_vzla": "2025-11-21 19:54:26 -04",
   "compra_segundo": {
-    "price": 346.8,
-    "name": "JJcambiosUSD"
+    "price": 346.755,
+    "name": "eercripto"
   },
   "venta_maxima": {
-    "price": 347.0,
-    "name": "LogisticExchange"
+    "price": 346.5,
+    "name": "TOPlevelS"
   },
-  "promedio": 346.9,
+  "promedio": 346.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
