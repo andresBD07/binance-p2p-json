@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T23:25:38.879745",
-  "actualizado_vzla": "2025-11-21 19:25:38 -04",
+  "timestamp_utc": "2025-11-21T23:41:16.366070",
+  "actualizado_vzla": "2025-11-21 19:41:16 -04",
   "compra_segundo": {
-    "price": 346.942,
-    "name": "Mercurius_P2P"
+    "price": 346.8,
+    "name": "JJcambiosUSD"
   },
   "venta_maxima": {
     "price": 347.0,
     "name": "LogisticExchange"
   },
-  "promedio": 346.97,
+  "promedio": 346.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
