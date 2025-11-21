@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T21:46:41.994526",
-  "actualizado_vzla": "2025-11-21 17:46:42 -04",
+  "timestamp_utc": "2025-11-21T21:59:22.170666",
+  "actualizado_vzla": "2025-11-21 17:59:22 -04",
   "compra_segundo": {
-    "price": 346.3,
-    "name": "Divisas_Coffee"
+    "price": 346.1,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
     "price": 346.0,
     "name": "LogisticExchange"
   },
-  "promedio": 346.15,
+  "promedio": 346.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
