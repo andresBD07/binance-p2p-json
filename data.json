@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T19:23:19.466494",
-  "actualizado_vzla": "2025-11-21 15:23:19 -04",
+  "timestamp_utc": "2025-11-21T19:37:57.876580",
+  "actualizado_vzla": "2025-11-21 15:37:57 -04",
   "compra_segundo": {
-    "price": 345.3,
-    "name": "criptogene01"
+    "price": 345.159,
+    "name": "Tu_Cambio_Seguro"
   },
   "venta_maxima": {
     "price": 345.01,
     "name": "app2112"
   },
-  "promedio": 345.15,
+  "promedio": 345.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
