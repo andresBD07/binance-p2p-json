@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T05:59:52.681644",
-  "actualizado_vzla": "2025-11-21 01:59:52 -04",
+  "timestamp_utc": "2025-11-21T06:44:05.439242",
+  "actualizado_vzla": "2025-11-21 02:44:05 -04",
   "compra_segundo": {
-    "price": 348.29,
-    "name": "Criptotur"
+    "price": 348.5,
+    "name": "Cmaximoj"
   },
   "venta_maxima": {
     "price": 344.81,
     "name": "Criptotur"
   },
-  "promedio": 346.55,
+  "promedio": 346.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
