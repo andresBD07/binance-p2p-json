@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T04:22:14.803231",
-  "actualizado_vzla": "2025-11-21 00:22:14 -04",
+  "timestamp_utc": "2025-11-21T04:44:23.828181",
+  "actualizado_vzla": "2025-11-21 00:44:23 -04",
   "compra_segundo": {
     "price": 347.9,
-    "name": "Al3ss0"
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 345.4,
-    "name": "Exotico"
+    "price": 345.5,
+    "name": "SantiagoR19"
   },
-  "promedio": 346.65,
+  "promedio": 346.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
