@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-21T19:51:15.427419",
-  "actualizado_vzla": "2025-11-21 15:51:15 -04",
+  "timestamp_utc": "2025-11-21T20:18:50.096778",
+  "actualizado_vzla": "2025-11-21 16:18:50 -04",
   "compra_segundo": {
-    "price": 345.13,
-    "name": "NimaX-64"
+    "price": 345.499,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
   "venta_maxima": {
-    "price": 345.01,
-    "name": "app2112"
+    "price": 345.1,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 345.07,
+  "promedio": 345.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
