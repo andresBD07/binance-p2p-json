@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T16:48:48.531194",
-  "actualizado_vzla": "2025-11-22 12:48:48 -04",
+  "timestamp_utc": "2025-11-22T17:08:42.399758",
+  "actualizado_vzla": "2025-11-22 13:08:42 -04",
   "compra_segundo": {
-    "price": 347.5,
-    "name": "P2P-Dulce"
+    "price": 347.39,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 346.29,
+    "price": 346.17,
     "name": "All-inCrypto"
   },
-  "promedio": 346.89,
+  "promedio": 346.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
