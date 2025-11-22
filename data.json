@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T05:43:44.865520",
-  "actualizado_vzla": "2025-11-22 01:43:44 -04",
+  "timestamp_utc": "2025-11-22T05:56:29.573512",
+  "actualizado_vzla": "2025-11-22 01:56:29 -04",
   "compra_segundo": {
-    "price": 347.35,
-    "name": "WebMoneyExchanger"
+    "price": 347.498,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
-    "price": 343.01,
-    "name": "Wis3Trading"
+    "price": 343.03,
+    "name": "WebMoneyExchanger"
   },
-  "promedio": 345.18,
+  "promedio": 345.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
