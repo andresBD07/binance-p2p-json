@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T09:14:30.192951",
-  "actualizado_vzla": "2025-11-22 05:14:30 -04",
+  "timestamp_utc": "2025-11-22T09:32:00.593164",
+  "actualizado_vzla": "2025-11-22 05:32:00 -04",
   "compra_segundo": {
-    "price": 348.0,
-    "name": "JuanFlash"
+    "price": 347.9,
+    "name": "ARKADB"
   },
   "venta_maxima": {
     "price": 343.0,
     "name": "cambioson"
   },
-  "promedio": 345.5,
+  "promedio": 345.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
