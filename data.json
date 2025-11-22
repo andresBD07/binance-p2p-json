@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T14:38:39.214881",
-  "actualizado_vzla": "2025-11-22 10:38:39 -04",
+  "timestamp_utc": "2025-11-22T14:51:43.145055",
+  "actualizado_vzla": "2025-11-22 10:51:43 -04",
   "compra_segundo": {
-    "price": 346.299,
-    "name": "Atumanocambio"
+    "price": 346.395,
+    "name": "Anonymous-GC07"
   },
   "venta_maxima": {
-    "price": 346.5,
+    "price": 346.2,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.4,
+  "promedio": 346.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
