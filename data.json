@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T21:36:28.754750",
-  "actualizado_vzla": "2025-11-22 17:36:28 -04",
+  "timestamp_utc": "2025-11-22T21:49:50.806408",
+  "actualizado_vzla": "2025-11-22 17:49:50 -04",
   "compra_segundo": {
-    "price": 346.83,
-    "name": "AugustoVelasquez15"
+    "price": 346.8,
+    "name": "PayBin07"
   },
   "venta_maxima": {
-    "price": 347.0,
+    "price": 347.2,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.91,
+  "promedio": 347.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
