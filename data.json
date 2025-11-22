@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T20:54:51.835400",
-  "actualizado_vzla": "2025-11-22 16:54:51 -04",
+  "timestamp_utc": "2025-11-22T21:21:25.670401",
+  "actualizado_vzla": "2025-11-22 17:21:25 -04",
   "compra_segundo": {
-    "price": 346.5,
-    "name": "troughh"
+    "price": 346.639,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 347.2,
-    "name": "GOMEZTUSOLUCION"
+    "price": 346.8,
+    "name": "GREEN78"
   },
-  "promedio": 346.85,
+  "promedio": 346.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
