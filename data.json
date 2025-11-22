@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T18:35:36.321366",
-  "actualizado_vzla": "2025-11-22 14:35:36 -04",
+  "timestamp_utc": "2025-11-22T18:52:07.539193",
+  "actualizado_vzla": "2025-11-22 14:52:07 -04",
   "compra_segundo": {
-    "price": 346.499,
-    "name": "criptorapiseguro1"
+    "price": 346.4,
+    "name": "AnaiaBoutique"
   },
   "venta_maxima": {
-    "price": 346.1,
-    "name": "All-inCrypto"
+    "price": 346.0,
+    "name": "El-Warao"
   },
-  "promedio": 346.3,
+  "promedio": 346.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
