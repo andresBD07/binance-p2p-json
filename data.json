@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T07:58:22.909427",
-  "actualizado_vzla": "2025-11-22 03:58:22 -04",
+  "timestamp_utc": "2025-11-22T08:33:34.598855",
+  "actualizado_vzla": "2025-11-22 04:33:34 -04",
   "compra_segundo": {
-    "price": 348.0,
-    "name": "AJ-Cambios"
+    "price": 347.9,
+    "name": "ARKADB"
   },
   "venta_maxima": {
     "price": 343.0,
     "name": "cambioson"
   },
-  "promedio": 345.5,
+  "promedio": 345.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
