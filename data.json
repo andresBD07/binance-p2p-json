@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T22:34:24.349858",
-  "actualizado_vzla": "2025-11-22 18:34:24 -04",
+  "timestamp_utc": "2025-11-22T22:47:25.464335",
+  "actualizado_vzla": "2025-11-22 18:47:25 -04",
   "compra_segundo": {
-    "price": 346.88,
-    "name": "PrecozPay"
+    "price": 346.9,
+    "name": "Mustangp2p"
   },
   "venta_maxima": {
     "price": 347.5,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 347.19,
+  "promedio": 347.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
