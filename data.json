@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T08:33:34.598855",
-  "actualizado_vzla": "2025-11-22 04:33:34 -04",
+  "timestamp_utc": "2025-11-22T08:50:41.947461",
+  "actualizado_vzla": "2025-11-22 04:50:41 -04",
   "compra_segundo": {
-    "price": 347.9,
-    "name": "ARKADB"
+    "price": 347.8,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
     "price": 343.0,
     "name": "cambioson"
   },
-  "promedio": 345.45,
+  "promedio": 345.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
