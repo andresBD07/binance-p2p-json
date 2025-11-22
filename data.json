@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T10:42:55.916569",
-  "actualizado_vzla": "2025-11-22 06:42:55 -04",
+  "timestamp_utc": "2025-11-22T10:55:42.158100",
+  "actualizado_vzla": "2025-11-22 06:55:42 -04",
   "compra_segundo": {
-    "price": 347.3,
-    "name": "FASTCrazyFrog"
+    "price": 347.001,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
-    "price": 343.001,
-    "name": "bigmitchum"
+    "price": 343.0,
+    "name": "cambioson"
   },
-  "promedio": 345.15,
+  "promedio": 345.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
