@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T01:49:41.533544",
-  "actualizado_vzla": "2025-11-21 21:49:41 -04",
+  "timestamp_utc": "2025-11-22T02:59:00.908849",
+  "actualizado_vzla": "2025-11-21 22:59:00 -04",
   "compra_segundo": {
-    "price": 347.48,
-    "name": "Ekxprees"
+    "price": 347.4,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 345.4,
-    "name": "Cambioscorleone"
+    "price": 345.5,
+    "name": "Godisgift"
   },
-  "promedio": 346.44,
+  "promedio": 346.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
