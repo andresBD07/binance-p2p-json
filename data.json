@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T17:56:01.758274",
-  "actualizado_vzla": "2025-11-22 13:56:01 -04",
+  "timestamp_utc": "2025-11-22T18:35:36.321366",
+  "actualizado_vzla": "2025-11-22 14:35:36 -04",
   "compra_segundo": {
-    "price": 346.64,
-    "name": "Tatacash24"
+    "price": 346.499,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 346.2,
-    "name": "hudsonriver"
+    "price": 346.1,
+    "name": "All-inCrypto"
   },
-  "promedio": 346.42,
+  "promedio": 346.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
