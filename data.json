@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-22T11:34:40.828403",
-  "actualizado_vzla": "2025-11-22 07:34:40 -04",
+  "timestamp_utc": "2025-11-22T11:47:54.023650",
+  "actualizado_vzla": "2025-11-22 07:47:54 -04",
   "compra_segundo": {
     "price": 346.5,
-    "name": "PayDesk_Figueroa"
+    "name": "Secure Payment"
   },
   "venta_maxima": {
     "price": 344.05,
