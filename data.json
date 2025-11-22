@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T15:57:44.459704",
-  "actualizado_vzla": "2025-11-22 11:57:44 -04",
+  "timestamp_utc": "2025-11-22T16:31:56.782172",
+  "actualizado_vzla": "2025-11-22 12:31:56 -04",
   "compra_segundo": {
-    "price": 346.8,
-    "name": "ExpressCriptoP2P"
+    "price": 347.32,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 346.701,
-    "name": "Cripto_Operaciones"
+    "price": 346.25,
+    "name": "All-inCrypto"
   },
-  "promedio": 346.75,
+  "promedio": 346.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
