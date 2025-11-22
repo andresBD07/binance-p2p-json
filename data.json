@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T19:27:46.149164",
-  "actualizado_vzla": "2025-11-22 15:27:46 -04",
+  "timestamp_utc": "2025-11-22T19:41:05.825759",
+  "actualizado_vzla": "2025-11-22 15:41:05 -04",
   "compra_segundo": {
-    "price": 346.45,
-    "name": "FastEG"
+    "price": 346.4,
+    "name": "AnaiaBoutique"
   },
   "venta_maxima": {
-    "price": 346.15,
-    "name": "El-Warao"
+    "price": 346.4,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.3,
+  "promedio": 346.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
