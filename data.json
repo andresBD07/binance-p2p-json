@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-22T23:42:21.482863",
-  "actualizado_vzla": "2025-11-22 19:42:21 -04",
+  "timestamp_utc": "2025-11-22T23:55:26.611958",
+  "actualizado_vzla": "2025-11-22 19:55:26 -04",
   "compra_segundo": {
-    "price": 347.49,
-    "name": "NexusBlock"
+    "price": 347.499,
+    "name": "Cambiosbraycar"
   },
   "venta_maxima": {
     "price": 347.5,
