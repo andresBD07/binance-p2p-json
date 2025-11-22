@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T17:08:42.399758",
-  "actualizado_vzla": "2025-11-22 13:08:42 -04",
+  "timestamp_utc": "2025-11-22T17:29:29.509253",
+  "actualizado_vzla": "2025-11-22 13:29:29 -04",
   "compra_segundo": {
-    "price": 347.39,
-    "name": "MolinaJP_"
+    "price": 346.9,
+    "name": "VentasCcS"
   },
   "venta_maxima": {
-    "price": 346.17,
-    "name": "All-inCrypto"
+    "price": 346.02,
+    "name": "-IKNUSA-"
   },
-  "promedio": 346.78,
+  "promedio": 346.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
