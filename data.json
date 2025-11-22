@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-22T06:36:48.486543",
-  "actualizado_vzla": "2025-11-22 02:36:48 -04",
+  "timestamp_utc": "2025-11-22T06:52:55.133499",
+  "actualizado_vzla": "2025-11-22 02:52:55 -04",
   "compra_segundo": {
-    "price": 347.5,
-    "name": "FastChangeSafeChange"
+    "price": 347.499,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 343.0,
