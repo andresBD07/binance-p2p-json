@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T04:59:51.097465",
-  "actualizado_vzla": "2025-11-22 00:59:51 -04",
+  "timestamp_utc": "2025-11-22T05:28:48.038860",
+  "actualizado_vzla": "2025-11-22 01:28:48 -04",
   "compra_segundo": {
-    "price": 347.4,
-    "name": "TuCambioPreferido"
+    "price": 347.36,
+    "name": "Tether Premium "
   },
   "venta_maxima": {
-    "price": 344.21,
-    "name": "Exchange-172"
+    "price": 343.0,
+    "name": "cambioson"
   },
-  "promedio": 345.8,
+  "promedio": 345.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
