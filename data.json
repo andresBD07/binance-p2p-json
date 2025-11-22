@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T20:41:57.170867",
-  "actualizado_vzla": "2025-11-22 16:41:57 -04",
+  "timestamp_utc": "2025-11-22T20:54:51.835400",
+  "actualizado_vzla": "2025-11-22 16:54:51 -04",
   "compra_segundo": {
-    "price": 346.49,
-    "name": "Mero-Mero"
+    "price": 346.5,
+    "name": "troughh"
   },
   "venta_maxima": {
-    "price": 347.22,
-    "name": "-IKNUSA-"
+    "price": 347.2,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.86,
+  "promedio": 346.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
