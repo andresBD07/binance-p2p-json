@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T09:57:58.618633",
-  "actualizado_vzla": "2025-11-22 05:57:58 -04",
+  "timestamp_utc": "2025-11-22T10:27:46.610113",
+  "actualizado_vzla": "2025-11-22 06:27:46 -04",
   "compra_segundo": {
-    "price": 347.9,
-    "name": "ARKADB"
+    "price": 347.7,
+    "name": "Dkans21"
   },
   "venta_maxima": {
-    "price": 343.3,
-    "name": "FastRaikkonen"
+    "price": 343.0,
+    "name": "cambioson"
   },
-  "promedio": 345.6,
+  "promedio": 345.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
