@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T06:52:55.133499",
-  "actualizado_vzla": "2025-11-22 02:52:55 -04",
+  "timestamp_utc": "2025-11-22T07:18:23.014370",
+  "actualizado_vzla": "2025-11-22 03:18:23 -04",
   "compra_segundo": {
-    "price": 347.499,
-    "name": "AllTraders"
+    "price": 347.668,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
     "price": 343.0,
     "name": "cambioson"
   },
-  "promedio": 345.25,
+  "promedio": 345.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
