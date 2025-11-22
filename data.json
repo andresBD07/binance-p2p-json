@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-22T05:28:48.038860",
-  "actualizado_vzla": "2025-11-22 01:28:48 -04",
+  "timestamp_utc": "2025-11-22T05:43:44.865520",
+  "actualizado_vzla": "2025-11-22 01:43:44 -04",
   "compra_segundo": {
-    "price": 347.36,
-    "name": "Tether Premium "
+    "price": 347.35,
+    "name": "WebMoneyExchanger"
   },
   "venta_maxima": {
-    "price": 343.0,
-    "name": "cambioson"
+    "price": 343.01,
+    "name": "Wis3Trading"
   },
   "promedio": 345.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
