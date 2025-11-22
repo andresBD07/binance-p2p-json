@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T03:41:08.790950",
-  "actualizado_vzla": "2025-11-21 23:41:08 -04",
+  "timestamp_utc": "2025-11-22T03:56:21.161712",
+  "actualizado_vzla": "2025-11-21 23:56:21 -04",
   "compra_segundo": {
-    "price": 347.399,
-    "name": "marote28"
+    "price": 347.38,
+    "name": "YisusOwl28"
   },
   "venta_maxima": {
-    "price": 345.2,
-    "name": "AkExpress"
+    "price": 345.012,
+    "name": "P2P-kevinbenito"
   },
-  "promedio": 346.3,
+  "promedio": 346.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
