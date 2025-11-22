@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T10:55:42.158100",
-  "actualizado_vzla": "2025-11-22 06:55:42 -04",
+  "timestamp_utc": "2025-11-22T11:19:46.483621",
+  "actualizado_vzla": "2025-11-22 07:19:46 -04",
   "compra_segundo": {
-    "price": 347.001,
-    "name": "InvMiggy"
+    "price": 346.799,
+    "name": "CambiosDelValle26"
   },
   "venta_maxima": {
-    "price": 343.0,
-    "name": "cambioson"
+    "price": 343.35,
+    "name": "D7OS"
   },
-  "promedio": 345.0,
+  "promedio": 345.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
