@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-22T14:51:43.145055",
-  "actualizado_vzla": "2025-11-22 10:51:43 -04",
+  "timestamp_utc": "2025-11-22T15:15:47.742020",
+  "actualizado_vzla": "2025-11-22 11:15:47 -04",
   "compra_segundo": {
-    "price": 346.395,
-    "name": "Anonymous-GC07"
+    "price": 346.39,
+    "name": "Cambi0Express"
   },
   "venta_maxima": {
-    "price": 346.2,
+    "price": 346.5,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 346.3,
+  "promedio": 346.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
