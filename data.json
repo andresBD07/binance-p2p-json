@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T22:39:20.945667",
-  "actualizado_vzla": "2025-11-23 18:39:20 -04",
+  "timestamp_utc": "2025-11-23T22:52:30.469811",
+  "actualizado_vzla": "2025-11-23 18:52:30 -04",
   "compra_segundo": {
-    "price": 352.199,
-    "name": "BodegonLasPalmas"
+    "price": 352.29,
+    "name": "DxvidExchange"
   },
   "venta_maxima": {
-    "price": 351.8,
-    "name": "Child-CambioFacil"
+    "price": 351.909,
+    "name": "SPYG"
   },
-  "promedio": 352.0,
+  "promedio": 352.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
