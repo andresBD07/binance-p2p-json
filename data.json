@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T08:32:19.216339",
-  "actualizado_vzla": "2025-11-23 04:32:19 -04",
+  "timestamp_utc": "2025-11-23T08:49:53.754840",
+  "actualizado_vzla": "2025-11-23 04:49:53 -04",
   "compra_segundo": {
-    "price": 348.998,
-    "name": "Reginald_TITULAR"
+    "price": 349.0,
+    "name": "Osu199x"
   },
   "venta_maxima": {
     "price": 346.61,
     "name": "app2112"
   },
-  "promedio": 347.8,
+  "promedio": 347.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
