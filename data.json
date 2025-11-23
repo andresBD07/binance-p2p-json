@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T15:46:37.294682",
-  "actualizado_vzla": "2025-11-23 11:46:37 -04",
+  "timestamp_utc": "2025-11-23T15:59:54.906412",
+  "actualizado_vzla": "2025-11-23 11:59:54 -04",
   "compra_segundo": {
-    "price": 352.4,
-    "name": "FREQUIMO"
+    "price": 352.99,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
-    "price": 351.3,
-    "name": "GOMEZTUSOLUCION"
+    "price": 352.002,
+    "name": "All-inCrypto"
   },
-  "promedio": 351.85,
+  "promedio": 352.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
