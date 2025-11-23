@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2025-11-23T17:44:32.418870",
-  "actualizado_vzla": "2025-11-23 13:44:32 -04",
+  "timestamp_utc": "2025-11-23T17:57:16.822615",
+  "actualizado_vzla": "2025-11-23 13:57:16 -04",
   "compra_segundo": {
-    "price": 355.2,
-    "name": "AllDayTrade"
+    "price": 355.0,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 353.402,
+    "price": 353.605,
     "name": "火PhoenixRising"
   },
   "promedio": 354.3,
