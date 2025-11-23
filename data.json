@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T14:39:35.257941",
-  "actualizado_vzla": "2025-11-23 10:39:35 -04",
+  "timestamp_utc": "2025-11-23T14:52:43.236317",
+  "actualizado_vzla": "2025-11-23 10:52:43 -04",
   "compra_segundo": {
-    "price": 350.2,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 350.79,
+    "name": "Cashbitapp"
   },
   "venta_maxima": {
-    "price": 351.3,
-    "name": "Cambios_MH2107"
+    "price": 349.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 350.75,
+  "promedio": 350.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
