@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T09:13:01.411489",
-  "actualizado_vzla": "2025-11-23 05:13:01 -04",
+  "timestamp_utc": "2025-11-23T09:32:19.710163",
+  "actualizado_vzla": "2025-11-23 05:32:19 -04",
   "compra_segundo": {
-    "price": 349.0,
-    "name": "Osu199x"
+    "price": 349.36,
+    "name": "ConectaRemit"
   },
   "venta_maxima": {
     "price": 346.61,
     "name": "app2112"
   },
-  "promedio": 347.81,
+  "promedio": 347.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
