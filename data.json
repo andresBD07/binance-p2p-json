@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T12:21:15.198969",
-  "actualizado_vzla": "2025-11-23 08:21:15 -04",
+  "timestamp_utc": "2025-11-23T12:58:33.239984",
+  "actualizado_vzla": "2025-11-23 08:58:33 -04",
   "compra_segundo": {
-    "price": 347.899,
-    "name": "PringlesBBQ"
+    "price": 347.998,
+    "name": "Reimaryp"
   },
   "venta_maxima": {
-    "price": 345.5,
-    "name": "Tradingfriend"
+    "price": 346.93,
+    "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 346.7,
+  "promedio": 347.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
