@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T16:49:42.461076",
-  "actualizado_vzla": "2025-11-23 12:49:42 -04",
+  "timestamp_utc": "2025-11-23T17:10:54.654182",
+  "actualizado_vzla": "2025-11-23 13:10:54 -04",
   "compra_segundo": {
-    "price": 354.5,
-    "name": "Cambios996"
+    "price": 355.19,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
-    "price": 354.0,
-    "name": "Tradingfriend"
+    "price": 353.35,
+    "name": "All-inCrypto"
   },
-  "promedio": 354.25,
+  "promedio": 354.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
