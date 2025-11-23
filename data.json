@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T11:49:29.485258",
-  "actualizado_vzla": "2025-11-23 07:49:29 -04",
+  "timestamp_utc": "2025-11-23T12:21:15.198969",
+  "actualizado_vzla": "2025-11-23 08:21:15 -04",
   "compra_segundo": {
-    "price": 348.29,
-    "name": "PitigueyCash"
+    "price": 347.899,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 345.0,
-    "name": "talepagos"
+    "price": 345.5,
+    "name": "Tradingfriend"
   },
-  "promedio": 346.64,
+  "promedio": 346.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
