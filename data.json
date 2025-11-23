@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T07:42:20.577773",
-  "actualizado_vzla": "2025-11-23 03:42:20 -04",
+  "timestamp_utc": "2025-11-23T07:55:24.168103",
+  "actualizado_vzla": "2025-11-23 03:55:24 -04",
   "compra_segundo": {
-    "price": 349.198,
-    "name": "marote28"
+    "price": 348.998,
+    "name": "Reginald_TITULAR"
   },
   "venta_maxima": {
     "price": 346.61,
     "name": "app2112"
   },
-  "promedio": 347.9,
+  "promedio": 347.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
