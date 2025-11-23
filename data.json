@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T11:36:15.483286",
-  "actualizado_vzla": "2025-11-23 07:36:15 -04",
+  "timestamp_utc": "2025-11-23T11:49:29.485258",
+  "actualizado_vzla": "2025-11-23 07:49:29 -04",
   "compra_segundo": {
-    "price": 348.31,
-    "name": "Trader_AngC"
+    "price": 348.29,
+    "name": "PitigueyCash"
   },
   "venta_maxima": {
-    "price": 346.61,
-    "name": "app2112"
+    "price": 345.0,
+    "name": "talepagos"
   },
-  "promedio": 347.46,
+  "promedio": 346.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
