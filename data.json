@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T13:29:35.941425",
-  "actualizado_vzla": "2025-11-23 09:29:35 -04",
+  "timestamp_utc": "2025-11-23T13:42:51.405863",
+  "actualizado_vzla": "2025-11-23 09:42:51 -04",
   "compra_segundo": {
-    "price": 348.5,
-    "name": "Dayuda"
+    "price": 348.85,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 346.79,
+    "price": 347.65,
     "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 347.64,
+  "promedio": 348.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
