@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T21:40:08.184292",
-  "actualizado_vzla": "2025-11-23 17:40:08 -04",
+  "timestamp_utc": "2025-11-23T21:53:10.720751",
+  "actualizado_vzla": "2025-11-23 17:53:10 -04",
   "compra_segundo": {
-    "price": 352.89,
-    "name": "Cashbitapp"
+    "price": 352.9,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 352.1,
-    "name": "app2112"
+    "price": 352.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 352.5,
+  "promedio": 352.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
