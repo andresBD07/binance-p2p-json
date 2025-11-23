@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T09:32:19.710163",
-  "actualizado_vzla": "2025-11-23 05:32:19 -04",
+  "timestamp_utc": "2025-11-23T09:45:13.090969",
+  "actualizado_vzla": "2025-11-23 05:45:13 -04",
   "compra_segundo": {
-    "price": 349.36,
-    "name": "ConectaRemit"
+    "price": 349.05,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
     "price": 346.61,
     "name": "app2112"
   },
-  "promedio": 347.99,
+  "promedio": 347.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
