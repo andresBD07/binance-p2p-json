@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T20:44:54.199328",
-  "actualizado_vzla": "2025-11-23 16:44:54 -04",
+  "timestamp_utc": "2025-11-23T20:58:03.814914",
+  "actualizado_vzla": "2025-11-23 16:58:03 -04",
   "compra_segundo": {
-    "price": 353.69,
-    "name": "SRexchanges"
+    "price": 353.5,
+    "name": "cambiosaular1"
   },
   "venta_maxima": {
     "price": 352.5,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 353.1,
+  "promedio": 353.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
