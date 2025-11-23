@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T04:22:23.343832",
-  "actualizado_vzla": "2025-11-23 00:22:23 -04",
+  "timestamp_utc": "2025-11-23T04:51:07.998112",
+  "actualizado_vzla": "2025-11-23 00:51:08 -04",
   "compra_segundo": {
-    "price": 348.29,
-    "name": "Eldoc1996"
+    "price": 348.5,
+    "name": "5k-trader"
   },
   "venta_maxima": {
     "price": 346.61,
     "name": "app2112"
   },
-  "promedio": 347.45,
+  "promedio": 347.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
