@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T22:52:30.469811",
-  "actualizado_vzla": "2025-11-23 18:52:30 -04",
+  "timestamp_utc": "2025-11-23T23:17:58.754310",
+  "actualizado_vzla": "2025-11-23 19:17:58 -04",
   "compra_segundo": {
-    "price": 352.29,
-    "name": "DxvidExchange"
+    "price": 352.31,
+    "name": "Latribu-"
   },
   "venta_maxima": {
-    "price": 351.909,
-    "name": "SPYG"
+    "price": 351.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 352.1,
+  "promedio": 351.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
