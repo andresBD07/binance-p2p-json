@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T04:51:07.998112",
-  "actualizado_vzla": "2025-11-23 00:51:08 -04",
+  "timestamp_utc": "2025-11-23T05:15:08.745884",
+  "actualizado_vzla": "2025-11-23 01:15:08 -04",
   "compra_segundo": {
-    "price": 348.5,
-    "name": "5k-trader"
+    "price": 348.597,
+    "name": "HyperCambios_1Millon"
   },
   "venta_maxima": {
     "price": 346.61,
     "name": "app2112"
   },
-  "promedio": 347.56,
+  "promedio": 347.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
