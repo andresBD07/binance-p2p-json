@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T17:10:54.654182",
-  "actualizado_vzla": "2025-11-23 13:10:54 -04",
+  "timestamp_utc": "2025-11-23T17:31:25.538241",
+  "actualizado_vzla": "2025-11-23 13:31:25 -04",
   "compra_segundo": {
-    "price": 355.19,
-    "name": "PagoInstantaneo"
+    "price": 354.999,
+    "name": "tranfepolvogallo"
   },
   "venta_maxima": {
-    "price": 353.35,
-    "name": "All-inCrypto"
+    "price": 353.751,
+    "name": "火PhoenixRising"
   },
-  "promedio": 354.27,
+  "promedio": 354.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
