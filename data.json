@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T18:36:41.603200",
-  "actualizado_vzla": "2025-11-23 14:36:41 -04",
+  "timestamp_utc": "2025-11-23T18:53:13.077919",
+  "actualizado_vzla": "2025-11-23 14:53:13 -04",
   "compra_segundo": {
-    "price": 354.6,
-    "name": "TUCRIPseguro"
+    "price": 354.58,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
-    "price": 353.2,
-    "name": "GOMEZTUSOLUCION"
+    "price": 353.21,
+    "name": "MARACAIBOBTC"
   },
-  "promedio": 353.9,
+  "promedio": 353.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
