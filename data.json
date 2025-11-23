@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-23T11:21:42.901402",
-  "actualizado_vzla": "2025-11-23 07:21:42 -04",
+  "timestamp_utc": "2025-11-23T11:36:15.483286",
+  "actualizado_vzla": "2025-11-23 07:36:15 -04",
   "compra_segundo": {
-    "price": 348.3,
-    "name": "CambiosBesmant"
+    "price": 348.31,
+    "name": "Trader_AngC"
   },
   "venta_maxima": {
     "price": 346.61,
