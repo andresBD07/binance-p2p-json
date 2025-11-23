@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T15:33:22.559333",
-  "actualizado_vzla": "2025-11-23 11:33:22 -04",
+  "timestamp_utc": "2025-11-23T15:46:37.294682",
+  "actualizado_vzla": "2025-11-23 11:46:37 -04",
   "compra_segundo": {
-    "price": 351.999,
-    "name": "RapidEnvios"
+    "price": 352.4,
+    "name": "FREQUIMO"
   },
   "venta_maxima": {
-    "price": 351.0,
-    "name": "LogisticExchange"
+    "price": 351.3,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 351.5,
+  "promedio": 351.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
