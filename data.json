@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T19:16:18.869881",
-  "actualizado_vzla": "2025-11-23 15:16:18 -04",
+  "timestamp_utc": "2025-11-23T19:29:18.654971",
+  "actualizado_vzla": "2025-11-23 15:29:18 -04",
   "compra_segundo": {
-    "price": 354.0,
-    "name": "TUCRIPseguro"
+    "price": 354.099,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 353.9,
-    "name": "notorius11"
+    "price": 353.91,
+    "name": "Aszahi7"
   },
-  "promedio": 353.95,
+  "promedio": 354.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
