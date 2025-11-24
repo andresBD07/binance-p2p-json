@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T10:21:23.402627",
-  "actualizado_vzla": "2025-11-24 06:21:23 -04",
+  "timestamp_utc": "2025-11-24T10:46:35.761135",
+  "actualizado_vzla": "2025-11-24 06:46:35 -04",
   "compra_segundo": {
-    "price": 355.8,
-    "name": "The-Hup_82"
+    "price": 355.1,
+    "name": "VENTASJM"
   },
   "venta_maxima": {
-    "price": 351.02,
-    "name": "AndradeGasconTITULAR"
+    "price": 351.1,
+    "name": "RAULITO2809"
   },
-  "promedio": 353.41,
+  "promedio": 353.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
