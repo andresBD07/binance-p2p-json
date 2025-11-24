@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T07:56:58.347400",
-  "actualizado_vzla": "2025-11-24 03:56:58 -04",
+  "timestamp_utc": "2025-11-24T08:39:02.985814",
+  "actualizado_vzla": "2025-11-24 04:39:02 -04",
   "compra_segundo": {
-    "price": 357.899,
-    "name": "CryptoSickoP2P"
+    "price": 357.0,
+    "name": "Reinny"
   },
   "venta_maxima": {
     "price": 351.0,
     "name": "Tradingfriend"
   },
-  "promedio": 354.45,
+  "promedio": 354.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
