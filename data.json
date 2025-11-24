@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T04:22:08.338880",
-  "actualizado_vzla": "2025-11-24 00:22:08 -04",
+  "timestamp_utc": "2025-11-24T04:52:40.127744",
+  "actualizado_vzla": "2025-11-24 00:52:40 -04",
   "compra_segundo": {
-    "price": 356.6,
-    "name": "Cmaximoj"
+    "price": 356.79,
+    "name": "GJTG84"
   },
   "venta_maxima": {
     "price": 351.909,
     "name": "SPYG"
   },
-  "promedio": 354.25,
+  "promedio": 354.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
