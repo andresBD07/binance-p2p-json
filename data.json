@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T11:56:14.041069",
-  "actualizado_vzla": "2025-11-24 07:56:14 -04",
+  "timestamp_utc": "2025-11-24T12:58:33.674317",
+  "actualizado_vzla": "2025-11-24 08:58:33 -04",
   "compra_segundo": {
-    "price": 353.999,
-    "name": "Blockchain-Experts"
+    "price": 353.0,
+    "name": "Carlos Enrique "
   },
   "venta_maxima": {
-    "price": 351.86,
-    "name": "-Godgiven-"
+    "price": 351.9,
+    "name": "hectoraltrader"
   },
-  "promedio": 352.93,
+  "promedio": 352.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
