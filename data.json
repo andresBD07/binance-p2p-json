@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T05:21:27.281079",
-  "actualizado_vzla": "2025-11-24 01:21:27 -04",
+  "timestamp_utc": "2025-11-24T05:43:24.319721",
+  "actualizado_vzla": "2025-11-24 01:43:24 -04",
   "compra_segundo": {
-    "price": 356.87,
-    "name": "CarlosBelloTrader"
+    "price": 357.5,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 351.909,
-    "name": "SPYG"
+    "price": 351.38,
+    "name": "Extranjero"
   },
-  "promedio": 354.39,
+  "promedio": 354.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
