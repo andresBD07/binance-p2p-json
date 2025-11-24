@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T02:21:36.838409",
-  "actualizado_vzla": "2025-11-23 22:21:36 -04",
+  "timestamp_utc": "2025-11-24T03:44:01.760910",
+  "actualizado_vzla": "2025-11-23 23:44:01 -04",
   "compra_segundo": {
-    "price": 354.0,
-    "name": "JP-Services"
+    "price": 354.98,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 353.0,
-    "name": "LogisticExchange"
+    "price": 352.3,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 353.5,
+  "promedio": 353.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
