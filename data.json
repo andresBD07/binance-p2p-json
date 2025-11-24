@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T21:27:42.771178",
-  "actualizado_vzla": "2025-11-24 17:27:42 -04",
+  "timestamp_utc": "2025-11-24T21:43:48.506869",
+  "actualizado_vzla": "2025-11-24 17:43:48 -04",
   "compra_segundo": {
-    "price": 357.65,
-    "name": "elsupergonzo"
+    "price": 357.7,
+    "name": "押忍"
   },
   "venta_maxima": {
     "price": 356.6,
     "name": "hectoraltrader"
   },
-  "promedio": 357.12,
+  "promedio": 357.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
