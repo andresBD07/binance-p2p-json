@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-23T23:47:24.479387",
-  "actualizado_vzla": "2025-11-23 19:47:24 -04",
+  "timestamp_utc": "2025-11-24T00:00:08.119065",
+  "actualizado_vzla": "2025-11-23 20:00:08 -04",
   "compra_segundo": {
-    "price": 352.255,
-    "name": "eercripto"
+    "price": 352.4,
+    "name": "cambiosaular1"
   },
   "venta_maxima": {
-    "price": 351.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 351.3,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 351.88,
+  "promedio": 351.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
