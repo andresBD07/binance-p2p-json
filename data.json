@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T23:42:51.369101",
-  "actualizado_vzla": "2025-11-24 19:42:51 -04",
+  "timestamp_utc": "2025-11-24T23:55:46.963349",
+  "actualizado_vzla": "2025-11-24 19:55:46 -04",
   "compra_segundo": {
-    "price": 358.769,
+    "price": 358.669,
     "name": "wuillou11"
   },
   "venta_maxima": {
     "price": 358.3,
-    "name": "hectoraltrader"
+    "name": "Child-CambioFacil"
   },
-  "promedio": 358.53,
+  "promedio": 358.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
