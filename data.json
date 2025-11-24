@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T03:44:01.760910",
-  "actualizado_vzla": "2025-11-23 23:44:01 -04",
+  "timestamp_utc": "2025-11-24T04:22:08.338880",
+  "actualizado_vzla": "2025-11-24 00:22:08 -04",
   "compra_segundo": {
-    "price": 354.98,
-    "name": "LinkVzla"
+    "price": 356.6,
+    "name": "Cmaximoj"
   },
   "venta_maxima": {
-    "price": 352.3,
-    "name": "Child-CambioFacil"
+    "price": 351.909,
+    "name": "SPYG"
   },
-  "promedio": 353.64,
+  "promedio": 354.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
