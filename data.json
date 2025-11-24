@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T22:44:57.976729",
-  "actualizado_vzla": "2025-11-24 18:44:57 -04",
+  "timestamp_utc": "2025-11-24T22:57:57.806537",
+  "actualizado_vzla": "2025-11-24 18:57:57 -04",
   "compra_segundo": {
-    "price": 358.198,
-    "name": "LordTUKY"
+    "price": 358.3,
+    "name": "Elitecambios_J"
   },
   "venta_maxima": {
-    "price": 358.101,
-    "name": "SmartSolutionn"
+    "price": 358.1,
+    "name": "hectoraltrader"
   },
-  "promedio": 358.15,
+  "promedio": 358.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
