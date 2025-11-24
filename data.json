@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T15:41:24.046338",
-  "actualizado_vzla": "2025-11-24 11:41:24 -04",
+  "timestamp_utc": "2025-11-24T15:56:20.993024",
+  "actualizado_vzla": "2025-11-24 11:56:21 -04",
   "compra_segundo": {
-    "price": 354.086,
-    "name": "Lextomato"
+    "price": 354.69,
+    "name": "PhenoM_1Tap-3min"
   },
   "venta_maxima": {
-    "price": 354.1,
-    "name": "Si Me Pasas Te Paso"
+    "price": 354.501,
+    "name": "hudsonriver"
   },
-  "promedio": 354.09,
+  "promedio": 354.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
