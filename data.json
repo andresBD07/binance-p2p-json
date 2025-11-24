@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T00:00:08.119065",
-  "actualizado_vzla": "2025-11-23 20:00:08 -04",
+  "timestamp_utc": "2025-11-24T02:21:36.838409",
+  "actualizado_vzla": "2025-11-23 22:21:36 -04",
   "compra_segundo": {
-    "price": 352.4,
-    "name": "cambiosaular1"
+    "price": 354.0,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 351.3,
-    "name": "Child-CambioFacil"
+    "price": 353.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 351.85,
+  "promedio": 353.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
