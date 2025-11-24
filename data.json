@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T15:56:20.993024",
-  "actualizado_vzla": "2025-11-24 11:56:21 -04",
+  "timestamp_utc": "2025-11-24T16:31:40.908441",
+  "actualizado_vzla": "2025-11-24 12:31:40 -04",
   "compra_segundo": {
-    "price": 354.69,
-    "name": "PhenoM_1Tap-3min"
+    "price": 355.7,
+    "name": "Cambios_Vargas"
   },
   "venta_maxima": {
-    "price": 354.501,
-    "name": "hudsonriver"
+    "price": 355.1,
+    "name": "Godisgift"
   },
-  "promedio": 354.6,
+  "promedio": 355.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
