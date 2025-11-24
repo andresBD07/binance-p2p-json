@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T13:40:02.386125",
-  "actualizado_vzla": "2025-11-24 09:40:02 -04",
+  "timestamp_utc": "2025-11-24T13:57:05.374852",
+  "actualizado_vzla": "2025-11-24 09:57:05 -04",
   "compra_segundo": {
-    "price": 353.0,
-    "name": "JHON_BTC"
+    "price": 353.1,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
-    "price": 351.6,
-    "name": "HAWKEYE-1"
+    "price": 352.3,
+    "name": "EleguaOshun"
   },
-  "promedio": 352.3,
+  "promedio": 352.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
