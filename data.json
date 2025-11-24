@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T11:43:13.297179",
-  "actualizado_vzla": "2025-11-24 07:43:13 -04",
+  "timestamp_utc": "2025-11-24T11:56:14.041069",
+  "actualizado_vzla": "2025-11-24 07:56:14 -04",
   "compra_segundo": {
     "price": 353.999,
-    "name": "angelesbr"
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
-    "price": 351.5,
+    "price": 351.86,
     "name": "-Godgiven-"
   },
-  "promedio": 352.75,
+  "promedio": 352.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
