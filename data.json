@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T16:31:40.908441",
-  "actualizado_vzla": "2025-11-24 12:31:40 -04",
+  "timestamp_utc": "2025-11-24T16:50:48.113985",
+  "actualizado_vzla": "2025-11-24 12:50:48 -04",
   "compra_segundo": {
-    "price": 355.7,
-    "name": "Cambios_Vargas"
+    "price": 355.9,
+    "name": "Dpay21"
   },
   "venta_maxima": {
-    "price": 355.1,
-    "name": "Godisgift"
+    "price": 354.76,
+    "name": "-IKNUSA-"
   },
-  "promedio": 355.4,
+  "promedio": 355.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
