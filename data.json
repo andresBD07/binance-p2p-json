@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T19:56:04.876938",
-  "actualizado_vzla": "2025-11-24 15:56:04 -04",
+  "timestamp_utc": "2025-11-24T20:30:41.400179",
+  "actualizado_vzla": "2025-11-24 16:30:41 -04",
   "compra_segundo": {
-    "price": 356.0,
-    "name": "Yossetmz"
+    "price": 356.3,
+    "name": "OpCripto"
   },
   "venta_maxima": {
-    "price": 355.0,
-    "name": "GREEN78"
+    "price": 355.851,
+    "name": "TOPlevelS"
   },
-  "promedio": 355.5,
+  "promedio": 356.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
