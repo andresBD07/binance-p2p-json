@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T17:38:31.009623",
-  "actualizado_vzla": "2025-11-24 13:38:31 -04",
+  "timestamp_utc": "2025-11-24T17:51:59.075909",
+  "actualizado_vzla": "2025-11-24 13:51:59 -04",
   "compra_segundo": {
-    "price": 354.95,
-    "name": "PagoRapido_P2P"
+    "price": 354.5,
+    "name": "CRIPTOEXPRESS"
   },
   "venta_maxima": {
-    "price": 354.6,
-    "name": "Jas2213"
+    "price": 355.0,
+    "name": "Godisgift"
   },
-  "promedio": 354.77,
+  "promedio": 354.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
