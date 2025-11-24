@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T16:50:48.113985",
-  "actualizado_vzla": "2025-11-24 12:50:48 -04",
+  "timestamp_utc": "2025-11-24T17:15:05.542482",
+  "actualizado_vzla": "2025-11-24 13:15:05 -04",
   "compra_segundo": {
-    "price": 355.9,
-    "name": "Dpay21"
+    "price": 355.83,
+    "name": "Cristh957"
   },
   "venta_maxima": {
-    "price": 354.76,
-    "name": "-IKNUSA-"
+    "price": 354.601,
+    "name": "chango_pay"
   },
-  "promedio": 355.33,
+  "promedio": 355.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
