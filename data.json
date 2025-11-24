@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T06:58:34.441526",
-  "actualizado_vzla": "2025-11-24 02:58:34 -04",
+  "timestamp_utc": "2025-11-24T07:28:32.438860",
+  "actualizado_vzla": "2025-11-24 03:28:32 -04",
   "compra_segundo": {
-    "price": 357.899,
-    "name": "CryptoSickoP2P"
+    "price": 358.0,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
     "price": 351.0,
     "name": "Tradingfriend"
   },
-  "promedio": 354.45,
+  "promedio": 354.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
