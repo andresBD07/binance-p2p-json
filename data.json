@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T18:53:48.474494",
-  "actualizado_vzla": "2025-11-24 14:53:48 -04",
+  "timestamp_utc": "2025-11-24T19:16:23.759949",
+  "actualizado_vzla": "2025-11-24 15:16:23 -04",
   "compra_segundo": {
-    "price": 355.24,
-    "name": "bullbridge"
+    "price": 355.7,
+    "name": "jssepro"
   },
   "venta_maxima": {
-    "price": 355.001,
-    "name": "D7OS"
+    "price": 355.3,
+    "name": "hudsonriver"
   },
-  "promedio": 355.12,
+  "promedio": 355.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
