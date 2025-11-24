@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T10:59:25.832208",
-  "actualizado_vzla": "2025-11-24 06:59:25 -04",
+  "timestamp_utc": "2025-11-24T11:26:06.111293",
+  "actualizado_vzla": "2025-11-24 07:26:06 -04",
   "compra_segundo": {
-    "price": 354.785,
-    "name": "-APPARATUS-"
+    "price": 354.1,
+    "name": "NORE19"
   },
   "venta_maxima": {
-    "price": 351.1,
-    "name": "RAULITO2809"
+    "price": 351.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 352.94,
+  "promedio": 352.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
