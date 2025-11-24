@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T14:50:42.870925",
-  "actualizado_vzla": "2025-11-24 10:50:42 -04",
+  "timestamp_utc": "2025-11-24T15:18:20.048332",
+  "actualizado_vzla": "2025-11-24 11:18:20 -04",
   "compra_segundo": {
-    "price": 352.9,
-    "name": "filipenses 4-13"
+    "price": 353.0,
+    "name": "Notorio"
   },
   "venta_maxima": {
-    "price": 352.2,
-    "name": "El-Warao"
+    "price": 353.6,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 352.55,
+  "promedio": 353.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
