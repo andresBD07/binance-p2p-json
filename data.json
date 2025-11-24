@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T17:15:05.542482",
-  "actualizado_vzla": "2025-11-24 13:15:05 -04",
+  "timestamp_utc": "2025-11-24T17:38:31.009623",
+  "actualizado_vzla": "2025-11-24 13:38:31 -04",
   "compra_segundo": {
-    "price": 355.83,
-    "name": "Cristh957"
+    "price": 354.95,
+    "name": "PagoRapido_P2P"
   },
   "venta_maxima": {
-    "price": 354.601,
-    "name": "chango_pay"
+    "price": 354.6,
+    "name": "Jas2213"
   },
-  "promedio": 355.22,
+  "promedio": 354.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
