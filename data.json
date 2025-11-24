@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T08:58:23.819054",
-  "actualizado_vzla": "2025-11-24 04:58:23 -04",
+  "timestamp_utc": "2025-11-24T09:35:04.080215",
+  "actualizado_vzla": "2025-11-24 05:35:04 -04",
   "compra_segundo": {
-    "price": 356.9,
-    "name": "Cambios_TURPIAL"
+    "price": 356.39,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
-    "price": 351.2,
-    "name": "usdtking"
+    "price": 351.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 354.05,
+  "promedio": 353.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
