@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T14:30:23.707173",
-  "actualizado_vzla": "2025-11-24 10:30:23 -04",
+  "timestamp_utc": "2025-11-24T14:50:42.870925",
+  "actualizado_vzla": "2025-11-24 10:50:42 -04",
   "compra_segundo": {
-    "price": 352.5,
-    "name": "criptogene01"
+    "price": 352.9,
+    "name": "filipenses 4-13"
   },
   "venta_maxima": {
-    "price": 351.601,
-    "name": "Servic-Karyguz"
+    "price": 352.2,
+    "name": "El-Warao"
   },
-  "promedio": 352.05,
+  "promedio": 352.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
