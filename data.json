@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T22:57:57.806537",
-  "actualizado_vzla": "2025-11-24 18:57:57 -04",
+  "timestamp_utc": "2025-11-24T23:26:32.931725",
+  "actualizado_vzla": "2025-11-24 19:26:32 -04",
   "compra_segundo": {
-    "price": 358.3,
-    "name": "Elitecambios_J"
+    "price": 358.689,
+    "name": "AT80CAMBIOS"
   },
   "venta_maxima": {
-    "price": 358.1,
+    "price": 358.3,
     "name": "hectoraltrader"
   },
-  "promedio": 358.2,
+  "promedio": 358.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
