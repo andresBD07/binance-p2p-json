@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T20:46:18.896159",
-  "actualizado_vzla": "2025-11-24 16:46:18 -04",
+  "timestamp_utc": "2025-11-24T20:59:15.141063",
+  "actualizado_vzla": "2025-11-24 16:59:15 -04",
   "compra_segundo": {
-    "price": 356.45,
-    "name": "Rebeasc"
+    "price": 356.5,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 356.4,
-    "name": "SmartSolutionn"
+    "price": 356.6,
+    "name": "Jas2213"
   },
-  "promedio": 356.42,
+  "promedio": 356.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
