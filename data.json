@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T11:26:06.111293",
-  "actualizado_vzla": "2025-11-24 07:26:06 -04",
+  "timestamp_utc": "2025-11-24T11:43:13.297179",
+  "actualizado_vzla": "2025-11-24 07:43:13 -04",
   "compra_segundo": {
-    "price": 354.1,
-    "name": "NORE19"
+    "price": 353.999,
+    "name": "angelesbr"
   },
   "venta_maxima": {
     "price": 351.5,
     "name": "-Godgiven-"
   },
-  "promedio": 352.8,
+  "promedio": 352.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
