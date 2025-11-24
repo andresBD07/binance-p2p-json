@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T08:39:02.985814",
-  "actualizado_vzla": "2025-11-24 04:39:02 -04",
+  "timestamp_utc": "2025-11-24T08:58:23.819054",
+  "actualizado_vzla": "2025-11-24 04:58:23 -04",
   "compra_segundo": {
-    "price": 357.0,
-    "name": "Reinny"
+    "price": 356.9,
+    "name": "Cambios_TURPIAL"
   },
   "venta_maxima": {
-    "price": 351.0,
-    "name": "Tradingfriend"
+    "price": 351.2,
+    "name": "usdtking"
   },
-  "promedio": 354.0,
+  "promedio": 354.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
