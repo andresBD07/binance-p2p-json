@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T17:51:59.075909",
-  "actualizado_vzla": "2025-11-24 13:51:59 -04",
+  "timestamp_utc": "2025-11-24T18:28:01.949604",
+  "actualizado_vzla": "2025-11-24 14:28:01 -04",
   "compra_segundo": {
-    "price": 354.5,
-    "name": "CRIPTOEXPRESS"
+    "price": 355.1,
+    "name": "jssepro"
   },
   "venta_maxima": {
-    "price": 355.0,
-    "name": "Godisgift"
+    "price": 355.62,
+    "name": "Burdyn"
   },
-  "promedio": 354.75,
+  "promedio": 355.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
