@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-24T20:59:15.141063",
-  "actualizado_vzla": "2025-11-24 16:59:15 -04",
+  "timestamp_utc": "2025-11-24T21:27:42.771178",
+  "actualizado_vzla": "2025-11-24 17:27:42 -04",
   "compra_segundo": {
-    "price": 356.5,
-    "name": "BallGroup"
+    "price": 357.65,
+    "name": "elsupergonzo"
   },
   "venta_maxima": {
     "price": 356.6,
-    "name": "Jas2213"
+    "name": "hectoraltrader"
   },
-  "promedio": 356.55,
+  "promedio": 357.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
