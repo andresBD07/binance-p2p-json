@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T11:26:34.744280",
-  "actualizado_vzla": "2025-11-25 07:26:34 -04",
+  "timestamp_utc": "2025-11-25T11:43:46.490992",
+  "actualizado_vzla": "2025-11-25 07:43:46 -04",
   "compra_segundo": {
-    "price": 357.7,
-    "name": "Criptoseed"
+    "price": 357.14,
+    "name": "Mastersupplies"
   },
   "venta_maxima": {
-    "price": 356.01,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 356.0,
+    "name": "Biyt"
   },
-  "promedio": 356.86,
+  "promedio": 356.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
