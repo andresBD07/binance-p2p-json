@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T15:40:18.650374",
-  "actualizado_vzla": "2025-11-25 11:40:18 -04",
+  "timestamp_utc": "2025-11-25T15:55:27.592174",
+  "actualizado_vzla": "2025-11-25 11:55:27 -04",
   "compra_segundo": {
-    "price": 361.58,
-    "name": "ZubzeroCooL"
+    "price": 363.0,
+    "name": "VelkanVe"
   },
   "venta_maxima": {
-    "price": 364.01,
-    "name": "VECTURAFX"
+    "price": 363.5,
+    "name": "Megapagos"
   },
-  "promedio": 362.79,
+  "promedio": 363.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
