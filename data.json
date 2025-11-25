@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T21:43:01.949778",
-  "actualizado_vzla": "2025-11-25 17:43:01 -04",
+  "timestamp_utc": "2025-11-25T21:55:47.471542",
+  "actualizado_vzla": "2025-11-25 17:55:47 -04",
   "compra_segundo": {
-    "price": 370.99,
-    "name": "kaizenholder"
+    "price": 371.5,
+    "name": "leosolox"
   },
   "venta_maxima": {
-    "price": 368.5,
-    "name": "FTLM"
+    "price": 368.7,
+    "name": "SmartSolutionn"
   },
-  "promedio": 369.75,
+  "promedio": 370.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
