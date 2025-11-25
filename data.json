@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T19:24:39.227822",
-  "actualizado_vzla": "2025-11-25 15:24:39 -04",
+  "timestamp_utc": "2025-11-25T19:40:35.665076",
+  "actualizado_vzla": "2025-11-25 15:40:35 -04",
   "compra_segundo": {
-    "price": 364.5,
-    "name": "javier273"
+    "price": 365.6,
+    "name": "Qwer77"
   },
   "venta_maxima": {
-    "price": 364.0,
+    "price": 364.2,
     "name": "hectoraltrader"
   },
-  "promedio": 364.25,
+  "promedio": 364.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
