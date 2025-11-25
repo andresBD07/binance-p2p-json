@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T19:53:55.656309",
-  "actualizado_vzla": "2025-11-25 15:53:55 -04",
+  "timestamp_utc": "2025-11-25T20:26:52.177719",
+  "actualizado_vzla": "2025-11-25 16:26:52 -04",
   "compra_segundo": {
-    "price": 365.89,
-    "name": "Cristh957"
+    "price": 366.0,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 365.1,
+    "price": 365.55,
     "name": "hectoraltrader"
   },
-  "promedio": 365.5,
+  "promedio": 365.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
