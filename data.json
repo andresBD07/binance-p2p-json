@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T21:26:57.011416",
-  "actualizado_vzla": "2025-11-25 17:26:57 -04",
+  "timestamp_utc": "2025-11-25T21:43:01.949778",
+  "actualizado_vzla": "2025-11-25 17:43:01 -04",
   "compra_segundo": {
-    "price": 369.95,
-    "name": "MarDiodoros"
+    "price": 370.99,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 369.0,
-    "name": "hectoraltrader"
+    "price": 368.5,
+    "name": "FTLM"
   },
-  "promedio": 369.48,
+  "promedio": 369.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
