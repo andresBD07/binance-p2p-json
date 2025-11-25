@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T12:58:45.075050",
-  "actualizado_vzla": "2025-11-25 08:58:45 -04",
+  "timestamp_utc": "2025-11-25T13:40:44.125235",
+  "actualizado_vzla": "2025-11-25 09:40:44 -04",
   "compra_segundo": {
-    "price": 356.29,
-    "name": "LordTUKY"
+    "price": 356.79,
+    "name": "rParadas"
   },
   "venta_maxima": {
     "price": 356.0,
     "name": "Biyt"
   },
-  "promedio": 356.14,
+  "promedio": 356.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
