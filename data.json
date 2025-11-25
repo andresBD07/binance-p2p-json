@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T15:14:31.221343",
-  "actualizado_vzla": "2025-11-25 11:14:31 -04",
+  "timestamp_utc": "2025-11-25T15:40:18.650374",
+  "actualizado_vzla": "2025-11-25 11:40:18 -04",
   "compra_segundo": {
-    "price": 359.35,
-    "name": "LEMONCHANGE"
+    "price": 361.58,
+    "name": "ZubzeroCooL"
   },
   "venta_maxima": {
-    "price": 359.5,
-    "name": "TheBlackHand"
+    "price": 364.01,
+    "name": "VECTURAFX"
   },
-  "promedio": 359.43,
+  "promedio": 362.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
