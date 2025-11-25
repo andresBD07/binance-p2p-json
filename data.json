@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T09:33:25.963659",
-  "actualizado_vzla": "2025-11-25 05:33:25 -04",
+  "timestamp_utc": "2025-11-25T09:51:00.038102",
+  "actualizado_vzla": "2025-11-25 05:51:00 -04",
   "compra_segundo": {
-    "price": 359.0,
-    "name": "Neiker-Exchange"
+    "price": 358.99,
+    "name": "AlainTD"
   },
   "venta_maxima": {
-    "price": 356.0,
-    "name": "Elrefugiodecatgaby"
+    "price": 355.26,
+    "name": "DGOLDGIROS"
   },
-  "promedio": 357.5,
+  "promedio": 357.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
