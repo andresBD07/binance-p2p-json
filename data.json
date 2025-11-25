@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T14:49:34.638856",
-  "actualizado_vzla": "2025-11-25 10:49:34 -04",
+  "timestamp_utc": "2025-11-25T15:14:31.221343",
+  "actualizado_vzla": "2025-11-25 11:14:31 -04",
   "compra_segundo": {
-    "price": 358.59,
-    "name": "Ramoncho2020"
+    "price": 359.35,
+    "name": "LEMONCHANGE"
   },
   "venta_maxima": {
     "price": 359.5,
     "name": "TheBlackHand"
   },
-  "promedio": 359.04,
+  "promedio": 359.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
