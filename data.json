@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T07:44:44.001033",
-  "actualizado_vzla": "2025-11-25 03:44:44 -04",
+  "timestamp_utc": "2025-11-25T07:58:13.274184",
+  "actualizado_vzla": "2025-11-25 03:58:13 -04",
   "compra_segundo": {
-    "price": 359.53,
-    "name": "GaAle19"
+    "price": 359.579,
+    "name": "caronita-trader24h"
   },
   "venta_maxima": {
-    "price": 355.555,
-    "name": "BerracoT"
+    "price": 355.26,
+    "name": "DGOLDGIROS"
   },
-  "promedio": 357.54,
+  "promedio": 357.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
