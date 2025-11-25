@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T06:43:41.640166",
-  "actualizado_vzla": "2025-11-25 02:43:41 -04",
+  "timestamp_utc": "2025-11-25T07:00:19.337000",
+  "actualizado_vzla": "2025-11-25 03:00:19 -04",
   "compra_segundo": {
-    "price": 359.45,
-    "name": "Kartozpk"
+    "price": 359.53,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 356.5,
-    "name": "Quick Payment"
+    "price": 355.555,
+    "name": "BerracoT"
   },
-  "promedio": 357.98,
+  "promedio": 357.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
