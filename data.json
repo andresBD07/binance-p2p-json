@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T17:59:59.109051",
-  "actualizado_vzla": "2025-11-25 13:59:59 -04",
+  "timestamp_utc": "2025-11-25T18:42:30.167977",
+  "actualizado_vzla": "2025-11-25 14:42:30 -04",
   "compra_segundo": {
-    "price": 364.28,
-    "name": "breintrader"
+    "price": 363.15,
+    "name": "FastChangesJA"
   },
   "venta_maxima": {
-    "price": 363.8,
-    "name": "yucatrader"
+    "price": 365.4,
+    "name": "VR46-"
   },
-  "promedio": 364.04,
+  "promedio": 364.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
