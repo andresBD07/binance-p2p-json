@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T05:22:46.599750",
-  "actualizado_vzla": "2025-11-25 01:22:46 -04",
+  "timestamp_utc": "2025-11-25T05:43:41.929713",
+  "actualizado_vzla": "2025-11-25 01:43:41 -04",
   "compra_segundo": {
-    "price": 359.2,
-    "name": "LeNary-"
+    "price": 359.4,
+    "name": "AllisonChirinos"
   },
   "venta_maxima": {
-    "price": 356.8,
+    "price": 356.5,
     "name": "Quick Payment"
   },
-  "promedio": 358.0,
+  "promedio": 357.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
