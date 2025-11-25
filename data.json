@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T22:58:18.676408",
-  "actualizado_vzla": "2025-11-25 18:58:18 -04",
+  "timestamp_utc": "2025-11-25T23:26:30.249346",
+  "actualizado_vzla": "2025-11-25 19:26:30 -04",
   "compra_segundo": {
-    "price": 371.5,
-    "name": "BILLETERA P2P "
+    "price": 371.89,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 371.0,
+    "price": 370.3,
     "name": "hudsonriver"
   },
-  "promedio": 371.25,
+  "promedio": 371.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
