@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T16:58:15.901751",
-  "actualizado_vzla": "2025-11-25 12:58:15 -04",
+  "timestamp_utc": "2025-11-25T17:29:00.827658",
+  "actualizado_vzla": "2025-11-25 13:29:00 -04",
   "compra_segundo": {
-    "price": 366.88,
-    "name": "cambiosDEV"
+    "price": 366.2,
+    "name": "Metavic96_Pago-5-min"
   },
   "venta_maxima": {
     "price": 366.0,
-    "name": "MILOMA-EXCHANGE"
+    "name": "-Yotei-"
   },
-  "promedio": 366.44,
+  "promedio": 366.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
