@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T09:51:00.038102",
-  "actualizado_vzla": "2025-11-25 05:51:00 -04",
+  "timestamp_utc": "2025-11-25T10:19:28.337963",
+  "actualizado_vzla": "2025-11-25 06:19:28 -04",
   "compra_segundo": {
-    "price": 358.99,
-    "name": "AlainTD"
+    "price": 358.5,
+    "name": "LaMinaDeOro_"
   },
   "venta_maxima": {
-    "price": 355.26,
-    "name": "DGOLDGIROS"
+    "price": 355.44,
+    "name": "Elrefugiodecatgaby"
   },
-  "promedio": 357.12,
+  "promedio": 356.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
