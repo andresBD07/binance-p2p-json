@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T16:37:07.839136",
-  "actualizado_vzla": "2025-11-25 12:37:07 -04",
+  "timestamp_utc": "2025-11-25T16:58:15.901751",
+  "actualizado_vzla": "2025-11-25 12:58:15 -04",
   "compra_segundo": {
-    "price": 367.18,
-    "name": "ArepaConCafé"
+    "price": 366.88,
+    "name": "cambiosDEV"
   },
   "venta_maxima": {
-    "price": 365.5,
-    "name": "-PositiveMind-"
+    "price": 366.0,
+    "name": "MILOMA-EXCHANGE"
   },
-  "promedio": 366.34,
+  "promedio": 366.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
