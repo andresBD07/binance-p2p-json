@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T23:42:30.508231",
-  "actualizado_vzla": "2025-11-25 19:42:30 -04",
+  "timestamp_utc": "2025-11-25T23:55:19.362009",
+  "actualizado_vzla": "2025-11-25 19:55:19 -04",
   "compra_segundo": {
-    "price": 371.99,
-    "name": "_AltCoinMaster_"
+    "price": 372.0,
+    "name": "Camilo171"
   },
   "venta_maxima": {
-    "price": 370.5,
+    "price": 370.3,
     "name": "hudsonriver"
   },
-  "promedio": 371.25,
+  "promedio": 371.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
