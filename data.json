@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T05:56:58.867271",
-  "actualizado_vzla": "2025-11-25 01:56:58 -04",
+  "timestamp_utc": "2025-11-25T06:43:41.640166",
+  "actualizado_vzla": "2025-11-25 02:43:41 -04",
   "compra_segundo": {
-    "price": 359.4,
-    "name": "AllisonChirinos"
+    "price": 359.45,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
     "price": 356.5,
     "name": "Quick Payment"
   },
-  "promedio": 357.95,
+  "promedio": 357.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
