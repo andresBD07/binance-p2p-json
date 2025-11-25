@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T04:53:34.436774",
-  "actualizado_vzla": "2025-11-25 00:53:34 -04",
+  "timestamp_utc": "2025-11-25T05:22:46.599750",
+  "actualizado_vzla": "2025-11-25 01:22:46 -04",
   "compra_segundo": {
     "price": 359.2,
-    "name": "Mero-Mero"
+    "name": "LeNary-"
   },
   "venta_maxima": {
-    "price": 356.1,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 356.8,
+    "name": "Quick Payment"
   },
-  "promedio": 357.65,
+  "promedio": 358.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
