@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-25T20:59:20.346020",
-  "actualizado_vzla": "2025-11-25 16:59:20 -04",
+  "timestamp_utc": "2025-11-25T21:26:57.011416",
+  "actualizado_vzla": "2025-11-25 17:26:57 -04",
   "compra_segundo": {
-    "price": 366.79,
-    "name": "Jesus_viloriagil"
+    "price": 369.95,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
-    "price": 367.6,
-    "name": "SmartSolutionn"
+    "price": 369.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 367.2,
+  "promedio": 369.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
