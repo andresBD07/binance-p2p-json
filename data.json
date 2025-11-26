@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T03:21:25.253969",
-  "actualizado_vzla": "2025-11-25 23:21:25 -04",
+  "timestamp_utc": "2025-11-26T03:58:09.779981",
+  "actualizado_vzla": "2025-11-25 23:58:09 -04",
   "compra_segundo": {
-    "price": 373.0,
-    "name": "RushPay"
+    "price": 373.34,
+    "name": "Check-eate"
   },
   "venta_maxima": {
-    "price": 371.5,
-    "name": "TOPlevelS"
+    "price": 370.5,
+    "name": "LisandroLeonardi"
   },
-  "promedio": 372.25,
+  "promedio": 371.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
