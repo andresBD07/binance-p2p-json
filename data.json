@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T16:50:11.846975",
-  "actualizado_vzla": "2025-11-26 12:50:11 -04",
+  "timestamp_utc": "2025-11-26T17:13:27.420436",
+  "actualizado_vzla": "2025-11-26 13:13:27 -04",
   "compra_segundo": {
-    "price": 385.399,
-    "name": "AltTradeKing"
+    "price": 383.0,
+    "name": "Pesce_Exchange"
   },
   "venta_maxima": {
-    "price": 386.8,
-    "name": "intercambiosRodríguez "
+    "price": 381.55,
+    "name": "yrptkv"
   },
-  "promedio": 386.1,
+  "promedio": 382.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
