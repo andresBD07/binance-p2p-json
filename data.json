@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T22:45:40.333595",
-  "actualizado_vzla": "2025-11-26 18:45:40 -04",
+  "timestamp_utc": "2025-11-26T22:58:29.791647",
+  "actualizado_vzla": "2025-11-26 18:58:29 -04",
   "compra_segundo": {
-    "price": 378.499,
-    "name": "Latinlf"
+    "price": 378.65,
+    "name": "Chespi_cripto8"
   },
   "venta_maxima": {
-    "price": 379.6,
-    "name": "Jin-Woo-Sung"
+    "price": 378.5,
+    "name": "Quick Payment"
   },
-  "promedio": 379.05,
+  "promedio": 378.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
