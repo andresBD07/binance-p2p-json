@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T15:38:28.360295",
-  "actualizado_vzla": "2025-11-26 11:38:28 -04",
+  "timestamp_utc": "2025-11-26T15:51:32.269528",
+  "actualizado_vzla": "2025-11-26 11:51:32 -04",
   "compra_segundo": {
-    "price": 387.117,
-    "name": "LEMONCHANGE"
+    "price": 387.35,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
     "price": 385.5,
-    "name": "Solvenza"
+    "name": "hectoraltrader"
   },
-  "promedio": 386.31,
+  "promedio": 386.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
