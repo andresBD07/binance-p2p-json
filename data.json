@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T10:17:36.156559",
-  "actualizado_vzla": "2025-11-26 06:17:36 -04",
+  "timestamp_utc": "2025-11-26T10:43:36.918411",
+  "actualizado_vzla": "2025-11-26 06:43:36 -04",
   "compra_segundo": {
-    "price": 376.1,
-    "name": "Digitalimport"
+    "price": 375.0,
+    "name": "chaker9"
   },
   "venta_maxima": {
-    "price": 369.7,
-    "name": "leomileo2022"
+    "price": 370.101,
+    "name": "Keria23"
   },
-  "promedio": 372.9,
+  "promedio": 372.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
