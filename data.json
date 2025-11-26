@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T13:41:36.315376",
-  "actualizado_vzla": "2025-11-26 09:41:36 -04",
+  "timestamp_utc": "2025-11-26T13:57:41.916006",
+  "actualizado_vzla": "2025-11-26 09:57:41 -04",
   "compra_segundo": {
-    "price": 377.985,
-    "name": "Black-182"
+    "price": 378.0,
+    "name": "ミReinaPepiadaCoinミ"
   },
   "venta_maxima": {
-    "price": 378.0,
-    "name": "FinanceSecure"
+    "price": 378.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 377.99,
+  "promedio": 378.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
