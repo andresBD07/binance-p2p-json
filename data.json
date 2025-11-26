@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T07:57:10.977056",
-  "actualizado_vzla": "2025-11-26 03:57:10 -04",
+  "timestamp_utc": "2025-11-26T08:37:29.946005",
+  "actualizado_vzla": "2025-11-26 04:37:29 -04",
   "compra_segundo": {
     "price": 376.4,
     "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 369.51,
-    "name": "panchofranco1"
+    "price": 369.7,
+    "name": "leomileo2022"
   },
-  "promedio": 372.95,
+  "promedio": 373.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
