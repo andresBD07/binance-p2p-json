@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T22:58:29.791647",
-  "actualizado_vzla": "2025-11-26 18:58:29 -04",
+  "timestamp_utc": "2025-11-26T23:26:32.157946",
+  "actualizado_vzla": "2025-11-26 19:26:32 -04",
   "compra_segundo": {
-    "price": 378.65,
-    "name": "Chespi_cripto8"
+    "price": 379.0,
+    "name": "MONKEY-CASH"
   },
   "venta_maxima": {
     "price": 378.5,
-    "name": "Quick Payment"
+    "name": "IMPORTACIONEMUNVE"
   },
-  "promedio": 378.57,
+  "promedio": 378.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
