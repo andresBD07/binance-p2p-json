@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T18:56:50.030012",
-  "actualizado_vzla": "2025-11-26 14:56:50 -04",
+  "timestamp_utc": "2025-11-26T19:21:32.981844",
+  "actualizado_vzla": "2025-11-26 15:21:32 -04",
   "compra_segundo": {
-    "price": 383.3,
-    "name": "KingTradeVzla"
+    "price": 382.85,
+    "name": "Divisas_Coffee"
   },
   "venta_maxima": {
-    "price": 380.7,
+    "price": 381.2,
     "name": "SmartSolutionn"
   },
-  "promedio": 382.0,
+  "promedio": 382.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
