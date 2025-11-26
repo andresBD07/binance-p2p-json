@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T05:20:39.697072",
-  "actualizado_vzla": "2025-11-26 01:20:39 -04",
+  "timestamp_utc": "2025-11-26T05:41:33.722096",
+  "actualizado_vzla": "2025-11-26 01:41:33 -04",
   "compra_segundo": {
-    "price": 375.999,
-    "name": "FastChangeSafeChange"
+    "price": 375.987,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
-    "price": 370.3,
+    "price": 370.2,
     "name": "Quick Payment"
   },
-  "promedio": 373.15,
+  "promedio": 373.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
