@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T21:59:48.523692",
-  "actualizado_vzla": "2025-11-26 17:59:48 -04",
+  "timestamp_utc": "2025-11-26T22:29:42.135869",
+  "actualizado_vzla": "2025-11-26 18:29:42 -04",
   "compra_segundo": {
-    "price": 379.298,
-    "name": "Wil2589"
+    "price": 378.887,
+    "name": "Atumanocambio"
   },
   "venta_maxima": {
-    "price": 378.0,
-    "name": "hectoraltrader"
+    "price": 378.5,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 378.65,
+  "promedio": 378.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
