@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T17:13:27.420436",
-  "actualizado_vzla": "2025-11-26 13:13:27 -04",
+  "timestamp_utc": "2025-11-26T17:35:58.936765",
+  "actualizado_vzla": "2025-11-26 13:35:58 -04",
   "compra_segundo": {
-    "price": 383.0,
-    "name": "Pesce_Exchange"
+    "price": 376.2,
+    "name": "LCEtrader"
   },
   "venta_maxima": {
-    "price": 381.55,
-    "name": "yrptkv"
+    "price": 379.0,
+    "name": "SmartSolutionn"
   },
-  "promedio": 382.27,
+  "promedio": 377.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
