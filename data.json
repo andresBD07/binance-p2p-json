@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T18:16:42.931858",
-  "actualizado_vzla": "2025-11-26 14:16:42 -04",
+  "timestamp_utc": "2025-11-26T18:43:57.981057",
+  "actualizado_vzla": "2025-11-26 14:43:57 -04",
   "compra_segundo": {
-    "price": 377.9,
-    "name": "_InversionesJG_"
+    "price": 382.39,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
-    "price": 378.0,
-    "name": "FinanceSecure"
+    "price": 380.5,
+    "name": "Godisgift"
   },
-  "promedio": 377.95,
+  "promedio": 381.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
