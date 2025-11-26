@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T11:42:07.949997",
-  "actualizado_vzla": "2025-11-26 07:42:07 -04",
+  "timestamp_utc": "2025-11-26T11:55:31.546504",
+  "actualizado_vzla": "2025-11-26 07:55:31 -04",
   "compra_segundo": {
-    "price": 376.5,
-    "name": "Guayoyoo"
+    "price": 376.787,
+    "name": "CriptoTACHIRA"
   },
   "venta_maxima": {
-    "price": 373.1,
-    "name": "Neiker-Exchange"
+    "price": 374.801,
+    "name": "_CAMBI0S_SEGUR0S_"
   },
-  "promedio": 374.8,
+  "promedio": 375.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
