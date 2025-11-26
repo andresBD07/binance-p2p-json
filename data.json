@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T18:43:57.981057",
-  "actualizado_vzla": "2025-11-26 14:43:57 -04",
+  "timestamp_utc": "2025-11-26T18:56:50.030012",
+  "actualizado_vzla": "2025-11-26 14:56:50 -04",
   "compra_segundo": {
-    "price": 382.39,
-    "name": "ledezmagm"
+    "price": 383.3,
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
-    "price": 380.5,
-    "name": "Godisgift"
+    "price": 380.7,
+    "name": "SmartSolutionn"
   },
-  "promedio": 381.44,
+  "promedio": 382.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
