@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T21:33:40.475821",
-  "actualizado_vzla": "2025-11-26 17:33:40 -04",
+  "timestamp_utc": "2025-11-26T21:46:55.440135",
+  "actualizado_vzla": "2025-11-26 17:46:55 -04",
   "compra_segundo": {
-    "price": 378.999,
-    "name": "-APPARATUS-"
+    "price": 379.395,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 379.98,
-    "name": "SkGroup23"
+    "price": 379.0,
+    "name": "Montcios"
   },
-  "promedio": 379.49,
+  "promedio": 379.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
