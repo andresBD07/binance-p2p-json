@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T04:35:08.770809",
-  "actualizado_vzla": "2025-11-26 00:35:08 -04",
+  "timestamp_utc": "2025-11-26T04:52:49.701713",
+  "actualizado_vzla": "2025-11-26 00:52:49 -04",
   "compra_segundo": {
-    "price": 374.999,
-    "name": "彡TrustyTrader1A彡"
+    "price": 375.49,
+    "name": "Budyzz"
   },
   "venta_maxima": {
     "price": 370.3,
     "name": "Quick Payment"
   },
-  "promedio": 372.65,
+  "promedio": 372.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
