@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T14:31:24.104452",
-  "actualizado_vzla": "2025-11-26 10:31:24 -04",
+  "timestamp_utc": "2025-11-26T14:50:52.426181",
+  "actualizado_vzla": "2025-11-26 10:50:52 -04",
   "compra_segundo": {
-    "price": 379.3,
-    "name": "Digitalvimarket"
+    "price": 381.3,
+    "name": "AngelysGr"
   },
   "venta_maxima": {
-    "price": 380.1,
+    "price": 383.0,
     "name": "SmartSolutionn"
   },
-  "promedio": 379.7,
+  "promedio": 382.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
