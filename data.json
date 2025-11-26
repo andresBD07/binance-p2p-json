@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T17:49:42.958354",
-  "actualizado_vzla": "2025-11-26 13:49:42 -04",
+  "timestamp_utc": "2025-11-26T18:16:42.931858",
+  "actualizado_vzla": "2025-11-26 14:16:42 -04",
   "compra_segundo": {
-    "price": 375.79,
-    "name": "MolinaJP_"
+    "price": 377.9,
+    "name": "_InversionesJG_"
   },
   "venta_maxima": {
-    "price": 377.5,
-    "name": "To0809"
+    "price": 378.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 376.64,
+  "promedio": 377.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
