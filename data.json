@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T06:57:56.178653",
-  "actualizado_vzla": "2025-11-26 02:57:56 -04",
+  "timestamp_utc": "2025-11-26T07:27:50.134380",
+  "actualizado_vzla": "2025-11-26 03:27:50 -04",
   "compra_segundo": {
-    "price": 376.4,
-    "name": "GaAle19"
+    "price": 376.99,
+    "name": "ItsFlame"
   },
   "venta_maxima": {
     "price": 370.0,
     "name": "NUM3R1T0"
   },
-  "promedio": 373.2,
+  "promedio": 373.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
