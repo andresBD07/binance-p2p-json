@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T11:55:31.546504",
-  "actualizado_vzla": "2025-11-26 07:55:31 -04",
+  "timestamp_utc": "2025-11-26T12:59:10.517325",
+  "actualizado_vzla": "2025-11-26 08:59:10 -04",
   "compra_segundo": {
-    "price": 376.787,
-    "name": "CriptoTACHIRA"
+    "price": 378.147,
+    "name": "SIVE_Trading"
   },
   "venta_maxima": {
-    "price": 374.801,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 375.8,
+    "name": "Kingtrade5555"
   },
-  "promedio": 375.79,
+  "promedio": 376.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
