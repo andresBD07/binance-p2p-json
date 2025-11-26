@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T17:35:58.936765",
-  "actualizado_vzla": "2025-11-26 13:35:58 -04",
+  "timestamp_utc": "2025-11-26T17:49:42.958354",
+  "actualizado_vzla": "2025-11-26 13:49:42 -04",
   "compra_segundo": {
-    "price": 376.2,
-    "name": "LCEtrader"
+    "price": 375.79,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 379.0,
-    "name": "SmartSolutionn"
+    "price": 377.5,
+    "name": "To0809"
   },
-  "promedio": 377.6,
+  "promedio": 376.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
