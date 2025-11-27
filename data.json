@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T23:41:52.685366",
-  "actualizado_vzla": "2025-11-27 19:41:52 -04",
+  "timestamp_utc": "2025-11-27T23:54:37.252401",
+  "actualizado_vzla": "2025-11-27 19:54:37 -04",
   "compra_segundo": {
-    "price": 370.87,
-    "name": "CambioRapido13"
+    "price": 370.7,
+    "name": "Trader_CambiosDigital"
   },
   "venta_maxima": {
-    "price": 369.001,
-    "name": "VECTURAFX"
+    "price": 370.0,
+    "name": "LogisticExchange"
   },
-  "promedio": 369.94,
+  "promedio": 370.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
