@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T15:24:25.191347",
-  "actualizado_vzla": "2025-11-27 11:24:25 -04",
+  "timestamp_utc": "2025-11-27T15:43:12.471839",
+  "actualizado_vzla": "2025-11-27 11:43:12 -04",
   "compra_segundo": {
-    "price": 376.79,
-    "name": "jerg788"
+    "price": 375.3,
+    "name": "ulizer"
   },
   "venta_maxima": {
-    "price": 377.0,
-    "name": "OTCLEGEND"
+    "price": 375.1,
+    "name": "Brawlcoins"
   },
-  "promedio": 376.89,
+  "promedio": 375.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
