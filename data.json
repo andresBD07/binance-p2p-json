@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T18:48:42.723291",
-  "actualizado_vzla": "2025-11-27 14:48:42 -04",
+  "timestamp_utc": "2025-11-27T19:08:41.481164",
+  "actualizado_vzla": "2025-11-27 15:08:41 -04",
   "compra_segundo": {
-    "price": 370.0,
-    "name": "Silv3rPkm"
+    "price": 371.5,
+    "name": "CRIPTOEXPRESS"
   },
   "venta_maxima": {
-    "price": 369.51,
-    "name": "MaestroRoshi-"
+    "price": 370.5,
+    "name": "El-Warao"
   },
-  "promedio": 369.75,
+  "promedio": 371.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
