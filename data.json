@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-26T23:54:53.557588",
-  "actualizado_vzla": "2025-11-26 19:54:53 -04",
+  "timestamp_utc": "2025-11-27T01:57:58.313786",
+  "actualizado_vzla": "2025-11-26 21:57:58 -04",
   "compra_segundo": {
-    "price": 379.37,
-    "name": "LinkVzla"
+    "price": 381.5,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 377.9,
-    "name": "Quick Payment"
+    "price": 379.001,
+    "name": "F_A_I_R"
   },
-  "promedio": 378.63,
+  "promedio": 380.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
