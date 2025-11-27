@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T22:28:30.722956",
-  "actualizado_vzla": "2025-11-27 18:28:30 -04",
+  "timestamp_utc": "2025-11-27T22:44:20.276723",
+  "actualizado_vzla": "2025-11-27 18:44:20 -04",
   "compra_segundo": {
-    "price": 373.297,
-    "name": "LordTUKY"
+    "price": 373.88,
+    "name": "CityGroup-VM"
   },
   "venta_maxima": {
     "price": 372.08,
     "name": "VECTURAFX"
   },
-  "promedio": 372.69,
+  "promedio": 372.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
