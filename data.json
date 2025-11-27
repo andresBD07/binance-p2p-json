@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T15:56:29.645975",
-  "actualizado_vzla": "2025-11-27 11:56:29 -04",
+  "timestamp_utc": "2025-11-27T16:34:39.158132",
+  "actualizado_vzla": "2025-11-27 12:34:39 -04",
   "compra_segundo": {
-    "price": 374.399,
-    "name": "Latinlf"
+    "price": 374.3,
+    "name": "XSwapSecure"
   },
   "venta_maxima": {
-    "price": 374.2,
-    "name": "Brawlcoins"
+    "price": 373.0,
+    "name": "0xSai"
   },
-  "promedio": 374.3,
+  "promedio": 373.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
