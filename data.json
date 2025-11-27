@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T21:58:49.959993",
-  "actualizado_vzla": "2025-11-27 17:58:49 -04",
+  "timestamp_utc": "2025-11-27T22:28:30.722956",
+  "actualizado_vzla": "2025-11-27 18:28:30 -04",
   "compra_segundo": {
-    "price": 372.99,
-    "name": "Saher7"
+    "price": 373.297,
+    "name": "LordTUKY"
   },
   "venta_maxima": {
-    "price": 372.5,
-    "name": "ALASKA-"
+    "price": 372.08,
+    "name": "VECTURAFX"
   },
-  "promedio": 372.75,
+  "promedio": 372.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
