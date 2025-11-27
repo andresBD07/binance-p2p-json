@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T19:53:36.515188",
-  "actualizado_vzla": "2025-11-27 15:53:36 -04",
+  "timestamp_utc": "2025-11-27T20:22:17.262024",
+  "actualizado_vzla": "2025-11-27 16:22:17 -04",
   "compra_segundo": {
-    "price": 372.0,
-    "name": "Ricardo"
+    "price": 371.99,
+    "name": "CAMBIO-LAGO"
   },
   "venta_maxima": {
-    "price": 370.8,
-    "name": "KillKeroy"
+    "price": 371.61,
+    "name": "VECTURAFX"
   },
-  "promedio": 371.4,
+  "promedio": 371.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
