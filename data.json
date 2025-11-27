@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T04:48:18.609341",
-  "actualizado_vzla": "2025-11-27 00:48:18 -04",
+  "timestamp_utc": "2025-11-27T05:11:00.671094",
+  "actualizado_vzla": "2025-11-27 01:11:00 -04",
   "compra_segundo": {
-    "price": 383.053,
-    "name": "El Buitre"
+    "price": 384.0,
+    "name": "LRchanges "
   },
   "venta_maxima": {
-    "price": 378.37,
-    "name": "SantiagoR19"
+    "price": 380.0,
+    "name": "Godisgift"
   },
-  "promedio": 380.71,
+  "promedio": 382.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
