@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T21:17:52.149422",
-  "actualizado_vzla": "2025-11-27 17:17:52 -04",
+  "timestamp_utc": "2025-11-27T21:32:52.760647",
+  "actualizado_vzla": "2025-11-27 17:32:52 -04",
   "compra_segundo": {
-    "price": 371.8,
-    "name": "SeguroVeloz"
+    "price": 372.389,
+    "name": "Crypto_Flight"
   },
   "venta_maxima": {
-    "price": 371.91,
+    "price": 372.001,
     "name": "VECTURAFX"
   },
-  "promedio": 371.86,
+  "promedio": 372.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
