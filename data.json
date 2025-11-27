@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T11:23:11.796956",
-  "actualizado_vzla": "2025-11-27 07:23:11 -04",
+  "timestamp_utc": "2025-11-27T11:39:33.138917",
+  "actualizado_vzla": "2025-11-27 07:39:33 -04",
   "compra_segundo": {
-    "price": 382.39,
-    "name": "ArepaConCafé"
+    "price": 382.0,
+    "name": "Keria23"
   },
   "venta_maxima": {
-    "price": 379.351,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 379.35,
+    "name": "Kingtrade5555"
   },
-  "promedio": 380.87,
+  "promedio": 380.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
