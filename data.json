@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T07:27:14.834494",
-  "actualizado_vzla": "2025-11-27 03:27:14 -04",
+  "timestamp_utc": "2025-11-27T07:43:42.378483",
+  "actualizado_vzla": "2025-11-27 03:43:42 -04",
   "compra_segundo": {
-    "price": 384.5,
-    "name": "TransJ_J"
+    "price": 384.795,
+    "name": "Budyzz"
   },
   "venta_maxima": {
     "price": 378.1,
     "name": "inverck"
   },
-  "promedio": 381.3,
+  "promedio": 381.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
