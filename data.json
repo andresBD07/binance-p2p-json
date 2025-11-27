@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T09:31:14.398779",
-  "actualizado_vzla": "2025-11-27 05:31:14 -04",
+  "timestamp_utc": "2025-11-27T09:47:50.007298",
+  "actualizado_vzla": "2025-11-27 05:47:50 -04",
   "compra_segundo": {
-    "price": 384.3,
-    "name": "ARKADB"
+    "price": 384.35,
+    "name": "IMPORTACIONEMUNVE"
   },
   "venta_maxima": {
     "price": 378.1,
     "name": "inverck"
   },
-  "promedio": 381.2,
+  "promedio": 381.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
