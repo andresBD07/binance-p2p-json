@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T19:40:29.458625",
-  "actualizado_vzla": "2025-11-27 15:40:29 -04",
+  "timestamp_utc": "2025-11-27T19:53:36.515188",
+  "actualizado_vzla": "2025-11-27 15:53:36 -04",
   "compra_segundo": {
-    "price": 372.7,
-    "name": "Cripto_04"
+    "price": 372.0,
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 371.0,
-    "name": "Quick Payment"
+    "price": 370.8,
+    "name": "KillKeroy"
   },
-  "promedio": 371.85,
+  "promedio": 371.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
