@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T15:43:12.471839",
-  "actualizado_vzla": "2025-11-27 11:43:12 -04",
+  "timestamp_utc": "2025-11-27T15:56:29.645975",
+  "actualizado_vzla": "2025-11-27 11:56:29 -04",
   "compra_segundo": {
-    "price": 375.3,
-    "name": "ulizer"
+    "price": 374.399,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 375.1,
+    "price": 374.2,
     "name": "Brawlcoins"
   },
-  "promedio": 375.2,
+  "promedio": 374.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
