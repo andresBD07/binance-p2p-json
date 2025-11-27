@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T22:44:20.276723",
-  "actualizado_vzla": "2025-11-27 18:44:20 -04",
+  "timestamp_utc": "2025-11-27T22:57:03.448597",
+  "actualizado_vzla": "2025-11-27 18:57:03 -04",
   "compra_segundo": {
-    "price": 373.88,
-    "name": "CityGroup-VM"
+    "price": 372.995,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 372.08,
-    "name": "VECTURAFX"
+    "price": 372.5,
+    "name": "LogisticExchange"
   },
-  "promedio": 372.98,
+  "promedio": 372.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
