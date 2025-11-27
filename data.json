@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T12:43:09.175287",
-  "actualizado_vzla": "2025-11-27 08:43:09 -04",
+  "timestamp_utc": "2025-11-27T13:22:52.929440",
+  "actualizado_vzla": "2025-11-27 09:22:52 -04",
   "compra_segundo": {
-    "price": 377.49,
-    "name": "EnLineaPagoRapido"
+    "price": 373.9,
+    "name": "aletoya"
   },
   "venta_maxima": {
-    "price": 376.7,
-    "name": "hectoraltrader"
+    "price": 374.0,
+    "name": "Biyt"
   },
-  "promedio": 377.1,
+  "promedio": 373.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
