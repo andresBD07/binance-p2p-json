@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-27T20:39:30.347208",
-  "actualizado_vzla": "2025-11-27 16:39:30 -04",
+  "timestamp_utc": "2025-11-27T20:52:42.731768",
+  "actualizado_vzla": "2025-11-27 16:52:42 -04",
   "compra_segundo": {
-    "price": 371.8,
-    "name": "-_GRAN_PALOMON_-_"
+    "price": 371.69,
+    "name": "Rody805"
   },
   "venta_maxima": {
-    "price": 371.7,
-    "name": "-IKNUSA-"
+    "price": 371.801,
+    "name": "VECTURAFX"
   },
   "promedio": 371.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
