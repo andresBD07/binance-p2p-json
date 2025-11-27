@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T16:34:39.158132",
-  "actualizado_vzla": "2025-11-27 12:34:39 -04",
+  "timestamp_utc": "2025-11-27T16:54:17.590916",
+  "actualizado_vzla": "2025-11-27 12:54:17 -04",
   "compra_segundo": {
-    "price": 374.3,
-    "name": "XSwapSecure"
+    "price": 372.279,
+    "name": "Safe-tradeV"
   },
   "venta_maxima": {
-    "price": 373.0,
-    "name": "0xSai"
+    "price": 371.0,
+    "name": "Job2025"
   },
-  "promedio": 373.65,
+  "promedio": 371.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
