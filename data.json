@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T05:37:25.369971",
-  "actualizado_vzla": "2025-11-27 01:37:25 -04",
+  "timestamp_utc": "2025-11-27T05:51:41.348082",
+  "actualizado_vzla": "2025-11-27 01:51:41 -04",
   "compra_segundo": {
-    "price": 384.5,
-    "name": "TransJ_J"
+    "price": 384.7,
+    "name": "fundatrade"
   },
   "venta_maxima": {
-    "price": 378.573,
-    "name": "SantiagoR19"
+    "price": 378.57,
+    "name": "-Vallenatero-"
   },
-  "promedio": 381.54,
+  "promedio": 381.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
