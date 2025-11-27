@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T17:37:52.935251",
-  "actualizado_vzla": "2025-11-27 13:37:52 -04",
+  "timestamp_utc": "2025-11-27T17:51:09.082538",
+  "actualizado_vzla": "2025-11-27 13:51:09 -04",
   "compra_segundo": {
-    "price": 367.0,
-    "name": "SecurityMaster"
+    "price": 366.795,
+    "name": "Leancambiaos"
   },
   "venta_maxima": {
-    "price": 367.0,
-    "name": "novatecno"
+    "price": 364.8,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 367.0,
+  "promedio": 365.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
