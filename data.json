@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T20:52:42.731768",
-  "actualizado_vzla": "2025-11-27 16:52:42 -04",
+  "timestamp_utc": "2025-11-27T21:17:52.149422",
+  "actualizado_vzla": "2025-11-27 17:17:52 -04",
   "compra_segundo": {
-    "price": 371.69,
-    "name": "Rody805"
+    "price": 371.8,
+    "name": "SeguroVeloz"
   },
   "venta_maxima": {
-    "price": 371.801,
+    "price": 371.91,
     "name": "VECTURAFX"
   },
-  "promedio": 371.75,
+  "promedio": 371.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
