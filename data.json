@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T04:27:07.805074",
-  "actualizado_vzla": "2025-11-27 00:27:07 -04",
+  "timestamp_utc": "2025-11-27T04:48:18.609341",
+  "actualizado_vzla": "2025-11-27 00:48:18 -04",
   "compra_segundo": {
-    "price": 383.0,
-    "name": "CashFlash_TM"
+    "price": 383.053,
+    "name": "El Buitre"
   },
   "venta_maxima": {
-    "price": 378.521,
-    "name": "AGROCAMBIO"
+    "price": 378.37,
+    "name": "SantiagoR19"
   },
-  "promedio": 380.76,
+  "promedio": 380.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
