@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T14:53:56.829606",
-  "actualizado_vzla": "2025-11-27 10:53:56 -04",
+  "timestamp_utc": "2025-11-27T15:24:25.191347",
+  "actualizado_vzla": "2025-11-27 11:24:25 -04",
   "compra_segundo": {
-    "price": 378.59,
-    "name": "Fast_-Change"
+    "price": 376.79,
+    "name": "jerg788"
   },
   "venta_maxima": {
-    "price": 377.4,
-    "name": "FinanzasSeguras"
+    "price": 377.0,
+    "name": "OTCLEGEND"
   },
-  "promedio": 378.0,
+  "promedio": 376.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
