@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T21:32:52.760647",
-  "actualizado_vzla": "2025-11-27 17:32:52 -04",
+  "timestamp_utc": "2025-11-27T21:46:13.136229",
+  "actualizado_vzla": "2025-11-27 17:46:13 -04",
   "compra_segundo": {
-    "price": 372.389,
-    "name": "Crypto_Flight"
+    "price": 372.7,
+    "name": "LedezmaP2P"
   },
   "venta_maxima": {
-    "price": 372.001,
+    "price": 372.08,
     "name": "VECTURAFX"
   },
-  "promedio": 372.19,
+  "promedio": 372.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
