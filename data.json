@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T10:55:04.602644",
-  "actualizado_vzla": "2025-11-27 06:55:04 -04",
+  "timestamp_utc": "2025-11-27T11:23:11.796956",
+  "actualizado_vzla": "2025-11-27 07:23:11 -04",
   "compra_segundo": {
-    "price": 383.3,
-    "name": "CambioSExpreessS"
+    "price": 382.39,
+    "name": "ArepaConCafé"
   },
   "venta_maxima": {
-    "price": 379.05,
-    "name": "Burdyn"
+    "price": 379.351,
+    "name": "_CAMBI0S_SEGUR0S_"
   },
-  "promedio": 381.18,
+  "promedio": 380.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
