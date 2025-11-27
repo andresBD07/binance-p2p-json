@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-27T03:53:26.542393",
-  "actualizado_vzla": "2025-11-26 23:53:26 -04",
+  "timestamp_utc": "2025-11-27T04:27:07.805074",
+  "actualizado_vzla": "2025-11-27 00:27:07 -04",
   "compra_segundo": {
-    "price": 382.4,
-    "name": "TuCambioPreferido"
+    "price": 383.0,
+    "name": "CashFlash_TM"
   },
   "venta_maxima": {
-    "price": 378.1,
-    "name": "inverck"
+    "price": 378.521,
+    "name": "AGROCAMBIO"
   },
-  "promedio": 380.25,
+  "promedio": 380.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
