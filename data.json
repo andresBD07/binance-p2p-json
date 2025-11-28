@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T05:49:10.347358",
-  "actualizado_vzla": "2025-11-28 01:49:10 -04",
+  "timestamp_utc": "2025-11-28T06:18:43.329404",
+  "actualizado_vzla": "2025-11-28 02:18:43 -04",
   "compra_segundo": {
-    "price": 371.0,
-    "name": "Daikokuten-Finance"
+    "price": 371.7,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 367.0,
     "name": "hectoraltrader"
   },
-  "promedio": 369.0,
+  "promedio": 369.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
