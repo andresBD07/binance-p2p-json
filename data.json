@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T15:40:33.014860",
-  "actualizado_vzla": "2025-11-28 11:40:33 -04",
+  "timestamp_utc": "2025-11-28T15:53:44.205413",
+  "actualizado_vzla": "2025-11-28 11:53:44 -04",
   "compra_segundo": {
-    "price": 370.44,
-    "name": "SKATFORT"
+    "price": 370.25,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 370.5,
-    "name": "hectoraltrader"
+    "price": 369.1,
+    "name": "SmartSolutionn"
   },
-  "promedio": 370.47,
+  "promedio": 369.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
