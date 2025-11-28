@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T22:51:36.513069",
-  "actualizado_vzla": "2025-11-28 18:51:36 -04",
+  "timestamp_utc": "2025-11-28T23:15:57.586048",
+  "actualizado_vzla": "2025-11-28 19:15:57 -04",
   "compra_segundo": {
-    "price": 369.0,
-    "name": "FRANFLASH8"
+    "price": 369.009,
+    "name": "ROCU22_VE"
   },
   "venta_maxima": {
-    "price": 369.2,
-    "name": "El-Warao"
+    "price": 368.5,
+    "name": "Quick Payment"
   },
-  "promedio": 369.1,
+  "promedio": 368.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
