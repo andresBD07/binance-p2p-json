@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T09:59:23.356726",
-  "actualizado_vzla": "2025-11-28 05:59:23 -04",
+  "timestamp_utc": "2025-11-28T10:33:37.916262",
+  "actualizado_vzla": "2025-11-28 06:33:37 -04",
   "compra_segundo": {
-    "price": 371.3,
-    "name": "CAMBIOSVIP_A1"
+    "price": 370.4,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 367.1,
-    "name": "AndradeGasconTITULAR"
+    "price": 367.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 369.2,
+  "promedio": 368.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
