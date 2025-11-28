@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T21:25:32.467910",
-  "actualizado_vzla": "2025-11-28 17:25:32 -04",
+  "timestamp_utc": "2025-11-28T21:40:38.004841",
+  "actualizado_vzla": "2025-11-28 17:40:38 -04",
   "compra_segundo": {
-    "price": 368.85,
-    "name": "leotrader0204"
+    "price": 369.0,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
     "price": 369.3,
     "name": "hudsonriver"
   },
-  "promedio": 369.08,
+  "promedio": 369.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
