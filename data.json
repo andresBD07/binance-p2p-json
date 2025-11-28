@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T18:54:32.688814",
-  "actualizado_vzla": "2025-11-28 14:54:32 -04",
+  "timestamp_utc": "2025-11-28T19:19:48.152414",
+  "actualizado_vzla": "2025-11-28 15:19:48 -04",
   "compra_segundo": {
-    "price": 369.0,
-    "name": "JHON_BTC"
+    "price": 369.29,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 368.0,
-    "name": "C_Pagos"
+    "price": 369.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 368.5,
+  "promedio": 369.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
