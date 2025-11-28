@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T20:31:03.751565",
-  "actualizado_vzla": "2025-11-28 16:31:03 -04",
+  "timestamp_utc": "2025-11-28T20:46:13.568491",
+  "actualizado_vzla": "2025-11-28 16:46:13 -04",
   "compra_segundo": {
-    "price": 368.74,
-    "name": "Pivot_05"
+    "price": 368.85,
+    "name": "DPcambios"
   },
   "venta_maxima": {
-    "price": 369.1,
-    "name": "RiddleTrader1998"
+    "price": 369.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 368.92,
+  "promedio": 368.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
