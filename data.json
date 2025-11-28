@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T17:11:29.973648",
-  "actualizado_vzla": "2025-11-28 13:11:29 -04",
+  "timestamp_utc": "2025-11-28T17:32:50.117381",
+  "actualizado_vzla": "2025-11-28 13:32:50 -04",
   "compra_segundo": {
-    "price": 367.4,
-    "name": "carlosaladejo"
+    "price": 367.8,
+    "name": "Nunchukxd"
   },
   "venta_maxima": {
-    "price": 367.1,
-    "name": "hectoraltrader"
+    "price": 368.02,
+    "name": "-IKNUSA-"
   },
-  "promedio": 367.25,
+  "promedio": 367.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
