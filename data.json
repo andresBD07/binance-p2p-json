@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T13:36:34.736979",
-  "actualizado_vzla": "2025-11-28 09:36:34 -04",
+  "timestamp_utc": "2025-11-28T13:51:40.432861",
+  "actualizado_vzla": "2025-11-28 09:51:40 -04",
   "compra_segundo": {
-    "price": 369.799,
-    "name": "majog"
+    "price": 370.143,
+    "name": "Duquessa"
   },
   "venta_maxima": {
-    "price": 368.25,
-    "name": "FinanceSecure"
+    "price": 370.2,
+    "name": "YKBank"
   },
-  "promedio": 369.02,
+  "promedio": 370.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
