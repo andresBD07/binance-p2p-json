@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T11:30:54.137310",
-  "actualizado_vzla": "2025-11-28 07:30:54 -04",
+  "timestamp_utc": "2025-11-28T11:44:08.121306",
+  "actualizado_vzla": "2025-11-28 07:44:08 -04",
   "compra_segundo": {
-    "price": 368.8,
-    "name": "PrimeCripto"
+    "price": 366.99,
+    "name": "B-P2P"
   },
   "venta_maxima": {
-    "price": 365.7,
-    "name": "Invcaf"
+    "price": 364.5,
+    "name": "Casmar84"
   },
-  "promedio": 367.25,
+  "promedio": 365.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
