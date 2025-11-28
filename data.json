@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T14:53:33.872050",
-  "actualizado_vzla": "2025-11-28 10:53:33 -04",
+  "timestamp_utc": "2025-11-28T15:22:54.214930",
+  "actualizado_vzla": "2025-11-28 11:22:54 -04",
   "compra_segundo": {
-    "price": 370.75,
-    "name": "Horusrs"
+    "price": 371.49,
+    "name": "Xionerniño"
   },
   "venta_maxima": {
-    "price": 372.1,
-    "name": "hectoraltrader"
+    "price": 371.0,
+    "name": "Godisgift"
   },
-  "promedio": 371.43,
+  "promedio": 371.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
