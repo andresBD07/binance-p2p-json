@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T17:46:00.274283",
-  "actualizado_vzla": "2025-11-28 13:46:00 -04",
+  "timestamp_utc": "2025-11-28T17:58:52.352577",
+  "actualizado_vzla": "2025-11-28 13:58:52 -04",
   "compra_segundo": {
-    "price": 368.0,
-    "name": "intercambiosRodríguez "
+    "price": 368.4,
+    "name": "sheva07"
   },
   "venta_maxima": {
     "price": 368.5,
     "name": "FinanceSecure"
   },
-  "promedio": 368.25,
+  "promedio": 368.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
