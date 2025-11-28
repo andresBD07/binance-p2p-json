@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T12:56:42.888460",
-  "actualizado_vzla": "2025-11-28 08:56:42 -04",
+  "timestamp_utc": "2025-11-28T13:36:34.736979",
+  "actualizado_vzla": "2025-11-28 09:36:34 -04",
   "compra_segundo": {
-    "price": 369.2,
-    "name": "EduardoArrieche"
+    "price": 369.799,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 366.2,
-    "name": "TOPlevelS"
+    "price": 368.25,
+    "name": "FinanceSecure"
   },
-  "promedio": 367.7,
+  "promedio": 369.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
