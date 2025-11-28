@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T20:00:01.264022",
-  "actualizado_vzla": "2025-11-28 16:00:01 -04",
+  "timestamp_utc": "2025-11-28T20:31:03.751565",
+  "actualizado_vzla": "2025-11-28 16:31:03 -04",
   "compra_segundo": {
-    "price": 368.7,
-    "name": "TuRemesaInt"
+    "price": 368.74,
+    "name": "Pivot_05"
   },
   "venta_maxima": {
-    "price": 369.0,
-    "name": "Vitatech"
+    "price": 369.1,
+    "name": "RiddleTrader1998"
   },
-  "promedio": 368.85,
+  "promedio": 368.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
