@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T20:46:13.568491",
-  "actualizado_vzla": "2025-11-28 16:46:13 -04",
+  "timestamp_utc": "2025-11-28T20:59:01.529605",
+  "actualizado_vzla": "2025-11-28 16:59:01 -04",
   "compra_segundo": {
-    "price": 368.85,
-    "name": "DPcambios"
+    "price": 368.78,
+    "name": "_CHIGUIRITO_"
   },
   "venta_maxima": {
     "price": 369.0,
-    "name": "hectoraltrader"
+    "name": "TOPlevelS"
   },
-  "promedio": 368.93,
+  "promedio": 368.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
