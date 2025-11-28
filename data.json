@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T09:31:32.027870",
-  "actualizado_vzla": "2025-11-28 05:31:32 -04",
+  "timestamp_utc": "2025-11-28T09:46:30.322022",
+  "actualizado_vzla": "2025-11-28 05:46:30 -04",
   "compra_segundo": {
-    "price": 372.0,
-    "name": "CryptoSickoP2P"
+    "price": 371.94,
+    "name": "AlainTD"
   },
   "venta_maxima": {
-    "price": 367.0,
-    "name": "hectoraltrader"
+    "price": 367.1,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 369.5,
+  "promedio": 369.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
