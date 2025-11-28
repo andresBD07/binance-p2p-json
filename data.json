@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T15:53:44.205413",
-  "actualizado_vzla": "2025-11-28 11:53:44 -04",
+  "timestamp_utc": "2025-11-28T16:28:39.545585",
+  "actualizado_vzla": "2025-11-28 12:28:39 -04",
   "compra_segundo": {
-    "price": 370.25,
-    "name": "Horusrs"
+    "price": 368.18,
+    "name": "Elitecambios_J"
   },
   "venta_maxima": {
-    "price": 369.1,
-    "name": "SmartSolutionn"
+    "price": 368.0,
+    "name": "Biyt"
   },
-  "promedio": 369.68,
+  "promedio": 368.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
