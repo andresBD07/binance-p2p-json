@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T10:33:37.916262",
-  "actualizado_vzla": "2025-11-28 06:33:37 -04",
+  "timestamp_utc": "2025-11-28T10:50:36.965812",
+  "actualizado_vzla": "2025-11-28 06:50:36 -04",
   "compra_segundo": {
-    "price": 370.4,
-    "name": "FastEG"
+    "price": 369.995,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
     "price": 367.0,
     "name": "hectoraltrader"
   },
-  "promedio": 368.7,
+  "promedio": 368.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
