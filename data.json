@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T17:58:52.352577",
-  "actualizado_vzla": "2025-11-28 13:58:52 -04",
+  "timestamp_utc": "2025-11-28T18:38:30.654354",
+  "actualizado_vzla": "2025-11-28 14:38:30 -04",
   "compra_segundo": {
-    "price": 368.4,
-    "name": "sheva07"
+    "price": 368.98,
+    "name": "CambioRapido13"
   },
   "venta_maxima": {
-    "price": 368.5,
-    "name": "FinanceSecure"
+    "price": 370.1,
+    "name": "hectoraltrader"
   },
-  "promedio": 368.45,
+  "promedio": 369.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
