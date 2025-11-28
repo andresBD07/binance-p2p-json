@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T07:15:52.958841",
-  "actualizado_vzla": "2025-11-28 03:15:52 -04",
+  "timestamp_utc": "2025-11-28T07:35:42.407633",
+  "actualizado_vzla": "2025-11-28 03:35:42 -04",
   "compra_segundo": {
-    "price": 371.99,
-    "name": "TUCAMBIOSEGURO24"
+    "price": 371.89,
+    "name": "Yoinered"
   },
   "venta_maxima": {
     "price": 367.0,
     "name": "hectoraltrader"
   },
-  "promedio": 369.5,
+  "promedio": 369.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
