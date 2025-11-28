@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T22:19:54.783506",
-  "actualizado_vzla": "2025-11-28 18:19:54 -04",
+  "timestamp_utc": "2025-11-28T22:38:45.739230",
+  "actualizado_vzla": "2025-11-28 18:38:45 -04",
   "compra_segundo": {
-    "price": 369.63,
-    "name": "P2P-Dulce"
+    "price": 369.499,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
-    "price": 369.4,
+    "price": 369.6,
     "name": "hudsonriver"
   },
-  "promedio": 369.51,
+  "promedio": 369.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
