@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T03:53:08.811498",
-  "actualizado_vzla": "2025-11-27 23:53:08 -04",
+  "timestamp_utc": "2025-11-28T04:26:14.086457",
+  "actualizado_vzla": "2025-11-28 00:26:14 -04",
   "compra_segundo": {
-    "price": 370.499,
-    "name": "LuiggiTrader"
+    "price": 371.0,
+    "name": "JRPR11"
   },
   "venta_maxima": {
-    "price": 367.5,
-    "name": "talepagos"
+    "price": 368.151,
+    "name": "-R-23"
   },
-  "promedio": 369.0,
+  "promedio": 369.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
