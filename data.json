@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T15:22:54.214930",
-  "actualizado_vzla": "2025-11-28 11:22:54 -04",
+  "timestamp_utc": "2025-11-28T15:40:33.014860",
+  "actualizado_vzla": "2025-11-28 11:40:33 -04",
   "compra_segundo": {
-    "price": 371.49,
-    "name": "Xionerniño"
+    "price": 370.44,
+    "name": "SKATFORT"
   },
   "venta_maxima": {
-    "price": 371.0,
-    "name": "Godisgift"
+    "price": 370.5,
+    "name": "hectoraltrader"
   },
-  "promedio": 371.25,
+  "promedio": 370.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
