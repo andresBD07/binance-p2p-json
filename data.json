@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T23:15:57.586048",
-  "actualizado_vzla": "2025-11-28 19:15:57 -04",
+  "timestamp_utc": "2025-11-28T23:32:13.725149",
+  "actualizado_vzla": "2025-11-28 19:32:13 -04",
   "compra_segundo": {
-    "price": 369.009,
-    "name": "ROCU22_VE"
+    "price": 368.499,
+    "name": "Kapo"
   },
   "venta_maxima": {
     "price": 368.5,
     "name": "Quick Payment"
   },
-  "promedio": 368.75,
+  "promedio": 368.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
