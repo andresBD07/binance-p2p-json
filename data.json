@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T03:16:13.638976",
-  "actualizado_vzla": "2025-11-27 23:16:13 -04",
+  "timestamp_utc": "2025-11-28T03:53:08.811498",
+  "actualizado_vzla": "2025-11-27 23:53:08 -04",
   "compra_segundo": {
-    "price": 370.319,
-    "name": "Dinero-Seguro"
+    "price": 370.499,
+    "name": "LuiggiTrader"
   },
   "venta_maxima": {
-    "price": 368.0,
-    "name": "USDTpulso"
+    "price": 367.5,
+    "name": "talepagos"
   },
-  "promedio": 369.16,
+  "promedio": 369.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
