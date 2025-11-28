@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T13:51:40.432861",
-  "actualizado_vzla": "2025-11-28 09:51:40 -04",
+  "timestamp_utc": "2025-11-28T14:18:04.448219",
+  "actualizado_vzla": "2025-11-28 10:18:04 -04",
   "compra_segundo": {
-    "price": 370.143,
-    "name": "Duquessa"
+    "price": 370.0,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 370.2,
-    "name": "YKBank"
+    "price": 370.7,
+    "name": "hectoraltrader"
   },
-  "promedio": 370.17,
+  "promedio": 370.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
