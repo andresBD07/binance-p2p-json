@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T11:13:41.771335",
-  "actualizado_vzla": "2025-11-28 07:13:41 -04",
+  "timestamp_utc": "2025-11-28T11:30:54.137310",
+  "actualizado_vzla": "2025-11-28 07:30:54 -04",
   "compra_segundo": {
-    "price": 369.9,
-    "name": "VENTASJM"
+    "price": 368.8,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 367.001,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 365.7,
+    "name": "Invcaf"
   },
-  "promedio": 368.45,
+  "promedio": 367.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
