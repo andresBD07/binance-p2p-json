@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T18:37:06.208257",
-  "actualizado_vzla": "2025-11-29 14:37:06 -04",
+  "timestamp_utc": "2025-11-29T18:53:35.211868",
+  "actualizado_vzla": "2025-11-29 14:53:35 -04",
   "compra_segundo": {
-    "price": 370.499,
-    "name": "CAMBIOEXPRES-JG"
+    "price": 370.7,
+    "name": "SiempreCalificoPositivo"
   },
   "venta_maxima": {
-    "price": 370.502,
-    "name": "RAMVALL01"
+    "price": 370.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 370.5,
+  "promedio": 370.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
