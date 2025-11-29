@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T09:45:30.113088",
-  "actualizado_vzla": "2025-11-29 05:45:30 -04",
+  "timestamp_utc": "2025-11-29T09:58:14.463603",
+  "actualizado_vzla": "2025-11-29 05:58:14 -04",
   "compra_segundo": {
-    "price": 372.3,
-    "name": "Imperiocrypto_co"
+    "price": 372.098,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
     "price": 365.01,
     "name": "btcmamba24"
   },
-  "promedio": 368.65,
+  "promedio": 368.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
