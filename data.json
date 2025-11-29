@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T12:29:52.932013",
-  "actualizado_vzla": "2025-11-29 08:29:52 -04",
+  "timestamp_utc": "2025-11-29T13:05:49.948565",
+  "actualizado_vzla": "2025-11-29 09:05:49 -04",
   "compra_segundo": {
-    "price": 369.97,
-    "name": "AbyBruce"
+    "price": 369.39,
+    "name": "Kapo"
   },
   "venta_maxima": {
     "price": 368.5,
     "name": "-Godgiven-"
   },
-  "promedio": 369.24,
+  "promedio": 368.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
