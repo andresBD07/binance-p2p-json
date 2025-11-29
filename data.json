@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T14:32:53.803835",
-  "actualizado_vzla": "2025-11-29 10:32:53 -04",
+  "timestamp_utc": "2025-11-29T14:46:21.606282",
+  "actualizado_vzla": "2025-11-29 10:46:21 -04",
   "compra_segundo": {
-    "price": 370.78,
-    "name": "vickyrn13"
+    "price": 370.5,
+    "name": "NikeTrader"
   },
   "venta_maxima": {
     "price": 370.5,
     "name": "-Godgiven-"
   },
-  "promedio": 370.64,
+  "promedio": 370.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
