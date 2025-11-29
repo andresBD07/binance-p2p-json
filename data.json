@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T15:42:30.663801",
-  "actualizado_vzla": "2025-11-29 11:42:30 -04",
+  "timestamp_utc": "2025-11-29T15:55:23.769320",
+  "actualizado_vzla": "2025-11-29 11:55:23 -04",
   "compra_segundo": {
-    "price": 370.57,
-    "name": "MOISES0908"
+    "price": 370.6,
+    "name": "HidrotornoCA"
   },
   "venta_maxima": {
-    "price": 370.5,
-    "name": "-Godgiven-"
+    "price": 371.02,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 370.53,
+  "promedio": 370.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
