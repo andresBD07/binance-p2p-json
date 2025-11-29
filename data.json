@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T13:48:56.190947",
-  "actualizado_vzla": "2025-11-29 09:48:56 -04",
+  "timestamp_utc": "2025-11-29T14:09:52.779167",
+  "actualizado_vzla": "2025-11-29 10:09:52 -04",
   "compra_segundo": {
-    "price": 369.9,
-    "name": "KenpachiZ21"
+    "price": 370.399,
+    "name": "farfan21"
   },
   "venta_maxima": {
     "price": 370.5,
     "name": "-Godgiven-"
   },
-  "promedio": 370.2,
+  "promedio": 370.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
