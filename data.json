@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T11:50:52.525544",
-  "actualizado_vzla": "2025-11-29 07:50:52 -04",
+  "timestamp_utc": "2025-11-29T12:29:52.932013",
+  "actualizado_vzla": "2025-11-29 08:29:52 -04",
   "compra_segundo": {
-    "price": 370.399,
-    "name": "David-0199"
+    "price": 369.97,
+    "name": "AbyBruce"
   },
   "venta_maxima": {
-    "price": 367.0,
+    "price": 368.5,
     "name": "-Godgiven-"
   },
-  "promedio": 368.7,
+  "promedio": 369.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
