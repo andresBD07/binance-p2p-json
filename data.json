@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T22:39:12.004192",
-  "actualizado_vzla": "2025-11-29 18:39:12 -04",
+  "timestamp_utc": "2025-11-29T22:52:27.447432",
+  "actualizado_vzla": "2025-11-29 18:52:27 -04",
   "compra_segundo": {
-    "price": 370.8,
-    "name": "Casmar84"
+    "price": 370.69,
+    "name": "Fexyz"
   },
   "venta_maxima": {
-    "price": 370.5,
-    "name": "MaestroRoshi-"
+    "price": 370.3,
+    "name": "-Godgiven-"
   },
-  "promedio": 370.65,
+  "promedio": 370.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
