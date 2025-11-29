@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T20:29:28.981670",
-  "actualizado_vzla": "2025-11-29 16:29:28 -04",
+  "timestamp_utc": "2025-11-29T20:45:35.463767",
+  "actualizado_vzla": "2025-11-29 16:45:35 -04",
   "compra_segundo": {
-    "price": 371.49,
-    "name": "RyderXchange"
+    "price": 371.35,
+    "name": "-Topocho-"
   },
   "venta_maxima": {
-    "price": 371.5,
-    "name": "Eliezerjph"
+    "price": 371.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 371.5,
+  "promedio": 371.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
