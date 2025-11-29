@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T04:27:04.483335",
-  "actualizado_vzla": "2025-11-29 00:27:04 -04",
+  "timestamp_utc": "2025-11-29T04:47:09.648617",
+  "actualizado_vzla": "2025-11-29 00:47:09 -04",
   "compra_segundo": {
-    "price": 371.299,
-    "name": "Jl crissol "
+    "price": 371.999,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
     "price": 367.0,
-    "name": "P2P-kevinbenito"
+    "name": "Cryptoland_Financial"
   },
-  "promedio": 369.15,
+  "promedio": 369.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
