@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T16:31:47.159042",
-  "actualizado_vzla": "2025-11-29 12:31:47 -04",
+  "timestamp_utc": "2025-11-29T16:49:36.414468",
+  "actualizado_vzla": "2025-11-29 12:49:36 -04",
   "compra_segundo": {
-    "price": 370.62,
-    "name": "InversionesMR"
+    "price": 370.579,
+    "name": "Crypto_InvestVEN"
   },
   "venta_maxima": {
-    "price": 371.36,
-    "name": "LaManoInvisible_"
+    "price": 371.42,
+    "name": "Coinectado"
   },
-  "promedio": 370.99,
+  "promedio": 371.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
