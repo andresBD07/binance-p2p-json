@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T19:17:12.503647",
-  "actualizado_vzla": "2025-11-29 15:17:12 -04",
+  "timestamp_utc": "2025-11-29T19:30:30.913934",
+  "actualizado_vzla": "2025-11-29 15:30:30 -04",
   "compra_segundo": {
-    "price": 370.98,
-    "name": "Avrisiel"
+    "price": 371.0,
+    "name": "Inv_Salovi"
   },
   "venta_maxima": {
-    "price": 371.0,
-    "name": "-Godgiven-"
+    "price": 371.52,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 370.99,
+  "promedio": 371.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
