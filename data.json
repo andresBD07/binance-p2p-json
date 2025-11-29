@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T02:05:07.696181",
-  "actualizado_vzla": "2025-11-28 22:05:07 -04",
+  "timestamp_utc": "2025-11-29T03:19:35.675148",
+  "actualizado_vzla": "2025-11-28 23:19:35 -04",
   "compra_segundo": {
-    "price": 370.0,
-    "name": "Kartozpk"
+    "price": 370.6,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 368.75,
-    "name": "FastRaikkonen"
+    "price": 368.0,
+    "name": "Quick Payment"
   },
-  "promedio": 369.38,
+  "promedio": 369.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
