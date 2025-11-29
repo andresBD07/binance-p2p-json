@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T13:35:44.581727",
-  "actualizado_vzla": "2025-11-29 09:35:44 -04",
+  "timestamp_utc": "2025-11-29T13:48:56.190947",
+  "actualizado_vzla": "2025-11-29 09:48:56 -04",
   "compra_segundo": {
-    "price": 369.755,
-    "name": "Rebeasc"
+    "price": 369.9,
+    "name": "KenpachiZ21"
   },
   "venta_maxima": {
-    "price": 369.0,
+    "price": 370.5,
     "name": "-Godgiven-"
   },
-  "promedio": 369.38,
+  "promedio": 370.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
