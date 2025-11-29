@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T22:20:08.793018",
-  "actualizado_vzla": "2025-11-29 18:20:08 -04",
+  "timestamp_utc": "2025-11-29T22:39:12.004192",
+  "actualizado_vzla": "2025-11-29 18:39:12 -04",
   "compra_segundo": {
-    "price": 370.97,
-    "name": "YGSCAPITALSPA"
+    "price": 370.8,
+    "name": "Casmar84"
   },
   "venta_maxima": {
-    "price": 370.6,
-    "name": "Eliezerjph"
+    "price": 370.5,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 370.79,
+  "promedio": 370.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
