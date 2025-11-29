@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T07:25:22.497891",
-  "actualizado_vzla": "2025-11-29 03:25:22 -04",
+  "timestamp_utc": "2025-11-29T07:40:27.712061",
+  "actualizado_vzla": "2025-11-29 03:40:27 -04",
   "compra_segundo": {
-    "price": 372.5,
-    "name": "ComerciaRapidito"
+    "price": 372.898,
+    "name": "Wil2589"
   },
   "venta_maxima": {
-    "price": 367.0,
-    "name": "ZeusRawr"
+    "price": 365.01,
+    "name": "btcmamba24"
   },
-  "promedio": 369.75,
+  "promedio": 368.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
