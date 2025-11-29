@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T14:58:56.254011",
-  "actualizado_vzla": "2025-11-29 10:58:56 -04",
+  "timestamp_utc": "2025-11-29T15:26:59.749254",
+  "actualizado_vzla": "2025-11-29 11:26:59 -04",
   "compra_segundo": {
-    "price": 370.429,
-    "name": "FastsEnvios"
+    "price": 370.601,
+    "name": "kikediaz02"
   },
   "venta_maxima": {
-    "price": 370.5,
-    "name": "-Godgiven-"
+    "price": 370.6,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 370.46,
+  "promedio": 370.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
