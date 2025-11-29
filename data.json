@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T13:05:49.948565",
-  "actualizado_vzla": "2025-11-29 09:05:49 -04",
+  "timestamp_utc": "2025-11-29T13:35:44.581727",
+  "actualizado_vzla": "2025-11-29 09:35:44 -04",
   "compra_segundo": {
-    "price": 369.39,
-    "name": "Kapo"
+    "price": 369.755,
+    "name": "Rebeasc"
   },
   "venta_maxima": {
-    "price": 368.5,
+    "price": 369.0,
     "name": "-Godgiven-"
   },
-  "promedio": 368.94,
+  "promedio": 369.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
