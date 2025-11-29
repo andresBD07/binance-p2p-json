@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T10:58:57.276487",
-  "actualizado_vzla": "2025-11-29 06:58:57 -04",
+  "timestamp_utc": "2025-11-29T11:22:49.877352",
+  "actualizado_vzla": "2025-11-29 07:22:49 -04",
   "compra_segundo": {
-    "price": 372.0,
-    "name": "Cambia-Seguro-01"
+    "price": 371.4,
+    "name": "Lillie05"
   },
   "venta_maxima": {
-    "price": 366.0,
-    "name": "Quick Payment"
+    "price": 366.004,
+    "name": "Aquino_her3"
   },
-  "promedio": 369.0,
+  "promedio": 368.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
