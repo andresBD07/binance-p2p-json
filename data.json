@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T16:49:36.414468",
-  "actualizado_vzla": "2025-11-29 12:49:36 -04",
+  "timestamp_utc": "2025-11-29T17:10:51.917239",
+  "actualizado_vzla": "2025-11-29 13:10:51 -04",
   "compra_segundo": {
-    "price": 370.579,
-    "name": "Crypto_InvestVEN"
+    "price": 370.55,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 371.42,
-    "name": "Coinectado"
+    "price": 370.002,
+    "name": "RAMVALL01"
   },
-  "promedio": 371.0,
+  "promedio": 370.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
