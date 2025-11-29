@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-29T17:31:19.407065",
-  "actualizado_vzla": "2025-11-29 13:31:19 -04",
+  "timestamp_utc": "2025-11-29T17:44:17.248198",
+  "actualizado_vzla": "2025-11-29 13:44:17 -04",
   "compra_segundo": {
-    "price": 370.5,
-    "name": "CarlosBelloTrader"
+    "price": 370.594,
+    "name": "cambiaseguro_en-5min"
   },
   "venta_maxima": {
-    "price": 370.3,
-    "name": "Godisgift"
+    "price": 370.2,
+    "name": "TAURUS85"
   },
   "promedio": 370.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
