@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T21:24:56.686261",
-  "actualizado_vzla": "2025-11-29 17:24:56 -04",
+  "timestamp_utc": "2025-11-29T21:40:13.876413",
+  "actualizado_vzla": "2025-11-29 17:40:13 -04",
   "compra_segundo": {
-    "price": 371.398,
-    "name": "Chespi_cripto8"
+    "price": 371.3,
+    "name": "O-X-O"
   },
   "venta_maxima": {
     "price": 371.0,
     "name": "-Godgiven-"
   },
-  "promedio": 371.2,
+  "promedio": 371.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
