@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T09:12:32.748637",
-  "actualizado_vzla": "2025-11-29 05:12:32 -04",
+  "timestamp_utc": "2025-11-29T09:32:31.990707",
+  "actualizado_vzla": "2025-11-29 05:32:32 -04",
   "compra_segundo": {
     "price": 372.2,
     "name": "PayBin07"
   },
   "venta_maxima": {
-    "price": 365.103,
-    "name": "leomileo2022"
+    "price": 365.01,
+    "name": "btcmamba24"
   },
-  "promedio": 368.65,
+  "promedio": 368.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
