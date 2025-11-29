@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-28T23:58:09.183924",
-  "actualizado_vzla": "2025-11-28 19:58:09 -04",
+  "timestamp_utc": "2025-11-29T02:05:07.696181",
+  "actualizado_vzla": "2025-11-28 22:05:07 -04",
   "compra_segundo": {
-    "price": 368.49,
-    "name": "MarDiodoros"
+    "price": 370.0,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 370.0,
-    "name": "-Yotei-"
+    "price": 368.75,
+    "name": "FastRaikkonen"
   },
-  "promedio": 369.25,
+  "promedio": 369.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
