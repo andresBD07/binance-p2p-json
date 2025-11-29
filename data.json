@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T05:59:13.962522",
-  "actualizado_vzla": "2025-11-29 01:59:13 -04",
+  "timestamp_utc": "2025-11-29T06:39:52.085222",
+  "actualizado_vzla": "2025-11-29 02:39:52 -04",
   "compra_segundo": {
-    "price": 372.498,
-    "name": "panchofranco1"
-  },
-  "venta_maxima": {
-    "price": 367.0,
+    "price": 372.5,
     "name": "ComerciaRapidito"
   },
-  "promedio": 369.75,
+  "venta_maxima": {
+    "price": 366.5,
+    "name": "AndradeGasconTITULAR"
+  },
+  "promedio": 369.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
