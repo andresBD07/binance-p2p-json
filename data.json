@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T20:58:48.121164",
-  "actualizado_vzla": "2025-11-29 16:58:48 -04",
+  "timestamp_utc": "2025-11-29T21:24:56.686261",
+  "actualizado_vzla": "2025-11-29 17:24:56 -04",
   "compra_segundo": {
-    "price": 371.49,
-    "name": "RyderXchange"
+    "price": 371.398,
+    "name": "Chespi_cripto8"
   },
   "venta_maxima": {
     "price": 371.0,
     "name": "-Godgiven-"
   },
-  "promedio": 371.25,
+  "promedio": 371.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
