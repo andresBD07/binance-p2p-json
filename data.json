@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-29T15:26:59.749254",
-  "actualizado_vzla": "2025-11-29 11:26:59 -04",
+  "timestamp_utc": "2025-11-29T15:42:30.663801",
+  "actualizado_vzla": "2025-11-29 11:42:30 -04",
   "compra_segundo": {
-    "price": 370.601,
-    "name": "kikediaz02"
+    "price": 370.57,
+    "name": "MOISES0908"
   },
   "venta_maxima": {
-    "price": 370.6,
-    "name": "梅CityCambio爱"
+    "price": 370.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 370.6,
+  "promedio": 370.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
