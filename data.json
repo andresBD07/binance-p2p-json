@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T09:50:23.628563",
-  "actualizado_vzla": "2025-11-30 05:50:23 -04",
+  "timestamp_utc": "2025-11-30T10:14:13.762458",
+  "actualizado_vzla": "2025-11-30 06:14:13 -04",
   "compra_segundo": {
-    "price": 376.0,
-    "name": "zucorp"
+    "price": 374.8,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 368.0,
     "name": "leomileo2022"
   },
-  "promedio": 372.0,
+  "promedio": 371.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
