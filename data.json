@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T13:40:01.751606",
-  "actualizado_vzla": "2025-11-30 09:40:01 -04",
+  "timestamp_utc": "2025-11-30T13:53:22.229916",
+  "actualizado_vzla": "2025-11-30 09:53:22 -04",
   "compra_segundo": {
-    "price": 373.5,
-    "name": "javier273"
+    "price": 373.0,
+    "name": "RapidPago "
   },
   "venta_maxima": {
     "price": 371.0,
     "name": "-Godgiven-"
   },
-  "promedio": 372.25,
+  "promedio": 372.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
