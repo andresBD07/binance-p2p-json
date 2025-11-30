@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T17:32:29.045957",
-  "actualizado_vzla": "2025-11-30 13:32:29 -04",
+  "timestamp_utc": "2025-11-30T17:45:45.613543",
+  "actualizado_vzla": "2025-11-30 13:45:45 -04",
   "compra_segundo": {
-    "price": 375.35,
-    "name": "One World Trade Center"
+    "price": 375.189,
+    "name": "DesdeLatam"
   },
   "venta_maxima": {
     "price": 375.0,
-    "name": "BLACKROCK22"
+    "name": "-Godgiven-"
   },
-  "promedio": 375.18,
+  "promedio": 375.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
