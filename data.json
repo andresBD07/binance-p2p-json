@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T07:49:31.910623",
-  "actualizado_vzla": "2025-11-30 03:49:31 -04",
+  "timestamp_utc": "2025-11-30T08:15:48.226021",
+  "actualizado_vzla": "2025-11-30 04:15:48 -04",
   "compra_segundo": {
-    "price": 374.68,
-    "name": "Abi_Cambios"
+    "price": 376.0,
+    "name": "KRIPTOREY"
   },
   "venta_maxima": {
-    "price": 368.0,
-    "name": "leomileo2022"
+    "price": 367.4,
+    "name": "zama2004"
   },
-  "promedio": 371.34,
+  "promedio": 371.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
