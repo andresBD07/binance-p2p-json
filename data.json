@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T04:23:18.020077",
-  "actualizado_vzla": "2025-11-30 00:23:18 -04",
+  "timestamp_utc": "2025-11-30T04:53:09.802241",
+  "actualizado_vzla": "2025-11-30 00:53:09 -04",
   "compra_segundo": {
-    "price": 372.88,
-    "name": "CambioDirecto"
+    "price": 373.5,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 369.4,
-    "name": "ANONYMOSDS"
+    "price": 369.0,
+    "name": "edwardgoldchhh"
   },
-  "promedio": 371.14,
+  "promedio": 371.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
