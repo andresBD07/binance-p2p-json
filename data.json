@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T13:53:22.229916",
-  "actualizado_vzla": "2025-11-30 09:53:22 -04",
+  "timestamp_utc": "2025-11-30T14:18:58.993236",
+  "actualizado_vzla": "2025-11-30 10:18:59 -04",
   "compra_segundo": {
-    "price": 373.0,
-    "name": "RapidPago "
+    "price": 373.1,
+    "name": "MMarket_CL"
   },
   "venta_maxima": {
-    "price": 371.0,
-    "name": "-Godgiven-"
+    "price": 371.6,
+    "name": "Aszahi7"
   },
-  "promedio": 372.0,
+  "promedio": 372.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
