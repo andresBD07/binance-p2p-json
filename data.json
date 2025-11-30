@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T17:45:45.613543",
-  "actualizado_vzla": "2025-11-30 13:45:45 -04",
+  "timestamp_utc": "2025-11-30T17:58:48.978630",
+  "actualizado_vzla": "2025-11-30 13:58:48 -04",
   "compra_segundo": {
-    "price": 375.189,
-    "name": "DesdeLatam"
+    "price": 374.897,
+    "name": "CriptoseguroAyM"
   },
   "venta_maxima": {
-    "price": 375.0,
+    "price": 374.5,
     "name": "-Godgiven-"
   },
-  "promedio": 375.09,
+  "promedio": 374.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
