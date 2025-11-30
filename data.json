@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T20:46:02.640835",
-  "actualizado_vzla": "2025-11-30 16:46:02 -04",
+  "timestamp_utc": "2025-11-30T20:59:11.562189",
+  "actualizado_vzla": "2025-11-30 16:59:11 -04",
   "compra_segundo": {
-    "price": 373.98,
-    "name": "LinkVzla"
+    "price": 373.999,
+    "name": "TheMerchanTHM"
   },
   "venta_maxima": {
-    "price": 373.0,
+    "price": 373.4,
     "name": "-Godgiven-"
   },
-  "promedio": 373.49,
+  "promedio": 373.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
