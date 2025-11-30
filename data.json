@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T19:44:10.975471",
-  "actualizado_vzla": "2025-11-30 15:44:10 -04",
+  "timestamp_utc": "2025-11-30T19:57:07.977381",
+  "actualizado_vzla": "2025-11-30 15:57:07 -04",
   "compra_segundo": {
-    "price": 373.9,
-    "name": "clinicaef"
+    "price": 374.0,
+    "name": "GokuExchange"
   },
   "venta_maxima": {
-    "price": 373.505,
-    "name": "SmartSolutionn"
+    "price": 373.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 373.7,
+  "promedio": 373.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
