@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T15:45:05.332030",
-  "actualizado_vzla": "2025-11-30 11:45:05 -04",
+  "timestamp_utc": "2025-11-30T15:58:04.236154",
+  "actualizado_vzla": "2025-11-30 11:58:04 -04",
   "compra_segundo": {
-    "price": 374.0,
-    "name": "BallGroup"
+    "price": 374.199,
+    "name": "David-0199"
   },
   "venta_maxima": {
-    "price": 372.501,
-    "name": "Biyt"
+    "price": 373.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 373.25,
+  "promedio": 373.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
