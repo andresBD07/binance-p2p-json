@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T17:58:48.978630",
-  "actualizado_vzla": "2025-11-30 13:58:48 -04",
+  "timestamp_utc": "2025-11-30T18:37:57.853749",
+  "actualizado_vzla": "2025-11-30 14:37:57 -04",
   "compra_segundo": {
-    "price": 374.897,
-    "name": "CriptoseguroAyM"
+    "price": 373.4,
+    "name": "viclop"
   },
   "venta_maxima": {
-    "price": 374.5,
+    "price": 373.6,
     "name": "-Godgiven-"
   },
-  "promedio": 374.7,
+  "promedio": 373.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
