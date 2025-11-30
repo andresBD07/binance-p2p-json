@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-30T18:53:46.960421",
-  "actualizado_vzla": "2025-11-30 14:53:46 -04",
+  "timestamp_utc": "2025-11-30T19:18:00.915093",
+  "actualizado_vzla": "2025-11-30 15:18:00 -04",
   "compra_segundo": {
-    "price": 373.39,
-    "name": "PonqueMercado"
+    "price": 373.4,
+    "name": "ALCAPON3"
   },
   "venta_maxima": {
     "price": 373.6,
