@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T14:50:36.719405",
-  "actualizado_vzla": "2025-11-30 10:50:36 -04",
+  "timestamp_utc": "2025-11-30T15:13:46.126841",
+  "actualizado_vzla": "2025-11-30 11:13:46 -04",
   "compra_segundo": {
-    "price": 372.99,
-    "name": "YGSCAPITALSPA"
+    "price": 372.999,
+    "name": "水猴"
   },
   "venta_maxima": {
-    "price": 372.0,
+    "price": 372.3,
     "name": "Marketplace66"
   },
-  "promedio": 372.5,
+  "promedio": 372.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
