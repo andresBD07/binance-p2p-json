@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T21:40:26.127388",
-  "actualizado_vzla": "2025-11-30 17:40:26 -04",
+  "timestamp_utc": "2025-11-30T21:53:22.224700",
+  "actualizado_vzla": "2025-11-30 17:53:22 -04",
   "compra_segundo": {
-    "price": 373.96,
-    "name": "Fexyz"
+    "price": 373.849,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
     "price": 373.6,
     "name": "-Godgiven-"
   },
-  "promedio": 373.78,
+  "promedio": 373.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
