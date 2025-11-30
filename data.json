@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-11-30T20:30:05.224736",
-  "actualizado_vzla": "2025-11-30 16:30:05 -04",
+  "timestamp_utc": "2025-11-30T20:46:02.640835",
+  "actualizado_vzla": "2025-11-30 16:46:02 -04",
   "compra_segundo": {
-    "price": 373.97,
-    "name": "PonqueMercado"
+    "price": 373.98,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
     "price": 373.0,
