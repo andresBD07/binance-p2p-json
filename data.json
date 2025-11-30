@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T08:15:48.226021",
-  "actualizado_vzla": "2025-11-30 04:15:48 -04",
+  "timestamp_utc": "2025-11-30T08:40:01.952370",
+  "actualizado_vzla": "2025-11-30 04:40:01 -04",
   "compra_segundo": {
-    "price": 376.0,
-    "name": "KRIPTOREY"
+    "price": 376.4,
+    "name": "HyperCambios_1Millon"
   },
   "venta_maxima": {
     "price": 367.4,
     "name": "zama2004"
   },
-  "promedio": 371.7,
+  "promedio": 371.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
