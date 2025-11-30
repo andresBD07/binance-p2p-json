@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T23:18:46.315772",
-  "actualizado_vzla": "2025-11-30 19:18:46 -04",
+  "timestamp_utc": "2025-11-30T23:35:05.701645",
+  "actualizado_vzla": "2025-11-30 19:35:05 -04",
   "compra_segundo": {
-    "price": 373.95,
-    "name": "B-P2P"
+    "price": 374.0,
+    "name": "EliseoAmaya"
   },
   "venta_maxima": {
-    "price": 373.8,
-    "name": "Meba-global-"
+    "price": 373.7,
+    "name": "Brawlcoins"
   },
-  "promedio": 373.88,
+  "promedio": 373.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
