@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-11-30T11:54:41.861384",
-  "actualizado_vzla": "2025-11-30 07:54:41 -04",
+  "timestamp_utc": "2025-11-30T12:47:58.082086",
+  "actualizado_vzla": "2025-11-30 08:47:58 -04",
   "compra_segundo": {
-    "price": 374.8,
-    "name": "P_A_C_A"
+    "price": 374.4,
+    "name": "ミReinaPepiadaCoinミ"
   },
   "venta_maxima": {
-    "price": 370.1,
-    "name": "IMPORTACIONEMUNVE"
+    "price": 370.5,
+    "name": "-Godgiven-"
   },
   "promedio": 372.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
