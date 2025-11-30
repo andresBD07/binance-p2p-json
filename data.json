@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T17:12:57.008344",
-  "actualizado_vzla": "2025-11-30 13:12:57 -04",
+  "timestamp_utc": "2025-11-30T17:32:29.045957",
+  "actualizado_vzla": "2025-11-30 13:32:29 -04",
   "compra_segundo": {
-    "price": 375.2,
-    "name": "LaMinaDeOro_"
+    "price": 375.35,
+    "name": "One World Trade Center"
   },
   "venta_maxima": {
-    "price": 374.005,
-    "name": "Gustavo129"
+    "price": 375.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 374.6,
+  "promedio": 375.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
