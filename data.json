@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T13:17:53.495034",
-  "actualizado_vzla": "2025-11-30 09:17:53 -04",
+  "timestamp_utc": "2025-11-30T13:40:01.751606",
+  "actualizado_vzla": "2025-11-30 09:40:01 -04",
   "compra_segundo": {
-    "price": 373.99,
-    "name": "yessicatrading"
+    "price": 373.5,
+    "name": "javier273"
   },
   "venta_maxima": {
     "price": 371.0,
     "name": "-Godgiven-"
   },
-  "promedio": 372.5,
+  "promedio": 372.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
