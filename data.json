@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T22:20:09.400357",
-  "actualizado_vzla": "2025-11-30 18:20:09 -04",
+  "timestamp_utc": "2025-11-30T22:39:45.406717",
+  "actualizado_vzla": "2025-11-30 18:39:45 -04",
   "compra_segundo": {
-    "price": 373.698,
-    "name": "Latinlf"
+    "price": 373.8,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 373.6,
-    "name": "-Godgiven-"
+    "price": 373.7,
+    "name": "Brawlcoins"
   },
-  "promedio": 373.65,
+  "promedio": 373.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
