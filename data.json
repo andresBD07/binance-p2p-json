@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T14:37:43.109093",
-  "actualizado_vzla": "2025-11-30 10:37:43 -04",
+  "timestamp_utc": "2025-11-30T14:50:36.719405",
+  "actualizado_vzla": "2025-11-30 10:50:36 -04",
   "compra_segundo": {
-    "price": 373.08,
-    "name": "JesusCrip"
+    "price": 372.99,
+    "name": "YGSCAPITALSPA"
   },
   "venta_maxima": {
-    "price": 371.85,
+    "price": 372.0,
     "name": "Marketplace66"
   },
-  "promedio": 372.47,
+  "promedio": 372.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
