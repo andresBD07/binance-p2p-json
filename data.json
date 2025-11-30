@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T09:37:07.774309",
-  "actualizado_vzla": "2025-11-30 05:37:07 -04",
+  "timestamp_utc": "2025-11-30T09:50:23.628563",
+  "actualizado_vzla": "2025-11-30 05:50:23 -04",
   "compra_segundo": {
-    "price": 375.0,
-    "name": "Justcrip18"
+    "price": 376.0,
+    "name": "zucorp"
   },
   "venta_maxima": {
     "price": 368.0,
     "name": "leomileo2022"
   },
-  "promedio": 371.5,
+  "promedio": 372.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
