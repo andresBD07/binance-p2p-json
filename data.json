@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T08:53:37.907350",
-  "actualizado_vzla": "2025-11-30 04:53:37 -04",
+  "timestamp_utc": "2025-11-30T09:20:57.750487",
+  "actualizado_vzla": "2025-11-30 05:20:57 -04",
   "compra_segundo": {
-    "price": 376.35,
-    "name": "urotrader"
+    "price": 375.0,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
     "price": 368.0,
     "name": "leomileo2022"
   },
-  "promedio": 372.18,
+  "promedio": 371.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
