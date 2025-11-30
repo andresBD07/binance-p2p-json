@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T22:52:58.974636",
-  "actualizado_vzla": "2025-11-30 18:52:58 -04",
+  "timestamp_utc": "2025-11-30T23:18:46.315772",
+  "actualizado_vzla": "2025-11-30 19:18:46 -04",
   "compra_segundo": {
-    "price": 373.899,
-    "name": "InversionesMR"
+    "price": 373.95,
+    "name": "B-P2P"
   },
   "venta_maxima": {
-    "price": 373.7,
-    "name": "Brawlcoins"
+    "price": 373.8,
+    "name": "Meba-global-"
   },
-  "promedio": 373.8,
+  "promedio": 373.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
