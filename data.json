@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T11:28:01.272626",
-  "actualizado_vzla": "2025-11-30 07:28:01 -04",
+  "timestamp_utc": "2025-11-30T11:41:22.961863",
+  "actualizado_vzla": "2025-11-30 07:41:22 -04",
   "compra_segundo": {
-    "price": 373.79,
-    "name": "ArepaConCafé"
+    "price": 374.67,
+    "name": "BraianMay"
   },
   "venta_maxima": {
     "price": 371.0,
     "name": "Godisgift"
   },
-  "promedio": 372.39,
+  "promedio": 372.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
