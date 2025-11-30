@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-11-30T22:39:45.406717",
-  "actualizado_vzla": "2025-11-30 18:39:45 -04",
+  "timestamp_utc": "2025-11-30T22:52:58.974636",
+  "actualizado_vzla": "2025-11-30 18:52:58 -04",
   "compra_segundo": {
-    "price": 373.8,
+    "price": 373.899,
     "name": "InversionesMR"
   },
   "venta_maxima": {
     "price": 373.7,
     "name": "Brawlcoins"
   },
-  "promedio": 373.75,
+  "promedio": 373.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
