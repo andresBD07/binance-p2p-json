@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T00:59:56.181769",
-  "actualizado_vzla": "2025-11-30 20:59:56 -04",
+  "timestamp_utc": "2025-12-01T03:15:33.777706",
+  "actualizado_vzla": "2025-11-30 23:15:33 -04",
   "compra_segundo": {
-    "price": 375.4,
-    "name": "Jl crissol "
+    "price": 376.4,
+    "name": "IMPORTACIONEMUNVE"
   },
   "venta_maxima": {
-    "price": 374.0,
-    "name": "Child-CambioFacil"
+    "price": 374.101,
+    "name": "AryJr"
   },
-  "promedio": 374.7,
+  "promedio": 375.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
