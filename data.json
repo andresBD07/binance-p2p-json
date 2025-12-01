@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T15:32:25.008451",
-  "actualizado_vzla": "2025-12-01 11:32:25 -04",
+  "timestamp_utc": "2025-12-01T15:50:54.715998",
+  "actualizado_vzla": "2025-12-01 11:50:54 -04",
   "compra_segundo": {
-    "price": 378.389,
-    "name": "tu exchanger"
+    "price": 378.6,
+    "name": "clinicaef"
   },
   "venta_maxima": {
-    "price": 378.7,
-    "name": "Biyt"
+    "price": 381.1,
+    "name": "hudsonriver"
   },
-  "promedio": 378.54,
+  "promedio": 379.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
