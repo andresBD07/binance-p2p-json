@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T20:57:10.853053",
-  "actualizado_vzla": "2025-12-01 16:57:10 -04",
+  "timestamp_utc": "2025-12-01T21:23:47.421183",
+  "actualizado_vzla": "2025-12-01 17:23:47 -04",
   "compra_segundo": {
-    "price": 387.399,
-    "name": "Rickambios "
+    "price": 387.5,
+    "name": "CambiosLindos2"
   },
   "venta_maxima": {
-    "price": 386.82,
-    "name": "Vitatech"
+    "price": 387.5,
+    "name": "ALASKA-"
   },
-  "promedio": 387.11,
+  "promedio": 387.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
