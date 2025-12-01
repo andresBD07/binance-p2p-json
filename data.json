@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T20:43:58.975272",
-  "actualizado_vzla": "2025-12-01 16:43:58 -04",
+  "timestamp_utc": "2025-12-01T20:57:10.853053",
+  "actualizado_vzla": "2025-12-01 16:57:10 -04",
   "compra_segundo": {
-    "price": 387.29,
-    "name": "CriptoseguroAyM"
+    "price": 387.399,
+    "name": "Rickambios "
   },
   "venta_maxima": {
-    "price": 386.61,
-    "name": "LaManoInvisible_"
+    "price": 386.82,
+    "name": "Vitatech"
   },
-  "promedio": 386.95,
+  "promedio": 387.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
