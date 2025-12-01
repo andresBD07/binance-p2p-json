@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T15:50:54.715998",
-  "actualizado_vzla": "2025-12-01 11:50:54 -04",
+  "timestamp_utc": "2025-12-01T16:23:20.418793",
+  "actualizado_vzla": "2025-12-01 12:23:20 -04",
   "compra_segundo": {
-    "price": 378.6,
-    "name": "clinicaef"
+    "price": 379.85,
+    "name": "ENVIOSYC"
   },
   "venta_maxima": {
-    "price": 381.1,
+    "price": 382.5,
     "name": "hudsonriver"
   },
-  "promedio": 379.85,
+  "promedio": 381.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
