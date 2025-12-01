@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T09:37:02.094476",
-  "actualizado_vzla": "2025-12-01 05:37:02 -04",
+  "timestamp_utc": "2025-12-01T09:54:24.844550",
+  "actualizado_vzla": "2025-12-01 05:54:24 -04",
   "compra_segundo": {
-    "price": 379.88,
-    "name": "AlainTD"
+    "price": 379.8,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
     "price": 372.0,
     "name": "RIVERMONEY"
   },
-  "promedio": 375.94,
+  "promedio": 375.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
