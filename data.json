@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T18:56:54.732635",
-  "actualizado_vzla": "2025-12-01 14:56:54 -04",
+  "timestamp_utc": "2025-12-01T19:28:44.180624",
+  "actualizado_vzla": "2025-12-01 15:28:44 -04",
   "compra_segundo": {
-    "price": 385.589,
-    "name": "tu exchanger"
+    "price": 385.3,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 387.0,
+    "price": 386.7,
     "name": "FinanceSecure"
   },
-  "promedio": 386.29,
+  "promedio": 386.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
