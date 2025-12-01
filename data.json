@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T19:57:44.660691",
-  "actualizado_vzla": "2025-12-01 15:57:44 -04",
+  "timestamp_utc": "2025-12-01T20:29:16.706175",
+  "actualizado_vzla": "2025-12-01 16:29:16 -04",
   "compra_segundo": {
-    "price": 385.5,
-    "name": "PayGlobal"
+    "price": 387.0,
+    "name": "Moneytransfer"
   },
   "venta_maxima": {
-    "price": 386.21,
-    "name": "LaManoInvisible_"
+    "price": 386.3,
+    "name": "EleguaOshun"
   },
-  "promedio": 385.86,
+  "promedio": 386.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
