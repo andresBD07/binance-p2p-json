@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-01T07:37:55.294778",
-  "actualizado_vzla": "2025-12-01 03:37:55 -04",
+  "timestamp_utc": "2025-12-01T07:51:43.464233",
+  "actualizado_vzla": "2025-12-01 03:51:43 -04",
   "compra_segundo": {
     "price": 379.999,
     "name": "Yony26"
   },
   "venta_maxima": {
-    "price": 372.901,
-    "name": "Leogabymary3000"
+    "price": 372.906,
+    "name": "DxvidExchange"
   },
   "promedio": 376.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
