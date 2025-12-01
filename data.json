@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T10:29:28.500477",
-  "actualizado_vzla": "2025-12-01 06:29:28 -04",
+  "timestamp_utc": "2025-12-01T10:52:14.506815",
+  "actualizado_vzla": "2025-12-01 06:52:14 -04",
   "compra_segundo": {
-    "price": 378.7,
-    "name": "Zeta_Cripto"
+    "price": 377.495,
+    "name": "vickyrn13"
   },
   "venta_maxima": {
-    "price": 372.4,
-    "name": "Jl crissol "
+    "price": 372.201,
+    "name": "EliteSummitPro"
   },
-  "promedio": 375.55,
+  "promedio": 374.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
