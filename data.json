@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-01T22:14:36.505340",
-  "actualizado_vzla": "2025-12-01 18:14:36 -04",
+  "timestamp_utc": "2025-12-01T22:38:44.535955",
+  "actualizado_vzla": "2025-12-01 18:38:44 -04",
   "compra_segundo": {
-    "price": 387.25,
-    "name": "VICKYMAN02"
+    "price": 387.299,
+    "name": "LinkxD"
   },
   "venta_maxima": {
-    "price": 386.85,
-    "name": "hudsonriver"
+    "price": 386.8,
+    "name": "Swteet"
   },
   "promedio": 387.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
