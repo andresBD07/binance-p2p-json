@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T20:29:16.706175",
-  "actualizado_vzla": "2025-12-01 16:29:16 -04",
+  "timestamp_utc": "2025-12-01T20:43:58.975272",
+  "actualizado_vzla": "2025-12-01 16:43:58 -04",
   "compra_segundo": {
-    "price": 387.0,
-    "name": "Moneytransfer"
+    "price": 387.29,
+    "name": "CriptoseguroAyM"
   },
   "venta_maxima": {
-    "price": 386.3,
-    "name": "EleguaOshun"
+    "price": 386.61,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 386.65,
+  "promedio": 386.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
