@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T05:57:21.216428",
-  "actualizado_vzla": "2025-12-01 01:57:21 -04",
+  "timestamp_utc": "2025-12-01T06:46:58.238994",
+  "actualizado_vzla": "2025-12-01 02:46:58 -04",
   "compra_segundo": {
-    "price": 379.888,
-    "name": "panchofranco1"
+    "price": 379.96,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
-    "price": 372.1,
-    "name": "Reginald_TITULAR"
+    "price": 372.0,
+    "name": "RIVERMONEY"
   },
-  "promedio": 375.99,
+  "promedio": 375.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
