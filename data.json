@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T13:48:13.671521",
-  "actualizado_vzla": "2025-12-01 09:48:13 -04",
+  "timestamp_utc": "2025-12-01T14:11:23.514507",
+  "actualizado_vzla": "2025-12-01 10:11:23 -04",
   "compra_segundo": {
-    "price": 378.2,
-    "name": "Rody805"
+    "price": 379.0,
+    "name": "MyE_spa"
   },
   "venta_maxima": {
-    "price": 380.0,
-    "name": "Eliezerjph"
+    "price": 379.0,
+    "name": "ALASKA-"
   },
-  "promedio": 379.1,
+  "promedio": 379.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
