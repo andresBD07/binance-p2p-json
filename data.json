@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-01T17:48:44.844922",
-  "actualizado_vzla": "2025-12-01 13:48:44 -04",
+  "timestamp_utc": "2025-12-01T18:18:18.232010",
+  "actualizado_vzla": "2025-12-01 14:18:18 -04",
   "compra_segundo": {
-    "price": 386.2,
-    "name": "Neiker-Exchange"
+    "price": 386.0,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 384.61,
-    "name": "cazing2230"
+    "price": 386.0,
+    "name": "Biyt"
   },
-  "promedio": 385.4,
+  "promedio": 386.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
