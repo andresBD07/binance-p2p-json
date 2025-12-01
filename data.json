@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-01T08:28:36.068144",
-  "actualizado_vzla": "2025-12-01 04:28:36 -04",
+  "timestamp_utc": "2025-12-01T08:56:17.227374",
+  "actualizado_vzla": "2025-12-01 04:56:17 -04",
   "compra_segundo": {
-    "price": 379.8,
-    "name": "Loyalbtc"
+    "price": 379.79,
+    "name": "RAPIDOySEGURO_EAGLE"
   },
   "venta_maxima": {
-    "price": 372.906,
-    "name": "DxvidExchange"
+    "price": 372.901,
+    "name": "Leogabymary3000"
   },
   "promedio": 376.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
