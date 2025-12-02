@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T02:54:19.414283",
-  "actualizado_vzla": "2025-12-01 22:54:19 -04",
+  "timestamp_utc": "2025-12-02T03:53:47.008811",
+  "actualizado_vzla": "2025-12-01 23:53:47 -04",
   "compra_segundo": {
-    "price": 390.9,
-    "name": "ALCAPON3"
+    "price": 391.199,
+    "name": "Libertad_de_cambio"
   },
   "venta_maxima": {
-    "price": 387.6,
+    "price": 387.12,
     "name": "TuPagoRapido"
   },
-  "promedio": 389.25,
+  "promedio": 389.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
