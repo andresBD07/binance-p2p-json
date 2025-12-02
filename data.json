@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T09:02:30.558669",
-  "actualizado_vzla": "2025-12-02 05:02:30 -04",
+  "timestamp_utc": "2025-12-02T09:37:37.473929",
+  "actualizado_vzla": "2025-12-02 05:37:37 -04",
   "compra_segundo": {
-    "price": 391.87,
-    "name": "FastChangeSafeChange"
+    "price": 391.85,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 385.83,
-    "name": "-R-23"
+    "price": 386.31,
+    "name": "K69_Trades"
   },
-  "promedio": 388.85,
+  "promedio": 389.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
