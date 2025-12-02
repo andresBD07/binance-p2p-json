@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T10:30:45.343124",
-  "actualizado_vzla": "2025-12-02 06:30:45 -04",
+  "timestamp_utc": "2025-12-02T10:51:59.711536",
+  "actualizado_vzla": "2025-12-02 06:51:59 -04",
   "compra_segundo": {
-    "price": 391.399,
-    "name": "CryptoSickoP2P"
+    "price": 390.99,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
-    "price": 387.46,
+    "price": 387.485,
     "name": "Daikokuten-Finance"
   },
-  "promedio": 389.43,
+  "promedio": 389.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
