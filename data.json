@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T11:50:19.110495",
-  "actualizado_vzla": "2025-12-02 07:50:19 -04",
+  "timestamp_utc": "2025-12-02T12:31:18.094608",
+  "actualizado_vzla": "2025-12-02 08:31:18 -04",
   "compra_segundo": {
-    "price": 390.1,
-    "name": "KGCA"
+    "price": 388.49,
+    "name": "Sag87"
   },
   "venta_maxima": {
-    "price": 388.0,
+    "price": 387.5,
     "name": "-Godgiven-"
   },
-  "promedio": 389.05,
+  "promedio": 388.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
