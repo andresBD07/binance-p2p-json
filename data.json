@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T17:35:50.747857",
-  "actualizado_vzla": "2025-12-02 13:35:50 -04",
+  "timestamp_utc": "2025-12-02T17:53:02.581304",
+  "actualizado_vzla": "2025-12-02 13:53:02 -04",
   "compra_segundo": {
-    "price": 390.955,
-    "name": "CambiosExpressAE"
+    "price": 391.7,
+    "name": "BakiGoodImport"
   },
   "venta_maxima": {
     "price": 393.0,
     "name": "TheBlackHand"
   },
-  "promedio": 391.98,
+  "promedio": 392.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
