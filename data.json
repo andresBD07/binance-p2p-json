@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T19:43:14.683617",
-  "actualizado_vzla": "2025-12-02 15:43:14 -04",
+  "timestamp_utc": "2025-12-02T19:56:11.827426",
+  "actualizado_vzla": "2025-12-02 15:56:11 -04",
   "compra_segundo": {
-    "price": 394.1,
-    "name": "x-Maverick-x"
+    "price": 394.3,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 395.0,
-    "name": "RIVERMONEY"
+    "price": 395.6,
+    "name": "hectoraltrader"
   },
-  "promedio": 394.55,
+  "promedio": 394.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
