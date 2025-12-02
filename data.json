@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T20:33:29.270682",
-  "actualizado_vzla": "2025-12-02 16:33:29 -04",
+  "timestamp_utc": "2025-12-02T20:51:03.043786",
+  "actualizado_vzla": "2025-12-02 16:51:03 -04",
   "compra_segundo": {
-    "price": 395.94,
-    "name": "Qlq_Men0r"
+    "price": 396.6,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 398.5,
+    "price": 399.0,
     "name": "hectoraltrader"
   },
-  "promedio": 397.22,
+  "promedio": 397.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
