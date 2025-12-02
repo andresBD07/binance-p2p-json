@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-12-02T07:47:15.448182",
-  "actualizado_vzla": "2025-12-02 03:47:15 -04",
+  "timestamp_utc": "2025-12-02T08:00:04.911666",
+  "actualizado_vzla": "2025-12-02 04:00:04 -04",
   "compra_segundo": {
     "price": 392.0,
-    "name": "RushPay"
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
     "price": 385.8,
