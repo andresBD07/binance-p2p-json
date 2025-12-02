@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T17:53:02.581304",
-  "actualizado_vzla": "2025-12-02 13:53:02 -04",
+  "timestamp_utc": "2025-12-02T18:34:39.351319",
+  "actualizado_vzla": "2025-12-02 14:34:39 -04",
   "compra_segundo": {
-    "price": 391.7,
-    "name": "BakiGoodImport"
+    "price": 393.74,
+    "name": "Cristh957"
   },
   "venta_maxima": {
-    "price": 393.0,
-    "name": "TheBlackHand"
+    "price": 393.1,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 392.35,
+  "promedio": 393.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
