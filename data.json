@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T15:58:28.011024",
-  "actualizado_vzla": "2025-12-02 11:58:28 -04",
+  "timestamp_utc": "2025-12-02T16:40:46.257058",
+  "actualizado_vzla": "2025-12-02 12:40:46 -04",
   "compra_segundo": {
-    "price": 390.1,
-    "name": "racaste"
+    "price": 390.389,
+    "name": "CambiosFlassh"
   },
   "venta_maxima": {
-    "price": 391.5,
-    "name": "TAURUS85"
+    "price": 392.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 390.8,
+  "promedio": 391.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
