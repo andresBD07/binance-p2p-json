@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T21:16:11.219158",
-  "actualizado_vzla": "2025-12-02 17:16:11 -04",
+  "timestamp_utc": "2025-12-02T21:33:36.421701",
+  "actualizado_vzla": "2025-12-02 17:33:36 -04",
   "compra_segundo": {
-    "price": 398.49,
-    "name": "MiKriptonita"
+    "price": 399.0,
+    "name": "davidani20"
   },
   "venta_maxima": {
-    "price": 399.0,
-    "name": "hectoraltrader"
+    "price": 400.2,
+    "name": "SmartSolutionn"
   },
-  "promedio": 398.75,
+  "promedio": 399.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
