@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T10:51:59.711536",
-  "actualizado_vzla": "2025-12-02 06:51:59 -04",
+  "timestamp_utc": "2025-12-02T11:18:15.822579",
+  "actualizado_vzla": "2025-12-02 07:18:15 -04",
   "compra_segundo": {
-    "price": 390.99,
-    "name": "K69_Trades"
+    "price": 390.5,
+    "name": "Harina Pan "
   },
   "venta_maxima": {
-    "price": 387.485,
-    "name": "Daikokuten-Finance"
+    "price": 388.0,
+    "name": "RapidPago "
   },
-  "promedio": 389.24,
+  "promedio": 389.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
