@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T09:55:02.985642",
-  "actualizado_vzla": "2025-12-02 05:55:02 -04",
+  "timestamp_utc": "2025-12-02T10:30:45.343124",
+  "actualizado_vzla": "2025-12-02 06:30:45 -04",
   "compra_segundo": {
-    "price": 391.8,
-    "name": "InvDelta"
+    "price": 391.399,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
-    "price": 386.5,
-    "name": "AndradeGasconTITULAR"
+    "price": 387.46,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 389.15,
+  "promedio": 389.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
