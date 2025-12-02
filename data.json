@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T03:53:47.008811",
-  "actualizado_vzla": "2025-12-01 23:53:47 -04",
+  "timestamp_utc": "2025-12-02T04:33:08.168152",
+  "actualizado_vzla": "2025-12-02 00:33:08 -04",
   "compra_segundo": {
-    "price": 391.199,
-    "name": "Libertad_de_cambio"
+    "price": 391.3,
+    "name": "SantiagoR19"
   },
   "venta_maxima": {
-    "price": 387.12,
-    "name": "TuPagoRapido"
+    "price": 387.7,
+    "name": "Nestor010699"
   },
-  "promedio": 389.16,
+  "promedio": 389.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
