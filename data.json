@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T16:40:46.257058",
-  "actualizado_vzla": "2025-12-02 12:40:46 -04",
+  "timestamp_utc": "2025-12-02T17:02:17.934964",
+  "actualizado_vzla": "2025-12-02 13:02:17 -04",
   "compra_segundo": {
-    "price": 390.389,
-    "name": "CambiosFlassh"
+    "price": 390.8,
+    "name": "La_vida_es_Bella"
   },
   "venta_maxima": {
-    "price": 392.0,
-    "name": "-Godgiven-"
+    "price": 392.2,
+    "name": "Biyt"
   },
-  "promedio": 391.19,
+  "promedio": 391.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
