@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T18:59:27.193137",
-  "actualizado_vzla": "2025-12-02 14:59:27 -04",
+  "timestamp_utc": "2025-12-02T19:27:21.687563",
+  "actualizado_vzla": "2025-12-02 15:27:21 -04",
   "compra_segundo": {
-    "price": 393.84,
-    "name": "RSTrader_"
+    "price": 393.99,
+    "name": "dcamacho"
   },
   "venta_maxima": {
-    "price": 393.2,
-    "name": "Si Me Pasas Te Paso"
+    "price": 393.6,
+    "name": "hudsonriver"
   },
-  "promedio": 393.52,
+  "promedio": 393.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
