@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-02T09:37:37.473929",
-  "actualizado_vzla": "2025-12-02 05:37:37 -04",
+  "timestamp_utc": "2025-12-02T09:55:02.985642",
+  "actualizado_vzla": "2025-12-02 05:55:02 -04",
   "compra_segundo": {
-    "price": 391.85,
-    "name": "btcmamba24"
+    "price": 391.8,
+    "name": "InvDelta"
   },
   "venta_maxima": {
-    "price": 386.31,
-    "name": "K69_Trades"
+    "price": 386.5,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 389.08,
+  "promedio": 389.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
