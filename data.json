@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T19:55:01.707558",
-  "actualizado_vzla": "2025-12-03 15:55:01 -04",
+  "timestamp_utc": "2025-12-03T20:31:30.616987",
+  "actualizado_vzla": "2025-12-03 16:31:30 -04",
   "compra_segundo": {
-    "price": 407.65,
-    "name": "Crypto_Kalev"
+    "price": 408.8,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 409.0,
-    "name": "hectoraltrader"
+    "price": 410.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 408.32,
+  "promedio": 409.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
