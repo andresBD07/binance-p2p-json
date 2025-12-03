@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T21:31:29.178964",
-  "actualizado_vzla": "2025-12-03 17:31:29 -04",
+  "timestamp_utc": "2025-12-03T21:44:55.323644",
+  "actualizado_vzla": "2025-12-03 17:44:55 -04",
   "compra_segundo": {
-    "price": 409.0,
-    "name": "EduardoArrieche"
+    "price": 408.85,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
-    "price": 410.5,
+    "price": 411.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 409.75,
+  "promedio": 409.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
