@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T17:34:39.633256",
-  "actualizado_vzla": "2025-12-03 13:34:39 -04",
+  "timestamp_utc": "2025-12-03T17:51:58.896259",
+  "actualizado_vzla": "2025-12-03 13:51:58 -04",
   "compra_segundo": {
-    "price": 410.0,
-    "name": "LCEtrader"
+    "price": 410.701,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
-    "price": 410.15,
-    "name": "GhostRS"
+    "price": 410.86,
+    "name": "-IKNUSA-"
   },
-  "promedio": 410.07,
+  "promedio": 410.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
