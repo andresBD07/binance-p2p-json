@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T14:50:02.535607",
-  "actualizado_vzla": "2025-12-03 10:50:02 -04",
+  "timestamp_utc": "2025-12-03T15:16:01.694131",
+  "actualizado_vzla": "2025-12-03 11:16:01 -04",
   "compra_segundo": {
-    "price": 400.999,
-    "name": "cambiaseguro_en-5min"
+    "price": 403.581,
+    "name": "AbrahamR"
   },
   "venta_maxima": {
-    "price": 404.1,
-    "name": "Si Me Pasas Te Paso"
+    "price": 406.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 402.55,
+  "promedio": 405.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
