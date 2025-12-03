@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T13:24:40.857200",
-  "actualizado_vzla": "2025-12-03 09:24:40 -04",
+  "timestamp_utc": "2025-12-03T13:54:21.569564",
+  "actualizado_vzla": "2025-12-03 09:54:21 -04",
   "compra_segundo": {
-    "price": 400.2,
-    "name": "lamejoropcion"
+    "price": 400.108,
+    "name": "Millicripto"
   },
   "venta_maxima": {
-    "price": 400.71,
-    "name": "hectoraltrader"
+    "price": 401.3,
+    "name": "Biyt"
   },
-  "promedio": 400.45,
+  "promedio": 400.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
