@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T12:38:17.665882",
-  "actualizado_vzla": "2025-12-03 08:38:17 -04",
+  "timestamp_utc": "2025-12-03T13:24:40.857200",
+  "actualizado_vzla": "2025-12-03 09:24:40 -04",
   "compra_segundo": {
-    "price": 400.399,
-    "name": "wuillou11"
+    "price": 400.2,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 399.7,
+    "price": 400.71,
     "name": "hectoraltrader"
   },
-  "promedio": 400.05,
+  "promedio": 400.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
