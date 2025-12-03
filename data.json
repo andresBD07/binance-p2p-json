@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T23:26:47.592021",
-  "actualizado_vzla": "2025-12-03 19:26:47 -04",
+  "timestamp_utc": "2025-12-03T23:42:52.029715",
+  "actualizado_vzla": "2025-12-03 19:42:52 -04",
   "compra_segundo": {
-    "price": 410.88,
-    "name": "Crypto_Kalev"
+    "price": 410.98,
+    "name": "Exchange_VelozP2P"
   },
   "venta_maxima": {
-    "price": 412.0,
+    "price": 412.5,
     "name": "被放逐的狐狸"
   },
-  "promedio": 411.44,
+  "promedio": 411.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
