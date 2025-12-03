@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T08:15:09.502907",
-  "actualizado_vzla": "2025-12-03 04:15:09 -04",
+  "timestamp_utc": "2025-12-03T08:47:21.770204",
+  "actualizado_vzla": "2025-12-03 04:47:21 -04",
   "compra_segundo": {
-    "price": 405.98,
-    "name": "KobyTrader"
+    "price": 405.29,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
     "price": 400.01,
     "name": "hectoraltrader"
   },
-  "promedio": 403.0,
+  "promedio": 402.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
