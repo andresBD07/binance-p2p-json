@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T22:30:07.343368",
-  "actualizado_vzla": "2025-12-03 18:30:07 -04",
+  "timestamp_utc": "2025-12-03T22:47:49.977565",
+  "actualizado_vzla": "2025-12-03 18:47:49 -04",
   "compra_segundo": {
-    "price": 409.939,
-    "name": "AllTraders"
+    "price": 410.2,
+    "name": "Nunchukxd"
   },
   "venta_maxima": {
-    "price": 412.0,
+    "price": 411.5,
     "name": "被放逐的狐狸"
   },
-  "promedio": 410.97,
+  "promedio": 410.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
