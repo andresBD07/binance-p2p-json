@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T13:54:21.569564",
-  "actualizado_vzla": "2025-12-03 09:54:21 -04",
+  "timestamp_utc": "2025-12-03T14:26:58.967405",
+  "actualizado_vzla": "2025-12-03 10:26:58 -04",
   "compra_segundo": {
-    "price": 400.108,
-    "name": "Millicripto"
+    "price": 400.4,
+    "name": "AmiraQueen"
   },
   "venta_maxima": {
-    "price": 401.3,
-    "name": "Biyt"
+    "price": 404.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 400.7,
+  "promedio": 402.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
