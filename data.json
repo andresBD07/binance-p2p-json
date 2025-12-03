@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T15:57:39.638079",
-  "actualizado_vzla": "2025-12-03 11:57:39 -04",
+  "timestamp_utc": "2025-12-03T16:40:15.441266",
+  "actualizado_vzla": "2025-12-03 12:40:15 -04",
   "compra_segundo": {
-    "price": 407.4,
-    "name": "IBEROGESTION"
+    "price": 408.5,
+    "name": "UrankiTools"
   },
   "venta_maxima": {
-    "price": 406.7,
-    "name": "SmartSolutionn"
+    "price": 409.01,
+    "name": "-IKNUSA-"
   },
-  "promedio": 407.05,
+  "promedio": 408.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
