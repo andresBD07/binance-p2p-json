@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T17:51:58.896259",
-  "actualizado_vzla": "2025-12-03 13:51:58 -04",
+  "timestamp_utc": "2025-12-03T18:29:59.988934",
+  "actualizado_vzla": "2025-12-03 14:29:59 -04",
   "compra_segundo": {
-    "price": 410.701,
-    "name": "TilinArberto"
+    "price": 411.9,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
-    "price": 410.86,
-    "name": "-IKNUSA-"
+    "price": 411.34,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 410.78,
+  "promedio": 411.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
