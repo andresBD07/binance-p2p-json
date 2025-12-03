@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T17:01:26.248672",
-  "actualizado_vzla": "2025-12-03 13:01:26 -04",
+  "timestamp_utc": "2025-12-03T17:34:39.633256",
+  "actualizado_vzla": "2025-12-03 13:34:39 -04",
   "compra_segundo": {
-    "price": 408.89,
-    "name": "ArabCripto"
+    "price": 410.0,
+    "name": "LCEtrader"
   },
   "venta_maxima": {
-    "price": 409.05,
-    "name": "-IKNUSA-"
+    "price": 410.15,
+    "name": "GhostRS"
   },
-  "promedio": 408.97,
+  "promedio": 410.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
