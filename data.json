@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T20:51:04.764628",
-  "actualizado_vzla": "2025-12-03 16:51:04 -04",
+  "timestamp_utc": "2025-12-03T21:15:37.834747",
+  "actualizado_vzla": "2025-12-03 17:15:37 -04",
   "compra_segundo": {
     "price": 409.0,
-    "name": "ToNGolaVibes"
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 409.5,
-    "name": "TheBlackHand"
+    "price": 409.8,
+    "name": "GoldenLion_"
   },
-  "promedio": 409.25,
+  "promedio": 409.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
