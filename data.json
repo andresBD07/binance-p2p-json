@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T14:26:58.967405",
-  "actualizado_vzla": "2025-12-03 10:26:58 -04",
+  "timestamp_utc": "2025-12-03T14:50:02.535607",
+  "actualizado_vzla": "2025-12-03 10:50:02 -04",
   "compra_segundo": {
-    "price": 400.4,
-    "name": "AmiraQueen"
+    "price": 400.999,
+    "name": "cambiaseguro_en-5min"
   },
   "venta_maxima": {
-    "price": 404.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 404.1,
+    "name": "Si Me Pasas Te Paso"
   },
-  "promedio": 402.45,
+  "promedio": 402.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
