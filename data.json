@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T11:51:31.302003",
-  "actualizado_vzla": "2025-12-03 07:51:31 -04",
+  "timestamp_utc": "2025-12-03T12:38:17.665882",
+  "actualizado_vzla": "2025-12-03 08:38:17 -04",
   "compra_segundo": {
-    "price": 401.89,
-    "name": "ArepaConCafé"
+    "price": 400.399,
+    "name": "wuillou11"
   },
   "venta_maxima": {
-    "price": 399.005,
-    "name": "Gustavo129"
+    "price": 399.7,
+    "name": "hectoraltrader"
   },
-  "promedio": 400.45,
+  "promedio": 400.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
