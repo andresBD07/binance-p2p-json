@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T18:29:59.988934",
-  "actualizado_vzla": "2025-12-03 14:29:59 -04",
+  "timestamp_utc": "2025-12-03T18:56:13.811667",
+  "actualizado_vzla": "2025-12-03 14:56:13 -04",
   "compra_segundo": {
-    "price": 411.9,
-    "name": "Open-cambios"
+    "price": 410.43,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 411.34,
-    "name": "LaManoInvisible_"
+    "price": 409.54,
+    "name": "-IKNUSA-"
   },
-  "promedio": 411.62,
+  "promedio": 409.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
