@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T05:47:16.473401",
-  "actualizado_vzla": "2025-12-03 01:47:16 -04",
+  "timestamp_utc": "2025-12-03T05:59:59.500840",
+  "actualizado_vzla": "2025-12-03 01:59:59 -04",
   "compra_segundo": {
-    "price": 405.3,
-    "name": "Miranda "
+    "price": 405.495,
+    "name": "Check-eate"
   },
   "venta_maxima": {
     "price": 400.01,
     "name": "hectoraltrader"
   },
-  "promedio": 402.65,
+  "promedio": 402.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
