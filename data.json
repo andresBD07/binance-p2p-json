@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T15:16:01.694131",
-  "actualizado_vzla": "2025-12-03 11:16:01 -04",
+  "timestamp_utc": "2025-12-03T15:42:05.460775",
+  "actualizado_vzla": "2025-12-03 11:42:05 -04",
   "compra_segundo": {
-    "price": 403.581,
-    "name": "AbrahamR"
+    "price": 406.4,
+    "name": "Emmanuelli"
   },
   "venta_maxima": {
-    "price": 406.5,
-    "name": "SmartSolutionn"
+    "price": 406.0,
+    "name": "Biyt"
   },
-  "promedio": 405.04,
+  "promedio": 406.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
