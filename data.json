@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T11:19:51.506577",
-  "actualizado_vzla": "2025-12-03 07:19:51 -04",
+  "timestamp_utc": "2025-12-03T11:38:12.748556",
+  "actualizado_vzla": "2025-12-03 07:38:12 -04",
   "compra_segundo": {
-    "price": 402.0,
-    "name": "EVER-08"
+    "price": 402.29,
+    "name": "quiander08"
   },
   "venta_maxima": {
     "price": 399.005,
     "name": "Gustavo129"
   },
-  "promedio": 400.5,
+  "promedio": 400.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
