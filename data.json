@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T18:56:13.811667",
-  "actualizado_vzla": "2025-12-03 14:56:13 -04",
+  "timestamp_utc": "2025-12-03T19:24:58.729452",
+  "actualizado_vzla": "2025-12-03 15:24:58 -04",
   "compra_segundo": {
-    "price": 410.43,
-    "name": "EXCHANGE-PRO"
+    "price": 407.0,
+    "name": "TeresaCrip"
   },
   "venta_maxima": {
-    "price": 409.54,
-    "name": "-IKNUSA-"
+    "price": 409.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 409.99,
+  "promedio": 408.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
