@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T02:09:36.986375",
-  "actualizado_vzla": "2025-12-03 22:09:36 -04",
+  "timestamp_utc": "2025-12-04T03:36:37.646885",
+  "actualizado_vzla": "2025-12-03 23:36:37 -04",
   "compra_segundo": {
-    "price": 413.3,
-    "name": "-R-23"
+    "price": 413.989,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
-    "price": 413.3,
-    "name": "RONIN_COIN"
+    "price": 413.1,
+    "name": "Cambioscorleone"
   },
-  "promedio": 413.3,
+  "promedio": 413.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
