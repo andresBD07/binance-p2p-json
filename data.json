@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T18:45:43.276292",
-  "actualizado_vzla": "2025-12-04 14:45:43 -04",
+  "timestamp_utc": "2025-12-04T19:09:08.342871",
+  "actualizado_vzla": "2025-12-04 15:09:08 -04",
   "compra_segundo": {
-    "price": 418.285,
-    "name": "-APPARATUS-"
+    "price": 419.8,
+    "name": "RAULITO2809"
   },
   "venta_maxima": {
-    "price": 419.55,
+    "price": 420.0,
     "name": "SmartSolutionn"
   },
-  "promedio": 418.92,
+  "promedio": 419.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
