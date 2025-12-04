@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T05:31:40.914585",
-  "actualizado_vzla": "2025-12-04 01:31:40 -04",
+  "timestamp_utc": "2025-12-04T05:48:28.636360",
+  "actualizado_vzla": "2025-12-04 01:48:28 -04",
   "compra_segundo": {
-    "price": 414.48,
-    "name": "Abi_Cambios"
+    "price": 414.841,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
     "price": 412.09,
     "name": "VECTURAFX"
   },
-  "promedio": 413.28,
+  "promedio": 413.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
