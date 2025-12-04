@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T22:50:07.471873",
-  "actualizado_vzla": "2025-12-04 18:50:07 -04",
+  "timestamp_utc": "2025-12-04T23:13:40.845053",
+  "actualizado_vzla": "2025-12-04 19:13:40 -04",
   "compra_segundo": {
-    "price": 424.0,
-    "name": "Daikokuten-Finance"
+    "price": 423.199,
+    "name": "SIVE_Trading"
   },
   "venta_maxima": {
-    "price": 424.5,
-    "name": "CoorpLogistic"
+    "price": 425.0,
+    "name": "Toptradedog"
   },
-  "promedio": 424.25,
+  "promedio": 424.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
