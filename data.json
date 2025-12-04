@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-03T23:55:52.923675",
-  "actualizado_vzla": "2025-12-03 19:55:52 -04",
+  "timestamp_utc": "2025-12-04T02:09:36.986375",
+  "actualizado_vzla": "2025-12-03 22:09:36 -04",
   "compra_segundo": {
-    "price": 411.49,
-    "name": "Yoinered"
+    "price": 413.3,
+    "name": "-R-23"
   },
   "venta_maxima": {
-    "price": 412.2,
-    "name": "-Godgiven-"
+    "price": 413.3,
+    "name": "RONIN_COIN"
   },
-  "promedio": 411.85,
+  "promedio": 413.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
