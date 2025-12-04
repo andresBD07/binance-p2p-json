@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T15:49:54.484460",
-  "actualizado_vzla": "2025-12-04 11:49:54 -04",
+  "timestamp_utc": "2025-12-04T16:19:25.560358",
+  "actualizado_vzla": "2025-12-04 12:19:25 -04",
   "compra_segundo": {
-    "price": 414.99,
-    "name": "ENVIOSYC"
+    "price": 413.999,
+    "name": "DLR06"
   },
   "venta_maxima": {
-    "price": 415.111,
-    "name": "VECTURAFX"
+    "price": 415.5,
+    "name": "app2112"
   },
-  "promedio": 415.05,
+  "promedio": 414.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
