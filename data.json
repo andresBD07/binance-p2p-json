@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T11:44:31.320542",
-  "actualizado_vzla": "2025-12-04 07:44:31 -04",
+  "timestamp_utc": "2025-12-04T11:57:32.788820",
+  "actualizado_vzla": "2025-12-04 07:57:32 -04",
   "compra_segundo": {
-    "price": 413.28,
-    "name": "Cripto_Activos"
+    "price": 412.99,
+    "name": "JGC7"
   },
   "venta_maxima": {
-    "price": 412.2,
+    "price": 412.5,
     "name": "-Godgiven-"
   },
-  "promedio": 412.74,
+  "promedio": 412.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
