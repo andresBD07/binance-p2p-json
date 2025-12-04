@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T19:58:09.915375",
-  "actualizado_vzla": "2025-12-04 15:58:09 -04",
+  "timestamp_utc": "2025-12-04T20:33:28.342473",
+  "actualizado_vzla": "2025-12-04 16:33:28 -04",
   "compra_segundo": {
-    "price": 420.755,
-    "name": "Koras-"
+    "price": 424.4,
+    "name": "Jumpsuit"
   },
   "venta_maxima": {
-    "price": 424.5,
-    "name": "VECTURAFX"
+    "price": 427.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 422.63,
+  "promedio": 425.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
