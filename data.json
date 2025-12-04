@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T15:29:46.974787",
-  "actualizado_vzla": "2025-12-04 11:29:46 -04",
+  "timestamp_utc": "2025-12-04T15:49:54.484460",
+  "actualizado_vzla": "2025-12-04 11:49:54 -04",
   "compra_segundo": {
-    "price": 415.505,
-    "name": "HarlenCH"
+    "price": 414.99,
+    "name": "ENVIOSYC"
   },
   "venta_maxima": {
-    "price": 415.0,
+    "price": 415.111,
     "name": "VECTURAFX"
   },
-  "promedio": 415.25,
+  "promedio": 415.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
