@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T22:36:43.091342",
-  "actualizado_vzla": "2025-12-04 18:36:43 -04",
+  "timestamp_utc": "2025-12-04T22:50:07.471873",
+  "actualizado_vzla": "2025-12-04 18:50:07 -04",
   "compra_segundo": {
-    "price": 424.9,
-    "name": "majog"
+    "price": 424.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 425.0,
-    "name": "Toptradedog"
+    "price": 424.5,
+    "name": "CoorpLogistic"
   },
-  "promedio": 424.95,
+  "promedio": 424.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
