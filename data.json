@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T21:50:59.438075",
-  "actualizado_vzla": "2025-12-04 17:50:59 -04",
+  "timestamp_utc": "2025-12-04T22:14:16.533113",
+  "actualizado_vzla": "2025-12-04 18:14:16 -04",
   "compra_segundo": {
-    "price": 428.399,
-    "name": "JmP2PTrader"
+    "price": 426.75,
+    "name": "PagoRapido_P2P"
   },
   "venta_maxima": {
-    "price": 427.0,
-    "name": "chango_pay"
+    "price": 427.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 427.7,
+  "promedio": 427.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
