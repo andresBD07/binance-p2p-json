@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T06:16:59.474027",
-  "actualizado_vzla": "2025-12-04 02:16:59 -04",
+  "timestamp_utc": "2025-12-04T06:50:36.064589",
+  "actualizado_vzla": "2025-12-04 02:50:36 -04",
   "compra_segundo": {
-    "price": 416.0,
-    "name": "Santhuan04"
+    "price": 416.49,
+    "name": "Saher7"
   },
   "venta_maxima": {
     "price": 412.09,
     "name": "VECTURAFX"
   },
-  "promedio": 414.04,
+  "promedio": 414.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
