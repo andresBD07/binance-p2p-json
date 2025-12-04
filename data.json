@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T14:34:42.779834",
-  "actualizado_vzla": "2025-12-04 10:34:42 -04",
+  "timestamp_utc": "2025-12-04T14:54:28.316266",
+  "actualizado_vzla": "2025-12-04 10:54:28 -04",
   "compra_segundo": {
-    "price": 415.595,
-    "name": "Exchange-JR"
+    "price": 415.94,
+    "name": "MACHUFI"
   },
   "venta_maxima": {
-    "price": 414.7,
-    "name": "SmartSolutionn"
+    "price": 415.0,
+    "name": "Swteet"
   },
-  "promedio": 415.15,
+  "promedio": 415.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
