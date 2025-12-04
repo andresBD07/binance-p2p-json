@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T09:48:19.817644",
-  "actualizado_vzla": "2025-12-04 05:48:19 -04",
+  "timestamp_utc": "2025-12-04T10:12:44.090157",
+  "actualizado_vzla": "2025-12-04 06:12:44 -04",
   "compra_segundo": {
-    "price": 414.15,
-    "name": "Pivot_05"
+    "price": 414.0,
+    "name": "AnaiaBoutique"
   },
   "venta_maxima": {
     "price": 412.09,
     "name": "VECTURAFX"
   },
-  "promedio": 413.12,
+  "promedio": 413.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
