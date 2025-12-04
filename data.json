@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T13:02:00.597962",
-  "actualizado_vzla": "2025-12-04 09:02:00 -04",
+  "timestamp_utc": "2025-12-04T13:46:45.470599",
+  "actualizado_vzla": "2025-12-04 09:46:45 -04",
   "compra_segundo": {
-    "price": 411.4,
-    "name": "5k-trader"
+    "price": 412.5,
+    "name": "Yolo_C"
   },
   "venta_maxima": {
-    "price": 412.0,
-    "name": "-Godgiven-"
+    "price": 416.0,
+    "name": "Biyt"
   },
-  "promedio": 411.7,
+  "promedio": 414.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
