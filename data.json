@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T10:57:43.144438",
-  "actualizado_vzla": "2025-12-04 06:57:43 -04",
+  "timestamp_utc": "2025-12-04T11:28:04.767424",
+  "actualizado_vzla": "2025-12-04 07:28:04 -04",
   "compra_segundo": {
-    "price": 413.485,
-    "name": "Skaarj"
+    "price": 413.34,
+    "name": "Caramelo_11"
   },
   "venta_maxima": {
-    "price": 412.09,
-    "name": "VECTURAFX"
+    "price": 412.2,
+    "name": "-Godgiven-"
   },
-  "promedio": 412.79,
+  "promedio": 412.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
