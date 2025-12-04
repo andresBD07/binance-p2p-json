@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T17:20:11.372060",
-  "actualizado_vzla": "2025-12-04 13:20:11 -04",
+  "timestamp_utc": "2025-12-04T17:44:08.361060",
+  "actualizado_vzla": "2025-12-04 13:44:08 -04",
   "compra_segundo": {
-    "price": 415.0,
-    "name": "Libélula29"
+    "price": 415.75,
+    "name": "Servicios_JT"
   },
   "venta_maxima": {
-    "price": 415.8,
+    "price": 418.0,
     "name": "SmartSolutionn"
   },
-  "promedio": 415.4,
+  "promedio": 416.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
