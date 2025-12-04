@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T13:46:45.470599",
-  "actualizado_vzla": "2025-12-04 09:46:45 -04",
+  "timestamp_utc": "2025-12-04T14:00:23.153596",
+  "actualizado_vzla": "2025-12-04 10:00:23 -04",
   "compra_segundo": {
-    "price": 412.5,
-    "name": "Yolo_C"
+    "price": 413.488,
+    "name": "Btctronics"
   },
   "venta_maxima": {
-    "price": 416.0,
-    "name": "Biyt"
+    "price": 414.0,
+    "name": "SmartSolutionn"
   },
-  "promedio": 414.25,
+  "promedio": 413.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
