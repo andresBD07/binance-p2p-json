@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T16:51:19.070050",
-  "actualizado_vzla": "2025-12-04 12:51:19 -04",
+  "timestamp_utc": "2025-12-04T17:20:11.372060",
+  "actualizado_vzla": "2025-12-04 13:20:11 -04",
   "compra_segundo": {
-    "price": 414.4,
-    "name": "DolceGabbana"
+    "price": 415.0,
+    "name": "Libélula29"
   },
   "venta_maxima": {
-    "price": 415.5,
-    "name": "TheBlackHand"
+    "price": 415.8,
+    "name": "SmartSolutionn"
   },
-  "promedio": 414.95,
+  "promedio": 415.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
