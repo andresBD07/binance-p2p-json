@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-12-05T09:39:20.495945",
-  "actualizado_vzla": "2025-12-05 05:39:20 -04",
+  "timestamp_utc": "2025-12-05T09:52:44.908807",
+  "actualizado_vzla": "2025-12-05 05:52:44 -04",
   "compra_segundo": {
-    "price": 428.0,
-    "name": "Mero-Mero"
+    "price": 427.999,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 424.5,
