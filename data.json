@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T04:06:06.330814",
-  "actualizado_vzla": "2025-12-05 00:06:06 -04",
+  "timestamp_utc": "2025-12-05T04:43:02.070266",
+  "actualizado_vzla": "2025-12-05 00:43:02 -04",
   "compra_segundo": {
-    "price": 427.79,
-    "name": "usdtking"
+    "price": 427.5,
+    "name": "Anthonyil"
   },
   "venta_maxima": {
-    "price": 427.5,
-    "name": "GoldenLion_"
+    "price": 424.5,
+    "name": "Buzzlightyearzz"
   },
-  "promedio": 427.64,
+  "promedio": 426.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
