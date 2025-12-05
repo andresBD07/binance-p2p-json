@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T22:45:20.331965",
-  "actualizado_vzla": "2025-12-05 18:45:20 -04",
+  "timestamp_utc": "2025-12-05T22:58:05.756672",
+  "actualizado_vzla": "2025-12-05 18:58:05 -04",
   "compra_segundo": {
-    "price": 428.2,
-    "name": "Inversiones-Kary"
+    "price": 427.9,
+    "name": "CambioSExpreessS"
   },
   "venta_maxima": {
-    "price": 430.7,
+    "price": 430.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 429.45,
+  "promedio": 428.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
