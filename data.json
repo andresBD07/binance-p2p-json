@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T17:40:10.837124",
-  "actualizado_vzla": "2025-12-05 13:40:10 -04",
+  "timestamp_utc": "2025-12-05T17:53:10.264604",
+  "actualizado_vzla": "2025-12-05 13:53:10 -04",
   "compra_segundo": {
-    "price": 423.49,
-    "name": "Carlitos-trading"
+    "price": 422.9,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
     "price": 425.0,
     "name": "-Godgiven-"
   },
-  "promedio": 424.25,
+  "promedio": 423.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
