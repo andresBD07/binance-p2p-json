@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T18:53:02.821187",
-  "actualizado_vzla": "2025-12-05 14:53:02 -04",
+  "timestamp_utc": "2025-12-05T19:17:39.228400",
+  "actualizado_vzla": "2025-12-05 15:17:39 -04",
   "compra_segundo": {
-    "price": 424.4,
-    "name": "ElCandidoP2P"
+    "price": 424.7,
+    "name": "Magnetic10"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "-Godgiven-"
+    "price": 427.0,
+    "name": "KriptoxExchange"
   },
-  "promedio": 425.2,
+  "promedio": 425.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
