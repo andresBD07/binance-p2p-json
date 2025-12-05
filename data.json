@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-04T23:47:01.538557",
-  "actualizado_vzla": "2025-12-04 19:47:01 -04",
+  "timestamp_utc": "2025-12-05T00:00:09.732913",
+  "actualizado_vzla": "2025-12-04 20:00:09 -04",
   "compra_segundo": {
-    "price": 423.6,
-    "name": "Servicios_JT"
+    "price": 423.855,
+    "name": "eercripto"
   },
   "venta_maxima": {
     "price": 425.0,
-    "name": "CoorpLogistic"
+    "name": "SmartSolutionn"
   },
-  "promedio": 424.3,
+  "promedio": 424.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
