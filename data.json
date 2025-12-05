@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T20:32:38.881222",
-  "actualizado_vzla": "2025-12-05 16:32:38 -04",
+  "timestamp_utc": "2025-12-05T20:49:02.289136",
+  "actualizado_vzla": "2025-12-05 16:49:02 -04",
   "compra_segundo": {
-    "price": 424.8,
-    "name": "Fast-CambiosSeguro-"
+    "price": 424.998,
+    "name": "CambiosJhonny06"
   },
   "venta_maxima": {
-    "price": 427.6,
-    "name": "-IKNUSA-"
+    "price": 427.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 426.2,
+  "promedio": 426.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
