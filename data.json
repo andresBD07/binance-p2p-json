@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T10:22:37.174589",
-  "actualizado_vzla": "2025-12-05 06:22:37 -04",
+  "timestamp_utc": "2025-12-05T10:45:55.289670",
+  "actualizado_vzla": "2025-12-05 06:45:55 -04",
   "compra_segundo": {
-    "price": 426.987,
-    "name": "RapidChangesSS"
+    "price": 425.988,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
-    "price": 424.5,
-    "name": "Buzzlightyearzz"
+    "price": 422.5,
+    "name": "Yossetmz"
   },
-  "promedio": 425.74,
+  "promedio": 424.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
