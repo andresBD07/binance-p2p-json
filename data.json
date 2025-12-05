@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T06:18:05.635182",
-  "actualizado_vzla": "2025-12-05 02:18:05 -04",
+  "timestamp_utc": "2025-12-05T06:51:03.351245",
+  "actualizado_vzla": "2025-12-05 02:51:03 -04",
   "compra_segundo": {
-    "price": 429.0,
-    "name": "PayBin07"
+    "price": 429.3,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 424.5,
     "name": "Buzzlightyearzz"
   },
-  "promedio": 426.75,
+  "promedio": 426.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
