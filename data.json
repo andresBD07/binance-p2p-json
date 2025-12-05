@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T20:49:02.289136",
-  "actualizado_vzla": "2025-12-05 16:49:02 -04",
+  "timestamp_utc": "2025-12-05T21:10:56.268534",
+  "actualizado_vzla": "2025-12-05 17:10:56 -04",
   "compra_segundo": {
-    "price": 424.998,
-    "name": "CambiosJhonny06"
+    "price": 425.0,
+    "name": "denny34"
   },
   "venta_maxima": {
-    "price": 427.5,
-    "name": "-Godgiven-"
+    "price": 427.75,
+    "name": "-IKNUSA-"
   },
-  "promedio": 426.25,
+  "promedio": 426.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
