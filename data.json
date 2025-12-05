@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-05T19:57:34.463540",
-  "actualizado_vzla": "2025-12-05 15:57:34 -04",
+  "timestamp_utc": "2025-12-05T20:32:38.881222",
+  "actualizado_vzla": "2025-12-05 16:32:38 -04",
   "compra_segundo": {
     "price": 424.8,
-    "name": "SmartradingCircle"
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 427.0,
-    "name": "SmartSolutionn"
+    "price": 427.6,
+    "name": "-IKNUSA-"
   },
-  "promedio": 425.9,
+  "promedio": 426.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
