@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T21:29:15.638520",
-  "actualizado_vzla": "2025-12-06 17:29:15 -04",
+  "timestamp_utc": "2025-12-06T21:42:59.682964",
+  "actualizado_vzla": "2025-12-06 17:42:59 -04",
   "compra_segundo": {
-    "price": 423.3,
-    "name": "DMCambio2"
+    "price": 423.0,
+    "name": "Marcus22z"
   },
   "venta_maxima": {
-    "price": 425.2,
-    "name": "-IKNUSA-"
+    "price": 425.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 424.25,
+  "promedio": 424.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
