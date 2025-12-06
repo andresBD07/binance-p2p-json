@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T11:54:46.739073",
-  "actualizado_vzla": "2025-12-06 07:54:46 -04",
+  "timestamp_utc": "2025-12-06T12:49:34.705312",
+  "actualizado_vzla": "2025-12-06 08:49:34 -04",
   "compra_segundo": {
-    "price": 426.975,
-    "name": "AbyBruce"
+    "price": 424.9,
+    "name": "clinicaef"
   },
   "venta_maxima": {
-    "price": 425.401,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 426.0,
+    "name": "hectoraltrader"
   },
-  "promedio": 426.19,
+  "promedio": 425.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
