@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T22:26:24.425719",
-  "actualizado_vzla": "2025-12-06 18:26:24 -04",
+  "timestamp_utc": "2025-12-06T22:43:25.372523",
+  "actualizado_vzla": "2025-12-06 18:43:25 -04",
   "compra_segundo": {
-    "price": 422.249,
-    "name": "Latinlf"
+    "price": 420.7,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
     "price": 424.0,
     "name": "CoorpLogistic"
   },
-  "promedio": 423.12,
+  "promedio": 422.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
