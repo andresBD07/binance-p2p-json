@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T14:23:02.079207",
-  "actualizado_vzla": "2025-12-06 10:23:02 -04",
+  "timestamp_utc": "2025-12-06T14:40:08.150344",
+  "actualizado_vzla": "2025-12-06 10:40:08 -04",
   "compra_segundo": {
-    "price": 423.6,
-    "name": "AbrahamR"
+    "price": 424.4,
+    "name": "Falcon_Trade-P2P"
   },
   "venta_maxima": {
-    "price": 426.5,
-    "name": "GhostRS"
+    "price": 427.12,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 425.05,
+  "promedio": 425.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
