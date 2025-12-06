@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T17:50:12.988769",
-  "actualizado_vzla": "2025-12-06 13:50:12 -04",
+  "timestamp_utc": "2025-12-06T18:18:40.407226",
+  "actualizado_vzla": "2025-12-06 14:18:40 -04",
   "compra_segundo": {
-    "price": 424.3,
-    "name": "-----ELITE"
+    "price": 423.7,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
-    "price": 425.5,
-    "name": "CoorpLogistic"
+    "price": 425.7,
+    "name": "-IKNUSA-"
   },
-  "promedio": 424.9,
+  "promedio": 424.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
