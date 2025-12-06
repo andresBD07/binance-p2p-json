@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T21:08:56.686350",
-  "actualizado_vzla": "2025-12-06 17:08:56 -04",
+  "timestamp_utc": "2025-12-06T21:29:15.638520",
+  "actualizado_vzla": "2025-12-06 17:29:15 -04",
   "compra_segundo": {
     "price": 423.3,
-    "name": "Open-cambios"
+    "name": "DMCambio2"
   },
   "venta_maxima": {
-    "price": 424.3,
+    "price": 425.2,
     "name": "-IKNUSA-"
   },
-  "promedio": 423.8,
+  "promedio": 424.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
