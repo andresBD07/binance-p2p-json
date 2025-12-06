@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T08:52:53.828223",
-  "actualizado_vzla": "2025-12-06 04:52:53 -04",
+  "timestamp_utc": "2025-12-06T09:20:21.161826",
+  "actualizado_vzla": "2025-12-06 05:20:21 -04",
   "compra_segundo": {
-    "price": 428.899,
-    "name": "AlainTD"
+    "price": 428.8,
+    "name": "HyperCambios_1Millon"
   },
   "venta_maxima": {
-    "price": 425.61,
-    "name": "DAKLANID"
+    "price": 422.0,
+    "name": "cambioson"
   },
-  "promedio": 427.25,
+  "promedio": 425.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
