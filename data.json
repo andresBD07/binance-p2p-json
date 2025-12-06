@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T13:55:15.940374",
-  "actualizado_vzla": "2025-12-06 09:55:15 -04",
+  "timestamp_utc": "2025-12-06T14:23:02.079207",
+  "actualizado_vzla": "2025-12-06 10:23:02 -04",
   "compra_segundo": {
-    "price": 422.799,
-    "name": "Richgato_Cambios"
+    "price": 423.6,
+    "name": "AbrahamR"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "ProntoPago15"
+    "price": 426.5,
+    "name": "GhostRS"
   },
-  "promedio": 424.4,
+  "promedio": 425.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
