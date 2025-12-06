@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T16:41:27.798451",
-  "actualizado_vzla": "2025-12-06 12:41:27 -04",
+  "timestamp_utc": "2025-12-06T16:54:51.018402",
+  "actualizado_vzla": "2025-12-06 12:54:51 -04",
   "compra_segundo": {
-    "price": 425.45,
-    "name": "Frijol007"
+    "price": 425.0,
+    "name": "MONEY-EXCHANGE-RS"
   },
   "venta_maxima": {
-    "price": 427.1,
-    "name": "-IKNUSA-"
+    "price": 427.3,
+    "name": "hectoraltrader"
   },
-  "promedio": 426.27,
+  "promedio": 426.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
