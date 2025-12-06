@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T07:46:13.063197",
-  "actualizado_vzla": "2025-12-06 03:46:13 -04",
+  "timestamp_utc": "2025-12-06T07:58:59.239695",
+  "actualizado_vzla": "2025-12-06 03:58:59 -04",
   "compra_segundo": {
     "price": 428.999,
     "name": "CIFRANAUTA"
   },
   "venta_maxima": {
-    "price": 423.0,
-    "name": "太COMPANY_CASH"
+    "price": 425.61,
+    "name": "DAKLANID"
   },
-  "promedio": 426.0,
+  "promedio": 427.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
