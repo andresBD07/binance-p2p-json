@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T16:14:57.145359",
-  "actualizado_vzla": "2025-12-06 12:14:57 -04",
+  "timestamp_utc": "2025-12-06T16:41:27.798451",
+  "actualizado_vzla": "2025-12-06 12:41:27 -04",
   "compra_segundo": {
-    "price": 425.9,
-    "name": "Open-cambios"
+    "price": 425.45,
+    "name": "Frijol007"
   },
   "venta_maxima": {
-    "price": 426.5,
+    "price": 427.1,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.2,
+  "promedio": 426.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
