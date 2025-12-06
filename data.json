@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T20:13:11.439169",
-  "actualizado_vzla": "2025-12-06 16:13:11 -04",
+  "timestamp_utc": "2025-12-06T20:35:01.679157",
+  "actualizado_vzla": "2025-12-06 16:35:01 -04",
   "compra_segundo": {
-    "price": 423.0,
-    "name": "LinkxD"
+    "price": 423.59,
+    "name": "Jolie-Mun"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "hectoraltrader"
+    "price": 425.3,
+    "name": "-IKNUSA-"
   },
-  "promedio": 424.5,
+  "promedio": 424.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
