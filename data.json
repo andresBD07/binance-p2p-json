@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T22:43:25.372523",
-  "actualizado_vzla": "2025-12-06 18:43:25 -04",
+  "timestamp_utc": "2025-12-06T22:56:18.906537",
+  "actualizado_vzla": "2025-12-06 18:56:18 -04",
   "compra_segundo": {
-    "price": 420.7,
-    "name": "TUCRIPseguro"
+    "price": 419.0,
+    "name": "Cambios_MH2107"
   },
   "venta_maxima": {
-    "price": 424.0,
-    "name": "CoorpLogistic"
+    "price": 419.48,
+    "name": "F1_CAMBIO_VIP"
   },
-  "promedio": 422.35,
+  "promedio": 419.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
