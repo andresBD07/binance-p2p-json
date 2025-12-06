@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T23:41:50.089827",
-  "actualizado_vzla": "2025-12-06 19:41:50 -04",
+  "timestamp_utc": "2025-12-06T23:55:07.720361",
+  "actualizado_vzla": "2025-12-06 19:55:07 -04",
   "compra_segundo": {
-    "price": 417.199,
-    "name": "Donnacambios"
+    "price": 417.63,
+    "name": "-Vallenatero-"
   },
   "venta_maxima": {
     "price": 418.0,
     "name": "CoorpLogistic"
   },
-  "promedio": 417.6,
+  "promedio": 417.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
