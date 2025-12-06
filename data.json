@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T19:21:32.508917",
-  "actualizado_vzla": "2025-12-06 15:21:32 -04",
+  "timestamp_utc": "2025-12-06T19:36:06.937181",
+  "actualizado_vzla": "2025-12-06 15:36:06 -04",
   "compra_segundo": {
-    "price": 423.599,
-    "name": "Grand-Exchange"
+    "price": 423.4,
+    "name": "GLOBAL_STEPHANIE_SPA"
   },
   "venta_maxima": {
-    "price": 425.7,
+    "price": 425.2,
     "name": "-IKNUSA-"
   },
-  "promedio": 424.65,
+  "promedio": 424.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
