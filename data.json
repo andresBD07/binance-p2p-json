@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T03:50:45.741633",
-  "actualizado_vzla": "2025-12-05 23:50:45 -04",
+  "timestamp_utc": "2025-12-06T04:17:46.581356",
+  "actualizado_vzla": "2025-12-06 00:17:46 -04",
   "compra_segundo": {
-    "price": 427.09,
-    "name": "LeNary-"
+    "price": 427.5,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
     "price": 428.0,
     "name": "Quick Payment"
   },
-  "promedio": 427.54,
+  "promedio": 427.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
