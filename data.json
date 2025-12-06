@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T05:54:13.569782",
-  "actualizado_vzla": "2025-12-06 01:54:13 -04",
+  "timestamp_utc": "2025-12-06T06:33:53.277987",
+  "actualizado_vzla": "2025-12-06 02:33:53 -04",
   "compra_segundo": {
     "price": 428.75,
-    "name": "CashFlash_TM"
+    "name": "El Buitre"
   },
   "venta_maxima": {
-    "price": 423.0,
-    "name": "Wis3Trading"
+    "price": 424.0,
+    "name": "-Vallenatero-"
   },
-  "promedio": 425.88,
+  "promedio": 426.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
