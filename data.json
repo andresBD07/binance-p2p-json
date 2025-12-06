@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-06T05:41:24.702888",
-  "actualizado_vzla": "2025-12-06 01:41:24 -04",
+  "timestamp_utc": "2025-12-06T05:54:13.569782",
+  "actualizado_vzla": "2025-12-06 01:54:13 -04",
   "compra_segundo": {
-    "price": 428.5,
-    "name": "GaAle19"
+    "price": 428.75,
+    "name": "CashFlash_TM"
   },
   "venta_maxima": {
-    "price": 422.601,
+    "price": 423.0,
     "name": "Wis3Trading"
   },
-  "promedio": 425.55,
+  "promedio": 425.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
