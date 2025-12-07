@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T15:40:20.822115",
-  "actualizado_vzla": "2025-12-07 11:40:20 -04",
+  "timestamp_utc": "2025-12-07T15:53:41.177204",
+  "actualizado_vzla": "2025-12-07 11:53:41 -04",
   "compra_segundo": {
-    "price": 423.999,
-    "name": "Cambi0Express"
+    "price": 423.8,
+    "name": "SINGAPORE24"
   },
   "venta_maxima": {
-    "price": 425.0,
-    "name": "CoorpLogistic"
+    "price": 425.05,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 424.5,
+  "promedio": 424.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
