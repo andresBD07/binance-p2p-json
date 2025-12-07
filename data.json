@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T22:59:32.714565",
-  "actualizado_vzla": "2025-12-07 18:59:32 -04",
+  "timestamp_utc": "2025-12-07T23:25:47.975003",
+  "actualizado_vzla": "2025-12-07 19:25:47 -04",
   "compra_segundo": {
-    "price": 419.499,
-    "name": "Carlitos-trading"
+    "price": 419.4,
+    "name": "CAMBIOCARVAJAL"
   },
   "venta_maxima": {
     "price": 419.5,
     "name": "CoorpLogistic"
   },
-  "promedio": 419.5,
+  "promedio": 419.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
