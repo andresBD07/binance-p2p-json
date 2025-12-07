@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T13:59:19.956018",
-  "actualizado_vzla": "2025-12-07 09:59:19 -04",
+  "timestamp_utc": "2025-12-07T14:27:33.875903",
+  "actualizado_vzla": "2025-12-07 10:27:33 -04",
   "compra_segundo": {
-    "price": 423.86,
-    "name": "Cripto_Activos"
+    "price": 423.9,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 422.1,
-    "name": "JoseParedez"
+    "price": 425.52,
+    "name": "MasterDT"
   },
-  "promedio": 422.98,
+  "promedio": 424.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
