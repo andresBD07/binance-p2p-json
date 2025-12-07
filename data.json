@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T12:19:40.350319",
-  "actualizado_vzla": "2025-12-07 08:19:40 -04",
+  "timestamp_utc": "2025-12-07T13:00:23.266559",
+  "actualizado_vzla": "2025-12-07 09:00:23 -04",
   "compra_segundo": {
-    "price": 420.48,
-    "name": "Falcon_Trade-P2P"
+    "price": 421.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 417.7,
-    "name": "c_s_"
+    "price": 419.1,
+    "name": "Brawlcoins"
   },
-  "promedio": 419.09,
+  "promedio": 420.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
