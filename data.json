@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T21:49:18.334010",
-  "actualizado_vzla": "2025-12-07 17:49:18 -04",
+  "timestamp_utc": "2025-12-07T22:11:13.439272",
+  "actualizado_vzla": "2025-12-07 18:11:13 -04",
   "compra_segundo": {
-    "price": 419.969,
-    "name": "TuAliadoCrypto-GL"
+    "price": 419.914,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
     "price": 419.5,
     "name": "CoorpLogistic"
   },
-  "promedio": 419.73,
+  "promedio": 419.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
