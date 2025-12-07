@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T11:48:55.233513",
-  "actualizado_vzla": "2025-12-07 07:48:55 -04",
+  "timestamp_utc": "2025-12-07T12:19:40.350319",
+  "actualizado_vzla": "2025-12-07 08:19:40 -04",
   "compra_segundo": {
-    "price": 420.45,
-    "name": "BallGroup"
+    "price": 420.48,
+    "name": "Falcon_Trade-P2P"
   },
   "venta_maxima": {
-    "price": 417.321,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 417.7,
+    "name": "c_s_"
   },
-  "promedio": 418.89,
+  "promedio": 419.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
