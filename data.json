@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T16:25:47.076096",
-  "actualizado_vzla": "2025-12-07 12:25:47 -04",
+  "timestamp_utc": "2025-12-07T16:46:18.218994",
+  "actualizado_vzla": "2025-12-07 12:46:18 -04",
   "compra_segundo": {
-    "price": 423.4,
-    "name": "Jorge_Malave"
+    "price": 423.999,
+    "name": "AlvaroFast"
   },
   "venta_maxima": {
-    "price": 425.5,
-    "name": "CoorpLogistic"
+    "price": 425.51,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 424.45,
+  "promedio": 424.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
