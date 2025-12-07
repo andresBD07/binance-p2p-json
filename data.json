@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T13:46:31.242455",
-  "actualizado_vzla": "2025-12-07 09:46:31 -04",
+  "timestamp_utc": "2025-12-07T13:59:19.956018",
+  "actualizado_vzla": "2025-12-07 09:59:19 -04",
   "compra_segundo": {
-    "price": 423.0,
-    "name": "Horusrs"
+    "price": 423.86,
+    "name": "Cripto_Activos"
   },
   "venta_maxima": {
-    "price": 422.0,
-    "name": "Godisgift"
+    "price": 422.1,
+    "name": "JoseParedez"
   },
-  "promedio": 422.5,
+  "promedio": 422.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
