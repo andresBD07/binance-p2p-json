@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T20:25:19.086997",
-  "actualizado_vzla": "2025-12-07 16:25:19 -04",
+  "timestamp_utc": "2025-12-07T20:42:35.166151",
+  "actualizado_vzla": "2025-12-07 16:42:35 -04",
   "compra_segundo": {
-    "price": 420.0,
-    "name": "NO3rosNO"
+    "price": 419.799,
+    "name": "In_God-I_trust"
   },
   "venta_maxima": {
     "price": 420.0,
     "name": "CoorpLogistic"
   },
-  "promedio": 420.0,
+  "promedio": 419.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
