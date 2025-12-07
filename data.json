@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T08:24:21.774004",
-  "actualizado_vzla": "2025-12-07 04:24:21 -04",
+  "timestamp_utc": "2025-12-07T08:46:14.023291",
+  "actualizado_vzla": "2025-12-07 04:46:14 -04",
   "compra_segundo": {
-    "price": 423.17,
-    "name": "Cristh957"
+    "price": 423.2,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
     "price": 416.0,
     "name": "Child-CambioFacil"
   },
-  "promedio": 419.59,
+  "promedio": 419.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
