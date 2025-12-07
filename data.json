@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T02:20:28.544844",
-  "actualizado_vzla": "2025-12-06 22:20:28 -04",
+  "timestamp_utc": "2025-12-07T03:44:54.560405",
+  "actualizado_vzla": "2025-12-06 23:44:54 -04",
   "compra_segundo": {
-    "price": 419.998,
-    "name": "Dajming-Trading-P2P"
+    "price": 420.199,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 417.31,
-    "name": "Inversiones-ADSC"
+    "price": 417.8,
+    "name": "ProfitCM"
   },
-  "promedio": 418.65,
+  "promedio": 419.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
