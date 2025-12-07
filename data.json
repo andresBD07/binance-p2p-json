@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T05:47:11.625268",
-  "actualizado_vzla": "2025-12-07 01:47:11 -04",
+  "timestamp_utc": "2025-12-07T05:59:54.851255",
+  "actualizado_vzla": "2025-12-07 01:59:54 -04",
   "compra_segundo": {
-    "price": 421.7,
-    "name": "K69_Trades"
+    "price": 422.0,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 417.7,
-    "name": "Wis3Trading"
+    "price": 416.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 419.7,
+  "promedio": 419.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
