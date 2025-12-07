@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T18:50:40.525174",
-  "actualizado_vzla": "2025-12-07 14:50:40 -04",
+  "timestamp_utc": "2025-12-07T19:11:36.486679",
+  "actualizado_vzla": "2025-12-07 15:11:36 -04",
   "compra_segundo": {
-    "price": 422.87,
-    "name": "Estrella_Trader"
+    "price": 422.0,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
     "price": 422.5,
     "name": "CoorpLogistic"
   },
-  "promedio": 422.69,
+  "promedio": 422.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
