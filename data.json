@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-07T16:59:26.157572",
-  "actualizado_vzla": "2025-12-07 12:59:26 -04",
+  "timestamp_utc": "2025-12-07T17:25:10.786792",
+  "actualizado_vzla": "2025-12-07 13:25:10 -04",
   "compra_segundo": {
-    "price": 423.999,
-    "name": "Coinrich17"
+    "price": 423.672,
+    "name": "RogerMau"
   },
   "venta_maxima": {
-    "price": 425.51,
-    "name": "LaManoInvisible_"
+    "price": 425.0,
+    "name": "Solvenza"
   },
-  "promedio": 424.75,
+  "promedio": 424.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
