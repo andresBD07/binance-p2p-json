@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T16:16:31.947644",
-  "actualizado_vzla": "2025-12-08 12:16:31 -04",
+  "timestamp_utc": "2025-12-08T16:48:13.134636",
+  "actualizado_vzla": "2025-12-08 12:48:13 -04",
   "compra_segundo": {
-    "price": 422.795,
-    "name": "LinkxD"
+    "price": 423.4,
+    "name": "Inversiones-Walaw"
   },
   "venta_maxima": {
-    "price": 424.101,
+    "price": 424.401,
     "name": "hudsonriver"
   },
-  "promedio": 423.45,
+  "promedio": 423.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
