@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T20:54:57.583533",
-  "actualizado_vzla": "2025-12-08 16:54:57 -04",
+  "timestamp_utc": "2025-12-08T21:22:17.351844",
+  "actualizado_vzla": "2025-12-08 17:22:17 -04",
   "compra_segundo": {
-    "price": 419.2,
-    "name": "Tony_Coin"
+    "price": 419.97,
+    "name": "Dark Eyes"
   },
   "venta_maxima": {
-    "price": 420.74,
-    "name": "TheOchoa"
+    "price": 421.2,
+    "name": "RONIN_COIN"
   },
-  "promedio": 419.97,
+  "promedio": 420.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
