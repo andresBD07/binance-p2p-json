@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T23:20:02.945637",
-  "actualizado_vzla": "2025-12-08 19:20:02 -04",
+  "timestamp_utc": "2025-12-08T23:37:49.870311",
+  "actualizado_vzla": "2025-12-08 19:37:49 -04",
   "compra_segundo": {
-    "price": 421.64,
-    "name": "JJM_TRADER"
+    "price": 422.0,
+    "name": "Camilo171"
   },
   "venta_maxima": {
-    "price": 421.2,
-    "name": "TheOchoa"
+    "price": 421.8,
+    "name": "RONIN_COIN"
   },
-  "promedio": 421.42,
+  "promedio": 421.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
