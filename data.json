@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-08T13:52:03.540081",
-  "actualizado_vzla": "2025-12-08 09:52:03 -04",
+  "timestamp_utc": "2025-12-08T14:20:50.465137",
+  "actualizado_vzla": "2025-12-08 10:20:50 -04",
   "compra_segundo": {
-    "price": 419.89,
-    "name": "BraianMay"
+    "price": 418.999,
+    "name": "clinicaef"
   },
   "venta_maxima": {
-    "price": 419.6,
-    "name": "hudsonriver"
+    "price": 420.5,
+    "name": "All-inCrypto"
   },
   "promedio": 419.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
