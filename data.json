@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T14:45:46.178345",
-  "actualizado_vzla": "2025-12-08 10:45:46 -04",
+  "timestamp_utc": "2025-12-08T14:58:49.191160",
+  "actualizado_vzla": "2025-12-08 10:58:49 -04",
   "compra_segundo": {
-    "price": 418.999,
-    "name": "ALTOVALORCL"
+    "price": 419.49,
+    "name": "Digitalvimarket"
   },
   "venta_maxima": {
-    "price": 421.6,
-    "name": "All-inCrypto"
+    "price": 421.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 420.3,
+  "promedio": 420.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
