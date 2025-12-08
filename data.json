@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T13:23:10.211062",
-  "actualizado_vzla": "2025-12-08 09:23:10 -04",
+  "timestamp_utc": "2025-12-08T13:52:03.540081",
+  "actualizado_vzla": "2025-12-08 09:52:03 -04",
   "compra_segundo": {
-    "price": 420.2,
-    "name": "exibox_0807"
+    "price": 419.89,
+    "name": "BraianMay"
   },
   "venta_maxima": {
-    "price": 421.0,
-    "name": "Solvenza"
+    "price": 419.6,
+    "name": "hudsonriver"
   },
-  "promedio": 420.6,
+  "promedio": 419.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
