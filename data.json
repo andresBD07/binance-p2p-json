@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T08:58:40.816982",
-  "actualizado_vzla": "2025-12-08 04:58:40 -04",
+  "timestamp_utc": "2025-12-08T09:38:28.355552",
+  "actualizado_vzla": "2025-12-08 05:38:28 -04",
   "compra_segundo": {
-    "price": 426.971,
-    "name": "ALLexchange_vzla"
+    "price": 427.0,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
     "price": 420.5,
     "name": "Elrefugiodecatgaby"
   },
-  "promedio": 423.74,
+  "promedio": 423.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
