@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T22:39:28.064946",
-  "actualizado_vzla": "2025-12-08 18:39:28 -04",
+  "timestamp_utc": "2025-12-08T22:52:43.783835",
+  "actualizado_vzla": "2025-12-08 18:52:43 -04",
   "compra_segundo": {
-    "price": 421.87,
-    "name": "VICKYMAN02"
+    "price": 421.5,
+    "name": "JJcambiosUSD"
   },
   "venta_maxima": {
-    "price": 422.65,
-    "name": "MARACAIBOBTC"
+    "price": 421.7,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 422.26,
+  "promedio": 421.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
