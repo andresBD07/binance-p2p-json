@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T05:56:44.576054",
-  "actualizado_vzla": "2025-12-08 01:56:44 -04",
+  "timestamp_utc": "2025-12-08T06:47:47.071183",
+  "actualizado_vzla": "2025-12-08 02:47:47 -04",
   "compra_segundo": {
-    "price": 425.8,
-    "name": "圎Sushi"
+    "price": 427.999,
+    "name": "Black9"
   },
   "venta_maxima": {
-    "price": 420.2,
-    "name": "SantiagoR19"
+    "price": 419.8,
+    "name": "BerracoT"
   },
-  "promedio": 423.0,
+  "promedio": 423.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
