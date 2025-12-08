@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T21:51:25.472625",
-  "actualizado_vzla": "2025-12-08 17:51:25 -04",
+  "timestamp_utc": "2025-12-08T22:17:09.591188",
+  "actualizado_vzla": "2025-12-08 18:17:09 -04",
   "compra_segundo": {
-    "price": 421.8,
-    "name": "Charles-Seguro"
+    "price": 422.0,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 421.9,
-    "name": "RONIN_COIN"
+    "price": 422.7,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 421.85,
+  "promedio": 422.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
