@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T09:55:54.242747",
-  "actualizado_vzla": "2025-12-08 05:55:54 -04",
+  "timestamp_utc": "2025-12-08T10:33:26.931645",
+  "actualizado_vzla": "2025-12-08 06:33:26 -04",
   "compra_segundo": {
-    "price": 426.5,
-    "name": "CripSeguro23"
+    "price": 425.7,
+    "name": "COMERCIO_SEGURO03"
   },
   "venta_maxima": {
-    "price": 420.5,
-    "name": "Elrefugiodecatgaby"
+    "price": 421.0,
+    "name": "Godisgift"
   },
-  "promedio": 423.5,
+  "promedio": 423.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
