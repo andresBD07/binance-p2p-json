@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T10:53:25.023093",
-  "actualizado_vzla": "2025-12-08 06:53:25 -04",
+  "timestamp_utc": "2025-12-08T11:20:51.567787",
+  "actualizado_vzla": "2025-12-08 07:20:51 -04",
   "compra_segundo": {
-    "price": 424.999,
-    "name": "水猴"
+    "price": 424.0,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
-    "price": 421.0,
-    "name": "Godisgift"
+    "price": 420.1,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 423.0,
+  "promedio": 422.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
