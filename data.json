@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T21:38:20.628882",
-  "actualizado_vzla": "2025-12-08 17:38:20 -04",
+  "timestamp_utc": "2025-12-08T21:51:25.472625",
+  "actualizado_vzla": "2025-12-08 17:51:25 -04",
   "compra_segundo": {
-    "price": 421.0,
-    "name": "CambiosAshley"
+    "price": 421.8,
+    "name": "Charles-Seguro"
   },
   "venta_maxima": {
     "price": 421.9,
     "name": "RONIN_COIN"
   },
-  "promedio": 421.45,
+  "promedio": 421.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
