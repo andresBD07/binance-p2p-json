@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T15:32:48.601943",
-  "actualizado_vzla": "2025-12-08 11:32:48 -04",
+  "timestamp_utc": "2025-12-08T15:49:12.052012",
+  "actualizado_vzla": "2025-12-08 11:49:12 -04",
   "compra_segundo": {
-    "price": 421.2,
-    "name": "KikeCrypto"
+    "price": 422.29,
+    "name": "JS_Valentine"
   },
   "venta_maxima": {
-    "price": 422.55,
-    "name": "All-inCrypto"
+    "price": 423.8,
+    "name": "hectoraltrader"
   },
-  "promedio": 421.88,
+  "promedio": 423.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
