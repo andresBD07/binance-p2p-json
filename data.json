@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T15:49:12.052012",
-  "actualizado_vzla": "2025-12-08 11:49:12 -04",
+  "timestamp_utc": "2025-12-08T16:16:31.947644",
+  "actualizado_vzla": "2025-12-08 12:16:31 -04",
   "compra_segundo": {
-    "price": 422.29,
-    "name": "JS_Valentine"
+    "price": 422.795,
+    "name": "LinkxD"
   },
   "venta_maxima": {
-    "price": 423.8,
-    "name": "hectoraltrader"
+    "price": 424.101,
+    "name": "hudsonriver"
   },
-  "promedio": 423.05,
+  "promedio": 423.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
