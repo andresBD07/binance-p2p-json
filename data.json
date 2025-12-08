@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T17:37:06.199106",
-  "actualizado_vzla": "2025-12-08 13:37:06 -04",
+  "timestamp_utc": "2025-12-08T17:51:37.035060",
+  "actualizado_vzla": "2025-12-08 13:51:37 -04",
   "compra_segundo": {
-    "price": 421.66,
-    "name": "Betania"
+    "price": 421.29,
+    "name": "AvaStark"
   },
   "venta_maxima": {
-    "price": 423.0,
-    "name": "Godisgift"
+    "price": 422.75,
+    "name": "hudsonriver"
   },
-  "promedio": 422.33,
+  "promedio": 422.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
