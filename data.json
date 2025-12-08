@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T07:39:37.471149",
-  "actualizado_vzla": "2025-12-08 03:39:37 -04",
+  "timestamp_utc": "2025-12-08T07:53:37.091850",
+  "actualizado_vzla": "2025-12-08 03:53:37 -04",
   "compra_segundo": {
-    "price": 427.999,
-    "name": "Black9"
+    "price": 427.886,
+    "name": "Jorge33P2P"
   },
   "venta_maxima": {
-    "price": 419.8,
-    "name": "BerracoT"
+    "price": 419.801,
+    "name": "你看_VES_你看_VES_你看Like"
   },
-  "promedio": 423.9,
+  "promedio": 423.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
