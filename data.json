@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T22:17:09.591188",
-  "actualizado_vzla": "2025-12-08 18:17:09 -04",
+  "timestamp_utc": "2025-12-08T22:39:28.064946",
+  "actualizado_vzla": "2025-12-08 18:39:28 -04",
   "compra_segundo": {
-    "price": 422.0,
-    "name": "Kartozpk"
+    "price": 421.87,
+    "name": "VICKYMAN02"
   },
   "venta_maxima": {
-    "price": 422.7,
-    "name": "Jin-Woo-Sung"
+    "price": 422.65,
+    "name": "MARACAIBOBTC"
   },
-  "promedio": 422.35,
+  "promedio": 422.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
