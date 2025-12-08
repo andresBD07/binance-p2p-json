@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-08T21:22:17.351844",
-  "actualizado_vzla": "2025-12-08 17:22:17 -04",
+  "timestamp_utc": "2025-12-08T21:38:20.628882",
+  "actualizado_vzla": "2025-12-08 17:38:20 -04",
   "compra_segundo": {
-    "price": 419.97,
-    "name": "Dark Eyes"
+    "price": 421.0,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
-    "price": 421.2,
+    "price": 421.9,
     "name": "RONIN_COIN"
   },
-  "promedio": 420.59,
+  "promedio": 421.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
