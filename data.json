@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T16:12:15.014205",
-  "actualizado_vzla": "2025-12-09 12:12:15 -04",
+  "timestamp_utc": "2025-12-09T16:45:19.308910",
+  "actualizado_vzla": "2025-12-09 12:45:19 -04",
   "compra_segundo": {
-    "price": 420.12,
-    "name": "Eldoc1996"
+    "price": 420.3,
+    "name": "Martony_23"
   },
   "venta_maxima": {
-    "price": 421.5,
+    "price": 424.5,
     "name": "SmartSolutionn"
   },
-  "promedio": 420.81,
+  "promedio": 422.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
