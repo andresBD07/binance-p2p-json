@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T17:02:20.234668",
-  "actualizado_vzla": "2025-12-09 13:02:20 -04",
+  "timestamp_utc": "2025-12-09T17:33:11.572947",
+  "actualizado_vzla": "2025-12-09 13:33:11 -04",
   "compra_segundo": {
-    "price": 420.85,
-    "name": "SparkThe14"
+    "price": 423.3,
+    "name": "Yolo_C"
   },
   "venta_maxima": {
-    "price": 424.0,
-    "name": "SmartSolutionn"
+    "price": 424.5,
+    "name": "VECTURAFX"
   },
-  "promedio": 422.43,
+  "promedio": 423.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
