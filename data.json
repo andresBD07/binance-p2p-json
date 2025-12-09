@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T11:59:36.840996",
-  "actualizado_vzla": "2025-12-09 07:59:36 -04",
+  "timestamp_utc": "2025-12-09T13:03:21.325774",
+  "actualizado_vzla": "2025-12-09 09:03:21 -04",
   "compra_segundo": {
-    "price": 420.4,
-    "name": "jssepro"
+    "price": 419.211,
+    "name": "rapidos15"
   },
   "venta_maxima": {
-    "price": 419.0,
-    "name": "Inversiones-ADSC"
+    "price": 417.5,
+    "name": "Montcios"
   },
-  "promedio": 419.7,
+  "promedio": 418.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
