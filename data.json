@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T22:27:13.396741",
-  "actualizado_vzla": "2025-12-09 18:27:13 -04",
+  "timestamp_utc": "2025-12-09T22:44:13.735050",
+  "actualizado_vzla": "2025-12-09 18:44:13 -04",
   "compra_segundo": {
-    "price": 426.472,
-    "name": "Falcon_Trade-P2P"
+    "price": 426.255,
+    "name": "THEBOSSTRADER"
   },
   "venta_maxima": {
     "price": 426.0,
     "name": "VECTURAFX"
   },
-  "promedio": 426.24,
+  "promedio": 426.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
