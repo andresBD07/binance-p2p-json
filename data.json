@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T11:12:01.947643",
-  "actualizado_vzla": "2025-12-09 07:12:01 -04",
+  "timestamp_utc": "2025-12-09T11:32:27.534135",
+  "actualizado_vzla": "2025-12-09 07:32:27 -04",
   "compra_segundo": {
-    "price": 421.1,
-    "name": "Tsarukyan_"
+    "price": 420.61,
+    "name": "p2p_itriago"
   },
   "venta_maxima": {
-    "price": 417.7,
-    "name": "Keria23"
+    "price": 417.712,
+    "name": "RiddleTrader1998"
   },
-  "promedio": 419.4,
+  "promedio": 419.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
