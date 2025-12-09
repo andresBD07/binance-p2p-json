@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T19:09:08.755070",
-  "actualizado_vzla": "2025-12-09 15:09:08 -04",
+  "timestamp_utc": "2025-12-09T19:26:02.284535",
+  "actualizado_vzla": "2025-12-09 15:26:02 -04",
   "compra_segundo": {
-    "price": 422.8,
-    "name": "CAMBIOME"
+    "price": 422.77,
+    "name": "JoseManuelGarrido"
   },
   "venta_maxima": {
-    "price": 423.81,
-    "name": "-IKNUSA-"
+    "price": 422.1,
+    "name": "Gustavo129"
   },
-  "promedio": 423.31,
+  "promedio": 422.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
