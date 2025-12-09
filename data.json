@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T22:44:13.735050",
-  "actualizado_vzla": "2025-12-09 18:44:13 -04",
+  "timestamp_utc": "2025-12-09T22:57:30.208022",
+  "actualizado_vzla": "2025-12-09 18:57:30 -04",
   "compra_segundo": {
-    "price": 426.255,
-    "name": "THEBOSSTRADER"
+    "price": 426.4,
+    "name": "LuzChanges"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "VECTURAFX"
+    "price": 425.8,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 426.13,
+  "promedio": 426.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
