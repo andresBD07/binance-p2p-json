@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T23:42:19.783491",
-  "actualizado_vzla": "2025-12-09 19:42:19 -04",
+  "timestamp_utc": "2025-12-09T23:55:18.321089",
+  "actualizado_vzla": "2025-12-09 19:55:18 -04",
   "compra_segundo": {
-    "price": 426.19,
-    "name": "Cripto_Activos"
+    "price": 425.767,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
     "price": 425.51,
     "name": "Quick Payment"
   },
-  "promedio": 425.85,
+  "promedio": 425.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
