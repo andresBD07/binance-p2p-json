@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T21:25:44.291483",
-  "actualizado_vzla": "2025-12-09 17:25:44 -04",
+  "timestamp_utc": "2025-12-09T21:42:38.890412",
+  "actualizado_vzla": "2025-12-09 17:42:38 -04",
   "compra_segundo": {
-    "price": 424.3,
-    "name": "trade-key"
+    "price": 425.3,
+    "name": "CryptoJM95"
   },
   "venta_maxima": {
-    "price": 424.23,
-    "name": "-IKNUSA-"
+    "price": 425.5,
+    "name": "VECTURAFX"
   },
-  "promedio": 424.26,
+  "promedio": 425.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
