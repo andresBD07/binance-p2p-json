@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T20:56:13.345816",
-  "actualizado_vzla": "2025-12-09 16:56:13 -04",
+  "timestamp_utc": "2025-12-09T21:25:44.291483",
+  "actualizado_vzla": "2025-12-09 17:25:44 -04",
   "compra_segundo": {
-    "price": 423.29,
-    "name": "AvaStark"
+    "price": 424.3,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 423.56,
+    "price": 424.23,
     "name": "-IKNUSA-"
   },
-  "promedio": 423.43,
+  "promedio": 424.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
