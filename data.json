@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T03:54:13.248274",
-  "actualizado_vzla": "2025-12-08 23:54:13 -04",
+  "timestamp_utc": "2025-12-09T04:32:54.801692",
+  "actualizado_vzla": "2025-12-09 00:32:54 -04",
   "compra_segundo": {
-    "price": 422.699,
-    "name": "Orlando_1705"
+    "price": 422.9,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 420.0,
-    "name": "hectoraltrader"
+    "price": 419.1,
+    "name": "AvExchange"
   },
-  "promedio": 421.35,
+  "promedio": 421.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
