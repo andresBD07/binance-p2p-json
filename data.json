@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T13:03:21.325774",
-  "actualizado_vzla": "2025-12-09 09:03:21 -04",
+  "timestamp_utc": "2025-12-09T13:45:57.768855",
+  "actualizado_vzla": "2025-12-09 09:45:57 -04",
   "compra_segundo": {
-    "price": 419.211,
-    "name": "rapidos15"
+    "price": 419.67,
+    "name": "guillermoP"
   },
   "venta_maxima": {
-    "price": 417.5,
+    "price": 418.0,
     "name": "Montcios"
   },
-  "promedio": 418.36,
+  "promedio": 418.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
