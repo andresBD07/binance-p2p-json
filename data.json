@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T11:46:30.904569",
-  "actualizado_vzla": "2025-12-09 07:46:30 -04",
+  "timestamp_utc": "2025-12-09T11:59:36.840996",
+  "actualizado_vzla": "2025-12-09 07:59:36 -04",
   "compra_segundo": {
     "price": 420.4,
-    "name": "Seyo97"
+    "name": "jssepro"
   },
   "venta_maxima": {
-    "price": 419.8,
-    "name": "Guangzhou13"
+    "price": 419.0,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 420.1,
+  "promedio": 419.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
