@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T05:43:06.644307",
-  "actualizado_vzla": "2025-12-09 01:43:06 -04",
+  "timestamp_utc": "2025-12-09T05:56:20.428823",
+  "actualizado_vzla": "2025-12-09 01:56:20 -04",
   "compra_segundo": {
-    "price": 422.75,
-    "name": "JF_Trading_Flash"
+    "price": 422.885,
+    "name": "RushPay"
   },
   "venta_maxima": {
     "price": 418.9,
     "name": "Wis3Trading"
   },
-  "promedio": 420.82,
+  "promedio": 420.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
