@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T07:59:57.316282",
-  "actualizado_vzla": "2025-12-09 03:59:57 -04",
+  "timestamp_utc": "2025-12-09T08:42:17.861750",
+  "actualizado_vzla": "2025-12-09 04:42:17 -04",
   "compra_segundo": {
-    "price": 423.0,
-    "name": "Daikokuten-Finance"
+    "price": 422.9,
+    "name": "p2p_itriago"
   },
   "venta_maxima": {
     "price": 418.27,
     "name": "EliteSummitPro"
   },
-  "promedio": 420.63,
+  "promedio": 420.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
