@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T13:45:57.768855",
-  "actualizado_vzla": "2025-12-09 09:45:57 -04",
+  "timestamp_utc": "2025-12-09T14:00:07.945067",
+  "actualizado_vzla": "2025-12-09 10:00:07 -04",
   "compra_segundo": {
-    "price": 419.67,
-    "name": "guillermoP"
+    "price": 419.2,
+    "name": "JLACOIN"
   },
   "venta_maxima": {
     "price": 418.0,
-    "name": "Montcios"
+    "name": "FinanceSecure"
   },
-  "promedio": 418.84,
+  "promedio": 418.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
