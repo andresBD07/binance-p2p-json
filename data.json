@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T18:48:56.307755",
-  "actualizado_vzla": "2025-12-09 14:48:56 -04",
+  "timestamp_utc": "2025-12-09T19:09:08.755070",
+  "actualizado_vzla": "2025-12-09 15:09:08 -04",
   "compra_segundo": {
-    "price": 423.0,
-    "name": "Cambia-Seguro-01"
+    "price": 422.8,
+    "name": "CAMBIOME"
   },
   "venta_maxima": {
-    "price": 423.234,
+    "price": 423.81,
     "name": "-IKNUSA-"
   },
-  "promedio": 423.12,
+  "promedio": 423.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
