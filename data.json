@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T19:54:48.565605",
-  "actualizado_vzla": "2025-12-09 15:54:48 -04",
+  "timestamp_utc": "2025-12-09T20:26:30.132702",
+  "actualizado_vzla": "2025-12-09 16:26:30 -04",
   "compra_segundo": {
-    "price": 423.15,
-    "name": "Cmaximoj"
+    "price": 423.004,
+    "name": "RemesasCougar_wise"
   },
   "venta_maxima": {
-    "price": 423.0,
-    "name": "GREEN78"
+    "price": 423.05,
+    "name": "-IKNUSA-"
   },
-  "promedio": 423.07,
+  "promedio": 423.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
