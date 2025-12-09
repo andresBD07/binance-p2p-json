@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T23:27:51.587362",
-  "actualizado_vzla": "2025-12-09 19:27:51 -04",
+  "timestamp_utc": "2025-12-09T23:42:19.783491",
+  "actualizado_vzla": "2025-12-09 19:42:19 -04",
   "compra_segundo": {
-    "price": 426.4,
-    "name": "Magnetic10"
+    "price": 426.19,
+    "name": "Cripto_Activos"
   },
   "venta_maxima": {
-    "price": 425.8,
-    "name": "MaestroRoshi-"
+    "price": 425.51,
+    "name": "Quick Payment"
   },
-  "promedio": 426.1,
+  "promedio": 425.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
