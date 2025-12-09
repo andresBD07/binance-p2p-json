@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T14:00:07.945067",
-  "actualizado_vzla": "2025-12-09 10:00:07 -04",
+  "timestamp_utc": "2025-12-09T14:35:11.809694",
+  "actualizado_vzla": "2025-12-09 10:35:11 -04",
   "compra_segundo": {
-    "price": 419.2,
-    "name": "JLACOIN"
+    "price": 418.949,
+    "name": "Caramelo_11"
   },
   "venta_maxima": {
-    "price": 418.0,
+    "price": 420.0,
     "name": "FinanceSecure"
   },
-  "promedio": 418.6,
+  "promedio": 419.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
