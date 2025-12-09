@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-09T01:14:16.581326",
-  "actualizado_vzla": "2025-12-08 21:14:16 -04",
+  "timestamp_utc": "2025-12-09T02:56:13.666995",
+  "actualizado_vzla": "2025-12-08 22:56:13 -04",
   "compra_segundo": {
-    "price": 421.6,
-    "name": "Secure Payment"
+    "price": 422.0,
+    "name": "ÉvaristeGalois"
   },
   "venta_maxima": {
-    "price": 420.0,
-    "name": "hectoraltrader"
+    "price": 421.0,
+    "name": "talepagos"
   },
-  "promedio": 420.8,
+  "promedio": 421.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
