@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T10:55:18.143218",
-  "actualizado_vzla": "2025-12-10 06:55:18 -04",
+  "timestamp_utc": "2025-12-10T11:25:09.987500",
+  "actualizado_vzla": "2025-12-10 07:25:09 -04",
   "compra_segundo": {
-    "price": 426.25,
-    "name": "GENGISKAN_INV"
+    "price": 426.0,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
     "price": 423.7,
     "name": "HAWKEYE-1"
   },
-  "promedio": 424.98,
+  "promedio": 424.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
