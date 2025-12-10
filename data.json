@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T08:49:22.001597",
-  "actualizado_vzla": "2025-12-10 04:49:22 -04",
+  "timestamp_utc": "2025-12-10T09:13:10.621449",
+  "actualizado_vzla": "2025-12-10 05:13:10 -04",
   "compra_segundo": {
-    "price": 427.75,
-    "name": "Imperiocrypto_co"
+    "price": 427.89,
+    "name": "Germanctr"
   },
   "venta_maxima": {
     "price": 423.4,
     "name": "CoorpLogistic"
   },
-  "promedio": 425.57,
+  "promedio": 425.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
