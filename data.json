@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T13:46:42.491317",
-  "actualizado_vzla": "2025-12-10 09:46:42 -04",
+  "timestamp_utc": "2025-12-10T14:11:07.879089",
+  "actualizado_vzla": "2025-12-10 10:11:07 -04",
   "compra_segundo": {
-    "price": 425.19,
-    "name": "Dancrip24-7"
+    "price": 425.58,
+    "name": "CambioRapido13"
   },
   "venta_maxima": {
-    "price": 424.5,
-    "name": "CoorpLogistic"
+    "price": 426.0,
+    "name": "Godisgift"
   },
-  "promedio": 424.85,
+  "promedio": 425.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
