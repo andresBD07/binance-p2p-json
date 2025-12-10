@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T05:55:15.184030",
-  "actualizado_vzla": "2025-12-10 01:55:15 -04",
+  "timestamp_utc": "2025-12-10T06:42:48.384166",
+  "actualizado_vzla": "2025-12-10 02:42:48 -04",
   "compra_segundo": {
-    "price": 427.3,
-    "name": "TokenSwift"
+    "price": 428.0,
+    "name": "-Flash-XChange-"
   },
   "venta_maxima": {
     "price": 423.4,
     "name": "CoorpLogistic"
   },
-  "promedio": 425.35,
+  "promedio": 425.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
