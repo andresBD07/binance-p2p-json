@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T04:50:57.334639",
-  "actualizado_vzla": "2025-12-10 00:50:57 -04",
+  "timestamp_utc": "2025-12-10T05:17:59.202781",
+  "actualizado_vzla": "2025-12-10 01:17:59 -04",
   "compra_segundo": {
-    "price": 426.6,
-    "name": "METODICO"
+    "price": 426.898,
+    "name": "Elrapid"
   },
   "venta_maxima": {
     "price": 423.51,
     "name": "TuPagoRapido"
   },
-  "promedio": 425.06,
+  "promedio": 425.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
