@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T20:17:47.589513",
-  "actualizado_vzla": "2025-12-10 16:17:47 -04",
+  "timestamp_utc": "2025-12-10T20:43:54.408612",
+  "actualizado_vzla": "2025-12-10 16:43:54 -04",
   "compra_segundo": {
-    "price": 425.65,
-    "name": "MarDiodoros"
+    "price": 426.0,
+    "name": "WChurchill"
   },
   "venta_maxima": {
-    "price": 425.5,
-    "name": "USDTpulso"
+    "price": 427.12,
+    "name": "-IKNUSA-"
   },
-  "promedio": 425.57,
+  "promedio": 426.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
