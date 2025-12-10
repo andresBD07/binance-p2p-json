@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T07:01:30.133249",
-  "actualizado_vzla": "2025-12-10 03:01:30 -04",
+  "timestamp_utc": "2025-12-10T07:32:59.545300",
+  "actualizado_vzla": "2025-12-10 03:32:59 -04",
   "compra_segundo": {
-    "price": 427.9,
-    "name": "btcmamba24"
+    "price": 427.986,
+    "name": "Apolo_Cript"
   },
   "venta_maxima": {
     "price": 423.4,
     "name": "CoorpLogistic"
   },
-  "promedio": 425.65,
+  "promedio": 425.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
