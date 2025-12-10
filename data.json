@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-10T05:17:59.202781",
-  "actualizado_vzla": "2025-12-10 01:17:59 -04",
+  "timestamp_utc": "2025-12-10T05:41:55.449108",
+  "actualizado_vzla": "2025-12-10 01:41:55 -04",
   "compra_segundo": {
-    "price": 426.898,
-    "name": "Elrapid"
+    "price": 427.0,
+    "name": "MyE_spa"
   },
   "venta_maxima": {
-    "price": 423.51,
-    "name": "TuPagoRapido"
+    "price": 423.4,
+    "name": "CoorpLogistic"
   },
   "promedio": 425.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
