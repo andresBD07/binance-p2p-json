@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T14:11:07.879089",
-  "actualizado_vzla": "2025-12-10 10:11:07 -04",
+  "timestamp_utc": "2025-12-10T14:43:21.431014",
+  "actualizado_vzla": "2025-12-10 10:43:21 -04",
   "compra_segundo": {
-    "price": 425.58,
-    "name": "CambioRapido13"
+    "price": 425.79,
+    "name": "camaro84"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "Godisgift"
+    "price": 428.0,
+    "name": "Montcios"
   },
-  "promedio": 425.79,
+  "promedio": 426.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
