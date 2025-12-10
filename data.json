@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T07:48:53.422157",
-  "actualizado_vzla": "2025-12-10 03:48:53 -04",
+  "timestamp_utc": "2025-12-10T08:16:52.293146",
+  "actualizado_vzla": "2025-12-10 04:16:52 -04",
   "compra_segundo": {
-    "price": 427.9,
-    "name": "btcmamba24"
+    "price": 427.799,
+    "name": "AlainTD"
   },
   "venta_maxima": {
     "price": 423.4,
     "name": "CoorpLogistic"
   },
-  "promedio": 425.65,
+  "promedio": 425.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
