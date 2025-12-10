@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T23:19:36.708749",
-  "actualizado_vzla": "2025-12-10 19:19:36 -04",
+  "timestamp_utc": "2025-12-10T23:36:58.264953",
+  "actualizado_vzla": "2025-12-10 19:36:58 -04",
   "compra_segundo": {
-    "price": 430.64,
-    "name": "Trader_MVG"
+    "price": 430.58,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 430.02,
-    "name": "KillKeroy"
+    "price": 429.1,
+    "name": "ANTONIOC15"
   },
-  "promedio": 430.33,
+  "promedio": 429.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
