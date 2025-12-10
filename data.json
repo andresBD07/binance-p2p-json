@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T05:41:55.449108",
-  "actualizado_vzla": "2025-12-10 01:41:55 -04",
+  "timestamp_utc": "2025-12-10T05:55:15.184030",
+  "actualizado_vzla": "2025-12-10 01:55:15 -04",
   "compra_segundo": {
-    "price": 427.0,
-    "name": "MyE_spa"
+    "price": 427.3,
+    "name": "TokenSwift"
   },
   "venta_maxima": {
     "price": 423.4,
     "name": "CoorpLogistic"
   },
-  "promedio": 425.2,
+  "promedio": 425.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
