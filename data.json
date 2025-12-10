@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T16:29:11.706684",
-  "actualizado_vzla": "2025-12-10 12:29:11 -04",
+  "timestamp_utc": "2025-12-10T16:55:43.950328",
+  "actualizado_vzla": "2025-12-10 12:55:43 -04",
   "compra_segundo": {
-    "price": 425.25,
-    "name": "x-Maverick-x"
+    "price": 424.5,
+    "name": "javier273"
   },
   "venta_maxima": {
     "price": 425.0,
     "name": "Gustavo129"
   },
-  "promedio": 425.12,
+  "promedio": 424.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
