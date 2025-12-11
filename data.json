@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T03:00:55.341007",
-  "actualizado_vzla": "2025-12-10 23:00:55 -04",
+  "timestamp_utc": "2025-12-11T04:02:15.588958",
+  "actualizado_vzla": "2025-12-11 00:02:15 -04",
   "compra_segundo": {
-    "price": 429.99,
-    "name": "Ekxprees"
+    "price": 430.86,
+    "name": "NimaX-64"
   },
   "venta_maxima": {
-    "price": 428.0,
-    "name": "-Godgiven-"
+    "price": 426.46,
+    "name": "forex25"
   },
-  "promedio": 429.0,
+  "promedio": 428.66,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
