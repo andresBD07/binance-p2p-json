@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T10:51:02.147836",
-  "actualizado_vzla": "2025-12-11 06:51:02 -04",
+  "timestamp_utc": "2025-12-11T11:15:28.990571",
+  "actualizado_vzla": "2025-12-11 07:15:29 -04",
   "compra_segundo": {
-    "price": 430.27,
-    "name": "ArepaConCafé"
+    "price": 429.889,
+    "name": "-APPARATUS-"
   },
   "venta_maxima": {
-    "price": 426.7,
-    "name": "zucorp"
+    "price": 426.901,
+    "name": "forex25"
   },
-  "promedio": 428.49,
+  "promedio": 428.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
