@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T21:58:23.593107",
-  "actualizado_vzla": "2025-12-11 17:58:23 -04",
+  "timestamp_utc": "2025-12-11T22:31:24.531131",
+  "actualizado_vzla": "2025-12-11 18:31:24 -04",
   "compra_segundo": {
-    "price": 427.0,
-    "name": "SpeedGlobalP2P"
+    "price": 427.8,
+    "name": "enma"
   },
   "venta_maxima": {
-    "price": 427.2,
-    "name": "KillKeroy"
+    "price": 427.5,
+    "name": "Gustavo129"
   },
-  "promedio": 427.1,
+  "promedio": 427.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
