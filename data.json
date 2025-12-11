@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T01:06:14.226755",
-  "actualizado_vzla": "2025-12-10 21:06:14 -04",
+  "timestamp_utc": "2025-12-11T03:00:55.341007",
+  "actualizado_vzla": "2025-12-10 23:00:55 -04",
   "compra_segundo": {
-    "price": 430.0,
-    "name": "CAMBIOS-SERVICIOS-ED"
+    "price": 429.99,
+    "name": "Ekxprees"
   },
   "venta_maxima": {
-    "price": 428.61,
-    "name": "Vitatech"
+    "price": 428.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 429.31,
+  "promedio": 429.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
