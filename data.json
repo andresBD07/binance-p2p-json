@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T09:34:23.344528",
-  "actualizado_vzla": "2025-12-11 05:34:23 -04",
+  "timestamp_utc": "2025-12-11T09:52:56.252693",
+  "actualizado_vzla": "2025-12-11 05:52:56 -04",
   "compra_segundo": {
-    "price": 431.39,
-    "name": "Loyalbtc"
+    "price": 431.0,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
     "price": 426.0,
     "name": "Budyzz"
   },
-  "promedio": 428.69,
+  "promedio": 428.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
