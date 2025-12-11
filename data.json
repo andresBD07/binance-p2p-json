@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T14:50:18.293044",
-  "actualizado_vzla": "2025-12-11 10:50:18 -04",
+  "timestamp_utc": "2025-12-11T15:18:16.149797",
+  "actualizado_vzla": "2025-12-11 11:18:16 -04",
   "compra_segundo": {
-    "price": 426.35,
-    "name": "FastEG"
+    "price": 426.899,
+    "name": "FastChangeSafeChange"
   },
   "venta_maxima": {
-    "price": 427.12,
-    "name": "-IKNUSA-"
+    "price": 426.652,
+    "name": "TheFamilyPay"
   },
-  "promedio": 426.74,
+  "promedio": 426.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
