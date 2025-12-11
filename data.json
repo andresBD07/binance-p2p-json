@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T17:50:00.117799",
-  "actualizado_vzla": "2025-12-11 13:50:00 -04",
+  "timestamp_utc": "2025-12-11T18:20:15.873005",
+  "actualizado_vzla": "2025-12-11 14:20:15 -04",
   "compra_segundo": {
-    "price": 426.9,
-    "name": "HT24_7"
+    "price": 426.49,
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
     "price": 427.0,
     "name": "Quick Payment"
   },
-  "promedio": 426.95,
+  "promedio": 426.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
