@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T19:19:54.790948",
-  "actualizado_vzla": "2025-12-11 15:19:54 -04",
+  "timestamp_utc": "2025-12-11T19:38:57.492218",
+  "actualizado_vzla": "2025-12-11 15:38:57 -04",
   "compra_segundo": {
-    "price": 425.0,
-    "name": "Chespi_cripto8"
+    "price": 424.4,
+    "name": "GokuExchange"
   },
   "venta_maxima": {
-    "price": 425.2,
-    "name": "KillKeroy"
+    "price": 426.0,
+    "name": "Quick Payment"
   },
-  "promedio": 425.1,
+  "promedio": 425.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
