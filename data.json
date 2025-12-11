@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T11:49:01.873249",
-  "actualizado_vzla": "2025-12-11 07:49:01 -04",
+  "timestamp_utc": "2025-12-11T12:26:02.981900",
+  "actualizado_vzla": "2025-12-11 08:26:02 -04",
   "compra_segundo": {
-    "price": 428.8,
-    "name": "InversionesMR"
+    "price": 427.889,
+    "name": "Angelolivar86"
   },
   "venta_maxima": {
-    "price": 427.0,
-    "name": "KillKeroy"
+    "price": 427.7,
+    "name": "hectoraltrader"
   },
-  "promedio": 427.9,
+  "promedio": 427.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
