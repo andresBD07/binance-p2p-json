@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T20:42:41.229783",
-  "actualizado_vzla": "2025-12-11 16:42:41 -04",
+  "timestamp_utc": "2025-12-11T20:55:56.964063",
+  "actualizado_vzla": "2025-12-11 16:55:56 -04",
   "compra_segundo": {
-    "price": 425.85,
-    "name": "Cambi0Express"
+    "price": 425.988,
+    "name": "Atumanocambio"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "Quick Payment"
+    "price": 428.0,
+    "name": "LaManoInvisible_"
   },
-  "promedio": 425.93,
+  "promedio": 426.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
