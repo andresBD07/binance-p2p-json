@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T16:46:41.870256",
-  "actualizado_vzla": "2025-12-11 12:46:41 -04",
+  "timestamp_utc": "2025-12-11T17:15:53.042749",
+  "actualizado_vzla": "2025-12-11 13:15:53 -04",
   "compra_segundo": {
-    "price": 426.5,
-    "name": "GokuExchange"
+    "price": 427.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 427.63,
-    "name": "Vitatech"
+    "price": 427.0,
+    "name": "Quick Payment"
   },
-  "promedio": 427.06,
+  "promedio": 427.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
