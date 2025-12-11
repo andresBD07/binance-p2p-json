@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T11:15:28.990571",
-  "actualizado_vzla": "2025-12-11 07:15:29 -04",
+  "timestamp_utc": "2025-12-11T11:34:51.278871",
+  "actualizado_vzla": "2025-12-11 07:34:51 -04",
   "compra_segundo": {
-    "price": 429.889,
-    "name": "-APPARATUS-"
+    "price": 429.5,
+    "name": "Jars88"
   },
   "venta_maxima": {
-    "price": 426.901,
-    "name": "forex25"
+    "price": 426.5,
+    "name": "KillKeroy"
   },
-  "promedio": 428.39,
+  "promedio": 428.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
