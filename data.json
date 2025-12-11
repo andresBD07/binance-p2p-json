@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T09:52:56.252693",
-  "actualizado_vzla": "2025-12-11 05:52:56 -04",
+  "timestamp_utc": "2025-12-11T10:26:10.721113",
+  "actualizado_vzla": "2025-12-11 06:26:10 -04",
   "compra_segundo": {
-    "price": 431.0,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 430.27,
+    "name": "ArepaConCafé"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "Budyzz"
+    "price": 426.3,
+    "name": "c_s_"
   },
-  "promedio": 428.5,
+  "promedio": 428.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
