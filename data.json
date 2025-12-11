@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T04:02:15.588958",
-  "actualizado_vzla": "2025-12-11 00:02:15 -04",
+  "timestamp_utc": "2025-12-11T04:46:01.753280",
+  "actualizado_vzla": "2025-12-11 00:46:01 -04",
   "compra_segundo": {
-    "price": 430.86,
-    "name": "NimaX-64"
+    "price": 430.97,
+    "name": "AskenLurom"
   },
   "venta_maxima": {
-    "price": 426.46,
-    "name": "forex25"
+    "price": 426.7,
+    "name": "rrmadrid92"
   },
-  "promedio": 428.66,
+  "promedio": 428.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
