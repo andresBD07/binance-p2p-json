@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-11T19:38:57.492218",
-  "actualizado_vzla": "2025-12-11 15:38:57 -04",
+  "timestamp_utc": "2025-12-11T19:51:55.158195",
+  "actualizado_vzla": "2025-12-11 15:51:55 -04",
   "compra_segundo": {
-    "price": 424.4,
-    "name": "GokuExchange"
+    "price": 424.75,
+    "name": "SiempreCalificoPositivo"
   },
   "venta_maxima": {
     "price": 426.0,
     "name": "Quick Payment"
   },
-  "promedio": 425.2,
+  "promedio": 425.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
