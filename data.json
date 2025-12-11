@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-10T23:49:48.891607",
-  "actualizado_vzla": "2025-12-10 19:49:48 -04",
+  "timestamp_utc": "2025-12-11T01:06:14.226755",
+  "actualizado_vzla": "2025-12-10 21:06:14 -04",
   "compra_segundo": {
-    "price": 430.5,
-    "name": "InversionesMR"
+    "price": 430.0,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 429.5,
-    "name": "Montcios"
+    "price": 428.61,
+    "name": "Vitatech"
   },
-  "promedio": 430.0,
+  "promedio": 429.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
