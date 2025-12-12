@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T14:30:41.154006",
-  "actualizado_vzla": "2025-12-12 10:30:41 -04",
+  "timestamp_utc": "2025-12-12T14:46:14.073880",
+  "actualizado_vzla": "2025-12-12 10:46:14 -04",
   "compra_segundo": {
-    "price": 425.85,
-    "name": "Latribu-"
+    "price": 425.98,
+    "name": "alelean"
   },
   "venta_maxima": {
-    "price": 426.6,
-    "name": "梅CityCambio爱"
+    "price": 426.52,
+    "name": "-IKNUSA-"
   },
-  "promedio": 426.23,
+  "promedio": 426.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
