@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T16:59:34.517409",
-  "actualizado_vzla": "2025-12-12 12:59:34 -04",
+  "timestamp_utc": "2025-12-12T17:30:36.221263",
+  "actualizado_vzla": "2025-12-12 13:30:36 -04",
   "compra_segundo": {
-    "price": 424.0,
-    "name": "Cmkplus"
+    "price": 424.599,
+    "name": "criss35"
   },
   "venta_maxima": {
-    "price": 429.51,
-    "name": "-IKNUSA-"
+    "price": 428.7,
+    "name": "CoorpLogistic"
   },
-  "promedio": 426.75,
+  "promedio": 426.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
