@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T11:12:03.588132",
-  "actualizado_vzla": "2025-12-12 07:12:03 -04",
+  "timestamp_utc": "2025-12-12T11:33:58.938191",
+  "actualizado_vzla": "2025-12-12 07:33:58 -04",
   "compra_segundo": {
-    "price": 427.65,
-    "name": "Leopar1474"
+    "price": 427.5,
+    "name": "Criptofxve"
   },
   "venta_maxima": {
-    "price": 425.55,
-    "name": "Budyzz"
+    "price": 427.0,
+    "name": "-YM-"
   },
-  "promedio": 426.6,
+  "promedio": 427.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
