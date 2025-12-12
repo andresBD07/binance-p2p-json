@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T07:13:19.072692",
-  "actualizado_vzla": "2025-12-12 03:13:19 -04",
+  "timestamp_utc": "2025-12-12T07:38:32.105332",
+  "actualizado_vzla": "2025-12-12 03:38:32 -04",
   "compra_segundo": {
-    "price": 429.0,
-    "name": "-Flash-XChange-"
+    "price": 428.997,
+    "name": "EXITOSOS2025"
   },
   "venta_maxima": {
-    "price": 426.211,
-    "name": "TuCambioYa_"
+    "price": 426.2,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 427.61,
+  "promedio": 427.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
