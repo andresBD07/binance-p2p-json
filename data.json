@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T23:11:51.450909",
-  "actualizado_vzla": "2025-12-12 19:11:51 -04",
+  "timestamp_utc": "2025-12-12T23:31:59.761245",
+  "actualizado_vzla": "2025-12-12 19:31:59 -04",
   "compra_segundo": {
-    "price": 428.38,
-    "name": "圎Sushi"
+    "price": 427.798,
+    "name": "Eldiez10"
   },
   "venta_maxima": {
-    "price": 430.0,
-    "name": "-YM-"
+    "price": 429.0,
+    "name": "Quick Payment"
   },
-  "promedio": 429.19,
+  "promedio": 428.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
