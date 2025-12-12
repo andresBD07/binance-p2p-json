@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T17:30:36.221263",
-  "actualizado_vzla": "2025-12-12 13:30:36 -04",
+  "timestamp_utc": "2025-12-12T17:48:07.570495",
+  "actualizado_vzla": "2025-12-12 13:48:07 -04",
   "compra_segundo": {
-    "price": 424.599,
-    "name": "criss35"
+    "price": 425.699,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 428.7,
-    "name": "CoorpLogistic"
+    "price": 427.1,
+    "name": "Biyt"
   },
-  "promedio": 426.65,
+  "promedio": 426.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
