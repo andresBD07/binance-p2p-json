@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T07:38:32.105332",
-  "actualizado_vzla": "2025-12-12 03:38:32 -04",
+  "timestamp_utc": "2025-12-12T07:52:23.392672",
+  "actualizado_vzla": "2025-12-12 03:52:23 -04",
   "compra_segundo": {
     "price": 428.997,
     "name": "EXITOSOS2025"
   },
   "venta_maxima": {
-    "price": 426.2,
-    "name": "Child-CambioFacil"
+    "price": 425.55,
+    "name": "Budyzz"
   },
-  "promedio": 427.6,
+  "promedio": 427.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
