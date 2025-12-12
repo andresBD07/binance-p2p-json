@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T16:21:21.214926",
-  "actualizado_vzla": "2025-12-12 12:21:21 -04",
+  "timestamp_utc": "2025-12-12T16:46:44.567098",
+  "actualizado_vzla": "2025-12-12 12:46:44 -04",
   "compra_segundo": {
-    "price": 425.888,
-    "name": "KEYLOR_CRIPTO_Vzla"
+    "price": 424.86,
+    "name": "Cripto_Activos"
   },
   "venta_maxima": {
-    "price": 428.17,
+    "price": 428.76,
     "name": "-IKNUSA-"
   },
-  "promedio": 427.03,
+  "promedio": 426.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
