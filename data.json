@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T19:31:06.151007",
-  "actualizado_vzla": "2025-12-12 15:31:06 -04",
+  "timestamp_utc": "2025-12-12T19:44:52.934956",
+  "actualizado_vzla": "2025-12-12 15:44:52 -04",
   "compra_segundo": {
-    "price": 426.999,
-    "name": "CambiosSilva"
+    "price": 427.2,
+    "name": "Nirvanacafe"
   },
   "venta_maxima": {
-    "price": 428.61,
-    "name": "Vitatech"
+    "price": 429.0,
+    "name": "Biyt"
   },
-  "promedio": 427.8,
+  "promedio": 428.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
