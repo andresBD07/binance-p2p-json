@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T04:52:47.703465",
-  "actualizado_vzla": "2025-12-12 00:52:47 -04",
+  "timestamp_utc": "2025-12-12T05:21:57.086542",
+  "actualizado_vzla": "2025-12-12 01:21:57 -04",
   "compra_segundo": {
-    "price": 428.2,
-    "name": "Nerio40"
+    "price": 428.449,
+    "name": "YReimi"
   },
   "venta_maxima": {
     "price": 425.55,
     "name": "Budyzz"
   },
-  "promedio": 426.88,
+  "promedio": 427.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
