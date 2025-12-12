@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T13:08:38.580202",
-  "actualizado_vzla": "2025-12-12 09:08:38 -04",
+  "timestamp_utc": "2025-12-12T13:47:46.921521",
+  "actualizado_vzla": "2025-12-12 09:47:46 -04",
   "compra_segundo": {
-    "price": 426.0,
-    "name": "CAMBIOS_WAY"
+    "price": 425.8,
+    "name": "Chamos Cambios"
   },
   "venta_maxima": {
-    "price": 426.2,
-    "name": "HAWKEYE-1"
+    "price": 426.1,
+    "name": "SmartSolutionn"
   },
-  "promedio": 426.1,
+  "promedio": 425.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
