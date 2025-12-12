@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T15:51:19.507495",
-  "actualizado_vzla": "2025-12-12 11:51:19 -04",
+  "timestamp_utc": "2025-12-12T16:21:21.214926",
+  "actualizado_vzla": "2025-12-12 12:21:21 -04",
   "compra_segundo": {
-    "price": 426.3,
-    "name": "AmiraQueen"
+    "price": 425.888,
+    "name": "KEYLOR_CRIPTO_Vzla"
   },
   "venta_maxima": {
-    "price": 427.63,
+    "price": 428.17,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.97,
+  "promedio": 427.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
