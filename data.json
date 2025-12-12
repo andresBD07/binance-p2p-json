@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T12:19:40.638920",
-  "actualizado_vzla": "2025-12-12 08:19:40 -04",
+  "timestamp_utc": "2025-12-12T13:08:38.580202",
+  "actualizado_vzla": "2025-12-12 09:08:38 -04",
   "compra_segundo": {
-    "price": 426.55,
-    "name": "sami maracay "
+    "price": 426.0,
+    "name": "CAMBIOS_WAY"
   },
   "venta_maxima": {
-    "price": 426.6,
+    "price": 426.2,
     "name": "HAWKEYE-1"
   },
-  "promedio": 426.58,
+  "promedio": 426.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
