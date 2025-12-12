@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T07:52:23.392672",
-  "actualizado_vzla": "2025-12-12 03:52:23 -04",
+  "timestamp_utc": "2025-12-12T08:29:23.910111",
+  "actualizado_vzla": "2025-12-12 04:29:23 -04",
   "compra_segundo": {
-    "price": 428.997,
-    "name": "EXITOSOS2025"
+    "price": 428.5,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 425.55,
-    "name": "Budyzz"
+    "price": 426.2,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 427.27,
+  "promedio": 427.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
