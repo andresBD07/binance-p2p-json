@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T22:00:34.045507",
-  "actualizado_vzla": "2025-12-12 18:00:34 -04",
+  "timestamp_utc": "2025-12-12T22:32:00.874816",
+  "actualizado_vzla": "2025-12-12 18:32:00 -04",
   "compra_segundo": {
-    "price": 428.95,
-    "name": "Rapidcambiosayj"
+    "price": 428.98,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 430.5,
-    "name": "梅CityCambio爱"
+    "price": 430.2,
+    "name": "-Godgiven-"
   },
-  "promedio": 429.73,
+  "promedio": 429.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
