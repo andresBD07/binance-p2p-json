@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T16:46:44.567098",
-  "actualizado_vzla": "2025-12-12 12:46:44 -04",
+  "timestamp_utc": "2025-12-12T16:59:34.517409",
+  "actualizado_vzla": "2025-12-12 12:59:34 -04",
   "compra_segundo": {
-    "price": 424.86,
-    "name": "Cripto_Activos"
+    "price": 424.0,
+    "name": "Cmkplus"
   },
   "venta_maxima": {
-    "price": 428.76,
+    "price": 429.51,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.81,
+  "promedio": 426.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
