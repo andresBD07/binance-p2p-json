@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T09:33:46.256627",
-  "actualizado_vzla": "2025-12-12 05:33:46 -04",
+  "timestamp_utc": "2025-12-12T09:52:39.217016",
+  "actualizado_vzla": "2025-12-12 05:52:39 -04",
   "compra_segundo": {
-    "price": 428.44,
-    "name": "NimaX-64"
+    "price": 428.0,
+    "name": "PayBin07"
   },
   "venta_maxima": {
     "price": 425.55,
     "name": "Budyzz"
   },
-  "promedio": 427.0,
+  "promedio": 426.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
