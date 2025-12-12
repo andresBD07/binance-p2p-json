@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T22:48:49.349780",
-  "actualizado_vzla": "2025-12-12 18:48:49 -04",
+  "timestamp_utc": "2025-12-12T23:11:51.450909",
+  "actualizado_vzla": "2025-12-12 19:11:51 -04",
   "compra_segundo": {
-    "price": 428.96,
-    "name": "isa_277"
+    "price": 428.38,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
-    "price": 429.1,
-    "name": "梅CityCambio爱"
+    "price": 430.0,
+    "name": "-YM-"
   },
-  "promedio": 429.03,
+  "promedio": 429.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
