@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T14:59:42.619652",
-  "actualizado_vzla": "2025-12-12 10:59:42 -04",
+  "timestamp_utc": "2025-12-12T15:33:14.890958",
+  "actualizado_vzla": "2025-12-12 11:33:14 -04",
   "compra_segundo": {
-    "price": 426.0,
-    "name": "aletoya"
+    "price": 426.489,
+    "name": "Cambiosbraycar"
   },
   "venta_maxima": {
-    "price": 426.64,
+    "price": 427.79,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.32,
+  "promedio": 427.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
