@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T15:56:32.539608",
-  "actualizado_vzla": "2025-12-13 11:56:32 -04",
+  "timestamp_utc": "2025-12-13T16:33:38.886057",
+  "actualizado_vzla": "2025-12-13 12:33:38 -04",
   "compra_segundo": {
-    "price": 425.65,
-    "name": "StylFashion"
+    "price": 425.947,
+    "name": "Rickambios "
   },
   "venta_maxima": {
-    "price": 427.14,
+    "price": 427.64,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.39,
+  "promedio": 426.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
