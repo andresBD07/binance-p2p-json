@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T09:39:10.373722",
-  "actualizado_vzla": "2025-12-13 05:39:10 -04",
+  "timestamp_utc": "2025-12-13T09:52:08.682661",
+  "actualizado_vzla": "2025-12-13 05:52:08 -04",
   "compra_segundo": {
-    "price": 427.996,
-    "name": "CryptoSickoP2P"
+    "price": 427.899,
+    "name": "CoinPilot"
   },
   "venta_maxima": {
     "price": 425.0,
     "name": "Rafael Eduardo Garcia "
   },
-  "promedio": 426.5,
+  "promedio": 426.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
