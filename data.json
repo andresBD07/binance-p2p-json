@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T02:08:03.784125",
-  "actualizado_vzla": "2025-12-12 22:08:03 -04",
+  "timestamp_utc": "2025-12-13T03:32:02.571702",
+  "actualizado_vzla": "2025-12-12 23:32:02 -04",
   "compra_segundo": {
-    "price": 427.599,
-    "name": "Reimaryp"
+    "price": 427.99,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 429.0,
-    "name": "梅CityCambio爱"
+    "price": 428.0,
+    "name": "Cambioscorleone"
   },
-  "promedio": 428.3,
+  "promedio": 428.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
