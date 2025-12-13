@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T17:47:32.128014",
-  "actualizado_vzla": "2025-12-13 13:47:32 -04",
+  "timestamp_utc": "2025-12-13T18:00:31.217094",
+  "actualizado_vzla": "2025-12-13 14:00:31 -04",
   "compra_segundo": {
-    "price": 425.78,
-    "name": "大TaiLung龙"
+    "price": 425.38,
+    "name": "carlosaladejo"
   },
   "venta_maxima": {
-    "price": 427.3,
-    "name": "Godisgift"
+    "price": 427.14,
+    "name": "-IKNUSA-"
   },
-  "promedio": 426.54,
+  "promedio": 426.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
