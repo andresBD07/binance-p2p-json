@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T11:43:36.709545",
-  "actualizado_vzla": "2025-12-13 07:43:36 -04",
+  "timestamp_utc": "2025-12-13T11:56:22.948798",
+  "actualizado_vzla": "2025-12-13 07:56:22 -04",
   "compra_segundo": {
     "price": 427.5,
     "name": "Mauro03"
   },
   "venta_maxima": {
-    "price": 425.0,
-    "name": "Rafael Eduardo Garcia "
+    "price": 426.0,
+    "name": "TEXAS-TRADER"
   },
-  "promedio": 426.25,
+  "promedio": 426.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
