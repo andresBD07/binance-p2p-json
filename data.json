@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T13:58:56.183556",
-  "actualizado_vzla": "2025-12-13 09:58:56 -04",
+  "timestamp_utc": "2025-12-13T14:28:03.254898",
+  "actualizado_vzla": "2025-12-13 10:28:03 -04",
   "compra_segundo": {
-    "price": 425.8,
-    "name": "cambiosaular"
+    "price": 425.7,
+    "name": "M13M"
   },
   "venta_maxima": {
-    "price": 426.55,
-    "name": "FinanceSecure"
+    "price": 426.72,
+    "name": "-IKNUSA-"
   },
-  "promedio": 426.18,
+  "promedio": 426.21,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
