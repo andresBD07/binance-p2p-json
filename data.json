@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-12T23:59:06.359415",
-  "actualizado_vzla": "2025-12-12 19:59:06 -04",
+  "timestamp_utc": "2025-12-13T02:08:03.784125",
+  "actualizado_vzla": "2025-12-12 22:08:03 -04",
   "compra_segundo": {
-    "price": 427.5,
-    "name": "maikolmai"
+    "price": 427.599,
+    "name": "Reimaryp"
   },
   "venta_maxima": {
     "price": 429.0,
-    "name": "Quick Payment"
+    "name": "梅CityCambio爱"
   },
-  "promedio": 428.25,
+  "promedio": 428.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
