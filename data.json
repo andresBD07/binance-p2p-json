@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T16:33:38.886057",
-  "actualizado_vzla": "2025-12-13 12:33:38 -04",
+  "timestamp_utc": "2025-12-13T16:51:45.309461",
+  "actualizado_vzla": "2025-12-13 12:51:45 -04",
   "compra_segundo": {
-    "price": 425.947,
-    "name": "Rickambios "
+    "price": 425.999,
+    "name": "FastsEnvios"
   },
   "venta_maxima": {
-    "price": 427.64,
+    "price": 427.87,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.79,
+  "promedio": 426.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
