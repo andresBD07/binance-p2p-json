@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T04:53:22.785460",
-  "actualizado_vzla": "2025-12-13 00:53:22 -04",
+  "timestamp_utc": "2025-12-13T05:23:11.248665",
+  "actualizado_vzla": "2025-12-13 01:23:11 -04",
   "compra_segundo": {
-    "price": 428.13,
-    "name": "AxelKingS"
+    "price": 428.5,
+    "name": "RemesasEcp2p"
   },
   "venta_maxima": {
     "price": 425.0,
     "name": "Rafael Eduardo Garcia "
   },
-  "promedio": 426.56,
+  "promedio": 426.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
