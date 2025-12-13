@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T11:56:22.948798",
-  "actualizado_vzla": "2025-12-13 07:56:22 -04",
+  "timestamp_utc": "2025-12-13T12:54:10.261238",
+  "actualizado_vzla": "2025-12-13 08:54:10 -04",
   "compra_segundo": {
-    "price": 427.5,
-    "name": "Mauro03"
+    "price": 426.19,
+    "name": "Dajming-Trading-P2P"
   },
   "venta_maxima": {
     "price": 426.0,
-    "name": "TEXAS-TRADER"
+    "name": "-Godgiven-"
   },
-  "promedio": 426.75,
+  "promedio": 426.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
