@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T19:55:38.512990",
-  "actualizado_vzla": "2025-12-13 15:55:38 -04",
+  "timestamp_utc": "2025-12-13T20:29:15.011129",
+  "actualizado_vzla": "2025-12-13 16:29:15 -04",
   "compra_segundo": {
-    "price": 423.899,
-    "name": "ChangerExpress"
+    "price": 423.95,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 427.0,
-    "name": "-IKNUSA-"
+    "price": 425.1,
+    "name": "-Godgiven-"
   },
-  "promedio": 425.45,
+  "promedio": 424.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
