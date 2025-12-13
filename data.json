@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T10:40:01.069869",
-  "actualizado_vzla": "2025-12-13 06:40:01 -04",
+  "timestamp_utc": "2025-12-13T10:52:46.461988",
+  "actualizado_vzla": "2025-12-13 06:52:46 -04",
   "compra_segundo": {
-    "price": 427.0,
-    "name": "Girasolee"
+    "price": 426.5,
+    "name": "Criptofxve"
   },
   "venta_maxima": {
     "price": 425.0,
     "name": "Rafael Eduardo Garcia "
   },
-  "promedio": 426.0,
+  "promedio": 425.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
