@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T18:37:57.131265",
-  "actualizado_vzla": "2025-12-13 14:37:57 -04",
+  "timestamp_utc": "2025-12-13T18:53:28.237195",
+  "actualizado_vzla": "2025-12-13 14:53:28 -04",
   "compra_segundo": {
-    "price": 425.39,
-    "name": "CAMBIOS JV"
+    "price": 425.298,
+    "name": "EduardoArrieche"
   },
   "venta_maxima": {
-    "price": 427.04,
+    "price": 427.03,
     "name": "-IKNUSA-"
   },
-  "promedio": 426.22,
+  "promedio": 426.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
