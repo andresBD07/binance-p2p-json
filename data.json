@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-13T21:41:09.832104",
-  "actualizado_vzla": "2025-12-13 17:41:09 -04",
+  "timestamp_utc": "2025-12-13T21:54:23.788291",
+  "actualizado_vzla": "2025-12-13 17:54:23 -04",
   "compra_segundo": {
-    "price": 424.0,
-    "name": "cambiosaular"
+    "price": 423.73,
+    "name": "Kapo"
   },
   "venta_maxima": {
-    "price": 423.511,
-    "name": "Aszahi7"
+    "price": 422.6,
+    "name": "RIVERMONEY"
   },
-  "promedio": 423.76,
+  "promedio": 423.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
