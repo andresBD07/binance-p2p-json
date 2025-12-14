@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T21:27:13.144135",
-  "actualizado_vzla": "2025-12-14 17:27:13 -04",
+  "timestamp_utc": "2025-12-14T21:42:12.682643",
+  "actualizado_vzla": "2025-12-14 17:42:12 -04",
   "compra_segundo": {
     "price": 423.5,
-    "name": "TUCAMBIOSEGURO24"
+    "name": "SRexchanges"
   },
   "venta_maxima": {
-    "price": 423.5,
+    "price": 423.0,
     "name": "-Godgiven-"
   },
-  "promedio": 423.5,
+  "promedio": 423.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
