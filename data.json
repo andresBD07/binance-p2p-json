@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T19:17:10.906213",
-  "actualizado_vzla": "2025-12-14 15:17:10 -04",
+  "timestamp_utc": "2025-12-14T19:30:26.829388",
+  "actualizado_vzla": "2025-12-14 15:30:26 -04",
   "compra_segundo": {
-    "price": 422.5,
-    "name": "MattDemond"
+    "price": 422.89,
+    "name": "BakiGoodImport"
   },
   "venta_maxima": {
-    "price": 423.5,
-    "name": "-Godgiven-"
+    "price": 423.8,
+    "name": "RONIN_COIN"
   },
-  "promedio": 423.0,
+  "promedio": 423.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
