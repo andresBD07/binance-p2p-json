@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T17:41:35.800789",
-  "actualizado_vzla": "2025-12-14 13:41:35 -04",
+  "timestamp_utc": "2025-12-14T17:54:31.110367",
+  "actualizado_vzla": "2025-12-14 13:54:31 -04",
   "compra_segundo": {
-    "price": 423.3,
-    "name": "Horusrs"
+    "price": 423.03,
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
-    "price": 424.0,
+    "price": 423.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 423.65,
+  "promedio": 423.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
