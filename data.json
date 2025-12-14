@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T04:10:45.790203",
-  "actualizado_vzla": "2025-12-14 00:10:45 -04",
+  "timestamp_utc": "2025-12-14T04:49:10.527817",
+  "actualizado_vzla": "2025-12-14 00:49:10 -04",
   "compra_segundo": {
     "price": 424.0,
-    "name": "TheMerchanTHM"
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 419.26,
-    "name": "Tumonedavirtual"
+    "price": 419.0,
+    "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 421.63,
+  "promedio": 421.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
