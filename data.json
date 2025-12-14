@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T23:42:30.285941",
-  "actualizado_vzla": "2025-12-14 19:42:30 -04",
+  "timestamp_utc": "2025-12-14T23:55:16.905787",
+  "actualizado_vzla": "2025-12-14 19:55:16 -04",
   "compra_segundo": {
-    "price": 421.9,
-    "name": "CH-Intercambios"
+    "price": 422.0,
+    "name": "adonisdroid"
   },
   "venta_maxima": {
-    "price": 421.8,
-    "name": "Child-CambioFacil"
+    "price": 422.0,
+    "name": "TAURUS85"
   },
-  "promedio": 421.85,
+  "promedio": 422.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
