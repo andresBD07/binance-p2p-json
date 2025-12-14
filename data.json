@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T23:25:44.844222",
-  "actualizado_vzla": "2025-12-14 19:25:44 -04",
+  "timestamp_utc": "2025-12-14T23:42:30.285941",
+  "actualizado_vzla": "2025-12-14 19:42:30 -04",
   "compra_segundo": {
-    "price": 421.6,
-    "name": "GIROSYREMESASDAN"
+    "price": 421.9,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 421.4,
-    "name": "Aszahi7"
+    "price": 421.8,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 421.5,
+  "promedio": 421.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
