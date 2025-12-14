@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T22:56:33.185770",
-  "actualizado_vzla": "2025-12-14 18:56:33 -04",
+  "timestamp_utc": "2025-12-14T23:25:44.844222",
+  "actualizado_vzla": "2025-12-14 19:25:44 -04",
   "compra_segundo": {
-    "price": 421.278,
-    "name": "LordTUKY"
+    "price": 421.6,
+    "name": "GIROSYREMESASDAN"
   },
   "venta_maxima": {
-    "price": 422.0,
-    "name": "RONIN_COIN"
+    "price": 421.4,
+    "name": "Aszahi7"
   },
-  "promedio": 421.64,
+  "promedio": 421.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
