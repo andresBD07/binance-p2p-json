@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-12-14T07:49:34.605583",
-  "actualizado_vzla": "2025-12-14 03:49:34 -04",
+  "timestamp_utc": "2025-12-14T08:16:52.424173",
+  "actualizado_vzla": "2025-12-14 04:16:52 -04",
   "compra_segundo": {
-    "price": 423.899,
-    "name": "CoinPilot"
+    "price": 423.9,
+    "name": "usdtking"
   },
   "venta_maxima": {
     "price": 419.0,
