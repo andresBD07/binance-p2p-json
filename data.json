@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T21:00:02.027657",
-  "actualizado_vzla": "2025-12-14 17:00:02 -04",
+  "timestamp_utc": "2025-12-14T21:27:13.144135",
+  "actualizado_vzla": "2025-12-14 17:27:13 -04",
   "compra_segundo": {
-    "price": 423.9,
-    "name": "tech30"
+    "price": 423.5,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
     "price": 423.5,
     "name": "-Godgiven-"
   },
-  "promedio": 423.7,
+  "promedio": 423.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
