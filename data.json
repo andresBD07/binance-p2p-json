@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T13:53:40.445168",
-  "actualizado_vzla": "2025-12-14 09:53:40 -04",
+  "timestamp_utc": "2025-12-14T14:20:12.715395",
+  "actualizado_vzla": "2025-12-14 10:20:12 -04",
   "compra_segundo": {
-    "price": 423.8,
-    "name": "ElAutentico"
+    "price": 423.999,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
-    "price": 423.0,
+    "price": 424.5,
     "name": "梅CityCambio爱"
   },
-  "promedio": 423.4,
+  "promedio": 424.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
