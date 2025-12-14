@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T18:53:12.879301",
-  "actualizado_vzla": "2025-12-14 14:53:12 -04",
+  "timestamp_utc": "2025-12-14T19:17:10.906213",
+  "actualizado_vzla": "2025-12-14 15:17:10 -04",
   "compra_segundo": {
-    "price": 422.7,
-    "name": "IntercambiosC"
+    "price": 422.5,
+    "name": "MattDemond"
   },
   "venta_maxima": {
     "price": 423.5,
     "name": "-Godgiven-"
   },
-  "promedio": 423.1,
+  "promedio": 423.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
