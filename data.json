@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T11:24:25.760547",
-  "actualizado_vzla": "2025-12-14 07:24:25 -04",
+  "timestamp_utc": "2025-12-14T11:39:52.028594",
+  "actualizado_vzla": "2025-12-14 07:39:52 -04",
   "compra_segundo": {
-    "price": 422.85,
-    "name": "RushPay"
+    "price": 422.7,
+    "name": "VentasCcS"
   },
   "venta_maxima": {
-    "price": 419.0,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 423.0,
+    "name": "KillKeroy"
   },
-  "promedio": 420.93,
+  "promedio": 422.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
