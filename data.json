@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T14:39:13.687215",
-  "actualizado_vzla": "2025-12-14 10:39:13 -04",
+  "timestamp_utc": "2025-12-14T14:52:39.296183",
+  "actualizado_vzla": "2025-12-14 10:52:39 -04",
   "compra_segundo": {
-    "price": 424.2,
-    "name": "Cambios_Vargas"
+    "price": 424.9,
+    "name": "Jl crissol "
   },
   "venta_maxima": {
-    "price": 424.5,
-    "name": "梅CityCambio爱"
+    "price": 424.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 424.35,
+  "promedio": 424.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
