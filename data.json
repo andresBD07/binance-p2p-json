@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T21:55:30.898108",
-  "actualizado_vzla": "2025-12-14 17:55:30 -04",
+  "timestamp_utc": "2025-12-14T22:25:28.516697",
+  "actualizado_vzla": "2025-12-14 18:25:28 -04",
   "compra_segundo": {
-    "price": 423.3,
-    "name": "JM2026"
+    "price": 422.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 423.0,
-    "name": "RONIN_COIN"
+    "price": 422.6,
+    "name": "Rapidflorio84"
   },
-  "promedio": 423.15,
+  "promedio": 422.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
