@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T23:46:01.822009",
-  "actualizado_vzla": "2025-12-15 19:46:01 -04",
+  "timestamp_utc": "2025-12-15T23:58:48.129060",
+  "actualizado_vzla": "2025-12-15 19:58:48 -04",
   "compra_segundo": {
-    "price": 429.145,
-    "name": "Cambioseguro15"
+    "price": 429.1,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 429.104,
-    "name": "Whale-SharkCrypto"
+    "price": 429.501,
+    "name": "-FARMA_CRIPTO-"
   },
-  "promedio": 429.12,
+  "promedio": 429.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
