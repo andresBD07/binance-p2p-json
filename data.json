@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T13:05:44.757812",
-  "actualizado_vzla": "2025-12-15 09:05:44 -04",
+  "timestamp_utc": "2025-12-15T13:51:09.150443",
+  "actualizado_vzla": "2025-12-15 09:51:09 -04",
   "compra_segundo": {
-    "price": 421.21,
-    "name": "Seyo97"
+    "price": 422.99,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 420.5,
+    "price": 423.5,
     "name": "TAURUS85"
   },
-  "promedio": 420.86,
+  "promedio": 423.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
