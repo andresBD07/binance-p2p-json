@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T18:32:49.969319",
-  "actualizado_vzla": "2025-12-15 14:32:49 -04",
+  "timestamp_utc": "2025-12-15T18:58:46.887884",
+  "actualizado_vzla": "2025-12-15 14:58:46 -04",
   "compra_segundo": {
-    "price": 425.97,
-    "name": "Jesantab"
+    "price": 425.992,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 427.5,
-    "name": "Jin-Woo-Sung"
+    "price": 429.5,
+    "name": "SmartSolutionn"
   },
-  "promedio": 426.74,
+  "promedio": 427.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
