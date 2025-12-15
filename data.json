@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T10:41:26.153335",
-  "actualizado_vzla": "2025-12-15 06:41:26 -04",
+  "timestamp_utc": "2025-12-15T10:59:11.912050",
+  "actualizado_vzla": "2025-12-15 06:59:11 -04",
   "compra_segundo": {
-    "price": 424.5,
-    "name": "Girasolee"
+    "price": 424.321,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 419.7,
-    "name": "c_s_"
+    "price": 420.005,
+    "name": "AxelKingS"
   },
-  "promedio": 422.1,
+  "promedio": 422.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
