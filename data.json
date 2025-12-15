@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T09:01:40.021258",
-  "actualizado_vzla": "2025-12-15 05:01:40 -04",
+  "timestamp_utc": "2025-12-15T09:44:39.881009",
+  "actualizado_vzla": "2025-12-15 05:44:39 -04",
   "compra_segundo": {
-    "price": 426.899,
-    "name": "gonza"
+    "price": 426.19,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 418.6,
-    "name": "AndradeGasconTITULAR"
+    "price": 537.908,
+    "name": "Thony"
   },
-  "promedio": 422.75,
+  "promedio": 482.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
