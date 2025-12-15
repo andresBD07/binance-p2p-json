@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T16:56:07.680718",
-  "actualizado_vzla": "2025-12-15 12:56:07 -04",
+  "timestamp_utc": "2025-12-15T17:32:25.016113",
+  "actualizado_vzla": "2025-12-15 13:32:25 -04",
   "compra_segundo": {
-    "price": 424.875,
-    "name": "Anonymous-GC07"
+    "price": 425.19,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
     "price": 426.0,
     "name": "CoorpLogistic"
   },
-  "promedio": 425.44,
+  "promedio": 425.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
