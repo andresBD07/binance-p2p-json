@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T19:28:23.743263",
-  "actualizado_vzla": "2025-12-15 15:28:23 -04",
+  "timestamp_utc": "2025-12-15T19:44:24.015855",
+  "actualizado_vzla": "2025-12-15 15:44:24 -04",
   "compra_segundo": {
-    "price": 426.45,
-    "name": "Economist2025"
+    "price": 426.4,
+    "name": "racaste"
   },
   "venta_maxima": {
     "price": 431.0,
     "name": "Biyt"
   },
-  "promedio": 428.73,
+  "promedio": 428.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
