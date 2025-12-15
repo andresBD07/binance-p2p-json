@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T11:29:25.282170",
-  "actualizado_vzla": "2025-12-15 07:29:25 -04",
+  "timestamp_utc": "2025-12-15T11:46:03.762218",
+  "actualizado_vzla": "2025-12-15 07:46:03 -04",
   "compra_segundo": {
-    "price": 423.97,
-    "name": "RapidChangesSS"
+    "price": 423.5,
+    "name": "ADLRExpress"
   },
   "venta_maxima": {
-    "price": 420.0,
-    "name": "TOPlevelS"
+    "price": 420.3,
+    "name": "c_s_"
   },
-  "promedio": 421.99,
+  "promedio": 421.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
