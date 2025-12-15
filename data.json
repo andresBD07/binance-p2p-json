@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T18:58:46.887884",
-  "actualizado_vzla": "2025-12-15 14:58:46 -04",
+  "timestamp_utc": "2025-12-15T19:28:23.743263",
+  "actualizado_vzla": "2025-12-15 15:28:23 -04",
   "compra_segundo": {
-    "price": 425.992,
-    "name": "TU CAMBIO"
+    "price": 426.45,
+    "name": "Economist2025"
   },
   "venta_maxima": {
-    "price": 429.5,
-    "name": "SmartSolutionn"
+    "price": 431.0,
+    "name": "Biyt"
   },
-  "promedio": 427.75,
+  "promedio": 428.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
