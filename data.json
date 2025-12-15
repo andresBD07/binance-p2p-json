@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T05:02:33.381668",
-  "actualizado_vzla": "2025-12-15 01:02:33 -04",
+  "timestamp_utc": "2025-12-15T05:38:14.129970",
+  "actualizado_vzla": "2025-12-15 01:38:14 -04",
   "compra_segundo": {
-    "price": 425.5,
-    "name": "BOOOM"
+    "price": 426.0,
+    "name": "Nunchukxd"
   },
   "venta_maxima": {
-    "price": 420.75,
-    "name": "Gimol"
+    "price": 420.335,
+    "name": "Cambioscorleone"
   },
-  "promedio": 423.12,
+  "promedio": 423.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
