@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T15:49:51.931537",
-  "actualizado_vzla": "2025-12-15 11:49:51 -04",
+  "timestamp_utc": "2025-12-15T16:20:41.846829",
+  "actualizado_vzla": "2025-12-15 12:20:41 -04",
   "compra_segundo": {
-    "price": 425.0,
-    "name": "Trade_Llanos"
+    "price": 424.699,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
     "price": 426.0,
-    "name": "CoorpLogistic"
+    "name": "FinanceSecure"
   },
-  "promedio": 425.5,
+  "promedio": 425.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
