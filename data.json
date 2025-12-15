@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T17:32:25.016113",
-  "actualizado_vzla": "2025-12-15 13:32:25 -04",
+  "timestamp_utc": "2025-12-15T17:52:44.502966",
+  "actualizado_vzla": "2025-12-15 13:52:44 -04",
   "compra_segundo": {
-    "price": 425.19,
-    "name": "TUCRIPseguro"
+    "price": 425.7,
+    "name": "P2P CASTILLO"
   },
   "venta_maxima": {
-    "price": 426.0,
-    "name": "CoorpLogistic"
+    "price": 426.1,
+    "name": "hudsonriver"
   },
-  "promedio": 425.6,
+  "promedio": 425.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
