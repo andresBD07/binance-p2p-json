@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T05:55:14.422439",
-  "actualizado_vzla": "2025-12-15 01:55:14 -04",
+  "timestamp_utc": "2025-12-15T06:46:04.292752",
+  "actualizado_vzla": "2025-12-15 02:46:04 -04",
   "compra_segundo": {
-    "price": 425.998,
-    "name": "zucorp"
+    "price": 426.899,
+    "name": "gonza"
   },
   "venta_maxima": {
-    "price": 420.335,
-    "name": "Cambioscorleone"
+    "price": 420.9,
+    "name": "IMPERIOROMANO"
   },
-  "promedio": 423.17,
+  "promedio": 423.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
