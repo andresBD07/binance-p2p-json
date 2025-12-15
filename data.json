@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-15T03:52:13.704290",
-  "actualizado_vzla": "2025-12-14 23:52:13 -04",
+  "timestamp_utc": "2025-12-15T04:38:10.706051",
+  "actualizado_vzla": "2025-12-15 00:38:10 -04",
   "compra_segundo": {
-    "price": 424.0,
-    "name": "ALCAPON3"
+    "price": 424.99,
+    "name": "LuiggiTrader"
   },
   "venta_maxima": {
-    "price": 421.06,
-    "name": "RIVERMONEY"
+    "price": 420.75,
+    "name": "Gimol"
   },
-  "promedio": 422.53,
+  "promedio": 422.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
