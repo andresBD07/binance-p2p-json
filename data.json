@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-14T23:55:16.905787",
-  "actualizado_vzla": "2025-12-14 19:55:16 -04",
+  "timestamp_utc": "2025-12-15T02:19:31.670502",
+  "actualizado_vzla": "2025-12-14 22:19:31 -04",
   "compra_segundo": {
-    "price": 422.0,
-    "name": "adonisdroid"
+    "price": 423.25,
+    "name": "DxvidExchange"
   },
   "venta_maxima": {
-    "price": 422.0,
-    "name": "TAURUS85"
+    "price": 421.5,
+    "name": "TOPlevelS"
   },
-  "promedio": 422.0,
+  "promedio": 422.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
