@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T11:58:42.893834",
-  "actualizado_vzla": "2025-12-16 07:58:42 -04",
+  "timestamp_utc": "2025-12-16T13:03:41.129202",
+  "actualizado_vzla": "2025-12-16 09:03:41 -04",
   "compra_segundo": {
-    "price": 431.89,
-    "name": "Kalev7"
+    "price": 430.8,
+    "name": "JabyVegas"
   },
   "venta_maxima": {
-    "price": 429.3,
-    "name": "CORPORACION_YYSE-25"
+    "price": 430.8,
+    "name": "GREEN78"
   },
-  "promedio": 430.6,
+  "promedio": 430.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
