@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-16T02:21:17.317047",
-  "actualizado_vzla": "2025-12-15 22:21:17 -04",
+  "timestamp_utc": "2025-12-16T03:45:13.417698",
+  "actualizado_vzla": "2025-12-15 23:45:13 -04",
   "compra_segundo": {
-    "price": 430.5,
-    "name": "Alex"
+    "price": 432.0,
+    "name": "ChaizySwap"
   },
   "venta_maxima": {
-    "price": 430.0,
-    "name": "-Godgiven-"
+    "price": 428.5,
+    "name": "Cambioscorleone"
   },
   "promedio": 430.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
