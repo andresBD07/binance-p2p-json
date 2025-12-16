@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T04:23:53.634420",
-  "actualizado_vzla": "2025-12-16 00:23:53 -04",
+  "timestamp_utc": "2025-12-16T04:56:22.297042",
+  "actualizado_vzla": "2025-12-16 00:56:22 -04",
   "compra_segundo": {
-    "price": 431.98,
-    "name": "yessicatrading"
+    "price": 432.48,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 428.25,
-    "name": "FMDeluXchange"
+    "price": 428.62,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 430.12,
+  "promedio": 430.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
