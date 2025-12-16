@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T13:03:41.129202",
-  "actualizado_vzla": "2025-12-16 09:03:41 -04",
+  "timestamp_utc": "2025-12-16T13:48:38.301161",
+  "actualizado_vzla": "2025-12-16 09:48:38 -04",
   "compra_segundo": {
-    "price": 430.8,
-    "name": "JabyVegas"
+    "price": 430.89,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 430.8,
-    "name": "GREEN78"
+    "price": 431.6,
+    "name": "ALASKA-"
   },
-  "promedio": 430.8,
+  "promedio": 431.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
