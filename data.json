@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T21:39:14.011451",
-  "actualizado_vzla": "2025-12-16 17:39:14 -04",
+  "timestamp_utc": "2025-12-16T21:52:17.849773",
+  "actualizado_vzla": "2025-12-16 17:52:17 -04",
   "compra_segundo": {
-    "price": 436.778,
-    "name": "LordTUKY"
+    "price": 436.995,
+    "name": "_CHIGUIRITO_"
   },
   "venta_maxima": {
-    "price": 437.7,
+    "price": 438.7,
     "name": "ALASKA-"
   },
-  "promedio": 437.24,
+  "promedio": 437.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
