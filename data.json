@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T04:56:22.297042",
-  "actualizado_vzla": "2025-12-16 00:56:22 -04",
+  "timestamp_utc": "2025-12-16T05:31:44.981530",
+  "actualizado_vzla": "2025-12-16 01:31:44 -04",
   "compra_segundo": {
-    "price": 432.48,
-    "name": "Abi_Cambios"
+    "price": 432.35,
+    "name": "ANMAIYANME"
   },
   "venta_maxima": {
-    "price": 428.62,
+    "price": 428.22,
     "name": "AndradeGasconTITULAR"
   },
-  "promedio": 430.55,
+  "promedio": 430.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
