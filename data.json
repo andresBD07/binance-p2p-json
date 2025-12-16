@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T17:52:42.004128",
-  "actualizado_vzla": "2025-12-16 13:52:42 -04",
+  "timestamp_utc": "2025-12-16T18:32:40.861304",
+  "actualizado_vzla": "2025-12-16 14:32:40 -04",
   "compra_segundo": {
-    "price": 434.369,
-    "name": "LAULAR87"
+    "price": 433.985,
+    "name": "MrFrogs"
   },
   "venta_maxima": {
-    "price": 434.0,
-    "name": "GREEN78"
+    "price": 435.1,
+    "name": "GhostRS"
   },
-  "promedio": 434.18,
+  "promedio": 434.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
