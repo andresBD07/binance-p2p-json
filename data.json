@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T15:51:58.384502",
-  "actualizado_vzla": "2025-12-16 11:51:58 -04",
+  "timestamp_utc": "2025-12-16T16:27:36.933109",
+  "actualizado_vzla": "2025-12-16 12:27:36 -04",
   "compra_segundo": {
-    "price": 437.5,
-    "name": "EdwCripto"
+    "price": 437.69,
+    "name": "SRexchanges"
   },
   "venta_maxima": {
-    "price": 438.12,
-    "name": "LaManoInvisible_"
+    "price": 438.222,
+    "name": "Whale-SharkCrypto"
   },
-  "promedio": 437.81,
+  "promedio": 437.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
