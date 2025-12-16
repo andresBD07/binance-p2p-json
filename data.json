@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T03:45:13.417698",
-  "actualizado_vzla": "2025-12-15 23:45:13 -04",
+  "timestamp_utc": "2025-12-16T04:23:53.634420",
+  "actualizado_vzla": "2025-12-16 00:23:53 -04",
   "compra_segundo": {
-    "price": 432.0,
-    "name": "ChaizySwap"
+    "price": 431.98,
+    "name": "yessicatrading"
   },
   "venta_maxima": {
-    "price": 428.5,
-    "name": "Cambioscorleone"
+    "price": 428.25,
+    "name": "FMDeluXchange"
   },
-  "promedio": 430.25,
+  "promedio": 430.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
