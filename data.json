@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T22:40:30.264084",
-  "actualizado_vzla": "2025-12-16 18:40:30 -04",
+  "timestamp_utc": "2025-12-16T22:53:18.682151",
+  "actualizado_vzla": "2025-12-16 18:53:18 -04",
   "compra_segundo": {
-    "price": 438.0,
-    "name": "Carlos Bello Trader"
+    "price": 438.28,
+    "name": "Dajming-Trading-P2P"
   },
   "venta_maxima": {
     "price": 438.1,
     "name": "CoorpLogistic"
   },
-  "promedio": 438.05,
+  "promedio": 438.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
