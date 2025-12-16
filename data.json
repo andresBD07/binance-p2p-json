@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T22:53:18.682151",
-  "actualizado_vzla": "2025-12-16 18:53:18 -04",
+  "timestamp_utc": "2025-12-16T23:21:28.473361",
+  "actualizado_vzla": "2025-12-16 19:21:28 -04",
   "compra_segundo": {
-    "price": 438.28,
-    "name": "Dajming-Trading-P2P"
+    "price": 438.038,
+    "name": "Lextomato"
   },
   "venta_maxima": {
-    "price": 438.1,
+    "price": 437.5,
     "name": "CoorpLogistic"
   },
-  "promedio": 438.19,
+  "promedio": 437.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
