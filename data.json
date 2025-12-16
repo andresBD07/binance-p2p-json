@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T15:01:31.128274",
-  "actualizado_vzla": "2025-12-16 11:01:31 -04",
+  "timestamp_utc": "2025-12-16T15:34:30.665239",
+  "actualizado_vzla": "2025-12-16 11:34:30 -04",
   "compra_segundo": {
-    "price": 433.4,
-    "name": "tuagenciadeconfianza"
+    "price": 436.9,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 435.65,
-    "name": "-IKNUSA-"
+    "price": 437.5,
+    "name": "TheBlackHand"
   },
-  "promedio": 434.52,
+  "promedio": 437.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
