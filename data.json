@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T09:59:36.061367",
-  "actualizado_vzla": "2025-12-16 05:59:36 -04",
+  "timestamp_utc": "2025-12-16T10:37:51.534441",
+  "actualizado_vzla": "2025-12-16 06:37:51 -04",
   "compra_segundo": {
-    "price": 432.32,
-    "name": "AdmCriptoTuku88"
+    "price": 432.19,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 429.0,
+    "price": 430.0,
     "name": "Jl crissol "
   },
-  "promedio": 430.66,
+  "promedio": 431.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
