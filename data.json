@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T14:15:14.124027",
-  "actualizado_vzla": "2025-12-16 10:15:14 -04",
+  "timestamp_utc": "2025-12-16T14:46:19.004464",
+  "actualizado_vzla": "2025-12-16 10:46:19 -04",
   "compra_segundo": {
-    "price": 431.6,
-    "name": "NexusBlock"
+    "price": 432.7,
+    "name": "Economist2025"
   },
   "venta_maxima": {
-    "price": 438.25,
-    "name": "JesusCrip"
+    "price": 433.5,
+    "name": "FinanceSecure"
   },
-  "promedio": 434.93,
+  "promedio": 433.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
