@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-16T18:58:18.388346",
-  "actualizado_vzla": "2025-12-16 14:58:18 -04",
+  "timestamp_utc": "2025-12-16T19:27:16.000691",
+  "actualizado_vzla": "2025-12-16 15:27:16 -04",
   "compra_segundo": {
-    "price": 434.5,
-    "name": "ElCandidoP2P"
+    "price": 433.7,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
-    "price": 435.5,
-    "name": "GhostRS"
+    "price": 435.7,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 435.0,
+  "promedio": 434.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
