@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T07:31:37.447217",
-  "actualizado_vzla": "2025-12-17 03:31:37 -04",
+  "timestamp_utc": "2025-12-17T07:48:15.034531",
+  "actualizado_vzla": "2025-12-17 03:48:15 -04",
   "compra_segundo": {
     "price": 444.49,
     "name": "AlainTD"
   },
   "venta_maxima": {
-    "price": 435.3,
+    "price": 435.2,
     "name": "Wis3Trading"
   },
-  "promedio": 439.89,
+  "promedio": 439.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
