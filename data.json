@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T20:33:55.708466",
-  "actualizado_vzla": "2025-12-17 16:33:55 -04",
+  "timestamp_utc": "2025-12-17T20:52:30.254583",
+  "actualizado_vzla": "2025-12-17 16:52:30 -04",
   "compra_segundo": {
-    "price": 452.8,
-    "name": "Nell_Trader"
+    "price": 453.18,
+    "name": "criss35"
   },
   "venta_maxima": {
-    "price": 453.5,
-    "name": "SmartSolutionn"
+    "price": 456.21,
+    "name": "hudsonriver"
   },
-  "promedio": 453.15,
+  "promedio": 454.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
