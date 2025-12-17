@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T01:28:02.340388",
-  "actualizado_vzla": "2025-12-16 21:28:02 -04",
+  "timestamp_utc": "2025-12-17T03:09:51.278290",
+  "actualizado_vzla": "2025-12-16 23:09:51 -04",
   "compra_segundo": {
-    "price": 438.0,
-    "name": "wuillou11"
+    "price": 439.0,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 437.5,
-    "name": "Brawlcoins"
+    "price": 437.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 437.75,
+  "promedio": 438.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
