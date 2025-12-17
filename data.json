@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T21:53:32.583364",
-  "actualizado_vzla": "2025-12-17 17:53:32 -04",
+  "timestamp_utc": "2025-12-17T22:22:26.158708",
+  "actualizado_vzla": "2025-12-17 18:22:26 -04",
   "compra_segundo": {
-    "price": 455.66,
-    "name": "CryptoKoku"
+    "price": 455.3,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
-    "price": 454.0,
-    "name": "AirExhanger"
+    "price": 454.2,
+    "name": "WinerBTC"
   },
-  "promedio": 454.83,
+  "promedio": 454.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
