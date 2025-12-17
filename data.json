@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-17T03:09:51.278290",
-  "actualizado_vzla": "2025-12-16 23:09:51 -04",
+  "timestamp_utc": "2025-12-17T04:02:41.385671",
+  "actualizado_vzla": "2025-12-17 00:02:41 -04",
   "compra_segundo": {
-    "price": 439.0,
-    "name": "Kartozpk"
+    "price": 439.49,
+    "name": "Atraderspkj"
   },
   "venta_maxima": {
-    "price": 437.0,
-    "name": "-Godgiven-"
+    "price": 436.5,
+    "name": "hectoraltrader"
   },
   "promedio": 438.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
