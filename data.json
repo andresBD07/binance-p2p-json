@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-16T23:52:22.630301",
-  "actualizado_vzla": "2025-12-16 19:52:22 -04",
+  "timestamp_utc": "2025-12-17T01:28:02.340388",
+  "actualizado_vzla": "2025-12-16 21:28:02 -04",
   "compra_segundo": {
-    "price": 437.96,
-    "name": "JoseLNb"
+    "price": 438.0,
+    "name": "wuillou11"
   },
   "venta_maxima": {
-    "price": 437.55,
-    "name": "MILOMA-EXCHANGE"
+    "price": 437.5,
+    "name": "Brawlcoins"
   },
   "promedio": 437.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
