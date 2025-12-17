@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T15:33:29.934579",
-  "actualizado_vzla": "2025-12-17 11:33:29 -04",
+  "timestamp_utc": "2025-12-17T15:54:03.757915",
+  "actualizado_vzla": "2025-12-17 11:54:03 -04",
   "compra_segundo": {
-    "price": 444.8,
-    "name": "Gjsan"
+    "price": 445.93,
+    "name": "Digitalvimarket"
   },
   "venta_maxima": {
-    "price": 445.0,
-    "name": "Quick Payment"
+    "price": 445.25,
+    "name": "-IKNUSA-"
   },
-  "promedio": 444.9,
+  "promedio": 445.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
