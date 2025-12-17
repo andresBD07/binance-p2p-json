@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T17:52:03.853786",
-  "actualizado_vzla": "2025-12-17 13:52:03 -04",
+  "timestamp_utc": "2025-12-17T18:31:06.681966",
+  "actualizado_vzla": "2025-12-17 14:31:06 -04",
   "compra_segundo": {
-    "price": 446.249,
-    "name": "ElCandidoP2P"
+    "price": 447.499,
+    "name": "Idaniap2p"
   },
   "venta_maxima": {
-    "price": 450.8,
-    "name": "GhostRS"
+    "price": 454.09,
+    "name": "-Yotei-"
   },
-  "promedio": 448.52,
+  "promedio": 450.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
