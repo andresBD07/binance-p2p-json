@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T22:22:26.158708",
-  "actualizado_vzla": "2025-12-17 18:22:26 -04",
+  "timestamp_utc": "2025-12-17T22:44:13.195150",
+  "actualizado_vzla": "2025-12-17 18:44:13 -04",
   "compra_segundo": {
-    "price": 455.3,
-    "name": "ExpressCash23"
+    "price": 455.0,
+    "name": "PagoActivo"
   },
   "venta_maxima": {
-    "price": 454.2,
-    "name": "WinerBTC"
+    "price": 455.6,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 454.75,
+  "promedio": 455.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
