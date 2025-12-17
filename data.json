@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T19:27:08.550894",
-  "actualizado_vzla": "2025-12-17 15:27:08 -04",
+  "timestamp_utc": "2025-12-17T19:43:23.145557",
+  "actualizado_vzla": "2025-12-17 15:43:23 -04",
   "compra_segundo": {
-    "price": 454.0,
-    "name": "CoinGonzo"
+    "price": 453.79,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 455.0,
-    "name": "hectoraltrader"
+    "price": 453.75,
+    "name": "-IKNUSA-"
   },
-  "promedio": 454.5,
+  "promedio": 453.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
