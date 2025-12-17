@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T22:44:13.195150",
-  "actualizado_vzla": "2025-12-17 18:44:13 -04",
+  "timestamp_utc": "2025-12-17T22:57:31.931733",
+  "actualizado_vzla": "2025-12-17 18:57:31 -04",
   "compra_segundo": {
-    "price": 455.0,
-    "name": "PagoActivo"
+    "price": 454.886,
+    "name": "Catalina"
   },
   "venta_maxima": {
-    "price": 455.6,
-    "name": "GOMEZTUSOLUCION"
+    "price": 456.2,
+    "name": "HT24_7"
   },
-  "promedio": 455.3,
+  "promedio": 455.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
