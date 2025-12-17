@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T05:35:58.479523",
-  "actualizado_vzla": "2025-12-17 01:35:58 -04",
+  "timestamp_utc": "2025-12-17T05:52:54.095175",
+  "actualizado_vzla": "2025-12-17 01:52:54 -04",
   "compra_segundo": {
-    "price": 443.0,
-    "name": "Grios0511"
+    "price": 444.0,
+    "name": "JRCambiosExpress"
   },
   "venta_maxima": {
-    "price": 435.5,
-    "name": "Tatarata"
+    "price": 435.17,
+    "name": "willbyruz"
   },
-  "promedio": 439.25,
+  "promedio": 439.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
