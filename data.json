@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T19:43:23.145557",
-  "actualizado_vzla": "2025-12-17 15:43:23 -04",
+  "timestamp_utc": "2025-12-17T19:56:21.252619",
+  "actualizado_vzla": "2025-12-17 15:56:21 -04",
   "compra_segundo": {
-    "price": 453.79,
-    "name": "FlashCambios1"
+    "price": 453.495,
+    "name": "Cambi0Express"
   },
   "venta_maxima": {
-    "price": 453.75,
-    "name": "-IKNUSA-"
+    "price": 453.0,
+    "name": "Montcios"
   },
-  "promedio": 453.77,
+  "promedio": 453.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
