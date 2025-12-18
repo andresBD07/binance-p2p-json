@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T23:44:16.559490",
-  "actualizado_vzla": "2025-12-18 19:44:16 -04",
+  "timestamp_utc": "2025-12-18T23:57:01.863152",
+  "actualizado_vzla": "2025-12-18 19:57:01 -04",
   "compra_segundo": {
-    "price": 488.0,
-    "name": "CriollosMONEY"
+    "price": 487.9,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "-Godgiven-"
+    "price": 486.1,
+    "name": "IMPERIOROMANO"
   },
-  "promedio": 488.0,
+  "promedio": 487.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
