@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T03:39:49.800492",
-  "actualizado_vzla": "2025-12-17 23:39:49 -04",
+  "timestamp_utc": "2025-12-18T04:20:33.225423",
+  "actualizado_vzla": "2025-12-18 00:20:33 -04",
   "compra_segundo": {
-    "price": 461.0,
-    "name": "RapidPago "
+    "price": 461.45,
+    "name": "quiander08"
   },
   "venta_maxima": {
-    "price": 457.101,
-    "name": "FULL-HOUSSE"
+    "price": 456.0,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 459.05,
+  "promedio": 458.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
