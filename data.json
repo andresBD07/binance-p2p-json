@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T04:20:33.225423",
-  "actualizado_vzla": "2025-12-18 00:20:33 -04",
+  "timestamp_utc": "2025-12-18T04:52:37.863255",
+  "actualizado_vzla": "2025-12-18 00:52:37 -04",
   "compra_segundo": {
-    "price": 461.45,
-    "name": "quiander08"
+    "price": 461.998,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
     "price": 456.0,
-    "name": "Inversiones-ADSC"
+    "name": "-Vallenatero-"
   },
-  "promedio": 458.73,
+  "promedio": 459.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
