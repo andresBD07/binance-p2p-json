@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T10:47:36.532107",
-  "actualizado_vzla": "2025-12-18 06:47:36 -04",
+  "timestamp_utc": "2025-12-18T11:00:54.714951",
+  "actualizado_vzla": "2025-12-18 07:00:54 -04",
   "compra_segundo": {
-    "price": 461.5,
-    "name": "MyAngelHM"
+    "price": 461.78,
+    "name": "JonHur"
   },
   "venta_maxima": {
-    "price": 457.5,
-    "name": "inverck"
+    "price": 459.0,
+    "name": "ArepaConCafé"
   },
-  "promedio": 459.5,
+  "promedio": 460.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
