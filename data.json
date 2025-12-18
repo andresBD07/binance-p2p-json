@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-18T04:52:37.863255",
-  "actualizado_vzla": "2025-12-18 00:52:37 -04",
+  "timestamp_utc": "2025-12-18T05:23:03.301628",
+  "actualizado_vzla": "2025-12-18 01:23:03 -04",
   "compra_segundo": {
     "price": 461.998,
     "name": "MarcosWillexis"
   },
   "venta_maxima": {
-    "price": 456.0,
-    "name": "-Vallenatero-"
+    "price": 456.001,
+    "name": "THE BOSS  96"
   },
   "promedio": 459.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
