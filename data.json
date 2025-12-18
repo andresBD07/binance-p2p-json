@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T17:31:45.633561",
-  "actualizado_vzla": "2025-12-18 13:31:45 -04",
+  "timestamp_utc": "2025-12-18T17:51:24.329012",
+  "actualizado_vzla": "2025-12-18 13:51:24 -04",
   "compra_segundo": {
-    "price": 483.999,
-    "name": "EXDOMO"
+    "price": 479.9,
+    "name": "Ivonnexjz"
   },
   "venta_maxima": {
-    "price": 484.0,
-    "name": "-YM-"
+    "price": 483.04,
+    "name": "-IKNUSA-"
   },
-  "promedio": 484.0,
+  "promedio": 481.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
