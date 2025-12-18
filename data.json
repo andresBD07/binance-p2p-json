@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T08:23:39.947902",
-  "actualizado_vzla": "2025-12-18 04:23:39 -04",
+  "timestamp_utc": "2025-12-18T08:53:30.336716",
+  "actualizado_vzla": "2025-12-18 04:53:30 -04",
   "compra_segundo": {
-    "price": 463.9,
-    "name": "GregoSwap"
+    "price": 463.19,
+    "name": "GJTG84"
   },
   "venta_maxima": {
     "price": 455.7,
     "name": "CRIPTOP2P-CRIPTO"
   },
-  "promedio": 459.8,
+  "promedio": 459.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
