@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T11:45:22.808970",
-  "actualizado_vzla": "2025-12-18 07:45:22 -04",
+  "timestamp_utc": "2025-12-18T11:58:49.588282",
+  "actualizado_vzla": "2025-12-18 07:58:49 -04",
   "compra_segundo": {
-    "price": 461.8,
-    "name": "ElCandidoP2P"
+    "price": 462.4,
+    "name": "JmP2PTrader"
   },
   "venta_maxima": {
-    "price": 459.222,
-    "name": "carlosc69"
+    "price": 459.05,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 460.51,
+  "promedio": 460.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
