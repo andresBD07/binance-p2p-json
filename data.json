@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T14:42:35.100238",
-  "actualizado_vzla": "2025-12-18 10:42:35 -04",
+  "timestamp_utc": "2025-12-18T14:58:58.395738",
+  "actualizado_vzla": "2025-12-18 10:58:58 -04",
   "compra_segundo": {
-    "price": 493.5,
-    "name": "_AliExpress_"
+    "price": 492.0,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "hudsonriver"
+    "price": 492.001,
+    "name": "火PhoenixRising"
   },
-  "promedio": 490.75,
+  "promedio": 492.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
