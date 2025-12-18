@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T11:00:54.714951",
-  "actualizado_vzla": "2025-12-18 07:00:54 -04",
+  "timestamp_utc": "2025-12-18T11:28:39.610483",
+  "actualizado_vzla": "2025-12-18 07:28:39 -04",
   "compra_segundo": {
-    "price": 461.78,
-    "name": "JonHur"
+    "price": 461.1,
+    "name": "Dkans21"
   },
   "venta_maxima": {
     "price": 459.0,
-    "name": "ArepaConCafé"
+    "name": "MILOMA-EXCHANGE"
   },
-  "promedio": 460.39,
+  "promedio": 460.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
