@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T20:55:16.342701",
-  "actualizado_vzla": "2025-12-18 16:55:16 -04",
+  "timestamp_utc": "2025-12-18T21:23:22.402082",
+  "actualizado_vzla": "2025-12-18 17:23:22 -04",
   "compra_segundo": {
-    "price": 485.0,
-    "name": "Criptoseed"
+    "price": 485.999,
+    "name": "Tumonedavirtual"
   },
   "venta_maxima": {
-    "price": 487.0,
-    "name": "SmartSolutionn"
+    "price": 486.5,
+    "name": "hudsonriver"
   },
-  "promedio": 486.0,
+  "promedio": 486.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
