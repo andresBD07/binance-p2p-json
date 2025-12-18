@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T13:01:39.904071",
-  "actualizado_vzla": "2025-12-18 09:01:39 -04",
+  "timestamp_utc": "2025-12-18T13:46:40.324480",
+  "actualizado_vzla": "2025-12-18 09:46:40 -04",
   "compra_segundo": {
-    "price": 465.3,
-    "name": "LinkVzla"
+    "price": 472.999,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
-    "price": 465.6,
-    "name": "USDTFASTTT"
+    "price": 471.75,
+    "name": "MasterDT"
   },
-  "promedio": 465.45,
+  "promedio": 472.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
