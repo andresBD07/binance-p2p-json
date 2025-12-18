@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T22:56:05.239111",
-  "actualizado_vzla": "2025-12-18 18:56:05 -04",
+  "timestamp_utc": "2025-12-18T23:27:31.316472",
+  "actualizado_vzla": "2025-12-18 19:27:31 -04",
   "compra_segundo": {
-    "price": 490.196,
-    "name": "Rickambios "
+    "price": 489.45,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
     "price": 488.0,
     "name": "-Godgiven-"
   },
-  "promedio": 489.1,
+  "promedio": 488.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
