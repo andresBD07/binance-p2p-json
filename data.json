@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T09:52:11.232665",
-  "actualizado_vzla": "2025-12-18 05:52:11 -04",
+  "timestamp_utc": "2025-12-18T10:22:15.530946",
+  "actualizado_vzla": "2025-12-18 06:22:15 -04",
   "compra_segundo": {
     "price": 461.9,
-    "name": "Jaed Crp"
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 455.6,
-    "name": "Tumundoexchange"
+    "price": 457.05,
+    "name": "SRexchanges"
   },
-  "promedio": 458.75,
+  "promedio": 459.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
