@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T20:21:53.287076",
-  "actualizado_vzla": "2025-12-18 16:21:53 -04",
+  "timestamp_utc": "2025-12-18T20:41:20.791337",
+  "actualizado_vzla": "2025-12-18 16:41:20 -04",
   "compra_segundo": {
-    "price": 484.899,
-    "name": "ElHijo2407"
+    "price": 484.79,
+    "name": "CAMBIOS JV"
   },
   "venta_maxima": {
-    "price": 484.0,
-    "name": "-IKNUSA-"
+    "price": 486.0,
+    "name": "SmartSolutionn"
   },
-  "promedio": 484.45,
+  "promedio": 485.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
