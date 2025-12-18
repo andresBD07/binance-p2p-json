@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-17T23:58:06.562439",
-  "actualizado_vzla": "2025-12-17 19:58:06 -04",
+  "timestamp_utc": "2025-12-18T02:12:15.506983",
+  "actualizado_vzla": "2025-12-17 22:12:15 -04",
   "compra_segundo": {
-    "price": 455.93,
-    "name": "Criptotur"
+    "price": 459.4,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 456.4,
-    "name": "RIVERMONEY"
+    "price": 458.0,
+    "name": "Godisgift"
   },
-  "promedio": 456.16,
+  "promedio": 458.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
