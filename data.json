@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T09:29:36.978045",
-  "actualizado_vzla": "2025-12-18 05:29:36 -04",
+  "timestamp_utc": "2025-12-18T09:52:11.232665",
+  "actualizado_vzla": "2025-12-18 05:52:11 -04",
   "compra_segundo": {
-    "price": 462.09,
-    "name": "Loyalbtc"
+    "price": 461.9,
+    "name": "Jaed Crp"
   },
   "venta_maxima": {
     "price": 455.6,
     "name": "Tumundoexchange"
   },
-  "promedio": 458.85,
+  "promedio": 458.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
