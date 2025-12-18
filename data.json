@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T16:57:16.848887",
-  "actualizado_vzla": "2025-12-18 12:57:16 -04",
+  "timestamp_utc": "2025-12-18T17:31:45.633561",
+  "actualizado_vzla": "2025-12-18 13:31:45 -04",
   "compra_segundo": {
-    "price": 489.496,
-    "name": "CriptoEliser"
+    "price": 483.999,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "Quick Payment"
+    "price": 484.0,
+    "name": "-YM-"
   },
-  "promedio": 488.75,
+  "promedio": 484.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
