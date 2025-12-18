@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T15:52:29.333418",
-  "actualizado_vzla": "2025-12-18 11:52:29 -04",
+  "timestamp_utc": "2025-12-18T16:30:12.035952",
+  "actualizado_vzla": "2025-12-18 12:30:12 -04",
   "compra_segundo": {
-    "price": 474.8,
-    "name": "ProsPlayer"
+    "price": 488.9,
+    "name": "VICKYMAN02"
   },
   "venta_maxima": {
-    "price": 476.5,
-    "name": "Swteet"
+    "price": 487.15,
+    "name": "VamosPArriba_"
   },
-  "promedio": 475.65,
+  "promedio": 488.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
