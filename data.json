@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T08:53:30.336716",
-  "actualizado_vzla": "2025-12-18 04:53:30 -04",
+  "timestamp_utc": "2025-12-18T09:29:36.978045",
+  "actualizado_vzla": "2025-12-18 05:29:36 -04",
   "compra_segundo": {
-    "price": 463.19,
-    "name": "GJTG84"
+    "price": 462.09,
+    "name": "Loyalbtc"
   },
   "venta_maxima": {
-    "price": 455.7,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 455.6,
+    "name": "Tumundoexchange"
   },
-  "promedio": 459.44,
+  "promedio": 458.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
