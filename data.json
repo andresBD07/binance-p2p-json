@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T10:22:15.530946",
-  "actualizado_vzla": "2025-12-18 06:22:15 -04",
+  "timestamp_utc": "2025-12-18T10:47:36.532107",
+  "actualizado_vzla": "2025-12-18 06:47:36 -04",
   "compra_segundo": {
-    "price": 461.9,
-    "name": "FastEG"
+    "price": 461.5,
+    "name": "MyAngelHM"
   },
   "venta_maxima": {
-    "price": 457.05,
-    "name": "SRexchanges"
+    "price": 457.5,
+    "name": "inverck"
   },
-  "promedio": 459.48,
+  "promedio": 459.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
