@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T19:52:56.592784",
-  "actualizado_vzla": "2025-12-18 15:52:56 -04",
+  "timestamp_utc": "2025-12-18T20:21:53.287076",
+  "actualizado_vzla": "2025-12-18 16:21:53 -04",
   "compra_segundo": {
-    "price": 484.695,
-    "name": "ATENEA99"
+    "price": 484.899,
+    "name": "ElHijo2407"
   },
   "venta_maxima": {
-    "price": 486.0,
-    "name": "TOPlevelS"
+    "price": 484.0,
+    "name": "-IKNUSA-"
   },
-  "promedio": 485.35,
+  "promedio": 484.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
