@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T21:53:18.057113",
-  "actualizado_vzla": "2025-12-18 17:53:18 -04",
+  "timestamp_utc": "2025-12-18T22:21:36.557538",
+  "actualizado_vzla": "2025-12-18 18:21:36 -04",
   "compra_segundo": {
-    "price": 486.2,
-    "name": "Elleonesleo"
+    "price": 488.998,
+    "name": "Carlitos-trading"
   },
   "venta_maxima": {
-    "price": 487.0,
-    "name": "-Godgiven-"
+    "price": 489.1,
+    "name": "TuPagoRapido"
   },
-  "promedio": 486.6,
+  "promedio": 489.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
