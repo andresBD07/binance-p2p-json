@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-18T14:58:58.395738",
-  "actualizado_vzla": "2025-12-18 10:58:58 -04",
+  "timestamp_utc": "2025-12-18T15:33:31.652873",
+  "actualizado_vzla": "2025-12-18 11:33:31 -04",
   "compra_segundo": {
-    "price": 492.0,
-    "name": "BallGroup"
+    "price": 477.0,
+    "name": "RM-CAMBIOS"
   },
   "venta_maxima": {
-    "price": 492.001,
-    "name": "火PhoenixRising"
+    "price": 476.0,
+    "name": "Cripto-Ale"
   },
-  "promedio": 492.0,
+  "promedio": 476.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
