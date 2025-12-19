@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T14:33:06.168421",
-  "actualizado_vzla": "2025-12-19 10:33:06 -04",
+  "timestamp_utc": "2025-12-19T14:52:00.473340",
+  "actualizado_vzla": "2025-12-19 10:52:00 -04",
   "compra_segundo": {
-    "price": 491.1,
-    "name": "Cambios_fast54"
+    "price": 491.0,
+    "name": "Metavic96_Pago-5-min"
   },
   "venta_maxima": {
     "price": 492.5,
     "name": "hudsonriver"
   },
-  "promedio": 491.8,
+  "promedio": 491.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
