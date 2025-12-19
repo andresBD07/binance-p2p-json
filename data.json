@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T06:00:08.809508",
-  "actualizado_vzla": "2025-12-19 02:00:08 -04",
+  "timestamp_utc": "2025-12-19T06:46:11.555197",
+  "actualizado_vzla": "2025-12-19 02:46:11 -04",
   "compra_segundo": {
-    "price": 492.7,
-    "name": "CoinPilot"
+    "price": 492.9,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 485.5,
-    "name": "-Vallenatero-"
+    "price": 483.5,
+    "name": "willbyruz"
   },
-  "promedio": 489.1,
+  "promedio": 488.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
