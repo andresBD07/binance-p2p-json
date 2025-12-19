@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T17:26:18.046653",
-  "actualizado_vzla": "2025-12-19 13:26:18 -04",
+  "timestamp_utc": "2025-12-19T17:41:20.467539",
+  "actualizado_vzla": "2025-12-19 13:41:20 -04",
   "compra_segundo": {
-    "price": 478.3,
-    "name": "MikasaExchange"
+    "price": 477.8,
+    "name": "Cambios_MH2107"
   },
   "venta_maxima": {
-    "price": 479.25,
-    "name": "-Godgiven-"
+    "price": 479.0,
+    "name": "jxsosa"
   },
-  "promedio": 478.77,
+  "promedio": 478.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
