@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T06:46:11.555197",
-  "actualizado_vzla": "2025-12-19 02:46:11 -04",
+  "timestamp_utc": "2025-12-19T07:11:43.886834",
+  "actualizado_vzla": "2025-12-19 03:11:43 -04",
   "compra_segundo": {
-    "price": 492.9,
-    "name": "ComercioJRG"
+    "price": 492.0,
+    "name": "ARKADB"
   },
   "venta_maxima": {
     "price": 483.5,
     "name": "willbyruz"
   },
-  "promedio": 488.2,
+  "promedio": 487.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
