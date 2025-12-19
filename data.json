@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T19:24:20.527082",
-  "actualizado_vzla": "2025-12-19 15:24:20 -04",
+  "timestamp_utc": "2025-12-19T19:40:06.558293",
+  "actualizado_vzla": "2025-12-19 15:40:06 -04",
   "compra_segundo": {
-    "price": 478.95,
-    "name": "Guayoyoo"
+    "price": 478.35,
+    "name": "ElHijo2407"
   },
   "venta_maxima": {
-    "price": 479.002,
-    "name": "Whale-SharkCrypto"
+    "price": 480.0,
+    "name": "FinanceSecure"
   },
-  "promedio": 478.98,
+  "promedio": 479.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
