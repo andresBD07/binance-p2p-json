@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T11:17:22.234031",
-  "actualizado_vzla": "2025-12-19 07:17:22 -04",
+  "timestamp_utc": "2025-12-19T11:35:21.008649",
+  "actualizado_vzla": "2025-12-19 07:35:21 -04",
   "compra_segundo": {
-    "price": 489.749,
-    "name": "EXDOMO"
+    "price": 489.5,
+    "name": "NORE19"
   },
   "venta_maxima": {
-    "price": 483.004,
+    "price": 484.004,
     "name": "cambio"
   },
-  "promedio": 486.38,
+  "promedio": 486.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
