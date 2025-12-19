@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T13:45:42.430466",
-  "actualizado_vzla": "2025-12-19 09:45:42 -04",
+  "timestamp_utc": "2025-12-19T13:59:11.663980",
+  "actualizado_vzla": "2025-12-19 09:59:11 -04",
   "compra_segundo": {
-    "price": 490.0,
-    "name": "FRANFLASH8"
+    "price": 490.5,
+    "name": "Gigatt_Cripto"
   },
   "venta_maxima": {
     "price": 492.5,
     "name": "hudsonriver"
   },
-  "promedio": 491.25,
+  "promedio": 491.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
