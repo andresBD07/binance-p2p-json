@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T21:43:43.922024",
-  "actualizado_vzla": "2025-12-19 17:43:43 -04",
+  "timestamp_utc": "2025-12-19T21:56:50.325918",
+  "actualizado_vzla": "2025-12-19 17:56:50 -04",
   "compra_segundo": {
-    "price": 479.6,
-    "name": "BakiGoodImport"
+    "price": 479.0,
+    "name": "ericK1NG"
   },
   "venta_maxima": {
-    "price": 480.0,
+    "price": 479.5,
     "name": "VECTURAFX"
   },
-  "promedio": 479.8,
+  "promedio": 479.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
