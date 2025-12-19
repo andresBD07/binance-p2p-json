@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T03:43:23.263605",
-  "actualizado_vzla": "2025-12-18 23:43:23 -04",
+  "timestamp_utc": "2025-12-19T04:22:08.550378",
+  "actualizado_vzla": "2025-12-19 00:22:08 -04",
   "compra_segundo": {
-    "price": 489.49,
-    "name": "Marquez25"
+    "price": 490.0,
+    "name": "DavDoug"
   },
   "venta_maxima": {
-    "price": 485.03,
-    "name": "D7OS"
+    "price": 484.3,
+    "name": "Brawlcoins"
   },
-  "promedio": 487.26,
+  "promedio": 487.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
