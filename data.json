@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T22:47:02.586458",
-  "actualizado_vzla": "2025-12-19 18:47:02 -04",
+  "timestamp_utc": "2025-12-19T22:59:55.313831",
+  "actualizado_vzla": "2025-12-19 18:59:55 -04",
   "compra_segundo": {
-    "price": 479.599,
-    "name": "Latinlf"
+    "price": 479.15,
+    "name": "Dajming-Trading-P2P"
   },
   "venta_maxima": {
-    "price": 479.05,
-    "name": "MARACAIBOBTC"
+    "price": 478.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 479.32,
+  "promedio": 478.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
