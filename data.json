@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T22:59:55.313831",
-  "actualizado_vzla": "2025-12-19 18:59:55 -04",
+  "timestamp_utc": "2025-12-19T23:27:54.116209",
+  "actualizado_vzla": "2025-12-19 19:27:54 -04",
   "compra_segundo": {
-    "price": 479.15,
-    "name": "Dajming-Trading-P2P"
+    "price": 477.95,
+    "name": "Latribu-"
   },
   "venta_maxima": {
-    "price": 478.5,
-    "name": "-Godgiven-"
+    "price": 477.5,
+    "name": "TAURUS85"
   },
-  "promedio": 478.82,
+  "promedio": 477.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
