@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T20:44:48.565793",
-  "actualizado_vzla": "2025-12-19 16:44:48 -04",
+  "timestamp_utc": "2025-12-19T20:57:40.418050",
+  "actualizado_vzla": "2025-12-19 16:57:40 -04",
   "compra_segundo": {
-    "price": 479.799,
-    "name": "Proverbios16_3"
+    "price": 480.0,
+    "name": "JesusJavi"
   },
   "venta_maxima": {
     "price": 480.0,
     "name": "VECTURAFX"
   },
-  "promedio": 479.9,
+  "promedio": 480.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
