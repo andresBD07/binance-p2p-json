@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T07:35:04.052218",
-  "actualizado_vzla": "2025-12-19 03:35:04 -04",
+  "timestamp_utc": "2025-12-19T07:48:59.872722",
+  "actualizado_vzla": "2025-12-19 03:48:59 -04",
   "compra_segundo": {
     "price": 492.0,
     "name": "ARKADB"
   },
   "venta_maxima": {
-    "price": 483.0,
-    "name": "Kingtrade5555"
+    "price": 483.5,
+    "name": "willbyruz"
   },
-  "promedio": 487.5,
+  "promedio": 487.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
