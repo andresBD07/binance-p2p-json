@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T14:52:00.473340",
-  "actualizado_vzla": "2025-12-19 10:52:00 -04",
+  "timestamp_utc": "2025-12-19T15:21:03.979229",
+  "actualizado_vzla": "2025-12-19 11:21:03 -04",
   "compra_segundo": {
-    "price": 491.0,
-    "name": "Metavic96_Pago-5-min"
+    "price": 488.5,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 492.5,
-    "name": "hudsonriver"
+    "price": 487.0,
+    "name": "JoseParedez"
   },
-  "promedio": 491.75,
+  "promedio": 487.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
