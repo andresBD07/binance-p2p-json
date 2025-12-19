@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T05:25:14.269308",
-  "actualizado_vzla": "2025-12-19 01:25:14 -04",
+  "timestamp_utc": "2025-12-19T05:47:04.650956",
+  "actualizado_vzla": "2025-12-19 01:47:04 -04",
   "compra_segundo": {
-    "price": 492.3,
-    "name": "MOISESF P2P"
+    "price": 492.8,
+    "name": "usdtking"
   },
   "venta_maxima": {
-    "price": 483.5,
-    "name": "-Vallenatero-"
+    "price": 486.5,
+    "name": "EltioExchange"
   },
-  "promedio": 487.9,
+  "promedio": 489.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
