@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T20:23:53.700113",
-  "actualizado_vzla": "2025-12-19 16:23:53 -04",
+  "timestamp_utc": "2025-12-19T20:44:48.565793",
+  "actualizado_vzla": "2025-12-19 16:44:48 -04",
   "compra_segundo": {
-    "price": 478.87,
-    "name": "CH-Intercambios"
+    "price": 479.799,
+    "name": "Proverbios16_3"
   },
   "venta_maxima": {
     "price": 480.0,
     "name": "VECTURAFX"
   },
-  "promedio": 479.44,
+  "promedio": 479.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
