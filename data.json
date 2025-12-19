@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T08:17:48.735988",
-  "actualizado_vzla": "2025-12-19 04:17:48 -04",
+  "timestamp_utc": "2025-12-19T08:48:45.260856",
+  "actualizado_vzla": "2025-12-19 04:48:45 -04",
   "compra_segundo": {
-    "price": 492.9,
-    "name": "ComercioJRG"
+    "price": 492.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
     "price": 483.5,
     "name": "willbyruz"
   },
-  "promedio": 488.2,
+  "promedio": 487.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
