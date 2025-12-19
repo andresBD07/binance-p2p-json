@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T10:52:05.022116",
-  "actualizado_vzla": "2025-12-19 06:52:05 -04",
+  "timestamp_utc": "2025-12-19T11:17:22.234031",
+  "actualizado_vzla": "2025-12-19 07:17:22 -04",
   "compra_segundo": {
-    "price": 490.0,
-    "name": "Secure Payment"
+    "price": 489.749,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 484.2,
-    "name": "SRexchanges"
+    "price": 483.004,
+    "name": "cambio"
   },
-  "promedio": 487.1,
+  "promedio": 486.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
