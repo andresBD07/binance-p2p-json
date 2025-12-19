@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T22:28:53.855797",
-  "actualizado_vzla": "2025-12-19 18:28:53 -04",
+  "timestamp_utc": "2025-12-19T22:47:02.586458",
+  "actualizado_vzla": "2025-12-19 18:47:02 -04",
   "compra_segundo": {
-    "price": 478.88,
-    "name": "CambiosSilva"
+    "price": 479.599,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 479.0,
-    "name": "Quick Payment"
+    "price": 479.05,
+    "name": "MARACAIBOBTC"
   },
-  "promedio": 478.94,
+  "promedio": 479.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
