@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T16:57:28.139443",
-  "actualizado_vzla": "2025-12-19 12:57:28 -04",
+  "timestamp_utc": "2025-12-19T17:26:18.046653",
+  "actualizado_vzla": "2025-12-19 13:26:18 -04",
   "compra_segundo": {
-    "price": 481.68,
-    "name": "Cristh957"
+    "price": 478.3,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 480.0,
-    "name": "Quick Payment"
+    "price": 479.25,
+    "name": "-Godgiven-"
   },
-  "promedio": 480.84,
+  "promedio": 478.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
