@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T19:40:06.558293",
-  "actualizado_vzla": "2025-12-19 15:40:06 -04",
+  "timestamp_utc": "2025-12-19T19:52:53.376573",
+  "actualizado_vzla": "2025-12-19 15:52:53 -04",
   "compra_segundo": {
-    "price": 478.35,
-    "name": "ElHijo2407"
+    "price": 478.31,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
     "price": 480.0,
     "name": "FinanceSecure"
   },
-  "promedio": 479.18,
+  "promedio": 479.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
