@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-19T13:59:11.663980",
-  "actualizado_vzla": "2025-12-19 09:59:11 -04",
+  "timestamp_utc": "2025-12-19T14:33:06.168421",
+  "actualizado_vzla": "2025-12-19 10:33:06 -04",
   "compra_segundo": {
-    "price": 490.5,
-    "name": "Gigatt_Cripto"
+    "price": 491.1,
+    "name": "Cambios_fast54"
   },
   "venta_maxima": {
     "price": 492.5,
     "name": "hudsonriver"
   },
-  "promedio": 491.5,
+  "promedio": 491.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
