@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T08:30:47.502702",
-  "actualizado_vzla": "2025-12-20 04:30:47 -04",
+  "timestamp_utc": "2025-12-20T08:51:09.654352",
+  "actualizado_vzla": "2025-12-20 04:51:09 -04",
   "compra_segundo": {
-    "price": 481.521,
-    "name": "AndradeGasconTITULAR"
+    "price": 481.0,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
-    "price": 473.0,
-    "name": "Kingtrade5555"
+    "price": 475.2,
+    "name": "willbyruz"
   },
-  "promedio": 477.26,
+  "promedio": 478.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
