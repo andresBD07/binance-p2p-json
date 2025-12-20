@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T17:32:29.205626",
-  "actualizado_vzla": "2025-12-20 13:32:29 -04",
+  "timestamp_utc": "2025-12-20T17:45:27.950868",
+  "actualizado_vzla": "2025-12-20 13:45:27 -04",
   "compra_segundo": {
-    "price": 475.899,
-    "name": "EXDOMO"
+    "price": 475.755,
+    "name": "CambiosExpressAE"
   },
   "venta_maxima": {
-    "price": 475.51,
-    "name": "US-PROFIT_EXCHANGE"
+    "price": 475.6,
+    "name": "hectoraltrader"
   },
-  "promedio": 475.7,
+  "promedio": 475.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
