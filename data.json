@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T06:00:02.279320",
-  "actualizado_vzla": "2025-12-20 02:00:02 -04",
+  "timestamp_utc": "2025-12-20T06:42:25.481319",
+  "actualizado_vzla": "2025-12-20 02:42:25 -04",
   "compra_segundo": {
-    "price": 481.97,
+    "price": 481.999,
     "name": "NimaX-64"
   },
   "venta_maxima": {
     "price": 473.0,
     "name": "Kingtrade5555"
   },
-  "promedio": 477.49,
+  "promedio": 477.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
