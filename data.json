@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T17:45:27.950868",
-  "actualizado_vzla": "2025-12-20 13:45:27 -04",
+  "timestamp_utc": "2025-12-20T17:58:46.672951",
+  "actualizado_vzla": "2025-12-20 13:58:46 -04",
   "compra_segundo": {
-    "price": 475.755,
-    "name": "CambiosExpressAE"
+    "price": 475.65,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 475.6,
-    "name": "hectoraltrader"
+    "price": 476.0,
+    "name": "hudsonriver"
   },
-  "promedio": 475.68,
+  "promedio": 475.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
