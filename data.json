@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T07:54:18.617965",
-  "actualizado_vzla": "2025-12-20 03:54:18 -04",
+  "timestamp_utc": "2025-12-20T08:30:47.502702",
+  "actualizado_vzla": "2025-12-20 04:30:47 -04",
   "compra_segundo": {
-    "price": 483.5,
-    "name": "Mas_veloz_P2P"
+    "price": 481.521,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 478.601,
-    "name": "Trellvader"
+    "price": 473.0,
+    "name": "Kingtrade5555"
   },
-  "promedio": 481.05,
+  "promedio": 477.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
