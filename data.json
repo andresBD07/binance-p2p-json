@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T15:43:48.227092",
-  "actualizado_vzla": "2025-12-20 11:43:48 -04",
+  "timestamp_utc": "2025-12-20T15:56:48.132002",
+  "actualizado_vzla": "2025-12-20 11:56:48 -04",
   "compra_segundo": {
-    "price": 477.0,
-    "name": "HR_Wolowitz"
+    "price": 477.7,
+    "name": "laratradingcl"
   },
   "venta_maxima": {
-    "price": 477.5,
-    "name": "Quick Payment"
+    "price": 476.1,
+    "name": "Aszahi7"
   },
-  "promedio": 477.25,
+  "promedio": 476.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
