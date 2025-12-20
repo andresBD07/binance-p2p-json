@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T22:20:17.793403",
-  "actualizado_vzla": "2025-12-20 18:20:17 -04",
+  "timestamp_utc": "2025-12-20T22:39:25.925990",
+  "actualizado_vzla": "2025-12-20 18:39:25 -04",
   "compra_segundo": {
-    "price": 473.45,
-    "name": "Dark Eyes"
+    "price": 473.3,
+    "name": "MANON-P2P"
   },
   "venta_maxima": {
-    "price": 472.3,
-    "name": "RIVERMONEY"
+    "price": 470.25,
+    "name": "-Yotei-"
   },
-  "promedio": 472.88,
+  "promedio": 471.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
