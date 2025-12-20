@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T10:37:17.686337",
-  "actualizado_vzla": "2025-12-20 06:37:17 -04",
+  "timestamp_utc": "2025-12-20T10:51:08.288647",
+  "actualizado_vzla": "2025-12-20 06:51:08 -04",
   "compra_segundo": {
-    "price": 478.99,
-    "name": "Loyalbtc"
+    "price": 478.399,
+    "name": "AlainTD"
   },
   "venta_maxima": {
     "price": 473.0,
     "name": "Kingtrade5555"
   },
-  "promedio": 476.0,
+  "promedio": 475.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
