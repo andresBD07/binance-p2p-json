@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-20T19:30:01.847949",
-  "actualizado_vzla": "2025-12-20 15:30:01 -04",
+  "timestamp_utc": "2025-12-20T19:43:10.667689",
+  "actualizado_vzla": "2025-12-20 15:43:10 -04",
   "compra_segundo": {
-    "price": 474.69,
-    "name": "ZeusRawr"
+    "price": 474.6,
+    "name": "EnEXPRESS"
   },
   "venta_maxima": {
-    "price": 476.0,
-    "name": "hectoraltrader"
+    "price": 476.1,
+    "name": "-Godgiven-"
   },
   "promedio": 475.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
