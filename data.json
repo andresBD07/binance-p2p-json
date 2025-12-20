@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T22:39:25.925990",
-  "actualizado_vzla": "2025-12-20 18:39:25 -04",
+  "timestamp_utc": "2025-12-20T22:52:33.969423",
+  "actualizado_vzla": "2025-12-20 18:52:33 -04",
   "compra_segundo": {
-    "price": 473.3,
-    "name": "MANON-P2P"
+    "price": 472.3,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
-    "price": 470.25,
-    "name": "-Yotei-"
+    "price": 471.0,
+    "name": "Rafael Eduardo Garcia "
   },
-  "promedio": 471.77,
+  "promedio": 471.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
