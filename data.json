@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T14:28:06.315519",
-  "actualizado_vzla": "2025-12-20 10:28:06 -04",
+  "timestamp_utc": "2025-12-20T14:44:55.890452",
+  "actualizado_vzla": "2025-12-20 10:44:55 -04",
   "compra_segundo": {
-    "price": 476.555,
-    "name": "FastChangesJA"
+    "price": 476.4,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 476.0,
-    "name": "Godisgift"
+    "price": 477.5,
+    "name": "T1_______"
   },
-  "promedio": 476.28,
+  "promedio": 476.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
