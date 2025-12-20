@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T11:56:07.943061",
-  "actualizado_vzla": "2025-12-20 07:56:07 -04",
+  "timestamp_utc": "2025-12-20T12:53:59.022306",
+  "actualizado_vzla": "2025-12-20 08:53:59 -04",
   "compra_segundo": {
-    "price": 477.499,
-    "name": "NimaX-64"
+    "price": 476.79,
+    "name": "Cambioslinarez"
   },
   "venta_maxima": {
-    "price": 473.951,
-    "name": "火PhoenixRising"
+    "price": 476.0,
+    "name": "TAURUS85"
   },
-  "promedio": 475.73,
+  "promedio": 476.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
