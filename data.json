@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T22:52:33.969423",
-  "actualizado_vzla": "2025-12-20 18:52:33 -04",
+  "timestamp_utc": "2025-12-20T23:18:18.233051",
+  "actualizado_vzla": "2025-12-20 19:18:18 -04",
   "compra_segundo": {
-    "price": 472.3,
-    "name": "CambiosAshley"
+    "price": 470.5,
+    "name": "BodegonLasPalmas"
   },
   "venta_maxima": {
-    "price": 471.0,
-    "name": "Rafael Eduardo Garcia "
+    "price": 470.5,
+    "name": "TAURUS85"
   },
-  "promedio": 471.65,
+  "promedio": 470.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
