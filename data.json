@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-20T20:28:59.448646",
-  "actualizado_vzla": "2025-12-20 16:28:59 -04",
+  "timestamp_utc": "2025-12-20T20:44:56.614823",
+  "actualizado_vzla": "2025-12-20 16:44:56 -04",
   "compra_segundo": {
-    "price": 474.799,
-    "name": "Zeta_Cripto"
+    "price": 474.99,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
     "price": 474.7,
     "name": "被放逐的狐狸"
   },
-  "promedio": 474.75,
+  "promedio": 474.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
