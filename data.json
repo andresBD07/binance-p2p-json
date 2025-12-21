@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T22:30:48.960804",
-  "actualizado_vzla": "2025-12-21 18:30:48 -04",
+  "timestamp_utc": "2025-12-21T22:47:06.878563",
+  "actualizado_vzla": "2025-12-21 18:47:06 -04",
   "compra_segundo": {
-    "price": 477.5,
-    "name": "yosbth"
+    "price": 478.5,
+    "name": "AkameXchanges"
   },
   "venta_maxima": {
-    "price": 476.5,
-    "name": "-Godgiven-"
+    "price": 477.3,
+    "name": "GREEN78"
   },
-  "promedio": 477.0,
+  "promedio": 477.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
