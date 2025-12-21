@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T18:17:00.562419",
-  "actualizado_vzla": "2025-12-21 14:17:00 -04",
+  "timestamp_utc": "2025-12-21T18:45:31.971206",
+  "actualizado_vzla": "2025-12-21 14:45:31 -04",
   "compra_segundo": {
-    "price": 475.999,
-    "name": "Winprox Exchange"
+    "price": 476.38,
+    "name": "ELGOCHOXCHANGE31"
   },
   "venta_maxima": {
-    "price": 476.0,
-    "name": "KillKeroy"
+    "price": 475.0,
+    "name": "Fakefk"
   },
-  "promedio": 476.0,
+  "promedio": 475.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
