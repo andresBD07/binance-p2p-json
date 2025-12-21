@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T13:59:56.688759",
-  "actualizado_vzla": "2025-12-21 09:59:56 -04",
+  "timestamp_utc": "2025-12-21T14:29:07.378850",
+  "actualizado_vzla": "2025-12-21 10:29:07 -04",
   "compra_segundo": {
     "price": 477.3,
-    "name": "CAMBIOS_WAY"
+    "name": "07-Transpor"
   },
   "venta_maxima": {
-    "price": 475.0,
-    "name": "talepagos"
+    "price": 474.0,
+    "name": "Marketplace66"
   },
-  "promedio": 476.15,
+  "promedio": 475.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
