@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T20:39:10.706094",
-  "actualizado_vzla": "2025-12-21 16:39:10 -04",
+  "timestamp_utc": "2025-12-21T20:52:21.657261",
+  "actualizado_vzla": "2025-12-21 16:52:21 -04",
   "compra_segundo": {
     "price": 477.0,
-    "name": "Guayoyoo"
+    "name": "Mas_veloz_P2P"
   },
   "venta_maxima": {
-    "price": 475.8,
+    "price": 476.7,
     "name": "hectoraltrader"
   },
-  "promedio": 476.4,
+  "promedio": 476.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
