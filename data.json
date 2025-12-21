@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T13:46:43.502029",
-  "actualizado_vzla": "2025-12-21 09:46:43 -04",
+  "timestamp_utc": "2025-12-21T13:59:56.688759",
+  "actualizado_vzla": "2025-12-21 09:59:56 -04",
   "compra_segundo": {
-    "price": 477.25,
-    "name": "robertmedinar"
+    "price": 477.3,
+    "name": "CAMBIOS_WAY"
   },
   "venta_maxima": {
     "price": 475.0,
     "name": "talepagos"
   },
-  "promedio": 476.12,
+  "promedio": 476.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
