@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T08:57:10.428598",
-  "actualizado_vzla": "2025-12-21 04:57:10 -04",
+  "timestamp_utc": "2025-12-21T09:28:50.960286",
+  "actualizado_vzla": "2025-12-21 05:28:50 -04",
   "compra_segundo": {
-    "price": 476.499,
-    "name": "EXDOMO"
+    "price": 476.0,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 468.0,
     "name": "cambioson"
   },
-  "promedio": 472.25,
+  "promedio": 472.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
