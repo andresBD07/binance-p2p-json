@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T21:34:19.202093",
-  "actualizado_vzla": "2025-12-21 17:34:19 -04",
+  "timestamp_utc": "2025-12-21T21:47:28.512089",
+  "actualizado_vzla": "2025-12-21 17:47:28 -04",
   "compra_segundo": {
-    "price": 477.499,
-    "name": "imgpayfast12"
+    "price": 477.4,
+    "name": "LuiggiTrader"
   },
   "venta_maxima": {
-    "price": 476.7,
-    "name": "GREEN78"
+    "price": 476.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 477.1,
+  "promedio": 476.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
