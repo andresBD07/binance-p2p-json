@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T17:15:36.458465",
-  "actualizado_vzla": "2025-12-21 13:15:36 -04",
+  "timestamp_utc": "2025-12-21T17:35:54.433207",
+  "actualizado_vzla": "2025-12-21 13:35:54 -04",
   "compra_segundo": {
-    "price": 476.299,
-    "name": "Perfect_Process"
+    "price": 475.899,
+    "name": "RapidEx369"
   },
   "venta_maxima": {
-    "price": 475.5,
-    "name": "GREEN78"
+    "price": 475.45,
+    "name": "USDTFASTTT"
   },
-  "promedio": 475.9,
+  "promedio": 475.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
