@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T07:48:38.766689",
-  "actualizado_vzla": "2025-12-21 03:48:38 -04",
+  "timestamp_utc": "2025-12-21T08:14:32.890348",
+  "actualizado_vzla": "2025-12-21 04:14:32 -04",
   "compra_segundo": {
-    "price": 476.9,
-    "name": "RushPay"
+    "price": 477.0,
+    "name": "Exotico"
   },
   "venta_maxima": {
     "price": 468.0,
     "name": "cambioson"
   },
-  "promedio": 472.45,
+  "promedio": 472.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
