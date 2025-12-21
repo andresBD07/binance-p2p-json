@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-21T05:50:17.620661",
-  "actualizado_vzla": "2025-12-21 01:50:17 -04",
+  "timestamp_utc": "2025-12-21T06:22:24.502532",
+  "actualizado_vzla": "2025-12-21 02:22:24 -04",
   "compra_segundo": {
-    "price": 476.7,
-    "name": "PrimeCripto"
+    "price": 477.0,
+    "name": "NUM3R1T0"
   },
   "venta_maxima": {
-    "price": 468.3,
-    "name": "Wis3Trading"
+    "price": 468.0,
+    "name": "cambioson"
   },
   "promedio": 472.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
