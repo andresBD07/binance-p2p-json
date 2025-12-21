@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T22:59:53.101201",
-  "actualizado_vzla": "2025-12-21 18:59:53 -04",
+  "timestamp_utc": "2025-12-21T23:27:41.054186",
+  "actualizado_vzla": "2025-12-21 19:27:41 -04",
   "compra_segundo": {
-    "price": 478.6,
-    "name": "Viamort"
+    "price": 478.995,
+    "name": "alexanderfl"
   },
   "venta_maxima": {
     "price": 477.5,
     "name": "GREEN78"
   },
-  "promedio": 478.05,
+  "promedio": 478.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
