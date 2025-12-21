@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T19:37:53.801778",
-  "actualizado_vzla": "2025-12-21 15:37:53 -04",
+  "timestamp_utc": "2025-12-21T19:51:03.673747",
+  "actualizado_vzla": "2025-12-21 15:51:03 -04",
   "compra_segundo": {
-    "price": 475.375,
-    "name": "Proverbios16_3"
+    "price": 475.638,
+    "name": "VzlaCoin"
   },
   "venta_maxima": {
-    "price": 475.6,
-    "name": "TAURUS85"
+    "price": 475.5,
+    "name": "Coinectado"
   },
-  "promedio": 475.49,
+  "promedio": 475.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
