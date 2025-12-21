@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-12-21T08:42:39.128567",
-  "actualizado_vzla": "2025-12-21 04:42:39 -04",
+  "timestamp_utc": "2025-12-21T08:57:10.428598",
+  "actualizado_vzla": "2025-12-21 04:57:10 -04",
   "compra_segundo": {
-    "price": 476.5,
-    "name": "CryptoSickoP2P"
+    "price": 476.499,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
     "price": 468.0,
