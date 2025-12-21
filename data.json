@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T16:51:44.930870",
-  "actualizado_vzla": "2025-12-21 12:51:44 -04",
+  "timestamp_utc": "2025-12-21T17:15:36.458465",
+  "actualizado_vzla": "2025-12-21 13:15:36 -04",
   "compra_segundo": {
-    "price": 476.75,
-    "name": "PagoRapido_P2P"
+    "price": 476.299,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 474.0,
-    "name": "Burdyn"
+    "price": 475.5,
+    "name": "GREEN78"
   },
-  "promedio": 475.38,
+  "promedio": 475.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
