@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T18:45:31.971206",
-  "actualizado_vzla": "2025-12-21 14:45:31 -04",
+  "timestamp_utc": "2025-12-21T18:58:24.865825",
+  "actualizado_vzla": "2025-12-21 14:58:24 -04",
   "compra_segundo": {
-    "price": 476.38,
-    "name": "ELGOCHOXCHANGE31"
+    "price": 476.0,
+    "name": "Bigwhale12"
   },
   "venta_maxima": {
-    "price": 475.0,
-    "name": "Fakefk"
+    "price": 475.5,
+    "name": "Coinectado"
   },
-  "promedio": 475.69,
+  "promedio": 475.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
