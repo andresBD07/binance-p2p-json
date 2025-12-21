@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T09:28:50.960286",
-  "actualizado_vzla": "2025-12-21 05:28:50 -04",
+  "timestamp_utc": "2025-12-21T09:45:05.376535",
+  "actualizado_vzla": "2025-12-21 05:45:05 -04",
   "compra_segundo": {
-    "price": 476.0,
-    "name": "Mero-Mero"
+    "price": 475.89,
+    "name": "SRexchanges"
   },
   "venta_maxima": {
     "price": 468.0,
     "name": "cambioson"
   },
-  "promedio": 472.0,
+  "promedio": 471.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
