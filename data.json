@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-21T20:52:21.657261",
-  "actualizado_vzla": "2025-12-21 16:52:21 -04",
+  "timestamp_utc": "2025-12-21T21:17:22.060808",
+  "actualizado_vzla": "2025-12-21 17:17:22 -04",
   "compra_segundo": {
     "price": 477.0,
-    "name": "Mas_veloz_P2P"
+    "name": "maikolmai"
   },
   "venta_maxima": {
     "price": 476.7,
-    "name": "hectoraltrader"
+    "name": "GREEN78"
   },
   "promedio": 476.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
