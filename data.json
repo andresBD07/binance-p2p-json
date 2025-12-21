@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T17:35:54.433207",
-  "actualizado_vzla": "2025-12-21 13:35:54 -04",
+  "timestamp_utc": "2025-12-21T17:49:14.692211",
+  "actualizado_vzla": "2025-12-21 13:49:14 -04",
   "compra_segundo": {
-    "price": 475.899,
-    "name": "RapidEx369"
+    "price": 475.8,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 475.45,
-    "name": "USDTFASTTT"
+    "price": 475.5,
+    "name": "RIVERMONEY"
   },
-  "promedio": 475.67,
+  "promedio": 475.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
