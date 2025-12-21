@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T05:33:50.931488",
-  "actualizado_vzla": "2025-12-21 01:33:50 -04",
+  "timestamp_utc": "2025-12-21T05:50:17.620661",
+  "actualizado_vzla": "2025-12-21 01:50:17 -04",
   "compra_segundo": {
-    "price": 476.399,
-    "name": "Thony"
+    "price": 476.7,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 469.1,
-    "name": "-Vallenatero-"
+    "price": 468.3,
+    "name": "Wis3Trading"
   },
-  "promedio": 472.75,
+  "promedio": 472.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
