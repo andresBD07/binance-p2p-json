@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T14:45:43.527819",
-  "actualizado_vzla": "2025-12-21 10:45:43 -04",
+  "timestamp_utc": "2025-12-21T14:58:38.774833",
+  "actualizado_vzla": "2025-12-21 10:58:38 -04",
   "compra_segundo": {
-    "price": 477.308,
-    "name": "RemesasEcp2p"
+    "price": 477.35,
+    "name": "Rappid0"
   },
   "venta_maxima": {
-    "price": 475.01,
-    "name": "Exotico"
+    "price": 476.0,
+    "name": "Cripto-Ale"
   },
-  "promedio": 476.16,
+  "promedio": 476.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
