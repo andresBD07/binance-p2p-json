@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-21T23:57:33.060144",
-  "actualizado_vzla": "2025-12-21 19:57:33 -04",
+  "timestamp_utc": "2025-12-22T02:25:47.839248",
+  "actualizado_vzla": "2025-12-21 22:25:47 -04",
   "compra_segundo": {
-    "price": 479.2,
-    "name": "Kembatrader"
+    "price": 482.5,
+    "name": "LeNary-"
   },
   "venta_maxima": {
-    "price": 478.3,
-    "name": "GREEN78"
+    "price": 479.5,
+    "name": "RONIN_COIN"
   },
-  "promedio": 478.75,
+  "promedio": 481.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
