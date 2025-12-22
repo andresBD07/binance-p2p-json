@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T21:59:11.001721",
-  "actualizado_vzla": "2025-12-22 17:59:11 -04",
+  "timestamp_utc": "2025-12-22T22:31:49.189060",
+  "actualizado_vzla": "2025-12-22 18:31:49 -04",
   "compra_segundo": {
-    "price": 486.68,
-    "name": "MorocotaKoin"
+    "price": 485.8,
+    "name": "MANON-P2P"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "C_Pagos"
+    "price": 487.5,
+    "name": "VECTURAFX"
   },
-  "promedio": 487.34,
+  "promedio": 486.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
