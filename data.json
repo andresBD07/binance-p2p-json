@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T09:37:50.794106",
-  "actualizado_vzla": "2025-12-22 05:37:50 -04",
+  "timestamp_utc": "2025-12-22T09:55:48.242721",
+  "actualizado_vzla": "2025-12-22 05:55:48 -04",
   "compra_segundo": {
-    "price": 492.9,
-    "name": "ELEUTROS"
+    "price": 490.0,
+    "name": "Ekxprees"
   },
   "venta_maxima": {
     "price": 479.0,
     "name": "AirExhanger"
   },
-  "promedio": 485.95,
+  "promedio": 484.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
