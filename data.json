@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T13:06:32.080780",
-  "actualizado_vzla": "2025-12-22 09:06:32 -04",
+  "timestamp_utc": "2025-12-22T13:46:22.591697",
+  "actualizado_vzla": "2025-12-22 09:46:22 -04",
   "compra_segundo": {
-    "price": 479.09,
-    "name": "Blockchain-Experts"
+    "price": 478.48,
+    "name": "Keria23"
   },
   "venta_maxima": {
-    "price": 480.0,
-    "name": "-Godgiven-"
+    "price": 481.0,
+    "name": "GREEN78"
   },
-  "promedio": 479.54,
+  "promedio": 479.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
