@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T08:57:29.790187",
-  "actualizado_vzla": "2025-12-22 04:57:29 -04",
+  "timestamp_utc": "2025-12-22T09:37:50.794106",
+  "actualizado_vzla": "2025-12-22 05:37:50 -04",
   "compra_segundo": {
-    "price": 494.49,
-    "name": "Facd90"
+    "price": 492.9,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
     "price": 479.0,
     "name": "AirExhanger"
   },
-  "promedio": 486.75,
+  "promedio": 485.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
