@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T11:34:30.699533",
-  "actualizado_vzla": "2025-12-22 07:34:30 -04",
+  "timestamp_utc": "2025-12-22T11:47:41.528874",
+  "actualizado_vzla": "2025-12-22 07:47:41 -04",
   "compra_segundo": {
-    "price": 484.8,
-    "name": "Open-cambios"
+    "price": 483.499,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 481.0,
+    "price": 480.0,
     "name": "-Godgiven-"
   },
-  "promedio": 482.9,
+  "promedio": 481.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
