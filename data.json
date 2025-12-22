@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T13:59:26.889716",
-  "actualizado_vzla": "2025-12-22 09:59:26 -04",
+  "timestamp_utc": "2025-12-22T14:33:01.131568",
+  "actualizado_vzla": "2025-12-22 10:33:01 -04",
   "compra_segundo": {
-    "price": 478.0,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 479.0,
+    "name": "Yeninr"
   },
   "venta_maxima": {
-    "price": 483.0,
-    "name": "Kstore7"
+    "price": 484.25,
+    "name": "Manda2"
   },
-  "promedio": 480.5,
+  "promedio": 481.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
