@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T05:13:41.308188",
-  "actualizado_vzla": "2025-12-22 01:13:41 -04",
+  "timestamp_utc": "2025-12-22T05:42:56.799342",
+  "actualizado_vzla": "2025-12-22 01:42:56 -04",
   "compra_segundo": {
-    "price": 492.5,
-    "name": "aerbcambio"
+    "price": 493.8,
+    "name": "Carlos Bello Trader"
   },
   "venta_maxima": {
-    "price": 479.1,
-    "name": "USDTFASTTT"
+    "price": 479.55,
+    "name": "-Vallenatero-"
   },
-  "promedio": 485.8,
+  "promedio": 486.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
