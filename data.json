@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T21:46:14.302691",
-  "actualizado_vzla": "2025-12-22 17:46:14 -04",
+  "timestamp_utc": "2025-12-22T21:59:11.001721",
+  "actualizado_vzla": "2025-12-22 17:59:11 -04",
   "compra_segundo": {
-    "price": 486.0,
-    "name": "FRANFLASH8"
+    "price": 486.68,
+    "name": "MorocotaKoin"
   },
   "venta_maxima": {
-    "price": 488.001,
-    "name": "VECTURAFX"
+    "price": 488.0,
+    "name": "C_Pagos"
   },
-  "promedio": 487.0,
+  "promedio": 487.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
