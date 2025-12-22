@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T21:11:11.018155",
-  "actualizado_vzla": "2025-12-22 17:11:11 -04",
+  "timestamp_utc": "2025-12-22T21:32:25.632465",
+  "actualizado_vzla": "2025-12-22 17:32:25 -04",
   "compra_segundo": {
-    "price": 485.45,
-    "name": "HyperCambios_1Millon"
+    "price": 486.0,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 488.002,
-    "name": "Whale-SharkCrypto"
+    "price": 488.0,
+    "name": "C_Pagos"
   },
-  "promedio": 486.73,
+  "promedio": 487.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
