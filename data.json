@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T05:56:22.051317",
-  "actualizado_vzla": "2025-12-22 01:56:22 -04",
+  "timestamp_utc": "2025-12-22T06:47:43.854018",
+  "actualizado_vzla": "2025-12-22 02:47:43 -04",
   "compra_segundo": {
-    "price": 493.999,
-    "name": "CambiosOS24H"
+    "price": 494.999,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 479.51,
-    "name": "-Vallenatero-"
+    "price": 478.0,
+    "name": "AntaresRI"
   },
-  "promedio": 486.75,
+  "promedio": 486.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
