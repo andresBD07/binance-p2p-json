@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T11:47:41.528874",
-  "actualizado_vzla": "2025-12-22 07:47:41 -04",
+  "timestamp_utc": "2025-12-22T12:17:44.903063",
+  "actualizado_vzla": "2025-12-22 08:17:44 -04",
   "compra_segundo": {
-    "price": 483.499,
-    "name": "Latinlf"
+    "price": 480.62,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
-    "price": 480.0,
+    "price": 479.0,
     "name": "-Godgiven-"
   },
-  "promedio": 481.75,
+  "promedio": 479.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
