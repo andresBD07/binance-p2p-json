@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T12:17:44.903063",
-  "actualizado_vzla": "2025-12-22 08:17:44 -04",
+  "timestamp_utc": "2025-12-22T13:06:32.080780",
+  "actualizado_vzla": "2025-12-22 09:06:32 -04",
   "compra_segundo": {
-    "price": 480.62,
-    "name": "JesusCrip"
+    "price": 479.09,
+    "name": "Blockchain-Experts"
   },
   "venta_maxima": {
-    "price": 479.0,
+    "price": 480.0,
     "name": "-Godgiven-"
   },
-  "promedio": 479.81,
+  "promedio": 479.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
