@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-22T20:30:31.906530",
-  "actualizado_vzla": "2025-12-22 16:30:31 -04",
+  "timestamp_utc": "2025-12-22T20:49:08.054353",
+  "actualizado_vzla": "2025-12-22 16:49:08 -04",
   "compra_segundo": {
-    "price": 485.5,
-    "name": "Ricardo"
+    "price": 485.0,
+    "name": "PayBin07"
   },
   "venta_maxima": {
-    "price": 487.0,
-    "name": "C_Pagos"
+    "price": 487.501,
+    "name": "VECTURAFX"
   },
   "promedio": 486.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
