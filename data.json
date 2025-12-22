@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T17:45:47.459911",
-  "actualizado_vzla": "2025-12-22 13:45:47 -04",
+  "timestamp_utc": "2025-12-22T17:58:45.583296",
+  "actualizado_vzla": "2025-12-22 13:58:45 -04",
   "compra_segundo": {
-    "price": 486.495,
-    "name": "Light Transaction Essentially "
+    "price": 486.44,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
     "price": 490.0,
     "name": "安全与信任"
   },
-  "promedio": 488.25,
+  "promedio": 488.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
