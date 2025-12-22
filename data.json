@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T09:55:48.242721",
-  "actualizado_vzla": "2025-12-22 05:55:48 -04",
+  "timestamp_utc": "2025-12-22T10:31:56.209637",
+  "actualizado_vzla": "2025-12-22 06:31:56 -04",
   "compra_segundo": {
-    "price": 490.0,
-    "name": "Ekxprees"
+    "price": 488.9,
+    "name": "CRIPTODIGITALNV"
   },
   "venta_maxima": {
     "price": 479.0,
     "name": "AirExhanger"
   },
-  "promedio": 484.5,
+  "promedio": 483.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
