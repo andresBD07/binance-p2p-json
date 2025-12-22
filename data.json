@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-22T10:51:51.447503",
-  "actualizado_vzla": "2025-12-22 06:51:51 -04",
+  "timestamp_utc": "2025-12-22T11:17:15.711481",
+  "actualizado_vzla": "2025-12-22 07:17:15 -04",
   "compra_segundo": {
-    "price": 487.9,
-    "name": "Girasolee"
+    "price": 485.797,
+    "name": "EL_MARA_COMERCIOFAST"
   },
   "venta_maxima": {
-    "price": 479.0,
-    "name": "AirExhanger"
+    "price": 479.7,
+    "name": "Quick Payment"
   },
-  "promedio": 483.45,
+  "promedio": 482.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
