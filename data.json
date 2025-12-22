@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-22T21:32:25.632465",
-  "actualizado_vzla": "2025-12-22 17:32:25 -04",
+  "timestamp_utc": "2025-12-22T21:46:14.302691",
+  "actualizado_vzla": "2025-12-22 17:46:14 -04",
   "compra_segundo": {
     "price": 486.0,
     "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "C_Pagos"
+    "price": 488.001,
+    "name": "VECTURAFX"
   },
   "promedio": 487.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
