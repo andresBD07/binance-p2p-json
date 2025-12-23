@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T11:32:59.382488",
-  "actualizado_vzla": "2025-12-23 07:32:59 -04",
+  "timestamp_utc": "2025-12-23T11:47:17.457624",
+  "actualizado_vzla": "2025-12-23 07:47:17 -04",
   "compra_segundo": {
-    "price": 488.2,
-    "name": "Hgregor"
+    "price": 487.05,
+    "name": "WEAPOM"
   },
   "venta_maxima": {
-    "price": 485.95,
-    "name": "famerica"
+    "price": 485.9,
+    "name": "talepagos"
   },
-  "promedio": 487.07,
+  "promedio": 486.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
