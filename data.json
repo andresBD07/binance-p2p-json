@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T10:49:22.342837",
-  "actualizado_vzla": "2025-12-23 06:49:22 -04",
+  "timestamp_utc": "2025-12-23T11:12:28.899793",
+  "actualizado_vzla": "2025-12-23 07:12:28 -04",
   "compra_segundo": {
-    "price": 489.499,
-    "name": "David-0199"
+    "price": 488.811,
+    "name": "rapidos15"
   },
   "venta_maxima": {
-    "price": 484.0,
+    "price": 485.9,
     "name": "talepagos"
   },
-  "promedio": 486.75,
+  "promedio": 487.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
