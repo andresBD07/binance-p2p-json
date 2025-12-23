@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T16:39:02.676278",
-  "actualizado_vzla": "2025-12-23 12:39:02 -04",
+  "timestamp_utc": "2025-12-23T16:59:24.119517",
+  "actualizado_vzla": "2025-12-23 12:59:24 -04",
   "compra_segundo": {
-    "price": 483.69,
-    "name": "EXCHANGE_P2P_RAPIDO"
+    "price": 483.05,
+    "name": "Bernaaaaa"
   },
   "venta_maxima": {
-    "price": 486.6,
-    "name": "CamburPlus"
+    "price": 485.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 485.14,
+  "promedio": 484.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
