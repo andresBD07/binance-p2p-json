@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T13:02:54.267986",
-  "actualizado_vzla": "2025-12-23 09:02:54 -04",
+  "timestamp_utc": "2025-12-23T13:46:15.193933",
+  "actualizado_vzla": "2025-12-23 09:46:15 -04",
   "compra_segundo": {
-    "price": 485.287,
-    "name": "Orlozada"
+    "price": 486.5,
+    "name": "Aalcripto"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "-Godgiven-"
+    "price": 485.5,
+    "name": "VECTURAFX"
   },
-  "promedio": 486.64,
+  "promedio": 486.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
