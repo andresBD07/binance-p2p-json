@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-23T00:48:39.489167",
-  "actualizado_vzla": "2025-12-22 20:48:39 -04",
+  "timestamp_utc": "2025-12-23T02:49:24.278111",
+  "actualizado_vzla": "2025-12-22 22:49:24 -04",
   "compra_segundo": {
-    "price": 487.86,
-    "name": "Traderp2pVzla"
+    "price": 489.35,
+    "name": "leosolox"
   },
   "venta_maxima": {
-    "price": 487.5,
-    "name": "-Godgiven-"
+    "price": 486.0,
+    "name": "安全与信任"
   },
   "promedio": 487.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
