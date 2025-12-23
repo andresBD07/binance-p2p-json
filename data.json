@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T17:49:07.391210",
-  "actualizado_vzla": "2025-12-23 13:49:07 -04",
+  "timestamp_utc": "2025-12-23T18:18:47.526610",
+  "actualizado_vzla": "2025-12-23 14:18:47 -04",
   "compra_segundo": {
-    "price": 481.0,
-    "name": "BallGroup"
+    "price": 478.88,
+    "name": "AvaStark"
   },
   "venta_maxima": {
-    "price": 483.5,
-    "name": "-Godgiven-"
+    "price": 486.0,
+    "name": "安全与信任"
   },
-  "promedio": 482.25,
+  "promedio": 482.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
