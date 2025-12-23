@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T21:46:49.534268",
-  "actualizado_vzla": "2025-12-23 17:46:49 -04",
+  "timestamp_utc": "2025-12-23T21:59:42.200243",
+  "actualizado_vzla": "2025-12-23 17:59:42 -04",
   "compra_segundo": {
-    "price": 482.5,
-    "name": "GATESRIO"
+    "price": 482.8,
+    "name": "_Dinastia_"
   },
   "venta_maxima": {
     "price": 488.0,
     "name": "安全与信任"
   },
-  "promedio": 485.25,
+  "promedio": 485.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
