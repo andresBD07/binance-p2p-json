@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T04:44:03.021925",
-  "actualizado_vzla": "2025-12-23 00:44:03 -04",
+  "timestamp_utc": "2025-12-23T05:12:23.893905",
+  "actualizado_vzla": "2025-12-23 01:12:23 -04",
   "compra_segundo": {
-    "price": 490.5,
-    "name": "Cambios77"
+    "price": 491.1,
+    "name": "Maval_Exchanges"
   },
   "venta_maxima": {
-    "price": 485.8,
-    "name": "talepagos"
+    "price": 483.102,
+    "name": "UltimateExchange91"
   },
-  "promedio": 488.15,
+  "promedio": 487.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
