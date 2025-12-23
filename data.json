@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T12:00:05.180534",
-  "actualizado_vzla": "2025-12-23 08:00:05 -04",
+  "timestamp_utc": "2025-12-23T13:02:54.267986",
+  "actualizado_vzla": "2025-12-23 09:02:54 -04",
   "compra_segundo": {
-    "price": 487.0,
-    "name": "Vitol"
+    "price": 485.287,
+    "name": "Orlozada"
   },
   "venta_maxima": {
-    "price": 485.9,
-    "name": "talepagos"
+    "price": 488.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 486.45,
+  "promedio": 486.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
