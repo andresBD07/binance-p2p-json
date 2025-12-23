@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T11:12:28.899793",
-  "actualizado_vzla": "2025-12-23 07:12:28 -04",
+  "timestamp_utc": "2025-12-23T11:32:59.382488",
+  "actualizado_vzla": "2025-12-23 07:32:59 -04",
   "compra_segundo": {
-    "price": 488.811,
-    "name": "rapidos15"
+    "price": 488.2,
+    "name": "Hgregor"
   },
   "venta_maxima": {
-    "price": 485.9,
-    "name": "talepagos"
+    "price": 485.95,
+    "name": "famerica"
   },
-  "promedio": 487.36,
+  "promedio": 487.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
