@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-23T22:30:51.067561",
-  "actualizado_vzla": "2025-12-23 18:30:51 -04",
+  "timestamp_utc": "2025-12-23T22:47:37.800943",
+  "actualizado_vzla": "2025-12-23 18:47:37 -04",
   "compra_segundo": {
     "price": 484.0,
-    "name": "TerraG0109"
+    "name": "maikolmai"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "安全与信任"
+    "price": 488.001,
+    "name": "-Yotei-"
   },
   "promedio": 486.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
