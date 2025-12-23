@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T21:59:42.200243",
-  "actualizado_vzla": "2025-12-23 17:59:42 -04",
+  "timestamp_utc": "2025-12-23T22:30:51.067561",
+  "actualizado_vzla": "2025-12-23 18:30:51 -04",
   "compra_segundo": {
-    "price": 482.8,
-    "name": "_Dinastia_"
+    "price": 484.0,
+    "name": "TerraG0109"
   },
   "venta_maxima": {
     "price": 488.0,
     "name": "安全与信任"
   },
-  "promedio": 485.4,
+  "promedio": 486.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
