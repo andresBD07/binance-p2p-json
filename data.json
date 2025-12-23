@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T19:14:28.199594",
-  "actualizado_vzla": "2025-12-23 15:14:28 -04",
+  "timestamp_utc": "2025-12-23T19:31:32.630599",
+  "actualizado_vzla": "2025-12-23 15:31:32 -04",
   "compra_segundo": {
-    "price": 478.3,
-    "name": "AngelysGr"
+    "price": 479.29,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
-    "price": 486.0,
+    "price": 486.5,
     "name": "安全与信任"
   },
-  "promedio": 482.15,
+  "promedio": 482.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
