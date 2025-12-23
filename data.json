@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T09:34:45.736801",
-  "actualizado_vzla": "2025-12-23 05:34:45 -04",
+  "timestamp_utc": "2025-12-23T09:52:54.740542",
+  "actualizado_vzla": "2025-12-23 05:52:54 -04",
   "compra_segundo": {
-    "price": 490.48,
-    "name": "METODICO"
+    "price": 490.089,
+    "name": "FastChangeSafeChange"
   },
   "venta_maxima": {
-    "price": 478.005,
-    "name": "圎Sushi"
+    "price": 479.011,
+    "name": "David-0199"
   },
-  "promedio": 484.24,
+  "promedio": 484.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
