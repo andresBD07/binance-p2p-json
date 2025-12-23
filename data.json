@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T03:56:36.997281",
-  "actualizado_vzla": "2025-12-22 23:56:37 -04",
+  "timestamp_utc": "2025-12-23T04:44:03.021925",
+  "actualizado_vzla": "2025-12-23 00:44:03 -04",
   "compra_segundo": {
-    "price": 489.9,
-    "name": "ZeusRawr"
+    "price": 490.5,
+    "name": "Cambios77"
   },
   "venta_maxima": {
     "price": 485.8,
     "name": "talepagos"
   },
-  "promedio": 487.85,
+  "promedio": 488.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
