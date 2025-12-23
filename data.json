@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-23T07:13:52.481484",
-  "actualizado_vzla": "2025-12-23 03:13:52 -04",
+  "timestamp_utc": "2025-12-23T07:39:41.705344",
+  "actualizado_vzla": "2025-12-23 03:39:41 -04",
   "compra_segundo": {
     "price": 491.9,
     "name": "VelkanVe"
   },
   "venta_maxima": {
     "price": 478.0,
-    "name": "c_s_"
+    "name": "NUM3R1T0"
   },
   "promedio": 484.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
