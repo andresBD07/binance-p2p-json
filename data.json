@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T23:28:38.428604",
-  "actualizado_vzla": "2025-12-23 19:28:38 -04",
+  "timestamp_utc": "2025-12-23T23:45:18.546411",
+  "actualizado_vzla": "2025-12-23 19:45:18 -04",
   "compra_segundo": {
-    "price": 485.99,
-    "name": "criptogene01"
+    "price": 486.6,
+    "name": "racaste"
   },
   "venta_maxima": {
     "price": 489.0,
     "name": "-Godgiven-"
   },
-  "promedio": 487.5,
+  "promedio": 487.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
