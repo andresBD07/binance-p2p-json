@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T14:33:43.986087",
-  "actualizado_vzla": "2025-12-23 10:33:43 -04",
+  "timestamp_utc": "2025-12-23T14:53:00.963077",
+  "actualizado_vzla": "2025-12-23 10:53:00 -04",
   "compra_segundo": {
-    "price": 485.9,
-    "name": "ElAutentico"
+    "price": 485.19,
+    "name": "SanMiguelArc"
   },
   "venta_maxima": {
-    "price": 486.001,
+    "price": 484.5,
     "name": "VECTURAFX"
   },
-  "promedio": 485.95,
+  "promedio": 484.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
