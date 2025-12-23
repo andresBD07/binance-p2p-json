@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T18:50:43.340920",
-  "actualizado_vzla": "2025-12-23 14:50:43 -04",
+  "timestamp_utc": "2025-12-23T19:14:28.199594",
+  "actualizado_vzla": "2025-12-23 15:14:28 -04",
   "compra_segundo": {
-    "price": 478.0,
-    "name": "1PIECE-BLESS"
+    "price": 478.3,
+    "name": "AngelysGr"
   },
   "venta_maxima": {
-    "price": 485.5,
+    "price": 486.0,
     "name": "安全与信任"
   },
-  "promedio": 481.75,
+  "promedio": 482.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
