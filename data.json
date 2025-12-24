@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T16:59:02.972023",
-  "actualizado_vzla": "2025-12-24 12:59:02 -04",
+  "timestamp_utc": "2025-12-24T17:27:52.354400",
+  "actualizado_vzla": "2025-12-24 13:27:52 -04",
   "compra_segundo": {
-    "price": 483.09,
-    "name": "Mero-Mero"
+    "price": 484.75,
+    "name": "CambiaFast"
   },
   "venta_maxima": {
-    "price": 497.2,
-    "name": "WorldTradeinCripto"
+    "price": 493.0,
+    "name": "安全与信任"
   },
-  "promedio": 490.14,
+  "promedio": 488.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
