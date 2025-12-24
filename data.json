@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T14:26:30.048330",
-  "actualizado_vzla": "2025-12-24 10:26:30 -04",
+  "timestamp_utc": "2025-12-24T14:46:58.437646",
+  "actualizado_vzla": "2025-12-24 10:46:58 -04",
   "compra_segundo": {
-    "price": 488.911,
-    "name": "rapidos15"
+    "price": 488.834,
+    "name": "JairGOVA贾尔"
   },
   "venta_maxima": {
     "price": 493.0,
     "name": "安全与信任"
   },
-  "promedio": 490.96,
+  "promedio": 490.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
