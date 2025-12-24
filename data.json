@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-23T23:58:33.302206",
-  "actualizado_vzla": "2025-12-23 19:58:33 -04",
+  "timestamp_utc": "2025-12-24T02:19:32.188155",
+  "actualizado_vzla": "2025-12-23 22:19:32 -04",
   "compra_segundo": {
-    "price": 487.0,
-    "name": "CazadorDeBallenas"
+    "price": 489.899,
+    "name": "Tether Premium "
   },
   "venta_maxima": {
     "price": 491.0,
-    "name": "COMPESOS"
+    "name": "-Godgiven-"
   },
-  "promedio": 489.0,
+  "promedio": 490.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
