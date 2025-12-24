@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T13:00:01.047670",
-  "actualizado_vzla": "2025-12-24 09:00:01 -04",
+  "timestamp_utc": "2025-12-24T13:39:15.993089",
+  "actualizado_vzla": "2025-12-24 09:39:16 -04",
   "compra_segundo": {
-    "price": 488.198,
-    "name": "Ramoncho2020"
+    "price": 488.38,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 491.0,
-    "name": "CamburPlus"
+    "price": 493.0,
+    "name": "安全与信任"
   },
-  "promedio": 489.6,
+  "promedio": 490.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
