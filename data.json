@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T09:54:52.288222",
-  "actualizado_vzla": "2025-12-24 05:54:52 -04",
+  "timestamp_utc": "2025-12-24T10:28:50.419309",
+  "actualizado_vzla": "2025-12-24 06:28:50 -04",
   "compra_segundo": {
-    "price": 490.5,
-    "name": "Abi_Cambios"
+    "price": 489.49,
+    "name": "Dkans21"
   },
   "venta_maxima": {
-    "price": 483.55,
-    "name": "BerracoT"
+    "price": 484.0,
+    "name": "RogerDeakins"
   },
-  "promedio": 487.02,
+  "promedio": 486.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
