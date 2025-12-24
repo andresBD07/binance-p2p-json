@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T20:56:53.927586",
-  "actualizado_vzla": "2025-12-24 16:56:53 -04",
+  "timestamp_utc": "2025-12-24T21:26:25.608332",
+  "actualizado_vzla": "2025-12-24 17:26:25 -04",
   "compra_segundo": {
-    "price": 488.0,
-    "name": "GokuExchange"
+    "price": 487.8,
+    "name": "ZenTrades"
   },
   "venta_maxima": {
     "price": 492.5,
     "name": "安全与信任"
   },
-  "promedio": 490.25,
+  "promedio": 490.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
