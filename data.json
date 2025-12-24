@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T14:46:58.437646",
-  "actualizado_vzla": "2025-12-24 10:46:58 -04",
+  "timestamp_utc": "2025-12-24T14:59:56.773023",
+  "actualizado_vzla": "2025-12-24 10:59:56 -04",
   "compra_segundo": {
-    "price": 488.834,
-    "name": "JairGOVA贾尔"
+    "price": 487.98,
+    "name": "swap-nathi "
   },
   "venta_maxima": {
     "price": 493.0,
     "name": "安全与信任"
   },
-  "promedio": 490.92,
+  "promedio": 490.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
