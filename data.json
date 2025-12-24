@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T04:56:44.571825",
-  "actualizado_vzla": "2025-12-24 00:56:44 -04",
+  "timestamp_utc": "2025-12-24T05:33:41.593989",
+  "actualizado_vzla": "2025-12-24 01:33:41 -04",
   "compra_segundo": {
-    "price": 490.8,
-    "name": "_cambioBTC"
+    "price": 491.0,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 487.2,
-    "name": "carluchinl"
+    "price": 484.751,
+    "name": "火PhoenixRising"
   },
-  "promedio": 489.0,
+  "promedio": 487.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
