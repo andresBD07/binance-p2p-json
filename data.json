@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-24T06:59:28.129862",
-  "actualizado_vzla": "2025-12-24 02:59:28 -04",
+  "timestamp_utc": "2025-12-24T07:32:33.266662",
+  "actualizado_vzla": "2025-12-24 03:32:33 -04",
   "compra_segundo": {
-    "price": 491.0,
-    "name": "ComercioJRG"
+    "price": 491.4,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
     "price": 483.55,
     "name": "BerracoT"
   },
-  "promedio": 487.27,
+  "promedio": 487.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
