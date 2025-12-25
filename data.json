@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T05:52:34.277622",
-  "actualizado_vzla": "2025-12-25 01:52:34 -04",
+  "timestamp_utc": "2025-12-25T06:33:30.893163",
+  "actualizado_vzla": "2025-12-25 02:33:30 -04",
   "compra_segundo": {
-    "price": 494.5,
-    "name": "Mero-Mero"
+    "price": 494.9,
+    "name": "CoinPilot"
   },
   "venta_maxima": {
-    "price": 488.0,
-    "name": "Miranda "
+    "price": 487.2,
+    "name": "BerracoT"
   },
-  "promedio": 491.25,
+  "promedio": 491.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
