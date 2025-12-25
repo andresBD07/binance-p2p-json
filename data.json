@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T18:40:11.704799",
-  "actualizado_vzla": "2025-12-25 14:40:11 -04",
+  "timestamp_utc": "2025-12-25T18:58:20.087968",
+  "actualizado_vzla": "2025-12-25 14:58:20 -04",
   "compra_segundo": {
-    "price": 509.8,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 511.399,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 504.5,
-    "name": "Neiker-Exchange"
+    "price": 507.0,
+    "name": "安全与信任"
   },
-  "promedio": 507.15,
+  "promedio": 509.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
