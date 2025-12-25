@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T11:54:55.203904",
-  "actualizado_vzla": "2025-12-25 07:54:55 -04",
+  "timestamp_utc": "2025-12-25T12:54:18.071629",
+  "actualizado_vzla": "2025-12-25 08:54:18 -04",
   "compra_segundo": {
-    "price": 493.0,
-    "name": "Tu_Cripto_Amiga"
+    "price": 491.6,
+    "name": "AREPA P2P"
   },
   "venta_maxima": {
-    "price": 487.2,
-    "name": "BerracoT"
+    "price": 485.7,
+    "name": "Summer90"
   },
-  "promedio": 490.1,
+  "promedio": 488.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
