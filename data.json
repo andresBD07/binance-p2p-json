@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T14:21:09.742389",
-  "actualizado_vzla": "2025-12-25 10:21:09 -04",
+  "timestamp_utc": "2025-12-25T14:42:36.751462",
+  "actualizado_vzla": "2025-12-25 10:42:36 -04",
   "compra_segundo": {
-    "price": 495.0,
-    "name": "AllDayTrade"
+    "price": 499.695,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
-    "price": 492.0,
+    "price": 495.5,
     "name": "Godisgift"
   },
-  "promedio": 493.5,
+  "promedio": 497.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
