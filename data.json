@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T08:58:55.073736",
-  "actualizado_vzla": "2025-12-25 04:58:55 -04",
+  "timestamp_utc": "2025-12-25T09:33:06.965936",
+  "actualizado_vzla": "2025-12-25 05:33:06 -04",
   "compra_segundo": {
-    "price": 494.5,
-    "name": "Mero-Mero"
+    "price": 494.2,
+    "name": "Lillie05"
   },
   "venta_maxima": {
     "price": 487.2,
     "name": "BerracoT"
   },
-  "promedio": 490.85,
+  "promedio": 490.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
