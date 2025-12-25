@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T09:50:01.399520",
-  "actualizado_vzla": "2025-12-25 05:50:01 -04",
+  "timestamp_utc": "2025-12-25T10:15:42.286955",
+  "actualizado_vzla": "2025-12-25 06:15:42 -04",
   "compra_segundo": {
-    "price": 493.999,
-    "name": "Criptoseed"
+    "price": 492.99,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
     "price": 487.2,
     "name": "BerracoT"
   },
-  "promedio": 490.6,
+  "promedio": 490.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
