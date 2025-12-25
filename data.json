@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T07:30:47.895933",
-  "actualizado_vzla": "2025-12-25 03:30:47 -04",
+  "timestamp_utc": "2025-12-25T07:46:08.534212",
+  "actualizado_vzla": "2025-12-25 03:46:08 -04",
   "compra_segundo": {
-    "price": 494.8,
-    "name": "usdtking"
+    "price": 494.9,
+    "name": "CoinPilot"
   },
   "venta_maxima": {
     "price": 487.2,
     "name": "BerracoT"
   },
-  "promedio": 491.0,
+  "promedio": 491.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
