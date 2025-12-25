@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T02:21:51.190200",
-  "actualizado_vzla": "2025-12-24 22:21:51 -04",
+  "timestamp_utc": "2025-12-25T03:47:08.852059",
+  "actualizado_vzla": "2025-12-24 23:47:08 -04",
   "compra_segundo": {
-    "price": 492.8,
-    "name": "Lillie05"
+    "price": 494.34,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
-    "price": 488.1,
+    "price": 488.0,
     "name": "Miranda "
   },
-  "promedio": 490.45,
+  "promedio": 491.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
