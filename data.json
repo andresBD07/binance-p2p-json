@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T17:25:52.239017",
-  "actualizado_vzla": "2025-12-25 13:25:52 -04",
+  "timestamp_utc": "2025-12-25T17:43:56.057347",
+  "actualizado_vzla": "2025-12-25 13:43:56 -04",
   "compra_segundo": {
-    "price": 501.0,
-    "name": "Neiker-Exchange"
+    "price": 500.99,
+    "name": "OLA-cHANGE"
   },
   "venta_maxima": {
-    "price": 496.288,
-    "name": "ZubzeroCooL"
+    "price": 497.0,
+    "name": "yrptkv"
   },
-  "promedio": 498.64,
+  "promedio": 499.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
