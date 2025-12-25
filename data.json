@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T23:45:06.468615",
-  "actualizado_vzla": "2025-12-25 19:45:06 -04",
+  "timestamp_utc": "2025-12-25T23:58:23.073445",
+  "actualizado_vzla": "2025-12-25 19:58:23 -04",
   "compra_segundo": {
-    "price": 507.995,
-    "name": "Latinlf"
+    "price": 507.8,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 503.22,
-    "name": "CORPORACION_YYSE-25"
+    "price": 504.0,
+    "name": "yrptkv"
   },
-  "promedio": 505.61,
+  "promedio": 505.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
