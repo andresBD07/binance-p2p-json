@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T19:52:51.381843",
-  "actualizado_vzla": "2025-12-25 15:52:51 -04",
+  "timestamp_utc": "2025-12-25T20:24:10.140708",
+  "actualizado_vzla": "2025-12-25 16:24:10 -04",
   "compra_segundo": {
-    "price": 510.999,
-    "name": "Listoexpress"
+    "price": 511.4,
+    "name": "Trader-RRR"
   },
   "venta_maxima": {
     "price": 510.0,
     "name": "安全与信任"
   },
-  "promedio": 510.5,
+  "promedio": 510.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
