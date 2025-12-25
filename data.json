@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T06:33:30.893163",
-  "actualizado_vzla": "2025-12-25 02:33:30 -04",
+  "timestamp_utc": "2025-12-25T06:58:58.447038",
+  "actualizado_vzla": "2025-12-25 02:58:58 -04",
   "compra_segundo": {
-    "price": 494.9,
-    "name": "CoinPilot"
+    "price": 494.2,
+    "name": "Lillie05"
   },
   "venta_maxima": {
     "price": 487.2,
     "name": "BerracoT"
   },
-  "promedio": 491.05,
+  "promedio": 490.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
