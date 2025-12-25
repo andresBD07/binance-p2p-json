@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T20:57:47.399504",
-  "actualizado_vzla": "2025-12-25 16:57:47 -04",
+  "timestamp_utc": "2025-12-25T21:27:02.301592",
+  "actualizado_vzla": "2025-12-25 17:27:02 -04",
   "compra_segundo": {
-    "price": 511.8,
-    "name": "MANON-P2P"
+    "price": 511.099,
+    "name": "B-P2P"
   },
   "venta_maxima": {
-    "price": 506.267,
-    "name": "ProsPlayer"
+    "price": 509.0,
+    "name": "Kstore7"
   },
-  "promedio": 509.03,
+  "promedio": 510.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
