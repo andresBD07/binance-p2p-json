@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T21:56:13.183258",
-  "actualizado_vzla": "2025-12-25 17:56:13 -04",
+  "timestamp_utc": "2025-12-25T22:28:21.539048",
+  "actualizado_vzla": "2025-12-25 18:28:21 -04",
   "compra_segundo": {
-    "price": 510.3,
-    "name": "MANON-P2P"
+    "price": 509.998,
+    "name": "Wil2589"
   },
   "venta_maxima": {
-    "price": 507.5,
-    "name": "DolceGabbana"
+    "price": 506.0,
+    "name": "USDTpulso"
   },
-  "promedio": 508.9,
+  "promedio": 508.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
