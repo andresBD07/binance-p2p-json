@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-25T14:55:48.716218",
-  "actualizado_vzla": "2025-12-25 10:55:48 -04",
+  "timestamp_utc": "2025-12-25T15:28:38.089322",
+  "actualizado_vzla": "2025-12-25 11:28:38 -04",
   "compra_segundo": {
-    "price": 503.0,
-    "name": "wilcambios"
+    "price": 516.45,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
-    "price": 500.0,
+    "price": 510.0,
     "name": "Godisgift"
   },
-  "promedio": 501.5,
+  "promedio": 513.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
