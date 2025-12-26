@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T16:58:59.819034",
-  "actualizado_vzla": "2025-12-26 12:58:59 -04",
+  "timestamp_utc": "2025-12-26T17:28:03.487658",
+  "actualizado_vzla": "2025-12-26 13:28:03 -04",
   "compra_segundo": {
-    "price": 526.0,
-    "name": "ADLRExpress"
+    "price": 525.45,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 525.8,
-    "name": "SasukeTrader"
+    "price": 526.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 525.9,
+  "promedio": 525.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
