@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T22:28:47.319206",
-  "actualizado_vzla": "2025-12-26 18:28:47 -04",
+  "timestamp_utc": "2025-12-26T22:47:15.756744",
+  "actualizado_vzla": "2025-12-26 18:47:15 -04",
   "compra_segundo": {
-    "price": 542.85,
-    "name": "Qwer77"
+    "price": 544.0,
+    "name": "TheKosT"
   },
   "venta_maxima": {
-    "price": 543.0,
-    "name": "安全与信任"
+    "price": 548.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 542.92,
+  "promedio": 546.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
