@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T02:20:36.819087",
-  "actualizado_vzla": "2025-12-25 22:20:36 -04",
+  "timestamp_utc": "2025-12-26T03:44:54.381654",
+  "actualizado_vzla": "2025-12-25 23:44:54 -04",
   "compra_segundo": {
-    "price": 508.986,
-    "name": "AdmCriptoTuku88"
+    "price": 511.721,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 508.0,
-    "name": "GregoSwap"
+    "price": 502.006,
+    "name": "Reimaryp"
   },
-  "promedio": 508.49,
+  "promedio": 506.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
