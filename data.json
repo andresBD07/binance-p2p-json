@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T15:37:52.667641",
-  "actualizado_vzla": "2025-12-26 11:37:52 -04",
+  "timestamp_utc": "2025-12-26T15:51:44.072754",
+  "actualizado_vzla": "2025-12-26 11:51:44 -04",
   "compra_segundo": {
-    "price": 517.096,
-    "name": "-BBRYP2P-"
+    "price": 518.999,
+    "name": "clinicaef"
   },
   "venta_maxima": {
-    "price": 518.0,
+    "price": 521.0,
     "name": "-Godgiven-"
   },
-  "promedio": 517.55,
+  "promedio": 520.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
