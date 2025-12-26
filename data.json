@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T13:57:57.131463",
-  "actualizado_vzla": "2025-12-26 09:57:57 -04",
+  "timestamp_utc": "2025-12-26T14:30:37.546432",
+  "actualizado_vzla": "2025-12-26 10:30:37 -04",
   "compra_segundo": {
-    "price": 508.5,
-    "name": "VENTASJM"
+    "price": 509.0,
+    "name": "Tonyruiz"
   },
   "venta_maxima": {
-    "price": 508.8,
-    "name": "Burdyn"
+    "price": 509.0,
+    "name": "Links56"
   },
-  "promedio": 508.65,
+  "promedio": 509.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
