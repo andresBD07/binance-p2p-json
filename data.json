@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T11:36:08.335976",
-  "actualizado_vzla": "2025-12-26 07:36:08 -04",
+  "timestamp_utc": "2025-12-26T11:49:03.758010",
+  "actualizado_vzla": "2025-12-26 07:49:03 -04",
   "compra_segundo": {
-    "price": 508.8,
-    "name": "LopezInvestment"
+    "price": 508.399,
+    "name": "Victcoiin"
   },
   "venta_maxima": {
-    "price": 501.5,
-    "name": "Daikokuten-Finance"
+    "price": 509.0,
+    "name": "Kstore7"
   },
-  "promedio": 505.15,
+  "promedio": 508.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
