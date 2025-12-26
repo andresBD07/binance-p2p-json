@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T19:24:25.010461",
-  "actualizado_vzla": "2025-12-26 15:24:25 -04",
+  "timestamp_utc": "2025-12-26T19:40:32.747334",
+  "actualizado_vzla": "2025-12-26 15:40:32 -04",
   "compra_segundo": {
-    "price": 538.39,
-    "name": "criptogene01"
+    "price": 539.1,
+    "name": "tuagenciadeconfianza"
   },
   "venta_maxima": {
     "price": 540.0,
     "name": "安全与信任"
   },
-  "promedio": 539.19,
+  "promedio": 539.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
