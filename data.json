@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T14:49:37.262337",
-  "actualizado_vzla": "2025-12-26 10:49:37 -04",
+  "timestamp_utc": "2025-12-26T15:13:58.961884",
+  "actualizado_vzla": "2025-12-26 11:13:58 -04",
   "compra_segundo": {
-    "price": 509.998,
-    "name": "Tatacash24"
+    "price": 512.19,
+    "name": "Tzar25"
   },
   "venta_maxima": {
-    "price": 513.0,
-    "name": "対馬の幽霊"
+    "price": 515.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 511.5,
+  "promedio": 513.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
