@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T17:28:03.487658",
-  "actualizado_vzla": "2025-12-26 13:28:03 -04",
+  "timestamp_utc": "2025-12-26T17:44:45.658055",
+  "actualizado_vzla": "2025-12-26 13:44:45 -04",
   "compra_segundo": {
-    "price": 525.45,
-    "name": "Guayoyoo"
+    "price": 525.2,
+    "name": "YersonCapital"
   },
   "venta_maxima": {
-    "price": 526.0,
+    "price": 527.0,
     "name": "-Godgiven-"
   },
-  "promedio": 525.73,
+  "promedio": 526.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
