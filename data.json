@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T08:32:47.963712",
-  "actualizado_vzla": "2025-12-26 04:32:47 -04",
+  "timestamp_utc": "2025-12-26T08:55:05.096625",
+  "actualizado_vzla": "2025-12-26 04:55:05 -04",
   "compra_segundo": {
-    "price": 514.6,
-    "name": "ANMAIYANME"
+    "price": 514.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
     "price": 502.561,
     "name": "TuCambioYa_"
   },
-  "promedio": 508.58,
+  "promedio": 508.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
