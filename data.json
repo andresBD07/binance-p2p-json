@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T11:49:03.758010",
-  "actualizado_vzla": "2025-12-26 07:49:03 -04",
+  "timestamp_utc": "2025-12-26T12:23:47.454412",
+  "actualizado_vzla": "2025-12-26 08:23:47 -04",
   "compra_segundo": {
-    "price": 508.399,
-    "name": "Victcoiin"
+    "price": 508.0,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
     "price": 509.0,
     "name": "Kstore7"
   },
-  "promedio": 508.7,
+  "promedio": 508.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
