@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2025-12-26T06:52:08.433598",
-  "actualizado_vzla": "2025-12-26 02:52:08 -04",
+  "timestamp_utc": "2025-12-26T07:20:57.553792",
+  "actualizado_vzla": "2025-12-26 03:20:57 -04",
   "compra_segundo": {
-    "price": 514.99,
-    "name": "YReimi"
+    "price": 514.999,
+    "name": "CityGroup-VM"
   },
   "venta_maxima": {
     "price": 502.57,
