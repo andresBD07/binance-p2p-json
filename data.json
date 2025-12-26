@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T07:40:46.131416",
-  "actualizado_vzla": "2025-12-26 03:40:46 -04",
+  "timestamp_utc": "2025-12-26T07:53:55.433293",
+  "actualizado_vzla": "2025-12-26 03:53:55 -04",
   "compra_segundo": {
     "price": 514.7,
-    "name": "GregoSwap"
+    "name": "cazing2230"
   },
   "venta_maxima": {
-    "price": 502.3,
-    "name": "AndradeGasconTITULAR"
+    "price": 502.56,
+    "name": "GregoSwap"
   },
-  "promedio": 508.5,
+  "promedio": 508.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
