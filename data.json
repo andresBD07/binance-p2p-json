@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T14:30:37.546432",
-  "actualizado_vzla": "2025-12-26 10:30:37 -04",
+  "timestamp_utc": "2025-12-26T14:49:37.262337",
+  "actualizado_vzla": "2025-12-26 10:49:37 -04",
   "compra_segundo": {
-    "price": 509.0,
-    "name": "Tonyruiz"
+    "price": 509.998,
+    "name": "Tatacash24"
   },
   "venta_maxima": {
-    "price": 509.0,
-    "name": "Links56"
+    "price": 513.0,
+    "name": "対馬の幽霊"
   },
-  "promedio": 509.0,
+  "promedio": 511.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
