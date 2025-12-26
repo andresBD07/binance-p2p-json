@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T16:21:28.187826",
-  "actualizado_vzla": "2025-12-26 12:21:28 -04",
+  "timestamp_utc": "2025-12-26T16:46:04.882076",
+  "actualizado_vzla": "2025-12-26 12:46:04 -04",
   "compra_segundo": {
-    "price": 524.0,
-    "name": "Inversiones-Walaw"
+    "price": 525.0,
+    "name": "luisC_pagosfast"
   },
   "venta_maxima": {
-    "price": 524.0,
+    "price": 525.5,
     "name": "-Godgiven-"
   },
-  "promedio": 524.0,
+  "promedio": 525.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
