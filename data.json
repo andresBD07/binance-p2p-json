@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T04:23:18.254880",
-  "actualizado_vzla": "2025-12-26 00:23:18 -04",
+  "timestamp_utc": "2025-12-26T04:54:38.076295",
+  "actualizado_vzla": "2025-12-26 00:54:38 -04",
   "compra_segundo": {
-    "price": 512.3,
-    "name": "Wdmirandas"
+    "price": 512.999,
+    "name": "LuicmarTrader"
   },
   "venta_maxima": {
-    "price": 501.55,
-    "name": "Cambios_MH2107"
+    "price": 502.111,
+    "name": "Reimaryp"
   },
-  "promedio": 506.92,
+  "promedio": 507.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
