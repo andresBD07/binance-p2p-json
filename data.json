@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T21:26:29.671865",
-  "actualizado_vzla": "2025-12-26 17:26:29 -04",
+  "timestamp_utc": "2025-12-26T21:42:55.336374",
+  "actualizado_vzla": "2025-12-26 17:42:55 -04",
   "compra_segundo": {
-    "price": 537.598,
-    "name": "criptorapiseguro1"
+    "price": 538.79,
+    "name": "Pale"
   },
   "venta_maxima": {
-    "price": 540.5,
-    "name": "TAURUS85"
+    "price": 541.0,
+    "name": "Fakefk"
   },
-  "promedio": 539.05,
+  "promedio": 539.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
