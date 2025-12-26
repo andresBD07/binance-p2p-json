@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T18:58:06.806346",
-  "actualizado_vzla": "2025-12-26 14:58:06 -04",
+  "timestamp_utc": "2025-12-26T19:24:25.010461",
+  "actualizado_vzla": "2025-12-26 15:24:25 -04",
   "compra_segundo": {
-    "price": 529.8,
-    "name": "CambiosBalita"
+    "price": 538.39,
+    "name": "criptogene01"
   },
   "venta_maxima": {
     "price": 540.0,
     "name": "安全与信任"
   },
-  "promedio": 534.9,
+  "promedio": 539.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
