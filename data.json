@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T15:13:58.961884",
-  "actualizado_vzla": "2025-12-26 11:13:58 -04",
+  "timestamp_utc": "2025-12-26T15:37:52.667641",
+  "actualizado_vzla": "2025-12-26 11:37:52 -04",
   "compra_segundo": {
-    "price": 512.19,
-    "name": "Tzar25"
+    "price": 517.096,
+    "name": "-BBRYP2P-"
   },
   "venta_maxima": {
-    "price": 515.0,
+    "price": 518.0,
     "name": "-Godgiven-"
   },
-  "promedio": 513.6,
+  "promedio": 517.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
