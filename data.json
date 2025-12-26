@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-26T11:18:24.964592",
-  "actualizado_vzla": "2025-12-26 07:18:24 -04",
+  "timestamp_utc": "2025-12-26T11:36:08.335976",
+  "actualizado_vzla": "2025-12-26 07:36:08 -04",
   "compra_segundo": {
-    "price": 509.969,
-    "name": "HyperCambios_1Millon"
+    "price": 508.8,
+    "name": "LopezInvestment"
   },
   "venta_maxima": {
-    "price": 502.0,
-    "name": "GregoSwap"
+    "price": 501.5,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 505.98,
+  "promedio": 505.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
