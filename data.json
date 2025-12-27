@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T05:54:51.297231",
-  "actualizado_vzla": "2025-12-27 01:54:51 -04",
+  "timestamp_utc": "2025-12-27T06:38:59.281255",
+  "actualizado_vzla": "2025-12-27 02:38:59 -04",
   "compra_segundo": {
-    "price": 552.1,
-    "name": "GaAle19"
+    "price": 553.0,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 543.0,
-    "name": "MaxuelTrader"
+    "price": 541.01,
+    "name": "jewishdiamond"
   },
-  "promedio": 547.55,
+  "promedio": 547.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
