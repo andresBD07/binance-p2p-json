@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T11:27:35.902207",
-  "actualizado_vzla": "2025-12-27 07:27:35 -04",
+  "timestamp_utc": "2025-12-27T11:42:16.325222",
+  "actualizado_vzla": "2025-12-27 07:42:16 -04",
   "compra_segundo": {
     "price": 551.0,
-    "name": "cambios Mathias "
+    "name": "ZEUSP2P"
   },
   "venta_maxima": {
-    "price": 545.4,
+    "price": 550.0,
     "name": "RAULITO2809"
   },
-  "promedio": 548.2,
+  "promedio": 550.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
