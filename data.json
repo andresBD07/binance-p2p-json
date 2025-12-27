@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T15:58:43.200634",
-  "actualizado_vzla": "2025-12-27 11:58:43 -04",
+  "timestamp_utc": "2025-12-27T16:35:08.259055",
+  "actualizado_vzla": "2025-12-27 12:35:08 -04",
   "compra_segundo": {
-    "price": 559.999,
-    "name": "Bernaaaaa"
+    "price": 569.4,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 562.5,
-    "name": "Child-CambioFacil"
+    "price": 568.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 561.25,
+  "promedio": 568.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
