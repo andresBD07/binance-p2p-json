@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T02:18:59.824517",
-  "actualizado_vzla": "2025-12-26 22:18:59 -04",
+  "timestamp_utc": "2025-12-27T03:41:46.587807",
+  "actualizado_vzla": "2025-12-26 23:41:46 -04",
   "compra_segundo": {
-    "price": 548.999,
-    "name": "Jl crissol "
+    "price": 549.49,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 549.5,
-    "name": "THE BOSS  96"
+    "price": 548.2,
+    "name": "SpeedGlobalP2P"
   },
-  "promedio": 549.25,
+  "promedio": 548.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
