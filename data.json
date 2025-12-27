@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-27T07:43:01.015595",
-  "actualizado_vzla": "2025-12-27 03:43:01 -04",
+  "timestamp_utc": "2025-12-27T07:56:20.845811",
+  "actualizado_vzla": "2025-12-27 03:56:20 -04",
   "compra_segundo": {
     "price": 553.0,
     "name": "btcmamba24"
   },
   "venta_maxima": {
     "price": 541.0,
-    "name": "SmarPhon3"
+    "name": "CIFRANAUTA"
   },
   "promedio": 547.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
