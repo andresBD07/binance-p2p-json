@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T16:53:33.752758",
-  "actualizado_vzla": "2025-12-27 12:53:33 -04",
+  "timestamp_utc": "2025-12-27T17:19:38.136410",
+  "actualizado_vzla": "2025-12-27 13:19:38 -04",
   "compra_segundo": {
-    "price": 569.9,
-    "name": "-_GRAN_PALOMON_-_"
+    "price": 569.19,
+    "name": "User-f60fc"
   },
   "venta_maxima": {
-    "price": 568.5,
-    "name": "安全与信任"
+    "price": 573.0,
+    "name": "Fakefk"
   },
-  "promedio": 569.2,
+  "promedio": 571.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
