@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T13:48:10.947671",
-  "actualizado_vzla": "2025-12-27 09:48:10 -04",
+  "timestamp_utc": "2025-12-27T14:08:55.507584",
+  "actualizado_vzla": "2025-12-27 10:08:55 -04",
   "compra_segundo": {
-    "price": 546.995,
-    "name": "LeNary-"
+    "price": 546.3,
+    "name": "CriptoWizz"
   },
   "venta_maxima": {
-    "price": 546.0,
+    "price": 546.5,
     "name": "安全与信任"
   },
-  "promedio": 546.5,
+  "promedio": 546.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
