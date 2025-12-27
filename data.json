@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T21:01:02.815042",
-  "actualizado_vzla": "2025-12-27 17:01:02 -04",
+  "timestamp_utc": "2025-12-27T21:27:03.361177",
+  "actualizado_vzla": "2025-12-27 17:27:03 -04",
   "compra_segundo": {
-    "price": 554.99,
-    "name": "FastChangeSafeChange"
+    "price": 555.0,
+    "name": "cambiosaular1"
   },
   "venta_maxima": {
-    "price": 557.0,
-    "name": "-FARMA_CRIPTO-"
+    "price": 555.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 556.0,
+  "promedio": 555.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
