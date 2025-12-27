@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T21:27:03.361177",
-  "actualizado_vzla": "2025-12-27 17:27:03 -04",
+  "timestamp_utc": "2025-12-27T21:43:35.281599",
+  "actualizado_vzla": "2025-12-27 17:43:35 -04",
   "compra_segundo": {
-    "price": 555.0,
-    "name": "cambiosaular1"
+    "price": 553.9,
+    "name": "SnixCryptoFinance"
   },
   "venta_maxima": {
-    "price": 555.0,
-    "name": "-Godgiven-"
+    "price": 553.1,
+    "name": "famerica"
   },
-  "promedio": 555.0,
+  "promedio": 553.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
