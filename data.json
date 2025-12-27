@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T12:54:11.749474",
-  "actualizado_vzla": "2025-12-27 08:54:11 -04",
+  "timestamp_utc": "2025-12-27T13:31:30.035461",
+  "actualizado_vzla": "2025-12-27 09:31:30 -04",
   "compra_segundo": {
-    "price": 548.39,
-    "name": "JesusCrip"
+    "price": 547.1,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
-    "price": 545.1,
-    "name": "SCGR--"
+    "price": 546.0,
+    "name": "安全与信任"
   },
-  "promedio": 546.75,
+  "promedio": 546.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
