@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T21:43:35.281599",
-  "actualizado_vzla": "2025-12-27 17:43:35 -04",
+  "timestamp_utc": "2025-12-27T21:56:16.928632",
+  "actualizado_vzla": "2025-12-27 17:56:16 -04",
   "compra_segundo": {
-    "price": 553.9,
-    "name": "SnixCryptoFinance"
+    "price": 552.0,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 553.1,
-    "name": "famerica"
+    "price": 551.0,
+    "name": "Zelda_34"
   },
-  "promedio": 553.5,
+  "promedio": 551.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
