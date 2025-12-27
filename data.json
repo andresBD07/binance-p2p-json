@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T18:50:31.721083",
-  "actualizado_vzla": "2025-12-27 14:50:31 -04",
+  "timestamp_utc": "2025-12-27T19:11:44.298431",
+  "actualizado_vzla": "2025-12-27 15:11:44 -04",
   "compra_segundo": {
-    "price": 562.59,
-    "name": "Zuko02"
+    "price": 554.999,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
-    "price": 562.0,
+    "price": 555.5,
     "name": "-Godgiven-"
   },
-  "promedio": 562.3,
+  "promedio": 555.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
