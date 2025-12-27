@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T20:30:32.061230",
-  "actualizado_vzla": "2025-12-27 16:30:32 -04",
+  "timestamp_utc": "2025-12-27T20:47:44.806592",
+  "actualizado_vzla": "2025-12-27 16:47:44 -04",
   "compra_segundo": {
-    "price": 554.0,
-    "name": "Gil2025"
+    "price": 554.99,
+    "name": "alexander08_25"
   },
   "venta_maxima": {
-    "price": 553.5,
+    "price": 557.3,
     "name": "-FARMA_CRIPTO-"
   },
-  "promedio": 553.75,
+  "promedio": 556.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
