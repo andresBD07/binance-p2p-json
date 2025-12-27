@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T09:44:10.685740",
-  "actualizado_vzla": "2025-12-27 05:44:10 -04",
+  "timestamp_utc": "2025-12-27T09:57:24.343570",
+  "actualizado_vzla": "2025-12-27 05:57:24 -04",
   "compra_segundo": {
-    "price": 552.685,
-    "name": "Donnacambios"
+    "price": 552.4,
+    "name": "ejecutivo-cripto"
   },
   "venta_maxima": {
     "price": 541.0,
     "name": "cazing2230"
   },
-  "promedio": 546.84,
+  "promedio": 546.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
