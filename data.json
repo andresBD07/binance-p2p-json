@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T03:41:46.587807",
-  "actualizado_vzla": "2025-12-26 23:41:46 -04",
+  "timestamp_utc": "2025-12-27T04:19:44.119520",
+  "actualizado_vzla": "2025-12-27 00:19:44 -04",
   "compra_segundo": {
-    "price": 549.49,
-    "name": "Traderp2pVzla"
+    "price": 549.65,
+    "name": "exibox_0807"
   },
   "venta_maxima": {
-    "price": 548.2,
-    "name": "SpeedGlobalP2P"
+    "price": 544.0,
+    "name": "Zelda_34"
   },
-  "promedio": 548.85,
+  "promedio": 546.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
