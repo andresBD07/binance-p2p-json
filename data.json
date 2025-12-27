@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T04:19:44.119520",
-  "actualizado_vzla": "2025-12-27 00:19:44 -04",
+  "timestamp_utc": "2025-12-27T04:50:32.576802",
+  "actualizado_vzla": "2025-12-27 00:50:32 -04",
   "compra_segundo": {
-    "price": 549.65,
-    "name": "exibox_0807"
+    "price": 550.299,
+    "name": "YReimi"
   },
   "venta_maxima": {
-    "price": 544.0,
-    "name": "Zelda_34"
+    "price": 544.001,
+    "name": "CIFRANAUTA"
   },
-  "promedio": 546.83,
+  "promedio": 547.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
