@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T11:55:21.166968",
-  "actualizado_vzla": "2025-12-27 07:55:21 -04",
+  "timestamp_utc": "2025-12-27T12:54:11.749474",
+  "actualizado_vzla": "2025-12-27 08:54:11 -04",
   "compra_segundo": {
-    "price": 551.2,
-    "name": "Tzar25"
+    "price": 548.39,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
-    "price": 548.3,
-    "name": "RAULITO2809"
+    "price": 545.1,
+    "name": "SCGR--"
   },
-  "promedio": 549.75,
+  "promedio": 546.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
