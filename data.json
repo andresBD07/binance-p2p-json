@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-27T10:48:15.474921",
-  "actualizado_vzla": "2025-12-27 06:48:15 -04",
+  "timestamp_utc": "2025-12-27T11:07:51.278028",
+  "actualizado_vzla": "2025-12-27 07:07:51 -04",
   "compra_segundo": {
-    "price": 550.499,
-    "name": "ejecutivo-cripto"
+    "price": 550.0,
+    "name": "1_WidowsSon_Trader"
   },
   "venta_maxima": {
-    "price": 544.01,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 544.5,
+    "name": "RAULITO2809"
   },
   "promedio": 547.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
