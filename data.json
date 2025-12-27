@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T15:31:42.982618",
-  "actualizado_vzla": "2025-12-27 11:31:42 -04",
+  "timestamp_utc": "2025-12-27T15:45:58.400520",
+  "actualizado_vzla": "2025-12-27 11:45:58 -04",
   "compra_segundo": {
-    "price": 552.999,
-    "name": "-BBRYP2P-"
+    "price": 557.6,
+    "name": "Criscripto18M"
   },
   "venta_maxima": {
-    "price": 556.6,
+    "price": 558.6,
     "name": "安全与信任"
   },
-  "promedio": 554.8,
+  "promedio": 558.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
