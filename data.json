@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-27T15:45:58.400520",
-  "actualizado_vzla": "2025-12-27 11:45:58 -04",
+  "timestamp_utc": "2025-12-27T15:58:43.200634",
+  "actualizado_vzla": "2025-12-27 11:58:43 -04",
   "compra_segundo": {
-    "price": 557.6,
-    "name": "Criscripto18M"
+    "price": 559.999,
+    "name": "Bernaaaaa"
   },
   "venta_maxima": {
-    "price": 558.6,
-    "name": "安全与信任"
+    "price": 562.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 558.1,
+  "promedio": 561.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
