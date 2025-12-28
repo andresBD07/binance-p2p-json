@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-28T15:40:36.227222",
-  "actualizado_vzla": "2025-12-28 11:40:36 -04",
+  "timestamp_utc": "2025-12-28T15:53:36.329517",
+  "actualizado_vzla": "2025-12-28 11:53:36 -04",
   "compra_segundo": {
     "price": 550.0,
-    "name": "cambiosaular1"
+    "name": "Martony_23"
   },
   "venta_maxima": {
     "price": 550.5,
-    "name": "TAURUS85"
+    "name": "FULL-HOUSSE"
   },
   "promedio": 550.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
