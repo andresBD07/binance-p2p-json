@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T10:31:48.940990",
-  "actualizado_vzla": "2025-12-28 06:31:48 -04",
+  "timestamp_utc": "2025-12-28T10:49:15.330681",
+  "actualizado_vzla": "2025-12-28 06:49:15 -04",
   "compra_segundo": {
-    "price": 551.999,
-    "name": "-BBRYP2P-"
+    "price": 551.998,
+    "name": "Digitalimport"
   },
   "venta_maxima": {
-    "price": 542.2,
+    "price": 543.0,
     "name": "CambiosMZ"
   },
-  "promedio": 547.1,
+  "promedio": 547.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
