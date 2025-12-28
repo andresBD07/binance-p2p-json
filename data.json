@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T17:37:27.789482",
-  "actualizado_vzla": "2025-12-28 13:37:27 -04",
+  "timestamp_utc": "2025-12-28T17:50:58.325502",
+  "actualizado_vzla": "2025-12-28 13:50:58 -04",
   "compra_segundo": {
-    "price": 549.99,
-    "name": "MorocotaKoin"
+    "price": 550.0,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 550.2,
-    "name": "浪人幣"
+    "price": 551.0,
+    "name": "FULL-HOUSSE"
   },
-  "promedio": 550.1,
+  "promedio": 550.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
