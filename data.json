@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T15:53:36.329517",
-  "actualizado_vzla": "2025-12-28 11:53:36 -04",
+  "timestamp_utc": "2025-12-28T16:28:22.142987",
+  "actualizado_vzla": "2025-12-28 12:28:22 -04",
   "compra_segundo": {
-    "price": 550.0,
-    "name": "Martony_23"
+    "price": 550.199,
+    "name": "PANDA1902"
   },
   "venta_maxima": {
-    "price": 550.5,
-    "name": "FULL-HOUSSE"
+    "price": 549.1,
+    "name": "Mdtextilcrypto"
   },
-  "promedio": 550.25,
+  "promedio": 549.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
