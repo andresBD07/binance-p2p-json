@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T08:55:38.213242",
-  "actualizado_vzla": "2025-12-28 04:55:38 -04",
+  "timestamp_utc": "2025-12-28T09:28:43.567032",
+  "actualizado_vzla": "2025-12-28 05:28:43 -04",
   "compra_segundo": {
-    "price": 556.5,
-    "name": "_cambioBTC"
+    "price": 555.0,
+    "name": "CambiosAshley"
   },
   "venta_maxima": {
-    "price": 545.0,
-    "name": "Pichurritrading"
+    "price": 542.15,
+    "name": "CambiosOjed4"
   },
-  "promedio": 550.75,
+  "promedio": 548.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
