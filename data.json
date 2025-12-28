@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T21:46:07.119786",
-  "actualizado_vzla": "2025-12-28 17:46:07 -04",
+  "timestamp_utc": "2025-12-28T21:58:48.591837",
+  "actualizado_vzla": "2025-12-28 17:58:48 -04",
   "compra_segundo": {
     "price": 549.0,
-    "name": "GokuExchange"
+    "name": "EmporioExchange"
   },
   "venta_maxima": {
-    "price": 555.0,
-    "name": "安全与信任"
+    "price": 552.0,
+    "name": "FULL-HOUSSE"
   },
-  "promedio": 552.0,
+  "promedio": 550.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
