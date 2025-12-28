@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T05:47:32.646665",
-  "actualizado_vzla": "2025-12-28 01:47:32 -04",
+  "timestamp_utc": "2025-12-28T06:00:30.503331",
+  "actualizado_vzla": "2025-12-28 02:00:30 -04",
   "compra_segundo": {
-    "price": 553.99,
-    "name": "Rapidito Market"
+    "price": 553.98,
+    "name": "AlainTD"
   },
   "venta_maxima": {
-    "price": 546.5,
-    "name": "MaxuelTrader"
+    "price": 545.02,
+    "name": "Exchange-172"
   },
-  "promedio": 550.25,
+  "promedio": 549.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
