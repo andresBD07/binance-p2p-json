@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T18:23:42.741965",
-  "actualizado_vzla": "2025-12-28 14:23:42 -04",
+  "timestamp_utc": "2025-12-28T18:51:06.277161",
+  "actualizado_vzla": "2025-12-28 14:51:06 -04",
   "compra_segundo": {
-    "price": 550.3,
-    "name": "N1-Casa_Cripto-N1"
+    "price": 550.449,
+    "name": "Oscar-cambios "
   },
   "venta_maxima": {
-    "price": 552.0,
+    "price": 551.5,
     "name": "FULL-HOUSSE"
   },
-  "promedio": 551.15,
+  "promedio": 550.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
