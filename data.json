@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T21:31:47.340405",
-  "actualizado_vzla": "2025-12-28 17:31:47 -04",
+  "timestamp_utc": "2025-12-28T21:46:07.119786",
+  "actualizado_vzla": "2025-12-28 17:46:07 -04",
   "compra_segundo": {
-    "price": 548.887,
-    "name": "LosLlanosRemesas"
+    "price": 549.0,
+    "name": "GokuExchange"
   },
   "venta_maxima": {
-    "price": 551.5,
-    "name": "FULL-HOUSSE"
+    "price": 555.0,
+    "name": "安全与信任"
   },
-  "promedio": 550.19,
+  "promedio": 552.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
