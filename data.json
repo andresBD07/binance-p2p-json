@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-28T11:29:54.889027",
-  "actualizado_vzla": "2025-12-28 07:29:54 -04",
+  "timestamp_utc": "2025-12-28T11:44:25.345370",
+  "actualizado_vzla": "2025-12-28 07:44:25 -04",
   "compra_segundo": {
-    "price": 552.0,
-    "name": "Crypto_Muse"
+    "price": 551.899,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
-    "price": 545.5,
-    "name": "CRIPTODIGITALNV"
+    "price": 545.6,
+    "name": "Daikokuten-Finance"
   },
   "promedio": 548.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
