@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-28T14:53:33.526485",
-  "actualizado_vzla": "2025-12-28 10:53:33 -04",
+  "timestamp_utc": "2025-12-28T15:22:29.400595",
+  "actualizado_vzla": "2025-12-28 11:22:29 -04",
   "compra_segundo": {
-    "price": 550.5,
-    "name": "Amaz0nas-CRIPTO"
+    "price": 550.0,
+    "name": "INVERSIONES_LDG_RH"
   },
   "venta_maxima": {
-    "price": 550.01,
-    "name": "app2112"
+    "price": 550.5,
+    "name": "TAURUS85"
   },
   "promedio": 550.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
