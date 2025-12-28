@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T06:45:46.181909",
-  "actualizado_vzla": "2025-12-28 02:45:46 -04",
+  "timestamp_utc": "2025-12-28T07:01:25.228581",
+  "actualizado_vzla": "2025-12-28 03:01:25 -04",
   "compra_segundo": {
-    "price": 556.0,
-    "name": "Manda2"
+    "price": 555.0,
+    "name": "erengome04"
   },
   "venta_maxima": {
     "price": 545.0,
     "name": "Pichurritrading"
   },
-  "promedio": 550.5,
+  "promedio": 550.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
