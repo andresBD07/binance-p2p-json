@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T21:16:41.050021",
-  "actualizado_vzla": "2025-12-29 17:16:41 -04",
+  "timestamp_utc": "2025-12-29T21:36:09.017793",
+  "actualizado_vzla": "2025-12-29 17:36:09 -04",
   "compra_segundo": {
-    "price": 550.9,
-    "name": "cambiosIA"
+    "price": 552.0,
+    "name": "lummpi"
   },
   "venta_maxima": {
     "price": 558.005,
     "name": "Gustavo129"
   },
-  "promedio": 554.45,
+  "promedio": 555.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
