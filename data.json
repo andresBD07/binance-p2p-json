@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-28T23:47:24.239575",
-  "actualizado_vzla": "2025-12-28 19:47:24 -04",
+  "timestamp_utc": "2025-12-29T00:00:38.667726",
+  "actualizado_vzla": "2025-12-28 20:00:38 -04",
   "compra_segundo": {
-    "price": 550.79,
-    "name": "IntercambiosC"
+    "price": 550.0,
+    "name": "JorleGP"
   },
   "venta_maxima": {
-    "price": 550.6,
+    "price": 551.6,
     "name": "GREEN78"
   },
-  "promedio": 550.69,
+  "promedio": 550.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
