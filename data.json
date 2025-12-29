@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T11:57:22.319461",
-  "actualizado_vzla": "2025-12-29 07:57:22 -04",
+  "timestamp_utc": "2025-12-29T13:02:51.297342",
+  "actualizado_vzla": "2025-12-29 09:02:51 -04",
   "compra_segundo": {
-    "price": 549.98,
-    "name": "Hispano-Cripto"
+    "price": 546.9,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 550.0,
+    "price": 546.0,
     "name": "Kstore7"
   },
-  "promedio": 549.99,
+  "promedio": 546.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
