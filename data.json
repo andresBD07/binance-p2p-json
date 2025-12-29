@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2025-12-29T19:30:11.658794",
-  "actualizado_vzla": "2025-12-29 15:30:11 -04",
+  "timestamp_utc": "2025-12-29T19:43:55.536143",
+  "actualizado_vzla": "2025-12-29 15:43:55 -04",
   "compra_segundo": {
-    "price": 557.0,
-    "name": "RamgabP2P"
+    "price": 556.999,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
     "price": 559.5,
-    "name": "ALASKA-"
+    "name": "To0809"
   },
   "promedio": 558.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
