@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T05:56:59.937848",
-  "actualizado_vzla": "2025-12-29 01:56:59 -04",
+  "timestamp_utc": "2025-12-29T06:49:31.600366",
+  "actualizado_vzla": "2025-12-29 02:49:31 -04",
   "compra_segundo": {
-    "price": 554.8,
-    "name": "Juan15_7"
+    "price": 555.29,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
     "price": 545.6,
     "name": "-Vallenatero-"
   },
-  "promedio": 550.2,
+  "promedio": 550.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
