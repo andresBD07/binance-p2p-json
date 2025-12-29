@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T13:02:51.297342",
-  "actualizado_vzla": "2025-12-29 09:02:51 -04",
+  "timestamp_utc": "2025-12-29T13:47:34.400894",
+  "actualizado_vzla": "2025-12-29 09:47:34 -04",
   "compra_segundo": {
-    "price": 546.9,
-    "name": "nene"
+    "price": 540.0,
+    "name": "VictoriaTorres_22"
   },
   "venta_maxima": {
-    "price": 546.0,
-    "name": "Kstore7"
+    "price": 541.75,
+    "name": "VECTURAFX"
   },
-  "promedio": 546.45,
+  "promedio": 540.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
