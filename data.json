@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T17:49:29.080957",
-  "actualizado_vzla": "2025-12-29 13:49:29 -04",
+  "timestamp_utc": "2025-12-29T18:20:02.601278",
+  "actualizado_vzla": "2025-12-29 14:20:02 -04",
   "compra_segundo": {
-    "price": 552.999,
-    "name": "WChurchill"
+    "price": 552.7,
+    "name": "VentasCcS"
   },
   "venta_maxima": {
-    "price": 557.101,
+    "price": 557.01,
     "name": "FULL-HOUSSE"
   },
-  "promedio": 555.05,
+  "promedio": 554.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
