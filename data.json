@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T22:13:10.589745",
-  "actualizado_vzla": "2025-12-29 18:13:10 -04",
+  "timestamp_utc": "2025-12-29T22:38:38.680229",
+  "actualizado_vzla": "2025-12-29 18:38:38 -04",
   "compra_segundo": {
-    "price": 556.64,
-    "name": "MACHUFI"
+    "price": 557.6,
+    "name": "IrraBlack"
   },
   "venta_maxima": {
-    "price": 558.0,
-    "name": "Gustavo129"
+    "price": 560.0,
+    "name": "対馬の幽霊"
   },
-  "promedio": 557.32,
+  "promedio": 558.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
