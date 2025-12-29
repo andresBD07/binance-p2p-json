@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T10:37:32.650772",
-  "actualizado_vzla": "2025-12-29 06:37:32 -04",
+  "timestamp_utc": "2025-12-29T10:55:19.875891",
+  "actualizado_vzla": "2025-12-29 06:55:19 -04",
   "compra_segundo": {
     "price": 550.3,
     "name": "Rapidcambiosayj"
   },
   "venta_maxima": {
-    "price": 543.1,
-    "name": "TransporteExpress"
+    "price": 544.1,
+    "name": "Free Trade and Investments"
   },
-  "promedio": 546.7,
+  "promedio": 547.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
