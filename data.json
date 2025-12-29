@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T00:00:38.667726",
-  "actualizado_vzla": "2025-12-28 20:00:38 -04",
+  "timestamp_utc": "2025-12-29T02:32:38.173345",
+  "actualizado_vzla": "2025-12-28 22:32:38 -04",
   "compra_segundo": {
-    "price": 550.0,
-    "name": "JorleGP"
+    "price": 550.699,
+    "name": "YReimi"
   },
   "venta_maxima": {
-    "price": 551.6,
-    "name": "GREEN78"
+    "price": 546.95,
+    "name": "MaxuelTrader"
   },
-  "promedio": 550.8,
+  "promedio": 548.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
