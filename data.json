@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T06:52:12.582934",
-  "actualizado_vzla": "2025-12-30 02:52:12 -04",
+  "timestamp_utc": "2025-12-30T07:21:45.878854",
+  "actualizado_vzla": "2025-12-30 03:21:45 -04",
   "compra_segundo": {
-    "price": 569.895,
-    "name": "-BBRYP2P-"
+    "price": 569.999,
+    "name": "TerraG0109"
   },
   "venta_maxima": {
-    "price": 560.5,
-    "name": "CambiosBesmant"
+    "price": 560.0,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 565.2,
+  "promedio": 565.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
