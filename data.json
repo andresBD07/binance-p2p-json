@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T05:47:55.707516",
-  "actualizado_vzla": "2025-12-30 01:47:55 -04",
+  "timestamp_utc": "2025-12-30T06:16:23.801579",
+  "actualizado_vzla": "2025-12-30 02:16:23 -04",
   "compra_segundo": {
-    "price": 568.9,
-    "name": "KobyTrader"
+    "price": 569.999,
+    "name": "TerraG0109"
   },
   "venta_maxima": {
     "price": 560.5,
     "name": "CambiosBesmant"
   },
-  "promedio": 564.7,
+  "promedio": 565.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
