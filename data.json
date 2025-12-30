@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T14:44:15.201883",
-  "actualizado_vzla": "2025-12-30 10:44:15 -04",
+  "timestamp_utc": "2025-12-30T14:57:32.278015",
+  "actualizado_vzla": "2025-12-30 10:57:32 -04",
   "compra_segundo": {
-    "price": 558.885,
-    "name": "JairGOVA贾尔"
+    "price": 559.9,
+    "name": "InvFM"
   },
   "venta_maxima": {
-    "price": 567.0,
-    "name": "To0809"
+    "price": 566.0,
+    "name": "CamburPlus"
   },
-  "promedio": 562.94,
+  "promedio": 562.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
