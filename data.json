@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T04:52:53.374485",
-  "actualizado_vzla": "2025-12-30 00:52:53 -04",
+  "timestamp_utc": "2025-12-30T05:24:53.880938",
+  "actualizado_vzla": "2025-12-30 01:24:53 -04",
   "compra_segundo": {
-    "price": 567.8,
-    "name": "DolceGabbana"
+    "price": 568.0,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 561.1,
-    "name": "AndradeGascon"
+    "price": 565.0,
+    "name": "TAURUS85"
   },
-  "promedio": 564.45,
+  "promedio": 566.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
