@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T21:09:35.809353",
-  "actualizado_vzla": "2025-12-30 17:09:35 -04",
+  "timestamp_utc": "2025-12-30T21:32:47.814505",
+  "actualizado_vzla": "2025-12-30 17:32:47 -04",
   "compra_segundo": {
-    "price": 581.44,
-    "name": "cambiosDEV"
+    "price": 582.2,
+    "name": "Jearrioja"
   },
   "venta_maxima": {
-    "price": 585.5,
-    "name": "Lcgood"
+    "price": 589.75,
+    "name": "-Godgiven-"
   },
-  "promedio": 583.47,
+  "promedio": 585.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
