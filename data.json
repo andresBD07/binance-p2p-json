@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T03:13:12.033390",
-  "actualizado_vzla": "2025-12-29 23:13:12 -04",
+  "timestamp_utc": "2025-12-30T04:09:58.629176",
+  "actualizado_vzla": "2025-12-30 00:09:58 -04",
   "compra_segundo": {
-    "price": 567.5,
-    "name": "太COMPANY_CASH"
+    "price": 567.99,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
-    "price": 567.0,
-    "name": "-Godgiven-"
+    "price": 562.0,
+    "name": "cambioson"
   },
-  "promedio": 567.25,
+  "promedio": 565.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
