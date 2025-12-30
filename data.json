@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T23:34:55.506338",
-  "actualizado_vzla": "2025-12-30 19:34:55 -04",
+  "timestamp_utc": "2025-12-30T23:48:32.658414",
+  "actualizado_vzla": "2025-12-30 19:48:32 -04",
   "compra_segundo": {
-    "price": 584.6,
-    "name": "IAlexsI"
+    "price": 584.0,
+    "name": "Servicios_JT"
   },
   "venta_maxima": {
-    "price": 591.5,
-    "name": "安全与信任"
+    "price": 591.501,
+    "name": "SasukeTrader"
   },
-  "promedio": 588.05,
+  "promedio": 587.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
