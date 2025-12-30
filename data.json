@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T10:26:39.157782",
-  "actualizado_vzla": "2025-12-30 06:26:39 -04",
+  "timestamp_utc": "2025-12-30T10:50:24.448341",
+  "actualizado_vzla": "2025-12-30 06:50:24 -04",
   "compra_segundo": {
-    "price": 567.5,
-    "name": "CriiptoEnergy"
+    "price": 566.0,
+    "name": "RamgabP2P"
   },
   "venta_maxima": {
     "price": 562.0,
     "name": "BigIron-"
   },
-  "promedio": 564.75,
+  "promedio": 564.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
