@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T23:15:28.700201",
-  "actualizado_vzla": "2025-12-30 19:15:28 -04",
+  "timestamp_utc": "2025-12-30T23:34:55.506338",
+  "actualizado_vzla": "2025-12-30 19:34:55 -04",
   "compra_segundo": {
-    "price": 584.79,
-    "name": "LTCambiosRapido"
+    "price": 584.6,
+    "name": "IAlexsI"
   },
   "venta_maxima": {
-    "price": 591.92,
-    "name": "HiIAmIvan"
+    "price": 591.5,
+    "name": "安全与信任"
   },
-  "promedio": 588.36,
+  "promedio": 588.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
