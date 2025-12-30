@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T22:34:59.622794",
-  "actualizado_vzla": "2025-12-30 18:34:59 -04",
+  "timestamp_utc": "2025-12-30T22:51:00.078408",
+  "actualizado_vzla": "2025-12-30 18:51:00 -04",
   "compra_segundo": {
-    "price": 588.998,
-    "name": "CoinsVZ"
+    "price": 587.19,
+    "name": "EXCHANGE_P2P_RAPIDO"
   },
   "venta_maxima": {
     "price": 588.0,
-    "name": "GREEN78"
+    "name": "cazing2230-2"
   },
-  "promedio": 588.5,
+  "promedio": 587.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
