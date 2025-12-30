@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T22:08:47.125866",
-  "actualizado_vzla": "2025-12-30 18:08:47 -04",
+  "timestamp_utc": "2025-12-30T22:34:59.622794",
+  "actualizado_vzla": "2025-12-30 18:34:59 -04",
   "compra_segundo": {
-    "price": 587.92,
-    "name": "Charles-Seguro"
+    "price": 588.998,
+    "name": "CoinsVZ"
   },
   "venta_maxima": {
-    "price": 592.36,
-    "name": "cazing2230-2"
+    "price": 588.0,
+    "name": "GREEN78"
   },
-  "promedio": 590.14,
+  "promedio": 588.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
