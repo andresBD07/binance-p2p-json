@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-29T23:51:16.288800",
-  "actualizado_vzla": "2025-12-29 19:51:16 -04",
+  "timestamp_utc": "2025-12-30T01:22:16.549971",
+  "actualizado_vzla": "2025-12-29 21:22:16 -04",
   "compra_segundo": {
-    "price": 561.7,
-    "name": "giiojoc"
+    "price": 565.999,
+    "name": "Masterven"
   },
   "venta_maxima": {
-    "price": 564.9,
-    "name": "SasukeTrader"
+    "price": 565.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 563.3,
+  "promedio": 565.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
