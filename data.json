@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T21:32:47.814505",
-  "actualizado_vzla": "2025-12-30 17:32:47 -04",
+  "timestamp_utc": "2025-12-30T21:47:51.507161",
+  "actualizado_vzla": "2025-12-30 17:47:51 -04",
   "compra_segundo": {
-    "price": 582.2,
-    "name": "Jearrioja"
+    "price": 583.499,
+    "name": "Money-Max23"
   },
   "venta_maxima": {
-    "price": 589.75,
-    "name": "-Godgiven-"
+    "price": 591.0,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 585.98,
+  "promedio": 587.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
