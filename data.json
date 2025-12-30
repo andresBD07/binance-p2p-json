@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T13:20:24.446665",
-  "actualizado_vzla": "2025-12-30 09:20:24 -04",
+  "timestamp_utc": "2025-12-30T13:52:21.887200",
+  "actualizado_vzla": "2025-12-30 09:52:21 -04",
   "compra_segundo": {
-    "price": 558.9,
-    "name": "ChrisPerez"
+    "price": 557.5,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 566.0,
+    "price": 564.0,
     "name": "-Godgiven-"
   },
-  "promedio": 562.45,
+  "promedio": 560.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
