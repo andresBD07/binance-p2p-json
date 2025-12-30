@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T11:49:04.555615",
-  "actualizado_vzla": "2025-12-30 07:49:04 -04",
+  "timestamp_utc": "2025-12-30T12:25:35.242630",
+  "actualizado_vzla": "2025-12-30 08:25:35 -04",
   "compra_segundo": {
-    "price": 564.499,
-    "name": "Tradingsport"
+    "price": 562.99,
+    "name": "AvaStark"
   },
   "venta_maxima": {
-    "price": 562.0,
-    "name": "Gustavo129"
+    "price": 566.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 563.25,
+  "promedio": 564.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
