@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T20:48:09.813528",
-  "actualizado_vzla": "2025-12-30 16:48:09 -04",
+  "timestamp_utc": "2025-12-30T21:09:35.809353",
+  "actualizado_vzla": "2025-12-30 17:09:35 -04",
   "compra_segundo": {
-    "price": 579.99,
-    "name": "LinkVzla"
+    "price": 581.44,
+    "name": "cambiosDEV"
   },
   "venta_maxima": {
-    "price": 585.1,
-    "name": "To0809"
+    "price": 585.5,
+    "name": "Lcgood"
   },
-  "promedio": 582.55,
+  "promedio": 583.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
