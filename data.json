@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T10:50:24.448341",
-  "actualizado_vzla": "2025-12-30 06:50:24 -04",
+  "timestamp_utc": "2025-12-30T11:14:40.794258",
+  "actualizado_vzla": "2025-12-30 07:14:40 -04",
   "compra_segundo": {
-    "price": 566.0,
-    "name": "RamgabP2P"
+    "price": 565.94,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 562.0,
-    "name": "BigIron-"
+    "price": 561.005,
+    "name": "Gustavo129"
   },
-  "promedio": 564.0,
+  "promedio": 563.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
