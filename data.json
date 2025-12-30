@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T22:51:00.078408",
-  "actualizado_vzla": "2025-12-30 18:51:00 -04",
+  "timestamp_utc": "2025-12-30T23:15:28.700201",
+  "actualizado_vzla": "2025-12-30 19:15:28 -04",
   "compra_segundo": {
-    "price": 587.19,
-    "name": "EXCHANGE_P2P_RAPIDO"
+    "price": 584.79,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 588.0,
-    "name": "cazing2230-2"
+    "price": 591.92,
+    "name": "HiIAmIvan"
   },
-  "promedio": 587.6,
+  "promedio": 588.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
