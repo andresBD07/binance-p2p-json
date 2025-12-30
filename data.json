@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T15:50:13.359362",
-  "actualizado_vzla": "2025-12-30 11:50:13 -04",
+  "timestamp_utc": "2025-12-30T16:19:35.242104",
+  "actualizado_vzla": "2025-12-30 12:19:35 -04",
   "compra_segundo": {
-    "price": 563.75,
-    "name": "AndradeGasconTITULAR"
+    "price": 564.0,
+    "name": "ÉvaristeGalois"
   },
   "venta_maxima": {
-    "price": 568.0,
-    "name": "安全与信任"
+    "price": 571.1,
+    "name": "JoseParedez"
   },
-  "promedio": 565.88,
+  "promedio": 567.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
