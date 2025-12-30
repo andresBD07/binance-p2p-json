@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T09:00:09.094456",
-  "actualizado_vzla": "2025-12-30 05:00:09 -04",
+  "timestamp_utc": "2025-12-30T09:36:00.381353",
+  "actualizado_vzla": "2025-12-30 05:36:00 -04",
   "compra_segundo": {
-    "price": 569.99,
-    "name": "Comercioreal23"
+    "price": 568.9,
+    "name": "Jaed Crp"
   },
   "venta_maxima": {
-    "price": 560.6,
-    "name": "AndradeGascon"
+    "price": 560.5,
+    "name": "CambiosBesmant"
   },
-  "promedio": 565.3,
+  "promedio": 564.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
