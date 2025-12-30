@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-30T14:57:32.278015",
-  "actualizado_vzla": "2025-12-30 10:57:32 -04",
+  "timestamp_utc": "2025-12-30T15:31:53.548025",
+  "actualizado_vzla": "2025-12-30 11:31:53 -04",
   "compra_segundo": {
-    "price": 559.9,
-    "name": "InvFM"
+    "price": 563.98,
+    "name": "N1-Casa_Cripto-N1"
   },
   "venta_maxima": {
-    "price": 566.0,
-    "name": "CamburPlus"
+    "price": 565.75,
+    "name": "To0809"
   },
-  "promedio": 562.95,
+  "promedio": 564.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
