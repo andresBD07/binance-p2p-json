@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T20:24:35.088073",
-  "actualizado_vzla": "2025-12-31 16:24:35 -04",
+  "timestamp_utc": "2025-12-31T20:44:51.877700",
+  "actualizado_vzla": "2025-12-31 16:44:51 -04",
   "compra_segundo": {
-    "price": 573.0,
-    "name": "Proverbios16_3"
+    "price": 573.199,
+    "name": "INVESTWORLD-24hrs"
   },
   "venta_maxima": {
-    "price": 576.0,
-    "name": "-Godgiven-"
+    "price": 575.5,
+    "name": "VERTUOK"
   },
-  "promedio": 574.5,
+  "promedio": 574.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
