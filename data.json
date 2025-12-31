@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T10:18:31.670744",
-  "actualizado_vzla": "2025-12-31 06:18:31 -04",
+  "timestamp_utc": "2025-12-31T10:43:34.855104",
+  "actualizado_vzla": "2025-12-31 06:43:34 -04",
   "compra_segundo": {
-    "price": 587.3,
-    "name": "CAMBIOSLESYAX"
+    "price": 586.888,
+    "name": "David-0199"
   },
   "venta_maxima": {
     "price": 580.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 583.65,
+  "promedio": 583.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
