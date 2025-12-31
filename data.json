@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T22:47:54.850194",
-  "actualizado_vzla": "2025-12-31 18:47:54 -04",
+  "timestamp_utc": "2025-12-31T23:09:16.683395",
+  "actualizado_vzla": "2025-12-31 19:09:16 -04",
   "compra_segundo": {
-    "price": 567.0,
-    "name": "Cambi0Express"
+    "price": 566.4,
+    "name": "Frijol007"
   },
   "venta_maxima": {
-    "price": 567.0,
+    "price": 564.0,
     "name": "-Godgiven-"
   },
-  "promedio": 567.0,
+  "promedio": 565.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
