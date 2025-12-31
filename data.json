@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T18:58:39.428937",
-  "actualizado_vzla": "2025-12-31 14:58:39 -04",
+  "timestamp_utc": "2025-12-31T19:24:16.650321",
+  "actualizado_vzla": "2025-12-31 15:24:16 -04",
   "compra_segundo": {
-    "price": 567.9,
-    "name": "MultiP2P"
+    "price": 571.5,
+    "name": "B-P2P"
   },
   "venta_maxima": {
-    "price": 578.0,
-    "name": "安全与信任"
+    "price": 574.0,
+    "name": "Godisgift"
   },
-  "promedio": 572.95,
+  "promedio": 572.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
