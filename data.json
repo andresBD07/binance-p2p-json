@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T10:56:51.453225",
-  "actualizado_vzla": "2025-12-31 06:56:51 -04",
+  "timestamp_utc": "2025-12-31T11:26:19.987136",
+  "actualizado_vzla": "2025-12-31 07:26:19 -04",
   "compra_segundo": {
-    "price": 585.99,
-    "name": "Zuko02"
+    "price": 583.0,
+    "name": "Cambioslinarez"
   },
   "venta_maxima": {
-    "price": 577.501,
-    "name": "-TheZ-"
+    "price": 580.0,
+    "name": "NalimAc38"
   },
-  "promedio": 581.75,
+  "promedio": 581.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
