@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T04:49:14.311415",
-  "actualizado_vzla": "2025-12-31 00:49:14 -04",
+  "timestamp_utc": "2025-12-31T05:23:23.553019",
+  "actualizado_vzla": "2025-12-31 01:23:23 -04",
   "compra_segundo": {
-    "price": 587.3,
-    "name": "labebe2222"
+    "price": 587.24,
+    "name": "Tether Premium "
   },
   "venta_maxima": {
-    "price": 590.0,
-    "name": "Quick Payment"
+    "price": 583.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 588.65,
+  "promedio": 585.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
