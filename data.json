@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T05:23:23.553019",
-  "actualizado_vzla": "2025-12-31 01:23:23 -04",
+  "timestamp_utc": "2025-12-31T05:44:16.124309",
+  "actualizado_vzla": "2025-12-31 01:44:16 -04",
   "compra_segundo": {
-    "price": 587.24,
-    "name": "Tether Premium "
+    "price": 587.9,
+    "name": "Acuarius_04"
   },
   "venta_maxima": {
     "price": 583.0,
     "name": "CoorpLogistic"
   },
-  "promedio": 585.12,
+  "promedio": 585.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
