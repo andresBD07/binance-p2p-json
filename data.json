@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T16:18:44.234187",
-  "actualizado_vzla": "2025-12-31 12:18:44 -04",
+  "timestamp_utc": "2025-12-31T16:46:03.392024",
+  "actualizado_vzla": "2025-12-31 12:46:03 -04",
   "compra_segundo": {
-    "price": 567.25,
-    "name": "Juliojv7"
+    "price": 565.0,
+    "name": "사스케"
   },
   "venta_maxima": {
-    "price": 576.0,
+    "price": 580.0,
     "name": "安全与信任"
   },
-  "promedio": 571.62,
+  "promedio": 572.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
