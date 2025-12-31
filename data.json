@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T19:53:00.056241",
-  "actualizado_vzla": "2025-12-31 15:53:00 -04",
+  "timestamp_utc": "2025-12-31T20:24:35.088073",
+  "actualizado_vzla": "2025-12-31 16:24:35 -04",
   "compra_segundo": {
-    "price": 571.999,
-    "name": "Ecomsociety"
+    "price": 573.0,
+    "name": "Proverbios16_3"
   },
   "venta_maxima": {
     "price": 576.0,
     "name": "-Godgiven-"
   },
-  "promedio": 574.0,
+  "promedio": 574.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
