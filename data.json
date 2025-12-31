@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T21:27:11.091427",
-  "actualizado_vzla": "2025-12-31 17:27:11 -04",
+  "timestamp_utc": "2025-12-31T21:43:54.462934",
+  "actualizado_vzla": "2025-12-31 17:43:54 -04",
   "compra_segundo": {
-    "price": 572.999,
-    "name": "frankmlh"
+    "price": 572.55,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 575.0,
+    "price": 573.0,
     "name": "-Godgiven-"
   },
-  "promedio": 574.0,
+  "promedio": 572.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
