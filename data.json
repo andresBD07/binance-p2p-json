@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T00:55:22.124076",
-  "actualizado_vzla": "2025-12-30 20:55:22 -04",
+  "timestamp_utc": "2025-12-31T02:57:36.115071",
+  "actualizado_vzla": "2025-12-30 22:57:36 -04",
   "compra_segundo": {
-    "price": 585.99,
-    "name": "Burdyn"
+    "price": 587.9,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 592.46,
-    "name": "Quick Payment"
+    "price": 590.0,
+    "name": "Miranda "
   },
-  "promedio": 589.23,
+  "promedio": 588.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
