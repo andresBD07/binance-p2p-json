@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T23:09:16.683395",
-  "actualizado_vzla": "2025-12-31 19:09:16 -04",
+  "timestamp_utc": "2025-12-31T23:32:11.910125",
+  "actualizado_vzla": "2025-12-31 19:32:11 -04",
   "compra_segundo": {
-    "price": 566.4,
-    "name": "Frijol007"
+    "price": 565.97,
+    "name": "IntercambiosC"
   },
   "venta_maxima": {
-    "price": 564.0,
-    "name": "-Godgiven-"
+    "price": 569.001,
+    "name": "火PhoenixRising"
   },
-  "promedio": 565.2,
+  "promedio": 567.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
