@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T08:32:53.191014",
-  "actualizado_vzla": "2025-12-31 04:32:53 -04",
+  "timestamp_utc": "2025-12-31T08:57:13.136415",
+  "actualizado_vzla": "2025-12-31 04:57:13 -04",
   "compra_segundo": {
-    "price": 589.0,
-    "name": "LIBEROYA"
+    "price": 588.9,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
     "price": 580.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 584.5,
+  "promedio": 584.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
