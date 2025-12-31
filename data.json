@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T19:39:50.919410",
-  "actualizado_vzla": "2025-12-31 15:39:50 -04",
+  "timestamp_utc": "2025-12-31T19:53:00.056241",
+  "actualizado_vzla": "2025-12-31 15:53:00 -04",
   "compra_segundo": {
-    "price": 571.3,
-    "name": "Mustangp2p"
+    "price": 571.999,
+    "name": "Ecomsociety"
   },
   "venta_maxima": {
     "price": 576.0,
     "name": "-Godgiven-"
   },
-  "promedio": 573.65,
+  "promedio": 574.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
