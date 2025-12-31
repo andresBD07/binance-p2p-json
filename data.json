@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T15:50:06.688836",
-  "actualizado_vzla": "2025-12-31 11:50:06 -04",
+  "timestamp_utc": "2025-12-31T16:18:44.234187",
+  "actualizado_vzla": "2025-12-31 12:18:44 -04",
   "compra_segundo": {
-    "price": 569.1,
-    "name": "Atumanocambio"
+    "price": 567.25,
+    "name": "Juliojv7"
   },
   "venta_maxima": {
-    "price": 575.35,
-    "name": "浪人幣"
+    "price": 576.0,
+    "name": "安全与信任"
   },
-  "promedio": 572.23,
+  "promedio": 571.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
