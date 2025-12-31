@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T14:29:02.417485",
-  "actualizado_vzla": "2025-12-31 10:29:02 -04",
+  "timestamp_utc": "2025-12-31T14:48:22.350441",
+  "actualizado_vzla": "2025-12-31 10:48:22 -04",
   "compra_segundo": {
-    "price": 569.0,
-    "name": "CripSeguro23"
+    "price": 571.79,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
-    "price": 575.0,
-    "name": "安全与信任"
+    "price": 574.5,
+    "name": "浪人幣"
   },
-  "promedio": 572.0,
+  "promedio": 573.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
