@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2025-12-31T05:57:52.855480",
-  "actualizado_vzla": "2025-12-31 01:57:52 -04",
+  "timestamp_utc": "2025-12-31T06:47:08.599623",
+  "actualizado_vzla": "2025-12-31 02:47:08 -04",
   "compra_segundo": {
-    "price": 587.9,
-    "name": "Acuarius_04"
+    "price": 589.0,
+    "name": "LIBEROYA"
   },
   "venta_maxima": {
-    "price": 583.0,
-    "name": "CoorpLogistic"
+    "price": 580.15,
+    "name": "亀CryptoKoku"
   },
-  "promedio": 585.45,
+  "promedio": 584.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
