@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T07:52:01.592141",
-  "actualizado_vzla": "2026-01-01 03:52:01 -04",
+  "timestamp_utc": "2026-01-01T08:28:00.037393",
+  "actualizado_vzla": "2026-01-01 04:28:00 -04",
   "compra_segundo": {
-    "price": 574.78,
-    "name": "PrecozPay"
+    "price": 579.0,
+    "name": "Jcby"
   },
   "venta_maxima": {
     "price": 563.501,
     "name": "火PhoenixRising"
   },
-  "promedio": 569.14,
+  "promedio": 571.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
