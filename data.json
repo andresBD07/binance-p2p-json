@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T11:56:17.850388",
-  "actualizado_vzla": "2026-01-01 07:56:17 -04",
+  "timestamp_utc": "2026-01-01T12:59:26.509959",
+  "actualizado_vzla": "2026-01-01 08:59:26 -04",
   "compra_segundo": {
-    "price": 577.39,
-    "name": "DxvidExchange"
+    "price": 578.999,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
-    "price": 564.0,
-    "name": "T1_______"
+    "price": 570.2,
+    "name": "MikasaAckerman"
   },
-  "promedio": 570.69,
+  "promedio": 574.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
