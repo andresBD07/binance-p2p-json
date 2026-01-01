@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T21:49:38.201081",
-  "actualizado_vzla": "2026-01-01 17:49:38 -04",
+  "timestamp_utc": "2026-01-01T22:13:06.574536",
+  "actualizado_vzla": "2026-01-01 18:13:06 -04",
   "compra_segundo": {
-    "price": 578.9,
-    "name": "ExpressCash23"
+    "price": 576.999,
+    "name": "F_A_I_R"
   },
   "venta_maxima": {
-    "price": 576.0,
-    "name": "-Godgiven-"
+    "price": 575.0,
+    "name": "CambiosAllegria"
   },
-  "promedio": 577.45,
+  "promedio": 576.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
