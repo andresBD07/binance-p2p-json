@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T19:57:54.338875",
-  "actualizado_vzla": "2026-01-01 15:57:54 -04",
+  "timestamp_utc": "2026-01-01T20:33:26.267882",
+  "actualizado_vzla": "2026-01-01 16:33:26 -04",
   "compra_segundo": {
-    "price": 583.99,
-    "name": "愛Hisoka_"
+    "price": 580.7,
+    "name": "DineroRapido1"
   },
   "venta_maxima": {
-    "price": 581.0,
-    "name": "-Godgiven-"
+    "price": 581.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 582.5,
+  "promedio": 581.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
