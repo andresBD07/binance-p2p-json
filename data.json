@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T11:25:46.501688",
-  "actualizado_vzla": "2026-01-01 07:25:46 -04",
+  "timestamp_utc": "2026-01-01T11:43:16.792999",
+  "actualizado_vzla": "2026-01-01 07:43:16 -04",
   "compra_segundo": {
-    "price": 575.0,
-    "name": "Carlos"
+    "price": 574.25,
+    "name": "Anonymous-GC07"
   },
   "venta_maxima": {
     "price": 564.0,
     "name": "T1_______"
   },
-  "promedio": 569.5,
+  "promedio": 569.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
