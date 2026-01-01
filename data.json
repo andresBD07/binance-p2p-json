@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T23:41:04.740216",
-  "actualizado_vzla": "2026-01-01 19:41:04 -04",
+  "timestamp_utc": "2026-01-01T23:53:51.023588",
+  "actualizado_vzla": "2026-01-01 19:53:51 -04",
   "compra_segundo": {
-    "price": 574.9,
-    "name": "SqualoZ"
+    "price": 575.9,
+    "name": "CambiosJhonny06"
   },
   "venta_maxima": {
     "price": 574.0,
     "name": "-Godgiven-"
   },
-  "promedio": 574.45,
+  "promedio": 574.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
