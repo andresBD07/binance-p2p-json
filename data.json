@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T11:43:16.792999",
-  "actualizado_vzla": "2026-01-01 07:43:16 -04",
+  "timestamp_utc": "2026-01-01T11:56:17.850388",
+  "actualizado_vzla": "2026-01-01 07:56:17 -04",
   "compra_segundo": {
-    "price": 574.25,
-    "name": "Anonymous-GC07"
+    "price": 577.39,
+    "name": "DxvidExchange"
   },
   "venta_maxima": {
     "price": 564.0,
     "name": "T1_______"
   },
-  "promedio": 569.12,
+  "promedio": 570.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
