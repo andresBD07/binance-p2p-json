@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T12:59:26.509959",
-  "actualizado_vzla": "2026-01-01 08:59:26 -04",
+  "timestamp_utc": "2026-01-01T13:40:36.210292",
+  "actualizado_vzla": "2026-01-01 09:40:36 -04",
   "compra_segundo": {
-    "price": 578.999,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 582.796,
+    "name": "AdmCriptoTuku88"
   },
   "venta_maxima": {
-    "price": 570.2,
+    "price": 573.0,
     "name": "MikasaAckerman"
   },
-  "promedio": 574.6,
+  "promedio": 577.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
