@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T22:39:34.561632",
-  "actualizado_vzla": "2026-01-01 18:39:34 -04",
+  "timestamp_utc": "2026-01-01T22:53:33.088202",
+  "actualizado_vzla": "2026-01-01 18:53:33 -04",
   "compra_segundo": {
-    "price": 577.0,
-    "name": "Inversiones-Walaw"
+    "price": 576.899,
+    "name": "El Ciudadano VZ"
   },
   "venta_maxima": {
     "price": 574.0,
     "name": "-Godgiven-"
   },
-  "promedio": 575.5,
+  "promedio": 575.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
