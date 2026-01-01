@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T18:21:40.430841",
-  "actualizado_vzla": "2026-01-01 14:21:40 -04",
+  "timestamp_utc": "2026-01-01T18:51:56.818771",
+  "actualizado_vzla": "2026-01-01 14:51:56 -04",
   "compra_segundo": {
-    "price": 583.99,
-    "name": "Crypto_CR-Vzla"
+    "price": 586.75,
+    "name": "CambiosDelValle26"
   },
   "venta_maxima": {
-    "price": 579.0,
+    "price": 581.0,
     "name": "-Godgiven-"
   },
-  "promedio": 581.5,
+  "promedio": 583.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
