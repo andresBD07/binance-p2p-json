@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T09:31:12.947655",
-  "actualizado_vzla": "2026-01-01 05:31:12 -04",
+  "timestamp_utc": "2026-01-01T09:50:22.915412",
+  "actualizado_vzla": "2026-01-01 05:50:22 -04",
   "compra_segundo": {
-    "price": 578.998,
-    "name": "--FLASH--"
+    "price": 578.5,
+    "name": "THE BOSS  96"
   },
   "venta_maxima": {
-    "price": 565.001,
-    "name": "火PhoenixRising"
+    "price": 562.0,
+    "name": "T1_______"
   },
-  "promedio": 572.0,
+  "promedio": 570.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
