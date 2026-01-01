@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T19:31:47.296708",
-  "actualizado_vzla": "2026-01-01 15:31:47 -04",
+  "timestamp_utc": "2026-01-01T19:45:00.595516",
+  "actualizado_vzla": "2026-01-01 15:45:00 -04",
   "compra_segundo": {
-    "price": 584.5,
-    "name": "NavinSwap"
+    "price": 583.999,
+    "name": "Ecomsociety"
   },
   "venta_maxima": {
     "price": 581.0,
     "name": "-Godgiven-"
   },
-  "promedio": 582.75,
+  "promedio": 582.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
