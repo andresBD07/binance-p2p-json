@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-01T08:54:53.740342",
-  "actualizado_vzla": "2026-01-01 04:54:53 -04",
+  "timestamp_utc": "2026-01-01T09:31:12.947655",
+  "actualizado_vzla": "2026-01-01 05:31:12 -04",
   "compra_segundo": {
-    "price": 579.0,
-    "name": "Jcby"
+    "price": 578.998,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
     "price": 565.001,
