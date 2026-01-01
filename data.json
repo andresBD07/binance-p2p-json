@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T07:12:48.899660",
-  "actualizado_vzla": "2026-01-01 03:12:48 -04",
+  "timestamp_utc": "2026-01-01T07:38:21.730503",
+  "actualizado_vzla": "2026-01-01 03:38:21 -04",
   "compra_segundo": {
-    "price": 574.78,
-    "name": "PrecozPay"
+    "price": 574.5,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
     "price": 563.501,
     "name": "火PhoenixRising"
   },
-  "promedio": 569.14,
+  "promedio": 569.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
