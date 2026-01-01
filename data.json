@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T08:28:00.037393",
-  "actualizado_vzla": "2026-01-01 04:28:00 -04",
+  "timestamp_utc": "2026-01-01T08:54:53.740342",
+  "actualizado_vzla": "2026-01-01 04:54:53 -04",
   "compra_segundo": {
     "price": 579.0,
     "name": "Jcby"
   },
   "venta_maxima": {
-    "price": 563.501,
+    "price": 565.001,
     "name": "火PhoenixRising"
   },
-  "promedio": 571.25,
+  "promedio": 572.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
