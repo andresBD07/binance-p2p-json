@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T05:00:06.135537",
-  "actualizado_vzla": "2026-01-01 01:00:06 -04",
+  "timestamp_utc": "2026-01-01T05:38:36.024016",
+  "actualizado_vzla": "2026-01-01 01:38:36 -04",
   "compra_segundo": {
-    "price": 573.9,
-    "name": "AlphaWolfp2p"
+    "price": 575.68,
+    "name": "jfjaraaa89"
   },
   "venta_maxima": {
-    "price": 561.501,
-    "name": "火PhoenixRising"
+    "price": 563.0,
+    "name": "MikasaAckerman"
   },
-  "promedio": 567.7,
+  "promedio": 569.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
