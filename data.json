@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-01T15:34:43.546991",
-  "actualizado_vzla": "2026-01-01 11:34:43 -04",
+  "timestamp_utc": "2026-01-01T15:50:34.189111",
+  "actualizado_vzla": "2026-01-01 11:50:34 -04",
   "compra_segundo": {
-    "price": 577.999,
-    "name": "Albert Vierma "
+    "price": 578.0,
+    "name": "Pivot_05"
   },
   "venta_maxima": {
     "price": 573.0,
