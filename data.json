@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T16:47:59.816679",
-  "actualizado_vzla": "2026-01-01 12:47:59 -04",
+  "timestamp_utc": "2026-01-01T17:10:00.598661",
+  "actualizado_vzla": "2026-01-01 13:10:00 -04",
   "compra_segundo": {
-    "price": 577.996,
-    "name": "Asdru_especial08"
+    "price": 578.25,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 574.5,
-    "name": "RAULITO2809"
+    "price": 575.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 576.25,
+  "promedio": 576.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
