@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T21:36:53.856249",
-  "actualizado_vzla": "2026-01-01 17:36:53 -04",
+  "timestamp_utc": "2026-01-01T21:49:38.201081",
+  "actualizado_vzla": "2026-01-01 17:49:38 -04",
   "compra_segundo": {
-    "price": 579.2,
-    "name": "CambiosRubiexpress"
+    "price": 578.9,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
     "price": 576.0,
     "name": "-Godgiven-"
   },
-  "promedio": 577.6,
+  "promedio": 577.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
