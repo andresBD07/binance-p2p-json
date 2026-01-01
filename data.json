@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T05:56:20.396298",
-  "actualizado_vzla": "2026-01-01 01:56:20 -04",
+  "timestamp_utc": "2026-01-01T06:46:38.404998",
+  "actualizado_vzla": "2026-01-01 02:46:38 -04",
   "compra_segundo": {
-    "price": 575.99,
-    "name": "--FLASH--"
+    "price": 574.5,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 563.0,
-    "name": "MikasaAckerman"
+    "price": 563.001,
+    "name": "Rickambios "
   },
-  "promedio": 569.5,
+  "promedio": 568.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
