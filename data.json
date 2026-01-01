@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T13:40:36.210292",
-  "actualizado_vzla": "2026-01-01 09:40:36 -04",
+  "timestamp_utc": "2026-01-01T13:56:38.442429",
+  "actualizado_vzla": "2026-01-01 09:56:38 -04",
   "compra_segundo": {
-    "price": 582.796,
-    "name": "AdmCriptoTuku88"
+    "price": 580.899,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 573.0,
+    "price": 571.0,
     "name": "MikasaAckerman"
   },
-  "promedio": 577.9,
+  "promedio": 575.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
