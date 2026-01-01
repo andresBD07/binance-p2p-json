@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T17:35:18.009197",
-  "actualizado_vzla": "2026-01-01 13:35:18 -04",
+  "timestamp_utc": "2026-01-01T17:50:08.312016",
+  "actualizado_vzla": "2026-01-01 13:50:08 -04",
   "compra_segundo": {
-    "price": 581.0,
-    "name": "MyE_spa"
+    "price": 583.8,
+    "name": "Servicios_JT"
   },
   "venta_maxima": {
-    "price": 580.0,
-    "name": "Godisgift"
+    "price": 579.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 580.5,
+  "promedio": 581.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
