@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-01T22:13:06.574536",
-  "actualizado_vzla": "2026-01-01 18:13:06 -04",
+  "timestamp_utc": "2026-01-01T22:39:34.561632",
+  "actualizado_vzla": "2026-01-01 18:39:34 -04",
   "compra_segundo": {
-    "price": 576.999,
-    "name": "F_A_I_R"
+    "price": 577.0,
+    "name": "Inversiones-Walaw"
   },
   "venta_maxima": {
-    "price": 575.0,
-    "name": "CambiosAllegria"
+    "price": 574.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 576.0,
+  "promedio": 575.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
