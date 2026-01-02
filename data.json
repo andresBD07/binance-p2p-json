@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T10:56:53.039380",
-  "actualizado_vzla": "2026-01-02 06:56:53 -04",
+  "timestamp_utc": "2026-01-02T11:25:56.751033",
+  "actualizado_vzla": "2026-01-02 07:25:56 -04",
   "compra_segundo": {
-    "price": 578.9,
-    "name": "FastChangeSafeChange"
+    "price": 574.999,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
     "price": 575.0,
     "name": "Lcgood"
   },
-  "promedio": 576.95,
+  "promedio": 575.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
