@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T18:27:53.659522",
-  "actualizado_vzla": "2026-01-02 14:27:53 -04",
+  "timestamp_utc": "2026-01-02T18:53:50.793196",
+  "actualizado_vzla": "2026-01-02 14:53:50 -04",
   "compra_segundo": {
-    "price": 592.4,
-    "name": "TUCAMBIOSEGURO24"
+    "price": 594.8,
+    "name": "CambiosVeryfast23"
   },
   "venta_maxima": {
     "price": 599.26,
     "name": "Godisgift"
   },
-  "promedio": 595.83,
+  "promedio": 597.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
