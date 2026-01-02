@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T19:28:56.911520",
-  "actualizado_vzla": "2026-01-02 15:28:56 -04",
+  "timestamp_utc": "2026-01-02T19:43:33.906102",
+  "actualizado_vzla": "2026-01-02 15:43:33 -04",
   "compra_segundo": {
-    "price": 599.0,
-    "name": "JM2026"
+    "price": 628.779,
+    "name": "ivaneskape1"
   },
   "venta_maxima": {
-    "price": 599.624,
-    "name": "THE BOSS  96"
+    "price": 599.28,
+    "name": "Godisgift"
   },
-  "promedio": 599.31,
+  "promedio": 614.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
