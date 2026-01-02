@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-02T11:25:56.751033",
-  "actualizado_vzla": "2026-01-02 07:25:56 -04",
+  "timestamp_utc": "2026-01-02T11:42:48.584293",
+  "actualizado_vzla": "2026-01-02 07:42:48 -04",
   "compra_segundo": {
-    "price": 574.999,
-    "name": "Richgato_Cambios"
+    "price": 575.0,
+    "name": "LGD04"
   },
   "venta_maxima": {
     "price": 575.0,
