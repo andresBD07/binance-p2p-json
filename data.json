@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T12:57:43.729004",
-  "actualizado_vzla": "2026-01-02 08:57:43 -04",
+  "timestamp_utc": "2026-01-02T13:39:14.035362",
+  "actualizado_vzla": "2026-01-02 09:39:14 -04",
   "compra_segundo": {
-    "price": 569.0,
-    "name": "A1000C"
+    "price": 572.0,
+    "name": "VENTASJM"
   },
   "venta_maxima": {
-    "price": 567.2,
-    "name": "HAWKEYE-1"
+    "price": 575.0,
+    "name": "Godisgift"
   },
-  "promedio": 568.1,
+  "promedio": 573.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
