@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T09:51:48.577386",
-  "actualizado_vzla": "2026-01-02 05:51:48 -04",
+  "timestamp_utc": "2026-01-02T10:19:49.191814",
+  "actualizado_vzla": "2026-01-02 06:19:49 -04",
   "compra_segundo": {
-    "price": 582.8,
-    "name": "HunterxTrade"
+    "price": 582.879,
+    "name": "Eldoc1996"
   },
   "venta_maxima": {
     "price": 575.0,
     "name": "Lcgood"
   },
-  "promedio": 578.9,
+  "promedio": 578.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
