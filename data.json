@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T19:43:33.906102",
-  "actualizado_vzla": "2026-01-02 15:43:33 -04",
+  "timestamp_utc": "2026-01-02T19:56:19.032843",
+  "actualizado_vzla": "2026-01-02 15:56:19 -04",
   "compra_segundo": {
-    "price": 628.779,
-    "name": "ivaneskape1"
+    "price": 625.983,
+    "name": "Gjsan"
   },
   "venta_maxima": {
-    "price": 599.28,
-    "name": "Godisgift"
+    "price": 599.269,
+    "name": "TOPlevelS"
   },
-  "promedio": 614.03,
+  "promedio": 612.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
