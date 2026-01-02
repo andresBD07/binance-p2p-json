@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T11:55:36.140193",
-  "actualizado_vzla": "2026-01-02 07:55:36 -04",
+  "timestamp_utc": "2026-01-02T12:57:43.729004",
+  "actualizado_vzla": "2026-01-02 08:57:43 -04",
   "compra_segundo": {
-    "price": 572.0,
-    "name": "AndradeGascon"
+    "price": 569.0,
+    "name": "A1000C"
   },
   "venta_maxima": {
-    "price": 562.201,
-    "name": "_CAMBI0S_SEGUR0S_"
+    "price": 567.2,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 567.1,
+  "promedio": 568.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
