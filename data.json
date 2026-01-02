@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T14:48:59.970331",
-  "actualizado_vzla": "2026-01-02 10:48:59 -04",
+  "timestamp_utc": "2026-01-02T15:12:28.989807",
+  "actualizado_vzla": "2026-01-02 11:12:28 -04",
   "compra_segundo": {
-    "price": 574.0,
-    "name": "EduardoArrieche"
+    "price": 577.0,
+    "name": "Alejandro21mendoza"
   },
   "venta_maxima": {
-    "price": 578.5,
-    "name": "-Godgiven-"
+    "price": 579.5,
+    "name": "SasukeTrader"
   },
-  "promedio": 576.25,
+  "promedio": 578.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
