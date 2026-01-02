@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-01-02T21:57:12.432254",
-  "actualizado_vzla": "2026-01-02 17:57:12 -04",
+  "timestamp_utc": "2026-01-02T22:30:31.322436",
+  "actualizado_vzla": "2026-01-02 18:30:31 -04",
   "compra_segundo": {
-    "price": 599.4,
-    "name": "VE_TRADE_ZONE"
+    "price": 599.0,
+    "name": "Criptochela"
   },
   "venta_maxima": {
-    "price": 602.112,
+    "price": 602.515,
     "name": "安全与信任"
   },
   "promedio": 600.76,
