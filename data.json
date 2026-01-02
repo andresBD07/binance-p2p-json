@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T03:46:36.970071",
-  "actualizado_vzla": "2026-01-01 23:46:36 -04",
+  "timestamp_utc": "2026-01-02T04:30:12.345015",
+  "actualizado_vzla": "2026-01-02 00:30:12 -04",
   "compra_segundo": {
-    "price": 580.38,
-    "name": "愛Hisoka_"
+    "price": 581.0,
+    "name": "Transacción Segura"
   },
   "venta_maxima": {
     "price": 575.0,
     "name": "Lcgood"
   },
-  "promedio": 577.69,
+  "promedio": 578.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
