@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T11:42:48.584293",
-  "actualizado_vzla": "2026-01-02 07:42:48 -04",
+  "timestamp_utc": "2026-01-02T11:55:36.140193",
+  "actualizado_vzla": "2026-01-02 07:55:36 -04",
   "compra_segundo": {
-    "price": 575.0,
-    "name": "LGD04"
+    "price": 572.0,
+    "name": "AndradeGascon"
   },
   "venta_maxima": {
-    "price": 575.0,
-    "name": "Lcgood"
+    "price": 562.201,
+    "name": "_CAMBI0S_SEGUR0S_"
   },
-  "promedio": 575.0,
+  "promedio": 567.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
