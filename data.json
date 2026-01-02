@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T06:45:42.784292",
-  "actualizado_vzla": "2026-01-02 02:45:42 -04",
+  "timestamp_utc": "2026-01-02T07:13:13.029361",
+  "actualizado_vzla": "2026-01-02 03:13:13 -04",
   "compra_segundo": {
-    "price": 583.8,
-    "name": "ComercioJRG"
+    "price": 583.5,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
     "price": 575.0,
     "name": "Lcgood"
   },
-  "promedio": 579.4,
+  "promedio": 579.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
