@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T18:53:50.793196",
-  "actualizado_vzla": "2026-01-02 14:53:50 -04",
+  "timestamp_utc": "2026-01-02T19:16:09.771094",
+  "actualizado_vzla": "2026-01-02 15:16:09 -04",
   "compra_segundo": {
-    "price": 594.8,
-    "name": "CambiosVeryfast23"
+    "price": 598.4,
+    "name": "laratradingcl"
   },
   "venta_maxima": {
-    "price": 599.26,
-    "name": "Godisgift"
+    "price": 599.132,
+    "name": "TOPlevelS"
   },
-  "promedio": 597.03,
+  "promedio": 598.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
