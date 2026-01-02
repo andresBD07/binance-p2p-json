@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T21:28:52.945780",
-  "actualizado_vzla": "2026-01-02 17:28:52 -04",
+  "timestamp_utc": "2026-01-02T21:43:59.367169",
+  "actualizado_vzla": "2026-01-02 17:43:59 -04",
   "compra_segundo": {
-    "price": 608.0,
-    "name": "CriollosMONEY"
+    "price": 604.797,
+    "name": "cratic"
   },
   "venta_maxima": {
     "price": 602.112,
     "name": "安全与信任"
   },
-  "promedio": 605.06,
+  "promedio": 603.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
