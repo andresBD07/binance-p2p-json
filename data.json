@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T23:32:29.865683",
-  "actualizado_vzla": "2026-01-02 19:32:29 -04",
+  "timestamp_utc": "2026-01-02T23:46:27.509020",
+  "actualizado_vzla": "2026-01-02 19:46:27 -04",
   "compra_segundo": {
-    "price": 597.0,
-    "name": "alexander08_25"
+    "price": 598.0,
+    "name": "Inversiones-Walaw"
   },
   "venta_maxima": {
-    "price": 605.808,
-    "name": "InvMiggy"
+    "price": 606.815,
+    "name": "SasukeTrader"
   },
-  "promedio": 601.4,
+  "promedio": 602.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
