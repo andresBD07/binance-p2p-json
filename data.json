@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T07:52:56.972523",
-  "actualizado_vzla": "2026-01-02 03:52:56 -04",
+  "timestamp_utc": "2026-01-02T08:31:00.984678",
+  "actualizado_vzla": "2026-01-02 04:31:00 -04",
   "compra_segundo": {
-    "price": 583.8,
-    "name": "ComercioJRG"
+    "price": 583.7,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
     "price": 575.0,
     "name": "Lcgood"
   },
-  "promedio": 579.4,
+  "promedio": 579.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
