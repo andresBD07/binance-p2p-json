@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T17:51:49.909497",
-  "actualizado_vzla": "2026-01-02 13:51:49 -04",
+  "timestamp_utc": "2026-01-02T18:27:53.659522",
+  "actualizado_vzla": "2026-01-02 14:27:53 -04",
   "compra_segundo": {
-    "price": 591.05,
-    "name": "CambiosLindos2"
+    "price": 592.4,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
-    "price": 596.25,
-    "name": "SasukeTrader"
+    "price": 599.26,
+    "name": "Godisgift"
   },
-  "promedio": 593.65,
+  "promedio": 595.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
