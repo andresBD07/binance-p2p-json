@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T22:30:31.322436",
-  "actualizado_vzla": "2026-01-02 18:30:31 -04",
+  "timestamp_utc": "2026-01-02T22:49:12.868595",
+  "actualizado_vzla": "2026-01-02 18:49:12 -04",
   "compra_segundo": {
-    "price": 599.0,
-    "name": "Criptochela"
+    "price": 598.4,
+    "name": "loudly"
   },
   "venta_maxima": {
-    "price": 602.515,
-    "name": "安全与信任"
+    "price": 602.665,
+    "name": "InvMiggy"
   },
-  "promedio": 600.76,
+  "promedio": 600.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
