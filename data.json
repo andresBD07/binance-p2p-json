@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T21:43:59.367169",
-  "actualizado_vzla": "2026-01-02 17:43:59 -04",
+  "timestamp_utc": "2026-01-02T21:57:12.432254",
+  "actualizado_vzla": "2026-01-02 17:57:12 -04",
   "compra_segundo": {
-    "price": 604.797,
-    "name": "cratic"
+    "price": 599.4,
+    "name": "VE_TRADE_ZONE"
   },
   "venta_maxima": {
     "price": 602.112,
     "name": "安全与信任"
   },
-  "promedio": 603.45,
+  "promedio": 600.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
