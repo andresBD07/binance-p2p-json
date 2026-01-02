@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T21:10:07.217640",
-  "actualizado_vzla": "2026-01-02 17:10:07 -04",
+  "timestamp_utc": "2026-01-02T21:28:52.945780",
+  "actualizado_vzla": "2026-01-02 17:28:52 -04",
   "compra_segundo": {
-    "price": 612.708,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 608.0,
+    "name": "CriollosMONEY"
   },
   "venta_maxima": {
-    "price": 601.035,
-    "name": "THE BOSS  96"
+    "price": 602.112,
+    "name": "安全与信任"
   },
-  "promedio": 606.87,
+  "promedio": 605.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
