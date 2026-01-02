@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T05:37:56.380495",
-  "actualizado_vzla": "2026-01-02 01:37:56 -04",
+  "timestamp_utc": "2026-01-02T05:55:29.217305",
+  "actualizado_vzla": "2026-01-02 01:55:29 -04",
   "compra_segundo": {
-    "price": 581.485,
-    "name": "_CHIGUIRITO_"
+    "price": 581.999,
+    "name": "TuCambioYa_"
   },
   "venta_maxima": {
     "price": 575.0,
     "name": "Lcgood"
   },
-  "promedio": 578.24,
+  "promedio": 578.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
