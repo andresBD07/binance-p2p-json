@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T17:18:20.137681",
-  "actualizado_vzla": "2026-01-02 13:18:20 -04",
+  "timestamp_utc": "2026-01-02T17:39:02.207794",
+  "actualizado_vzla": "2026-01-02 13:39:02 -04",
   "compra_segundo": {
-    "price": 592.3,
-    "name": "LECHUGAEXPRESS"
+    "price": 591.799,
+    "name": "Qlq_Men0r"
   },
   "venta_maxima": {
-    "price": 593.6,
+    "price": 597.0,
     "name": "SasukeTrader"
   },
-  "promedio": 592.95,
+  "promedio": 594.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
