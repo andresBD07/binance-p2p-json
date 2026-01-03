@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T06:59:31.960672",
-  "actualizado_vzla": "2026-01-03 02:59:31 -04",
+  "timestamp_utc": "2026-01-03T07:28:39.669498",
+  "actualizado_vzla": "2026-01-03 03:28:39 -04",
   "compra_segundo": {
-    "price": 631.68,
-    "name": "CRIPTOPARK"
+    "price": 847.324,
+    "name": "El Ciudadano VZ"
   },
   "venta_maxima": {
-    "price": 604.797,
-    "name": "THE BOSS  96"
+    "price": 604.832,
+    "name": "cazing2230-2"
   },
-  "promedio": 618.24,
+  "promedio": 726.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
