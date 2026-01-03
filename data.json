@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T22:53:47.297680",
-  "actualizado_vzla": "2026-01-03 18:53:47 -04",
+  "timestamp_utc": "2026-01-03T23:22:23.905781",
+  "actualizado_vzla": "2026-01-03 19:22:23 -04",
   "compra_segundo": {
-    "price": 618.5,
-    "name": "Zuko02"
+    "price": 601.5,
+    "name": "cambiosaular1"
   },
   "venta_maxima": {
-    "price": 619.0,
-    "name": "VERTUOK"
+    "price": 600.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 618.75,
+  "promedio": 600.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
