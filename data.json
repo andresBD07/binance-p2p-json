@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T03:41:40.681505",
-  "actualizado_vzla": "2026-01-02 23:41:40 -04",
+  "timestamp_utc": "2026-01-03T04:19:47.845787",
+  "actualizado_vzla": "2026-01-03 00:19:47 -04",
   "compra_segundo": {
-    "price": 610.536,
-    "name": "CryptoSickoP2P"
+    "price": 607.629,
+    "name": "dkans21"
   },
   "venta_maxima": {
-    "price": 604.11,
+    "price": 604.107,
     "name": "Quick Payment"
   },
-  "promedio": 607.32,
+  "promedio": 605.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
