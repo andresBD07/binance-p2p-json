@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-02T23:59:42.171256",
-  "actualizado_vzla": "2026-01-02 19:59:42 -04",
+  "timestamp_utc": "2026-01-03T02:18:39.907146",
+  "actualizado_vzla": "2026-01-02 22:18:39 -04",
   "compra_segundo": {
-    "price": 600.0,
-    "name": "Dayuda"
+    "price": 612.885,
+    "name": "Good-traderl"
   },
   "venta_maxima": {
-    "price": 607.713,
-    "name": "SasukeTrader"
+    "price": 604.106,
+    "name": "Quick Payment"
   },
-  "promedio": 603.86,
+  "promedio": 608.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
