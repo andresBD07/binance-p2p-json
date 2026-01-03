@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T17:26:47.351294",
-  "actualizado_vzla": "2026-01-03 13:26:47 -04",
+  "timestamp_utc": "2026-01-03T17:44:08.277790",
+  "actualizado_vzla": "2026-01-03 13:44:08 -04",
   "compra_segundo": {
-    "price": 588.6,
-    "name": "cryptoparra16"
+    "price": 589.799,
+    "name": "Money-Max23"
   },
   "venta_maxima": {
-    "price": 595.0,
-    "name": "Godisgift"
+    "price": 595.2,
+    "name": "RONIN2_0"
   },
-  "promedio": 591.8,
+  "promedio": 592.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
