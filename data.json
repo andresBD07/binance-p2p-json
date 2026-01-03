@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T17:57:22.802386",
-  "actualizado_vzla": "2026-01-03 13:57:22 -04",
+  "timestamp_utc": "2026-01-03T18:39:28.760182",
+  "actualizado_vzla": "2026-01-03 14:39:28 -04",
   "compra_segundo": {
-    "price": 591.8,
-    "name": "Dolarcoin"
+    "price": 592.99,
+    "name": "Kuchau"
   },
   "venta_maxima": {
-    "price": 598.476,
-    "name": "Quick Payment"
+    "price": 600.02,
+    "name": "securitylc"
   },
-  "promedio": 595.14,
+  "promedio": 596.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
