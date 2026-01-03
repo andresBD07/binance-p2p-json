@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T07:57:27.709728",
-  "actualizado_vzla": "2026-01-03 03:57:27 -04",
+  "timestamp_utc": "2026-01-03T08:36:55.138675",
+  "actualizado_vzla": "2026-01-03 04:36:55 -04",
   "compra_segundo": {
     "price": 946.89,
     "name": "Albert Vierma "
   },
   "venta_maxima": {
-    "price": 609.525,
-    "name": "Lcgood"
+    "price": 610.851,
+    "name": "cazing2230-2"
   },
-  "promedio": 778.21,
+  "promedio": 778.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
