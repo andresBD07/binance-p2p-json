@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T19:22:55.576624",
-  "actualizado_vzla": "2026-01-03 15:22:55 -04",
+  "timestamp_utc": "2026-01-03T19:37:53.419252",
+  "actualizado_vzla": "2026-01-03 15:37:53 -04",
   "compra_segundo": {
-    "price": 614.0,
-    "name": "ENVIOS_YC"
+    "price": 624.8,
+    "name": "ミReinaPepiadaCoinミ"
   },
   "venta_maxima": {
-    "price": 624.51,
+    "price": 632.0,
     "name": "cazing2230-2"
   },
-  "promedio": 619.25,
+  "promedio": 628.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
