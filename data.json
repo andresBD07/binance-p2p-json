@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T21:52:18.105961",
-  "actualizado_vzla": "2026-01-03 17:52:18 -04",
+  "timestamp_utc": "2026-01-03T22:18:49.064314",
+  "actualizado_vzla": "2026-01-03 18:18:49 -04",
   "compra_segundo": {
-    "price": 627.995,
-    "name": "KrimpaCambios"
+    "price": 626.698,
+    "name": "Egp-trader"
   },
   "venta_maxima": {
-    "price": 670.0,
-    "name": "CambiosRubiexpress"
+    "price": 625.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 649.0,
+  "promedio": 625.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
