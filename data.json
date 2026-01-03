@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T05:16:55.309445",
-  "actualizado_vzla": "2026-01-03 01:16:55 -04",
+  "timestamp_utc": "2026-01-03T05:42:03.013746",
+  "actualizado_vzla": "2026-01-03 01:42:03 -04",
   "compra_segundo": {
-    "price": 616.76,
-    "name": "raParadas-31"
+    "price": 619.171,
+    "name": "CambioVMQF"
   },
   "venta_maxima": {
-    "price": 604.108,
+    "price": 604.114,
     "name": "Quick Payment"
   },
-  "promedio": 610.43,
+  "promedio": 611.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
