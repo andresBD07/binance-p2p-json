@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T12:56:07.370424",
-  "actualizado_vzla": "2026-01-03 08:56:07 -04",
+  "timestamp_utc": "2026-01-03T13:34:44.560681",
+  "actualizado_vzla": "2026-01-03 09:34:44 -04",
   "compra_segundo": {
-    "price": 607.5,
-    "name": "eercripto"
+    "price": 568.999,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
-    "price": 601.51,
-    "name": "SasukeTrader"
+    "price": 565.516,
+    "name": "PAYMENTSPRO"
   },
-  "promedio": 604.5,
+  "promedio": 567.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
