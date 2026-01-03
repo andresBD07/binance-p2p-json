@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T18:39:28.760182",
-  "actualizado_vzla": "2026-01-03 14:39:28 -04",
+  "timestamp_utc": "2026-01-03T18:57:18.148656",
+  "actualizado_vzla": "2026-01-03 14:57:18 -04",
   "compra_segundo": {
-    "price": 592.99,
-    "name": "Kuchau"
+    "price": 594.001,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 600.02,
-    "name": "securitylc"
+    "price": 610.0,
+    "name": "安全与信任"
   },
-  "promedio": 596.5,
+  "promedio": 602.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
