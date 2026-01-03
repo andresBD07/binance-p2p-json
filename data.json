@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T11:29:11.211246",
-  "actualizado_vzla": "2026-01-03 07:29:11 -04",
+  "timestamp_utc": "2026-01-03T11:43:20.701581",
+  "actualizado_vzla": "2026-01-03 07:43:20 -04",
   "compra_segundo": {
-    "price": 631.303,
-    "name": "CambioDirecto"
+    "price": 619.62,
+    "name": "Pivot_05"
   },
   "venta_maxima": {
-    "price": 602.494,
-    "name": "Extranjero"
+    "price": 603.233,
+    "name": "InvGaus"
   },
-  "promedio": 616.9,
+  "promedio": 611.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
