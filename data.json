@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T08:56:02.731160",
-  "actualizado_vzla": "2026-01-03 04:56:02 -04",
+  "timestamp_utc": "2026-01-03T09:28:35.776907",
+  "actualizado_vzla": "2026-01-03 05:28:35 -04",
   "compra_segundo": {
-    "price": 946.89,
-    "name": "RECARGASYSERVICIOSYA"
+    "price": 909.898,
+    "name": "YReimi"
   },
   "venta_maxima": {
-    "price": 648.0,
+    "price": 675.0,
     "name": "Kalev7"
   },
-  "promedio": 797.44,
+  "promedio": 792.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
