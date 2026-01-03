@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T15:37:39.747539",
-  "actualizado_vzla": "2026-01-03 11:37:39 -04",
+  "timestamp_utc": "2026-01-03T15:50:26.980708",
+  "actualizado_vzla": "2026-01-03 11:50:26 -04",
   "compra_segundo": {
-    "price": 577.68,
-    "name": "DLR06"
+    "price": 572.995,
+    "name": "TuAliadoCrypto-GL"
   },
   "venta_maxima": {
-    "price": 586.0,
-    "name": "Godisgift"
+    "price": 601.1,
+    "name": "SkGroup23"
   },
-  "promedio": 581.84,
+  "promedio": 587.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
