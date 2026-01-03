@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T15:17:23.973395",
-  "actualizado_vzla": "2026-01-03 11:17:23 -04",
+  "timestamp_utc": "2026-01-03T15:37:39.747539",
+  "actualizado_vzla": "2026-01-03 11:37:39 -04",
   "compra_segundo": {
-    "price": 591.0,
-    "name": "BlessedGods"
+    "price": 577.68,
+    "name": "DLR06"
   },
   "venta_maxima": {
-    "price": 596.883,
-    "name": "Quick Payment"
+    "price": 586.0,
+    "name": "Godisgift"
   },
-  "promedio": 593.94,
+  "promedio": 581.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
