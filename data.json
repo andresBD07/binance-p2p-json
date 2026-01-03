@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T22:18:49.064314",
-  "actualizado_vzla": "2026-01-03 18:18:49 -04",
+  "timestamp_utc": "2026-01-03T22:40:39.806457",
+  "actualizado_vzla": "2026-01-03 18:40:39 -04",
   "compra_segundo": {
-    "price": 626.698,
-    "name": "Egp-trader"
+    "price": 622.6,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
     "price": 625.0,
-    "name": "Child-CambioFacil"
+    "name": "cazing2230-2"
   },
-  "promedio": 625.85,
+  "promedio": 623.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
