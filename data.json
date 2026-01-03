@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T21:22:10.170255",
-  "actualizado_vzla": "2026-01-03 17:22:10 -04",
+  "timestamp_utc": "2026-01-03T21:39:04.901950",
+  "actualizado_vzla": "2026-01-03 17:39:04 -04",
   "compra_segundo": {
-    "price": 628.599,
-    "name": "I_trust_in_God"
+    "price": 628.75,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 633.1,
-    "name": "CriptoVergara"
+    "price": 656.0,
+    "name": "Nerio81"
   },
-  "promedio": 630.85,
+  "promedio": 642.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
