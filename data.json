@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T05:42:03.013746",
-  "actualizado_vzla": "2026-01-03 01:42:03 -04",
+  "timestamp_utc": "2026-01-03T05:55:32.326558",
+  "actualizado_vzla": "2026-01-03 01:55:32 -04",
   "compra_segundo": {
-    "price": 619.171,
-    "name": "CambioVMQF"
+    "price": 621.836,
+    "name": "ÉvaristeGalois"
   },
   "venta_maxima": {
-    "price": 604.114,
+    "price": 604.11,
     "name": "Quick Payment"
   },
-  "promedio": 611.64,
+  "promedio": 612.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
