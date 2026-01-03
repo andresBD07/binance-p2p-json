@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T05:55:32.326558",
-  "actualizado_vzla": "2026-01-03 01:55:32 -04",
+  "timestamp_utc": "2026-01-03T06:41:17.914792",
+  "actualizado_vzla": "2026-01-03 02:41:17 -04",
   "compra_segundo": {
-    "price": 621.836,
-    "name": "ÉvaristeGalois"
+    "price": 628.156,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 604.11,
+    "price": 604.116,
     "name": "Quick Payment"
   },
-  "promedio": 612.97,
+  "promedio": 616.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
