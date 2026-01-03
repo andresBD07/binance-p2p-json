@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T20:40:24.127605",
-  "actualizado_vzla": "2026-01-03 16:40:24 -04",
+  "timestamp_utc": "2026-01-03T20:54:07.959982",
+  "actualizado_vzla": "2026-01-03 16:54:07 -04",
   "compra_segundo": {
-    "price": 633.7,
-    "name": "Fast-CambiosSeguro-"
+    "price": 630.0,
+    "name": "rapid/express"
   },
   "venta_maxima": {
-    "price": 639.2,
-    "name": "CamburPlus"
+    "price": 638.1,
+    "name": "CriptoVergara"
   },
-  "promedio": 636.45,
+  "promedio": 634.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
