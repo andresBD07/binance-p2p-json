@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T08:36:55.138675",
-  "actualizado_vzla": "2026-01-03 04:36:55 -04",
+  "timestamp_utc": "2026-01-03T08:56:02.731160",
+  "actualizado_vzla": "2026-01-03 04:56:02 -04",
   "compra_segundo": {
     "price": 946.89,
-    "name": "Albert Vierma "
+    "name": "RECARGASYSERVICIOSYA"
   },
   "venta_maxima": {
-    "price": 610.851,
-    "name": "cazing2230-2"
+    "price": 648.0,
+    "name": "Kalev7"
   },
-  "promedio": 778.87,
+  "promedio": 797.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
