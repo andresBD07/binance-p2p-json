@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T09:58:38.542183",
-  "actualizado_vzla": "2026-01-03 05:58:38 -04",
+  "timestamp_utc": "2026-01-03T10:31:44.700888",
+  "actualizado_vzla": "2026-01-03 06:31:44 -04",
   "compra_segundo": {
-    "price": 900.0,
-    "name": "MERCADO ESTRATEGICO 2"
+    "price": 832.5,
+    "name": "Arremessi10"
   },
   "venta_maxima": {
-    "price": 706.387,
-    "name": "SRexchanges"
+    "price": 651.222,
+    "name": "Extranjero"
   },
-  "promedio": 803.19,
+  "promedio": 741.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
