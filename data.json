@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T10:49:11.719333",
-  "actualizado_vzla": "2026-01-03 06:49:11 -04",
+  "timestamp_utc": "2026-01-03T11:10:06.045500",
+  "actualizado_vzla": "2026-01-03 07:10:06 -04",
   "compra_segundo": {
-    "price": 720.0,
-    "name": "jfjaraaa89"
+    "price": 631.303,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
-    "price": 623.898,
-    "name": "Extranjero"
+    "price": 601.902,
+    "name": "InvGaus"
   },
-  "promedio": 671.95,
+  "promedio": 616.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
