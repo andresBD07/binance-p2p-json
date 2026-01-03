@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T17:44:08.277790",
-  "actualizado_vzla": "2026-01-03 13:44:08 -04",
+  "timestamp_utc": "2026-01-03T17:57:22.802386",
+  "actualizado_vzla": "2026-01-03 13:57:22 -04",
   "compra_segundo": {
-    "price": 589.799,
-    "name": "Money-Max23"
+    "price": 591.8,
+    "name": "Dolarcoin"
   },
   "venta_maxima": {
-    "price": 595.2,
-    "name": "RONIN2_0"
+    "price": 598.476,
+    "name": "Quick Payment"
   },
-  "promedio": 592.5,
+  "promedio": 595.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
