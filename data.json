@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T11:43:20.701581",
-  "actualizado_vzla": "2026-01-03 07:43:20 -04",
+  "timestamp_utc": "2026-01-03T11:56:17.103736",
+  "actualizado_vzla": "2026-01-03 07:56:17 -04",
   "compra_segundo": {
-    "price": 619.62,
-    "name": "Pivot_05"
+    "price": 611.646,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
-    "price": 603.233,
+    "price": 602.753,
     "name": "InvGaus"
   },
-  "promedio": 611.43,
+  "promedio": 607.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
