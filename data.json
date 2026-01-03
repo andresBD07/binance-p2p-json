@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T04:50:27.350381",
-  "actualizado_vzla": "2026-01-03 00:50:27 -04",
+  "timestamp_utc": "2026-01-03T05:16:55.309445",
+  "actualizado_vzla": "2026-01-03 01:16:55 -04",
   "compra_segundo": {
-    "price": 613.307,
-    "name": "ArepaConCafé"
+    "price": 616.76,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 604.103,
+    "price": 604.108,
     "name": "Quick Payment"
   },
-  "promedio": 608.7,
+  "promedio": 610.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
