@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T23:22:23.905781",
-  "actualizado_vzla": "2026-01-03 19:22:23 -04",
+  "timestamp_utc": "2026-01-03T23:40:28.465289",
+  "actualizado_vzla": "2026-01-03 19:40:28 -04",
   "compra_segundo": {
-    "price": 601.5,
-    "name": "cambiosaular1"
+    "price": 599.8,
+    "name": "Servic2009"
   },
   "venta_maxima": {
     "price": 600.0,
-    "name": "Child-CambioFacil"
+    "name": "Don-Cangrejo"
   },
-  "promedio": 600.75,
+  "promedio": 599.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
