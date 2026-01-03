@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T07:28:39.669498",
-  "actualizado_vzla": "2026-01-03 03:28:39 -04",
+  "timestamp_utc": "2026-01-03T07:44:19.331207",
+  "actualizado_vzla": "2026-01-03 03:44:19 -04",
   "compra_segundo": {
-    "price": 847.324,
+    "price": 941.472,
     "name": "El Ciudadano VZ"
   },
   "venta_maxima": {
-    "price": 604.832,
-    "name": "cazing2230-2"
+    "price": 604.256,
+    "name": "SmarPhon3"
   },
-  "promedio": 726.08,
+  "promedio": 772.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
