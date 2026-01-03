@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T13:34:44.560681",
-  "actualizado_vzla": "2026-01-03 09:34:44 -04",
+  "timestamp_utc": "2026-01-03T13:50:19.215008",
+  "actualizado_vzla": "2026-01-03 09:50:19 -04",
   "compra_segundo": {
-    "price": 568.999,
-    "name": "R0ckandR0ll"
+    "price": 559.0,
+    "name": "CambiosSilva"
   },
   "venta_maxima": {
-    "price": 565.516,
-    "name": "PAYMENTSPRO"
+    "price": 579.0,
+    "name": "SeguroVeloz"
   },
-  "promedio": 567.26,
+  "promedio": 569.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
