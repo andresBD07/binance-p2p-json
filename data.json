@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T07:28:42.756560",
-  "actualizado_vzla": "2026-01-04 03:28:42 -04",
+  "timestamp_utc": "2026-01-04T07:44:58.226419",
+  "actualizado_vzla": "2026-01-04 03:44:58 -04",
   "compra_segundo": {
-    "price": 629.98,
-    "name": "KobyTrader"
+    "price": 629.999,
+    "name": "Reimaryp"
   },
   "venta_maxima": {
     "price": 615.1,
     "name": "-Vallenatero-"
   },
-  "promedio": 622.54,
+  "promedio": 622.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
