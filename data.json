@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T21:55:46.731606",
-  "actualizado_vzla": "2026-01-04 17:55:46 -04",
+  "timestamp_utc": "2026-01-04T22:28:10.464517",
+  "actualizado_vzla": "2026-01-04 18:28:10 -04",
   "compra_segundo": {
-    "price": 598.8,
-    "name": "Dark Eyes"
+    "price": 598.4,
+    "name": "Falcon_Trade-P2P"
   },
   "venta_maxima": {
-    "price": 600.0,
-    "name": "Child-CambioFacil"
+    "price": 603.1,
+    "name": "疑うことは裏切ることだ "
   },
-  "promedio": 599.4,
+  "promedio": 600.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
