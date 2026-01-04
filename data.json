@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T19:38:06.442700",
-  "actualizado_vzla": "2026-01-04 15:38:06 -04",
+  "timestamp_utc": "2026-01-04T19:51:31.124525",
+  "actualizado_vzla": "2026-01-04 15:51:31 -04",
   "compra_segundo": {
-    "price": 602.999,
-    "name": "Silencioso21"
+    "price": 604.2,
+    "name": "CriptoFms10"
   },
   "venta_maxima": {
     "price": 603.0,
-    "name": "ALASKA-"
+    "name": "安全与信任"
   },
-  "promedio": 603.0,
+  "promedio": 603.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
