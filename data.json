@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T19:51:31.124525",
-  "actualizado_vzla": "2026-01-04 15:51:31 -04",
+  "timestamp_utc": "2026-01-04T20:20:05.574545",
+  "actualizado_vzla": "2026-01-04 16:20:05 -04",
   "compra_segundo": {
-    "price": 604.2,
-    "name": "CriptoFms10"
+    "price": 602.75,
+    "name": "MarianaFV"
   },
   "venta_maxima": {
-    "price": 603.0,
+    "price": 604.0,
     "name": "安全与信任"
   },
-  "promedio": 603.6,
+  "promedio": 603.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
