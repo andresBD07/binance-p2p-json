@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T10:31:04.530320",
-  "actualizado_vzla": "2026-01-04 06:31:04 -04",
+  "timestamp_utc": "2026-01-04T10:48:47.186004",
+  "actualizado_vzla": "2026-01-04 06:48:47 -04",
   "compra_segundo": {
-    "price": 625.888,
+    "price": 624.888,
     "name": "David-0199"
   },
   "venta_maxima": {
-    "price": 613.0,
+    "price": 613.5,
     "name": "AndradeGasconTITULAR"
   },
-  "promedio": 619.44,
+  "promedio": 619.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
