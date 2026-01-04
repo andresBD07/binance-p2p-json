@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T08:38:27.889637",
-  "actualizado_vzla": "2026-01-04 04:38:27 -04",
+  "timestamp_utc": "2026-01-04T08:56:38.629353",
+  "actualizado_vzla": "2026-01-04 04:56:38 -04",
   "compra_segundo": {
-    "price": 629.85,
-    "name": "RAPIDOySEGURO_EAGLE"
+    "price": 629.5,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
-    "price": 615.8,
-    "name": "-Vallenatero-"
+    "price": 612.0,
+    "name": "EnlineaRyK"
   },
-  "promedio": 622.83,
+  "promedio": 620.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
