@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T15:15:45.654775",
-  "actualizado_vzla": "2026-01-04 11:15:45 -04",
+  "timestamp_utc": "2026-01-04T15:36:00.674973",
+  "actualizado_vzla": "2026-01-04 11:36:00 -04",
   "compra_segundo": {
-    "price": 608.0,
-    "name": "LinkxD"
+    "price": 609.59,
+    "name": "Exchange_VelozP2P"
   },
   "venta_maxima": {
     "price": 613.0,
-    "name": "Child-CambioFacil"
+    "name": "Godisgift"
   },
-  "promedio": 610.5,
+  "promedio": 611.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
