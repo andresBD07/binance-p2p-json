@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T23:01:09.414823",
-  "actualizado_vzla": "2026-01-04 19:01:09 -04",
+  "timestamp_utc": "2026-01-04T23:28:52.665939",
+  "actualizado_vzla": "2026-01-04 19:28:52 -04",
   "compra_segundo": {
-    "price": 598.8,
-    "name": "Camilo171"
+    "price": 598.3,
+    "name": "LACHARCUTE"
   },
   "venta_maxima": {
-    "price": 604.011,
-    "name": "疑うことは裏切ることだ "
+    "price": 605.0,
+    "name": "安全与信任"
   },
-  "promedio": 601.41,
+  "promedio": 601.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
