@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T17:25:54.026383",
-  "actualizado_vzla": "2026-01-04 13:25:54 -04",
+  "timestamp_utc": "2026-01-04T17:44:05.640256",
+  "actualizado_vzla": "2026-01-04 13:44:05 -04",
   "compra_segundo": {
-    "price": 597.5,
-    "name": "angela0303"
+    "price": 597.8,
+    "name": "ENVIOSYC"
   },
   "venta_maxima": {
-    "price": 598.0,
+    "price": 600.0,
     "name": "安全与信任"
   },
-  "promedio": 597.75,
+  "promedio": 598.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
