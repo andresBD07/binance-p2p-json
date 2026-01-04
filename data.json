@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T05:29:40.477897",
-  "actualizado_vzla": "2026-01-04 01:29:40 -04",
+  "timestamp_utc": "2026-01-04T05:51:27.093268",
+  "actualizado_vzla": "2026-01-04 01:51:27 -04",
   "compra_segundo": {
-    "price": 626.0,
-    "name": "Good-traderl"
+    "price": 627.0,
+    "name": "Keria23"
   },
   "venta_maxima": {
-    "price": 616.7,
+    "price": 617.1,
     "name": "-Vallenatero-"
   },
-  "promedio": 621.35,
+  "promedio": 622.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
