@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T11:09:21.814980",
-  "actualizado_vzla": "2026-01-04 07:09:21 -04",
+  "timestamp_utc": "2026-01-04T11:28:49.647312",
+  "actualizado_vzla": "2026-01-04 07:28:49 -04",
   "compra_segundo": {
-    "price": 621.035,
-    "name": "MrFrogs"
+    "price": 617.49,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
     "price": 613.7,
     "name": "AndradeGasconTITULAR"
   },
-  "promedio": 617.37,
+  "promedio": 615.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
