@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T03:57:22.929377",
-  "actualizado_vzla": "2026-01-03 23:57:22 -04",
+  "timestamp_utc": "2026-01-04T04:54:10.261989",
+  "actualizado_vzla": "2026-01-04 00:54:10 -04",
   "compra_segundo": {
-    "price": 624.88,
-    "name": "CoinPilot"
+    "price": 625.0,
+    "name": "Marcus22z"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "EL-REY-DEL-CRIPTO"
+    "price": 617.1,
+    "name": "-Vallenatero-"
   },
-  "promedio": 621.44,
+  "promedio": 621.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
