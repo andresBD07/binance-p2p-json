@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T15:49:47.802846",
-  "actualizado_vzla": "2026-01-04 11:49:47 -04",
+  "timestamp_utc": "2026-01-04T16:15:42.546979",
+  "actualizado_vzla": "2026-01-04 12:15:42 -04",
   "compra_segundo": {
-    "price": 610.8,
-    "name": "Zuko02"
+    "price": 606.4,
+    "name": "clinicaef"
   },
   "venta_maxima": {
-    "price": 612.0,
-    "name": "VERTUOK"
+    "price": 607.5,
+    "name": "notorius11"
   },
-  "promedio": 611.4,
+  "promedio": 606.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
