@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-03T23:53:26.118764",
-  "actualizado_vzla": "2026-01-03 19:53:26 -04",
+  "timestamp_utc": "2026-01-04T02:04:38.721138",
+  "actualizado_vzla": "2026-01-03 22:04:38 -04",
   "compra_segundo": {
-    "price": 600.0,
-    "name": "MANÓN-P2P"
+    "price": 624.0,
+    "name": "PrecozPay"
   },
   "venta_maxima": {
-    "price": 600.315,
-    "name": "x-Maverick-x"
+    "price": 622.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 600.16,
+  "promedio": 623.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
