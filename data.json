@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T23:28:52.665939",
-  "actualizado_vzla": "2026-01-04 19:28:52 -04",
+  "timestamp_utc": "2026-01-04T23:46:00.440162",
+  "actualizado_vzla": "2026-01-04 19:46:00 -04",
   "compra_segundo": {
-    "price": 598.3,
-    "name": "LACHARCUTE"
+    "price": 599.45,
+    "name": "Latribu-"
   },
   "venta_maxima": {
     "price": 605.0,
     "name": "安全与信任"
   },
-  "promedio": 601.65,
+  "promedio": 602.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
