@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T05:51:27.093268",
-  "actualizado_vzla": "2026-01-04 01:51:27 -04",
+  "timestamp_utc": "2026-01-04T06:28:04.134592",
+  "actualizado_vzla": "2026-01-04 02:28:04 -04",
   "compra_segundo": {
-    "price": 627.0,
-    "name": "Keria23"
+    "price": 629.0,
+    "name": "AkExpress"
   },
   "venta_maxima": {
     "price": 617.1,
     "name": "-Vallenatero-"
   },
-  "promedio": 622.05,
+  "promedio": 623.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
