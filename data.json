@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T20:55:23.492603",
-  "actualizado_vzla": "2026-01-04 16:55:23 -04",
+  "timestamp_utc": "2026-01-04T21:25:26.841219",
+  "actualizado_vzla": "2026-01-04 17:25:26 -04",
   "compra_segundo": {
-    "price": 601.499,
-    "name": "Victcoiin"
+    "price": 599.499,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 604.5,
-    "name": "安全与信任"
+    "price": 603.2,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 603.0,
+  "promedio": 601.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
