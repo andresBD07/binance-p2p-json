@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T17:44:05.640256",
-  "actualizado_vzla": "2026-01-04 13:44:05 -04",
+  "timestamp_utc": "2026-01-04T17:56:54.964202",
+  "actualizado_vzla": "2026-01-04 13:56:54 -04",
   "compra_segundo": {
-    "price": 597.8,
-    "name": "ENVIOSYC"
+    "price": 597.15,
+    "name": "Ed Money"
   },
   "venta_maxima": {
     "price": 600.0,
     "name": "安全与信任"
   },
-  "promedio": 598.9,
+  "promedio": 598.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
