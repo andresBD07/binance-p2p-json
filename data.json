@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T02:04:38.721138",
-  "actualizado_vzla": "2026-01-03 22:04:38 -04",
+  "timestamp_utc": "2026-01-04T03:57:22.929377",
+  "actualizado_vzla": "2026-01-03 23:57:22 -04",
   "compra_segundo": {
-    "price": 624.0,
-    "name": "PrecozPay"
+    "price": 624.88,
+    "name": "CoinPilot"
   },
   "venta_maxima": {
-    "price": 622.0,
-    "name": "Child-CambioFacil"
+    "price": 618.0,
+    "name": "EL-REY-DEL-CRIPTO"
   },
-  "promedio": 623.0,
+  "promedio": 621.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
