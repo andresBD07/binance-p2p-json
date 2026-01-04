@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T11:56:07.798413",
-  "actualizado_vzla": "2026-01-04 07:56:07 -04",
+  "timestamp_utc": "2026-01-04T12:56:25.225747",
+  "actualizado_vzla": "2026-01-04 08:56:25 -04",
   "compra_segundo": {
-    "price": 613.377,
-    "name": "David-0199"
+    "price": 610.5,
+    "name": "Sharkypay"
   },
   "venta_maxima": {
-    "price": 607.0,
+    "price": 608.0,
     "name": "VERTUOK"
   },
-  "promedio": 610.19,
+  "promedio": 609.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
