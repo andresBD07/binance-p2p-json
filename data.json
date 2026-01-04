@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-04T13:35:24.449713",
-  "actualizado_vzla": "2026-01-04 09:35:24 -04",
+  "timestamp_utc": "2026-01-04T13:51:29.646198",
+  "actualizado_vzla": "2026-01-04 09:51:29 -04",
   "compra_segundo": {
-    "price": 609.4,
-    "name": "Girasolee"
+    "price": 609.95,
+    "name": "P2P-Dulce"
   },
   "venta_maxima": {
-    "price": 610.0,
-    "name": "Godisgift"
+    "price": 608.0,
+    "name": "VERTUOK"
   },
-  "promedio": 609.7,
+  "promedio": 608.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
