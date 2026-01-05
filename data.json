@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T16:57:51.099680",
-  "actualizado_vzla": "2026-01-05 12:57:51 -04",
+  "timestamp_utc": "2026-01-05T17:32:02.710737",
+  "actualizado_vzla": "2026-01-05 13:32:02 -04",
   "compra_segundo": {
-    "price": 616.799,
-    "name": "Orlando_1705"
+    "price": 619.2,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "安全与信任"
+    "price": 627.5,
+    "name": "ClandestinoX"
   },
-  "promedio": 620.9,
+  "promedio": 623.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
