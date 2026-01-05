@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T10:50:39.027514",
-  "actualizado_vzla": "2026-01-05 06:50:39 -04",
+  "timestamp_utc": "2026-01-05T11:15:41.257787",
+  "actualizado_vzla": "2026-01-05 07:15:41 -04",
   "compra_segundo": {
-    "price": 599.999,
-    "name": "LECHUGAEXPRESS"
+    "price": 597.45,
+    "name": "MorocotaKoin"
   },
   "venta_maxima": {
     "price": 598.5,
     "name": "CCST"
   },
-  "promedio": 599.25,
+  "promedio": 597.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
