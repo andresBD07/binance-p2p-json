@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T05:50:13.671341",
-  "actualizado_vzla": "2026-01-05 01:50:13 -04",
+  "timestamp_utc": "2026-01-05T06:30:14.411606",
+  "actualizado_vzla": "2026-01-05 02:30:14 -04",
   "compra_segundo": {
-    "price": 603.999,
-    "name": "PrecozPay"
+    "price": 604.98,
+    "name": "Vane_CARDONAGROUP"
   },
   "venta_maxima": {
-    "price": 598.5,
-    "name": "CCST"
+    "price": 599.0,
+    "name": "Elrefugiodecatgaby"
   },
-  "promedio": 601.25,
+  "promedio": 601.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
