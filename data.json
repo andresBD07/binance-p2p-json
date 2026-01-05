@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T21:58:22.170571",
-  "actualizado_vzla": "2026-01-05 17:58:22 -04",
+  "timestamp_utc": "2026-01-05T22:32:06.958361",
+  "actualizado_vzla": "2026-01-05 18:32:06 -04",
   "compra_segundo": {
-    "price": 655.01,
-    "name": "ALTRIUM"
+    "price": 638.5,
+    "name": "JJcambiosUSD"
   },
   "venta_maxima": {
-    "price": 695.11,
-    "name": "D-zta"
+    "price": 644.02,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 675.06,
+  "promedio": 641.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
