@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T18:57:30.538679",
-  "actualizado_vzla": "2026-01-05 14:57:30 -04",
+  "timestamp_utc": "2026-01-05T19:27:41.898142",
+  "actualizado_vzla": "2026-01-05 15:27:41 -04",
   "compra_segundo": {
-    "price": 629.99,
-    "name": "MSaracai"
+    "price": 639.0,
+    "name": "Hilda_19"
   },
   "venta_maxima": {
-    "price": 642.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 646.1,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 636.0,
+  "promedio": 642.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
