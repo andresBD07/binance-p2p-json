@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T15:54:43.578461",
-  "actualizado_vzla": "2026-01-05 11:54:43 -04",
+  "timestamp_utc": "2026-01-05T16:34:06.892612",
+  "actualizado_vzla": "2026-01-05 12:34:06 -04",
   "compra_segundo": {
-    "price": 602.895,
-    "name": "KrimpaCambios"
+    "price": 610.0,
+    "name": "Yolicar Cabello Cambios Ashley"
   },
   "venta_maxima": {
-    "price": 613.32,
-    "name": "已連接"
+    "price": 620.0,
+    "name": "安全与信任"
   },
-  "promedio": 608.11,
+  "promedio": 615.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
