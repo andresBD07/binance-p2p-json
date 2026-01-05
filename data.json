@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T16:34:06.892612",
-  "actualizado_vzla": "2026-01-05 12:34:06 -04",
+  "timestamp_utc": "2026-01-05T16:57:51.099680",
+  "actualizado_vzla": "2026-01-05 12:57:51 -04",
   "compra_segundo": {
-    "price": 610.0,
-    "name": "Yolicar Cabello Cambios Ashley"
+    "price": 616.799,
+    "name": "Orlando_1705"
   },
   "venta_maxima": {
-    "price": 620.0,
+    "price": 625.0,
     "name": "安全与信任"
   },
-  "promedio": 615.0,
+  "promedio": 620.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
