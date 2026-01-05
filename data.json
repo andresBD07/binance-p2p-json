@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T11:15:41.257787",
-  "actualizado_vzla": "2026-01-05 07:15:41 -04",
+  "timestamp_utc": "2026-01-05T11:37:37.706858",
+  "actualizado_vzla": "2026-01-05 07:37:37 -04",
   "compra_segundo": {
-    "price": 597.45,
-    "name": "MorocotaKoin"
+    "price": 595.888,
+    "name": "Todolopuedoencristo1"
   },
   "venta_maxima": {
-    "price": 598.5,
-    "name": "CCST"
+    "price": 599.2,
+    "name": "-DRASIX-"
   },
-  "promedio": 597.98,
+  "promedio": 597.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
