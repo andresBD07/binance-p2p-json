@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T11:37:37.706858",
-  "actualizado_vzla": "2026-01-05 07:37:37 -04",
+  "timestamp_utc": "2026-01-05T11:51:12.344548",
+  "actualizado_vzla": "2026-01-05 07:51:12 -04",
   "compra_segundo": {
-    "price": 595.888,
-    "name": "Todolopuedoencristo1"
+    "price": 594.899,
+    "name": "EL_MARA_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 599.2,
-    "name": "-DRASIX-"
+    "price": 598.5,
+    "name": "CCST"
   },
-  "promedio": 597.54,
+  "promedio": 596.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
