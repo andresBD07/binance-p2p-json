@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T11:51:12.344548",
-  "actualizado_vzla": "2026-01-05 07:51:12 -04",
+  "timestamp_utc": "2026-01-05T12:39:26.942313",
+  "actualizado_vzla": "2026-01-05 08:39:26 -04",
   "compra_segundo": {
-    "price": 594.899,
-    "name": "EL_MARA_CAMBIOS"
+    "price": 588.89,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 598.5,
-    "name": "CCST"
+    "price": 588.0,
+    "name": "app2112"
   },
-  "promedio": 596.7,
+  "promedio": 588.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
