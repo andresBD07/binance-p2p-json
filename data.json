@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T07:40:18.537090",
-  "actualizado_vzla": "2026-01-05 03:40:18 -04",
+  "timestamp_utc": "2026-01-05T07:56:50.184951",
+  "actualizado_vzla": "2026-01-05 03:56:50 -04",
   "compra_segundo": {
-    "price": 605.999,
-    "name": "CRH_exchanges"
+    "price": 606.38,
+    "name": "LuicmarTrader"
   },
   "venta_maxima": {
     "price": 599.0,
     "name": "Elrefugiodecatgaby"
   },
-  "promedio": 602.5,
+  "promedio": 602.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
