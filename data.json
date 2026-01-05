@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T15:34:46.521364",
-  "actualizado_vzla": "2026-01-05 11:34:46 -04",
+  "timestamp_utc": "2026-01-05T15:54:43.578461",
+  "actualizado_vzla": "2026-01-05 11:54:43 -04",
   "compra_segundo": {
-    "price": 602.0,
-    "name": "Inversiones-Walaw"
+    "price": 602.895,
+    "name": "KrimpaCambios"
   },
   "venta_maxima": {
-    "price": 613.0,
-    "name": "安全与信任"
+    "price": 613.32,
+    "name": "已連接"
   },
-  "promedio": 607.5,
+  "promedio": 608.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
