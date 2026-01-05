@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T13:59:15.005196",
-  "actualizado_vzla": "2026-01-05 09:59:15 -04",
+  "timestamp_utc": "2026-01-05T14:37:26.938723",
+  "actualizado_vzla": "2026-01-05 10:37:26 -04",
   "compra_segundo": {
-    "price": 592.0,
-    "name": "CRIPTOMCY"
+    "price": 599.2,
+    "name": "CambiosBalita"
   },
   "venta_maxima": {
-    "price": 595.5,
-    "name": "-YM-"
+    "price": 605.0,
+    "name": "Godisgift"
   },
-  "promedio": 593.75,
+  "promedio": 602.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
