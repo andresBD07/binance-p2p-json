@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T22:51:43.922692",
-  "actualizado_vzla": "2026-01-05 18:51:43 -04",
+  "timestamp_utc": "2026-01-05T23:17:53.783917",
+  "actualizado_vzla": "2026-01-05 19:17:53 -04",
   "compra_segundo": {
-    "price": 632.999,
-    "name": "ELGOCHOXCHANGE31"
+    "price": 644.25,
+    "name": "Jyplusca"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "-Godgiven-"
+    "price": 650.0,
+    "name": "安全与信任"
   },
-  "promedio": 638.0,
+  "promedio": 647.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
