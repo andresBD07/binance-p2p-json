@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T21:45:02.545284",
-  "actualizado_vzla": "2026-01-05 17:45:02 -04",
+  "timestamp_utc": "2026-01-05T21:58:22.170571",
+  "actualizado_vzla": "2026-01-05 17:58:22 -04",
   "compra_segundo": {
-    "price": 655.0,
-    "name": "Habrahanp2p"
+    "price": 655.01,
+    "name": "ALTRIUM"
   },
   "venta_maxima": {
-    "price": 657.5,
-    "name": "MaestroRoshi-"
+    "price": 695.11,
+    "name": "D-zta"
   },
-  "promedio": 656.25,
+  "promedio": 675.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
