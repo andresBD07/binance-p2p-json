@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T19:57:27.374933",
-  "actualizado_vzla": "2026-01-05 15:57:27 -04",
+  "timestamp_utc": "2026-01-05T20:35:04.389919",
+  "actualizado_vzla": "2026-01-05 16:35:04 -04",
   "compra_segundo": {
-    "price": 645.699,
-    "name": "Xiaomi_P2P"
+    "price": 646.299,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 653.1,
-    "name": "cazing2230-2"
+    "price": 652.0,
+    "name": "安全与信任"
   },
-  "promedio": 649.4,
+  "promedio": 649.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
