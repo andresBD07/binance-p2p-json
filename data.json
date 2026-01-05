@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T20:54:08.747925",
-  "actualizado_vzla": "2026-01-05 16:54:08 -04",
+  "timestamp_utc": "2026-01-05T21:25:52.606942",
+  "actualizado_vzla": "2026-01-05 17:25:52 -04",
   "compra_segundo": {
-    "price": 645.0,
-    "name": "filipenses 4-13"
+    "price": 656.95,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 653.6,
-    "name": "HAWKEYE-1"
+    "price": 657.1,
+    "name": "cazing2230-2"
   },
-  "promedio": 649.3,
+  "promedio": 657.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
