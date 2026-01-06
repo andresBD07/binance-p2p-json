@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-06T20:47:57.678542",
-  "actualizado_vzla": "2026-01-06 16:47:57 -04",
+  "timestamp_utc": "2026-01-06T21:09:33.445694",
+  "actualizado_vzla": "2026-01-06 17:09:33 -04",
   "compra_segundo": {
-    "price": 757.809,
-    "name": "criptorapiseguro1"
+    "price": 777.285,
+    "name": "Sg-Cambioseguro"
   },
   "venta_maxima": {
-    "price": 771.272,
-    "name": "Quick Payment"
+    "price": 772.409,
+    "name": "Solvenza-"
   },
-  "promedio": 764.54,
+  "promedio": 774.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
