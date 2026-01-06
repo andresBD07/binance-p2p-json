@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-05T23:51:47.258417",
-  "actualizado_vzla": "2026-01-05 19:51:47 -04",
+  "timestamp_utc": "2026-01-06T01:27:51.765894",
+  "actualizado_vzla": "2026-01-05 21:27:51 -04",
   "compra_segundo": {
-    "price": 648.989,
-    "name": "Betania"
+    "price": 650.8,
+    "name": "AngelysGr"
   },
   "venta_maxima": {
-    "price": 653.1,
-    "name": "cazing2230-2"
+    "price": 647.0,
+    "name": "MILOMA-EXCHANGE"
   },
-  "promedio": 651.04,
+  "promedio": 648.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
