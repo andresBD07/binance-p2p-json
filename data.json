@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-06T19:53:55.183083",
-  "actualizado_vzla": "2026-01-06 15:53:55 -04",
+  "timestamp_utc": "2026-01-06T20:28:37.851583",
+  "actualizado_vzla": "2026-01-06 16:28:37 -04",
   "compra_segundo": {
-    "price": 728.564,
-    "name": "TOROgaboxCoin"
+    "price": 742.9,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 727.304,
+    "price": 751.12,
     "name": "Quick Payment"
   },
-  "promedio": 727.93,
+  "promedio": 747.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
