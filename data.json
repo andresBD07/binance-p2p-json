@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-06T21:34:38.161863",
-  "actualizado_vzla": "2026-01-06 17:34:38 -04",
+  "timestamp_utc": "2026-01-06T21:51:02.807535",
+  "actualizado_vzla": "2026-01-06 17:51:02 -04",
   "compra_segundo": {
-    "price": 768.083,
-    "name": "Atraderspkj"
+    "price": 733.29,
+    "name": "TeresaCrip"
   },
   "venta_maxima": {
-    "price": 772.034,
+    "price": 740.439,
     "name": "TOPlevelS"
   },
-  "promedio": 770.06,
+  "promedio": 736.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
