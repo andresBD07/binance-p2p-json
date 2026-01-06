@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-06T01:27:51.765894",
-  "actualizado_vzla": "2026-01-05 21:27:51 -04",
+  "timestamp_utc": "2026-01-06T03:18:19.159061",
+  "actualizado_vzla": "2026-01-05 23:18:19 -04",
   "compra_segundo": {
     "price": 650.8,
-    "name": "AngelysGr"
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
-    "price": 647.0,
-    "name": "MILOMA-EXCHANGE"
+    "price": 644.5,
+    "name": "Toptradedog"
   },
-  "promedio": 648.9,
+  "promedio": 647.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
