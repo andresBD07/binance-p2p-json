@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-06T09:36:42.320731",
-  "actualizado_vzla": "2026-01-06 05:36:42 -04",
+  "timestamp_utc": "2026-01-06T09:54:55.800743",
+  "actualizado_vzla": "2026-01-06 05:54:55 -04",
   "compra_segundo": {
-    "price": 649.8,
-    "name": "PAYMENTSPRO"
+    "price": 649.4,
+    "name": "CAMBIO-LAGO"
   },
   "venta_maxima": {
-    "price": 630.222,
-    "name": "David-0199"
+    "price": 632.251,
+    "name": "cazing2230"
   },
-  "promedio": 640.01,
+  "promedio": 640.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
