@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T21:47:58.642868",
-  "actualizado_vzla": "2026-01-07 17:47:58 -04",
+  "timestamp_utc": "2026-01-07T22:09:45.734797",
+  "actualizado_vzla": "2026-01-07 18:09:45 -04",
   "compra_segundo": {
-    "price": 745.0,
-    "name": "raParadas-31"
+    "price": 743.99,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
-    "price": 746.93,
-    "name": "CriptoVergara"
+    "price": 750.0,
+    "name": "安全与信任"
   },
-  "promedio": 745.96,
+  "promedio": 747.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
