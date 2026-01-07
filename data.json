@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T09:03:38.384077",
-  "actualizado_vzla": "2026-01-07 05:03:38 -04",
+  "timestamp_utc": "2026-01-07T09:40:11.398055",
+  "actualizado_vzla": "2026-01-07 05:40:11 -04",
   "compra_segundo": {
-    "price": 790.0,
-    "name": "RJ_SaveExchange"
+    "price": 777.0,
+    "name": "Germanctr"
   },
   "venta_maxima": {
-    "price": 741.153,
-    "name": "GregoSwap"
+    "price": 742.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 765.58,
+  "promedio": 759.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
