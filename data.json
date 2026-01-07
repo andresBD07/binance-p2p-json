@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T18:48:23.048630",
-  "actualizado_vzla": "2026-01-07 14:48:23 -04",
+  "timestamp_utc": "2026-01-07T19:13:00.090551",
+  "actualizado_vzla": "2026-01-07 15:13:00 -04",
   "compra_segundo": {
-    "price": 817.2,
-    "name": "Lucen_Lv71"
+    "price": 781.9,
+    "name": "INVERSIONES_AM_VZLA"
   },
   "venta_maxima": {
-    "price": 825.0,
-    "name": "SasukeTrader"
+    "price": 781.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 821.1,
+  "promedio": 781.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
