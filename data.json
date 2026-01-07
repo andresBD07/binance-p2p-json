@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T09:56:57.201488",
-  "actualizado_vzla": "2026-01-07 05:56:57 -04",
+  "timestamp_utc": "2026-01-07T10:35:04.325802",
+  "actualizado_vzla": "2026-01-07 06:35:04 -04",
   "compra_segundo": {
-    "price": 773.017,
-    "name": "Intercambios-Moreno"
+    "price": 770.3,
+    "name": "CambiosNath"
   },
   "venta_maxima": {
-    "price": 741.0,
+    "price": 749.0,
     "name": "yrptkv"
   },
-  "promedio": 757.01,
+  "promedio": 759.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
