@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T19:13:00.090551",
-  "actualizado_vzla": "2026-01-07 15:13:00 -04",
+  "timestamp_utc": "2026-01-07T19:34:01.594109",
+  "actualizado_vzla": "2026-01-07 15:34:01 -04",
   "compra_segundo": {
-    "price": 781.9,
-    "name": "INVERSIONES_AM_VZLA"
+    "price": 777.5,
+    "name": "dantorress"
   },
   "venta_maxima": {
-    "price": 781.0,
-    "name": "-Godgiven-"
+    "price": 784.1,
+    "name": "Extranjero"
   },
-  "promedio": 781.45,
+  "promedio": 780.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
