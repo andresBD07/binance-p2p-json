@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T07:15:14.535180",
-  "actualizado_vzla": "2026-01-07 03:15:14 -04",
+  "timestamp_utc": "2026-01-07T07:42:17.103022",
+  "actualizado_vzla": "2026-01-07 03:42:17 -04",
   "compra_segundo": {
-    "price": 799.999,
-    "name": "usdtking"
+    "price": 797.0,
+    "name": "Suora21"
   },
   "venta_maxima": {
-    "price": 732.03,
+    "price": 733.585,
     "name": "GregoSwap"
   },
-  "promedio": 766.01,
+  "promedio": 765.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
