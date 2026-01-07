@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T20:59:07.120732",
-  "actualizado_vzla": "2026-01-07 16:59:07 -04",
+  "timestamp_utc": "2026-01-07T21:30:16.646624",
+  "actualizado_vzla": "2026-01-07 17:30:16 -04",
   "compra_segundo": {
-    "price": 749.95,
-    "name": "BakiGoodImport"
+    "price": 744.35,
+    "name": "Ed Money"
   },
   "venta_maxima": {
-    "price": 750.1,
-    "name": "-Godgiven-"
+    "price": 747.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 750.03,
+  "promedio": 745.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
