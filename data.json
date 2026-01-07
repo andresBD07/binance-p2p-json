@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T05:39:06.433646",
-  "actualizado_vzla": "2026-01-07 01:39:06 -04",
+  "timestamp_utc": "2026-01-07T05:56:09.085417",
+  "actualizado_vzla": "2026-01-07 01:56:09 -04",
   "compra_segundo": {
-    "price": 787.06,
-    "name": "davzotrading"
+    "price": 789.25,
+    "name": "TOROgaboxCoin"
   },
   "venta_maxima": {
-    "price": 746.2,
-    "name": "AvExchange"
+    "price": 741.521,
+    "name": "SpeedGlobalP2P"
   },
-  "promedio": 766.63,
+  "promedio": 765.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
