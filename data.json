@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T02:23:50.279882",
-  "actualizado_vzla": "2026-01-06 22:23:50 -04",
+  "timestamp_utc": "2026-01-07T03:50:23.008519",
+  "actualizado_vzla": "2026-01-06 23:50:23 -04",
   "compra_segundo": {
-    "price": 770.018,
-    "name": "AkExpress"
+    "price": 770.175,
+    "name": "太COMPANY_CASH"
   },
   "venta_maxima": {
-    "price": 757.176,
+    "price": 755.336,
     "name": "Biyt"
   },
-  "promedio": 763.6,
+  "promedio": 762.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
