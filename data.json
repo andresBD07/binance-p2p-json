@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T13:49:39.352698",
-  "actualizado_vzla": "2026-01-07 09:49:39 -04",
+  "timestamp_utc": "2026-01-07T14:17:19.991175",
+  "actualizado_vzla": "2026-01-07 10:17:19 -04",
   "compra_segundo": {
-    "price": 771.8,
-    "name": "BUSINESS"
+    "price": 778.0,
+    "name": "alexander08_25"
   },
   "venta_maxima": {
-    "price": 776.0,
-    "name": "To0809"
+    "price": 795.1,
+    "name": "Solvenza-"
   },
-  "promedio": 773.9,
+  "promedio": 786.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
