@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T19:34:01.594109",
-  "actualizado_vzla": "2026-01-07 15:34:01 -04",
+  "timestamp_utc": "2026-01-07T19:48:43.780793",
+  "actualizado_vzla": "2026-01-07 15:48:43 -04",
   "compra_segundo": {
-    "price": 777.5,
-    "name": "dantorress"
+    "price": 779.0,
+    "name": "Alejandro21mendoza"
   },
   "venta_maxima": {
-    "price": 784.1,
-    "name": "Extranjero"
+    "price": 785.1,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 780.8,
+  "promedio": 782.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
