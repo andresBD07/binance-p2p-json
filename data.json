@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T10:35:04.325802",
-  "actualizado_vzla": "2026-01-07 06:35:04 -04",
+  "timestamp_utc": "2026-01-07T10:55:04.311475",
+  "actualizado_vzla": "2026-01-07 06:55:04 -04",
   "compra_segundo": {
-    "price": 770.3,
-    "name": "CambiosNath"
+    "price": 769.4,
+    "name": "Maria_Crypto"
   },
   "venta_maxima": {
-    "price": 749.0,
-    "name": "yrptkv"
+    "price": 761.0,
+    "name": "Bip2p"
   },
-  "promedio": 759.65,
+  "promedio": 765.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
