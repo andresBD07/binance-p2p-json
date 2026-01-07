@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T04:35:36.883562",
-  "actualizado_vzla": "2026-01-07 00:35:36 -04",
+  "timestamp_utc": "2026-01-07T05:03:11.600810",
+  "actualizado_vzla": "2026-01-07 01:03:11 -04",
   "compra_segundo": {
-    "price": 778.859,
-    "name": "Jcby"
+    "price": 787.06,
+    "name": "davzotrading"
   },
   "venta_maxima": {
     "price": 749.203,
     "name": "AvExchange"
   },
-  "promedio": 764.03,
+  "promedio": 768.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
