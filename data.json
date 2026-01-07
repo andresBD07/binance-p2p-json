@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T05:03:11.600810",
-  "actualizado_vzla": "2026-01-07 01:03:11 -04",
+  "timestamp_utc": "2026-01-07T05:39:06.433646",
+  "actualizado_vzla": "2026-01-07 01:39:06 -04",
   "compra_segundo": {
     "price": 787.06,
     "name": "davzotrading"
   },
   "venta_maxima": {
-    "price": 749.203,
+    "price": 746.2,
     "name": "AvExchange"
   },
-  "promedio": 768.13,
+  "promedio": 766.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
