@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T10:55:04.311475",
-  "actualizado_vzla": "2026-01-07 06:55:04 -04",
+  "timestamp_utc": "2026-01-07T11:26:35.511117",
+  "actualizado_vzla": "2026-01-07 07:26:35 -04",
   "compra_segundo": {
-    "price": 769.4,
-    "name": "Maria_Crypto"
+    "price": 767.499,
+    "name": "Kapo"
   },
   "venta_maxima": {
-    "price": 761.0,
-    "name": "Bip2p"
+    "price": 765.203,
+    "name": "CriptoEche"
   },
-  "promedio": 765.2,
+  "promedio": 766.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
