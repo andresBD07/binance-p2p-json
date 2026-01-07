@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T15:57:49.013234",
-  "actualizado_vzla": "2026-01-07 11:57:49 -04",
+  "timestamp_utc": "2026-01-07T16:42:26.071007",
+  "actualizado_vzla": "2026-01-07 12:42:26 -04",
   "compra_segundo": {
-    "price": 809.999,
-    "name": "CRIPTOPARK"
+    "price": 855.0,
+    "name": "denny34"
   },
   "venta_maxima": {
-    "price": 830.0,
-    "name": "-FARMA_CRIPTO-"
+    "price": 870.0,
+    "name": "Quick Payment"
   },
-  "promedio": 820.0,
+  "promedio": 862.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
