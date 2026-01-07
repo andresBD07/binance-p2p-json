@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T17:45:07.646710",
-  "actualizado_vzla": "2026-01-07 13:45:07 -04",
+  "timestamp_utc": "2026-01-07T17:59:20.178327",
+  "actualizado_vzla": "2026-01-07 13:59:20 -04",
   "compra_segundo": {
-    "price": 771.999,
-    "name": "dannym12"
+    "price": 764.79,
+    "name": "REMESAS_ELMARACUCHO"
   },
   "venta_maxima": {
-    "price": 805.908,
-    "name": "JorleGP"
+    "price": 785.0,
+    "name": "対馬の幽霊"
   },
-  "promedio": 788.95,
+  "promedio": 774.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
