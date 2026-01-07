@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T23:26:45.847977",
-  "actualizado_vzla": "2026-01-07 19:26:45 -04",
+  "timestamp_utc": "2026-01-07T23:44:38.217216",
+  "actualizado_vzla": "2026-01-07 19:44:38 -04",
   "compra_segundo": {
-    "price": 767.8,
-    "name": "SaoriKido"
+    "price": 773.848,
+    "name": "MiguelLinarez"
   },
   "venta_maxima": {
-    "price": 770.0,
-    "name": "SasukeTrader"
+    "price": 771.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 768.9,
+  "promedio": 772.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
