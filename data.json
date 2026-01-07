@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T07:55:51.574648",
-  "actualizado_vzla": "2026-01-07 03:55:51 -04",
+  "timestamp_utc": "2026-01-07T08:41:21.057402",
+  "actualizado_vzla": "2026-01-07 04:41:21 -04",
   "compra_segundo": {
     "price": 790.0,
-    "name": "RJ_SaveExchange"
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 736.5,
-    "name": "VeloFlux"
+    "price": 737.5,
+    "name": "Abi_Cambios"
   },
-  "promedio": 763.25,
+  "promedio": 763.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
