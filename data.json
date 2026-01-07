@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T03:50:23.008519",
-  "actualizado_vzla": "2026-01-06 23:50:23 -04",
+  "timestamp_utc": "2026-01-07T04:35:36.883562",
+  "actualizado_vzla": "2026-01-07 00:35:36 -04",
   "compra_segundo": {
-    "price": 770.175,
-    "name": "太COMPANY_CASH"
+    "price": 778.859,
+    "name": "Jcby"
   },
   "venta_maxima": {
-    "price": 755.336,
-    "name": "Biyt"
+    "price": 749.203,
+    "name": "AvExchange"
   },
-  "promedio": 762.76,
+  "promedio": 764.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
