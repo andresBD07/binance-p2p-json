@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T22:54:54.128670",
-  "actualizado_vzla": "2026-01-07 18:54:54 -04",
+  "timestamp_utc": "2026-01-07T23:26:45.847977",
+  "actualizado_vzla": "2026-01-07 19:26:45 -04",
   "compra_segundo": {
-    "price": 756.49,
-    "name": "_AltCoinMaster_"
+    "price": 767.8,
+    "name": "SaoriKido"
   },
   "venta_maxima": {
-    "price": 755.0,
-    "name": "安全与信任"
+    "price": 770.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 755.75,
+  "promedio": 768.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
