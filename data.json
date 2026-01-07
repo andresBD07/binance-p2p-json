@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T11:45:02.466533",
-  "actualizado_vzla": "2026-01-07 07:45:02 -04",
+  "timestamp_utc": "2026-01-07T11:58:18.925724",
+  "actualizado_vzla": "2026-01-07 07:58:18 -04",
   "compra_segundo": {
-    "price": 765.321,
-    "name": "La_vida_es_Bella"
+    "price": 764.5,
+    "name": "thorcripto23"
   },
   "venta_maxima": {
-    "price": 763.1,
-    "name": "HarveySpecterTrader"
+    "price": 761.0,
+    "name": "Weppatech"
   },
-  "promedio": 764.21,
+  "promedio": 762.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
