@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T11:26:35.511117",
-  "actualizado_vzla": "2026-01-07 07:26:35 -04",
+  "timestamp_utc": "2026-01-07T11:45:02.466533",
+  "actualizado_vzla": "2026-01-07 07:45:02 -04",
   "compra_segundo": {
-    "price": 767.499,
-    "name": "Kapo"
+    "price": 765.321,
+    "name": "La_vida_es_Bella"
   },
   "venta_maxima": {
-    "price": 765.203,
-    "name": "CriptoEche"
+    "price": 763.1,
+    "name": "HarveySpecterTrader"
   },
-  "promedio": 766.35,
+  "promedio": 764.21,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
