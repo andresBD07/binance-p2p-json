@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T07:54:22.442241",
-  "actualizado_vzla": "2026-01-08 03:54:22 -04",
+  "timestamp_utc": "2026-01-08T08:37:08.332908",
+  "actualizado_vzla": "2026-01-08 04:37:08 -04",
   "compra_segundo": {
-    "price": 799.0,
-    "name": "caguy"
+    "price": 798.897,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
     "price": 763.2,
     "name": "LECHUGAEXPRESS"
   },
-  "promedio": 781.1,
+  "promedio": 781.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
