@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T19:58:30.259222",
-  "actualizado_vzla": "2026-01-08 15:58:30 -04",
+  "timestamp_utc": "2026-01-08T20:35:18.357301",
+  "actualizado_vzla": "2026-01-08 16:35:18 -04",
   "compra_segundo": {
-    "price": 739.999,
-    "name": "Guayoyoo"
+    "price": 738.999,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 745.0,
+    "price": 740.0,
     "name": "安全与信任"
   },
-  "promedio": 742.5,
+  "promedio": 739.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
