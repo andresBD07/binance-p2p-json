@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T10:55:46.554603",
-  "actualizado_vzla": "2026-01-08 06:55:46 -04",
+  "timestamp_utc": "2026-01-08T11:28:31.030645",
+  "actualizado_vzla": "2026-01-08 07:28:31 -04",
   "compra_segundo": {
-    "price": 780.0,
-    "name": "Cambia-Seguro-01"
+    "price": 776.2,
+    "name": "Lillie05"
   },
   "venta_maxima": {
-    "price": 789.376,
-    "name": "T_A_U_R_O--pro--"
+    "price": 767.0,
+    "name": "Summer90"
   },
-  "promedio": 784.69,
+  "promedio": 771.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
