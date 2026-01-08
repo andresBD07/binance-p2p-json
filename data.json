@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T18:40:23.095393",
-  "actualizado_vzla": "2026-01-08 14:40:23 -04",
+  "timestamp_utc": "2026-01-08T19:00:24.858137",
+  "actualizado_vzla": "2026-01-08 15:00:24 -04",
   "compra_segundo": {
-    "price": 740.0,
-    "name": "SecurityMaster"
+    "price": 736.3,
+    "name": "Adamantium Capital"
   },
   "venta_maxima": {
-    "price": 745.0,
-    "name": "-Godgiven-"
+    "price": 745.5,
+    "name": "cazing2230-2"
   },
-  "promedio": 742.5,
+  "promedio": 740.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
