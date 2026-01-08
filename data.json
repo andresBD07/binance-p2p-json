@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T07:40:38.872082",
-  "actualizado_vzla": "2026-01-08 03:40:38 -04",
+  "timestamp_utc": "2026-01-08T07:54:22.442241",
+  "actualizado_vzla": "2026-01-08 03:54:22 -04",
   "compra_segundo": {
-    "price": 797.72,
-    "name": "AskenLurom"
+    "price": 799.0,
+    "name": "caguy"
   },
   "venta_maxima": {
     "price": 763.2,
     "name": "LECHUGAEXPRESS"
   },
-  "promedio": 780.46,
+  "promedio": 781.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
