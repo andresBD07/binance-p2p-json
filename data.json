@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T11:46:46.073893",
-  "actualizado_vzla": "2026-01-08 07:46:46 -04",
+  "timestamp_utc": "2026-01-08T11:59:54.442428",
+  "actualizado_vzla": "2026-01-08 07:59:54 -04",
   "compra_segundo": {
-    "price": 772.999,
-    "name": "Kapo"
+    "price": 770.6,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 765.5,
-    "name": "Free Trade and Investments"
+    "price": 766.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 769.25,
+  "promedio": 768.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
