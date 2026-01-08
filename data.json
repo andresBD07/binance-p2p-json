@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-07T23:57:40.300096",
-  "actualizado_vzla": "2026-01-07 19:57:40 -04",
+  "timestamp_utc": "2026-01-08T02:24:09.264962",
+  "actualizado_vzla": "2026-01-07 22:24:09 -04",
   "compra_segundo": {
-    "price": 776.6,
-    "name": "LEOCASHFAST"
+    "price": 773.85,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 774.0,
+    "price": 775.0,
     "name": "-Godgiven-"
   },
-  "promedio": 775.3,
+  "promedio": 774.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
