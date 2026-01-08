@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T21:27:12.089030",
-  "actualizado_vzla": "2026-01-08 17:27:12 -04",
+  "timestamp_utc": "2026-01-08T21:46:06.330110",
+  "actualizado_vzla": "2026-01-08 17:46:06 -04",
   "compra_segundo": {
-    "price": 711.95,
-    "name": "ALTRIUM"
+    "price": 711.9,
+    "name": "FC-Ultimate"
   },
   "venta_maxima": {
-    "price": 716.0,
-    "name": "HAWKEYE-1"
+    "price": 715.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 713.98,
+  "promedio": 713.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
