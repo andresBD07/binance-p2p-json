@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T23:39:07.529732",
-  "actualizado_vzla": "2026-01-08 19:39:07 -04",
+  "timestamp_utc": "2026-01-08T23:52:26.449924",
+  "actualizado_vzla": "2026-01-08 19:52:26 -04",
   "compra_segundo": {
-    "price": 720.0,
-    "name": "weneko"
+    "price": 720.9,
+    "name": "ElHijo2407"
   },
   "venta_maxima": {
-    "price": 725.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 730.0,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 722.5,
+  "promedio": 725.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
