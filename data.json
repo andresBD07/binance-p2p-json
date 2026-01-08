@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T19:00:24.858137",
-  "actualizado_vzla": "2026-01-08 15:00:24 -04",
+  "timestamp_utc": "2026-01-08T19:29:06.611755",
+  "actualizado_vzla": "2026-01-08 15:29:06 -04",
   "compra_segundo": {
-    "price": 736.3,
-    "name": "Adamantium Capital"
+    "price": 740.0,
+    "name": "Gil2025"
   },
   "venta_maxima": {
-    "price": 745.5,
-    "name": "cazing2230-2"
+    "price": 742.0,
+    "name": "安全与信任"
   },
-  "promedio": 740.9,
+  "promedio": 741.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
