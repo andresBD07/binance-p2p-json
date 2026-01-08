@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T20:35:18.357301",
-  "actualizado_vzla": "2026-01-08 16:35:18 -04",
+  "timestamp_utc": "2026-01-08T20:54:17.045189",
+  "actualizado_vzla": "2026-01-08 16:54:17 -04",
   "compra_segundo": {
-    "price": 738.999,
-    "name": "LAULAR87"
+    "price": 730.0,
+    "name": "Intercambiosmgta"
   },
   "venta_maxima": {
-    "price": 740.0,
-    "name": "安全与信任"
+    "price": 728.0,
+    "name": "cazing2230-2"
   },
-  "promedio": 739.5,
+  "promedio": 729.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
