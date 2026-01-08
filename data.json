@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T03:50:08.369542",
-  "actualizado_vzla": "2026-01-07 23:50:08 -04",
+  "timestamp_utc": "2026-01-08T04:34:10.608347",
+  "actualizado_vzla": "2026-01-08 00:34:10 -04",
   "compra_segundo": {
-    "price": 780.0,
-    "name": "PedroCriptoBTC"
+    "price": 783.999,
+    "name": "Orlando_1705"
   },
   "venta_maxima": {
     "price": 769.0,
     "name": "CambiosAllegria"
   },
-  "promedio": 774.5,
+  "promedio": 776.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
