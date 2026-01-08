@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T13:51:23.570715",
-  "actualizado_vzla": "2026-01-08 09:51:23 -04",
+  "timestamp_utc": "2026-01-08T14:22:32.608854",
+  "actualizado_vzla": "2026-01-08 10:22:32 -04",
   "compra_segundo": {
-    "price": 708.0,
-    "name": "LEOCASHFAST"
+    "price": 719.0,
+    "name": "COMPRA Y VENDE AQUI"
   },
   "venta_maxima": {
-    "price": 710.1,
-    "name": "Speedy Gonzales_"
+    "price": 721.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 709.05,
+  "promedio": 720.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
