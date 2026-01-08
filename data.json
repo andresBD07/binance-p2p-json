@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T10:35:29.458507",
-  "actualizado_vzla": "2026-01-08 06:35:29 -04",
+  "timestamp_utc": "2026-01-08T10:55:46.554603",
+  "actualizado_vzla": "2026-01-08 06:55:46 -04",
   "compra_segundo": {
-    "price": 790.0,
-    "name": "FullCambiosSc"
+    "price": 780.0,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
-    "price": 764.2,
-    "name": "Bip2p"
+    "price": 789.376,
+    "name": "T_A_U_R_O--pro--"
   },
-  "promedio": 777.1,
+  "promedio": 784.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
