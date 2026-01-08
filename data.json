@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T23:22:00.657220",
-  "actualizado_vzla": "2026-01-08 19:22:00 -04",
+  "timestamp_utc": "2026-01-08T23:39:07.529732",
+  "actualizado_vzla": "2026-01-08 19:39:07 -04",
   "compra_segundo": {
-    "price": 719.598,
-    "name": "frankmlh"
+    "price": 720.0,
+    "name": "weneko"
   },
   "venta_maxima": {
-    "price": 728.0,
-    "name": "安全与信任"
+    "price": 725.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 723.8,
+  "promedio": 722.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
