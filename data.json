@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T05:37:25.298002",
-  "actualizado_vzla": "2026-01-08 01:37:25 -04",
+  "timestamp_utc": "2026-01-08T05:55:03.009015",
+  "actualizado_vzla": "2026-01-08 01:55:03 -04",
   "compra_segundo": {
-    "price": 790.0,
-    "name": "btcmamba24"
+    "price": 793.0,
+    "name": "Jl crissol "
   },
   "venta_maxima": {
     "price": 770.5,
     "name": "Gimol"
   },
-  "promedio": 780.25,
+  "promedio": 781.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
