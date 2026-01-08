@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-08T19:29:06.611755",
-  "actualizado_vzla": "2026-01-08 15:29:06 -04",
+  "timestamp_utc": "2026-01-08T19:45:18.641626",
+  "actualizado_vzla": "2026-01-08 15:45:18 -04",
   "compra_segundo": {
-    "price": 740.0,
-    "name": "Gil2025"
+    "price": 739.999,
+    "name": "Inversiones Money Today"
   },
   "venta_maxima": {
     "price": 742.0,
