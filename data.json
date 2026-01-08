@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T15:51:10.155760",
-  "actualizado_vzla": "2026-01-08 11:51:10 -04",
+  "timestamp_utc": "2026-01-08T16:25:27.379694",
+  "actualizado_vzla": "2026-01-08 12:25:27 -04",
   "compra_segundo": {
-    "price": 743.0,
-    "name": "dionix69"
+    "price": 757.4,
+    "name": "PagoInstantaneoP2P"
   },
   "venta_maxima": {
-    "price": 756.0,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 770.0,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 749.5,
+  "promedio": 763.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
