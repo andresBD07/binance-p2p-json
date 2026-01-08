@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T14:22:32.608854",
-  "actualizado_vzla": "2026-01-08 10:22:32 -04",
+  "timestamp_utc": "2026-01-08T14:52:09.099796",
+  "actualizado_vzla": "2026-01-08 10:52:09 -04",
   "compra_segundo": {
-    "price": 719.0,
-    "name": "COMPRA Y VENDE AQUI"
+    "price": 767.0,
+    "name": "mariolis multiser"
   },
   "venta_maxima": {
-    "price": 721.0,
+    "price": 765.0,
     "name": "-Godgiven-"
   },
-  "promedio": 720.0,
+  "promedio": 766.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
