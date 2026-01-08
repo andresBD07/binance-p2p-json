@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T09:57:06.699357",
-  "actualizado_vzla": "2026-01-08 05:57:06 -04",
+  "timestamp_utc": "2026-01-08T10:35:29.458507",
+  "actualizado_vzla": "2026-01-08 06:35:29 -04",
   "compra_segundo": {
-    "price": 797.0,
-    "name": "AskenLurom"
+    "price": 790.0,
+    "name": "FullCambiosSc"
   },
   "venta_maxima": {
-    "price": 760.0,
-    "name": "Gold"
+    "price": 764.2,
+    "name": "Bip2p"
   },
-  "promedio": 778.5,
+  "promedio": 777.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
