@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T21:59:00.271930",
-  "actualizado_vzla": "2026-01-08 17:59:00 -04",
+  "timestamp_utc": "2026-01-08T22:33:33.609209",
+  "actualizado_vzla": "2026-01-08 18:33:33 -04",
   "compra_segundo": {
-    "price": 719.8,
-    "name": "Andres83"
+    "price": 730.995,
+    "name": "urotrader"
   },
   "venta_maxima": {
-    "price": 719.001,
-    "name": "-Godgiven-"
+    "price": 735.0,
+    "name": "安全与信任"
   },
-  "promedio": 719.4,
+  "promedio": 733.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
