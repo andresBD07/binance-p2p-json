@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T05:55:03.009015",
-  "actualizado_vzla": "2026-01-08 01:55:03 -04",
+  "timestamp_utc": "2026-01-08T06:44:30.603987",
+  "actualizado_vzla": "2026-01-08 02:44:30 -04",
   "compra_segundo": {
-    "price": 793.0,
-    "name": "Jl crissol "
+    "price": 794.0,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 770.5,
-    "name": "Gimol"
+    "price": 763.0,
+    "name": "LECHUGAEXPRESS"
   },
-  "promedio": 781.75,
+  "promedio": 778.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
