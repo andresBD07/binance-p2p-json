@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T06:44:30.603987",
-  "actualizado_vzla": "2026-01-08 02:44:30 -04",
+  "timestamp_utc": "2026-01-08T07:13:12.658222",
+  "actualizado_vzla": "2026-01-08 03:13:12 -04",
   "compra_segundo": {
-    "price": 794.0,
-    "name": "LinkVzla"
+    "price": 798.897,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
-    "price": 763.0,
+    "price": 763.2,
     "name": "LECHUGAEXPRESS"
   },
-  "promedio": 778.5,
+  "promedio": 781.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
