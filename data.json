@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T22:33:33.609209",
-  "actualizado_vzla": "2026-01-08 18:33:33 -04",
+  "timestamp_utc": "2026-01-08T22:52:25.747311",
+  "actualizado_vzla": "2026-01-08 18:52:25 -04",
   "compra_segundo": {
-    "price": 730.995,
-    "name": "urotrader"
+    "price": 729.5,
+    "name": "Elite"
   },
   "venta_maxima": {
     "price": 735.0,
     "name": "安全与信任"
   },
-  "promedio": 733.0,
+  "promedio": 732.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
