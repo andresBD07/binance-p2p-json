@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T04:34:10.608347",
-  "actualizado_vzla": "2026-01-08 00:34:10 -04",
+  "timestamp_utc": "2026-01-08T05:01:25.111902",
+  "actualizado_vzla": "2026-01-08 01:01:25 -04",
   "compra_segundo": {
-    "price": 783.999,
-    "name": "Orlando_1705"
+    "price": 786.788,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 769.0,
-    "name": "CambiosAllegria"
+    "price": 765.5,
+    "name": "Weppatech"
   },
-  "promedio": 776.5,
+  "promedio": 776.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
