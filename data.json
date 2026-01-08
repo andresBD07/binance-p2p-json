@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T15:25:00.775144",
-  "actualizado_vzla": "2026-01-08 11:25:00 -04",
+  "timestamp_utc": "2026-01-08T15:51:10.155760",
+  "actualizado_vzla": "2026-01-08 11:51:10 -04",
   "compra_segundo": {
-    "price": 746.3,
-    "name": "CRIPTODIGITALNV"
+    "price": 743.0,
+    "name": "dionix69"
   },
   "venta_maxima": {
-    "price": 760.0,
-    "name": "Godisgift"
+    "price": 756.0,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 753.15,
+  "promedio": 749.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
