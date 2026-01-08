@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T17:36:11.045325",
-  "actualizado_vzla": "2026-01-08 13:36:11 -04",
+  "timestamp_utc": "2026-01-08T17:56:03.189151",
+  "actualizado_vzla": "2026-01-08 13:56:03 -04",
   "compra_segundo": {
-    "price": 750.95,
-    "name": "MangoConAdoboT"
+    "price": 752.7,
+    "name": "fundatrade"
   },
   "venta_maxima": {
-    "price": 762.0,
-    "name": "安全与信任"
+    "price": 753.1,
+    "name": "cazing2230-2"
   },
-  "promedio": 756.48,
+  "promedio": 752.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
