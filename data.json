@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T09:38:58.525131",
-  "actualizado_vzla": "2026-01-08 05:38:58 -04",
+  "timestamp_utc": "2026-01-08T09:57:06.699357",
+  "actualizado_vzla": "2026-01-08 05:57:06 -04",
   "compra_segundo": {
-    "price": 799.998,
-    "name": "Jl crissol "
+    "price": 797.0,
+    "name": "AskenLurom"
   },
   "venta_maxima": {
-    "price": 765.1,
-    "name": "LECHUGAEXPRESS"
+    "price": 760.0,
+    "name": "Gold"
   },
-  "promedio": 782.55,
+  "promedio": 778.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
