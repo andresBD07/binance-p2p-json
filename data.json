@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T05:01:25.111902",
-  "actualizado_vzla": "2026-01-08 01:01:25 -04",
+  "timestamp_utc": "2026-01-08T05:37:25.298002",
+  "actualizado_vzla": "2026-01-08 01:37:25 -04",
   "compra_segundo": {
-    "price": 786.788,
-    "name": "Abi_Cambios"
+    "price": 790.0,
+    "name": "btcmamba24"
   },
   "venta_maxima": {
-    "price": 765.5,
-    "name": "Weppatech"
+    "price": 770.5,
+    "name": "Gimol"
   },
-  "promedio": 776.14,
+  "promedio": 780.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
