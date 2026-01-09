@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T14:44:10.223413",
-  "actualizado_vzla": "2026-01-09 10:44:10 -04",
+  "timestamp_utc": "2026-01-09T14:59:56.356705",
+  "actualizado_vzla": "2026-01-09 10:59:56 -04",
   "compra_segundo": {
-    "price": 672.99,
-    "name": "Pale"
+    "price": 671.5,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 669.0,
-    "name": "VERTUOK"
+    "price": 752.0,
+    "name": "dogshow"
   },
-  "promedio": 671.0,
+  "promedio": 711.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
