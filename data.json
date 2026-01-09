@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T07:01:24.291558",
-  "actualizado_vzla": "2026-01-09 03:01:24 -04",
+  "timestamp_utc": "2026-01-09T07:35:05.894145",
+  "actualizado_vzla": "2026-01-09 03:35:05 -04",
   "compra_segundo": {
-    "price": 725.77,
-    "name": "ledezmagm"
+    "price": 725.5,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 710.5,
     "name": "Suora21"
   },
-  "promedio": 718.13,
+  "promedio": 718.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
