@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T21:22:37.365462",
-  "actualizado_vzla": "2026-01-09 17:22:37 -04",
+  "timestamp_utc": "2026-01-09T21:41:49.259772",
+  "actualizado_vzla": "2026-01-09 17:41:49 -04",
   "compra_segundo": {
-    "price": 600.0,
-    "name": "JCR-P2P-1522"
+    "price": 599.0,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 595.0,
-    "name": "JMCrip26"
+    "price": 593.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 597.5,
+  "promedio": 596.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
