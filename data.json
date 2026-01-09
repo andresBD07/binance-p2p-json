@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T11:44:22.718240",
-  "actualizado_vzla": "2026-01-09 07:44:22 -04",
+  "timestamp_utc": "2026-01-09T11:57:36.521728",
+  "actualizado_vzla": "2026-01-09 07:57:36 -04",
   "compra_segundo": {
-    "price": 717.77,
-    "name": "Addr04p2p"
+    "price": 716.5,
+    "name": "Steeft4"
   },
   "venta_maxima": {
-    "price": 718.98,
-    "name": "Plata_"
+    "price": 708.2,
+    "name": "ShadoWM01"
   },
-  "promedio": 718.38,
+  "promedio": 712.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
