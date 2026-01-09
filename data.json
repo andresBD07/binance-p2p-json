@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T18:59:21.375591",
-  "actualizado_vzla": "2026-01-09 14:59:21 -04",
+  "timestamp_utc": "2026-01-09T19:28:03.699667",
+  "actualizado_vzla": "2026-01-09 15:28:03 -04",
   "compra_segundo": {
-    "price": 625.99,
-    "name": "LinkVzla"
+    "price": 599.0,
+    "name": "AA_Over"
   },
   "venta_maxima": {
-    "price": 619.75,
-    "name": "-Godgiven-"
+    "price": 592.0,
+    "name": "Mermelada50"
   },
-  "promedio": 622.87,
+  "promedio": 595.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
