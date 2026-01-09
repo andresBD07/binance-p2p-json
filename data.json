@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T05:52:41.803450",
-  "actualizado_vzla": "2026-01-09 01:52:41 -04",
+  "timestamp_utc": "2026-01-09T06:35:01.644418",
+  "actualizado_vzla": "2026-01-09 02:35:01 -04",
   "compra_segundo": {
-    "price": 725.0,
-    "name": "JP-Services"
+    "price": 725.77,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
-    "price": 711.781,
-    "name": "RAPIDOySEGURO_EAGLE"
+    "price": 710.5,
+    "name": "Suora21"
   },
-  "promedio": 718.39,
+  "promedio": 718.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
