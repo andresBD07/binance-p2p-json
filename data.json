@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T15:35:46.322634",
-  "actualizado_vzla": "2026-01-09 11:35:46 -04",
+  "timestamp_utc": "2026-01-09T15:54:13.224337",
+  "actualizado_vzla": "2026-01-09 11:54:13 -04",
   "compra_segundo": {
-    "price": 682.49,
-    "name": "JesusCrip"
+    "price": 678.98,
+    "name": "RECARGASYSERVICIOSYA"
   },
   "venta_maxima": {
     "price": 677.0,
-    "name": "VERTUOK"
+    "name": "Mucutuy"
   },
-  "promedio": 679.75,
+  "promedio": 677.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
