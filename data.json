@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T05:31:53.589622",
-  "actualizado_vzla": "2026-01-09 01:31:53 -04",
+  "timestamp_utc": "2026-01-09T05:52:41.803450",
+  "actualizado_vzla": "2026-01-09 01:52:41 -04",
   "compra_segundo": {
-    "price": 723.8,
-    "name": "JR10criptos"
+    "price": 725.0,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 711.0,
-    "name": "ALEXANDER HNW"
+    "price": 711.781,
+    "name": "RAPIDOySEGURO_EAGLE"
   },
-  "promedio": 717.4,
+  "promedio": 718.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
