@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T13:03:38.709613",
-  "actualizado_vzla": "2026-01-09 09:03:38 -04",
+  "timestamp_utc": "2026-01-09T13:47:58.447762",
+  "actualizado_vzla": "2026-01-09 09:47:58 -04",
   "compra_segundo": {
-    "price": 679.999,
-    "name": "lejc00"
+    "price": 706.5,
+    "name": "AllDayTrade"
   },
   "venta_maxima": {
-    "price": 673.101,
-    "name": "lujanc"
+    "price": 698.0,
+    "name": "Biyt"
   },
-  "promedio": 676.55,
+  "promedio": 702.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
