@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T21:55:08.720984",
-  "actualizado_vzla": "2026-01-09 17:55:08 -04",
+  "timestamp_utc": "2026-01-09T22:28:14.346241",
+  "actualizado_vzla": "2026-01-09 18:28:14 -04",
   "compra_segundo": {
-    "price": 593.0,
-    "name": "NikeTrader"
+    "price": 570.0,
+    "name": "Specione"
   },
   "venta_maxima": {
-    "price": 586.0,
-    "name": "Biyt"
+    "price": 567.0,
+    "name": "RAULITO2809"
   },
-  "promedio": 589.5,
+  "promedio": 568.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
