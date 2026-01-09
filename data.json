@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T14:59:56.356705",
-  "actualizado_vzla": "2026-01-09 10:59:56 -04",
+  "timestamp_utc": "2026-01-09T15:35:46.322634",
+  "actualizado_vzla": "2026-01-09 11:35:46 -04",
   "compra_segundo": {
-    "price": 671.5,
-    "name": "ElCandidoP2P"
+    "price": 682.49,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
-    "price": 752.0,
-    "name": "dogshow"
+    "price": 677.0,
+    "name": "VERTUOK"
   },
-  "promedio": 711.75,
+  "promedio": 679.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
