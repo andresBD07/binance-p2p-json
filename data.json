@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T18:34:47.201745",
-  "actualizado_vzla": "2026-01-09 14:34:47 -04",
+  "timestamp_utc": "2026-01-09T18:59:21.375591",
+  "actualizado_vzla": "2026-01-09 14:59:21 -04",
   "compra_segundo": {
-    "price": 627.5,
-    "name": "Notorio"
+    "price": 625.99,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "RAULITO2809"
+    "price": 619.75,
+    "name": "-Godgiven-"
   },
-  "promedio": 626.25,
+  "promedio": 622.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
