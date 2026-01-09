@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T17:34:08.044651",
-  "actualizado_vzla": "2026-01-09 13:34:08 -04",
+  "timestamp_utc": "2026-01-09T17:53:01.251944",
+  "actualizado_vzla": "2026-01-09 13:53:01 -04",
   "compra_segundo": {
-    "price": 653.89,
-    "name": "Trader_LB"
+    "price": 640.0,
+    "name": "fenomeno"
   },
   "venta_maxima": {
-    "price": 650.0,
+    "price": 640.0,
     "name": "SasukeTrader"
   },
-  "promedio": 651.94,
+  "promedio": 640.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
