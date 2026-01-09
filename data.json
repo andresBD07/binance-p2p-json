@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T19:28:03.699667",
-  "actualizado_vzla": "2026-01-09 15:28:03 -04",
+  "timestamp_utc": "2026-01-09T19:44:17.853436",
+  "actualizado_vzla": "2026-01-09 15:44:17 -04",
   "compra_segundo": {
-    "price": 599.0,
-    "name": "AA_Over"
+    "price": 522.99,
+    "name": "AlfaTrader21"
   },
   "venta_maxima": {
-    "price": 592.0,
-    "name": "Mermelada50"
+    "price": 513.0,
+    "name": "JMCrip26"
   },
-  "promedio": 595.5,
+  "promedio": 518.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
