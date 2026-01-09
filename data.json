@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-08T23:52:26.449924",
-  "actualizado_vzla": "2026-01-08 19:52:26 -04",
+  "timestamp_utc": "2026-01-09T01:44:32.816435",
+  "actualizado_vzla": "2026-01-08 21:44:32 -04",
   "compra_segundo": {
-    "price": 720.9,
-    "name": "ElHijo2407"
+    "price": 726.9,
+    "name": "JoelL"
   },
   "venta_maxima": {
-    "price": 730.0,
-    "name": "HAWKEYE-1"
+    "price": 726.401,
+    "name": "THE BOSS  96"
   },
-  "promedio": 725.45,
+  "promedio": 726.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
