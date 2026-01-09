@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T07:51:55.320931",
-  "actualizado_vzla": "2026-01-09 03:51:55 -04",
+  "timestamp_utc": "2026-01-09T08:28:13.511719",
+  "actualizado_vzla": "2026-01-09 04:28:13 -04",
   "compra_segundo": {
-    "price": 726.399,
-    "name": "CriptTradeHup "
+    "price": 724.7,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
     "price": 710.5,
     "name": "Suora21"
   },
-  "promedio": 718.45,
+  "promedio": 717.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
