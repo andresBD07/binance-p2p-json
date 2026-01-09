@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T22:28:14.346241",
-  "actualizado_vzla": "2026-01-09 18:28:14 -04",
+  "timestamp_utc": "2026-01-09T22:48:44.535585",
+  "actualizado_vzla": "2026-01-09 18:48:44 -04",
   "compra_segundo": {
     "price": 570.0,
-    "name": "Specione"
+    "name": "Peter_Cambios"
   },
   "venta_maxima": {
-    "price": 567.0,
-    "name": "RAULITO2809"
+    "price": 563.0,
+    "name": "Burdyn"
   },
-  "promedio": 568.5,
+  "promedio": 566.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
