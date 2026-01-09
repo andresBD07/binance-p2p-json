@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T22:48:44.535585",
-  "actualizado_vzla": "2026-01-09 18:48:44 -04",
+  "timestamp_utc": "2026-01-09T23:11:35.957424",
+  "actualizado_vzla": "2026-01-09 19:11:35 -04",
   "compra_segundo": {
-    "price": 570.0,
-    "name": "Peter_Cambios"
+    "price": 579.789,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
-    "price": 563.0,
+    "price": 574.05,
     "name": "Burdyn"
   },
-  "promedio": 566.5,
+  "promedio": 576.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
