@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T10:54:49.869772",
-  "actualizado_vzla": "2026-01-09 06:54:49 -04",
+  "timestamp_utc": "2026-01-09T11:25:36.909106",
+  "actualizado_vzla": "2026-01-09 07:25:36 -04",
   "compra_segundo": {
-    "price": 719.799,
-    "name": "urotrader"
+    "price": 717.0,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
-    "price": 713.0,
-    "name": "Weppatech"
+    "price": 714.0,
+    "name": "CCST"
   },
-  "promedio": 716.4,
+  "promedio": 715.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
