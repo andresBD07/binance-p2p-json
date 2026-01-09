@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T20:53:15.972490",
-  "actualizado_vzla": "2026-01-09 16:53:15 -04",
+  "timestamp_utc": "2026-01-09T21:22:37.365462",
+  "actualizado_vzla": "2026-01-09 17:22:37 -04",
   "compra_segundo": {
-    "price": 604.98,
-    "name": "Fexyz"
+    "price": 600.0,
+    "name": "JCR-P2P-1522"
   },
   "venta_maxima": {
-    "price": 592.0,
-    "name": "JAPR20"
+    "price": 595.0,
+    "name": "JMCrip26"
   },
-  "promedio": 598.49,
+  "promedio": 597.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
