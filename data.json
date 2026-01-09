@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T15:54:13.224337",
-  "actualizado_vzla": "2026-01-09 11:54:13 -04",
+  "timestamp_utc": "2026-01-09T16:34:35.176915",
+  "actualizado_vzla": "2026-01-09 12:34:35 -04",
   "compra_segundo": {
-    "price": 678.98,
-    "name": "RECARGASYSERVICIOSYA"
+    "price": 662.89,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
-    "price": 677.0,
-    "name": "Mucutuy"
+    "price": 665.0,
+    "name": "安全与信任"
   },
-  "promedio": 677.99,
+  "promedio": 663.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
