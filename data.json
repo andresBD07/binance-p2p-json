@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-09T13:47:58.447762",
-  "actualizado_vzla": "2026-01-09 09:47:58 -04",
+  "timestamp_utc": "2026-01-09T14:12:51.610279",
+  "actualizado_vzla": "2026-01-09 10:12:51 -04",
   "compra_segundo": {
-    "price": 706.5,
-    "name": "AllDayTrade"
+    "price": 698.0,
+    "name": "javier273"
   },
   "venta_maxima": {
-    "price": 698.0,
-    "name": "Biyt"
+    "price": 687.0,
+    "name": "VERTUOK"
   },
-  "promedio": 702.25,
+  "promedio": 692.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
