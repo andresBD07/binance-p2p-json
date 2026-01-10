@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T08:48:01.125684",
-  "actualizado_vzla": "2026-01-10 04:48:01 -04",
+  "timestamp_utc": "2026-01-10T09:09:43.925772",
+  "actualizado_vzla": "2026-01-10 05:09:43 -04",
   "compra_segundo": {
-    "price": 583.0,
-    "name": "Juan15_7"
+    "price": 582.0,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
-    "price": 551.2,
-    "name": "AndradeGascon"
+    "price": 558.0,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 567.1,
+  "promedio": 570.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
