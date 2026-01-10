@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T17:07:52.762113",
-  "actualizado_vzla": "2026-01-10 13:07:52 -04",
+  "timestamp_utc": "2026-01-10T17:31:50.284821",
+  "actualizado_vzla": "2026-01-10 13:31:50 -04",
   "compra_segundo": {
-    "price": 567.799,
-    "name": "cambiaseguro_en-5min"
+    "price": 567.95,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
-    "price": 569.0,
-    "name": "安全与信任"
+    "price": 568.0,
+    "name": "Godisgift"
   },
-  "promedio": 568.4,
+  "promedio": 567.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
