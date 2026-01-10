@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T12:56:55.946175",
-  "actualizado_vzla": "2026-01-10 08:56:55 -04",
+  "timestamp_utc": "2026-01-10T13:35:23.998455",
+  "actualizado_vzla": "2026-01-10 09:35:24 -04",
   "compra_segundo": {
-    "price": 565.95,
-    "name": "MangoConAdoboT"
+    "price": 574.9,
+    "name": "Todolopuedoencristo1"
   },
   "venta_maxima": {
-    "price": 566.0,
-    "name": "-Godgiven-"
+    "price": 569.101,
+    "name": "VECTURAFX"
   },
-  "promedio": 565.98,
+  "promedio": 572.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
