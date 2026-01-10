@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T01:02:13.608685",
-  "actualizado_vzla": "2026-01-09 21:02:13 -04",
+  "timestamp_utc": "2026-01-10T02:58:36.020082",
+  "actualizado_vzla": "2026-01-09 22:58:36 -04",
   "compra_segundo": {
-    "price": 577.999,
-    "name": "Coinrich17"
+    "price": 573.0,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 570.0,
-    "name": "RONIN2_0"
+    "price": 564.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 574.0,
+  "promedio": 568.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
