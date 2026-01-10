@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T05:00:54.068441",
-  "actualizado_vzla": "2026-01-10 01:00:54 -04",
+  "timestamp_utc": "2026-01-10T05:33:29.510542",
+  "actualizado_vzla": "2026-01-10 01:33:29 -04",
   "compra_segundo": {
-    "price": 579.99,
-    "name": "Comercioreal23"
+    "price": 584.99,
+    "name": "cripto p2p internacion "
   },
   "venta_maxima": {
-    "price": 561.0,
-    "name": "Anakarelis05"
+    "price": 563.0,
+    "name": "BOSS__313"
   },
-  "promedio": 570.5,
+  "promedio": 574.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
