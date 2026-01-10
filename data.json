@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T19:39:28.142136",
-  "actualizado_vzla": "2026-01-10 15:39:28 -04",
+  "timestamp_utc": "2026-01-10T19:52:46.119181",
+  "actualizado_vzla": "2026-01-10 15:52:46 -04",
   "compra_segundo": {
-    "price": 561.4,
-    "name": "Bullishhoy"
+    "price": 558.96,
+    "name": "Jyplusca"
   },
   "venta_maxima": {
-    "price": 559.8,
-    "name": "THE BOSS  96"
+    "price": 555.0,
+    "name": "CCST"
   },
-  "promedio": 560.6,
+  "promedio": 556.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
