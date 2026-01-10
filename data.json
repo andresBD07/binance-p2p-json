@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T05:33:29.510542",
-  "actualizado_vzla": "2026-01-10 01:33:29 -04",
+  "timestamp_utc": "2026-01-10T05:50:41.068195",
+  "actualizado_vzla": "2026-01-10 01:50:41 -04",
   "compra_segundo": {
-    "price": 584.99,
-    "name": "cripto p2p internacion "
+    "price": 584.0,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 563.0,
+    "price": 573.0,
     "name": "BOSS__313"
   },
-  "promedio": 574.0,
+  "promedio": 578.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
