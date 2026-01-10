@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T20:22:41.114251",
-  "actualizado_vzla": "2026-01-10 16:22:41 -04",
+  "timestamp_utc": "2026-01-10T20:43:13.716421",
+  "actualizado_vzla": "2026-01-10 16:43:13 -04",
   "compra_segundo": {
-    "price": 554.7,
-    "name": "BABY-10"
+    "price": 550.8,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 555.0,
-    "name": "Child-CambioFacil"
+    "price": 552.5,
+    "name": "notorius11"
   },
-  "promedio": 554.85,
+  "promedio": 551.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
