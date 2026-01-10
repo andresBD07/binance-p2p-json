@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T04:00:51.007194",
-  "actualizado_vzla": "2026-01-10 00:00:51 -04",
+  "timestamp_utc": "2026-01-10T04:43:40.318902",
+  "actualizado_vzla": "2026-01-10 00:43:40 -04",
   "compra_segundo": {
-    "price": 578.99,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 579.999,
+    "name": "kyuub96"
   },
   "venta_maxima": {
-    "price": 564.0,
-    "name": "TucambioYa"
+    "price": 560.0,
+    "name": "NUM3R1T0"
   },
-  "promedio": 571.5,
+  "promedio": 570.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
