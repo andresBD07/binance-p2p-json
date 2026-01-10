@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T15:52:11.768870",
-  "actualizado_vzla": "2026-01-10 11:52:11 -04",
+  "timestamp_utc": "2026-01-10T16:23:15.006266",
+  "actualizado_vzla": "2026-01-10 12:23:15 -04",
   "compra_segundo": {
-    "price": 566.5,
-    "name": "Sir Carlos Bello Trader"
+    "price": 569.1,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
-    "price": 566.01,
-    "name": "DTFM-RD"
+    "price": 566.004,
+    "name": "xAnThOnYxx"
   },
-  "promedio": 566.25,
+  "promedio": 567.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
