@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T09:09:43.925772",
-  "actualizado_vzla": "2026-01-10 05:09:43 -04",
+  "timestamp_utc": "2026-01-10T09:33:51.443925",
+  "actualizado_vzla": "2026-01-10 05:33:51 -04",
   "compra_segundo": {
-    "price": 582.0,
-    "name": "LinkVzla"
+    "price": 579.899,
+    "name": "CoinPilot"
   },
   "venta_maxima": {
-    "price": 558.0,
-    "name": "Daikokuten-Finance"
+    "price": 552.0,
+    "name": "AkExpress"
   },
-  "promedio": 570.0,
+  "promedio": 565.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
