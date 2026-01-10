@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T11:45:10.772596",
-  "actualizado_vzla": "2026-01-10 07:45:10 -04",
+  "timestamp_utc": "2026-01-10T11:58:04.674665",
+  "actualizado_vzla": "2026-01-10 07:58:04 -04",
   "compra_segundo": {
-    "price": 571.9,
-    "name": "Kalev7"
+    "price": 568.39,
+    "name": "jssepro"
   },
   "venta_maxima": {
     "price": 562.5,
     "name": "DTFM-RD"
   },
-  "promedio": 567.2,
+  "promedio": 565.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
