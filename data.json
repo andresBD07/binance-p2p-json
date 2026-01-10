@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T15:38:40.118748",
-  "actualizado_vzla": "2026-01-10 11:38:40 -04",
+  "timestamp_utc": "2026-01-10T15:52:11.768870",
+  "actualizado_vzla": "2026-01-10 11:52:11 -04",
   "compra_segundo": {
-    "price": 566.9,
-    "name": "ExcellentExchange "
+    "price": 566.5,
+    "name": "Sir Carlos Bello Trader"
   },
   "venta_maxima": {
-    "price": 566.2,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 566.01,
+    "name": "DTFM-RD"
   },
-  "promedio": 566.55,
+  "promedio": 566.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
