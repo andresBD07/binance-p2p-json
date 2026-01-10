@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T20:43:13.716421",
-  "actualizado_vzla": "2026-01-10 16:43:13 -04",
+  "timestamp_utc": "2026-01-10T20:56:00.906489",
+  "actualizado_vzla": "2026-01-10 16:56:00 -04",
   "compra_segundo": {
-    "price": 550.8,
-    "name": "nene"
+    "price": 550.0,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 552.5,
-    "name": "notorius11"
+    "price": 551.5,
+    "name": "Anggy30"
   },
-  "promedio": 551.65,
+  "promedio": 550.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
