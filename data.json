@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T07:37:44.265754",
-  "actualizado_vzla": "2026-01-10 03:37:44 -04",
+  "timestamp_utc": "2026-01-10T07:50:55.065945",
+  "actualizado_vzla": "2026-01-10 03:50:55 -04",
   "compra_segundo": {
-    "price": 582.699,
-    "name": "AlainTD"
+    "price": 583.8,
+    "name": "LACHARCUTE"
   },
   "venta_maxima": {
-    "price": 554.5,
-    "name": "AkExpress"
+    "price": 558.45,
+    "name": "K69_Trades"
   },
-  "promedio": 568.6,
+  "promedio": 571.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
