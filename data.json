@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T13:51:13.194783",
-  "actualizado_vzla": "2026-01-10 09:51:13 -04",
+  "timestamp_utc": "2026-01-10T14:16:03.942174",
+  "actualizado_vzla": "2026-01-10 10:16:03 -04",
   "compra_segundo": {
-    "price": 580.0,
-    "name": "Anitacrush"
+    "price": 588.37,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 580.001,
-    "name": "Servic-Karyguz"
+    "price": 585.1,
+    "name": "All-inCrypto"
   },
-  "promedio": 580.0,
+  "promedio": 586.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
