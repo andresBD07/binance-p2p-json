@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T16:47:49.667297",
-  "actualizado_vzla": "2026-01-10 12:47:49 -04",
+  "timestamp_utc": "2026-01-10T17:07:52.762113",
+  "actualizado_vzla": "2026-01-10 13:07:52 -04",
   "compra_segundo": {
-    "price": 568.7,
-    "name": "TradingWolfe"
+    "price": 567.799,
+    "name": "cambiaseguro_en-5min"
   },
   "venta_maxima": {
-    "price": 567.0,
+    "price": 569.0,
     "name": "安全与信任"
   },
-  "promedio": 567.85,
+  "promedio": 568.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
