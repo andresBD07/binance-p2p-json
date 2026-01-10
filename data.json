@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T10:52:07.922207",
-  "actualizado_vzla": "2026-01-10 06:52:07 -04",
+  "timestamp_utc": "2026-01-10T11:16:06.220952",
+  "actualizado_vzla": "2026-01-10 07:16:06 -04",
   "compra_segundo": {
-    "price": 575.45,
-    "name": "TU CAMBIO"
+    "price": 573.9,
+    "name": "INVERSIONES-RCCH"
   },
   "venta_maxima": {
-    "price": 561.15,
-    "name": "A1000C"
+    "price": 563.2,
+    "name": "CesarRodriguez53"
   },
-  "promedio": 568.3,
+  "promedio": 568.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
