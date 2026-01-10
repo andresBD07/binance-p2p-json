@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T09:48:09.321270",
-  "actualizado_vzla": "2026-01-10 05:48:09 -04",
+  "timestamp_utc": "2026-01-10T10:10:15.574294",
+  "actualizado_vzla": "2026-01-10 06:10:15 -04",
   "compra_segundo": {
-    "price": 579.5,
-    "name": "Lillie05"
+    "price": 578.99,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
-    "price": 552.5,
-    "name": "Daikokuten-Finance"
+    "price": 554.0,
+    "name": "AkExpress"
   },
-  "promedio": 566.0,
+  "promedio": 566.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
