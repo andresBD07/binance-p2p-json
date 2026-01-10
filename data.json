@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T14:52:07.569584",
-  "actualizado_vzla": "2026-01-10 10:52:07 -04",
+  "timestamp_utc": "2026-01-10T15:18:35.946760",
+  "actualizado_vzla": "2026-01-10 11:18:35 -04",
   "compra_segundo": {
-    "price": 584.998,
-    "name": "frankmlh"
+    "price": 570.795,
+    "name": "Trader_LC"
   },
   "venta_maxima": {
-    "price": 582.001,
-    "name": "VECTURAFX"
+    "price": 566.0,
+    "name": "安全与信任"
   },
-  "promedio": 583.5,
+  "promedio": 568.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
