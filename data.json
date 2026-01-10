@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T11:58:04.674665",
-  "actualizado_vzla": "2026-01-10 07:58:04 -04",
+  "timestamp_utc": "2026-01-10T12:56:55.946175",
+  "actualizado_vzla": "2026-01-10 08:56:55 -04",
   "compra_segundo": {
-    "price": 568.39,
-    "name": "jssepro"
+    "price": 565.95,
+    "name": "MangoConAdoboT"
   },
   "venta_maxima": {
-    "price": 562.5,
-    "name": "DTFM-RD"
+    "price": 566.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 565.44,
+  "promedio": 565.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
