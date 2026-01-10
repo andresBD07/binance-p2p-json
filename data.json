@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T18:58:43.956819",
-  "actualizado_vzla": "2026-01-10 14:58:43 -04",
+  "timestamp_utc": "2026-01-10T19:23:57.906316",
+  "actualizado_vzla": "2026-01-10 15:23:57 -04",
   "compra_segundo": {
-    "price": 562.0,
-    "name": "JP-Services"
+    "price": 561.973,
+    "name": "R1staker"
   },
   "venta_maxima": {
-    "price": 563.0,
-    "name": "JoseParedez"
+    "price": 562.0,
+    "name": "Anggy30"
   },
-  "promedio": 562.5,
+  "promedio": 561.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
