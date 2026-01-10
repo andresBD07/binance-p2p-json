@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T17:46:12.446778",
-  "actualizado_vzla": "2026-01-10 13:46:12 -04",
+  "timestamp_utc": "2026-01-10T17:59:08.674102",
+  "actualizado_vzla": "2026-01-10 13:59:08 -04",
   "compra_segundo": {
-    "price": 567.0,
-    "name": "EXCELENTEEE"
+    "price": 566.0,
+    "name": "JorleGP"
   },
   "venta_maxima": {
-    "price": 566.0,
+    "price": 564.0,
     "name": "安全与信任"
   },
-  "promedio": 566.5,
+  "promedio": 565.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
