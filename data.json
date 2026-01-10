@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T22:28:18.301137",
-  "actualizado_vzla": "2026-01-10 18:28:18 -04",
+  "timestamp_utc": "2026-01-10T22:46:58.541578",
+  "actualizado_vzla": "2026-01-10 18:46:58 -04",
   "compra_segundo": {
-    "price": 548.499,
-    "name": "Snayderk"
+    "price": 544.899,
+    "name": "jferrora"
   },
   "venta_maxima": {
-    "price": 548.0,
-    "name": "Anggy30"
+    "price": 544.0,
+    "name": "TheZurdo1"
   },
-  "promedio": 548.25,
+  "promedio": 544.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
