@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T21:55:56.064307",
-  "actualizado_vzla": "2026-01-10 17:55:56 -04",
+  "timestamp_utc": "2026-01-10T22:28:18.301137",
+  "actualizado_vzla": "2026-01-10 18:28:18 -04",
   "compra_segundo": {
-    "price": 551.0,
-    "name": "Qlq_Men0r"
+    "price": 548.499,
+    "name": "Snayderk"
   },
   "venta_maxima": {
-    "price": 550.5,
-    "name": "ALASKA-"
+    "price": 548.0,
+    "name": "Anggy30"
   },
-  "promedio": 550.75,
+  "promedio": 548.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
