@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T23:11:39.692304",
-  "actualizado_vzla": "2026-01-11 19:11:39 -04",
+  "timestamp_utc": "2026-01-11T23:33:03.665491",
+  "actualizado_vzla": "2026-01-11 19:33:03 -04",
   "compra_segundo": {
-    "price": 523.0,
-    "name": "Songokuu7"
+    "price": 522.8,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
-    "price": 522.6,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 519.2,
+    "name": "Super_Mans"
   },
-  "promedio": 522.8,
+  "promedio": 521.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
