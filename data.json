@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T22:48:56.450723",
-  "actualizado_vzla": "2026-01-11 18:48:56 -04",
+  "timestamp_utc": "2026-01-11T23:11:39.692304",
+  "actualizado_vzla": "2026-01-11 19:11:39 -04",
   "compra_segundo": {
-    "price": 522.0,
-    "name": "Technicianzz"
+    "price": 523.0,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
-    "price": 522.5,
-    "name": "notorius11"
+    "price": 522.6,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 522.25,
+  "promedio": 522.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
