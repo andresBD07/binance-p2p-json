@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T14:20:34.599216",
-  "actualizado_vzla": "2026-01-11 10:20:34 -04",
+  "timestamp_utc": "2026-01-11T14:41:27.395168",
+  "actualizado_vzla": "2026-01-11 10:41:27 -04",
   "compra_segundo": {
-    "price": 537.7,
-    "name": "PagoInstantaneo"
+    "price": 536.999,
+    "name": "ELGOCHOXCHANGE31"
   },
   "venta_maxima": {
-    "price": 533.0,
-    "name": "JoseParedez"
+    "price": 531.21,
+    "name": "Pcambios10"
   },
-  "promedio": 535.35,
+  "promedio": 534.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
