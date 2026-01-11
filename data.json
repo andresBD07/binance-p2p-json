@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T15:24:19.139836",
-  "actualizado_vzla": "2026-01-11 11:24:19 -04",
+  "timestamp_utc": "2026-01-11T15:42:52.048815",
+  "actualizado_vzla": "2026-01-11 11:42:52 -04",
   "compra_segundo": {
-    "price": 535.99,
-    "name": "Alejandro_MG"
+    "price": 534.5,
+    "name": "-----CASUVEN-----"
   },
   "venta_maxima": {
-    "price": 532.001,
-    "name": "Servic-Karyguz"
+    "price": 532.0,
+    "name": "JoseParedez"
   },
-  "promedio": 534.0,
+  "promedio": 533.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
