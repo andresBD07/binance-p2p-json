@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T07:29:17.793584",
-  "actualizado_vzla": "2026-01-11 03:29:17 -04",
+  "timestamp_utc": "2026-01-11T07:44:58.776933",
+  "actualizado_vzla": "2026-01-11 03:44:58 -04",
   "compra_segundo": {
-    "price": 527.5,
-    "name": "Suora21"
+    "price": 528.99,
+    "name": "IntercambiosC"
   },
   "venta_maxima": {
     "price": 506.0,
     "name": "Bon-Cas99"
   },
-  "promedio": 516.75,
+  "promedio": 517.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
