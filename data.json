@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T08:37:13.147363",
-  "actualizado_vzla": "2026-01-11 04:37:13 -04",
+  "timestamp_utc": "2026-01-11T08:55:50.395608",
+  "actualizado_vzla": "2026-01-11 04:55:50 -04",
   "compra_segundo": {
-    "price": 527.4,
-    "name": "KobyTrader"
+    "price": 527.6,
+    "name": "Gerocas10"
   },
   "venta_maxima": {
     "price": 506.0,
     "name": "Bon-Cas99"
   },
-  "promedio": 516.7,
+  "promedio": 516.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
