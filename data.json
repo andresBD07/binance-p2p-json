@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T18:53:42.119389",
-  "actualizado_vzla": "2026-01-11 14:53:42 -04",
+  "timestamp_utc": "2026-01-11T19:18:11.034647",
+  "actualizado_vzla": "2026-01-11 15:18:11 -04",
   "compra_segundo": {
-    "price": 519.3,
-    "name": "RamgabP2P"
+    "price": 518.8,
+    "name": "DIGITAL_CAMBIOS_PD"
   },
   "venta_maxima": {
-    "price": 516.9,
-    "name": "Cripto_Seguro_Rapid"
+    "price": 517.1,
+    "name": "notorius11"
   },
-  "promedio": 518.1,
+  "promedio": 517.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
