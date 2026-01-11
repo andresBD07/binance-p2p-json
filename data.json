@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T17:19:53.077971",
-  "actualizado_vzla": "2026-01-11 13:19:53 -04",
+  "timestamp_utc": "2026-01-11T17:39:27.471223",
+  "actualizado_vzla": "2026-01-11 13:39:27 -04",
   "compra_segundo": {
-    "price": 523.98,
-    "name": "adonisdroid"
+    "price": 523.299,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 521.5,
-    "name": "Comercial Slim 2018 C A"
+    "price": 521.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 522.74,
+  "promedio": 522.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
