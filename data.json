@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T06:31:26.025862",
-  "actualizado_vzla": "2026-01-11 02:31:26 -04",
+  "timestamp_utc": "2026-01-11T06:57:38.268212",
+  "actualizado_vzla": "2026-01-11 02:57:38 -04",
   "compra_segundo": {
-    "price": 527.4,
-    "name": "KobyTrader"
+    "price": 527.0,
+    "name": "CRIPTOP2P-CRIPTO"
   },
   "venta_maxima": {
     "price": 506.0,
     "name": "Bon-Cas99"
   },
-  "promedio": 516.7,
+  "promedio": 516.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
