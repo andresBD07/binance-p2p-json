@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T15:42:52.048815",
-  "actualizado_vzla": "2026-01-11 11:42:52 -04",
+  "timestamp_utc": "2026-01-11T15:56:06.352396",
+  "actualizado_vzla": "2026-01-11 11:56:06 -04",
   "compra_segundo": {
-    "price": 534.5,
-    "name": "-----CASUVEN-----"
+    "price": 532.0,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 532.0,
-    "name": "JoseParedez"
+    "price": 530.1,
+    "name": "caguy"
   },
-  "promedio": 533.25,
+  "promedio": 531.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
