@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T02:35:42.898042",
-  "actualizado_vzla": "2026-01-10 22:35:42 -04",
+  "timestamp_utc": "2026-01-11T04:03:31.051382",
+  "actualizado_vzla": "2026-01-11 00:03:31 -04",
   "compra_segundo": {
-    "price": 523.9,
-    "name": "圎Sushi"
+    "price": 523.0,
+    "name": "Exotico"
   },
   "venta_maxima": {
-    "price": 515.5,
-    "name": "Free Trade and Investments"
+    "price": 510.0,
+    "name": "CambiosYa"
   },
-  "promedio": 519.7,
+  "promedio": 516.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
