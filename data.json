@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T04:54:57.167984",
-  "actualizado_vzla": "2026-01-11 00:54:57 -04",
+  "timestamp_utc": "2026-01-11T05:31:48.221277",
+  "actualizado_vzla": "2026-01-11 01:31:48 -04",
   "compra_segundo": {
-    "price": 523.5,
-    "name": "-----ELITE"
+    "price": 524.0,
+    "name": "NUM3R1T0 亲"
   },
   "venta_maxima": {
     "price": 510.0,
-    "name": "JExpress"
+    "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 516.75,
+  "promedio": 517.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
