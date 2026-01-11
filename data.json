@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T16:53:32.765955",
-  "actualizado_vzla": "2026-01-11 12:53:32 -04",
+  "timestamp_utc": "2026-01-11T17:19:53.077971",
+  "actualizado_vzla": "2026-01-11 13:19:53 -04",
   "compra_segundo": {
-    "price": 524.49,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 523.98,
+    "name": "adonisdroid"
   },
   "venta_maxima": {
-    "price": 522.0,
-    "name": "梅CityCambio爱"
+    "price": 521.5,
+    "name": "Comercial Slim 2018 C A"
   },
-  "promedio": 523.25,
+  "promedio": 522.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
