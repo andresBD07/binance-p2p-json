@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T13:53:12.887245",
-  "actualizado_vzla": "2026-01-11 09:53:12 -04",
+  "timestamp_utc": "2026-01-11T14:20:34.599216",
+  "actualizado_vzla": "2026-01-11 10:20:34 -04",
   "compra_segundo": {
-    "price": 535.7,
-    "name": "SIVE_Trading"
+    "price": 537.7,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
-    "price": 528.5,
-    "name": "RAULITO2809"
+    "price": 533.0,
+    "name": "JoseParedez"
   },
-  "promedio": 532.1,
+  "promedio": 535.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
