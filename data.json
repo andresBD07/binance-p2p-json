@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T16:34:23.660794",
-  "actualizado_vzla": "2026-01-11 12:34:23 -04",
+  "timestamp_utc": "2026-01-11T16:53:32.765955",
+  "actualizado_vzla": "2026-01-11 12:53:32 -04",
   "compra_segundo": {
-    "price": 524.0,
-    "name": "Jyplusca"
+    "price": 524.49,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
-    "price": 523.002,
-    "name": "xAnThOnYxx"
+    "price": 522.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 523.5,
+  "promedio": 523.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
