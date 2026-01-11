@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T19:45:03.038115",
-  "actualizado_vzla": "2026-01-11 15:45:03 -04",
+  "timestamp_utc": "2026-01-11T19:58:07.774492",
+  "actualizado_vzla": "2026-01-11 15:58:07 -04",
   "compra_segundo": {
-    "price": 517.607,
-    "name": "EXITOSOS2025"
+    "price": 517.0,
+    "name": "jssepro"
   },
   "venta_maxima": {
     "price": 515.0,
     "name": "Torontox"
   },
-  "promedio": 516.3,
+  "promedio": 516.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
