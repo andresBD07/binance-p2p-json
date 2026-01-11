@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T19:58:07.774492",
-  "actualizado_vzla": "2026-01-11 15:58:07 -04",
+  "timestamp_utc": "2026-01-11T20:32:23.404111",
+  "actualizado_vzla": "2026-01-11 16:32:23 -04",
   "compra_segundo": {
-    "price": 517.0,
-    "name": "jssepro"
+    "price": 518.4,
+    "name": "SUPERTRADEP2P"
   },
   "venta_maxima": {
-    "price": 515.0,
-    "name": "Torontox"
+    "price": 516.0,
+    "name": "cheey19"
   },
-  "promedio": 516.0,
+  "promedio": 517.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
