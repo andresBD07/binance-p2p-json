@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T17:52:30.956830",
-  "actualizado_vzla": "2026-01-11 13:52:30 -04",
+  "timestamp_utc": "2026-01-11T18:29:24.320582",
+  "actualizado_vzla": "2026-01-11 14:29:24 -04",
   "compra_segundo": {
-    "price": 523.46,
-    "name": "ELGOCHOXCHANGE31"
+    "price": 520.999,
+    "name": "RSTrader_"
   },
   "venta_maxima": {
-    "price": 521.601,
-    "name": "BusinesssVip"
+    "price": 516.0,
+    "name": "LuxuryBusiness"
   },
-  "promedio": 522.53,
+  "promedio": 518.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
