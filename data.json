@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T09:29:20.316540",
-  "actualizado_vzla": "2026-01-11 05:29:20 -04",
+  "timestamp_utc": "2026-01-11T09:46:47.333348",
+  "actualizado_vzla": "2026-01-11 05:46:47 -04",
   "compra_segundo": {
-    "price": 524.95,
-    "name": "GaAle19"
+    "price": 526.58,
+    "name": "The Money Machine"
   },
   "venta_maxima": {
-    "price": 560.0,
-    "name": "Abi_Cambios"
+    "price": 506.0,
+    "name": "Bon-Cas99"
   },
-  "promedio": 542.48,
+  "promedio": 516.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
