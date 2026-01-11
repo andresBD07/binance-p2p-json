@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-10T23:57:53.332312",
-  "actualizado_vzla": "2026-01-10 19:57:53 -04",
+  "timestamp_utc": "2026-01-11T02:35:42.898042",
+  "actualizado_vzla": "2026-01-10 22:35:42 -04",
   "compra_segundo": {
-    "price": 523.2,
-    "name": "Clovers-"
+    "price": 523.9,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
-    "price": 517.05,
-    "name": "Super_Mans"
+    "price": 515.5,
+    "name": "Free Trade and Investments"
   },
-  "promedio": 520.12,
+  "promedio": 519.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
