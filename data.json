@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T11:31:38.354162",
-  "actualizado_vzla": "2026-01-11 07:31:38 -04",
+  "timestamp_utc": "2026-01-11T11:45:15.870990",
+  "actualizado_vzla": "2026-01-11 07:45:15 -04",
   "compra_segundo": {
-    "price": 516.998,
-    "name": "CriptTradeHup "
+    "price": 516.9,
+    "name": "Rey-de-Reyes76"
   },
   "venta_maxima": {
-    "price": 507.0,
-    "name": "AbyBruce"
+    "price": 506.0,
+    "name": "ShadoWM01"
   },
-  "promedio": 512.0,
+  "promedio": 511.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
