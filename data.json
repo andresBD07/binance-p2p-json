@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T11:45:15.870990",
-  "actualizado_vzla": "2026-01-11 07:45:15 -04",
+  "timestamp_utc": "2026-01-11T11:58:23.827029",
+  "actualizado_vzla": "2026-01-11 07:58:23 -04",
   "compra_segundo": {
-    "price": 516.9,
-    "name": "Rey-de-Reyes76"
+    "price": 515.48,
+    "name": "breintrader"
   },
   "venta_maxima": {
-    "price": 506.0,
-    "name": "ShadoWM01"
+    "price": 505.0,
+    "name": "Capital Carreño"
   },
-  "promedio": 511.45,
+  "promedio": 510.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
