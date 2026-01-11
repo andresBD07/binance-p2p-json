@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T08:55:50.395608",
-  "actualizado_vzla": "2026-01-11 04:55:50 -04",
+  "timestamp_utc": "2026-01-11T09:29:20.316540",
+  "actualizado_vzla": "2026-01-11 05:29:20 -04",
   "compra_segundo": {
-    "price": 527.6,
-    "name": "Gerocas10"
+    "price": 524.95,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 506.0,
-    "name": "Bon-Cas99"
+    "price": 560.0,
+    "name": "Abi_Cambios"
   },
-  "promedio": 516.8,
+  "promedio": 542.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
