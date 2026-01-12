@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-11T23:48:05.378487",
-  "actualizado_vzla": "2026-01-11 19:48:05 -04",
+  "timestamp_utc": "2026-01-12T00:53:18.137724",
+  "actualizado_vzla": "2026-01-11 20:53:18 -04",
   "compra_segundo": {
-    "price": 522.4,
-    "name": "KingTradeVzla"
+    "price": 520.99,
+    "name": "CriptoWizz"
   },
   "venta_maxima": {
-    "price": 520.05,
-    "name": "Super_Mans"
+    "price": 519.5,
+    "name": "Marketplace66"
   },
-  "promedio": 521.22,
+  "promedio": 520.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
