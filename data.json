@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T15:56:53.517401",
-  "actualizado_vzla": "2026-01-12 11:56:53 -04",
+  "timestamp_utc": "2026-01-12T16:38:19.482313",
+  "actualizado_vzla": "2026-01-12 12:38:19 -04",
   "compra_segundo": {
-    "price": 524.96,
-    "name": "AC-Marciloly"
+    "price": 535.04,
+    "name": "CRIPTO_GIROS"
   },
   "venta_maxima": {
-    "price": 525.1,
-    "name": "SasukeTrader"
+    "price": 536.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 525.03,
+  "promedio": 535.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
