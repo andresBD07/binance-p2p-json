@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T04:18:41.104095",
-  "actualizado_vzla": "2026-01-12 00:18:41 -04",
+  "timestamp_utc": "2026-01-12T05:03:18.811443",
+  "actualizado_vzla": "2026-01-12 01:03:18 -04",
   "compra_segundo": {
-    "price": 528.741,
-    "name": "Candy2754"
+    "price": 528.99,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
-    "price": 519.0,
-    "name": "rrmadrid92"
+    "price": 518.0,
+    "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 523.87,
+  "promedio": 523.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
