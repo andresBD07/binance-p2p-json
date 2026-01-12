@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T15:35:05.627825",
-  "actualizado_vzla": "2026-01-12 11:35:05 -04",
+  "timestamp_utc": "2026-01-12T15:56:53.517401",
+  "actualizado_vzla": "2026-01-12 11:56:53 -04",
   "compra_segundo": {
-    "price": 518.0,
-    "name": "scoodychanges"
+    "price": 524.96,
+    "name": "AC-Marciloly"
   },
   "venta_maxima": {
-    "price": 524.0,
-    "name": "Weppatech"
+    "price": 525.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 521.0,
+  "promedio": 525.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
