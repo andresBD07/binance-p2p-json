@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T07:50:02.506017",
-  "actualizado_vzla": "2026-01-12 03:50:02 -04",
+  "timestamp_utc": "2026-01-12T08:23:31.968185",
+  "actualizado_vzla": "2026-01-12 04:23:31 -04",
   "compra_segundo": {
-    "price": 531.989,
-    "name": "kaizenholder"
+    "price": 530.0,
+    "name": "Panamtrading"
   },
   "venta_maxima": {
     "price": 518.0,
     "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 524.99,
+  "promedio": 524.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
