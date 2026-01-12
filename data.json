@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T19:28:22.268666",
-  "actualizado_vzla": "2026-01-12 15:28:22 -04",
+  "timestamp_utc": "2026-01-12T19:44:40.773809",
+  "actualizado_vzla": "2026-01-12 15:44:40 -04",
   "compra_segundo": {
-    "price": 533.5,
-    "name": "JP-Services"
+    "price": 534.4,
+    "name": "JorleGP"
   },
   "venta_maxima": {
-    "price": 536.1,
-    "name": "notorius11"
+    "price": 538.1,
+    "name": "JoseParedez"
   },
-  "promedio": 534.8,
+  "promedio": 536.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
