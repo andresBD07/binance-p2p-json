@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T09:42:23.013510",
-  "actualizado_vzla": "2026-01-12 05:42:23 -04",
+  "timestamp_utc": "2026-01-12T10:01:04.436694",
+  "actualizado_vzla": "2026-01-12 06:01:04 -04",
   "compra_segundo": {
-    "price": 527.388,
-    "name": "David-0199"
+    "price": 527.1,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
-    "price": 517.0,
-    "name": "InvMiggy"
+    "price": 520.0,
+    "name": "Bip2p"
   },
-  "promedio": 522.19,
+  "promedio": 523.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
