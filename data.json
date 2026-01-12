@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T00:53:18.137724",
-  "actualizado_vzla": "2026-01-11 20:53:18 -04",
+  "timestamp_utc": "2026-01-12T03:05:52.397044",
+  "actualizado_vzla": "2026-01-11 23:05:52 -04",
   "compra_segundo": {
-    "price": 520.99,
-    "name": "CriptoWizz"
+    "price": 524.7,
+    "name": "Franquicia777"
   },
   "venta_maxima": {
-    "price": 519.5,
-    "name": "Marketplace66"
+    "price": 517.204,
+    "name": "Aquino_her3"
   },
-  "promedio": 520.25,
+  "promedio": 520.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
