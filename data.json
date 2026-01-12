@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T05:03:18.811443",
-  "actualizado_vzla": "2026-01-12 01:03:18 -04",
+  "timestamp_utc": "2026-01-12T05:45:05.631321",
+  "actualizado_vzla": "2026-01-12 01:45:05 -04",
   "compra_segundo": {
-    "price": 528.99,
-    "name": "KobyTrader"
+    "price": 529.0,
+    "name": "JExpress"
   },
   "venta_maxima": {
-    "price": 518.0,
-    "name": "D B Pago Rápido y Seguro"
+    "price": 518.1,
+    "name": "-Vallenatero-"
   },
-  "promedio": 523.5,
+  "promedio": 523.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
