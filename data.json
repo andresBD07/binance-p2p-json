@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T19:57:43.252314",
-  "actualizado_vzla": "2026-01-12 15:57:43 -04",
+  "timestamp_utc": "2026-01-12T20:35:07.788520",
+  "actualizado_vzla": "2026-01-12 16:35:07 -04",
   "compra_segundo": {
-    "price": 536.0,
-    "name": "AndradeGasconTITULAR"
+    "price": 538.68,
+    "name": "PonqueMercado"
   },
   "venta_maxima": {
-    "price": 540.5,
+    "price": 541.0,
     "name": "diomedez14"
   },
-  "promedio": 538.25,
+  "promedio": 539.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
