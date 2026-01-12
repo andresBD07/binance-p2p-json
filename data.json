@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T08:57:20.924287",
-  "actualizado_vzla": "2026-01-12 04:57:20 -04",
+  "timestamp_utc": "2026-01-12T09:42:23.013510",
+  "actualizado_vzla": "2026-01-12 05:42:23 -04",
   "compra_segundo": {
-    "price": 528.99,
-    "name": "KobyTrader"
+    "price": 527.388,
+    "name": "David-0199"
   },
   "venta_maxima": {
-    "price": 518.0,
-    "name": "D B Pago Rápido y Seguro"
+    "price": 517.0,
+    "name": "InvMiggy"
   },
-  "promedio": 523.5,
+  "promedio": 522.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
