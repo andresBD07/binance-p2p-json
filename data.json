@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T11:29:44.550959",
-  "actualizado_vzla": "2026-01-12 07:29:44 -04",
+  "timestamp_utc": "2026-01-12T11:47:06.466257",
+  "actualizado_vzla": "2026-01-12 07:47:06 -04",
   "compra_segundo": {
-    "price": 522.3,
-    "name": "CAMBIO-LAGO"
+    "price": 521.7,
+    "name": "Rey-de-Reyes76"
   },
   "venta_maxima": {
-    "price": 518.0,
-    "name": "Tucambiove"
+    "price": 517.0,
+    "name": "Yourcoins"
   },
-  "promedio": 520.15,
+  "promedio": 519.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
