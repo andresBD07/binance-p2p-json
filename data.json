@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T11:47:06.466257",
-  "actualizado_vzla": "2026-01-12 07:47:06 -04",
+  "timestamp_utc": "2026-01-12T11:59:55.803038",
+  "actualizado_vzla": "2026-01-12 07:59:55 -04",
   "compra_segundo": {
-    "price": 521.7,
-    "name": "Rey-de-Reyes76"
+    "price": 520.0,
+    "name": "Vitol"
   },
   "venta_maxima": {
-    "price": 517.0,
-    "name": "Yourcoins"
+    "price": 515.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 519.35,
+  "promedio": 517.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
