@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T18:58:48.151021",
-  "actualizado_vzla": "2026-01-12 14:58:48 -04",
+  "timestamp_utc": "2026-01-12T19:28:22.268666",
+  "actualizado_vzla": "2026-01-12 15:28:22 -04",
   "compra_segundo": {
-    "price": 532.0,
-    "name": "MANÓN-P2P"
+    "price": 533.5,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 536.26,
-    "name": "bigmitchum"
+    "price": 536.1,
+    "name": "notorius11"
   },
-  "promedio": 534.13,
+  "promedio": 534.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
