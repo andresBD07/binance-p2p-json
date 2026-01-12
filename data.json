@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T06:00:53.224045",
-  "actualizado_vzla": "2026-01-12 02:00:53 -04",
+  "timestamp_utc": "2026-01-12T06:53:05.252995",
+  "actualizado_vzla": "2026-01-12 02:53:05 -04",
   "compra_segundo": {
-    "price": 529.0,
-    "name": "JExpress"
+    "price": 534.8,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
-    "price": 518.1,
-    "name": "-Vallenatero-"
+    "price": 518.0,
+    "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 523.55,
+  "promedio": 526.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
