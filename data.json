@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T18:28:46.331237",
-  "actualizado_vzla": "2026-01-12 14:28:46 -04",
+  "timestamp_utc": "2026-01-12T18:58:48.151021",
+  "actualizado_vzla": "2026-01-12 14:58:48 -04",
   "compra_segundo": {
-    "price": 533.0,
-    "name": "Alfresi33"
+    "price": 532.0,
+    "name": "MANÓN-P2P"
   },
   "venta_maxima": {
-    "price": 538.0,
-    "name": "CoorpLogistic"
+    "price": 536.26,
+    "name": "bigmitchum"
   },
-  "promedio": 535.5,
+  "promedio": 534.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
