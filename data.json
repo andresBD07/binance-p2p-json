@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T22:32:39.881876",
-  "actualizado_vzla": "2026-01-12 18:32:39 -04",
+  "timestamp_utc": "2026-01-12T22:49:21.393371",
+  "actualizado_vzla": "2026-01-12 18:49:21 -04",
   "compra_segundo": {
-    "price": 554.8,
-    "name": "Fast-CambiosSeguro-"
+    "price": 555.0,
+    "name": "ダーリン"
   },
   "venta_maxima": {
-    "price": 555.5,
-    "name": "VERTUOK"
+    "price": 556.5,
+    "name": "安全与信任"
   },
-  "promedio": 555.15,
+  "promedio": 555.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
