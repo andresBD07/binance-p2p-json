@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T23:45:08.589505",
-  "actualizado_vzla": "2026-01-12 19:45:08 -04",
+  "timestamp_utc": "2026-01-12T23:58:04.497190",
+  "actualizado_vzla": "2026-01-12 19:58:04 -04",
   "compra_segundo": {
     "price": 554.5,
-    "name": "SCambios"
+    "name": "LECHUGAEXPRESS"
   },
   "venta_maxima": {
-    "price": 557.5,
+    "price": 556.5,
     "name": "安全与信任"
   },
-  "promedio": 556.0,
+  "promedio": 555.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
