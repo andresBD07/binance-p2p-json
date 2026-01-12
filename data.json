@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T10:39:38.767515",
-  "actualizado_vzla": "2026-01-12 06:39:38 -04",
+  "timestamp_utc": "2026-01-12T10:58:12.035593",
+  "actualizado_vzla": "2026-01-12 06:58:12 -04",
   "compra_segundo": {
-    "price": 525.0,
-    "name": "Keria23"
+    "price": 524.8,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
-    "price": 516.0,
-    "name": "Marketplace66"
+    "price": 518.0,
+    "name": "Bip2p"
   },
-  "promedio": 520.5,
+  "promedio": 521.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
