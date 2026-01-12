@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T08:23:31.968185",
-  "actualizado_vzla": "2026-01-12 04:23:31 -04",
+  "timestamp_utc": "2026-01-12T08:57:20.924287",
+  "actualizado_vzla": "2026-01-12 04:57:20 -04",
   "compra_segundo": {
-    "price": 530.0,
-    "name": "Panamtrading"
+    "price": 528.99,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 518.0,
     "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 524.0,
+  "promedio": 523.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
