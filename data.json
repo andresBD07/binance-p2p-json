@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T11:59:55.803038",
-  "actualizado_vzla": "2026-01-12 07:59:55 -04",
+  "timestamp_utc": "2026-01-12T13:07:01.824477",
+  "actualizado_vzla": "2026-01-12 09:07:01 -04",
   "compra_segundo": {
-    "price": 520.0,
-    "name": "Vitol"
+    "price": 520.9,
+    "name": "Keria23"
   },
   "venta_maxima": {
-    "price": 515.0,
-    "name": "-Godgiven-"
+    "price": 517.1,
+    "name": "Brawcoins"
   },
-  "promedio": 517.5,
+  "promedio": 519.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
