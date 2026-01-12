@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T14:26:41.517137",
-  "actualizado_vzla": "2026-01-12 10:26:41 -04",
+  "timestamp_utc": "2026-01-12T14:55:45.622054",
+  "actualizado_vzla": "2026-01-12 10:55:45 -04",
   "compra_segundo": {
-    "price": 513.45,
-    "name": "GVEXCHANGE"
+    "price": 514.899,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
-    "price": 512.15,
-    "name": "VECTURAFX"
+    "price": 515.0,
+    "name": "USDTpulso"
   },
-  "promedio": 512.8,
+  "promedio": 514.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
