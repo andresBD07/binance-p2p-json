@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T17:35:59.408781",
-  "actualizado_vzla": "2026-01-12 13:35:59 -04",
+  "timestamp_utc": "2026-01-12T17:51:22.051754",
+  "actualizado_vzla": "2026-01-12 13:51:22 -04",
   "compra_segundo": {
-    "price": 538.999,
-    "name": "Mito"
+    "price": 537.55,
+    "name": "Cashbitapp"
   },
   "venta_maxima": {
-    "price": 543.0,
-    "name": "VERTUOK"
+    "price": 538.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 541.0,
+  "promedio": 537.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
