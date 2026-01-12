@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T17:01:31.561191",
-  "actualizado_vzla": "2026-01-12 13:01:31 -04",
+  "timestamp_utc": "2026-01-12T17:35:59.408781",
+  "actualizado_vzla": "2026-01-12 13:35:59 -04",
   "compra_segundo": {
-    "price": 536.3,
-    "name": "PAGOSEN5MINUTOS"
+    "price": 538.999,
+    "name": "Mito"
   },
   "venta_maxima": {
-    "price": 539.2,
-    "name": "SpeedGlobalP2P"
+    "price": 543.0,
+    "name": "VERTUOK"
   },
-  "promedio": 537.75,
+  "promedio": 541.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
