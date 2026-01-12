@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T20:35:07.788520",
-  "actualizado_vzla": "2026-01-12 16:35:07 -04",
+  "timestamp_utc": "2026-01-12T20:54:33.038436",
+  "actualizado_vzla": "2026-01-12 16:54:33 -04",
   "compra_segundo": {
-    "price": 538.68,
-    "name": "PonqueMercado"
+    "price": 539.999,
+    "name": "CambiosToday12"
   },
   "venta_maxima": {
-    "price": 541.0,
-    "name": "diomedez14"
+    "price": 544.7,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 539.84,
+  "promedio": 542.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
