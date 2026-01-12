@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T10:58:12.035593",
-  "actualizado_vzla": "2026-01-12 06:58:12 -04",
+  "timestamp_utc": "2026-01-12T11:29:44.550959",
+  "actualizado_vzla": "2026-01-12 07:29:44 -04",
   "compra_segundo": {
-    "price": 524.8,
-    "name": "ELEUTROS"
+    "price": 522.3,
+    "name": "CAMBIO-LAGO"
   },
   "venta_maxima": {
     "price": 518.0,
-    "name": "Bip2p"
+    "name": "Tucambiove"
   },
-  "promedio": 521.4,
+  "promedio": 520.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
