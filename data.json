@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T21:58:38.500019",
-  "actualizado_vzla": "2026-01-12 17:58:38 -04",
+  "timestamp_utc": "2026-01-12T22:32:39.881876",
+  "actualizado_vzla": "2026-01-12 18:32:39 -04",
   "compra_segundo": {
-    "price": 555.75,
-    "name": "Jearrioja"
+    "price": 554.8,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 556.0,
-    "name": "Gustavo129"
+    "price": 555.5,
+    "name": "VERTUOK"
   },
-  "promedio": 555.88,
+  "promedio": 555.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
