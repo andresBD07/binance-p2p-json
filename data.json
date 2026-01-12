@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T16:38:19.482313",
-  "actualizado_vzla": "2026-01-12 12:38:19 -04",
+  "timestamp_utc": "2026-01-12T17:01:31.561191",
+  "actualizado_vzla": "2026-01-12 13:01:31 -04",
   "compra_segundo": {
-    "price": 535.04,
-    "name": "CRIPTO_GIROS"
+    "price": 536.3,
+    "name": "PAGOSEN5MINUTOS"
   },
   "venta_maxima": {
-    "price": 536.0,
-    "name": "-Godgiven-"
+    "price": 539.2,
+    "name": "SpeedGlobalP2P"
   },
-  "promedio": 535.52,
+  "promedio": 537.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
