@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T11:59:48.594609",
-  "actualizado_vzla": "2026-01-13 07:59:48 -04",
+  "timestamp_utc": "2026-01-13T13:07:06.945325",
+  "actualizado_vzla": "2026-01-13 09:07:06 -04",
   "compra_segundo": {
-    "price": 552.999,
-    "name": "frankcriptos"
+    "price": 556.4,
+    "name": "Inversiones Cáceres"
   },
   "venta_maxima": {
-    "price": 550.0,
-    "name": "Zelda_34"
+    "price": 555.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 551.5,
+  "promedio": 555.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
