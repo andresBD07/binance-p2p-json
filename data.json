@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T13:51:59.836133",
-  "actualizado_vzla": "2026-01-13 09:51:59 -04",
+  "timestamp_utc": "2026-01-13T14:24:09.170027",
+  "actualizado_vzla": "2026-01-13 10:24:09 -04",
   "compra_segundo": {
-    "price": 556.2,
-    "name": "clinicaef"
+    "price": 569.269,
+    "name": "Cripto_FF1"
   },
   "venta_maxima": {
-    "price": 559.3,
-    "name": "SasukeTrader"
+    "price": 575.0,
+    "name": "All-inCrypto"
   },
-  "promedio": 557.75,
+  "promedio": 572.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
