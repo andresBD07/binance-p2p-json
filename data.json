@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T22:35:03.293432",
-  "actualizado_vzla": "2026-01-13 18:35:03 -04",
+  "timestamp_utc": "2026-01-13T22:54:09.063861",
+  "actualizado_vzla": "2026-01-13 18:54:09 -04",
   "compra_segundo": {
-    "price": 611.999,
-    "name": "Alex2027"
+    "price": 607.99,
+    "name": "Ronin-EXCHANGE"
   },
   "venta_maxima": {
-    "price": 616.0,
-    "name": "Zelda_34"
+    "price": 612.5,
+    "name": "VECTURAFX"
   },
-  "promedio": 614.0,
+  "promedio": 610.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
