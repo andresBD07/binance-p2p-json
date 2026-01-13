@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T09:57:08.407980",
-  "actualizado_vzla": "2026-01-13 05:57:08 -04",
+  "timestamp_utc": "2026-01-13T10:35:18.528145",
+  "actualizado_vzla": "2026-01-13 06:35:18 -04",
   "compra_segundo": {
-    "price": 553.25,
-    "name": "LeNary-"
+    "price": 552.5,
+    "name": "TheKosT"
   },
   "venta_maxima": {
-    "price": 547.3,
-    "name": "Global Market Ads"
+    "price": 548.0,
+    "name": "DolceGabbana"
   },
-  "promedio": 550.27,
+  "promedio": 550.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
