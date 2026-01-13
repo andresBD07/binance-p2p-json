@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T10:35:18.528145",
-  "actualizado_vzla": "2026-01-13 06:35:18 -04",
+  "timestamp_utc": "2026-01-13T10:55:46.889669",
+  "actualizado_vzla": "2026-01-13 06:55:46 -04",
   "compra_segundo": {
-    "price": 552.5,
-    "name": "TheKosT"
+    "price": 553.99,
+    "name": "Comercioreal23"
   },
   "venta_maxima": {
-    "price": 548.0,
-    "name": "DolceGabbana"
+    "price": 549.0,
+    "name": "FMDeluXchange"
   },
-  "promedio": 550.25,
+  "promedio": 551.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
