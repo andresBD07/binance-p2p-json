@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T13:07:06.945325",
-  "actualizado_vzla": "2026-01-13 09:07:06 -04",
+  "timestamp_utc": "2026-01-13T13:51:59.836133",
+  "actualizado_vzla": "2026-01-13 09:51:59 -04",
   "compra_segundo": {
-    "price": 556.4,
-    "name": "Inversiones Cáceres"
+    "price": 556.2,
+    "name": "clinicaef"
   },
   "venta_maxima": {
-    "price": 555.0,
-    "name": "-Godgiven-"
+    "price": 559.3,
+    "name": "SasukeTrader"
   },
-  "promedio": 555.7,
+  "promedio": 557.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
