@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T07:54:52.711353",
-  "actualizado_vzla": "2026-01-13 03:54:52 -04",
+  "timestamp_utc": "2026-01-13T08:38:50.072576",
+  "actualizado_vzla": "2026-01-13 04:38:50 -04",
   "compra_segundo": {
-    "price": 555.5,
-    "name": "ProVerum"
+    "price": 554.6,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
     "price": 547.35,
     "name": "rrmadrid92"
   },
-  "promedio": 551.42,
+  "promedio": 550.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
