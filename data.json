@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-12T23:58:04.497190",
-  "actualizado_vzla": "2026-01-12 19:58:04 -04",
+  "timestamp_utc": "2026-01-13T02:22:10.922393",
+  "actualizado_vzla": "2026-01-12 22:22:10 -04",
   "compra_segundo": {
-    "price": 554.5,
-    "name": "LECHUGAEXPRESS"
+    "price": 552.0,
+    "name": "willbyruz"
   },
   "venta_maxima": {
-    "price": 556.5,
-    "name": "安全与信任"
+    "price": 550.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 555.5,
+  "promedio": 551.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
