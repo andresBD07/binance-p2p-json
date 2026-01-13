@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T02:22:10.922393",
-  "actualizado_vzla": "2026-01-12 22:22:10 -04",
+  "timestamp_utc": "2026-01-13T03:49:38.342766",
+  "actualizado_vzla": "2026-01-12 23:49:38 -04",
   "compra_segundo": {
-    "price": 552.0,
-    "name": "willbyruz"
+    "price": 551.55,
+    "name": "JF_Trading_Flash"
   },
   "venta_maxima": {
-    "price": 550.5,
-    "name": "-Godgiven-"
+    "price": 548.0,
+    "name": "DolceGabbana"
   },
-  "promedio": 551.25,
+  "promedio": 549.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
