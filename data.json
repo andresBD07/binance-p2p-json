@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T23:41:13.300391",
-  "actualizado_vzla": "2026-01-13 19:41:13 -04",
+  "timestamp_utc": "2026-01-13T23:54:13.525716",
+  "actualizado_vzla": "2026-01-13 19:54:13 -04",
   "compra_segundo": {
-    "price": 607.99,
-    "name": "NuebotFlash"
+    "price": 610.7,
+    "name": "_Dinastia_"
   },
   "venta_maxima": {
-    "price": 612.0,
+    "price": 614.0,
     "name": "ALASKA-"
   },
-  "promedio": 610.0,
+  "promedio": 612.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
