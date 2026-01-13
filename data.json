@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T03:49:38.342766",
-  "actualizado_vzla": "2026-01-12 23:49:38 -04",
+  "timestamp_utc": "2026-01-13T04:33:11.485887",
+  "actualizado_vzla": "2026-01-13 00:33:11 -04",
   "compra_segundo": {
-    "price": 551.55,
-    "name": "JF_Trading_Flash"
+    "price": 552.29,
+    "name": "_CHIGUIRITO_"
   },
   "venta_maxima": {
     "price": 548.0,
     "name": "DolceGabbana"
   },
-  "promedio": 549.77,
+  "promedio": 550.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
