@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T15:28:54.806681",
-  "actualizado_vzla": "2026-01-13 11:28:54 -04",
+  "timestamp_utc": "2026-01-13T15:53:38.641133",
+  "actualizado_vzla": "2026-01-13 11:53:38 -04",
   "compra_segundo": {
-    "price": 570.05,
-    "name": "jesusaguilar2001"
+    "price": 568.999,
+    "name": "rayl"
   },
   "venta_maxima": {
-    "price": 570.7,
-    "name": "All-inCrypto"
+    "price": 582.1,
+    "name": "Huayin-cheng"
   },
-  "promedio": 570.38,
+  "promedio": 575.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
