@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-13T23:23:20.977507",
-  "actualizado_vzla": "2026-01-13 19:23:20 -04",
+  "timestamp_utc": "2026-01-13T23:41:13.300391",
+  "actualizado_vzla": "2026-01-13 19:41:13 -04",
   "compra_segundo": {
-    "price": 604.999,
-    "name": "Carlitos-trading"
+    "price": 607.99,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 615.0,
-    "name": "安全与信任"
+    "price": 612.0,
+    "name": "ALASKA-"
   },
   "promedio": 610.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
