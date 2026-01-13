@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T05:55:18.460795",
-  "actualizado_vzla": "2026-01-13 01:55:18 -04",
+  "timestamp_utc": "2026-01-13T06:46:08.441954",
+  "actualizado_vzla": "2026-01-13 02:46:08 -04",
   "compra_segundo": {
-    "price": 554.5,
-    "name": "Sir Carlos Bello Trader"
+    "price": 554.6,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 547.4,
-    "name": "raParadas-31"
+    "price": 547.35,
+    "name": "rrmadrid92"
   },
-  "promedio": 550.95,
+  "promedio": 550.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
