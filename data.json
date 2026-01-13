@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T05:38:22.671384",
-  "actualizado_vzla": "2026-01-13 01:38:22 -04",
+  "timestamp_utc": "2026-01-13T05:55:18.460795",
+  "actualizado_vzla": "2026-01-13 01:55:18 -04",
   "compra_segundo": {
-    "price": 554.3,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 554.5,
+    "name": "Sir Carlos Bello Trader"
   },
   "venta_maxima": {
-    "price": 547.3,
-    "name": "Global Market Ads"
+    "price": 547.4,
+    "name": "raParadas-31"
   },
-  "promedio": 550.8,
+  "promedio": 550.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
