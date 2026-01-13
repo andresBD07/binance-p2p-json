@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T04:33:11.485887",
-  "actualizado_vzla": "2026-01-13 00:33:11 -04",
+  "timestamp_utc": "2026-01-13T05:01:56.612844",
+  "actualizado_vzla": "2026-01-13 01:01:56 -04",
   "compra_segundo": {
-    "price": 552.29,
-    "name": "_CHIGUIRITO_"
+    "price": 552.846,
+    "name": "太COMPANY_CASH"
   },
   "venta_maxima": {
-    "price": 548.0,
-    "name": "DolceGabbana"
+    "price": 547.3,
+    "name": "Global Market Ads"
   },
-  "promedio": 550.14,
+  "promedio": 550.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
