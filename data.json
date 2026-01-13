@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T17:58:09.721152",
-  "actualizado_vzla": "2026-01-13 13:58:09 -04",
+  "timestamp_utc": "2026-01-13T18:44:59.015124",
+  "actualizado_vzla": "2026-01-13 14:44:59 -04",
   "compra_segundo": {
-    "price": 581.0,
-    "name": "AndradeGasconTITULAR"
+    "price": 581.99,
+    "name": "hada30"
   },
   "venta_maxima": {
     "price": 590.0,
-    "name": "対馬の幽霊"
+    "name": "-Godgiven-"
   },
-  "promedio": 585.5,
+  "promedio": 586.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
