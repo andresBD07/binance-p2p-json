@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T08:38:50.072576",
-  "actualizado_vzla": "2026-01-13 04:38:50 -04",
+  "timestamp_utc": "2026-01-13T09:02:10.964229",
+  "actualizado_vzla": "2026-01-13 05:02:10 -04",
   "compra_segundo": {
-    "price": 554.6,
-    "name": "MikasaExchange"
+    "price": 554.3,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
     "price": 547.35,
     "name": "rrmadrid92"
   },
-  "promedio": 550.98,
+  "promedio": 550.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
