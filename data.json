@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T22:54:09.063861",
-  "actualizado_vzla": "2026-01-13 18:54:09 -04",
+  "timestamp_utc": "2026-01-13T23:23:20.977507",
+  "actualizado_vzla": "2026-01-13 19:23:20 -04",
   "compra_segundo": {
-    "price": 607.99,
-    "name": "Ronin-EXCHANGE"
+    "price": 604.999,
+    "name": "Carlitos-trading"
   },
   "venta_maxima": {
-    "price": 612.5,
-    "name": "VECTURAFX"
+    "price": 615.0,
+    "name": "安全与信任"
   },
-  "promedio": 610.25,
+  "promedio": 610.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
