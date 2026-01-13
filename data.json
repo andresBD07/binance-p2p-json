@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T07:41:04.890559",
-  "actualizado_vzla": "2026-01-13 03:41:04 -04",
+  "timestamp_utc": "2026-01-13T07:54:52.711353",
+  "actualizado_vzla": "2026-01-13 03:54:52 -04",
   "compra_segundo": {
-    "price": 555.3,
-    "name": "cbzdln"
+    "price": 555.5,
+    "name": "ProVerum"
   },
   "venta_maxima": {
     "price": 547.35,
     "name": "rrmadrid92"
   },
-  "promedio": 551.33,
+  "promedio": 551.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
