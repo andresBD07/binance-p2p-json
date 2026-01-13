@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-13T15:53:38.641133",
-  "actualizado_vzla": "2026-01-13 11:53:38 -04",
+  "timestamp_utc": "2026-01-13T16:35:11.912918",
+  "actualizado_vzla": "2026-01-13 12:35:11 -04",
   "compra_segundo": {
-    "price": 568.999,
-    "name": "rayl"
+    "price": 586.399,
+    "name": "douglas1997"
   },
   "venta_maxima": {
-    "price": 582.1,
-    "name": "Huayin-cheng"
+    "price": 587.0,
+    "name": "ALASKA-"
   },
-  "promedio": 575.55,
+  "promedio": 586.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
