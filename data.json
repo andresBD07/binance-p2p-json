@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T15:34:50.265940",
-  "actualizado_vzla": "2026-01-14 11:34:50 -04",
+  "timestamp_utc": "2026-01-14T15:53:17.653097",
+  "actualizado_vzla": "2026-01-14 11:53:17 -04",
   "compra_segundo": {
-    "price": 606.285,
-    "name": "Ed Money"
+    "price": 601.499,
+    "name": "cambiaseguro_en-5min"
   },
   "venta_maxima": {
-    "price": 606.0,
-    "name": "MaxuelTrader"
+    "price": 606.5,
+    "name": "LPSM"
   },
-  "promedio": 606.14,
+  "promedio": 604.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
