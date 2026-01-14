@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T21:55:53.624660",
-  "actualizado_vzla": "2026-01-14 17:55:53 -04",
+  "timestamp_utc": "2026-01-14T22:31:59.824390",
+  "actualizado_vzla": "2026-01-14 18:31:59 -04",
   "compra_segundo": {
-    "price": 606.0,
-    "name": "-----ELITE"
+    "price": 605.75,
+    "name": "Cambios2x3"
   },
   "venta_maxima": {
-    "price": 609.0,
-    "name": "安全与信任"
+    "price": 607.0,
+    "name": "Godisgift"
   },
-  "promedio": 607.5,
+  "promedio": 606.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
