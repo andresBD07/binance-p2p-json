@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T21:19:57.659061",
-  "actualizado_vzla": "2026-01-14 17:19:57 -04",
+  "timestamp_utc": "2026-01-14T21:41:46.056260",
+  "actualizado_vzla": "2026-01-14 17:41:46 -04",
   "compra_segundo": {
-    "price": 606.9,
-    "name": "Waldofx"
+    "price": 606.275,
+    "name": "Fexyz"
   },
   "venta_maxima": {
-    "price": 605.0,
-    "name": "-Godgiven-"
+    "price": 609.0,
+    "name": "安全与信任"
   },
-  "promedio": 605.95,
+  "promedio": 607.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
