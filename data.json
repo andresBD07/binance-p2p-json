@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T18:47:20.464522",
-  "actualizado_vzla": "2026-01-14 14:47:20 -04",
+  "timestamp_utc": "2026-01-14T19:09:21.232903",
+  "actualizado_vzla": "2026-01-14 15:09:21 -04",
   "compra_segundo": {
-    "price": 601.98,
-    "name": "H E R M I O N E_ 7"
+    "price": 603.399,
+    "name": "Idaniap2p"
   },
   "venta_maxima": {
-    "price": 603.7,
-    "name": "Godisgift"
+    "price": 606.0,
+    "name": "安全与信任"
   },
-  "promedio": 602.84,
+  "promedio": 604.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
