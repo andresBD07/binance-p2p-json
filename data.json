@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T16:34:03.317876",
-  "actualizado_vzla": "2026-01-14 12:34:03 -04",
+  "timestamp_utc": "2026-01-14T17:01:49.706900",
+  "actualizado_vzla": "2026-01-14 13:01:49 -04",
   "compra_segundo": {
-    "price": 602.999,
-    "name": "EXCHANGE-PRO"
+    "price": 602.898,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 604.35,
-    "name": "OsaMeyi"
+    "price": 605.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 603.67,
+  "promedio": 603.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
