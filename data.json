@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T20:00:57.066350",
-  "actualizado_vzla": "2026-01-14 16:00:57 -04",
+  "timestamp_utc": "2026-01-14T20:32:52.800438",
+  "actualizado_vzla": "2026-01-14 16:32:52 -04",
   "compra_segundo": {
-    "price": 604.84,
-    "name": "Rickambios "
+    "price": 607.0,
+    "name": "BILLETERA P2P "
   },
   "venta_maxima": {
-    "price": 604.65,
+    "price": 605.15,
     "name": "梅CityCambio爱"
   },
-  "promedio": 604.75,
+  "promedio": 606.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
