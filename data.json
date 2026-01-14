@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T08:42:00.904343",
-  "actualizado_vzla": "2026-01-14 04:42:00 -04",
+  "timestamp_utc": "2026-01-14T09:14:45.303809",
+  "actualizado_vzla": "2026-01-14 05:14:45 -04",
   "compra_segundo": {
-    "price": 616.999,
-    "name": "MERCADO ESTRATEGICO"
+    "price": 616.3,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
     "price": 608.0,
     "name": "cazing2230-2"
   },
-  "promedio": 612.5,
+  "promedio": 612.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
