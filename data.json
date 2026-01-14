@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T22:31:59.824390",
-  "actualizado_vzla": "2026-01-14 18:31:59 -04",
+  "timestamp_utc": "2026-01-14T22:52:39.900674",
+  "actualizado_vzla": "2026-01-14 18:52:39 -04",
   "compra_segundo": {
-    "price": 605.75,
-    "name": "Cambios2x3"
+    "price": 604.979,
+    "name": "R1staker"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "Godisgift"
+    "price": 606.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 606.38,
+  "promedio": 605.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
