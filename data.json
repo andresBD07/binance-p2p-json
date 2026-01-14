@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T14:36:34.901757",
-  "actualizado_vzla": "2026-01-14 10:36:34 -04",
+  "timestamp_utc": "2026-01-14T14:58:49.898753",
+  "actualizado_vzla": "2026-01-14 10:58:49 -04",
   "compra_segundo": {
-    "price": 614.899,
-    "name": "LAULAR87"
+    "price": 609.198,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 616.1,
-    "name": "Vitatech"
+    "price": 616.2,
+    "name": "LPSM"
   },
-  "promedio": 615.5,
+  "promedio": 612.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
