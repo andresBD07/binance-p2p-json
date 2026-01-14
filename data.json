@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-14T09:14:45.303809",
-  "actualizado_vzla": "2026-01-14 05:14:45 -04",
+  "timestamp_utc": "2026-01-14T09:46:53.924409",
+  "actualizado_vzla": "2026-01-14 05:46:53 -04",
   "compra_segundo": {
     "price": 616.3,
     "name": "ledezmagm"
   },
   "venta_maxima": {
     "price": 608.0,
-    "name": "cazing2230-2"
+    "name": "Weppatech"
   },
   "promedio": 612.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
