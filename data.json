@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T02:07:55.273573",
-  "actualizado_vzla": "2026-01-13 22:07:55 -04",
+  "timestamp_utc": "2026-01-14T03:54:56.886765",
+  "actualizado_vzla": "2026-01-13 23:54:56 -04",
   "compra_segundo": {
-    "price": 611.99,
-    "name": "CRH_exchanges"
+    "price": 614.47,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 612.5,
-    "name": "Brawcoins"
+    "price": 610.0,
+    "name": "KephasTrader"
   },
-  "promedio": 612.25,
+  "promedio": 612.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
