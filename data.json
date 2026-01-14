@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T17:01:49.706900",
-  "actualizado_vzla": "2026-01-14 13:01:49 -04",
+  "timestamp_utc": "2026-01-14T17:39:24.506022",
+  "actualizado_vzla": "2026-01-14 13:39:24 -04",
   "compra_segundo": {
-    "price": 602.898,
-    "name": "criptorapiseguro1"
+    "price": 598.0,
+    "name": "CambiosToday12"
   },
   "venta_maxima": {
     "price": 605.0,
-    "name": "-Godgiven-"
+    "name": "jonax"
   },
-  "promedio": 603.95,
+  "promedio": 601.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
