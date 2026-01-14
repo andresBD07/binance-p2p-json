@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T10:00:47.938291",
-  "actualizado_vzla": "2026-01-14 06:00:47 -04",
+  "timestamp_utc": "2026-01-14T10:40:12.990980",
+  "actualizado_vzla": "2026-01-14 06:40:12 -04",
   "compra_segundo": {
-    "price": 616.3,
-    "name": "ledezmagm"
+    "price": 615.75,
+    "name": "zucorp"
   },
   "venta_maxima": {
     "price": 608.0,
     "name": "Weppatech"
   },
-  "promedio": 612.15,
+  "promedio": 611.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
