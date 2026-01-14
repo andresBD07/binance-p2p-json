@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T15:53:17.653097",
-  "actualizado_vzla": "2026-01-14 11:53:17 -04",
+  "timestamp_utc": "2026-01-14T16:34:03.317876",
+  "actualizado_vzla": "2026-01-14 12:34:03 -04",
   "compra_segundo": {
-    "price": 601.499,
-    "name": "cambiaseguro_en-5min"
+    "price": 602.999,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 606.5,
-    "name": "LPSM"
+    "price": 604.35,
+    "name": "OsaMeyi"
   },
-  "promedio": 604.0,
+  "promedio": 603.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
