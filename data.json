@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T17:57:14.507798",
-  "actualizado_vzla": "2026-01-14 13:57:14 -04",
+  "timestamp_utc": "2026-01-14T18:47:20.464522",
+  "actualizado_vzla": "2026-01-14 14:47:20 -04",
   "compra_segundo": {
-    "price": 598.99,
-    "name": "Cripto Suarez 88"
+    "price": 601.98,
+    "name": "H E R M I O N E_ 7"
   },
   "venta_maxima": {
-    "price": 608.0,
-    "name": "Miranda "
+    "price": 603.7,
+    "name": "Godisgift"
   },
-  "promedio": 603.5,
+  "promedio": 602.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
