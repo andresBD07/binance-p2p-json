@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T19:47:36.297511",
-  "actualizado_vzla": "2026-01-14 15:47:36 -04",
+  "timestamp_utc": "2026-01-14T20:00:57.066350",
+  "actualizado_vzla": "2026-01-14 16:00:57 -04",
   "compra_segundo": {
-    "price": 604.3,
-    "name": "baot store"
+    "price": 604.84,
+    "name": "Rickambios "
   },
   "venta_maxima": {
-    "price": 604.51,
+    "price": 604.65,
     "name": "梅CityCambio爱"
   },
-  "promedio": 604.4,
+  "promedio": 604.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
