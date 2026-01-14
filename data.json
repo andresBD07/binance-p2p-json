@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T06:49:41.772022",
-  "actualizado_vzla": "2026-01-14 02:49:41 -04",
+  "timestamp_utc": "2026-01-14T07:19:56.706503",
+  "actualizado_vzla": "2026-01-14 03:19:56 -04",
   "compra_segundo": {
     "price": 616.3,
     "name": "Aspenmcnate1"
   },
   "venta_maxima": {
-    "price": 607.002,
-    "name": "ckandreina"
+    "price": 608.0,
+    "name": "cazing2230-2"
   },
-  "promedio": 611.65,
+  "promedio": 612.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
