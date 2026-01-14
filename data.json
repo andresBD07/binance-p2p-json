@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T20:51:49.091788",
-  "actualizado_vzla": "2026-01-14 16:51:49 -04",
+  "timestamp_utc": "2026-01-14T21:19:57.659061",
+  "actualizado_vzla": "2026-01-14 17:19:57 -04",
   "compra_segundo": {
-    "price": 606.29,
-    "name": "LGD04"
+    "price": 606.9,
+    "name": "Waldofx"
   },
   "venta_maxima": {
-    "price": 607.5,
+    "price": 605.0,
     "name": "-Godgiven-"
   },
-  "promedio": 606.89,
+  "promedio": 605.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
