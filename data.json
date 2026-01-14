@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T04:50:36.921600",
-  "actualizado_vzla": "2026-01-14 00:50:36 -04",
+  "timestamp_utc": "2026-01-14T05:20:09.077570",
+  "actualizado_vzla": "2026-01-14 01:20:09 -04",
   "compra_segundo": {
-    "price": 614.9,
-    "name": "PrimeCripto"
+    "price": 615.9,
+    "name": "Lillie05"
   },
   "venta_maxima": {
     "price": 607.001,
     "name": "Franb23"
   },
-  "promedio": 610.95,
+  "promedio": 611.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
