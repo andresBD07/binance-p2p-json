@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T03:54:56.886765",
-  "actualizado_vzla": "2026-01-13 23:54:56 -04",
+  "timestamp_utc": "2026-01-14T04:50:36.921600",
+  "actualizado_vzla": "2026-01-14 00:50:36 -04",
   "compra_segundo": {
-    "price": 614.47,
-    "name": "NuebotFlash"
+    "price": 614.9,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 610.0,
-    "name": "KephasTrader"
+    "price": 607.001,
+    "name": "Franb23"
   },
-  "promedio": 612.24,
+  "promedio": 610.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
