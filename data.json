@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T13:58:10.988496",
-  "actualizado_vzla": "2026-01-14 09:58:10 -04",
+  "timestamp_utc": "2026-01-14T14:36:34.901757",
+  "actualizado_vzla": "2026-01-14 10:36:34 -04",
   "compra_segundo": {
-    "price": 608.998,
-    "name": "GATESRIO"
+    "price": 614.899,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 617.5,
-    "name": "LinkLogic"
+    "price": 616.1,
+    "name": "Vitatech"
   },
-  "promedio": 613.25,
+  "promedio": 615.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
