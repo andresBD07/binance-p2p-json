@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-14T23:18:24.353556",
-  "actualizado_vzla": "2026-01-14 19:18:24 -04",
+  "timestamp_utc": "2026-01-14T23:34:37.687035",
+  "actualizado_vzla": "2026-01-14 19:34:37 -04",
   "compra_segundo": {
-    "price": 604.0,
-    "name": "Songokuu7"
+    "price": 603.999,
+    "name": "Thelordofdherings20"
   },
   "venta_maxima": {
     "price": 607.0,
-    "name": "-Godgiven-"
+    "name": "GOMEZTUSOLUCION"
   },
   "promedio": 605.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
