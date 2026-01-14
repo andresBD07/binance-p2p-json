@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T11:49:16.379425",
-  "actualizado_vzla": "2026-01-14 07:49:16 -04",
+  "timestamp_utc": "2026-01-14T12:27:40.621316",
+  "actualizado_vzla": "2026-01-14 08:27:40 -04",
   "compra_segundo": {
-    "price": 615.98,
-    "name": "CambiosDelValle26"
+    "price": 615.9,
+    "name": "TraderImperial"
   },
   "venta_maxima": {
-    "price": 612.001,
-    "name": "Zelda_34"
+    "price": 612.65,
+    "name": "SasukeTrader"
   },
-  "promedio": 613.99,
+  "promedio": 614.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
