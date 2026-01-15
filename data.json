@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T20:50:18.418468",
-  "actualizado_vzla": "2026-01-15 16:50:18 -04",
+  "timestamp_utc": "2026-01-15T21:15:54.014953",
+  "actualizado_vzla": "2026-01-15 17:15:54 -04",
   "compra_segundo": {
-    "price": 500.5,
-    "name": "COMERCIO_SEGURO03"
+    "price": 513.949,
+    "name": "-TheZ-"
   },
   "venta_maxima": {
-    "price": 496.0,
-    "name": "EscalantEmprendimientos"
+    "price": 510.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 498.25,
+  "promedio": 511.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
