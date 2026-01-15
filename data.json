@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T05:31:28.342534",
-  "actualizado_vzla": "2026-01-15 01:31:28 -04",
+  "timestamp_utc": "2026-01-15T05:52:26.617961",
+  "actualizado_vzla": "2026-01-15 01:52:26 -04",
   "compra_segundo": {
-    "price": 601.8,
-    "name": "usdtking"
+    "price": 602.489,
+    "name": "ROCU22_VE"
   },
   "venta_maxima": {
     "price": 590.0,
     "name": "SPYG"
   },
-  "promedio": 595.9,
+  "promedio": 596.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
