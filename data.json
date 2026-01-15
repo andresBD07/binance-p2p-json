@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-14T23:48:56.667517",
-  "actualizado_vzla": "2026-01-14 19:48:56 -04",
+  "timestamp_utc": "2026-01-15T00:58:16.989905",
+  "actualizado_vzla": "2026-01-14 20:58:17 -04",
   "compra_segundo": {
-    "price": 604.0,
-    "name": "Waldofx"
+    "price": 603.0,
+    "name": "CAMBIOS_WAY"
   },
   "venta_maxima": {
-    "price": 603.9,
-    "name": "willbyruz"
+    "price": 601.6,
+    "name": "SasukeTrader"
   },
-  "promedio": 603.95,
+  "promedio": 602.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
