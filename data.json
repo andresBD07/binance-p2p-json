@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T13:05:00.357770",
-  "actualizado_vzla": "2026-01-15 09:05:00 -04",
+  "timestamp_utc": "2026-01-15T13:51:13.277134",
+  "actualizado_vzla": "2026-01-15 09:51:13 -04",
   "compra_segundo": {
-    "price": 584.9,
-    "name": "thecryptofat"
+    "price": 570.8,
+    "name": "cambiofast24h"
   },
   "venta_maxima": {
-    "price": 580.0,
-    "name": "-Godgiven-"
+    "price": 568.002,
+    "name": "marciCrypto"
   },
-  "promedio": 582.45,
+  "promedio": 569.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
