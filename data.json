@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T20:26:08.641061",
-  "actualizado_vzla": "2026-01-15 16:26:08 -04",
+  "timestamp_utc": "2026-01-15T20:50:18.418468",
+  "actualizado_vzla": "2026-01-15 16:50:18 -04",
   "compra_segundo": {
-    "price": 503.0,
-    "name": "cazing2230"
+    "price": 500.5,
+    "name": "COMERCIO_SEGURO03"
   },
   "venta_maxima": {
-    "price": 498.1,
-    "name": "_LaToxica"
+    "price": 496.0,
+    "name": "EscalantEmprendimientos"
   },
-  "promedio": 500.55,
+  "promedio": 498.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
