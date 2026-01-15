@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T21:53:22.312331",
-  "actualizado_vzla": "2026-01-15 17:53:22 -04",
+  "timestamp_utc": "2026-01-15T22:24:30.226045",
+  "actualizado_vzla": "2026-01-15 18:24:30 -04",
   "compra_segundo": {
-    "price": 508.395,
-    "name": "Eldiez10"
+    "price": 504.1,
+    "name": "Cambios_fast54"
   },
   "venta_maxima": {
-    "price": 504.5,
-    "name": "AndradeGasconTITULAR"
+    "price": 499.0,
+    "name": "SangetsuTrader"
   },
-  "promedio": 506.45,
+  "promedio": 501.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
