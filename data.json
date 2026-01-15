@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T17:03:56.903173",
-  "actualizado_vzla": "2026-01-15 13:03:56 -04",
+  "timestamp_utc": "2026-01-15T17:48:07.573565",
+  "actualizado_vzla": "2026-01-15 13:48:07 -04",
   "compra_segundo": {
-    "price": 527.4,
-    "name": "cambiofast24h"
+    "price": 517.9,
+    "name": "Alex"
   },
   "venta_maxima": {
-    "price": 524.3,
-    "name": "SATUPLE13"
+    "price": 512.08,
+    "name": "NORE19"
   },
-  "promedio": 525.85,
+  "promedio": 514.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
