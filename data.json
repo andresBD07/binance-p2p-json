@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T10:34:05.405432",
-  "actualizado_vzla": "2026-01-15 06:34:05 -04",
+  "timestamp_utc": "2026-01-15T10:54:54.773987",
+  "actualizado_vzla": "2026-01-15 06:54:54 -04",
   "compra_segundo": {
-    "price": 595.5,
-    "name": "Latribu-"
+    "price": 599.0,
+    "name": "07-Transpor"
   },
   "venta_maxima": {
-    "price": 576.5,
+    "price": 589.0,
     "name": "InvMiggy"
   },
-  "promedio": 586.0,
+  "promedio": 594.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
