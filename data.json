@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T04:54:35.280355",
-  "actualizado_vzla": "2026-01-15 00:54:35 -04",
+  "timestamp_utc": "2026-01-15T05:31:28.342534",
+  "actualizado_vzla": "2026-01-15 01:31:28 -04",
   "compra_segundo": {
-    "price": 600.5,
-    "name": "Camilo171"
+    "price": 601.8,
+    "name": "usdtking"
   },
   "venta_maxima": {
-    "price": 586.0,
-    "name": "SantiagoR19"
+    "price": 590.0,
+    "name": "SPYG"
   },
-  "promedio": 593.25,
+  "promedio": 595.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
