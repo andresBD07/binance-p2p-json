@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T09:36:44.844949",
-  "actualizado_vzla": "2026-01-15 05:36:44 -04",
+  "timestamp_utc": "2026-01-15T09:55:33.271168",
+  "actualizado_vzla": "2026-01-15 05:55:33 -04",
   "compra_segundo": {
     "price": 600.0,
     "name": "你理想的改變"
   },
   "venta_maxima": {
-    "price": 562.8,
-    "name": "Elrefugiodecatgaby"
+    "price": 560.001,
+    "name": "Cryptoexpress"
   },
-  "promedio": 581.4,
+  "promedio": 580.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
