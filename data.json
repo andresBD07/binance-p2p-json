@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T15:16:29.701898",
-  "actualizado_vzla": "2026-01-15 11:16:29 -04",
+  "timestamp_utc": "2026-01-15T15:49:37.272526",
+  "actualizado_vzla": "2026-01-15 11:49:37 -04",
   "compra_segundo": {
-    "price": 523.998,
-    "name": "Reimaryp"
+    "price": 543.0,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 518.0,
-    "name": "TOPlevelS"
+    "price": 539.1,
+    "name": "Burdyn"
   },
-  "promedio": 521.0,
+  "promedio": 541.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
