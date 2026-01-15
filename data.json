@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T08:27:51.158224",
-  "actualizado_vzla": "2026-01-15 04:27:51 -04",
+  "timestamp_utc": "2026-01-15T08:57:27.661295",
+  "actualizado_vzla": "2026-01-15 04:57:27 -04",
   "compra_segundo": {
-    "price": 602.489,
-    "name": "ROCU22_VE"
+    "price": 601.7,
+    "name": "CORPORACIÓN_SFM"
   },
   "venta_maxima": {
-    "price": 590.0,
-    "name": "SPYG"
+    "price": 588.0,
+    "name": "Jorgeexpress"
   },
-  "promedio": 596.24,
+  "promedio": 594.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
