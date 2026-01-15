@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T14:21:07.475565",
-  "actualizado_vzla": "2026-01-15 10:21:07 -04",
+  "timestamp_utc": "2026-01-15T14:49:15.816680",
+  "actualizado_vzla": "2026-01-15 10:49:15 -04",
   "compra_segundo": {
-    "price": 559.8,
-    "name": "Fast-CambiosSeguro-"
+    "price": 561.6,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
-    "price": 555.004,
-    "name": "Aquino_her3"
+    "price": 557.0,
+    "name": "Gustavo129"
   },
-  "promedio": 557.4,
+  "promedio": 559.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
