@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T19:33:55.945705",
-  "actualizado_vzla": "2026-01-15 15:33:55 -04",
+  "timestamp_utc": "2026-01-15T19:52:39.369682",
+  "actualizado_vzla": "2026-01-15 15:52:39 -04",
   "compra_segundo": {
-    "price": 516.6,
-    "name": "TradingWolfe"
+    "price": 513.0,
+    "name": "TOROgaboxCoin"
   },
   "venta_maxima": {
-    "price": 512.8,
-    "name": "Marquez25"
+    "price": 509.7,
+    "name": "El padrino08"
   },
-  "promedio": 514.7,
+  "promedio": 511.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
