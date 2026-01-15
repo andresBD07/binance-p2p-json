@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-15T23:00:23.511899",
-  "actualizado_vzla": "2026-01-15 19:00:23 -04",
+  "timestamp_utc": "2026-01-15T23:30:34.131037",
+  "actualizado_vzla": "2026-01-15 19:30:34 -04",
   "compra_segundo": {
     "price": 503.0,
-    "name": "EdwCripto"
+    "name": "CambiosJhonny06"
   },
   "venta_maxima": {
     "price": 497.0,
-    "name": "donk01"
+    "name": "Marketplace66"
   },
   "promedio": 500.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
