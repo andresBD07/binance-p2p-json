@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T14:49:15.816680",
-  "actualizado_vzla": "2026-01-15 10:49:15 -04",
+  "timestamp_utc": "2026-01-15T15:16:29.701898",
+  "actualizado_vzla": "2026-01-15 11:16:29 -04",
   "compra_segundo": {
-    "price": 561.6,
-    "name": "NexusBlock"
+    "price": 523.998,
+    "name": "Reimaryp"
   },
   "venta_maxima": {
-    "price": 557.0,
-    "name": "Gustavo129"
+    "price": 518.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 559.3,
+  "promedio": 521.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
