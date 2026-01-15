@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T08:57:27.661295",
-  "actualizado_vzla": "2026-01-15 04:57:27 -04",
+  "timestamp_utc": "2026-01-15T09:36:44.844949",
+  "actualizado_vzla": "2026-01-15 05:36:44 -04",
   "compra_segundo": {
-    "price": 601.7,
-    "name": "CORPORACIÓN_SFM"
+    "price": 600.0,
+    "name": "你理想的改變"
   },
   "venta_maxima": {
-    "price": 588.0,
-    "name": "Jorgeexpress"
+    "price": 562.8,
+    "name": "Elrefugiodecatgaby"
   },
-  "promedio": 594.85,
+  "promedio": 581.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
