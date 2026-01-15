@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T15:49:37.272526",
-  "actualizado_vzla": "2026-01-15 11:49:37 -04",
+  "timestamp_utc": "2026-01-15T16:25:39.254541",
+  "actualizado_vzla": "2026-01-15 12:25:39 -04",
   "compra_segundo": {
-    "price": 543.0,
-    "name": "raParadas-31"
+    "price": 536.7,
+    "name": "Job2025"
   },
   "venta_maxima": {
-    "price": 539.1,
-    "name": "Burdyn"
+    "price": 531.5,
+    "name": "Asdru_especial08"
   },
-  "promedio": 541.05,
+  "promedio": 534.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
