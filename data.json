@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T19:52:39.369682",
-  "actualizado_vzla": "2026-01-15 15:52:39 -04",
+  "timestamp_utc": "2026-01-15T20:26:08.641061",
+  "actualizado_vzla": "2026-01-15 16:26:08 -04",
   "compra_segundo": {
-    "price": 513.0,
-    "name": "TOROgaboxCoin"
+    "price": 503.0,
+    "name": "cazing2230"
   },
   "venta_maxima": {
-    "price": 509.7,
-    "name": "El padrino08"
+    "price": 498.1,
+    "name": "_LaToxica"
   },
-  "promedio": 511.35,
+  "promedio": 500.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
