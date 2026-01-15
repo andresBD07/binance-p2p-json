@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T16:25:39.254541",
-  "actualizado_vzla": "2026-01-15 12:25:39 -04",
+  "timestamp_utc": "2026-01-15T17:03:56.903173",
+  "actualizado_vzla": "2026-01-15 13:03:56 -04",
   "compra_segundo": {
-    "price": 536.7,
-    "name": "Job2025"
+    "price": 527.4,
+    "name": "cambiofast24h"
   },
   "venta_maxima": {
-    "price": 531.5,
-    "name": "Asdru_especial08"
+    "price": 524.3,
+    "name": "SATUPLE13"
   },
-  "promedio": 534.1,
+  "promedio": 525.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
