@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T10:54:54.773987",
-  "actualizado_vzla": "2026-01-15 06:54:54 -04",
+  "timestamp_utc": "2026-01-15T11:26:41.941984",
+  "actualizado_vzla": "2026-01-15 07:26:41 -04",
   "compra_segundo": {
-    "price": 599.0,
-    "name": "07-Transpor"
+    "price": 597.0,
+    "name": "Notorio"
   },
   "venta_maxima": {
-    "price": 589.0,
-    "name": "InvMiggy"
+    "price": 588.0,
+    "name": "Keria23"
   },
-  "promedio": 594.0,
+  "promedio": 592.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
