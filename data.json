@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T21:15:54.014953",
-  "actualizado_vzla": "2026-01-15 17:15:54 -04",
+  "timestamp_utc": "2026-01-15T21:39:34.001944",
+  "actualizado_vzla": "2026-01-15 17:39:34 -04",
   "compra_segundo": {
-    "price": 513.949,
+    "price": 512.298,
     "name": "-TheZ-"
   },
   "venta_maxima": {
-    "price": 510.0,
-    "name": "-Godgiven-"
+    "price": 507.1,
+    "name": "TradingWolfe"
   },
-  "promedio": 511.97,
+  "promedio": 509.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
