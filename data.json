@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T22:24:30.226045",
-  "actualizado_vzla": "2026-01-15 18:24:30 -04",
+  "timestamp_utc": "2026-01-15T22:47:37.239548",
+  "actualizado_vzla": "2026-01-15 18:47:37 -04",
   "compra_segundo": {
-    "price": 504.1,
-    "name": "Cambios_fast54"
+    "price": 502.4,
+    "name": "Reimaryp"
   },
   "venta_maxima": {
-    "price": 499.0,
-    "name": "SangetsuTrader"
+    "price": 498.0,
+    "name": "Godisgift"
   },
-  "promedio": 501.55,
+  "promedio": 500.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
