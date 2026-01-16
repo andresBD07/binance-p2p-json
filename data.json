@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T16:59:46.318737",
-  "actualizado_vzla": "2026-01-16 12:59:46 -04",
+  "timestamp_utc": "2026-01-16T17:34:50.196197",
+  "actualizado_vzla": "2026-01-16 13:34:50 -04",
   "compra_segundo": {
-    "price": 468.8,
-    "name": "AlfaTrader21"
+    "price": 472.8,
+    "name": "JP-Services"
   },
   "venta_maxima": {
-    "price": 468.0,
-    "name": "JoseParedez"
+    "price": 475.501,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 468.4,
+  "promedio": 474.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
