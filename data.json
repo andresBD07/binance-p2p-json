@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T08:36:42.131474",
-  "actualizado_vzla": "2026-01-16 04:36:42 -04",
+  "timestamp_utc": "2026-01-16T08:59:28.564205",
+  "actualizado_vzla": "2026-01-16 04:59:28 -04",
   "compra_segundo": {
     "price": 503.9,
     "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 490.45,
-    "name": "Intercambiosmgta"
+    "price": 491.0,
+    "name": "BOSS__313"
   },
-  "promedio": 497.17,
+  "promedio": 497.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
