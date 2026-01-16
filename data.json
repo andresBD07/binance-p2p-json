@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T22:39:31.582136",
-  "actualizado_vzla": "2026-01-16 18:39:31 -04",
+  "timestamp_utc": "2026-01-16T22:54:26.908744",
+  "actualizado_vzla": "2026-01-16 18:54:26 -04",
   "compra_segundo": {
-    "price": 462.47,
-    "name": "TU CAMBIO"
+    "price": 462.0,
+    "name": "CRYPTOM23"
   },
   "venta_maxima": {
     "price": 458.2,
-    "name": "ALASKA-"
+    "name": "securitylc"
   },
-  "promedio": 460.34,
+  "promedio": 460.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
