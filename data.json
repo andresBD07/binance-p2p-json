@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T14:43:38.130675",
-  "actualizado_vzla": "2026-01-16 10:43:38 -04",
+  "timestamp_utc": "2026-01-16T15:00:47.649985",
+  "actualizado_vzla": "2026-01-16 11:00:47 -04",
   "compra_segundo": {
-    "price": 463.9,
-    "name": "Trading_professional"
+    "price": 473.5,
+    "name": "Mr Punk"
   },
   "venta_maxima": {
-    "price": 460.0,
-    "name": "All-inCrypto"
+    "price": 473.0,
+    "name": "Godisgift"
   },
-  "promedio": 461.95,
+  "promedio": 473.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
