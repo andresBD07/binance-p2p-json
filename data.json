@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T00:00:37.718525",
-  "actualizado_vzla": "2026-01-15 20:00:37 -04",
+  "timestamp_utc": "2026-01-16T02:26:52.381930",
+  "actualizado_vzla": "2026-01-15 22:26:52 -04",
   "compra_segundo": {
-    "price": 501.45,
-    "name": "Jesusfreitesm"
+    "price": 492.0,
+    "name": "Caship30"
   },
   "venta_maxima": {
-    "price": 500.0,
-    "name": "Dios Es Unico Lejp"
+    "price": 485.0,
+    "name": "c_s_"
   },
-  "promedio": 500.73,
+  "promedio": 488.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
