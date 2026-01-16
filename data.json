@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T16:35:37.083808",
-  "actualizado_vzla": "2026-01-16 12:35:37 -04",
+  "timestamp_utc": "2026-01-16T16:59:46.318737",
+  "actualizado_vzla": "2026-01-16 12:59:46 -04",
   "compra_segundo": {
-    "price": 469.999,
-    "name": "Alex2027"
+    "price": 468.8,
+    "name": "AlfaTrader21"
   },
   "venta_maxima": {
-    "price": 467.5,
-    "name": "SasukeTrader"
+    "price": 468.0,
+    "name": "JoseParedez"
   },
-  "promedio": 468.75,
+  "promedio": 468.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
