@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T06:44:41.878068",
-  "actualizado_vzla": "2026-01-16 02:44:41 -04",
+  "timestamp_utc": "2026-01-16T07:13:35.162478",
+  "actualizado_vzla": "2026-01-16 03:13:35 -04",
   "compra_segundo": {
-    "price": 503.5,
-    "name": "InvMiggy"
+    "price": 503.9,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 489.1,
-    "name": "-Vallenatero-"
+    "price": 486.5,
+    "name": "cazing2230"
   },
-  "promedio": 496.3,
+  "promedio": 495.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
