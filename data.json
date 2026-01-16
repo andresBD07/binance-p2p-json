@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T19:01:03.187490",
-  "actualizado_vzla": "2026-01-16 15:01:03 -04",
+  "timestamp_utc": "2026-01-16T19:27:04.419621",
+  "actualizado_vzla": "2026-01-16 15:27:04 -04",
   "compra_segundo": {
-    "price": 471.4,
-    "name": "YGSCAPITALSPA"
+    "price": 469.2,
+    "name": "OzzieMendoza"
   },
   "venta_maxima": {
-    "price": 470.001,
-    "name": "VECTURAFX"
+    "price": 467.5,
+    "name": "Escocrida"
   },
-  "promedio": 470.7,
+  "promedio": 468.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
