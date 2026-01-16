@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T13:46:06.574126",
-  "actualizado_vzla": "2026-01-16 09:46:06 -04",
+  "timestamp_utc": "2026-01-16T14:11:39.878377",
+  "actualizado_vzla": "2026-01-16 10:11:39 -04",
   "compra_segundo": {
-    "price": 466.7,
-    "name": "LedezmaP2P"
+    "price": 491.799,
+    "name": "_LaToxica"
   },
   "venta_maxima": {
-    "price": 461.1,
-    "name": "Cata__"
+    "price": 481.0,
+    "name": "Godisgift"
   },
-  "promedio": 463.9,
+  "promedio": 486.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
