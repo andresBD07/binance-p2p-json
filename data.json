@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T09:37:07.667597",
-  "actualizado_vzla": "2026-01-16 05:37:07 -04",
+  "timestamp_utc": "2026-01-16T09:55:07.877420",
+  "actualizado_vzla": "2026-01-16 05:55:07 -04",
   "compra_segundo": {
-    "price": 503.0,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 502.999,
+    "name": "urotrader"
   },
   "venta_maxima": {
     "price": 490.45,
     "name": "Intercambiosmgta"
   },
-  "promedio": 496.73,
+  "promedio": 496.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
