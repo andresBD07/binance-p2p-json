@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T15:00:47.649985",
-  "actualizado_vzla": "2026-01-16 11:00:47 -04",
+  "timestamp_utc": "2026-01-16T15:35:23.371512",
+  "actualizado_vzla": "2026-01-16 11:35:23 -04",
   "compra_segundo": {
-    "price": 473.5,
-    "name": "Mr Punk"
+    "price": 472.9,
+    "name": "DOCTOR_CAMBIO"
   },
   "venta_maxima": {
-    "price": 473.0,
+    "price": 469.0,
     "name": "Godisgift"
   },
-  "promedio": 473.25,
+  "promedio": 470.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
