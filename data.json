@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T17:53:42.705437",
-  "actualizado_vzla": "2026-01-16 13:53:42 -04",
+  "timestamp_utc": "2026-01-16T18:37:27.996112",
+  "actualizado_vzla": "2026-01-16 14:37:28 -04",
   "compra_segundo": {
-    "price": 475.5,
-    "name": "ChangerExpress"
+    "price": 472.33,
+    "name": "TradingWolfe"
   },
   "venta_maxima": {
-    "price": 472.003,
-    "name": "Godisgift"
+    "price": 472.6,
+    "name": "Bianchiplus"
   },
-  "promedio": 473.75,
+  "promedio": 472.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
