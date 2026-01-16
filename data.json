@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T05:38:25.901773",
-  "actualizado_vzla": "2026-01-16 01:38:25 -04",
+  "timestamp_utc": "2026-01-16T05:55:11.111624",
+  "actualizado_vzla": "2026-01-16 01:55:11 -04",
   "compra_segundo": {
-    "price": 502.199,
-    "name": "Abi_Cambios"
+    "price": 502.995,
+    "name": "Light Transaction Essentially "
   },
   "venta_maxima": {
-    "price": 489.252,
+    "price": 489.466,
     "name": "BOSS__313"
   },
-  "promedio": 495.73,
+  "promedio": 496.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
