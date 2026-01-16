@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T20:28:09.472093",
-  "actualizado_vzla": "2026-01-16 16:28:09 -04",
+  "timestamp_utc": "2026-01-16T20:47:05.586084",
+  "actualizado_vzla": "2026-01-16 16:47:05 -04",
   "compra_segundo": {
-    "price": 468.5,
-    "name": "CAFE-con-PAN"
+    "price": 466.1,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
-    "price": 467.0,
-    "name": "Biyt"
+    "price": 463.0,
+    "name": "cambioson"
   },
-  "promedio": 467.75,
+  "promedio": 464.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
