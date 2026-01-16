@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T23:43:52.877882",
-  "actualizado_vzla": "2026-01-16 19:43:52 -04",
+  "timestamp_utc": "2026-01-16T23:57:08.165444",
+  "actualizado_vzla": "2026-01-16 19:57:08 -04",
   "compra_segundo": {
-    "price": 457.91,
-    "name": "Star_Trading"
+    "price": 455.894,
+    "name": "Maferquintero"
   },
   "venta_maxima": {
-    "price": 453.55,
-    "name": "梅CityCambio爱"
+    "price": 454.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 455.73,
+  "promedio": 454.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
