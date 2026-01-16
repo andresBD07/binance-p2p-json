@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T10:53:42.963551",
-  "actualizado_vzla": "2026-01-16 06:53:42 -04",
+  "timestamp_utc": "2026-01-16T11:22:40.401923",
+  "actualizado_vzla": "2026-01-16 07:22:40 -04",
   "compra_segundo": {
-    "price": 500.0,
-    "name": "Camilo171"
+    "price": 496.2,
+    "name": "Samtur"
   },
   "venta_maxima": {
-    "price": 486.204,
-    "name": "usdtking"
+    "price": 486.25,
+    "name": "FMDeluXchange"
   },
-  "promedio": 493.1,
+  "promedio": 491.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
