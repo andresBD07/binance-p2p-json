@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-15T23:47:29.832140",
-  "actualizado_vzla": "2026-01-15 19:47:29 -04",
+  "timestamp_utc": "2026-01-16T00:00:37.718525",
+  "actualizado_vzla": "2026-01-15 20:00:37 -04",
   "compra_segundo": {
-    "price": 502.3,
-    "name": "criptogene01"
+    "price": 501.45,
+    "name": "Jesusfreitesm"
   },
   "venta_maxima": {
-    "price": 496.8,
-    "name": "AndradeGascon"
+    "price": 500.0,
+    "name": "Dios Es Unico Lejp"
   },
-  "promedio": 499.55,
+  "promedio": 500.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
