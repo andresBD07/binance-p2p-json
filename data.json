@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T02:26:52.381930",
-  "actualizado_vzla": "2026-01-15 22:26:52 -04",
+  "timestamp_utc": "2026-01-16T03:51:45.494457",
+  "actualizado_vzla": "2026-01-15 23:51:45 -04",
   "compra_segundo": {
-    "price": 492.0,
-    "name": "Caship30"
+    "price": 499.9,
+    "name": "Dancrip24-7"
   },
   "venta_maxima": {
-    "price": 485.0,
-    "name": "c_s_"
+    "price": 491.05,
+    "name": "jesusaguilar2001"
   },
-  "promedio": 488.5,
+  "promedio": 495.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
