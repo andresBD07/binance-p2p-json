@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T20:47:05.586084",
-  "actualizado_vzla": "2026-01-16 16:47:05 -04",
+  "timestamp_utc": "2026-01-16T21:00:04.264922",
+  "actualizado_vzla": "2026-01-16 17:00:04 -04",
   "compra_segundo": {
-    "price": 466.1,
-    "name": "ELEUTROS"
+    "price": 465.247,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 463.0,
-    "name": "cambioson"
+    "price": 462.0,
+    "name": "Godisgift"
   },
-  "promedio": 464.55,
+  "promedio": 463.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
