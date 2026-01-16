@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T18:37:27.996112",
-  "actualizado_vzla": "2026-01-16 14:37:28 -04",
+  "timestamp_utc": "2026-01-16T19:01:03.187490",
+  "actualizado_vzla": "2026-01-16 15:01:03 -04",
   "compra_segundo": {
-    "price": 472.33,
-    "name": "TradingWolfe"
+    "price": 471.4,
+    "name": "YGSCAPITALSPA"
   },
   "venta_maxima": {
-    "price": 472.6,
-    "name": "Bianchiplus"
+    "price": 470.001,
+    "name": "VECTURAFX"
   },
-  "promedio": 472.47,
+  "promedio": 470.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
