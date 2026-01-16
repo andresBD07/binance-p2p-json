@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T15:35:23.371512",
-  "actualizado_vzla": "2026-01-16 11:35:23 -04",
+  "timestamp_utc": "2026-01-16T15:54:15.955704",
+  "actualizado_vzla": "2026-01-16 11:54:15 -04",
   "compra_segundo": {
-    "price": 472.9,
-    "name": "DOCTOR_CAMBIO"
+    "price": 470.0,
+    "name": "REMESAS_ELMARACUCHO"
   },
   "venta_maxima": {
-    "price": 469.0,
+    "price": 472.0,
     "name": "Godisgift"
   },
-  "promedio": 470.95,
+  "promedio": 471.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
