@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T11:41:53.593480",
-  "actualizado_vzla": "2026-01-16 07:41:53 -04",
+  "timestamp_utc": "2026-01-16T11:55:00.898797",
+  "actualizado_vzla": "2026-01-16 07:55:00 -04",
   "compra_segundo": {
-    "price": 492.0,
+    "price": 489.4,
     "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 485.21,
-    "name": "Cambios IvS"
+    "price": 482.0,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 488.61,
+  "promedio": 485.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
