@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T21:48:00.818322",
-  "actualizado_vzla": "2026-01-16 17:48:00 -04",
+  "timestamp_utc": "2026-01-16T22:10:20.865289",
+  "actualizado_vzla": "2026-01-16 18:10:20 -04",
   "compra_segundo": {
-    "price": 462.68,
-    "name": "Traderp2pVzla"
+    "price": 463.8,
+    "name": "Changes_Adventurers"
   },
   "venta_maxima": {
-    "price": 460.5,
-    "name": "notorius11"
+    "price": 461.0,
+    "name": "Guangzhou13"
   },
-  "promedio": 461.59,
+  "promedio": 462.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
