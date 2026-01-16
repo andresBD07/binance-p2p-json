@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T22:54:26.908744",
-  "actualizado_vzla": "2026-01-16 18:54:26 -04",
+  "timestamp_utc": "2026-01-16T23:25:37.714173",
+  "actualizado_vzla": "2026-01-16 19:25:37 -04",
   "compra_segundo": {
-    "price": 462.0,
-    "name": "CRYPTOM23"
+    "price": 459.57,
+    "name": "EL ELEFANTE DE ORO"
   },
   "venta_maxima": {
-    "price": 458.2,
-    "name": "securitylc"
+    "price": 455.622,
+    "name": "RAMVALL01"
   },
-  "promedio": 460.1,
+  "promedio": 457.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
