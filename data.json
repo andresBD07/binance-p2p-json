@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T05:02:18.044703",
-  "actualizado_vzla": "2026-01-16 01:02:18 -04",
+  "timestamp_utc": "2026-01-16T05:38:25.901773",
+  "actualizado_vzla": "2026-01-16 01:38:25 -04",
   "compra_segundo": {
-    "price": 500.33,
-    "name": "Jacob2820"
+    "price": 502.199,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 489.1,
-    "name": "TPhillips"
+    "price": 489.252,
+    "name": "BOSS__313"
   },
-  "promedio": 494.72,
+  "promedio": 495.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
