@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T17:56:37.736353",
-  "actualizado_vzla": "2026-01-17 13:56:37 -04",
+  "timestamp_utc": "2026-01-17T18:39:05.109548",
+  "actualizado_vzla": "2026-01-17 14:39:05 -04",
   "compra_segundo": {
-    "price": 457.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 457.44,
+    "name": "CAMBIOEXPRES-JG"
   },
   "venta_maxima": {
-    "price": 456.5,
-    "name": "Child-CambioFacil"
+    "price": 457.0,
+    "name": "Bianchiplus"
   },
-  "promedio": 456.75,
+  "promedio": 457.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
