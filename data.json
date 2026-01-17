@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-17T20:39:05.257628",
-  "actualizado_vzla": "2026-01-17 16:39:05 -04",
+  "timestamp_utc": "2026-01-17T20:52:48.057602",
+  "actualizado_vzla": "2026-01-17 16:52:48 -04",
   "compra_segundo": {
-    "price": 453.4,
-    "name": "_AltCoinMaster_"
+    "price": 453.9,
+    "name": "HugginsLabsP2P"
   },
   "venta_maxima": {
-    "price": 453.5,
-    "name": "notorius11"
+    "price": 453.0,
+    "name": "Child-CambioFacil"
   },
   "promedio": 453.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
