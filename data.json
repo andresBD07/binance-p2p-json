@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-17T20:16:35.417957",
-  "actualizado_vzla": "2026-01-17 16:16:35 -04",
+  "timestamp_utc": "2026-01-17T20:39:05.257628",
+  "actualizado_vzla": "2026-01-17 16:39:05 -04",
   "compra_segundo": {
-    "price": 453.9,
-    "name": "Elqueyasabes"
+    "price": 453.4,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 453.0,
-    "name": "Bianchiplus"
+    "price": 453.5,
+    "name": "notorius11"
   },
   "promedio": 453.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
