@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-17T14:52:15.545020",
-  "actualizado_vzla": "2026-01-17 10:52:15 -04",
+  "timestamp_utc": "2026-01-17T15:19:03.333658",
+  "actualizado_vzla": "2026-01-17 11:19:03 -04",
   "compra_segundo": {
-    "price": 460.5,
-    "name": "LeNary-"
+    "price": 461.0,
+    "name": "Christiancinho"
   },
   "venta_maxima": {
-    "price": 461.0,
-    "name": "DOCTOR_CAMBIO"
+    "price": 460.5,
+    "name": "Child-CambioFacil"
   },
   "promedio": 460.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
