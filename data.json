@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-16T23:57:08.165444",
-  "actualizado_vzla": "2026-01-16 19:57:08 -04",
+  "timestamp_utc": "2026-01-17T02:17:51.685622",
+  "actualizado_vzla": "2026-01-16 22:17:51 -04",
   "compra_segundo": {
-    "price": 455.894,
-    "name": "Maferquintero"
+    "price": 457.2,
+    "name": "DominusUsdt"
   },
   "venta_maxima": {
-    "price": 454.0,
-    "name": "Child-CambioFacil"
+    "price": 454.2,
+    "name": "TPhillips"
   },
-  "promedio": 454.95,
+  "promedio": 455.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
