@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T22:52:07.769734",
-  "actualizado_vzla": "2026-01-17 18:52:07 -04",
+  "timestamp_utc": "2026-01-17T23:18:23.786476",
+  "actualizado_vzla": "2026-01-17 19:18:23 -04",
   "compra_segundo": {
-    "price": 453.69,
-    "name": "TU CAMBIO"
+    "price": 454.0,
+    "name": "LedezmaP2P"
   },
   "venta_maxima": {
-    "price": 453.0,
+    "price": 454.1,
     "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 453.35,
+  "promedio": 454.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
