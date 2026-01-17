@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T22:12:59.093222",
-  "actualizado_vzla": "2026-01-17 18:12:59 -04",
+  "timestamp_utc": "2026-01-17T22:38:22.234401",
+  "actualizado_vzla": "2026-01-17 18:38:22 -04",
   "compra_segundo": {
-    "price": 453.0,
-    "name": "lamejoropcion"
+    "price": 453.4,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 451.55,
-    "name": "TAURUS85"
+    "price": 452.1,
+    "name": "-Godgiven-"
   },
-  "promedio": 452.27,
+  "promedio": 452.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
