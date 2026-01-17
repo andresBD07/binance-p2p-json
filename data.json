@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T07:27:18.596441",
-  "actualizado_vzla": "2026-01-17 03:27:18 -04",
+  "timestamp_utc": "2026-01-17T07:42:59.158748",
+  "actualizado_vzla": "2026-01-17 03:42:59 -04",
   "compra_segundo": {
-    "price": 459.9,
-    "name": "CambiosToGo"
+    "price": 459.95,
+    "name": "MiguelCryptos"
   },
   "venta_maxima": {
-    "price": 448.5,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 449.0,
+    "name": "Gustavo129"
   },
-  "promedio": 454.2,
+  "promedio": 454.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
