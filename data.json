@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T02:17:51.685622",
-  "actualizado_vzla": "2026-01-16 22:17:51 -04",
+  "timestamp_utc": "2026-01-17T03:41:03.262953",
+  "actualizado_vzla": "2026-01-16 23:41:03 -04",
   "compra_segundo": {
-    "price": 457.2,
-    "name": "DominusUsdt"
+    "price": 458.3,
+    "name": "BOSS__313"
   },
   "venta_maxima": {
-    "price": 454.2,
-    "name": "TPhillips"
+    "price": 453.9,
+    "name": "CAMBIOS AVILA "
   },
-  "promedio": 455.7,
+  "promedio": 456.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
