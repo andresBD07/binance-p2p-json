@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T17:43:25.845786",
-  "actualizado_vzla": "2026-01-17 13:43:25 -04",
+  "timestamp_utc": "2026-01-17T17:56:37.736353",
+  "actualizado_vzla": "2026-01-17 13:56:37 -04",
   "compra_segundo": {
-    "price": 457.59,
-    "name": "Ronin-EXCHANGE"
+    "price": 457.0,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 457.0,
-    "name": "Burdyn"
+    "price": 456.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 457.29,
+  "promedio": 456.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
