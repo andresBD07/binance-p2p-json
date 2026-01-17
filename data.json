@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T17:25:37.452825",
-  "actualizado_vzla": "2026-01-17 13:25:37 -04",
+  "timestamp_utc": "2026-01-17T17:43:25.845786",
+  "actualizado_vzla": "2026-01-17 13:43:25 -04",
   "compra_segundo": {
-    "price": 459.2,
-    "name": "Reinny"
+    "price": 457.59,
+    "name": "Ronin-EXCHANGE"
   },
   "venta_maxima": {
-    "price": 458.0,
-    "name": "c_s_"
+    "price": 457.0,
+    "name": "Burdyn"
   },
-  "promedio": 458.6,
+  "promedio": 457.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
