@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T13:50:29.963034",
-  "actualizado_vzla": "2026-01-17 09:50:29 -04",
+  "timestamp_utc": "2026-01-17T14:14:26.371761",
+  "actualizado_vzla": "2026-01-17 10:14:26 -04",
   "compra_segundo": {
-    "price": 459.495,
-    "name": "Catalina"
+    "price": 459.0,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 457.01,
-    "name": "SONYMAX-"
+    "price": 458.1,
+    "name": "BLACKROCK22"
   },
-  "promedio": 458.25,
+  "promedio": 458.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
