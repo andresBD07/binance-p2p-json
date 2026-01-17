@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T15:19:03.333658",
-  "actualizado_vzla": "2026-01-17 11:19:03 -04",
+  "timestamp_utc": "2026-01-17T15:38:22.471272",
+  "actualizado_vzla": "2026-01-17 11:38:22 -04",
   "compra_segundo": {
-    "price": 461.0,
-    "name": "Christiancinho"
+    "price": 462.7,
+    "name": "Franquicia777"
   },
   "venta_maxima": {
-    "price": 460.5,
-    "name": "Child-CambioFacil"
+    "price": 462.5,
+    "name": "ALASKA-"
   },
-  "promedio": 460.75,
+  "promedio": 462.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
