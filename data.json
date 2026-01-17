@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-17T16:20:21.040849",
-  "actualizado_vzla": "2026-01-17 12:20:21 -04",
+  "timestamp_utc": "2026-01-17T16:43:52.819879",
+  "actualizado_vzla": "2026-01-17 12:43:52 -04",
   "compra_segundo": {
-    "price": 463.197,
-    "name": "CoinGonzo"
+    "price": 462.0,
+    "name": "AnaiaBoutique"
   },
   "venta_maxima": {
-    "price": 462.5,
-    "name": "Brawcoins"
+    "price": 461.7,
+    "name": "ProfitCM"
   },
-  "promedio": 462.85,
+  "promedio": 461.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
