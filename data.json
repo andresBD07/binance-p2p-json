@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T05:51:36.067105",
-  "actualizado_vzla": "2026-01-18 01:51:36 -04",
+  "timestamp_utc": "2026-01-18T06:28:18.585025",
+  "actualizado_vzla": "2026-01-18 02:28:18 -04",
   "compra_segundo": {
-    "price": 457.8,
-    "name": "usdtking"
+    "price": 459.999,
+    "name": "DarvinS"
   },
   "venta_maxima": {
-    "price": 450.05,
+    "price": 449.5,
     "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 453.93,
+  "promedio": 454.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
