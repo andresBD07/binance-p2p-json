@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T20:17:54.886183",
-  "actualizado_vzla": "2026-01-18 16:17:54 -04",
+  "timestamp_utc": "2026-01-18T20:40:07.856284",
+  "actualizado_vzla": "2026-01-18 16:40:07 -04",
   "compra_segundo": {
-    "price": 453.98,
-    "name": "Juanvax07"
+    "price": 453.19,
+    "name": "ExchangeMarket_Vzla"
   },
   "venta_maxima": {
-    "price": 453.0,
+    "price": 452.5,
     "name": "RONIN2_0"
   },
-  "promedio": 453.49,
+  "promedio": 452.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
