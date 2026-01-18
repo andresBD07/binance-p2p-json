@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T19:50:40.638289",
-  "actualizado_vzla": "2026-01-18 15:50:40 -04",
+  "timestamp_utc": "2026-01-18T20:17:54.886183",
+  "actualizado_vzla": "2026-01-18 16:17:54 -04",
   "compra_segundo": {
-    "price": 454.399,
-    "name": "PringlesBBQ"
+    "price": 453.98,
+    "name": "Juanvax07"
   },
   "venta_maxima": {
     "price": 453.0,
-    "name": "Child-CambioFacil"
+    "name": "RONIN2_0"
   },
-  "promedio": 453.7,
+  "promedio": 453.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
