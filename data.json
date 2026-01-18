@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T07:42:38.596810",
-  "actualizado_vzla": "2026-01-18 03:42:38 -04",
+  "timestamp_utc": "2026-01-18T07:55:32.265572",
+  "actualizado_vzla": "2026-01-18 03:55:32 -04",
   "compra_segundo": {
     "price": 459.999,
     "name": "DarvinS"
   },
   "venta_maxima": {
-    "price": 449.5,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 449.0,
+    "name": "inverck"
   },
-  "promedio": 454.75,
+  "promedio": 454.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
