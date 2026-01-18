@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T16:18:18.248286",
-  "actualizado_vzla": "2026-01-18 12:18:18 -04",
+  "timestamp_utc": "2026-01-18T16:44:24.824069",
+  "actualizado_vzla": "2026-01-18 12:44:24 -04",
   "compra_segundo": {
-    "price": 459.0,
-    "name": "REMESAFG"
+    "price": 458.99,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 457.0,
-    "name": "notorius11"
+    "price": 458.0,
+    "name": "加密操作"
   },
-  "promedio": 458.0,
+  "promedio": 458.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
