@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T04:27:31.451915",
-  "actualizado_vzla": "2026-01-18 00:27:31 -04",
+  "timestamp_utc": "2026-01-18T04:59:15.620678",
+  "actualizado_vzla": "2026-01-18 00:59:15 -04",
   "compra_segundo": {
-    "price": 456.5,
-    "name": "Maanda2"
+    "price": 456.4,
+    "name": "Star_Trading"
   },
   "venta_maxima": {
-    "price": 450.55,
-    "name": "BOSS__313"
+    "price": 450.05,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 453.52,
+  "promedio": 453.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
