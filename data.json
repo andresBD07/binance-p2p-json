@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T08:55:07.924055",
-  "actualizado_vzla": "2026-01-18 04:55:07 -04",
+  "timestamp_utc": "2026-01-18T09:28:08.412384",
+  "actualizado_vzla": "2026-01-18 05:28:08 -04",
   "compra_segundo": {
-    "price": 459.7,
-    "name": "Daikokuten-Finance"
+    "price": 458.9,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
     "price": 448.2,
     "name": "A_CARDONAGROUP_"
   },
-  "promedio": 453.95,
+  "promedio": 453.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
