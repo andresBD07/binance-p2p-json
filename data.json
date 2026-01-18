@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T10:49:44.982051",
-  "actualizado_vzla": "2026-01-18 06:49:44 -04",
+  "timestamp_utc": "2026-01-18T11:11:03.975078",
+  "actualizado_vzla": "2026-01-18 07:11:03 -04",
   "compra_segundo": {
-    "price": 458.0,
-    "name": "Asdru_especial08"
+    "price": 456.749,
+    "name": "tovir2572"
   },
   "venta_maxima": {
     "price": 450.5,
     "name": "cazing2230-2"
   },
-  "promedio": 454.25,
+  "promedio": 453.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
