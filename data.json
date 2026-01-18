@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T12:56:12.294695",
-  "actualizado_vzla": "2026-01-18 08:56:12 -04",
+  "timestamp_utc": "2026-01-18T13:35:10.785216",
+  "actualizado_vzla": "2026-01-18 09:35:10 -04",
   "compra_segundo": {
-    "price": 456.0,
-    "name": "RapidPago "
+    "price": 456.999,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 453.501,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 454.01,
+    "name": "Keria23"
   },
-  "promedio": 454.75,
+  "promedio": 455.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
