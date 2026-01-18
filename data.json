@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T14:51:03.946435",
-  "actualizado_vzla": "2026-01-18 10:51:03 -04",
+  "timestamp_utc": "2026-01-18T15:15:50.461207",
+  "actualizado_vzla": "2026-01-18 11:15:50 -04",
   "compra_segundo": {
-    "price": 458.95,
-    "name": "sami maracay "
+    "price": 458.799,
+    "name": "isa_277"
   },
   "venta_maxima": {
-    "price": 458.0,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 457.2,
+    "name": "JoseParedez"
   },
-  "promedio": 458.48,
+  "promedio": 458.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
