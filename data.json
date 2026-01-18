@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T20:40:07.856284",
-  "actualizado_vzla": "2026-01-18 16:40:07 -04",
+  "timestamp_utc": "2026-01-18T20:54:15.630500",
+  "actualizado_vzla": "2026-01-18 16:54:15 -04",
   "compra_segundo": {
-    "price": 453.19,
-    "name": "ExchangeMarket_Vzla"
+    "price": 453.1,
+    "name": "thecryptofat"
   },
   "venta_maxima": {
     "price": 452.5,
     "name": "RONIN2_0"
   },
-  "promedio": 452.85,
+  "promedio": 452.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
