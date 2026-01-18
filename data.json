@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T20:54:15.630500",
-  "actualizado_vzla": "2026-01-18 16:54:15 -04",
+  "timestamp_utc": "2026-01-18T21:22:21.822477",
+  "actualizado_vzla": "2026-01-18 17:22:21 -04",
   "compra_segundo": {
-    "price": 453.1,
-    "name": "thecryptofat"
+    "price": 452.996,
+    "name": "JM2026"
   },
   "venta_maxima": {
-    "price": 452.5,
-    "name": "RONIN2_0"
+    "price": 453.0,
+    "name": "FULL-HOUSSE"
   },
-  "promedio": 452.8,
+  "promedio": 453.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
