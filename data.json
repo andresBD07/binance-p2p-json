@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T15:15:50.461207",
-  "actualizado_vzla": "2026-01-18 11:15:50 -04",
+  "timestamp_utc": "2026-01-18T15:36:31.997001",
+  "actualizado_vzla": "2026-01-18 11:36:32 -04",
   "compra_segundo": {
-    "price": 458.799,
-    "name": "isa_277"
+    "price": 458.45,
+    "name": "ENVIOSYC"
   },
   "venta_maxima": {
-    "price": 457.2,
-    "name": "JoseParedez"
+    "price": 458.0,
+    "name": "RapidPago "
   },
-  "promedio": 458.0,
+  "promedio": 458.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
