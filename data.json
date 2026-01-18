@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T21:52:45.786280",
-  "actualizado_vzla": "2026-01-18 17:52:45 -04",
+  "timestamp_utc": "2026-01-18T22:20:24.560384",
+  "actualizado_vzla": "2026-01-18 18:20:24 -04",
   "compra_segundo": {
-    "price": 452.599,
-    "name": "Inv_Salovi"
+    "price": 452.9,
+    "name": "Alvarez2005"
   },
   "venta_maxima": {
-    "price": 453.0,
+    "price": 452.0,
     "name": "SPYG"
   },
-  "promedio": 452.8,
+  "promedio": 452.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
