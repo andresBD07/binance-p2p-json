@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T13:51:27.192316",
-  "actualizado_vzla": "2026-01-18 09:51:27 -04",
+  "timestamp_utc": "2026-01-18T14:16:16.299577",
+  "actualizado_vzla": "2026-01-18 10:16:16 -04",
   "compra_segundo": {
-    "price": 457.55,
-    "name": "Keria23"
+    "price": 457.99,
+    "name": "instantremitly "
   },
   "venta_maxima": {
-    "price": 454.1,
-    "name": "RONIN2_0"
+    "price": 456.5,
+    "name": "notorius11"
   },
-  "promedio": 455.83,
+  "promedio": 457.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
