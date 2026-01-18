@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T16:44:24.824069",
-  "actualizado_vzla": "2026-01-18 12:44:24 -04",
+  "timestamp_utc": "2026-01-18T16:57:43.903552",
+  "actualizado_vzla": "2026-01-18 12:57:43 -04",
   "compra_segundo": {
-    "price": 458.99,
-    "name": "Traderp2pVzla"
+    "price": 458.94,
+    "name": "breintrader"
   },
   "venta_maxima": {
-    "price": 458.0,
-    "name": "加密操作"
+    "price": 457.0,
+    "name": "已連接"
   },
-  "promedio": 458.5,
+  "promedio": 457.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
