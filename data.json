@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T21:39:42.840294",
-  "actualizado_vzla": "2026-01-18 17:39:42 -04",
+  "timestamp_utc": "2026-01-18T21:52:45.786280",
+  "actualizado_vzla": "2026-01-18 17:52:45 -04",
   "compra_segundo": {
-    "price": 452.959,
-    "name": "Criptotrading"
+    "price": 452.599,
+    "name": "Inv_Salovi"
   },
   "venta_maxima": {
     "price": 453.0,
-    "name": "cambioson"
+    "name": "SPYG"
   },
-  "promedio": 452.98,
+  "promedio": 452.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
