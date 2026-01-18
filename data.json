@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T15:36:31.997001",
-  "actualizado_vzla": "2026-01-18 11:36:32 -04",
+  "timestamp_utc": "2026-01-18T15:50:24.905968",
+  "actualizado_vzla": "2026-01-18 11:50:24 -04",
   "compra_segundo": {
-    "price": 458.45,
-    "name": "ENVIOSYC"
+    "price": 458.4,
+    "name": "SaoriKido"
   },
   "venta_maxima": {
     "price": 458.0,
-    "name": "RapidPago "
+    "name": "加密操作"
   },
-  "promedio": 458.23,
+  "promedio": 458.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
