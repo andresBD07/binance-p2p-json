@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T11:56:35.645364",
-  "actualizado_vzla": "2026-01-18 07:56:35 -04",
+  "timestamp_utc": "2026-01-18T12:56:12.294695",
+  "actualizado_vzla": "2026-01-18 08:56:12 -04",
   "compra_segundo": {
-    "price": 457.0,
-    "name": "IAlexsI"
+    "price": 456.0,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 453.0,
-    "name": "ELFENIX7"
+    "price": 453.501,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 455.0,
+  "promedio": 454.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
