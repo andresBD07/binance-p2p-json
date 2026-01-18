@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T19:22:42.302824",
-  "actualizado_vzla": "2026-01-18 15:22:42 -04",
+  "timestamp_utc": "2026-01-18T19:37:28.953578",
+  "actualizado_vzla": "2026-01-18 15:37:28 -04",
   "compra_segundo": {
-    "price": 454.699,
-    "name": "Inv_Salovi"
+    "price": 454.5,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 453.5,
-    "name": "BLACKROCK22"
+    "price": 453.0,
+    "name": "TPhillips"
   },
-  "promedio": 454.1,
+  "promedio": 453.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
