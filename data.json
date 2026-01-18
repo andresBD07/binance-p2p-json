@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T15:50:24.905968",
-  "actualizado_vzla": "2026-01-18 11:50:24 -04",
+  "timestamp_utc": "2026-01-18T16:18:18.248286",
+  "actualizado_vzla": "2026-01-18 12:18:18 -04",
   "compra_segundo": {
-    "price": 458.4,
-    "name": "SaoriKido"
+    "price": 459.0,
+    "name": "REMESAFG"
   },
   "venta_maxima": {
-    "price": 458.0,
-    "name": "加密操作"
+    "price": 457.0,
+    "name": "notorius11"
   },
-  "promedio": 458.2,
+  "promedio": 458.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
