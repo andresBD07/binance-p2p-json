@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T14:37:50.778645",
-  "actualizado_vzla": "2026-01-18 10:37:50 -04",
+  "timestamp_utc": "2026-01-18T14:51:03.946435",
+  "actualizado_vzla": "2026-01-18 10:51:03 -04",
   "compra_segundo": {
-    "price": 458.9,
-    "name": "ExpressTime_"
+    "price": 458.95,
+    "name": "sami maracay "
   },
   "venta_maxima": {
-    "price": 457.1,
-    "name": "已連接"
+    "price": 458.0,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 458.0,
+  "promedio": 458.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
