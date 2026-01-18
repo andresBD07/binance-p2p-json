@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T16:57:43.903552",
-  "actualizado_vzla": "2026-01-18 12:57:43 -04",
+  "timestamp_utc": "2026-01-18T17:26:36.188258",
+  "actualizado_vzla": "2026-01-18 13:26:36 -04",
   "compra_segundo": {
-    "price": 458.94,
-    "name": "breintrader"
+    "price": 458.49,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
-    "price": 457.0,
-    "name": "已連接"
+    "price": 458.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 457.97,
+  "promedio": 458.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
