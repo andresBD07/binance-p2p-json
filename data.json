@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T05:00:23.712772",
-  "actualizado_vzla": "2026-01-19 01:00:23 -04",
+  "timestamp_utc": "2026-01-19T05:44:52.335568",
+  "actualizado_vzla": "2026-01-19 01:44:52 -04",
   "compra_segundo": {
-    "price": 458.0,
-    "name": "InvMiggy"
+    "price": 456.7,
+    "name": "CRIPTOMCNC"
   },
   "venta_maxima": {
-    "price": 448.006,
-    "name": "AndradeGascon"
+    "price": 448.2,
+    "name": "PotroXCripto"
   },
-  "promedio": 453.0,
+  "promedio": 452.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
