@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T11:31:51.255111",
-  "actualizado_vzla": "2026-01-19 07:31:51 -04",
+  "timestamp_utc": "2026-01-19T11:49:28.781266",
+  "actualizado_vzla": "2026-01-19 07:49:28 -04",
   "compra_segundo": {
-    "price": 450.0,
-    "name": "maikolmai"
+    "price": 449.0,
+    "name": "InvDelta"
   },
   "venta_maxima": {
-    "price": 448.801,
-    "name": "ElReyFaraon"
+    "price": 445.3,
+    "name": "TUCOLPAGOS"
   },
-  "promedio": 449.4,
+  "promedio": 447.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
