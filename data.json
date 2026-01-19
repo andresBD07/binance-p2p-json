@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T19:59:35.051691",
-  "actualizado_vzla": "2026-01-19 15:59:35 -04",
+  "timestamp_utc": "2026-01-19T20:34:33.416569",
+  "actualizado_vzla": "2026-01-19 16:34:33 -04",
   "compra_segundo": {
-    "price": 425.8,
-    "name": "Star_Trading"
+    "price": 426.999,
+    "name": "douglas1997"
   },
   "venta_maxima": {
-    "price": 427.0,
-    "name": "Bianchiplus"
+    "price": 429.0,
+    "name": "Godisgift"
   },
-  "promedio": 426.4,
+  "promedio": 428.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
