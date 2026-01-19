@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T15:39:11.271192",
-  "actualizado_vzla": "2026-01-19 11:39:11 -04",
+  "timestamp_utc": "2026-01-19T15:58:41.736996",
+  "actualizado_vzla": "2026-01-19 11:58:41 -04",
   "compra_segundo": {
-    "price": 444.4,
-    "name": "x-Maverick-x"
+    "price": 443.0,
+    "name": "TeresaCrip"
   },
   "venta_maxima": {
-    "price": 443.45,
-    "name": "RONIN2_0"
+    "price": 443.0,
+    "name": "Quick Payment"
   },
-  "promedio": 443.92,
+  "promedio": 443.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
