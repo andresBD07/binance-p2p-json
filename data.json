@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T22:48:25.858670",
-  "actualizado_vzla": "2026-01-19 18:48:25 -04",
+  "timestamp_utc": "2026-01-19T23:10:49.091980",
+  "actualizado_vzla": "2026-01-19 19:10:49 -04",
   "compra_segundo": {
-    "price": 424.84,
-    "name": "Kapo"
+    "price": 424.195,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 426.0,
+    "price": 424.5,
     "name": "-Godgiven-"
   },
-  "promedio": 425.42,
+  "promedio": 424.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
