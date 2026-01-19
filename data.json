@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T08:44:07.460117",
-  "actualizado_vzla": "2026-01-19 04:44:07 -04",
+  "timestamp_utc": "2026-01-19T09:19:52.338668",
+  "actualizado_vzla": "2026-01-19 05:19:52 -04",
   "compra_segundo": {
-    "price": 457.0,
-    "name": "CorvoMecanique"
+    "price": 456.0,
+    "name": "Osu199x"
   },
   "venta_maxima": {
     "price": 447.5,
     "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 452.25,
+  "promedio": 451.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
