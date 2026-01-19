@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T19:31:37.298355",
-  "actualizado_vzla": "2026-01-19 15:31:37 -04",
+  "timestamp_utc": "2026-01-19T19:46:19.595723",
+  "actualizado_vzla": "2026-01-19 15:46:19 -04",
   "compra_segundo": {
-    "price": 421.86,
-    "name": "RayoTrader"
+    "price": 424.0,
+    "name": "CRIPTOEXPRESS86"
   },
   "venta_maxima": {
-    "price": 421.607,
-    "name": "RAMVALL01"
+    "price": 422.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 421.73,
+  "promedio": 423.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
