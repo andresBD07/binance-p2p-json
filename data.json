@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-18T23:56:43.174548",
-  "actualizado_vzla": "2026-01-18 19:56:43 -04",
+  "timestamp_utc": "2026-01-19T02:30:20.827721",
+  "actualizado_vzla": "2026-01-18 22:30:20 -04",
   "compra_segundo": {
-    "price": 451.65,
-    "name": "JonPlatts"
+    "price": 454.0,
+    "name": "erengome04"
   },
   "venta_maxima": {
-    "price": 450.0,
-    "name": "TOPlevelS"
+    "price": 450.3,
+    "name": "SantiagoR19"
   },
-  "promedio": 450.82,
+  "promedio": 452.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
