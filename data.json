@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T19:46:19.595723",
-  "actualizado_vzla": "2026-01-19 15:46:19 -04",
+  "timestamp_utc": "2026-01-19T19:59:35.051691",
+  "actualizado_vzla": "2026-01-19 15:59:35 -04",
   "compra_segundo": {
-    "price": 424.0,
-    "name": "CRIPTOEXPRESS86"
+    "price": 425.8,
+    "name": "Star_Trading"
   },
   "venta_maxima": {
-    "price": 422.5,
-    "name": "-Godgiven-"
+    "price": 427.0,
+    "name": "Bianchiplus"
   },
-  "promedio": 423.25,
+  "promedio": 426.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
