@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T22:25:42.896998",
-  "actualizado_vzla": "2026-01-19 18:25:42 -04",
+  "timestamp_utc": "2026-01-19T22:48:25.858670",
+  "actualizado_vzla": "2026-01-19 18:48:25 -04",
   "compra_segundo": {
-    "price": 425.0,
-    "name": "Falcon_Trade-P2P"
+    "price": 424.84,
+    "name": "Kapo"
   },
   "venta_maxima": {
     "price": 426.0,
     "name": "-Godgiven-"
   },
-  "promedio": 425.5,
+  "promedio": 425.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
