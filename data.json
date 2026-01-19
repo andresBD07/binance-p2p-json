@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T21:53:53.934388",
-  "actualizado_vzla": "2026-01-19 17:53:53 -04",
+  "timestamp_utc": "2026-01-19T22:25:42.896998",
+  "actualizado_vzla": "2026-01-19 18:25:42 -04",
   "compra_segundo": {
-    "price": 424.5,
-    "name": "Trader-RRR"
+    "price": 425.0,
+    "name": "Falcon_Trade-P2P"
   },
   "venta_maxima": {
-    "price": 425.0,
+    "price": 426.0,
     "name": "-Godgiven-"
   },
-  "promedio": 424.75,
+  "promedio": 425.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
