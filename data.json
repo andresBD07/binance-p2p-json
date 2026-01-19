@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T21:40:47.040799",
-  "actualizado_vzla": "2026-01-19 17:40:47 -04",
+  "timestamp_utc": "2026-01-19T21:53:53.934388",
+  "actualizado_vzla": "2026-01-19 17:53:53 -04",
   "compra_segundo": {
-    "price": 424.0,
-    "name": "Fast-CambiosSeguro-"
+    "price": 424.5,
+    "name": "Trader-RRR"
   },
   "venta_maxima": {
     "price": 425.0,
-    "name": "BLACKROCK22"
+    "name": "-Godgiven-"
   },
-  "promedio": 424.5,
+  "promedio": 424.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
