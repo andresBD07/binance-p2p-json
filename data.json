@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T20:34:33.416569",
-  "actualizado_vzla": "2026-01-19 16:34:33 -04",
+  "timestamp_utc": "2026-01-19T20:53:08.882784",
+  "actualizado_vzla": "2026-01-19 16:53:08 -04",
   "compra_segundo": {
-    "price": 426.999,
-    "name": "douglas1997"
+    "price": 426.0,
+    "name": "Libélula29"
   },
   "venta_maxima": {
-    "price": 429.0,
-    "name": "Godisgift"
+    "price": 425.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 428.0,
+  "promedio": 425.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
