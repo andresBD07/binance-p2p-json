@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T16:42:53.300234",
-  "actualizado_vzla": "2026-01-19 12:42:53 -04",
+  "timestamp_utc": "2026-01-19T17:11:32.813968",
+  "actualizado_vzla": "2026-01-19 13:11:32 -04",
   "compra_segundo": {
-    "price": 422.0,
-    "name": "Dgca22"
+    "price": 420.9,
+    "name": "DIGITAL_CAMBIOS_PD"
   },
   "venta_maxima": {
-    "price": 421.0,
-    "name": "Miranda "
+    "price": 418.3,
+    "name": "cheey19"
   },
-  "promedio": 421.5,
+  "promedio": 419.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
