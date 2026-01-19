@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T15:02:34.295441",
-  "actualizado_vzla": "2026-01-19 11:02:34 -04",
+  "timestamp_utc": "2026-01-19T15:39:11.271192",
+  "actualizado_vzla": "2026-01-19 11:39:11 -04",
   "compra_segundo": {
-    "price": 444.8,
-    "name": "TraderImperial"
+    "price": 444.4,
+    "name": "x-Maverick-x"
   },
   "venta_maxima": {
-    "price": 443.15,
-    "name": "BLACKROCK22"
+    "price": 443.45,
+    "name": "RONIN2_0"
   },
-  "promedio": 443.98,
+  "promedio": 443.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
