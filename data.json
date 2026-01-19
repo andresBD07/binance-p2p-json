@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T17:11:32.813968",
-  "actualizado_vzla": "2026-01-19 13:11:32 -04",
+  "timestamp_utc": "2026-01-19T17:41:38.583749",
+  "actualizado_vzla": "2026-01-19 13:41:38 -04",
   "compra_segundo": {
-    "price": 420.9,
-    "name": "DIGITAL_CAMBIOS_PD"
+    "price": 425.8,
+    "name": "Plata_"
   },
   "venta_maxima": {
-    "price": 418.3,
-    "name": "cheey19"
+    "price": 423.201,
+    "name": "Servic-Karyguz"
   },
-  "promedio": 419.6,
+  "promedio": 424.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
