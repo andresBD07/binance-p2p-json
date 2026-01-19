@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T15:58:41.736996",
-  "actualizado_vzla": "2026-01-19 11:58:41 -04",
+  "timestamp_utc": "2026-01-19T16:42:53.300234",
+  "actualizado_vzla": "2026-01-19 12:42:53 -04",
   "compra_segundo": {
-    "price": 443.0,
-    "name": "TeresaCrip"
+    "price": 422.0,
+    "name": "Dgca22"
   },
   "venta_maxima": {
-    "price": 443.0,
-    "name": "Quick Payment"
+    "price": 421.0,
+    "name": "Miranda "
   },
-  "promedio": 443.0,
+  "promedio": 421.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
