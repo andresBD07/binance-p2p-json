@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-19T09:19:52.338668",
-  "actualizado_vzla": "2026-01-19 05:19:52 -04",
+  "timestamp_utc": "2026-01-19T09:55:17.487633",
+  "actualizado_vzla": "2026-01-19 05:55:17 -04",
   "compra_segundo": {
-    "price": 456.0,
-    "name": "Osu199x"
+    "price": 455.899,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
-    "price": 447.5,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 447.6,
+    "name": "ElReyFaraon"
   },
   "promedio": 451.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
