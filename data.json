@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T09:55:17.487633",
-  "actualizado_vzla": "2026-01-19 05:55:17 -04",
+  "timestamp_utc": "2026-01-19T10:37:33.959800",
+  "actualizado_vzla": "2026-01-19 06:37:33 -04",
   "compra_segundo": {
-    "price": 455.899,
-    "name": "TilinArberto"
+    "price": 453.6,
+    "name": "FastChangeSafeChange"
   },
   "venta_maxima": {
-    "price": 447.6,
-    "name": "ElReyFaraon"
+    "price": 448.0,
+    "name": "leomileo2022"
   },
-  "promedio": 451.75,
+  "promedio": 450.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
