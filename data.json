@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T07:55:33.693520",
-  "actualizado_vzla": "2026-01-19 03:55:33 -04",
+  "timestamp_utc": "2026-01-19T08:44:07.460117",
+  "actualizado_vzla": "2026-01-19 04:44:07 -04",
   "compra_segundo": {
-    "price": 458.5,
-    "name": "Cambios_MH2107"
+    "price": 457.0,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
     "price": 447.5,
     "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 453.0,
+  "promedio": 452.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
