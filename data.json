@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T16:55:53.309783",
-  "actualizado_vzla": "2026-01-20 12:55:53 -04",
+  "timestamp_utc": "2026-01-20T17:37:55.060620",
+  "actualizado_vzla": "2026-01-20 13:37:55 -04",
   "compra_segundo": {
-    "price": 443.8,
-    "name": "VENTASJM"
+    "price": 443.799,
+    "name": "CAMBIOEXPRES-JG"
   },
   "venta_maxima": {
-    "price": 443.7,
+    "price": 443.5,
     "name": "Biyt"
   },
-  "promedio": 443.75,
+  "promedio": 443.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
