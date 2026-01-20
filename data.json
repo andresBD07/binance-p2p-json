@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T21:41:21.968365",
-  "actualizado_vzla": "2026-01-20 17:41:21 -04",
+  "timestamp_utc": "2026-01-20T21:54:40.475860",
+  "actualizado_vzla": "2026-01-20 17:54:40 -04",
   "compra_segundo": {
     "price": 456.0,
-    "name": "Destin117"
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 455.0,
-    "name": "Godisgift"
+    "price": 454.002,
+    "name": "HarveySpecterTrader"
   },
-  "promedio": 455.5,
+  "promedio": 455.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
