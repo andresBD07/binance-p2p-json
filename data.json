@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T22:28:08.012246",
-  "actualizado_vzla": "2026-01-20 18:28:08 -04",
+  "timestamp_utc": "2026-01-20T22:47:04.330871",
+  "actualizado_vzla": "2026-01-20 18:47:04 -04",
   "compra_segundo": {
-    "price": 456.798,
-    "name": "Snayderk"
+    "price": 457.0,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
-    "price": 455.201,
-    "name": "LECHUGAEXPRESS"
+    "price": 456.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 456.0,
+  "promedio": 456.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
