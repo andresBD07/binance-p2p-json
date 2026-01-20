@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T07:51:57.304627",
-  "actualizado_vzla": "2026-01-20 03:51:57 -04",
+  "timestamp_utc": "2026-01-20T08:30:04.210991",
+  "actualizado_vzla": "2026-01-20 04:30:04 -04",
   "compra_segundo": {
-    "price": 423.0,
-    "name": "CambiosToday12"
+    "price": 422.99,
+    "name": "LinkVzla"
   },
   "venta_maxima": {
     "price": 415.231,
     "name": "carlosc69"
   },
-  "promedio": 419.12,
+  "promedio": 419.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
