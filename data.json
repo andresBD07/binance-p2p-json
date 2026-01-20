@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T10:02:07.620567",
-  "actualizado_vzla": "2026-01-20 06:02:07 -04",
+  "timestamp_utc": "2026-01-20T10:46:09.982073",
+  "actualizado_vzla": "2026-01-20 06:46:09 -04",
   "compra_segundo": {
-    "price": 420.899,
-    "name": "TokenSwift"
+    "price": 420.1,
+    "name": "saullopezh"
   },
   "venta_maxima": {
-    "price": 415.51,
-    "name": "dogshow"
+    "price": 415.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 418.2,
+  "promedio": 417.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
