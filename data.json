@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T14:40:25.316301",
-  "actualizado_vzla": "2026-01-20 10:40:25 -04",
+  "timestamp_utc": "2026-01-20T15:04:22.673369",
+  "actualizado_vzla": "2026-01-20 11:04:22 -04",
   "compra_segundo": {
-    "price": 454.785,
-    "name": "Andres83"
+    "price": 452.749,
+    "name": "SISISY"
   },
   "venta_maxima": {
-    "price": 450.51,
-    "name": "SasukeTrader"
+    "price": 451.2,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 452.65,
+  "promedio": 451.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
