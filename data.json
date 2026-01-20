@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-19T23:51:22.201574",
-  "actualizado_vzla": "2026-01-19 19:51:22 -04",
+  "timestamp_utc": "2026-01-20T01:24:56.583104",
+  "actualizado_vzla": "2026-01-19 21:24:56 -04",
   "compra_segundo": {
-    "price": 423.899,
-    "name": "LuicmarTrader"
+    "price": 423.999,
+    "name": "Anthonyil"
   },
   "venta_maxima": {
-    "price": 425.0,
-    "name": "VERTUOK"
+    "price": 423.5,
+    "name": "RONIN2_0"
   },
-  "promedio": 424.45,
+  "promedio": 423.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
