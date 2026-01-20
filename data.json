@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T11:55:50.082510",
-  "actualizado_vzla": "2026-01-20 07:55:50 -04",
+  "timestamp_utc": "2026-01-20T13:08:40.732383",
+  "actualizado_vzla": "2026-01-20 09:08:40 -04",
   "compra_segundo": {
-    "price": 419.0,
-    "name": "T_A_U_R_O--pro--"
+    "price": 436.5,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
-    "price": 417.0,
-    "name": "Bianchiplus"
+    "price": 450.0,
+    "name": "P2Prafafor"
   },
-  "promedio": 418.0,
+  "promedio": 443.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
