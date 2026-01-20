@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T15:04:22.673369",
-  "actualizado_vzla": "2026-01-20 11:04:22 -04",
+  "timestamp_utc": "2026-01-20T15:45:43.669306",
+  "actualizado_vzla": "2026-01-20 11:45:43 -04",
   "compra_segundo": {
-    "price": 452.749,
-    "name": "SISISY"
+    "price": 437.49,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 451.2,
-    "name": "Jin-Woo-Sung"
+    "price": 438.0,
+    "name": "Biyt"
   },
-  "promedio": 451.97,
+  "promedio": 437.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
