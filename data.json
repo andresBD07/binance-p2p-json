@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T20:19:47.673997",
-  "actualizado_vzla": "2026-01-20 16:19:47 -04",
+  "timestamp_utc": "2026-01-20T20:52:19.543869",
+  "actualizado_vzla": "2026-01-20 16:52:19 -04",
   "compra_segundo": {
-    "price": 448.899,
-    "name": "TradeWithAshley"
+    "price": 451.89,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 448.5,
-    "name": "All-inCrypto"
+    "price": 451.0,
+    "name": "ALASKA-"
   },
-  "promedio": 448.7,
+  "promedio": 451.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
