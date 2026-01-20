@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T13:08:40.732383",
-  "actualizado_vzla": "2026-01-20 09:08:40 -04",
+  "timestamp_utc": "2026-01-20T13:56:09.875855",
+  "actualizado_vzla": "2026-01-20 09:56:09 -04",
   "compra_segundo": {
-    "price": 436.5,
-    "name": "CambiosFacil"
+    "price": 452.5,
+    "name": "Inversiones_JV "
   },
   "venta_maxima": {
-    "price": 450.0,
-    "name": "P2Prafafor"
+    "price": 451.3,
+    "name": "Torontox"
   },
-  "promedio": 443.25,
+  "promedio": 451.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
