@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T16:17:16.751697",
-  "actualizado_vzla": "2026-01-20 12:17:16 -04",
+  "timestamp_utc": "2026-01-20T16:55:53.309783",
+  "actualizado_vzla": "2026-01-20 12:55:53 -04",
   "compra_segundo": {
-    "price": 441.493,
-    "name": "Fexyz"
+    "price": 443.8,
+    "name": "VENTASJM"
   },
   "venta_maxima": {
-    "price": 443.0,
+    "price": 443.7,
     "name": "Biyt"
   },
-  "promedio": 442.25,
+  "promedio": 443.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
