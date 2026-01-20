@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T11:13:08.653500",
-  "actualizado_vzla": "2026-01-20 07:13:08 -04",
+  "timestamp_utc": "2026-01-20T11:39:53.116526",
+  "actualizado_vzla": "2026-01-20 07:39:53 -04",
   "compra_segundo": {
-    "price": 419.8,
-    "name": "KANGRICRUSS"
+    "price": 418.9,
+    "name": "Lillie05"
   },
   "venta_maxima": {
-    "price": 416.5,
-    "name": "Keria23"
+    "price": 417.0,
+    "name": "Bianchiplus"
   },
-  "promedio": 418.15,
+  "promedio": 417.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
