@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T17:58:58.424494",
-  "actualizado_vzla": "2026-01-20 13:58:58 -04",
+  "timestamp_utc": "2026-01-20T19:07:29.046055",
+  "actualizado_vzla": "2026-01-20 15:07:29 -04",
   "compra_segundo": {
-    "price": 443.7,
-    "name": "MikasaExchange"
+    "price": 445.9,
+    "name": "CindysGroup"
   },
   "venta_maxima": {
-    "price": 442.5,
+    "price": 444.0,
     "name": "Biyt"
   },
-  "promedio": 443.1,
+  "promedio": 444.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
