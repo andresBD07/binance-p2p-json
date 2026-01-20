@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T23:32:54.342226",
-  "actualizado_vzla": "2026-01-20 19:32:54 -04",
+  "timestamp_utc": "2026-01-20T23:51:05.491332",
+  "actualizado_vzla": "2026-01-20 19:51:05 -04",
   "compra_segundo": {
-    "price": 456.79,
-    "name": "MERCADO ESTRATEGICO 2"
+    "price": 456.289,
+    "name": "-TheZ-"
   },
   "venta_maxima": {
-    "price": 458.0,
-    "name": "Godisgift"
+    "price": 453.8,
+    "name": "ShadoWM01"
   },
-  "promedio": 457.39,
+  "promedio": 455.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
