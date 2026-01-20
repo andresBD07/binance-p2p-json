@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T23:00:18.074143",
-  "actualizado_vzla": "2026-01-20 19:00:18 -04",
+  "timestamp_utc": "2026-01-20T23:32:54.342226",
+  "actualizado_vzla": "2026-01-20 19:32:54 -04",
   "compra_segundo": {
-    "price": 456.998,
-    "name": "Wil2589"
+    "price": 456.79,
+    "name": "MERCADO ESTRATEGICO 2"
   },
   "venta_maxima": {
-    "price": 457.0,
-    "name": "Biyt"
+    "price": 458.0,
+    "name": "Godisgift"
   },
-  "promedio": 457.0,
+  "promedio": 457.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
