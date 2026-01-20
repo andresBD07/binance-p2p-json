@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T01:24:56.583104",
-  "actualizado_vzla": "2026-01-19 21:24:56 -04",
+  "timestamp_utc": "2026-01-20T03:21:37.106554",
+  "actualizado_vzla": "2026-01-19 23:21:37 -04",
   "compra_segundo": {
-    "price": 423.999,
-    "name": "Anthonyil"
+    "price": 422.0,
+    "name": "TokenSwift"
   },
   "venta_maxima": {
-    "price": 423.5,
-    "name": "RONIN2_0"
+    "price": 421.0,
+    "name": "talepagos"
   },
-  "promedio": 423.75,
+  "promedio": 421.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
