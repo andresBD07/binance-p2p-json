@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T19:07:29.046055",
-  "actualizado_vzla": "2026-01-20 15:07:29 -04",
+  "timestamp_utc": "2026-01-20T20:19:47.673997",
+  "actualizado_vzla": "2026-01-20 16:19:47 -04",
   "compra_segundo": {
-    "price": 445.9,
-    "name": "CindysGroup"
+    "price": 448.899,
+    "name": "TradeWithAshley"
   },
   "venta_maxima": {
-    "price": 444.0,
-    "name": "Biyt"
+    "price": 448.5,
+    "name": "All-inCrypto"
   },
-  "promedio": 444.95,
+  "promedio": 448.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
