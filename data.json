@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T20:52:19.543869",
-  "actualizado_vzla": "2026-01-20 16:52:19 -04",
+  "timestamp_utc": "2026-01-20T21:20:05.918320",
+  "actualizado_vzla": "2026-01-20 17:20:05 -04",
   "compra_segundo": {
-    "price": 451.89,
-    "name": "CoinGonzo"
+    "price": 453.68,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 451.0,
-    "name": "ALASKA-"
+    "price": 453.0,
+    "name": "Biyt"
   },
-  "promedio": 451.44,
+  "promedio": 453.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
