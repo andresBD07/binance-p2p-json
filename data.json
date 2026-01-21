@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T13:56:45.772292",
-  "actualizado_vzla": "2026-01-21 09:56:45 -04",
+  "timestamp_utc": "2026-01-21T14:40:53.746834",
+  "actualizado_vzla": "2026-01-21 10:40:53 -04",
   "compra_segundo": {
-    "price": 461.0,
-    "name": "succubus"
+    "price": 457.498,
+    "name": "Diosesamor"
   },
   "venta_maxima": {
-    "price": 459.201,
-    "name": "All-inCrypto"
+    "price": 457.61,
+    "name": "已連接"
   },
-  "promedio": 460.1,
+  "promedio": 457.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
