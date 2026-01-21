@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T14:40:53.746834",
-  "actualizado_vzla": "2026-01-21 10:40:53 -04",
+  "timestamp_utc": "2026-01-21T15:15:12.128081",
+  "actualizado_vzla": "2026-01-21 11:15:12 -04",
   "compra_segundo": {
-    "price": 457.498,
-    "name": "Diosesamor"
+    "price": 459.9,
+    "name": "heiversuarez"
   },
   "venta_maxima": {
-    "price": 457.61,
-    "name": "已連接"
+    "price": 459.303,
+    "name": "Powergabo"
   },
-  "promedio": 457.55,
+  "promedio": 459.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
