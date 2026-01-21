@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T21:47:40.112192",
-  "actualizado_vzla": "2026-01-21 17:47:40 -04",
+  "timestamp_utc": "2026-01-21T22:12:19.602142",
+  "actualizado_vzla": "2026-01-21 18:12:19 -04",
   "compra_segundo": {
-    "price": 468.398,
-    "name": "Wil2589"
+    "price": 469.68,
+    "name": "Jact14"
   },
   "venta_maxima": {
-    "price": 469.0,
+    "price": 472.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 468.7,
+  "promedio": 470.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
