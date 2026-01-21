@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T13:09:30.420236",
-  "actualizado_vzla": "2026-01-21 09:09:30 -04",
+  "timestamp_utc": "2026-01-21T13:56:45.772292",
+  "actualizado_vzla": "2026-01-21 09:56:45 -04",
   "compra_segundo": {
-    "price": 461.89,
-    "name": "SmarPhon3"
+    "price": 461.0,
+    "name": "succubus"
   },
   "venta_maxima": {
-    "price": 462.8,
-    "name": "Tun Tun Sahur_"
+    "price": 459.201,
+    "name": "All-inCrypto"
   },
-  "promedio": 462.35,
+  "promedio": 460.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
