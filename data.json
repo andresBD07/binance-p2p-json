@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T20:46:36.437469",
-  "actualizado_vzla": "2026-01-21 16:46:36 -04",
+  "timestamp_utc": "2026-01-21T21:17:24.420868",
+  "actualizado_vzla": "2026-01-21 17:17:24 -04",
   "compra_segundo": {
-    "price": 466.1,
-    "name": "Star_Trading"
+    "price": 466.78,
+    "name": "勝利-Val-Exchanges-勝利"
   },
   "venta_maxima": {
-    "price": 465.5,
-    "name": "-Godgiven-"
+    "price": 467.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 465.8,
+  "promedio": 466.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
