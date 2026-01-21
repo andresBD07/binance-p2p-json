@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T09:45:18.070532",
-  "actualizado_vzla": "2026-01-21 05:45:18 -04",
+  "timestamp_utc": "2026-01-21T10:13:13.306589",
+  "actualizado_vzla": "2026-01-21 06:13:13 -04",
   "compra_segundo": {
-    "price": 462.427,
-    "name": "FlashPayy"
+    "price": 461.811,
+    "name": "rapidos15"
   },
   "venta_maxima": {
-    "price": 452.9,
-    "name": "Arjet_Trading"
+    "price": 453.005,
+    "name": "Asdru_especial08"
   },
-  "promedio": 457.66,
+  "promedio": 457.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
