@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-20T23:51:05.491332",
-  "actualizado_vzla": "2026-01-20 19:51:05 -04",
+  "timestamp_utc": "2026-01-21T01:24:45.704590",
+  "actualizado_vzla": "2026-01-20 21:24:45 -04",
   "compra_segundo": {
-    "price": 456.289,
-    "name": "-TheZ-"
+    "price": 457.5,
+    "name": "ChihiroXchanges"
   },
   "venta_maxima": {
-    "price": 453.8,
-    "name": "ShadoWM01"
+    "price": 455.56,
+    "name": "已連接"
   },
-  "promedio": 455.04,
+  "promedio": 456.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
