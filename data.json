@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T10:13:13.306589",
-  "actualizado_vzla": "2026-01-21 06:13:13 -04",
+  "timestamp_utc": "2026-01-21T10:50:36.535573",
+  "actualizado_vzla": "2026-01-21 06:50:36 -04",
   "compra_segundo": {
-    "price": 461.811,
-    "name": "rapidos15"
+    "price": 460.745,
+    "name": "urotrader"
   },
   "venta_maxima": {
-    "price": 453.005,
-    "name": "Asdru_especial08"
+    "price": 456.002,
+    "name": "ESTHER-RV"
   },
-  "promedio": 457.41,
+  "promedio": 458.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
