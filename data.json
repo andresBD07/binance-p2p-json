@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T23:42:13.135751",
-  "actualizado_vzla": "2026-01-21 19:42:13 -04",
+  "timestamp_utc": "2026-01-21T23:58:50.717887",
+  "actualizado_vzla": "2026-01-21 19:58:50 -04",
   "compra_segundo": {
     "price": 467.0,
-    "name": "HugginsLabsP2P"
+    "name": "SKATFORT"
   },
   "venta_maxima": {
-    "price": 471.0,
-    "name": "被放逐的狐狸"
+    "price": 468.005,
+    "name": "AryJr"
   },
-  "promedio": 469.0,
+  "promedio": 467.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
