@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T19:07:11.382026",
-  "actualizado_vzla": "2026-01-21 15:07:11 -04",
+  "timestamp_utc": "2026-01-21T19:42:25.616690",
+  "actualizado_vzla": "2026-01-21 15:42:25 -04",
   "compra_segundo": {
-    "price": 464.499,
-    "name": "TuPagoSeguro"
+    "price": 466.0,
+    "name": "cazing2230"
   },
   "venta_maxima": {
-    "price": 464.2,
-    "name": "安全与信任"
+    "price": 464.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 464.35,
+  "promedio": 465.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
