@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T11:58:29.775434",
-  "actualizado_vzla": "2026-01-21 07:58:29 -04",
+  "timestamp_utc": "2026-01-21T13:09:30.420236",
+  "actualizado_vzla": "2026-01-21 09:09:30 -04",
   "compra_segundo": {
-    "price": 473.996,
-    "name": "douglas1997"
+    "price": 461.89,
+    "name": "SmarPhon3"
   },
   "venta_maxima": {
-    "price": 468.5,
-    "name": "Tumundoexchange"
+    "price": 462.8,
+    "name": "Tun Tun Sahur_"
   },
-  "promedio": 471.25,
+  "promedio": 462.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
