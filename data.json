@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T01:24:45.704590",
-  "actualizado_vzla": "2026-01-20 21:24:45 -04",
+  "timestamp_utc": "2026-01-21T03:20:17.550293",
+  "actualizado_vzla": "2026-01-20 23:20:17 -04",
   "compra_segundo": {
-    "price": 457.5,
-    "name": "ChihiroXchanges"
+    "price": 457.999,
+    "name": "Kapo"
   },
   "venta_maxima": {
-    "price": 455.56,
-    "name": "已連接"
+    "price": 453.6,
+    "name": "rrmadrid92"
   },
-  "promedio": 456.53,
+  "promedio": 455.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
