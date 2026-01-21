@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T15:15:12.128081",
-  "actualizado_vzla": "2026-01-21 11:15:12 -04",
+  "timestamp_utc": "2026-01-21T15:52:25.526624",
+  "actualizado_vzla": "2026-01-21 11:52:25 -04",
   "compra_segundo": {
-    "price": 459.9,
-    "name": "heiversuarez"
+    "price": 461.9,
+    "name": "JesusGil"
   },
   "venta_maxima": {
-    "price": 459.303,
-    "name": "Powergabo"
+    "price": 463.005,
+    "name": "All-inCrypto"
   },
-  "promedio": 459.6,
+  "promedio": 462.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
