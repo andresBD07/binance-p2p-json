@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T15:52:25.526624",
-  "actualizado_vzla": "2026-01-21 11:52:25 -04",
+  "timestamp_utc": "2026-01-21T16:45:32.471123",
+  "actualizado_vzla": "2026-01-21 12:45:32 -04",
   "compra_segundo": {
-    "price": 461.9,
-    "name": "JesusGil"
+    "price": 463.47,
+    "name": "Juanvax07"
   },
   "venta_maxima": {
-    "price": 463.005,
-    "name": "All-inCrypto"
+    "price": 463.1,
+    "name": "安全与信任"
   },
-  "promedio": 462.45,
+  "promedio": 463.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
