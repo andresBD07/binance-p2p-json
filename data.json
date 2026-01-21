@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T17:43:45.076054",
-  "actualizado_vzla": "2026-01-21 13:43:45 -04",
+  "timestamp_utc": "2026-01-21T18:25:41.340389",
+  "actualizado_vzla": "2026-01-21 14:25:41 -04",
   "compra_segundo": {
-    "price": 462.109,
-    "name": "frankmlh"
+    "price": 462.94,
+    "name": "Betania"
   },
   "venta_maxima": {
-    "price": 463.0,
-    "name": "安全与信任"
+    "price": 463.1,
+    "name": "Twix"
   },
-  "promedio": 462.55,
+  "promedio": 463.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
