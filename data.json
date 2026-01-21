@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T20:02:45.798165",
-  "actualizado_vzla": "2026-01-21 16:02:45 -04",
+  "timestamp_utc": "2026-01-21T20:46:36.437469",
+  "actualizado_vzla": "2026-01-21 16:46:36 -04",
   "compra_segundo": {
-    "price": 466.5,
-    "name": "Fast-CambiosSeguro-"
+    "price": 466.1,
+    "name": "Star_Trading"
   },
   "venta_maxima": {
-    "price": 464.6,
-    "name": "GOMEZTUSOLUCION"
+    "price": 465.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 465.55,
+  "promedio": 465.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
