@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-21T07:30:43.216884",
-  "actualizado_vzla": "2026-01-21 03:30:43 -04",
+  "timestamp_utc": "2026-01-21T07:53:10.264254",
+  "actualizado_vzla": "2026-01-21 03:53:10 -04",
   "compra_segundo": {
-    "price": 463.0,
-    "name": "Manuel_eltrader"
+    "price": 463.5,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
     "price": 453.011,
     "name": "BOSS__313"
   },
-  "promedio": 458.01,
+  "promedio": 458.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
