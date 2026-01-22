@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T09:58:55.483204",
-  "actualizado_vzla": "2026-01-22 05:58:55 -04",
+  "timestamp_utc": "2026-01-22T10:41:23.167372",
+  "actualizado_vzla": "2026-01-22 06:41:23 -04",
   "compra_segundo": {
-    "price": 469.0,
-    "name": "GLOBAL_STEPHANIE_SPA"
+    "price": 468.5,
+    "name": "Zuko02"
   },
   "venta_maxima": {
-    "price": 464.01,
-    "name": "Extranjero"
+    "price": 464.0,
+    "name": "Keria23"
   },
-  "promedio": 466.5,
+  "promedio": 466.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
