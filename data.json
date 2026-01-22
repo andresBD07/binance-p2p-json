@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T06:50:13.661505",
-  "actualizado_vzla": "2026-01-22 02:50:13 -04",
+  "timestamp_utc": "2026-01-22T07:22:34.620361",
+  "actualizado_vzla": "2026-01-22 03:22:34 -04",
   "compra_segundo": {
-    "price": 469.5,
-    "name": "InvMiggy"
+    "price": 469.959,
+    "name": "ROCU22_VE"
   },
   "venta_maxima": {
-    "price": 463.61,
-    "name": "Josebat23"
+    "price": 464.0,
+    "name": "ORION-CAPITAL"
   },
-  "promedio": 466.56,
+  "promedio": 466.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
