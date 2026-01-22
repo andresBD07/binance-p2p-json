@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T04:56:26.656194",
-  "actualizado_vzla": "2026-01-22 00:56:26 -04",
+  "timestamp_utc": "2026-01-22T05:37:37.096838",
+  "actualizado_vzla": "2026-01-22 01:37:37 -04",
   "compra_segundo": {
-    "price": 469.0,
-    "name": "GLOBAL_STEPHANIE_SPA"
+    "price": 469.4,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 464.0,
-    "name": "NUM3R1T0 亲"
+    "price": 464.45,
+    "name": "MolinaJP_"
   },
-  "promedio": 466.5,
+  "promedio": 466.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
