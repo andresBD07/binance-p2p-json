@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T15:59:20.195186",
-  "actualizado_vzla": "2026-01-22 11:59:20 -04",
+  "timestamp_utc": "2026-01-22T16:48:33.888959",
+  "actualizado_vzla": "2026-01-22 12:48:33 -04",
   "compra_segundo": {
-    "price": 461.97,
-    "name": "German_Rios"
+    "price": 461.9,
+    "name": "mayerlingm"
   },
   "venta_maxima": {
-    "price": 462.0,
-    "name": "LPSM"
+    "price": 462.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 461.99,
+  "promedio": 462.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
