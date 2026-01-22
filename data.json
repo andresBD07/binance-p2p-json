@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T19:33:23.894033",
-  "actualizado_vzla": "2026-01-22 15:33:23 -04",
+  "timestamp_utc": "2026-01-22T19:51:00.117410",
+  "actualizado_vzla": "2026-01-22 15:51:00 -04",
   "compra_segundo": {
-    "price": 462.5,
-    "name": "CrisValenciAaAa"
+    "price": 463.1,
+    "name": "DIGITAL_CAMBIOS_PD"
   },
   "venta_maxima": {
     "price": 464.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 463.25,
+  "promedio": 463.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
