@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T11:01:45.377818",
-  "actualizado_vzla": "2026-01-22 07:01:45 -04",
+  "timestamp_utc": "2026-01-22T11:33:15.093127",
+  "actualizado_vzla": "2026-01-22 07:33:15 -04",
   "compra_segundo": {
-    "price": 468.0,
-    "name": "Jaed Crp"
+    "price": 467.19,
+    "name": "bobdeath2012"
   },
   "venta_maxima": {
-    "price": 464.4,
-    "name": "Keria23"
+    "price": 464.1,
+    "name": "Tucambiove"
   },
-  "promedio": 466.2,
+  "promedio": 465.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
