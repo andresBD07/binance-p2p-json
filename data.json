@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T22:54:31.617563",
-  "actualizado_vzla": "2026-01-22 18:54:31 -04",
+  "timestamp_utc": "2026-01-22T23:26:50.571200",
+  "actualizado_vzla": "2026-01-22 19:26:50 -04",
   "compra_segundo": {
-    "price": 466.0,
-    "name": "Ricardo"
+    "price": 465.0,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 466.5,
+    "price": 466.0,
     "name": "-Godgiven-"
   },
-  "promedio": 466.25,
+  "promedio": 465.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
