@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T21:58:03.106798",
-  "actualizado_vzla": "2026-01-22 17:58:03 -04",
+  "timestamp_utc": "2026-01-22T22:34:28.371433",
+  "actualizado_vzla": "2026-01-22 18:34:28 -04",
   "compra_segundo": {
-    "price": 465.899,
-    "name": "David-0199"
+    "price": 466.3,
+    "name": "CriptoWaffle"
   },
   "venta_maxima": {
-    "price": 467.0,
+    "price": 468.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 466.45,
+  "promedio": 467.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
