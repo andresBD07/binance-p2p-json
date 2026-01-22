@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T16:48:33.888959",
-  "actualizado_vzla": "2026-01-22 12:48:33 -04",
+  "timestamp_utc": "2026-01-22T17:20:29.572723",
+  "actualizado_vzla": "2026-01-22 13:20:29 -04",
   "compra_segundo": {
-    "price": 461.9,
-    "name": "mayerlingm"
+    "price": 462.0,
+    "name": "Elleonesleo"
   },
   "venta_maxima": {
-    "price": 462.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 463.0,
+    "name": "RONIN2_0"
   },
-  "promedio": 462.2,
+  "promedio": 462.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
