@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T02:30:51.847962",
-  "actualizado_vzla": "2026-01-21 22:30:51 -04",
+  "timestamp_utc": "2026-01-22T04:01:59.124116",
+  "actualizado_vzla": "2026-01-22 00:01:59 -04",
   "compra_segundo": {
-    "price": 467.49,
-    "name": "InversionesSDYJYS7"
+    "price": 468.3,
+    "name": "joshhy96"
   },
   "venta_maxima": {
     "price": 465.0,
-    "name": "安全与信任"
+    "name": "Marquez25"
   },
-  "promedio": 466.25,
+  "promedio": 466.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
