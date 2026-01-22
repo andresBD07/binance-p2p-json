@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-22T07:48:39.461161",
-  "actualizado_vzla": "2026-01-22 03:48:39 -04",
+  "timestamp_utc": "2026-01-22T08:17:40.660293",
+  "actualizado_vzla": "2026-01-22 04:17:40 -04",
   "compra_segundo": {
     "price": 470.0,
     "name": "Jesus-X"
   },
   "venta_maxima": {
-    "price": 463.999,
-    "name": "ORION-CAPITAL"
+    "price": 464.0,
+    "name": "Extranjero"
   },
   "promedio": 467.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
