@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T14:17:33.354593",
-  "actualizado_vzla": "2026-01-22 10:17:33 -04",
+  "timestamp_utc": "2026-01-22T14:53:01.651694",
+  "actualizado_vzla": "2026-01-22 10:53:01 -04",
   "compra_segundo": {
-    "price": 456.95,
-    "name": "ALTRIUM"
+    "price": 460.0,
+    "name": "Anthonympm"
   },
   "venta_maxima": {
-    "price": 460.0,
-    "name": "被放逐的狐狸"
+    "price": 463.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 458.48,
+  "promedio": 461.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
