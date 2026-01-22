@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T14:53:01.651694",
-  "actualizado_vzla": "2026-01-22 10:53:01 -04",
+  "timestamp_utc": "2026-01-22T15:32:43.561013",
+  "actualizado_vzla": "2026-01-22 11:32:43 -04",
   "compra_segundo": {
-    "price": 460.0,
-    "name": "Anthonympm"
+    "price": 463.299,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 463.5,
-    "name": "-Godgiven-"
+    "price": 463.001,
+    "name": "TAURUS85"
   },
-  "promedio": 461.75,
+  "promedio": 463.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
