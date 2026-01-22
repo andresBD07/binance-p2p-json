@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-22T23:46:13.923403",
-  "actualizado_vzla": "2026-01-22 19:46:13 -04",
+  "timestamp_utc": "2026-01-22T23:59:05.016747",
+  "actualizado_vzla": "2026-01-22 19:59:05 -04",
   "compra_segundo": {
-    "price": 464.99,
-    "name": "-ArExperienceChange-"
+    "price": 465.0,
+    "name": "PuenteDeCompraP2P"
   },
   "venta_maxima": {
     "price": 465.5,
