@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T23:26:50.571200",
-  "actualizado_vzla": "2026-01-22 19:26:50 -04",
+  "timestamp_utc": "2026-01-22T23:46:13.923403",
+  "actualizado_vzla": "2026-01-22 19:46:13 -04",
   "compra_segundo": {
-    "price": 465.0,
-    "name": "Guayoyoo"
+    "price": 464.99,
+    "name": "-ArExperienceChange-"
   },
   "venta_maxima": {
-    "price": 466.0,
+    "price": 465.5,
     "name": "-Godgiven-"
   },
-  "promedio": 465.5,
+  "promedio": 465.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
