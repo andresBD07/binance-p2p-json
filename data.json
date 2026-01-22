@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T05:37:37.096838",
-  "actualizado_vzla": "2026-01-22 01:37:37 -04",
+  "timestamp_utc": "2026-01-22T05:58:00.558722",
+  "actualizado_vzla": "2026-01-22 01:58:00 -04",
   "compra_segundo": {
-    "price": 469.4,
-    "name": "Trading_professional"
+    "price": 469.5,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
-    "price": 464.45,
-    "name": "MolinaJP_"
+    "price": 463.566,
+    "name": "usdtking"
   },
-  "promedio": 466.92,
+  "promedio": 466.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
