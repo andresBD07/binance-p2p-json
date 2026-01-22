@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T11:33:15.093127",
-  "actualizado_vzla": "2026-01-22 07:33:15 -04",
+  "timestamp_utc": "2026-01-22T11:51:55.008947",
+  "actualizado_vzla": "2026-01-22 07:51:55 -04",
   "compra_segundo": {
-    "price": 467.19,
-    "name": "bobdeath2012"
+    "price": 465.79,
+    "name": "guamo-1"
   },
   "venta_maxima": {
-    "price": 464.1,
-    "name": "Tucambiove"
+    "price": 464.0,
+    "name": "Guangzhou13"
   },
-  "promedio": 465.64,
+  "promedio": 464.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
