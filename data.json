@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T17:51:57.324927",
-  "actualizado_vzla": "2026-01-22 13:51:57 -04",
+  "timestamp_utc": "2026-01-22T18:31:02.830816",
+  "actualizado_vzla": "2026-01-22 14:31:02 -04",
   "compra_segundo": {
-    "price": 462.8,
-    "name": "Christiancinho"
+    "price": 463.2,
+    "name": "LaraExchange"
   },
   "venta_maxima": {
-    "price": 469.61,
-    "name": "Trading_professional"
+    "price": 462.1,
+    "name": "已連接"
   },
-  "promedio": 466.21,
+  "promedio": 462.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
