@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T11:48:43.536510",
-  "actualizado_vzla": "2026-01-23 07:48:43 -04",
+  "timestamp_utc": "2026-01-23T12:25:37.958167",
+  "actualizado_vzla": "2026-01-23 08:25:37 -04",
   "compra_segundo": {
-    "price": 458.0,
-    "name": "raParadas-31"
+    "price": 460.0,
+    "name": "valto22"
   },
   "venta_maxima": {
-    "price": 456.5,
-    "name": "Bianchiplus"
+    "price": 460.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 457.25,
+  "promedio": 460.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
