@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T13:59:21.429445",
-  "actualizado_vzla": "2026-01-23 09:59:21 -04",
+  "timestamp_utc": "2026-01-23T14:37:18.112671",
+  "actualizado_vzla": "2026-01-23 10:37:18 -04",
   "compra_segundo": {
-    "price": 462.5,
-    "name": "Kartozpk"
+    "price": 462.997,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 462.5,
-    "name": "已連接"
+    "price": 463.5,
+    "name": "BLACKROCK22"
   },
-  "promedio": 462.5,
+  "promedio": 463.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
