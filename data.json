@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T20:50:34.934275",
-  "actualizado_vzla": "2026-01-23 16:50:34 -04",
+  "timestamp_utc": "2026-01-23T21:16:29.210722",
+  "actualizado_vzla": "2026-01-23 17:16:29 -04",
   "compra_segundo": {
-    "price": 470.279,
-    "name": "Ed Money"
+    "price": 470.3,
+    "name": "Lucen_Lv71"
   },
   "venta_maxima": {
-    "price": 472.6,
-    "name": "HAWKEYE-1"
+    "price": 471.55,
+    "name": "Quick Payment"
   },
-  "promedio": 471.44,
+  "promedio": 470.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
