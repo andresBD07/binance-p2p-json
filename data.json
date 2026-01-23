@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T05:49:44.278881",
-  "actualizado_vzla": "2026-01-23 01:49:44 -04",
+  "timestamp_utc": "2026-01-23T06:23:14.283635",
+  "actualizado_vzla": "2026-01-23 02:23:14 -04",
   "compra_segundo": {
-    "price": 463.0,
-    "name": "AkExpress"
+    "price": 463.699,
+    "name": "jaro23"
   },
   "venta_maxima": {
     "price": 458.0,
     "name": "DavidCapital"
   },
-  "promedio": 460.5,
+  "promedio": 460.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
