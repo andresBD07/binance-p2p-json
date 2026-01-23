@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T15:57:54.007970",
-  "actualizado_vzla": "2026-01-23 11:57:54 -04",
+  "timestamp_utc": "2026-01-23T16:43:37.147093",
+  "actualizado_vzla": "2026-01-23 12:43:37 -04",
   "compra_segundo": {
-    "price": 465.9,
-    "name": "Waldofx"
+    "price": 468.65,
+    "name": "The-Hup_82"
   },
   "venta_maxima": {
-    "price": 467.55,
-    "name": "Huayin-cheng"
+    "price": 470.9,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 466.73,
+  "promedio": 469.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
