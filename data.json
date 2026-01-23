@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T21:52:58.846939",
-  "actualizado_vzla": "2026-01-23 17:52:58 -04",
+  "timestamp_utc": "2026-01-23T22:19:26.236763",
+  "actualizado_vzla": "2026-01-23 18:19:26 -04",
   "compra_segundo": {
-    "price": 470.398,
-    "name": "RSTrader_"
+    "price": 470.999,
+    "name": "TuAliadoCrypto-GL"
   },
   "venta_maxima": {
-    "price": 471.55,
-    "name": "Quick Payment"
+    "price": 474.001,
+    "name": "-Saitama-"
   },
-  "promedio": 470.97,
+  "promedio": 472.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
