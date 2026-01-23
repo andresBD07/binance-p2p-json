@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T22:55:37.336582",
-  "actualizado_vzla": "2026-01-23 18:55:37 -04",
+  "timestamp_utc": "2026-01-23T23:29:28.255961",
+  "actualizado_vzla": "2026-01-23 19:29:28 -04",
   "compra_segundo": {
-    "price": 471.8,
-    "name": "-----ELITE"
+    "price": 471.7,
+    "name": "愛PolarcitaCoin愛"
   },
   "venta_maxima": {
     "price": 472.3,
     "name": "安全与信任"
   },
-  "promedio": 472.05,
+  "promedio": 472.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
