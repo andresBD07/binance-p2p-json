@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-22T23:59:05.016747",
-  "actualizado_vzla": "2026-01-22 19:59:05 -04",
+  "timestamp_utc": "2026-01-23T02:26:37.105971",
+  "actualizado_vzla": "2026-01-22 22:26:37 -04",
   "compra_segundo": {
-    "price": 465.0,
-    "name": "PuenteDeCompraP2P"
+    "price": 463.516,
+    "name": "CambioSeguro0"
   },
   "venta_maxima": {
-    "price": 465.5,
-    "name": "-Godgiven-"
+    "price": 461.0,
+    "name": "Alex-MARTIN"
   },
-  "promedio": 465.25,
+  "promedio": 462.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
