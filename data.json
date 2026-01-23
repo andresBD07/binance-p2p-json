@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T04:49:01.842174",
-  "actualizado_vzla": "2026-01-23 00:49:01 -04",
+  "timestamp_utc": "2026-01-23T05:20:30.087731",
+  "actualizado_vzla": "2026-01-23 01:20:30 -04",
   "compra_segundo": {
-    "price": 462.639,
-    "name": "instantremitly "
+    "price": 463.0,
+    "name": "1_WidowsSon_Trader"
   },
   "venta_maxima": {
     "price": 458.0,
     "name": "DavidCapital"
   },
-  "promedio": 460.32,
+  "promedio": 460.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
