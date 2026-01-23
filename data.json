@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T19:52:28.565817",
-  "actualizado_vzla": "2026-01-23 15:52:28 -04",
+  "timestamp_utc": "2026-01-23T20:26:09.107991",
+  "actualizado_vzla": "2026-01-23 16:26:09 -04",
   "compra_segundo": {
-    "price": 470.0,
-    "name": "ProVerum"
+    "price": 470.05,
+    "name": "ALTRIUM"
   },
   "venta_maxima": {
-    "price": 471.51,
-    "name": "HAWKEYE-1"
+    "price": 472.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 470.75,
+  "promedio": 471.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
