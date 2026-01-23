@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T09:57:40.897324",
-  "actualizado_vzla": "2026-01-23 05:57:40 -04",
+  "timestamp_utc": "2026-01-23T10:37:09.953731",
+  "actualizado_vzla": "2026-01-23 06:37:09 -04",
   "compra_segundo": {
-    "price": 463.65,
-    "name": "ELEUTROS"
+    "price": 462.985,
+    "name": "colosenses4-2RVR1960"
   },
   "venta_maxima": {
-    "price": 458.0,
-    "name": "DavidCapital"
+    "price": 459.31,
+    "name": "Franb23"
   },
-  "promedio": 460.82,
+  "promedio": 461.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
