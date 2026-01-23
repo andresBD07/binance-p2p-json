@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T08:58:19.673342",
-  "actualizado_vzla": "2026-01-23 04:58:19 -04",
+  "timestamp_utc": "2026-01-23T09:39:41.226503",
+  "actualizado_vzla": "2026-01-23 05:39:41 -04",
   "compra_segundo": {
-    "price": 463.9,
-    "name": "Fast-CambiosSeguro-"
+    "price": 463.65,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
     "price": 458.0,
     "name": "DavidCapital"
   },
-  "promedio": 460.95,
+  "promedio": 460.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
