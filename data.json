@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T22:19:26.236763",
-  "actualizado_vzla": "2026-01-23 18:19:26 -04",
+  "timestamp_utc": "2026-01-23T22:42:09.717702",
+  "actualizado_vzla": "2026-01-23 18:42:09 -04",
   "compra_segundo": {
-    "price": 470.999,
-    "name": "TuAliadoCrypto-GL"
+    "price": 471.2,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 474.001,
+    "price": 472.201,
     "name": "-Saitama-"
   },
-  "promedio": 472.5,
+  "promedio": 471.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
