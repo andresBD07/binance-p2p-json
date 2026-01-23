@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T10:37:09.953731",
-  "actualizado_vzla": "2026-01-23 06:37:09 -04",
+  "timestamp_utc": "2026-01-23T10:58:03.311983",
+  "actualizado_vzla": "2026-01-23 06:58:03 -04",
   "compra_segundo": {
-    "price": 462.985,
-    "name": "colosenses4-2RVR1960"
+    "price": 462.0,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
-    "price": 459.31,
-    "name": "Franb23"
+    "price": 458.7,
+    "name": "Zuko02"
   },
-  "promedio": 461.15,
+  "promedio": 460.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
