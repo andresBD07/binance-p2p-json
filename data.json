@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-01-23T13:25:58.437847",
-  "actualizado_vzla": "2026-01-23 09:25:58 -04",
+  "timestamp_utc": "2026-01-23T13:59:21.429445",
+  "actualizado_vzla": "2026-01-23 09:59:21 -04",
   "compra_segundo": {
-    "price": 463.0,
-    "name": "ElCandidoP2P"
+    "price": 462.5,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 462.0,
+    "price": 462.5,
     "name": "已連接"
   },
   "promedio": 462.5,
