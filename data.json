@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T12:25:37.958167",
-  "actualizado_vzla": "2026-01-23 08:25:37 -04",
+  "timestamp_utc": "2026-01-23T13:25:58.437847",
+  "actualizado_vzla": "2026-01-23 09:25:58 -04",
   "compra_segundo": {
-    "price": 460.0,
-    "name": "valto22"
+    "price": 463.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 460.0,
-    "name": "-Godgiven-"
+    "price": 462.0,
+    "name": "已連接"
   },
-  "promedio": 460.0,
+  "promedio": 462.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
