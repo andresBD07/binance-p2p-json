@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T17:57:28.691395",
-  "actualizado_vzla": "2026-01-23 13:57:28 -04",
+  "timestamp_utc": "2026-01-23T18:48:43.824107",
+  "actualizado_vzla": "2026-01-23 14:48:43 -04",
   "compra_segundo": {
-    "price": 469.782,
-    "name": "Tu Cambiazo "
+    "price": 470.5,
+    "name": "comerciosLoreto"
   },
   "venta_maxima": {
-    "price": 470.0,
-    "name": "All-inCrypto"
+    "price": 471.0,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 469.89,
+  "promedio": 470.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
