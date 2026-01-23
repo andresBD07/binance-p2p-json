@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T14:59:05.913687",
-  "actualizado_vzla": "2026-01-23 10:59:05 -04",
+  "timestamp_utc": "2026-01-23T15:36:44.664436",
+  "actualizado_vzla": "2026-01-23 11:36:44 -04",
   "compra_segundo": {
-    "price": 463.95,
-    "name": "Kalev7"
+    "price": 464.9,
+    "name": "CambioSeguroCA"
   },
   "venta_maxima": {
-    "price": 463.5,
-    "name": "BLACKROCK22"
+    "price": 466.7,
+    "name": "Biyt"
   },
-  "promedio": 463.73,
+  "promedio": 465.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
