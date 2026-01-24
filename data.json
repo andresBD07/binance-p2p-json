@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T04:24:21.177875",
-  "actualizado_vzla": "2026-01-24 00:24:21 -04",
+  "timestamp_utc": "2026-01-24T04:55:54.986496",
+  "actualizado_vzla": "2026-01-24 00:55:54 -04",
   "compra_segundo": {
-    "price": 472.1,
-    "name": "TokenSwift"
+    "price": 472.9,
+    "name": "chaker9"
   },
   "venta_maxima": {
     "price": 471.55,
     "name": "Quick Payment"
   },
-  "promedio": 471.83,
+  "promedio": 472.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
