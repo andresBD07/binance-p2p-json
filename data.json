@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-24T10:13:18.687021",
-  "actualizado_vzla": "2026-01-24 06:13:18 -04",
+  "timestamp_utc": "2026-01-24T10:40:51.722649",
+  "actualizado_vzla": "2026-01-24 06:40:51 -04",
   "compra_segundo": {
-    "price": 473.0,
-    "name": "P2Prafafor"
+    "price": 472.999,
+    "name": "cambiosll"
   },
   "venta_maxima": {
     "price": 470.0,
