@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T23:00:06.281185",
-  "actualizado_vzla": "2026-01-24 19:00:06 -04",
+  "timestamp_utc": "2026-01-24T23:29:07.842537",
+  "actualizado_vzla": "2026-01-24 19:29:07 -04",
   "compra_segundo": {
-    "price": 479.5,
-    "name": "-----ELITE"
+    "price": 478.9,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 480.002,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 478.15,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 479.75,
+  "promedio": 478.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
