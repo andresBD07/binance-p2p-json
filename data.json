@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T13:21:28.214657",
-  "actualizado_vzla": "2026-01-24 09:21:28 -04",
+  "timestamp_utc": "2026-01-24T13:46:57.544985",
+  "actualizado_vzla": "2026-01-24 09:46:57 -04",
   "compra_segundo": {
-    "price": 473.888,
-    "name": "OikonomiaDigital"
+    "price": 473.0,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
-    "price": 473.0,
+    "price": 473.2,
     "name": "安全与信任"
   },
-  "promedio": 473.44,
+  "promedio": 473.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
