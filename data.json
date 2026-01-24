@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T07:17:51.995359",
-  "actualizado_vzla": "2026-01-24 03:17:52 -04",
+  "timestamp_utc": "2026-01-24T07:37:11.781853",
+  "actualizado_vzla": "2026-01-24 03:37:11 -04",
   "compra_segundo": {
-    "price": 473.8,
-    "name": "ADA_RAPIDO"
+    "price": 474.5,
+    "name": "LeNary-"
   },
   "venta_maxima": {
     "price": 470.0,
     "name": "securitylc"
   },
-  "promedio": 471.9,
+  "promedio": 472.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
