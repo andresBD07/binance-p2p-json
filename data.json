@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T16:58:31.847766",
-  "actualizado_vzla": "2026-01-24 12:58:31 -04",
+  "timestamp_utc": "2026-01-24T17:28:21.500352",
+  "actualizado_vzla": "2026-01-24 13:28:21 -04",
   "compra_segundo": {
-    "price": 475.59,
-    "name": "CORPORACIONJRA"
+    "price": 475.69,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 476.0,
-    "name": "Fakefk"
+    "price": 476.6,
+    "name": "BLACKROCK22"
   },
-  "promedio": 475.79,
+  "promedio": 476.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
