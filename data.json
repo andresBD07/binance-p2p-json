@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T10:40:51.722649",
-  "actualizado_vzla": "2026-01-24 06:40:51 -04",
+  "timestamp_utc": "2026-01-24T10:54:45.293397",
+  "actualizado_vzla": "2026-01-24 06:54:45 -04",
   "compra_segundo": {
-    "price": 472.999,
-    "name": "cambiosll"
+    "price": 473.5,
+    "name": "PayDesk_Figueroa"
   },
   "venta_maxima": {
     "price": 470.0,
     "name": "securitylc"
   },
-  "promedio": 471.5,
+  "promedio": 471.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
