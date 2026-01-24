@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T19:40:39.412998",
-  "actualizado_vzla": "2026-01-24 15:40:39 -04",
+  "timestamp_utc": "2026-01-24T19:53:42.989434",
+  "actualizado_vzla": "2026-01-24 15:53:42 -04",
   "compra_segundo": {
-    "price": 478.0,
-    "name": "Ecapitals Services Corp"
+    "price": 478.299,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 480.0,
-    "name": "Godisgift"
+    "price": 482.972,
+    "name": "LordTUKY"
   },
-  "promedio": 479.0,
+  "promedio": 480.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
