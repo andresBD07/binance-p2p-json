@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T23:29:07.842537",
-  "actualizado_vzla": "2026-01-24 19:29:07 -04",
+  "timestamp_utc": "2026-01-24T23:45:47.582330",
+  "actualizado_vzla": "2026-01-24 19:45:47 -04",
   "compra_segundo": {
-    "price": 478.9,
-    "name": "Fast-CambiosSeguro-"
+    "price": 478.0,
+    "name": "NavinSwap"
   },
   "venta_maxima": {
-    "price": 478.15,
-    "name": "MaestroRoshi-"
+    "price": 477.0,
+    "name": "RONIN2_0"
   },
-  "promedio": 478.52,
+  "promedio": 477.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
