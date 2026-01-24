@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T13:59:47.485521",
-  "actualizado_vzla": "2026-01-24 09:59:47 -04",
+  "timestamp_utc": "2026-01-24T14:31:18.379688",
+  "actualizado_vzla": "2026-01-24 10:31:18 -04",
   "compra_segundo": {
-    "price": 472.78,
-    "name": "CambiosToGo"
+    "price": 473.5,
+    "name": "LeNary-"
   },
   "venta_maxima": {
-    "price": 473.5,
+    "price": 474.5,
     "name": "安全与信任"
   },
-  "promedio": 473.14,
+  "promedio": 474.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
