@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T16:44:14.330278",
-  "actualizado_vzla": "2026-01-24 12:44:14 -04",
+  "timestamp_utc": "2026-01-24T16:58:31.847766",
+  "actualizado_vzla": "2026-01-24 12:58:31 -04",
   "compra_segundo": {
-    "price": 475.71,
-    "name": "BellaCripto"
+    "price": 475.59,
+    "name": "CORPORACIONJRA"
   },
   "venta_maxima": {
-    "price": 475.2,
-    "name": "Biyt"
+    "price": 476.0,
+    "name": "Fakefk"
   },
-  "promedio": 475.45,
+  "promedio": 475.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
