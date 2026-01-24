@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T11:39:24.812457",
-  "actualizado_vzla": "2026-01-24 07:39:24 -04",
+  "timestamp_utc": "2026-01-24T11:52:37.071163",
+  "actualizado_vzla": "2026-01-24 07:52:37 -04",
   "compra_segundo": {
-    "price": 473.999,
-    "name": "Richgato_Cambios"
+    "price": 473.98,
+    "name": "Ronin-EXCHANGE"
   },
   "venta_maxima": {
-    "price": 470.102,
+    "price": 470.257,
     "name": "Jl crissol "
   },
-  "promedio": 472.05,
+  "promedio": 472.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
