@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T14:31:18.379688",
-  "actualizado_vzla": "2026-01-24 10:31:18 -04",
+  "timestamp_utc": "2026-01-24T14:49:15.831600",
+  "actualizado_vzla": "2026-01-24 10:49:15 -04",
   "compra_segundo": {
-    "price": 473.5,
-    "name": "LeNary-"
+    "price": 473.99,
+    "name": "SparkThe14"
   },
   "venta_maxima": {
     "price": 474.5,
     "name": "安全与信任"
   },
-  "promedio": 474.0,
+  "promedio": 474.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
