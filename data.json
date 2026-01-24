@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T03:47:17.305642",
-  "actualizado_vzla": "2026-01-23 23:47:17 -04",
+  "timestamp_utc": "2026-01-24T04:24:21.177875",
+  "actualizado_vzla": "2026-01-24 00:24:21 -04",
   "compra_segundo": {
-    "price": 472.0,
-    "name": "CambiosOTB"
+    "price": 472.1,
+    "name": "TokenSwift"
   },
   "venta_maxima": {
     "price": 471.55,
     "name": "Quick Payment"
   },
-  "promedio": 471.77,
+  "promedio": 471.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
