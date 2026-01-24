@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T22:28:51.241674",
-  "actualizado_vzla": "2026-01-24 18:28:51 -04",
+  "timestamp_utc": "2026-01-24T22:47:21.196591",
+  "actualizado_vzla": "2026-01-24 18:47:21 -04",
   "compra_segundo": {
-    "price": 479.2,
-    "name": "Zeta_Cripto"
+    "price": 479.5,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
     "price": 480.002,
     "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 479.6,
+  "promedio": 479.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
