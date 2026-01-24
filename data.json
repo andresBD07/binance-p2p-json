@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T07:50:32.560769",
-  "actualizado_vzla": "2026-01-24 03:50:32 -04",
+  "timestamp_utc": "2026-01-24T08:20:25.561964",
+  "actualizado_vzla": "2026-01-24 04:20:25 -04",
   "compra_segundo": {
-    "price": 473.8,
-    "name": "ADA_RAPIDO"
+    "price": 473.77,
+    "name": "Jacob2820"
   },
   "venta_maxima": {
     "price": 470.0,
     "name": "securitylc"
   },
-  "promedio": 471.9,
+  "promedio": 471.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
