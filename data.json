@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T11:52:37.071163",
-  "actualizado_vzla": "2026-01-24 07:52:37 -04",
+  "timestamp_utc": "2026-01-24T12:41:29.447385",
+  "actualizado_vzla": "2026-01-24 08:41:29 -04",
   "compra_segundo": {
-    "price": 473.98,
-    "name": "Ronin-EXCHANGE"
+    "price": 473.6,
+    "name": "Gabo745"
   },
   "venta_maxima": {
-    "price": 470.257,
-    "name": "Jl crissol "
+    "price": 471.9,
+    "name": "Comercial Slim 2018 C A"
   },
-  "promedio": 472.12,
+  "promedio": 472.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
