@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-23T23:47:22.509909",
-  "actualizado_vzla": "2026-01-23 19:47:22 -04",
+  "timestamp_utc": "2026-01-24T00:00:32.616756",
+  "actualizado_vzla": "2026-01-23 20:00:32 -04",
   "compra_segundo": {
-    "price": 471.79,
-    "name": "METODICO"
+    "price": 471.899,
+    "name": "SkullCry"
   },
   "venta_maxima": {
-    "price": 472.3,
+    "price": 473.0,
     "name": "安全与信任"
   },
-  "promedio": 472.05,
+  "promedio": 472.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
