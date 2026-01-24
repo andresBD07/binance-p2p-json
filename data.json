@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T06:51:23.213570",
-  "actualizado_vzla": "2026-01-24 02:51:23 -04",
+  "timestamp_utc": "2026-01-24T07:17:51.995359",
+  "actualizado_vzla": "2026-01-24 03:17:52 -04",
   "compra_segundo": {
-    "price": 474.49,
-    "name": "BolivarCoin_PC"
+    "price": 473.8,
+    "name": "ADA_RAPIDO"
   },
   "venta_maxima": {
     "price": 470.0,
     "name": "securitylc"
   },
-  "promedio": 472.25,
+  "promedio": 471.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
