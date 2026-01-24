@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-24T06:18:33.952265",
-  "actualizado_vzla": "2026-01-24 02:18:33 -04",
+  "timestamp_utc": "2026-01-24T06:51:23.213570",
+  "actualizado_vzla": "2026-01-24 02:51:23 -04",
   "compra_segundo": {
-    "price": 473.6,
-    "name": "Cr-Seven"
+    "price": 474.49,
+    "name": "BolivarCoin_PC"
   },
   "venta_maxima": {
-    "price": 471.55,
-    "name": "Quick Payment"
+    "price": 470.0,
+    "name": "securitylc"
   },
-  "promedio": 472.58,
+  "promedio": 472.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
