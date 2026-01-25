@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T22:15:05.819765",
-  "actualizado_vzla": "2026-01-25 18:15:05 -04",
+  "timestamp_utc": "2026-01-25T22:40:58.559873",
+  "actualizado_vzla": "2026-01-25 18:40:58 -04",
   "compra_segundo": {
-    "price": 467.0,
-    "name": "LuzChanges"
+    "price": 466.0,
+    "name": "Cambios Ashley"
   },
   "venta_maxima": {
-    "price": 466.509,
-    "name": "SPYG"
+    "price": 466.5,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 466.75,
+  "promedio": 466.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
