@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T17:45:32.152545",
-  "actualizado_vzla": "2026-01-25 13:45:32 -04",
+  "timestamp_utc": "2026-01-25T17:58:27.362364",
+  "actualizado_vzla": "2026-01-25 13:58:27 -04",
   "compra_segundo": {
-    "price": 474.8,
-    "name": "Fast-CambiosSeguro-"
+    "price": 474.0,
+    "name": "Rapid-Pay-Exchance"
   },
   "venta_maxima": {
-    "price": 473.1,
-    "name": "Vegeta blue"
+    "price": 472.1,
+    "name": "CambioSExpreessS"
   },
-  "promedio": 473.95,
+  "promedio": 473.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
