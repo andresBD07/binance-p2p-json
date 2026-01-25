@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T18:59:52.347477",
-  "actualizado_vzla": "2026-01-25 14:59:52 -04",
+  "timestamp_utc": "2026-01-25T19:26:15.198555",
+  "actualizado_vzla": "2026-01-25 15:26:15 -04",
   "compra_segundo": {
-    "price": 473.4,
-    "name": "AskenLurom"
+    "price": 473.48,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 472.2,
-    "name": "SasukeTrader"
+    "price": 472.0,
+    "name": "jxsosa"
   },
-  "promedio": 472.8,
+  "promedio": 472.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
