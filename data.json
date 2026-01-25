@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T13:55:28.597767",
-  "actualizado_vzla": "2026-01-25 09:55:28 -04",
+  "timestamp_utc": "2026-01-25T14:27:08.662516",
+  "actualizado_vzla": "2026-01-25 10:27:08 -04",
   "compra_segundo": {
-    "price": 478.0,
-    "name": "CAMBIOS-SERVICIOS-ED"
+    "price": 478.695,
+    "name": "MACHUFI"
   },
   "venta_maxima": {
     "price": 478.0,
-    "name": "Godisgift"
+    "name": "TOPlevelS"
   },
-  "promedio": 478.0,
+  "promedio": 478.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
