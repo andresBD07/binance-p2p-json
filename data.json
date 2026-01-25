@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T23:45:47.485093",
-  "actualizado_vzla": "2026-01-25 19:45:47 -04",
+  "timestamp_utc": "2026-01-25T23:58:48.876806",
+  "actualizado_vzla": "2026-01-25 19:58:48 -04",
   "compra_segundo": {
-    "price": 467.999,
-    "name": "SqualoZ"
+    "price": 468.8,
+    "name": "Leyscambios"
   },
   "venta_maxima": {
-    "price": 467.5,
-    "name": "-Saitama-"
+    "price": 466.505,
+    "name": "HarveySpecterTrader"
   },
-  "promedio": 467.75,
+  "promedio": 467.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
