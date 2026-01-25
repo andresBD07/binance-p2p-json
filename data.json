@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T13:38:34.703833",
-  "actualizado_vzla": "2026-01-25 09:38:34 -04",
+  "timestamp_utc": "2026-01-25T13:55:28.597767",
+  "actualizado_vzla": "2026-01-25 09:55:28 -04",
   "compra_segundo": {
-    "price": 478.299,
-    "name": "GJA_25"
+    "price": 478.0,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 476.5,
-    "name": "securitylc"
+    "price": 478.0,
+    "name": "Godisgift"
   },
-  "promedio": 477.4,
+  "promedio": 478.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
