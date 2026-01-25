@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T17:58:27.362364",
-  "actualizado_vzla": "2026-01-25 13:58:27 -04",
+  "timestamp_utc": "2026-01-25T18:42:18.181422",
+  "actualizado_vzla": "2026-01-25 14:42:18 -04",
   "compra_segundo": {
-    "price": 474.0,
-    "name": "Rapid-Pay-Exchance"
+    "price": 473.4,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 472.1,
-    "name": "CambioSExpreessS"
+    "price": 472.3,
+    "name": "tomy0000"
   },
-  "promedio": 473.05,
+  "promedio": 472.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
