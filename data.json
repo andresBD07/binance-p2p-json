@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T14:59:35.177020",
-  "actualizado_vzla": "2026-01-25 10:59:35 -04",
+  "timestamp_utc": "2026-01-25T15:30:40.430444",
+  "actualizado_vzla": "2026-01-25 11:30:40 -04",
   "compra_segundo": {
-    "price": 478.9,
-    "name": "LaMundial"
+    "price": 479.5,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 478.2,
-    "name": "Brawcoins"
+    "price": 480.0,
+    "name": "Godisgift"
   },
-  "promedio": 478.55,
+  "promedio": 479.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
