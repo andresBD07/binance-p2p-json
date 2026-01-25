@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T16:37:52.259655",
-  "actualizado_vzla": "2026-01-25 12:37:52 -04",
+  "timestamp_utc": "2026-01-25T16:56:36.821852",
+  "actualizado_vzla": "2026-01-25 12:56:36 -04",
   "compra_segundo": {
-    "price": 479.499,
-    "name": "rausseol"
+    "price": 479.08,
+    "name": "Inversiones-Vicky"
   },
   "venta_maxima": {
-    "price": 478.0,
-    "name": "tomy0000"
+    "price": 477.9,
+    "name": "SasukeTrader"
   },
-  "promedio": 478.75,
+  "promedio": 478.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
