@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T06:46:01.350063",
-  "actualizado_vzla": "2026-01-25 02:46:01 -04",
+  "timestamp_utc": "2026-01-25T07:11:09.089232",
+  "actualizado_vzla": "2026-01-25 03:11:09 -04",
   "compra_segundo": {
-    "price": 478.89,
-    "name": "FastChangeSafeChange"
+    "price": 478.999,
+    "name": "Coinrich17"
   },
   "venta_maxima": {
-    "price": 473.401,
+    "price": 473.49,
     "name": "Star_Trading"
   },
-  "promedio": 476.15,
+  "promedio": 476.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
