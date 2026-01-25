@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T10:56:07.377838",
-  "actualizado_vzla": "2026-01-25 06:56:07 -04",
+  "timestamp_utc": "2026-01-25T11:25:17.979621",
+  "actualizado_vzla": "2026-01-25 07:25:17 -04",
   "compra_segundo": {
-    "price": 478.19,
-    "name": "Digitalimport"
+    "price": 477.995,
+    "name": "Asdru_especial08"
   },
   "venta_maxima": {
-    "price": 473.49,
-    "name": "Star_Trading"
+    "price": 473.5,
+    "name": "Bianchiplus"
   },
-  "promedio": 475.84,
+  "promedio": 475.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
