@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T15:30:40.430444",
-  "actualizado_vzla": "2026-01-25 11:30:40 -04",
+  "timestamp_utc": "2026-01-25T15:47:16.070163",
+  "actualizado_vzla": "2026-01-25 11:47:16 -04",
   "compra_segundo": {
-    "price": 479.5,
-    "name": "CripSeguro23"
+    "price": 479.98,
+    "name": "ZeusLikinG"
   },
   "venta_maxima": {
     "price": 480.0,
     "name": "Godisgift"
   },
-  "promedio": 479.75,
+  "promedio": 479.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
