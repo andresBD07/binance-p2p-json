@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T20:32:45.270318",
-  "actualizado_vzla": "2026-01-25 16:32:45 -04",
+  "timestamp_utc": "2026-01-25T20:51:13.683600",
+  "actualizado_vzla": "2026-01-25 16:51:13 -04",
   "compra_segundo": {
-    "price": 473.3,
-    "name": "Alvarez2005"
+    "price": 472.9,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 472.0,
-    "name": "jxsosa"
+    "price": 471.6,
+    "name": "app2112"
   },
-  "promedio": 472.65,
+  "promedio": 472.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
