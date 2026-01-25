@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T12:57:57.123263",
-  "actualizado_vzla": "2026-01-25 08:57:57 -04",
+  "timestamp_utc": "2026-01-25T13:38:34.703833",
+  "actualizado_vzla": "2026-01-25 09:38:34 -04",
   "compra_segundo": {
-    "price": 477.8,
-    "name": "BraianMay"
+    "price": 478.299,
+    "name": "GJA_25"
   },
   "venta_maxima": {
-    "price": 475.0,
-    "name": "Marketplace66"
+    "price": 476.5,
+    "name": "securitylc"
   },
-  "promedio": 476.4,
+  "promedio": 477.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
