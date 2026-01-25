@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T10:12:47.459716",
-  "actualizado_vzla": "2026-01-25 06:12:47 -04",
+  "timestamp_utc": "2026-01-25T10:41:59.263448",
+  "actualizado_vzla": "2026-01-25 06:41:59 -04",
   "compra_segundo": {
-    "price": 479.0,
-    "name": "Jaed Crp"
+    "price": 478.199,
+    "name": "Crypto-Expres"
   },
   "venta_maxima": {
-    "price": 472.505,
-    "name": "交換 納札米"
+    "price": 473.49,
+    "name": "Star_Trading"
   },
-  "promedio": 475.75,
+  "promedio": 475.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
