@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T02:38:48.495039",
-  "actualizado_vzla": "2026-01-24 22:38:48 -04",
+  "timestamp_utc": "2026-01-25T04:07:30.591536",
+  "actualizado_vzla": "2026-01-25 00:07:30 -04",
   "compra_segundo": {
-    "price": 474.888,
-    "name": "Ljh-11"
+    "price": 476.03,
+    "name": "Jacob2820"
   },
   "venta_maxima": {
-    "price": 474.1,
-    "name": "Inversiones-ADSC"
+    "price": 475.0,
+    "name": "securitylc"
   },
-  "promedio": 474.49,
+  "promedio": 475.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
