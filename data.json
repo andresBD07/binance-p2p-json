@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T14:46:48.040683",
-  "actualizado_vzla": "2026-01-25 10:46:48 -04",
+  "timestamp_utc": "2026-01-25T14:59:35.177020",
+  "actualizado_vzla": "2026-01-25 10:59:35 -04",
   "compra_segundo": {
-    "price": 478.96,
-    "name": "Dark90"
+    "price": 478.9,
+    "name": "LaMundial"
   },
   "venta_maxima": {
-    "price": 478.01,
-    "name": "jssepro"
+    "price": 478.2,
+    "name": "Brawcoins"
   },
-  "promedio": 478.49,
+  "promedio": 478.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
