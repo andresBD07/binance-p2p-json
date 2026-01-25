@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T18:42:18.181422",
-  "actualizado_vzla": "2026-01-25 14:42:18 -04",
+  "timestamp_utc": "2026-01-25T18:59:52.347477",
+  "actualizado_vzla": "2026-01-25 14:59:52 -04",
   "compra_segundo": {
     "price": 473.4,
-    "name": "TUCRIPseguro"
+    "name": "AskenLurom"
   },
   "venta_maxima": {
-    "price": 472.3,
-    "name": "tomy0000"
+    "price": 472.2,
+    "name": "SasukeTrader"
   },
-  "promedio": 472.85,
+  "promedio": 472.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
