@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-25T19:42:15.819376",
-  "actualizado_vzla": "2026-01-25 15:42:15 -04",
+  "timestamp_utc": "2026-01-25T19:55:29.030726",
+  "actualizado_vzla": "2026-01-25 15:55:29 -04",
   "compra_segundo": {
     "price": 473.399,
-    "name": "Idaniap2p"
+    "name": "PANDA1902"
   },
   "venta_maxima": {
     "price": 472.0,
-    "name": "jxsosa"
+    "name": "cheey19"
   },
   "promedio": 472.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
