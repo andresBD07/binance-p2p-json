@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T15:47:16.070163",
-  "actualizado_vzla": "2026-01-25 11:47:16 -04",
+  "timestamp_utc": "2026-01-25T16:00:19.618969",
+  "actualizado_vzla": "2026-01-25 12:00:19 -04",
   "compra_segundo": {
-    "price": 479.98,
-    "name": "ZeusLikinG"
+    "price": 479.8,
+    "name": "JRocastle85"
   },
   "venta_maxima": {
-    "price": 480.0,
-    "name": "Godisgift"
+    "price": 480.1,
+    "name": "-Saitama-"
   },
-  "promedio": 479.99,
+  "promedio": 479.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
