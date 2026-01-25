@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T07:34:49.945427",
-  "actualizado_vzla": "2026-01-25 03:34:49 -04",
+  "timestamp_utc": "2026-01-25T07:49:05.748464",
+  "actualizado_vzla": "2026-01-25 03:49:05 -04",
   "compra_segundo": {
     "price": 478.999,
     "name": "Coinrich17"
   },
   "venta_maxima": {
-    "price": 472.102,
-    "name": "jaro23"
+    "price": 472.0,
+    "name": "app2112"
   },
-  "promedio": 475.55,
+  "promedio": 475.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
