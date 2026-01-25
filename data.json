@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T21:36:27.259901",
-  "actualizado_vzla": "2026-01-25 17:36:27 -04",
+  "timestamp_utc": "2026-01-25T21:50:27.489710",
+  "actualizado_vzla": "2026-01-25 17:50:27 -04",
   "compra_segundo": {
-    "price": 468.78,
-    "name": "CambiosDelValle26"
+    "price": 468.2,
+    "name": "JJM_TRADER"
   },
   "venta_maxima": {
-    "price": 468.5,
-    "name": "Bianchiplus"
+    "price": 469.0,
+    "name": "bigmitchum"
   },
-  "promedio": 468.64,
+  "promedio": 468.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
