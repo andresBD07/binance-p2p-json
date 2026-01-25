@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-25T16:00:19.618969",
-  "actualizado_vzla": "2026-01-25 12:00:19 -04",
+  "timestamp_utc": "2026-01-25T16:37:52.259655",
+  "actualizado_vzla": "2026-01-25 12:37:52 -04",
   "compra_segundo": {
-    "price": 479.8,
-    "name": "JRocastle85"
+    "price": 479.499,
+    "name": "rausseol"
   },
   "venta_maxima": {
-    "price": 480.1,
-    "name": "-Saitama-"
+    "price": 478.0,
+    "name": "tomy0000"
   },
-  "promedio": 479.95,
+  "promedio": 478.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
