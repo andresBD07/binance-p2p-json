@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T19:40:17.798642",
-  "actualizado_vzla": "2026-01-26 15:40:17 -04",
+  "timestamp_utc": "2026-01-26T19:55:48.700820",
+  "actualizado_vzla": "2026-01-26 15:55:48 -04",
   "compra_segundo": {
-    "price": 500.0,
-    "name": "xJamgM"
+    "price": 502.0,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 505.8,
-    "name": "Godisgift"
+    "price": 504.0,
+    "name": "BerracoT"
   },
-  "promedio": 502.9,
+  "promedio": 503.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
