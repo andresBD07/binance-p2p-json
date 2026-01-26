@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T21:33:57.365597",
-  "actualizado_vzla": "2026-01-26 17:33:57 -04",
+  "timestamp_utc": "2026-01-26T21:52:51.194391",
+  "actualizado_vzla": "2026-01-26 17:52:51 -04",
   "compra_segundo": {
-    "price": 509.799,
-    "name": "GlobalEth"
+    "price": 509.999,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 508.801,
-    "name": "-Saitama-"
+    "price": 509.5,
+    "name": "ALASKA-"
   },
-  "promedio": 509.3,
+  "promedio": 509.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
