@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T07:55:10.102885",
-  "actualizado_vzla": "2026-01-26 03:55:10 -04",
+  "timestamp_utc": "2026-01-26T08:42:47.829216",
+  "actualizado_vzla": "2026-01-26 04:42:47 -04",
   "compra_segundo": {
     "price": 478.0,
     "name": "CriptoVa10"
   },
   "venta_maxima": {
-    "price": 470.15,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 470.2,
+    "name": "leomileo2022"
   },
-  "promedio": 474.07,
+  "promedio": 474.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
