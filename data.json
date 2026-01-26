@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-26T07:37:30.038926",
-  "actualizado_vzla": "2026-01-26 03:37:30 -04",
+  "timestamp_utc": "2026-01-26T07:55:10.102885",
+  "actualizado_vzla": "2026-01-26 03:55:10 -04",
   "compra_segundo": {
-    "price": 477.99,
-    "name": "_CHIGUIRITO_"
+    "price": 478.0,
+    "name": "CriptoVa10"
   },
   "venta_maxima": {
     "price": 470.15,
