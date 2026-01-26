@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T05:47:46.932250",
-  "actualizado_vzla": "2026-01-26 01:47:46 -04",
+  "timestamp_utc": "2026-01-26T06:19:48.741585",
+  "actualizado_vzla": "2026-01-26 02:19:48 -04",
   "compra_segundo": {
     "price": 478.0,
     "name": "CriptoVa10"
   },
   "venta_maxima": {
-    "price": 470.602,
-    "name": "CriollosMONEY"
+    "price": 471.001,
+    "name": "NexusPremiun"
   },
-  "promedio": 474.3,
+  "promedio": 474.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
