@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T17:54:12.394813",
-  "actualizado_vzla": "2026-01-26 13:54:12 -04",
+  "timestamp_utc": "2026-01-26T18:42:16.049710",
+  "actualizado_vzla": "2026-01-26 14:42:16 -04",
   "compra_segundo": {
-    "price": 492.999,
-    "name": "Jessica1003"
+    "price": 503.222,
+    "name": "BTC-CambiosP2P"
   },
   "venta_maxima": {
-    "price": 493.75,
-    "name": "BerracoT"
+    "price": 505.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 493.37,
+  "promedio": 504.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
