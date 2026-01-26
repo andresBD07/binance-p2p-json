@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T10:32:51.299124",
-  "actualizado_vzla": "2026-01-26 06:32:51 -04",
+  "timestamp_utc": "2026-01-26T10:57:00.936501",
+  "actualizado_vzla": "2026-01-26 06:57:00 -04",
   "compra_segundo": {
-    "price": 475.1,
-    "name": "Bisael_Exchange"
+    "price": 475.2,
+    "name": "Caship30"
   },
   "venta_maxima": {
-    "price": 470.6,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 470.62,
+    "name": "davzotrading"
   },
-  "promedio": 472.85,
+  "promedio": 472.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
