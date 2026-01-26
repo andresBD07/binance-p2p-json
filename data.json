@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T11:29:19.095831",
-  "actualizado_vzla": "2026-01-26 07:29:19 -04",
+  "timestamp_utc": "2026-01-26T11:47:16.343058",
+  "actualizado_vzla": "2026-01-26 07:47:16 -04",
   "compra_segundo": {
-    "price": 474.0,
-    "name": "Brakewing2018"
+    "price": 473.9,
+    "name": "Vane_CARDONAGROUP"
   },
   "venta_maxima": {
-    "price": 472.5,
-    "name": "SPYG"
+    "price": 472.701,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 473.25,
+  "promedio": 473.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
