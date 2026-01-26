@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T14:35:40.328223",
-  "actualizado_vzla": "2026-01-26 10:35:40 -04",
+  "timestamp_utc": "2026-01-26T15:00:45.276799",
+  "actualizado_vzla": "2026-01-26 11:00:45 -04",
   "compra_segundo": {
-    "price": 479.125,
-    "name": "GaAle19"
+    "price": 481.8,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 478.5,
-    "name": "cazing2230-2"
+    "price": 481.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 478.81,
+  "promedio": 481.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
