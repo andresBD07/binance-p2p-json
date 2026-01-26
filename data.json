@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T10:57:00.936501",
-  "actualizado_vzla": "2026-01-26 06:57:00 -04",
+  "timestamp_utc": "2026-01-26T11:29:19.095831",
+  "actualizado_vzla": "2026-01-26 07:29:19 -04",
   "compra_segundo": {
-    "price": 475.2,
-    "name": "Caship30"
+    "price": 474.0,
+    "name": "Brakewing2018"
   },
   "venta_maxima": {
-    "price": 470.62,
-    "name": "davzotrading"
+    "price": 472.5,
+    "name": "SPYG"
   },
-  "promedio": 472.91,
+  "promedio": 473.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
