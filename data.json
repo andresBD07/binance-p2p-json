@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T22:48:53.159168",
-  "actualizado_vzla": "2026-01-26 18:48:53 -04",
+  "timestamp_utc": "2026-01-26T23:13:18.039462",
+  "actualizado_vzla": "2026-01-26 19:13:18 -04",
   "compra_segundo": {
-    "price": 512.895,
-    "name": "R1skTaker"
+    "price": 512.28,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 511.12,
-    "name": "VECTURAFX"
+    "price": 514.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 512.01,
+  "promedio": 513.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
