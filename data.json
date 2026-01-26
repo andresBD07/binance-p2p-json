@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T19:13:13.747144",
-  "actualizado_vzla": "2026-01-26 15:13:13 -04",
+  "timestamp_utc": "2026-01-26T19:40:17.798642",
+  "actualizado_vzla": "2026-01-26 15:40:17 -04",
   "compra_segundo": {
-    "price": 500.5,
-    "name": "LeNary-"
+    "price": 500.0,
+    "name": "xJamgM"
   },
   "venta_maxima": {
-    "price": 504.0,
-    "name": "Biyt"
+    "price": 505.8,
+    "name": "Godisgift"
   },
-  "promedio": 502.25,
+  "promedio": 502.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
