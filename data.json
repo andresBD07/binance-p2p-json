@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T13:09:15.337353",
-  "actualizado_vzla": "2026-01-26 09:09:15 -04",
+  "timestamp_utc": "2026-01-26T13:54:50.090546",
+  "actualizado_vzla": "2026-01-26 09:54:50 -04",
   "compra_segundo": {
-    "price": 471.889,
-    "name": "Crypto_InvestVEN"
+    "price": 470.0,
+    "name": "CAMBIOME"
   },
   "venta_maxima": {
-    "price": 470.5,
-    "name": "MaxuelTrader"
+    "price": 472.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 471.19,
+  "promedio": 471.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
