@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T15:00:45.276799",
-  "actualizado_vzla": "2026-01-26 11:00:45 -04",
+  "timestamp_utc": "2026-01-26T15:40:58.282462",
+  "actualizado_vzla": "2026-01-26 11:40:58 -04",
   "compra_segundo": {
-    "price": 481.8,
-    "name": "LelysMed"
+    "price": 489.998,
+    "name": "Inversiones-Bell12"
   },
   "venta_maxima": {
-    "price": 481.0,
-    "name": "BLACKROCK22"
+    "price": 491.0,
+    "name": "Biyt"
   },
-  "promedio": 481.4,
+  "promedio": 490.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
