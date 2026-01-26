@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T16:50:32.832958",
-  "actualizado_vzla": "2026-01-26 12:50:32 -04",
+  "timestamp_utc": "2026-01-26T17:25:10.368699",
+  "actualizado_vzla": "2026-01-26 13:25:10 -04",
   "compra_segundo": {
-    "price": 511.4,
-    "name": "raParadas-31"
+    "price": 505.699,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 514.5,
-    "name": "Biyt"
+    "price": 515.0,
+    "name": "ma3lem"
   },
-  "promedio": 512.95,
+  "promedio": 510.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
