@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T09:19:39.551747",
-  "actualizado_vzla": "2026-01-26 05:19:39 -04",
+  "timestamp_utc": "2026-01-26T09:54:11.169423",
+  "actualizado_vzla": "2026-01-26 05:54:11 -04",
   "compra_segundo": {
-    "price": 477.9,
-    "name": "P2Prafafor"
+    "price": 476.9,
+    "name": "caguy"
   },
   "venta_maxima": {
-    "price": 470.3,
+    "price": 470.6,
     "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 474.1,
+  "promedio": 473.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
