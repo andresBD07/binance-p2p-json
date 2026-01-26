@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T06:19:48.741585",
-  "actualizado_vzla": "2026-01-26 02:19:48 -04",
+  "timestamp_utc": "2026-01-26T07:00:00.959373",
+  "actualizado_vzla": "2026-01-26 03:00:00 -04",
   "compra_segundo": {
     "price": 478.0,
-    "name": "CriptoVa10"
+    "name": "FlowMoney"
   },
   "venta_maxima": {
-    "price": 471.001,
-    "name": "NexusPremiun"
+    "price": 470.15,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 474.5,
+  "promedio": 474.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
