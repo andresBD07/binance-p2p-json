@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T16:01:25.672595",
-  "actualizado_vzla": "2026-01-26 12:01:25 -04",
+  "timestamp_utc": "2026-01-26T16:50:32.832958",
+  "actualizado_vzla": "2026-01-26 12:50:32 -04",
   "compra_segundo": {
-    "price": 493.0,
-    "name": "Exchange-172"
+    "price": 511.4,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 498.5,
-    "name": "cazing2230-2"
+    "price": 514.5,
+    "name": "Biyt"
   },
-  "promedio": 495.75,
+  "promedio": 512.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
