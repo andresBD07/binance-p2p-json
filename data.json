@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T13:54:50.090546",
-  "actualizado_vzla": "2026-01-26 09:54:50 -04",
+  "timestamp_utc": "2026-01-26T14:35:40.328223",
+  "actualizado_vzla": "2026-01-26 10:35:40 -04",
   "compra_segundo": {
-    "price": 470.0,
-    "name": "CAMBIOME"
+    "price": 479.125,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 472.5,
-    "name": "-Godgiven-"
+    "price": 478.5,
+    "name": "cazing2230-2"
   },
-  "promedio": 471.25,
+  "promedio": 478.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
