@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-26T09:54:11.169423",
-  "actualizado_vzla": "2026-01-26 05:54:11 -04",
+  "timestamp_utc": "2026-01-26T10:32:51.299124",
+  "actualizado_vzla": "2026-01-26 06:32:51 -04",
   "compra_segundo": {
-    "price": 476.9,
-    "name": "caguy"
+    "price": 475.1,
+    "name": "Bisael_Exchange"
   },
   "venta_maxima": {
     "price": 470.6,
     "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 473.75,
+  "promedio": 472.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
