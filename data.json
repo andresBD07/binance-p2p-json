@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T09:53:34.873833",
-  "actualizado_vzla": "2026-01-27 05:53:34 -04",
+  "timestamp_utc": "2026-01-27T10:31:15.543378",
+  "actualizado_vzla": "2026-01-27 06:31:15 -04",
   "compra_segundo": {
-    "price": 523.999,
-    "name": "Coinrich17"
+    "price": 523.299,
+    "name": "CesarRodriguez53"
   },
   "venta_maxima": {
-    "price": 519.55,
-    "name": "CriiptoEnergy"
+    "price": 520.0,
+    "name": "talepagos"
   },
-  "promedio": 521.77,
+  "promedio": 521.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
