@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T07:16:26.284430",
-  "actualizado_vzla": "2026-01-27 03:16:26 -04",
+  "timestamp_utc": "2026-01-27T07:45:07.486787",
+  "actualizado_vzla": "2026-01-27 03:45:07 -04",
   "compra_segundo": {
-    "price": 524.999,
-    "name": "LECHUGAEXPRESS"
+    "price": 524.9,
+    "name": "yessicatrading"
   },
   "venta_maxima": {
-    "price": 515.9,
-    "name": "CJ2001"
+    "price": 516.35,
+    "name": "willbyruz"
   },
-  "promedio": 520.45,
+  "promedio": 520.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
