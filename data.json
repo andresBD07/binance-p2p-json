@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T02:28:23.200432",
-  "actualizado_vzla": "2026-01-26 22:28:23 -04",
+  "timestamp_utc": "2026-01-27T03:59:25.976792",
+  "actualizado_vzla": "2026-01-26 23:59:25 -04",
   "compra_segundo": {
-    "price": 519.5,
-    "name": "CryptoMendoza-"
+    "price": 522.799,
+    "name": "-APPARATUS-"
   },
   "venta_maxima": {
-    "price": 517.0,
-    "name": "-Godgiven-"
+    "price": 518.1,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 518.25,
+  "promedio": 520.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
