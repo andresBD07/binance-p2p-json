@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T06:43:20.742147",
-  "actualizado_vzla": "2026-01-27 02:43:20 -04",
+  "timestamp_utc": "2026-01-27T07:16:26.284430",
+  "actualizado_vzla": "2026-01-27 03:16:26 -04",
   "compra_segundo": {
-    "price": 524.9,
-    "name": "raParadas-31"
+    "price": 524.999,
+    "name": "LECHUGAEXPRESS"
   },
   "venta_maxima": {
-    "price": 516.4,
-    "name": "JExpress"
+    "price": 515.9,
+    "name": "CJ2001"
   },
-  "promedio": 520.65,
+  "promedio": 520.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
