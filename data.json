@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T21:55:20.332848",
-  "actualizado_vzla": "2026-01-27 17:55:20 -04",
+  "timestamp_utc": "2026-01-27T22:29:52.269332",
+  "actualizado_vzla": "2026-01-27 18:29:52 -04",
   "compra_segundo": {
-    "price": 549.14,
-    "name": "Cambiocripto64"
+    "price": 549.59,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
-    "price": 554.5,
-    "name": "Biyt"
+    "price": 553.5,
+    "name": "-Saitama-"
   },
-  "promedio": 551.82,
+  "promedio": 551.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
