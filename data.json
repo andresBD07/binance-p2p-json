@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T20:32:09.718174",
-  "actualizado_vzla": "2026-01-27 16:32:09 -04",
+  "timestamp_utc": "2026-01-27T20:53:35.362286",
+  "actualizado_vzla": "2026-01-27 16:53:35 -04",
   "compra_segundo": {
-    "price": 549.1,
-    "name": "Lucen_Lv71"
+    "price": 549.0,
+    "name": "Soy-Tu-Trader"
   },
   "venta_maxima": {
     "price": 553.0,
     "name": "Biyt"
   },
-  "promedio": 551.05,
+  "promedio": 551.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
