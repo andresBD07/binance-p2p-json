@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T22:29:52.269332",
-  "actualizado_vzla": "2026-01-27 18:29:52 -04",
+  "timestamp_utc": "2026-01-27T22:50:55.836306",
+  "actualizado_vzla": "2026-01-27 18:50:55 -04",
   "compra_segundo": {
-    "price": 549.59,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 548.25,
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
-    "price": 553.5,
+    "price": 552.0,
     "name": "-Saitama-"
   },
-  "promedio": 551.55,
+  "promedio": 550.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
