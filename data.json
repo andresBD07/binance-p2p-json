@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T21:21:07.374147",
-  "actualizado_vzla": "2026-01-27 17:21:07 -04",
+  "timestamp_utc": "2026-01-27T21:41:36.511936",
+  "actualizado_vzla": "2026-01-27 17:41:36 -04",
   "compra_segundo": {
-    "price": 548.85,
-    "name": "Jennser202"
+    "price": 549.2,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
     "price": 553.0,
     "name": "Biyt"
   },
-  "promedio": 550.92,
+  "promedio": 551.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
