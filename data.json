@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T23:40:55.257869",
-  "actualizado_vzla": "2026-01-27 19:40:55 -04",
+  "timestamp_utc": "2026-01-27T23:55:32.715833",
+  "actualizado_vzla": "2026-01-27 19:55:32 -04",
   "compra_segundo": {
-    "price": 548.3,
-    "name": "Asdru_especial08"
+    "price": 548.2,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 551.0,
-    "name": "-Saitama-"
+    "price": 548.5,
+    "name": "diomedez14"
   },
-  "promedio": 549.65,
+  "promedio": 548.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
