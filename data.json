@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T05:54:22.945851",
-  "actualizado_vzla": "2026-01-27 01:54:22 -04",
+  "timestamp_utc": "2026-01-27T06:43:20.742147",
+  "actualizado_vzla": "2026-01-27 02:43:20 -04",
   "compra_segundo": {
     "price": 524.9,
-    "name": "yessicatrading"
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 516.6,
+    "price": 516.4,
     "name": "JExpress"
   },
-  "promedio": 520.75,
+  "promedio": 520.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
