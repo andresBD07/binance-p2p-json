@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T03:59:25.976792",
-  "actualizado_vzla": "2026-01-26 23:59:25 -04",
+  "timestamp_utc": "2026-01-27T04:53:56.830277",
+  "actualizado_vzla": "2026-01-27 00:53:56 -04",
   "compra_segundo": {
-    "price": 522.799,
-    "name": "-APPARATUS-"
+    "price": 523.5,
+    "name": "Vegas Pagos"
   },
   "venta_maxima": {
-    "price": 518.1,
-    "name": "AndradeGasconTITULAR"
+    "price": 516.85,
+    "name": "-Vallenatero-"
   },
-  "promedio": 520.45,
+  "promedio": 520.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
