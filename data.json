@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T21:41:36.511936",
-  "actualizado_vzla": "2026-01-27 17:41:36 -04",
+  "timestamp_utc": "2026-01-27T21:55:20.332848",
+  "actualizado_vzla": "2026-01-27 17:55:20 -04",
   "compra_segundo": {
-    "price": 549.2,
-    "name": "ChangerExpress"
+    "price": 549.14,
+    "name": "Cambiocripto64"
   },
   "venta_maxima": {
-    "price": 553.0,
+    "price": 554.5,
     "name": "Biyt"
   },
-  "promedio": 551.1,
+  "promedio": 551.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
