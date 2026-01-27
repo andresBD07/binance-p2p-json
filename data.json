@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T11:32:22.281027",
-  "actualizado_vzla": "2026-01-27 07:32:22 -04",
+  "timestamp_utc": "2026-01-27T11:52:03.619378",
+  "actualizado_vzla": "2026-01-27 07:52:03 -04",
   "compra_segundo": {
-    "price": 527.0,
-    "name": "H_p2pCambios22"
+    "price": 529.5,
+    "name": "HunterxTrade"
   },
   "venta_maxima": {
-    "price": 526.0,
+    "price": 527.0,
     "name": "-Godgiven-"
   },
-  "promedio": 526.5,
+  "promedio": 528.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
