@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T22:50:55.836306",
-  "actualizado_vzla": "2026-01-27 18:50:55 -04",
+  "timestamp_utc": "2026-01-27T23:18:02.498723",
+  "actualizado_vzla": "2026-01-27 19:18:02 -04",
   "compra_segundo": {
-    "price": 548.25,
-    "name": "KingTradeVzla"
+    "price": 548.0,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
-    "price": 552.0,
+    "price": 551.0,
     "name": "-Saitama-"
   },
-  "promedio": 550.12,
+  "promedio": 549.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
