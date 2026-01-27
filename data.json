@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T19:55:32.831830",
-  "actualizado_vzla": "2026-01-27 15:55:32 -04",
+  "timestamp_utc": "2026-01-27T20:32:09.718174",
+  "actualizado_vzla": "2026-01-27 16:32:09 -04",
   "compra_segundo": {
-    "price": 546.48,
-    "name": "Criscripto18M"
+    "price": 549.1,
+    "name": "Lucen_Lv71"
   },
   "venta_maxima": {
-    "price": 549.0,
-    "name": "-Zeratul-"
+    "price": 553.0,
+    "name": "Biyt"
   },
-  "promedio": 547.74,
+  "promedio": 551.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
