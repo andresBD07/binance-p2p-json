@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T16:40:50.837244",
-  "actualizado_vzla": "2026-01-27 12:40:50 -04",
+  "timestamp_utc": "2026-01-27T17:14:59.927883",
+  "actualizado_vzla": "2026-01-27 13:14:59 -04",
   "compra_segundo": {
-    "price": 550.444,
-    "name": "PROFESlONAL"
+    "price": 550.97,
+    "name": "P2P-Criptosawi"
   },
   "venta_maxima": {
-    "price": 554.0,
-    "name": "-Saitama-"
+    "price": 552.0,
+    "name": "Megapagos"
   },
-  "promedio": 552.22,
+  "promedio": 551.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
