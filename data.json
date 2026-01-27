@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T19:02:39.751431",
-  "actualizado_vzla": "2026-01-27 15:02:39 -04",
+  "timestamp_utc": "2026-01-27T19:37:11.152726",
+  "actualizado_vzla": "2026-01-27 15:37:11 -04",
   "compra_segundo": {
-    "price": 549.2,
-    "name": "Fast-CambiosSeguro-"
+    "price": 546.79,
+    "name": "Exchange_VelozP2P"
   },
   "venta_maxima": {
-    "price": 549.5,
+    "price": 548.5,
     "name": "-Godgiven-"
   },
-  "promedio": 549.35,
+  "promedio": 547.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
