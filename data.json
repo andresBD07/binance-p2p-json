@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T13:38:11.521846",
-  "actualizado_vzla": "2026-01-27 09:38:11 -04",
+  "timestamp_utc": "2026-01-27T14:17:30.702484",
+  "actualizado_vzla": "2026-01-27 10:17:30 -04",
   "compra_segundo": {
-    "price": 527.39,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 538.0,
+    "name": "读Relojero_Exchang音"
   },
   "venta_maxima": {
-    "price": 526.5,
-    "name": "securitylc"
+    "price": 538.0,
+    "name": "cazing2230-2"
   },
-  "promedio": 526.94,
+  "promedio": 538.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
