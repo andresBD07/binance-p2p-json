@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T17:48:16.157858",
-  "actualizado_vzla": "2026-01-27 13:48:16 -04",
+  "timestamp_utc": "2026-01-27T18:21:45.541285",
+  "actualizado_vzla": "2026-01-27 14:21:45 -04",
   "compra_segundo": {
-    "price": 550.499,
-    "name": "PANDA1902"
+    "price": 550.76,
+    "name": "Trader_LB"
   },
   "venta_maxima": {
-    "price": 551.0,
-    "name": "Biyt"
+    "price": 551.25,
+    "name": "VECTURAFX"
   },
-  "promedio": 550.75,
+  "promedio": 551.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
