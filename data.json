@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T07:58:55.853207",
-  "actualizado_vzla": "2026-01-27 03:58:55 -04",
+  "timestamp_utc": "2026-01-27T08:47:31.228391",
+  "actualizado_vzla": "2026-01-27 04:47:31 -04",
   "compra_segundo": {
-    "price": 524.9,
-    "name": "yessicatrading"
+    "price": 523.7,
+    "name": "labebe2222"
   },
   "venta_maxima": {
     "price": 516.35,
     "name": "willbyruz"
   },
-  "promedio": 520.62,
+  "promedio": 520.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
