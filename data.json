@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-27T14:54:57.558080",
-  "actualizado_vzla": "2026-01-27 10:54:57 -04",
+  "timestamp_utc": "2026-01-27T15:36:26.955048",
+  "actualizado_vzla": "2026-01-27 11:36:26 -04",
   "compra_segundo": {
-    "price": 543.0,
-    "name": "cambiosaular1"
+    "price": 546.695,
+    "name": "KrimpaCambios"
   },
   "venta_maxima": {
-    "price": 545.51,
-    "name": "cazing2230-2"
+    "price": 550.0,
+    "name": "Biyt"
   },
-  "promedio": 544.25,
+  "promedio": 548.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
