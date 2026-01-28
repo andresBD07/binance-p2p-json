@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T17:39:15.877989",
-  "actualizado_vzla": "2026-01-28 13:39:15 -04",
+  "timestamp_utc": "2026-01-28T18:01:06.937834",
+  "actualizado_vzla": "2026-01-28 14:01:06 -04",
   "compra_segundo": {
-    "price": 521.09,
-    "name": "Jesantab"
+    "price": 523.999,
+    "name": "Criptoliveros"
   },
   "venta_maxima": {
-    "price": 523.5,
-    "name": "cazing2230-2"
+    "price": 525.5,
+    "name": "Biyt"
   },
-  "promedio": 522.3,
+  "promedio": 524.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
