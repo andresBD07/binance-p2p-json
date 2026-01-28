@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T09:18:47.431545",
-  "actualizado_vzla": "2026-01-28 05:18:47 -04",
+  "timestamp_utc": "2026-01-28T09:52:56.493167",
+  "actualizado_vzla": "2026-01-28 05:52:56 -04",
   "compra_segundo": {
-    "price": 555.0,
-    "name": "MarcosWillexis"
+    "price": 553.999,
+    "name": "VLFAST"
   },
   "venta_maxima": {
-    "price": 547.005,
+    "price": 547.2,
     "name": "QueRapido"
   },
-  "promedio": 551.0,
+  "promedio": 550.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
