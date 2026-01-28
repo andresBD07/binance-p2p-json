@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T09:52:56.493167",
-  "actualizado_vzla": "2026-01-28 05:52:56 -04",
+  "timestamp_utc": "2026-01-28T10:30:26.582107",
+  "actualizado_vzla": "2026-01-28 06:30:26 -04",
   "compra_segundo": {
-    "price": 553.999,
-    "name": "VLFAST"
+    "price": 553.7,
+    "name": "CAMBIOSLESYAX"
   },
   "venta_maxima": {
-    "price": 547.2,
-    "name": "QueRapido"
+    "price": 548.4,
+    "name": "DopaP2P"
   },
-  "promedio": 550.6,
+  "promedio": 551.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
