@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T12:41:46.732255",
-  "actualizado_vzla": "2026-01-28 08:41:46 -04",
+  "timestamp_utc": "2026-01-28T13:37:16.925825",
+  "actualizado_vzla": "2026-01-28 09:37:16 -04",
   "compra_segundo": {
-    "price": 536.699,
-    "name": "LAULAR87"
+    "price": 500.0,
+    "name": "Cambios Ashley"
   },
   "venta_maxima": {
-    "price": 533.0,
-    "name": "MaestroRoshi-"
+    "price": 503.35,
+    "name": "Qwer77"
   },
-  "promedio": 534.85,
+  "promedio": 501.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
