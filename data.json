@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T10:58:13.686232",
-  "actualizado_vzla": "2026-01-28 06:58:13 -04",
+  "timestamp_utc": "2026-01-28T11:31:53.601303",
+  "actualizado_vzla": "2026-01-28 07:31:53 -04",
   "compra_segundo": {
-    "price": 552.8,
-    "name": "InvMiggy"
+    "price": 551.0,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
-    "price": 548.51,
-    "name": "FlashCambios1"
+    "price": 548.0,
+    "name": "SPYG"
   },
-  "promedio": 550.65,
+  "promedio": 549.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
