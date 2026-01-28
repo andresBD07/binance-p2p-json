@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T08:41:38.709602",
-  "actualizado_vzla": "2026-01-28 04:41:38 -04",
+  "timestamp_utc": "2026-01-28T09:18:47.431545",
+  "actualizado_vzla": "2026-01-28 05:18:47 -04",
   "compra_segundo": {
-    "price": 555.9,
-    "name": "AndradeGasconTITULAR"
+    "price": 555.0,
+    "name": "MarcosWillexis"
   },
   "venta_maxima": {
     "price": 547.005,
     "name": "QueRapido"
   },
-  "promedio": 551.45,
+  "promedio": 551.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
