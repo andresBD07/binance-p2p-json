@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T21:40:14.869856",
-  "actualizado_vzla": "2026-01-28 17:40:14 -04",
+  "timestamp_utc": "2026-01-28T22:00:52.017837",
+  "actualizado_vzla": "2026-01-28 18:00:52 -04",
   "compra_segundo": {
-    "price": 524.26,
-    "name": "MSaracai"
+    "price": 527.0,
+    "name": "PayDesk_Figueroa"
   },
   "venta_maxima": {
-    "price": 528.501,
-    "name": "chango_pay"
+    "price": 527.5,
+    "name": "c_s_"
   },
-  "promedio": 526.38,
+  "promedio": 527.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
