@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T19:25:47.872881",
-  "actualizado_vzla": "2026-01-28 15:25:47 -04",
+  "timestamp_utc": "2026-01-28T19:52:26.864471",
+  "actualizado_vzla": "2026-01-28 15:52:26 -04",
   "compra_segundo": {
-    "price": 523.9,
-    "name": "Guayoyoo"
+    "price": 523.99,
+    "name": "O-InversionesHD"
   },
   "venta_maxima": {
-    "price": 525.0,
-    "name": "-Godgiven-"
+    "price": 523.0,
+    "name": "cazing2230-2"
   },
-  "promedio": 524.45,
+  "promedio": 523.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
