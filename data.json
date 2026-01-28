@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T16:03:52.699241",
-  "actualizado_vzla": "2026-01-28 12:03:52 -04",
+  "timestamp_utc": "2026-01-28T16:55:28.087094",
+  "actualizado_vzla": "2026-01-28 12:55:28 -04",
   "compra_segundo": {
-    "price": 513.7,
-    "name": "cambiosIA"
+    "price": 530.7,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 514.001,
-    "name": "P2P-18cdcaje"
+    "price": 530.4,
+    "name": "Keria23"
   },
-  "promedio": 513.85,
+  "promedio": 530.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
