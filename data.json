@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T16:55:28.087094",
-  "actualizado_vzla": "2026-01-28 12:55:28 -04",
+  "timestamp_utc": "2026-01-28T17:39:15.877989",
+  "actualizado_vzla": "2026-01-28 13:39:15 -04",
   "compra_segundo": {
-    "price": 530.7,
-    "name": "TradewCrypto"
+    "price": 521.09,
+    "name": "Jesantab"
   },
   "venta_maxima": {
-    "price": 530.4,
-    "name": "Keria23"
+    "price": 523.5,
+    "name": "cazing2230-2"
   },
-  "promedio": 530.55,
+  "promedio": 522.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
