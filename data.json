@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T22:00:52.017837",
-  "actualizado_vzla": "2026-01-28 18:00:52 -04",
+  "timestamp_utc": "2026-01-28T22:42:01.410776",
+  "actualizado_vzla": "2026-01-28 18:42:01 -04",
   "compra_segundo": {
-    "price": 527.0,
-    "name": "PayDesk_Figueroa"
+    "price": 529.5,
+    "name": "SecurityMaster"
   },
   "venta_maxima": {
-    "price": 527.5,
-    "name": "c_s_"
+    "price": 529.1,
+    "name": "ALASKA-"
   },
-  "promedio": 527.25,
+  "promedio": 529.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
