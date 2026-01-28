@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T15:37:06.132084",
-  "actualizado_vzla": "2026-01-28 11:37:06 -04",
+  "timestamp_utc": "2026-01-28T16:03:52.699241",
+  "actualizado_vzla": "2026-01-28 12:03:52 -04",
   "compra_segundo": {
-    "price": 513.0,
-    "name": "LFTS"
+    "price": 513.7,
+    "name": "cambiosIA"
   },
   "venta_maxima": {
     "price": 514.001,
-    "name": "Keria23"
+    "name": "P2P-18cdcaje"
   },
-  "promedio": 513.5,
+  "promedio": 513.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
