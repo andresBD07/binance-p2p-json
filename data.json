@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T04:51:19.490625",
-  "actualizado_vzla": "2026-01-28 00:51:19 -04",
+  "timestamp_utc": "2026-01-28T05:24:57.078639",
+  "actualizado_vzla": "2026-01-28 01:24:57 -04",
   "compra_segundo": {
-    "price": 553.99,
-    "name": "Snayderk"
+    "price": 555.0,
+    "name": "Osu199x"
   },
   "venta_maxima": {
-    "price": 547.001,
-    "name": "Jastar"
+    "price": 547.22,
+    "name": "Star_Trading"
   },
-  "promedio": 550.5,
+  "promedio": 551.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
