@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T14:53:54.535673",
-  "actualizado_vzla": "2026-01-28 10:53:54 -04",
+  "timestamp_utc": "2026-01-28T15:37:06.132084",
+  "actualizado_vzla": "2026-01-28 11:37:06 -04",
   "compra_segundo": {
-    "price": 516.5,
-    "name": "hada30"
+    "price": 513.0,
+    "name": "LFTS"
   },
   "venta_maxima": {
-    "price": 516.3,
-    "name": "ARKADB"
+    "price": 514.001,
+    "name": "Keria23"
   },
-  "promedio": 516.4,
+  "promedio": 513.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
