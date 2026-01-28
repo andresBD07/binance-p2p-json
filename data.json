@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T19:52:26.864471",
-  "actualizado_vzla": "2026-01-28 15:52:26 -04",
+  "timestamp_utc": "2026-01-28T20:30:48.854994",
+  "actualizado_vzla": "2026-01-28 16:30:48 -04",
   "compra_segundo": {
-    "price": 523.99,
-    "name": "O-InversionesHD"
+    "price": 523.9,
+    "name": "criptogene01"
   },
   "venta_maxima": {
-    "price": 523.0,
-    "name": "cazing2230-2"
+    "price": 523.5,
+    "name": "ALASKA-"
   },
-  "promedio": 523.5,
+  "promedio": 523.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
