@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T21:45:32.355510",
-  "actualizado_vzla": "2026-01-29 17:45:32 -04",
+  "timestamp_utc": "2026-01-29T22:12:51.045702",
+  "actualizado_vzla": "2026-01-29 18:12:51 -04",
   "compra_segundo": {
-    "price": 524.0,
-    "name": "Iam_blessed"
+    "price": 523.25,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 523.0,
-    "name": "Godisgift"
+    "price": 521.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 523.5,
+  "promedio": 522.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
