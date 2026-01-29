@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T07:06:18.080341",
-  "actualizado_vzla": "2026-01-29 03:06:18 -04",
+  "timestamp_utc": "2026-01-29T07:53:44.565431",
+  "actualizado_vzla": "2026-01-29 03:53:44 -04",
   "compra_segundo": {
-    "price": 531.75,
-    "name": "GaAle19"
+    "price": 531.599,
+    "name": "tovir2572"
   },
   "venta_maxima": {
     "price": 527.7,
     "name": "Summer90"
   },
-  "promedio": 529.73,
+  "promedio": 529.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
