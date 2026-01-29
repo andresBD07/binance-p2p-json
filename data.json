@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T08:45:23.949378",
-  "actualizado_vzla": "2026-01-29 04:45:23 -04",
+  "timestamp_utc": "2026-01-29T09:28:04.314517",
+  "actualizado_vzla": "2026-01-29 05:28:04 -04",
   "compra_segundo": {
-    "price": 531.4,
-    "name": "_cambioBTC"
+    "price": 530.999,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
     "price": 527.7,
     "name": "Summer90"
   },
-  "promedio": 529.55,
+  "promedio": 529.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
