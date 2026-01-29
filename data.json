@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T16:32:13.830914",
-  "actualizado_vzla": "2026-01-29 12:32:13 -04",
+  "timestamp_utc": "2026-01-29T17:20:16.544776",
+  "actualizado_vzla": "2026-01-29 13:20:16 -04",
   "compra_segundo": {
-    "price": 528.8,
-    "name": "SecurityMaster"
+    "price": 526.999,
+    "name": "VelkanVe"
   },
   "venta_maxima": {
-    "price": 526.3,
-    "name": "Keria23"
+    "price": 528.05,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 527.55,
+  "promedio": 527.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
