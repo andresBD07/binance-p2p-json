@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T22:12:51.045702",
-  "actualizado_vzla": "2026-01-29 18:12:51 -04",
+  "timestamp_utc": "2026-01-29T22:48:49.076803",
+  "actualizado_vzla": "2026-01-29 18:48:49 -04",
   "compra_segundo": {
-    "price": 523.25,
-    "name": "Trading_professional"
+    "price": 515.688,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 521.0,
+    "price": 517.0,
     "name": "-Godgiven-"
   },
-  "promedio": 522.12,
+  "promedio": 516.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
