@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T21:13:32.035545",
-  "actualizado_vzla": "2026-01-29 17:13:32 -04",
+  "timestamp_utc": "2026-01-29T21:45:32.355510",
+  "actualizado_vzla": "2026-01-29 17:45:32 -04",
   "compra_segundo": {
-    "price": 523.0,
-    "name": "PayBin07"
+    "price": 524.0,
+    "name": "Iam_blessed"
   },
   "venta_maxima": {
-    "price": 522.011,
-    "name": "Huayin-cheng"
+    "price": 523.0,
+    "name": "Godisgift"
   },
-  "promedio": 522.51,
+  "promedio": 523.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
