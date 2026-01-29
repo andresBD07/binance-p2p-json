@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-28T23:56:39.885732",
-  "actualizado_vzla": "2026-01-28 19:56:39 -04",
+  "timestamp_utc": "2026-01-29T02:45:12.205801",
+  "actualizado_vzla": "2026-01-28 22:45:12 -04",
   "compra_segundo": {
-    "price": 527.899,
-    "name": "IBEROGESTION"
+    "price": 529.7,
+    "name": "dkans21"
   },
   "venta_maxima": {
-    "price": 529.0,
+    "price": 530.0,
     "name": "-Godgiven-"
   },
-  "promedio": 528.45,
+  "promedio": 529.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
