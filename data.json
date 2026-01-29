@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T15:49:19.361795",
-  "actualizado_vzla": "2026-01-29 11:49:19 -04",
+  "timestamp_utc": "2026-01-29T16:32:13.830914",
+  "actualizado_vzla": "2026-01-29 12:32:13 -04",
   "compra_segundo": {
-    "price": 531.0,
-    "name": "Ricardo"
+    "price": 528.8,
+    "name": "SecurityMaster"
   },
   "venta_maxima": {
-    "price": 532.0,
-    "name": "-Godgiven-"
+    "price": 526.3,
+    "name": "Keria23"
   },
-  "promedio": 531.5,
+  "promedio": 527.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
