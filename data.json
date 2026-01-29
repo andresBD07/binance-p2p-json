@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T23:17:00.613478",
-  "actualizado_vzla": "2026-01-29 19:17:00 -04",
+  "timestamp_utc": "2026-01-29T23:44:47.842592",
+  "actualizado_vzla": "2026-01-29 19:44:47 -04",
   "compra_segundo": {
-    "price": 517.899,
-    "name": "Shar-KExchange"
+    "price": 519.5,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
-    "price": 520.0,
+    "price": 518.0,
     "name": "-Godgiven-"
   },
-  "promedio": 518.95,
+  "promedio": 518.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
