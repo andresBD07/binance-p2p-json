@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T10:08:06.756417",
-  "actualizado_vzla": "2026-01-29 06:08:06 -04",
+  "timestamp_utc": "2026-01-29T10:58:08.896561",
+  "actualizado_vzla": "2026-01-29 06:58:08 -04",
   "compra_segundo": {
-    "price": 529.95,
-    "name": "AndradeGascon"
+    "price": 528.9,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
     "price": 527.7,
     "name": "Summer90"
   },
-  "promedio": 528.83,
+  "promedio": 528.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
