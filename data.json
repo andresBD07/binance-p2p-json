@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T13:21:19.188131",
-  "actualizado_vzla": "2026-01-29 09:21:19 -04",
+  "timestamp_utc": "2026-01-29T14:09:13.163239",
+  "actualizado_vzla": "2026-01-29 10:09:13 -04",
   "compra_segundo": {
-    "price": 528.4,
-    "name": "PEREZ-Group"
+    "price": 534.0,
+    "name": "Elite"
   },
   "venta_maxima": {
-    "price": 528.0,
-    "name": "-Godgiven-"
+    "price": 538.0,
+    "name": "Biyt"
   },
-  "promedio": 528.2,
+  "promedio": 536.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
