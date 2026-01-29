@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T20:45:12.979295",
-  "actualizado_vzla": "2026-01-29 16:45:12 -04",
+  "timestamp_utc": "2026-01-29T21:13:32.035545",
+  "actualizado_vzla": "2026-01-29 17:13:32 -04",
   "compra_segundo": {
-    "price": 524.8,
-    "name": "Beregoza"
+    "price": 523.0,
+    "name": "PayBin07"
   },
   "venta_maxima": {
-    "price": 524.71,
-    "name": "Tzar25"
+    "price": 522.011,
+    "name": "Huayin-cheng"
   },
-  "promedio": 524.75,
+  "promedio": 522.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
