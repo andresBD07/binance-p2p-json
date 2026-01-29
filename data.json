@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T02:45:12.205801",
-  "actualizado_vzla": "2026-01-28 22:45:12 -04",
+  "timestamp_utc": "2026-01-29T04:21:32.049788",
+  "actualizado_vzla": "2026-01-29 00:21:32 -04",
   "compra_segundo": {
-    "price": 529.7,
-    "name": "dkans21"
+    "price": 530.6,
+    "name": "NimaX-64"
   },
   "venta_maxima": {
-    "price": 530.0,
-    "name": "-Godgiven-"
+    "price": 527.7,
+    "name": "Summer90"
   },
-  "promedio": 529.85,
+  "promedio": 529.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
