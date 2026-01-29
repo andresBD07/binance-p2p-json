@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T05:27:03.220128",
-  "actualizado_vzla": "2026-01-29 01:27:03 -04",
+  "timestamp_utc": "2026-01-29T06:07:10.478654",
+  "actualizado_vzla": "2026-01-29 02:07:10 -04",
   "compra_segundo": {
-    "price": 531.599,
-    "name": "tovir2572"
+    "price": 532.0,
+    "name": "GregoSwap"
   },
   "venta_maxima": {
-    "price": 527.777,
-    "name": "THE BOSS  96"
+    "price": 527.7,
+    "name": "Summer90"
   },
-  "promedio": 529.69,
+  "promedio": 529.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
