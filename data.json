@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T14:59:39.566155",
-  "actualizado_vzla": "2026-01-29 10:59:39 -04",
+  "timestamp_utc": "2026-01-29T15:49:19.361795",
+  "actualizado_vzla": "2026-01-29 11:49:19 -04",
   "compra_segundo": {
-    "price": 531.99,
-    "name": "Pesce_Exchange"
+    "price": 531.0,
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 533.1,
-    "name": "Biyt"
+    "price": 532.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 532.55,
+  "promedio": 531.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
