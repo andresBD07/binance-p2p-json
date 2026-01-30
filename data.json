@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-01-30T22:32:57.914248",
-  "actualizado_vzla": "2026-01-30 18:32:57 -04",
+  "timestamp_utc": "2026-01-30T22:58:35.403750",
+  "actualizado_vzla": "2026-01-30 18:58:35 -04",
   "compra_segundo": {
-    "price": 513.899,
-    "name": "Oscar-cambios "
+    "price": 513.9,
+    "name": "Remesas Maracaibo"
   },
   "venta_maxima": {
-    "price": 515.0,
-    "name": "LECHUGAEXPRESS"
+    "price": 515.001,
+    "name": "-Saitama-"
   },
   "promedio": 514.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
