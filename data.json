@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T04:26:01.779166",
-  "actualizado_vzla": "2026-01-30 00:26:01 -04",
+  "timestamp_utc": "2026-01-30T05:32:56.991061",
+  "actualizado_vzla": "2026-01-30 01:32:57 -04",
   "compra_segundo": {
-    "price": 520.0,
-    "name": "DavDoug"
+    "price": 520.92,
+    "name": "LeNary-"
   },
   "venta_maxima": {
-    "price": 516.005,
-    "name": "Marquez25"
+    "price": 516.0,
+    "name": "Global Market Ads"
   },
-  "promedio": 518.0,
+  "promedio": 518.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
