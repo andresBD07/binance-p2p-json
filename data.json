@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T18:34:09.939627",
-  "actualizado_vzla": "2026-01-30 14:34:09 -04",
+  "timestamp_utc": "2026-01-30T19:19:13.246709",
+  "actualizado_vzla": "2026-01-30 15:19:13 -04",
   "compra_segundo": {
-    "price": 509.0,
-    "name": "Cambia-Seguro-01"
+    "price": 510.698,
+    "name": "Inv_Salovi"
   },
   "venta_maxima": {
-    "price": 507.001,
-    "name": "mundo-cripto"
+    "price": 511.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 508.0,
+  "promedio": 510.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
