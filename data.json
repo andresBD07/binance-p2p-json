@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T23:35:13.488007",
-  "actualizado_vzla": "2026-01-30 19:35:13 -04",
+  "timestamp_utc": "2026-01-30T23:55:53.465918",
+  "actualizado_vzla": "2026-01-30 19:55:53 -04",
   "compra_segundo": {
-    "price": 513.751,
-    "name": "NuebotFlash"
+    "price": 514.5,
+    "name": "cambiosaular1"
   },
   "venta_maxima": {
     "price": 516.001,
     "name": "-Saitama-"
   },
-  "promedio": 514.88,
+  "promedio": 515.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
