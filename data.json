@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T14:05:26.267230",
-  "actualizado_vzla": "2026-01-30 10:05:26 -04",
+  "timestamp_utc": "2026-01-30T14:54:13.732897",
+  "actualizado_vzla": "2026-01-30 10:54:13 -04",
   "compra_segundo": {
-    "price": 511.499,
-    "name": "DigitalesYaSpa"
+    "price": 506.6,
+    "name": "Shibundo"
   },
   "venta_maxima": {
-    "price": 512.0,
-    "name": "Tradingfriend"
+    "price": 508.1,
+    "name": "KGCA"
   },
-  "promedio": 511.75,
+  "promedio": 507.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
