@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T02:49:17.107160",
-  "actualizado_vzla": "2026-01-29 22:49:17 -04",
+  "timestamp_utc": "2026-01-30T04:26:01.779166",
+  "actualizado_vzla": "2026-01-30 00:26:01 -04",
   "compra_segundo": {
-    "price": 518.65,
-    "name": "Anonymous-GC07"
+    "price": 520.0,
+    "name": "DavDoug"
   },
   "venta_maxima": {
-    "price": 515.6,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 516.005,
+    "name": "Marquez25"
   },
-  "promedio": 517.12,
+  "promedio": 518.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
