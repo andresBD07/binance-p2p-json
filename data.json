@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T11:59:52.295149",
-  "actualizado_vzla": "2026-01-30 07:59:52 -04",
+  "timestamp_utc": "2026-01-30T13:18:13.996463",
+  "actualizado_vzla": "2026-01-30 09:18:14 -04",
   "compra_segundo": {
-    "price": 517.8,
-    "name": "SoloTitularsNoTrcros"
+    "price": 515.0,
+    "name": "Servic2009"
   },
   "venta_maxima": {
-    "price": 516.001,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 514.0,
+    "name": "EduardoNalim38"
   },
-  "promedio": 516.9,
+  "promedio": 514.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
