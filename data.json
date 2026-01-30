@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T08:01:11.551783",
-  "actualizado_vzla": "2026-01-30 04:01:11 -04",
+  "timestamp_utc": "2026-01-30T08:55:35.306320",
+  "actualizado_vzla": "2026-01-30 04:55:35 -04",
   "compra_segundo": {
-    "price": 521.7,
-    "name": "Carlos Bello Trader "
+    "price": 521.499,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
     "price": 516.0,
     "name": "Global Market Ads"
   },
-  "promedio": 518.85,
+  "promedio": 518.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
