@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T13:18:13.996463",
-  "actualizado_vzla": "2026-01-30 09:18:14 -04",
+  "timestamp_utc": "2026-01-30T14:05:26.267230",
+  "actualizado_vzla": "2026-01-30 10:05:26 -04",
   "compra_segundo": {
-    "price": 515.0,
-    "name": "Servic2009"
+    "price": 511.499,
+    "name": "DigitalesYaSpa"
   },
   "venta_maxima": {
-    "price": 514.0,
-    "name": "EduardoNalim38"
+    "price": 512.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 514.5,
+  "promedio": 511.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
