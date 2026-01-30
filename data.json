@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T21:54:56.220937",
-  "actualizado_vzla": "2026-01-30 17:54:56 -04",
+  "timestamp_utc": "2026-01-30T22:32:57.914248",
+  "actualizado_vzla": "2026-01-30 18:32:57 -04",
   "compra_segundo": {
-    "price": 512.5,
-    "name": "Sharkypay"
+    "price": 513.899,
+    "name": "Oscar-cambios "
   },
   "venta_maxima": {
-    "price": 514.0,
-    "name": "-Godgiven-"
+    "price": 515.0,
+    "name": "LECHUGAEXPRESS"
   },
-  "promedio": 513.25,
+  "promedio": 514.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
