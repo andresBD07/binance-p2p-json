@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T17:04:33.816686",
-  "actualizado_vzla": "2026-01-30 13:04:33 -04",
+  "timestamp_utc": "2026-01-30T17:50:29.772942",
+  "actualizado_vzla": "2026-01-30 13:50:29 -04",
   "compra_segundo": {
-    "price": 504.0,
-    "name": "lamejoropcion"
+    "price": 504.2,
+    "name": "carlosaladejo"
   },
   "venta_maxima": {
-    "price": 503.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 505.001,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 503.5,
+  "promedio": 504.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
