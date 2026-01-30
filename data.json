@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T05:32:56.991061",
-  "actualizado_vzla": "2026-01-30 01:32:57 -04",
+  "timestamp_utc": "2026-01-30T06:27:05.366362",
+  "actualizado_vzla": "2026-01-30 02:27:05 -04",
   "compra_segundo": {
-    "price": 520.92,
-    "name": "LeNary-"
+    "price": 521.0,
+    "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
     "price": 516.0,
     "name": "Global Market Ads"
   },
-  "promedio": 518.46,
+  "promedio": 518.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
