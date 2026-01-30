@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T00:00:54.517862",
-  "actualizado_vzla": "2026-01-29 20:00:54 -04",
+  "timestamp_utc": "2026-01-30T02:49:17.107160",
+  "actualizado_vzla": "2026-01-29 22:49:17 -04",
   "compra_segundo": {
-    "price": 519.7,
-    "name": "Lucen_Lv71"
+    "price": 518.65,
+    "name": "Anonymous-GC07"
   },
   "venta_maxima": {
-    "price": 520.0,
-    "name": "-Godgiven-"
+    "price": 515.6,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 519.85,
+  "promedio": 517.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
