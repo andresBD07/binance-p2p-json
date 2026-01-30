@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-29T23:44:47.842592",
-  "actualizado_vzla": "2026-01-29 19:44:47 -04",
+  "timestamp_utc": "2026-01-30T00:00:54.517862",
+  "actualizado_vzla": "2026-01-29 20:00:54 -04",
   "compra_segundo": {
-    "price": 519.5,
-    "name": "RJ_SaveExchange"
+    "price": 519.7,
+    "name": "Lucen_Lv71"
   },
   "venta_maxima": {
-    "price": 518.0,
+    "price": 520.0,
     "name": "-Godgiven-"
   },
-  "promedio": 518.75,
+  "promedio": 519.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
