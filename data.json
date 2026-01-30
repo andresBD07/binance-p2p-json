@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T15:39:56.433242",
-  "actualizado_vzla": "2026-01-30 11:39:56 -04",
+  "timestamp_utc": "2026-01-30T16:18:50.545486",
+  "actualizado_vzla": "2026-01-30 12:18:50 -04",
   "compra_segundo": {
-    "price": 507.0,
-    "name": "Aalcripto"
+    "price": 505.74,
+    "name": "I_R_O_N__V_A_U_L_T"
   },
   "venta_maxima": {
-    "price": 505.49,
-    "name": "Escocrida"
+    "price": 505.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 506.25,
+  "promedio": 505.37,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
