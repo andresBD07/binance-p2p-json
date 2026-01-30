@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-30T16:18:50.545486",
-  "actualizado_vzla": "2026-01-30 12:18:50 -04",
+  "timestamp_utc": "2026-01-30T17:04:33.816686",
+  "actualizado_vzla": "2026-01-30 13:04:33 -04",
   "compra_segundo": {
-    "price": 505.74,
-    "name": "I_R_O_N__V_A_U_L_T"
+    "price": 504.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 505.0,
-    "name": "Tradingfriend"
+    "price": 503.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 505.37,
+  "promedio": 503.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
