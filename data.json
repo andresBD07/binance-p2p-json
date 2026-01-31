@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-01-31T19:47:17.556472",
-  "actualizado_vzla": "2026-01-31 15:47:17 -04",
+  "timestamp_utc": "2026-01-31T20:00:37.322150",
+  "actualizado_vzla": "2026-01-31 16:00:37 -04",
   "compra_segundo": {
-    "price": 513.99,
-    "name": "GusGus-777"
+    "price": 514.0,
+    "name": "rapid/express"
   },
   "venta_maxima": {
     "price": 516.0,
