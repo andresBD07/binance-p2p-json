@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T08:58:36.491292",
-  "actualizado_vzla": "2026-01-31 04:58:36 -04",
+  "timestamp_utc": "2026-01-31T09:38:04.522152",
+  "actualizado_vzla": "2026-01-31 05:38:04 -04",
   "compra_segundo": {
-    "price": 517.189,
-    "name": "FastChangeSafeChange"
+    "price": 516.899,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 512.001,
+    "price": 512.2,
     "name": "CesarRodriguez53"
   },
-  "promedio": 514.6,
+  "promedio": 514.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
