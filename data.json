@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T13:57:13.580218",
-  "actualizado_vzla": "2026-01-31 09:57:13 -04",
+  "timestamp_utc": "2026-01-31T14:34:23.284439",
+  "actualizado_vzla": "2026-01-31 10:34:23 -04",
   "compra_segundo": {
-    "price": 513.5,
-    "name": "ELFARMACO-NO_3eros"
+    "price": 513.3,
+    "name": "ATENEA99"
   },
   "venta_maxima": {
     "price": 515.0,
     "name": "-Saitama-"
   },
-  "promedio": 514.25,
+  "promedio": 514.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
