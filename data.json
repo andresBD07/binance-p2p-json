@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T07:52:33.880739",
-  "actualizado_vzla": "2026-01-31 03:52:33 -04",
+  "timestamp_utc": "2026-01-31T08:31:05.969083",
+  "actualizado_vzla": "2026-01-31 04:31:05 -04",
   "compra_segundo": {
     "price": 517.5,
     "name": "Doña Salomé"
   },
   "venta_maxima": {
-    "price": 516.0,
-    "name": "WobbleTechnology"
+    "price": 511.0,
+    "name": "Huayin-cheng"
   },
-  "promedio": 516.75,
+  "promedio": 514.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
