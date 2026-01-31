@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T20:00:37.322150",
-  "actualizado_vzla": "2026-01-31 16:00:37 -04",
+  "timestamp_utc": "2026-01-31T20:37:15.058686",
+  "actualizado_vzla": "2026-01-31 16:37:15 -04",
   "compra_segundo": {
-    "price": 514.0,
-    "name": "rapid/express"
+    "price": 514.2,
+    "name": "CambiosOTB"
   },
   "venta_maxima": {
-    "price": 516.0,
-    "name": "-Saitama-"
+    "price": 515.5,
+    "name": "RONIN2_0"
   },
-  "promedio": 515.0,
+  "promedio": 514.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
