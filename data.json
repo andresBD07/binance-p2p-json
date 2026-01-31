@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T10:57:21.407959",
-  "actualizado_vzla": "2026-01-31 06:57:21 -04",
+  "timestamp_utc": "2026-01-31T11:29:21.225811",
+  "actualizado_vzla": "2026-01-31 07:29:21 -04",
   "compra_segundo": {
-    "price": 516.2,
-    "name": "Dantecripto"
+    "price": 515.84,
+    "name": "Germanctr"
   },
   "venta_maxima": {
-    "price": 510.01,
-    "name": "usdtking"
+    "price": 511.5,
+    "name": "c_s_"
   },
-  "promedio": 513.11,
+  "promedio": 513.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
