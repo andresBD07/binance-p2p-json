@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T14:34:23.284439",
-  "actualizado_vzla": "2026-01-31 10:34:23 -04",
+  "timestamp_utc": "2026-01-31T14:55:50.725205",
+  "actualizado_vzla": "2026-01-31 10:55:50 -04",
   "compra_segundo": {
-    "price": 513.3,
-    "name": "ATENEA99"
+    "price": 512.588,
+    "name": "LordTUKY"
   },
   "venta_maxima": {
-    "price": 515.0,
-    "name": "-Saitama-"
+    "price": 597.001,
+    "name": "BaldomeroH"
   },
-  "promedio": 514.15,
+  "promedio": 554.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
