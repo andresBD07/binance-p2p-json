@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T08:31:05.969083",
-  "actualizado_vzla": "2026-01-31 04:31:05 -04",
+  "timestamp_utc": "2026-01-31T08:58:36.491292",
+  "actualizado_vzla": "2026-01-31 04:58:36 -04",
   "compra_segundo": {
-    "price": 517.5,
-    "name": "Doña Salomé"
+    "price": 517.189,
+    "name": "FastChangeSafeChange"
   },
   "venta_maxima": {
-    "price": 511.0,
-    "name": "Huayin-cheng"
+    "price": 512.001,
+    "name": "CesarRodriguez53"
   },
-  "promedio": 514.25,
+  "promedio": 514.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
