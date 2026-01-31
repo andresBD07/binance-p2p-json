@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T13:23:46.347775",
-  "actualizado_vzla": "2026-01-31 09:23:46 -04",
+  "timestamp_utc": "2026-01-31T13:57:13.580218",
+  "actualizado_vzla": "2026-01-31 09:57:13 -04",
   "compra_segundo": {
-    "price": 513.9,
-    "name": "心Bee"
+    "price": 513.5,
+    "name": "ELFARMACO-NO_3eros"
   },
   "venta_maxima": {
     "price": 515.0,
     "name": "-Saitama-"
   },
-  "promedio": 514.45,
+  "promedio": 514.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
