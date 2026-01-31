@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T02:40:39.651563",
-  "actualizado_vzla": "2026-01-30 22:40:39 -04",
+  "timestamp_utc": "2026-01-31T04:18:59.617233",
+  "actualizado_vzla": "2026-01-31 00:18:59 -04",
   "compra_segundo": {
-    "price": 515.79,
-    "name": "JCR-P2P-1522"
+    "price": 516.4,
+    "name": "Star_Trading"
   },
   "venta_maxima": {
-    "price": 516.0,
-    "name": "-Saitama-"
+    "price": 513.2,
+    "name": "EL-REY-DEL-CRIPTO"
   },
-  "promedio": 515.89,
+  "promedio": 514.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
