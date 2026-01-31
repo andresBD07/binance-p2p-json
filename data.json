@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T23:00:02.443586",
-  "actualizado_vzla": "2026-01-31 19:00:02 -04",
+  "timestamp_utc": "2026-01-31T23:33:29.292851",
+  "actualizado_vzla": "2026-01-31 19:33:29 -04",
   "compra_segundo": {
     "price": 513.0,
-    "name": "racaste"
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 514.51,
+    "price": 514.01,
     "name": "angelchacon"
   },
-  "promedio": 513.75,
+  "promedio": 513.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
