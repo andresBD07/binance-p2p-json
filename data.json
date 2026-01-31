@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T05:12:27.392641",
-  "actualizado_vzla": "2026-01-31 01:12:27 -04",
+  "timestamp_utc": "2026-01-31T05:55:57.148822",
+  "actualizado_vzla": "2026-01-31 01:55:57 -04",
   "compra_segundo": {
-    "price": 516.5,
-    "name": "Servicios_JT"
+    "price": 516.8,
+    "name": "Carlos Bello Trader "
   },
   "venta_maxima": {
-    "price": 513.2,
-    "name": "EL-REY-DEL-CRIPTO"
+    "price": 513.5,
+    "name": "Quick Payment"
   },
-  "promedio": 514.85,
+  "promedio": 515.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
