@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T16:27:59.272327",
-  "actualizado_vzla": "2026-01-31 12:27:59 -04",
+  "timestamp_utc": "2026-01-31T16:56:48.409128",
+  "actualizado_vzla": "2026-01-31 12:56:48 -04",
   "compra_segundo": {
-    "price": 513.3,
-    "name": "Perfumehouse "
+    "price": 514.7,
+    "name": "MERCADO ESTRATEGICO"
   },
   "venta_maxima": {
-    "price": 515.6,
-    "name": "梅CityCambio爱"
+    "price": 516.0,
+    "name": "-Saitama-"
   },
-  "promedio": 514.45,
+  "promedio": 515.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
