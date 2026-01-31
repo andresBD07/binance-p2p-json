@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-01-31T22:17:42.259945",
-  "actualizado_vzla": "2026-01-31 18:17:42 -04",
+  "timestamp_utc": "2026-01-31T22:45:18.056844",
+  "actualizado_vzla": "2026-01-31 18:45:18 -04",
   "compra_segundo": {
-    "price": 513.513,
-    "name": "Perclorato de amonio"
+    "price": 512.9,
+    "name": "BILLETERA P2P "
   },
   "venta_maxima": {
-    "price": 515.01,
+    "price": 514.51,
     "name": "angelchacon"
   },
-  "promedio": 514.26,
+  "promedio": 513.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
