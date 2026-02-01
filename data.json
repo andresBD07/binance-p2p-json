@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T14:59:50.994876",
-  "actualizado_vzla": "2026-02-01 10:59:51 -04",
+  "timestamp_utc": "2026-02-01T15:36:11.237738",
+  "actualizado_vzla": "2026-02-01 11:36:11 -04",
   "compra_segundo": {
-    "price": 515.0,
-    "name": "rapid/express"
+    "price": 515.4,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 514.55,
-    "name": "梅CityCambio爱"
+    "price": 515.0,
+    "name": "Burdyn"
   },
-  "promedio": 514.77,
+  "promedio": 515.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
