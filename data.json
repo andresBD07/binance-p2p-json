@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T15:56:36.474561",
-  "actualizado_vzla": "2026-02-01 11:56:36 -04",
+  "timestamp_utc": "2026-02-01T16:40:52.322115",
+  "actualizado_vzla": "2026-02-01 12:40:52 -04",
   "compra_segundo": {
     "price": 515.0,
-    "name": "PagoInstantaneoP2P"
+    "name": "Camilo171"
   },
   "venta_maxima": {
-    "price": 515.002,
-    "name": "加密操作"
+    "price": 514.3,
+    "name": "Brawcoins"
   },
-  "promedio": 515.0,
+  "promedio": 514.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
