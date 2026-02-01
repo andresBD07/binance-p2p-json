@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T12:38:17.509083",
-  "actualizado_vzla": "2026-02-01 08:38:17 -04",
+  "timestamp_utc": "2026-02-01T13:31:14.677032",
+  "actualizado_vzla": "2026-02-01 09:31:14 -04",
   "compra_segundo": {
-    "price": 514.379,
-    "name": "FERMICON-traderlll"
+    "price": 512.95,
+    "name": "CASH-FLOW2"
   },
   "venta_maxima": {
-    "price": 511.6,
-    "name": "TPhillips"
+    "price": 511.333,
+    "name": "al_magnifico"
   },
-  "promedio": 512.99,
+  "promedio": 512.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
