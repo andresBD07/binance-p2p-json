@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T16:40:52.322115",
-  "actualizado_vzla": "2026-02-01 12:40:52 -04",
+  "timestamp_utc": "2026-02-01T17:02:35.069760",
+  "actualizado_vzla": "2026-02-01 13:02:35 -04",
   "compra_segundo": {
     "price": 515.0,
     "name": "Camilo171"
   },
   "venta_maxima": {
-    "price": 514.3,
-    "name": "Brawcoins"
+    "price": 515.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 514.65,
+  "promedio": 515.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
