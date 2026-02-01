@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T11:50:46.802674",
-  "actualizado_vzla": "2026-02-01 07:50:46 -04",
+  "timestamp_utc": "2026-02-01T12:38:17.509083",
+  "actualizado_vzla": "2026-02-01 08:38:17 -04",
   "compra_segundo": {
-    "price": 515.135,
-    "name": "Cripmetal-P2P"
+    "price": 514.379,
+    "name": "FERMICON-traderlll"
   },
   "venta_maxima": {
-    "price": 511.3,
-    "name": "Rapidflorio84"
+    "price": 511.6,
+    "name": "TPhillips"
   },
-  "promedio": 513.22,
+  "promedio": 512.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
