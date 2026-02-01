@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T19:42:25.235077",
-  "actualizado_vzla": "2026-02-01 15:42:25 -04",
+  "timestamp_utc": "2026-02-01T19:57:04.953319",
+  "actualizado_vzla": "2026-02-01 15:57:04 -04",
   "compra_segundo": {
-    "price": 513.5,
-    "name": "hoglatm"
+    "price": 513.2,
+    "name": "TraderMasterrr"
   },
   "venta_maxima": {
     "price": 512.6,
     "name": "安全与信任"
   },
-  "promedio": 513.05,
+  "promedio": 512.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
