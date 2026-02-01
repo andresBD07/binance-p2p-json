@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T17:02:35.069760",
-  "actualizado_vzla": "2026-02-01 13:02:35 -04",
+  "timestamp_utc": "2026-02-01T17:37:43.890217",
+  "actualizado_vzla": "2026-02-01 13:37:43 -04",
   "compra_segundo": {
-    "price": 515.0,
-    "name": "Camilo171"
+    "price": 514.5,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
     "price": 515.1,
     "name": "SasukeTrader"
   },
-  "promedio": 515.05,
+  "promedio": 514.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
