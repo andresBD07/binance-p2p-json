@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T02:34:35.272239",
-  "actualizado_vzla": "2026-01-31 22:34:35 -04",
+  "timestamp_utc": "2026-02-01T04:51:36.386589",
+  "actualizado_vzla": "2026-02-01 00:51:36 -04",
   "compra_segundo": {
-    "price": 514.3,
-    "name": "InvMiggy"
+    "price": 515.5,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 513.0,
-    "name": "Trading_Universe"
+    "price": 511.3,
+    "name": "Rapidflorio84"
   },
-  "promedio": 513.65,
+  "promedio": 513.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
