@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T10:36:32.751470",
-  "actualizado_vzla": "2026-02-01 06:36:32 -04",
+  "timestamp_utc": "2026-02-01T10:59:05.863186",
+  "actualizado_vzla": "2026-02-01 06:59:05 -04",
   "compra_segundo": {
-    "price": 515.88,
-    "name": "labebe2222"
+    "price": 515.8,
+    "name": "EltioExchange"
   },
   "venta_maxima": {
     "price": 511.3,
     "name": "Rapidflorio84"
   },
-  "promedio": 513.59,
+  "promedio": 513.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
