@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T20:57:55.773744",
-  "actualizado_vzla": "2026-02-01 16:57:55 -04",
+  "timestamp_utc": "2026-02-01T21:32:53.027287",
+  "actualizado_vzla": "2026-02-01 17:32:53 -04",
   "compra_segundo": {
-    "price": 512.299,
-    "name": "RSTrader_"
+    "price": 512.388,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 511.1,
-    "name": "-Godgiven-"
+    "price": 513.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 511.7,
+  "promedio": 512.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
