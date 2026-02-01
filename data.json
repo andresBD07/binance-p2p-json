@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T04:51:36.386589",
-  "actualizado_vzla": "2026-02-01 00:51:36 -04",
+  "timestamp_utc": "2026-02-01T05:58:02.767015",
+  "actualizado_vzla": "2026-02-01 01:58:02 -04",
   "compra_segundo": {
-    "price": 515.5,
-    "name": "InversionesMR"
+    "price": 515.8,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
     "price": 511.3,
     "name": "Rapidflorio84"
   },
-  "promedio": 513.4,
+  "promedio": 513.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
