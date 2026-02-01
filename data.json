@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T22:25:55.891370",
-  "actualizado_vzla": "2026-02-01 18:25:55 -04",
+  "timestamp_utc": "2026-02-01T22:53:53.236357",
+  "actualizado_vzla": "2026-02-01 18:53:53 -04",
   "compra_segundo": {
-    "price": 512.33,
-    "name": "Jacob2820"
+    "price": 512.9,
+    "name": "Yorope21"
   },
   "venta_maxima": {
     "price": 511.5,
     "name": "梅CityCambio爱"
   },
-  "promedio": 511.92,
+  "promedio": 512.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
