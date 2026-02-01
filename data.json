@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T09:30:46.600386",
-  "actualizado_vzla": "2026-02-01 05:30:46 -04",
+  "timestamp_utc": "2026-02-01T09:55:50.056665",
+  "actualizado_vzla": "2026-02-01 05:55:50 -04",
   "compra_segundo": {
-    "price": 516.0,
-    "name": "Osu199x"
+    "price": 515.8,
+    "name": "mandy02"
   },
   "venta_maxima": {
     "price": 511.3,
     "name": "Rapidflorio84"
   },
-  "promedio": 513.65,
+  "promedio": 513.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
