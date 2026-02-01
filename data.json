@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T19:57:04.953319",
-  "actualizado_vzla": "2026-02-01 15:57:04 -04",
+  "timestamp_utc": "2026-02-01T20:37:24.123916",
+  "actualizado_vzla": "2026-02-01 16:37:24 -04",
   "compra_segundo": {
-    "price": 513.2,
-    "name": "TraderMasterrr"
+    "price": 512.0,
+    "name": "MANÓN-P2P"
   },
   "venta_maxima": {
-    "price": 512.6,
-    "name": "安全与信任"
+    "price": 511.78,
+    "name": "May2524"
   },
-  "promedio": 512.9,
+  "promedio": 511.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
