@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T20:37:24.123916",
-  "actualizado_vzla": "2026-02-01 16:37:24 -04",
+  "timestamp_utc": "2026-02-01T20:57:55.773744",
+  "actualizado_vzla": "2026-02-01 16:57:55 -04",
   "compra_segundo": {
-    "price": 512.0,
-    "name": "MANÓN-P2P"
+    "price": 512.299,
+    "name": "RSTrader_"
   },
   "venta_maxima": {
-    "price": 511.78,
-    "name": "May2524"
+    "price": 511.1,
+    "name": "-Godgiven-"
   },
-  "promedio": 511.89,
+  "promedio": 511.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
