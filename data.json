@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T10:00:23.510412",
-  "actualizado_vzla": "2026-02-02 06:00:23 -04",
+  "timestamp_utc": "2026-02-02T11:00:24.888905",
+  "actualizado_vzla": "2026-02-02 07:00:24 -04",
   "compra_segundo": {
-    "price": 519.889,
-    "name": "CAMBIO MATHIAS "
+    "price": 517.9,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
-    "price": 512.5,
-    "name": "Daikokuten-Finance"
+    "price": 513.35,
+    "name": "jssepro"
   },
-  "promedio": 516.19,
+  "promedio": 515.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
