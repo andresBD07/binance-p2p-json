@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T04:36:31.561066",
-  "actualizado_vzla": "2026-02-02 00:36:31 -04",
+  "timestamp_utc": "2026-02-02T05:50:33.510410",
+  "actualizado_vzla": "2026-02-02 01:50:33 -04",
   "compra_segundo": {
-    "price": 520.0,
-    "name": "LUISHERNANDEZ"
+    "price": 521.2,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 515.3,
-    "name": "-Vallenatero-"
+    "price": 513.92,
+    "name": "CriollosMONEY"
   },
-  "promedio": 517.65,
+  "promedio": 517.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
