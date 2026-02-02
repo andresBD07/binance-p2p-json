@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T05:50:33.510410",
-  "actualizado_vzla": "2026-02-02 01:50:33 -04",
+  "timestamp_utc": "2026-02-02T06:56:39.144657",
+  "actualizado_vzla": "2026-02-02 02:56:39 -04",
   "compra_segundo": {
-    "price": 521.2,
-    "name": "Daikokuten-Finance"
+    "price": 521.9,
+    "name": "CambiosDragon"
   },
   "venta_maxima": {
-    "price": 513.92,
+    "price": 514.162,
     "name": "CriollosMONEY"
   },
-  "promedio": 517.56,
+  "promedio": 518.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
