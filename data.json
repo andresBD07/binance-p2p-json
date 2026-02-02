@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T12:25:53.853513",
-  "actualizado_vzla": "2026-02-02 08:25:53 -04",
+  "timestamp_utc": "2026-02-02T13:43:49.811522",
+  "actualizado_vzla": "2026-02-02 09:43:49 -04",
   "compra_segundo": {
-    "price": 515.6,
-    "name": "maikolmai"
+    "price": 513.399,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
-    "price": 514.1,
-    "name": "-Godgiven-"
+    "price": 518.0,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 514.85,
+  "promedio": 515.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
