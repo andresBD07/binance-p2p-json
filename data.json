@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T23:16:40.744684",
-  "actualizado_vzla": "2026-02-02 19:16:40 -04",
+  "timestamp_utc": "2026-02-02T23:47:35.655461",
+  "actualizado_vzla": "2026-02-02 19:47:35 -04",
   "compra_segundo": {
-    "price": 525.945,
-    "name": "JMCrip26"
+    "price": 527.0,
+    "name": "Angellys28"
   },
   "venta_maxima": {
-    "price": 528.2,
-    "name": "CamburPlus"
+    "price": 528.5,
+    "name": "Gustavo129"
   },
-  "promedio": 527.07,
+  "promedio": 527.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
