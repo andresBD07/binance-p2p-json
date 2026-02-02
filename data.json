@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T14:29:45.527673",
-  "actualizado_vzla": "2026-02-02 10:29:45 -04",
+  "timestamp_utc": "2026-02-02T15:22:58.633099",
+  "actualizado_vzla": "2026-02-02 11:22:58 -04",
   "compra_segundo": {
-    "price": 520.0,
-    "name": "Christiancinho"
+    "price": 520.2,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
     "price": 521.0,
-    "name": "Vitatech"
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 520.5,
+  "promedio": 520.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
