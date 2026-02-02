@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T15:22:58.633099",
-  "actualizado_vzla": "2026-02-02 11:22:58 -04",
+  "timestamp_utc": "2026-02-02T15:58:38.941175",
+  "actualizado_vzla": "2026-02-02 11:58:38 -04",
   "compra_segundo": {
-    "price": 520.2,
-    "name": "ChangerExpress"
+    "price": 517.93,
+    "name": "SATUPLE13"
   },
   "venta_maxima": {
-    "price": 521.0,
-    "name": "Jin-Woo-Sung"
+    "price": 517.502,
+    "name": "All-inCrypto"
   },
-  "promedio": 520.6,
+  "promedio": 517.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
