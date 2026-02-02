@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-01T23:53:21.218878",
-  "actualizado_vzla": "2026-02-01 19:53:21 -04",
+  "timestamp_utc": "2026-02-02T02:28:18.528368",
+  "actualizado_vzla": "2026-02-01 22:28:18 -04",
   "compra_segundo": {
-    "price": 513.89,
-    "name": "Ronin-EXCHANGE"
+    "price": 515.6,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 512.5,
-    "name": "c_s_"
+    "price": 513.6,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 513.19,
+  "promedio": 514.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
