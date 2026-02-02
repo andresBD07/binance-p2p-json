@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T13:43:49.811522",
-  "actualizado_vzla": "2026-02-02 09:43:49 -04",
+  "timestamp_utc": "2026-02-02T14:29:45.527673",
+  "actualizado_vzla": "2026-02-02 10:29:45 -04",
   "compra_segundo": {
-    "price": 513.399,
-    "name": "R0ckandR0ll"
+    "price": 520.0,
+    "name": "Christiancinho"
   },
   "venta_maxima": {
-    "price": 518.0,
-    "name": "Jin-Woo-Sung"
+    "price": 521.0,
+    "name": "Vitatech"
   },
-  "promedio": 515.7,
+  "promedio": 520.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
