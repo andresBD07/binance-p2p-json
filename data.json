@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T08:55:22.116622",
-  "actualizado_vzla": "2026-02-02 04:55:22 -04",
+  "timestamp_utc": "2026-02-02T10:00:23.510412",
+  "actualizado_vzla": "2026-02-02 06:00:23 -04",
   "compra_segundo": {
-    "price": 521.0,
-    "name": "Keria23"
+    "price": 519.889,
+    "name": "CAMBIO MATHIAS "
   },
   "venta_maxima": {
-    "price": 512.0,
-    "name": "cazing2230"
+    "price": 512.5,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 516.5,
+  "promedio": 516.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
