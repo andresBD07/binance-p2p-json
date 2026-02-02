@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T07:55:19.092942",
-  "actualizado_vzla": "2026-02-02 03:55:19 -04",
+  "timestamp_utc": "2026-02-02T08:55:22.116622",
+  "actualizado_vzla": "2026-02-02 04:55:22 -04",
   "compra_segundo": {
-    "price": 521.8,
-    "name": "GaAle19"
+    "price": 521.0,
+    "name": "Keria23"
   },
   "venta_maxima": {
-    "price": 514.0,
-    "name": "GusGus-777"
+    "price": 512.0,
+    "name": "cazing2230"
   },
-  "promedio": 517.9,
+  "promedio": 516.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
