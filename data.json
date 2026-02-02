@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-02T06:56:39.144657",
-  "actualizado_vzla": "2026-02-02 02:56:39 -04",
+  "timestamp_utc": "2026-02-02T07:55:19.092942",
+  "actualizado_vzla": "2026-02-02 03:55:19 -04",
   "compra_segundo": {
-    "price": 521.9,
-    "name": "CambiosDragon"
+    "price": 521.8,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 514.162,
-    "name": "CriollosMONEY"
+    "price": 514.0,
+    "name": "GusGus-777"
   },
-  "promedio": 518.03,
+  "promedio": 517.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
