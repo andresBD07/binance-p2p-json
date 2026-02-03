@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T11:49:44.542885",
-  "actualizado_vzla": "2026-02-03 07:49:44 -04",
+  "timestamp_utc": "2026-02-03T12:39:29.777141",
+  "actualizado_vzla": "2026-02-03 08:39:29 -04",
   "compra_segundo": {
-    "price": 527.99,
-    "name": "LinkVzla"
+    "price": 523.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 525.5,
-    "name": "talepagos"
+    "price": 521.5,
+    "name": "c_s_"
   },
-  "promedio": 526.75,
+  "promedio": 522.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
