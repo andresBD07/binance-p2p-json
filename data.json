@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T15:34:05.752724",
-  "actualizado_vzla": "2026-02-03 11:34:05 -04",
+  "timestamp_utc": "2026-02-03T16:32:19.709655",
+  "actualizado_vzla": "2026-02-03 12:32:19 -04",
   "compra_segundo": {
-    "price": 523.899,
-    "name": "SMRcambio"
+    "price": 523.2,
+    "name": "racaste"
   },
   "venta_maxima": {
-    "price": 524.6,
-    "name": "CAMBIOS AVILA "
+    "price": 525.7,
+    "name": "已連接"
   },
-  "promedio": 524.25,
+  "promedio": 524.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
