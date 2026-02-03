@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T10:23:54.035721",
-  "actualizado_vzla": "2026-02-03 06:23:54 -04",
+  "timestamp_utc": "2026-02-03T11:07:33.991854",
+  "actualizado_vzla": "2026-02-03 07:07:34 -04",
   "compra_segundo": {
-    "price": 530.8,
-    "name": "ÉvaristeGalois"
+    "price": 529.899,
+    "name": "jonathan-2402"
   },
   "venta_maxima": {
-    "price": 526.1,
-    "name": "Good-traderl"
+    "price": 526.0,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 528.45,
+  "promedio": 527.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
