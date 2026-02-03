@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T16:32:19.709655",
-  "actualizado_vzla": "2026-02-03 12:32:19 -04",
+  "timestamp_utc": "2026-02-03T17:34:45.738972",
+  "actualizado_vzla": "2026-02-03 13:34:45 -04",
   "compra_segundo": {
-    "price": 523.2,
-    "name": "racaste"
+    "price": 524.19,
+    "name": "PonqueMercado"
   },
   "venta_maxima": {
-    "price": 525.7,
-    "name": "已連接"
+    "price": 526.6,
+    "name": "Keria23"
   },
-  "promedio": 524.45,
+  "promedio": 525.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
