@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T17:34:45.738972",
-  "actualizado_vzla": "2026-02-03 13:34:45 -04",
+  "timestamp_utc": "2026-02-03T18:34:17.888942",
+  "actualizado_vzla": "2026-02-03 14:34:17 -04",
   "compra_segundo": {
-    "price": 524.19,
-    "name": "PonqueMercado"
+    "price": 527.0,
+    "name": "HugginsLabsP2P"
   },
   "venta_maxima": {
-    "price": 526.6,
-    "name": "Keria23"
+    "price": 527.33,
+    "name": "BerracoT"
   },
-  "promedio": 525.39,
+  "promedio": 527.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
