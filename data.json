@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T05:07:19.489006",
-  "actualizado_vzla": "2026-02-03 01:07:19 -04",
+  "timestamp_utc": "2026-02-03T06:06:03.393882",
+  "actualizado_vzla": "2026-02-03 02:06:03 -04",
   "compra_segundo": {
-    "price": 533.9,
-    "name": "Marquez25"
+    "price": 534.7,
+    "name": "TransJ_J"
   },
   "venta_maxima": {
-    "price": 527.0,
-    "name": "CRIPTOP2P-CRIPTO"
+    "price": 526.701,
+    "name": "VR46-"
   },
-  "promedio": 530.45,
+  "promedio": 530.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
