@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T21:35:18.195138",
-  "actualizado_vzla": "2026-02-03 17:35:18 -04",
+  "timestamp_utc": "2026-02-03T22:03:07.484431",
+  "actualizado_vzla": "2026-02-03 18:03:07 -04",
   "compra_segundo": {
-    "price": 531.369,
-    "name": "Inversiones-Bell12"
+    "price": 531.198,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
     "price": 534.5,
     "name": "安全与信任"
   },
-  "promedio": 532.93,
+  "promedio": 532.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
