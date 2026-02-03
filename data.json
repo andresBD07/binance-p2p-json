@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T07:10:20.202792",
-  "actualizado_vzla": "2026-02-03 03:10:20 -04",
+  "timestamp_utc": "2026-02-03T07:56:14.707098",
+  "actualizado_vzla": "2026-02-03 03:56:14 -04",
   "compra_segundo": {
-    "price": 537.0,
-    "name": "JehovahJirehE"
+    "price": 534.999,
+    "name": "EduardoArrieche"
   },
   "venta_maxima": {
     "price": 525.7,
     "name": "InvMiggy"
   },
-  "promedio": 531.35,
+  "promedio": 530.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
