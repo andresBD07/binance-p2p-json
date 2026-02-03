@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T22:03:07.484431",
-  "actualizado_vzla": "2026-02-03 18:03:07 -04",
+  "timestamp_utc": "2026-02-03T22:48:24.348488",
+  "actualizado_vzla": "2026-02-03 18:48:24 -04",
   "compra_segundo": {
-    "price": 531.198,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 532.75,
+    "name": "MATTHCAPITAL"
   },
   "venta_maxima": {
     "price": 534.5,
-    "name": "安全与信任"
+    "name": "梅CityCambio爱"
   },
-  "promedio": 532.85,
+  "promedio": 533.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
