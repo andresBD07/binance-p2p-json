@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T08:51:30.377108",
-  "actualizado_vzla": "2026-02-03 04:51:30 -04",
+  "timestamp_utc": "2026-02-03T09:37:40.094582",
+  "actualizado_vzla": "2026-02-03 05:37:40 -04",
   "compra_segundo": {
-    "price": 534.0,
-    "name": "Reimaryp"
+    "price": 532.3,
+    "name": "Osu199x"
   },
   "venta_maxima": {
-    "price": 525.7,
-    "name": "InvMiggy"
+    "price": 526.55,
+    "name": "Good-traderl"
   },
-  "promedio": 529.85,
+  "promedio": 529.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
