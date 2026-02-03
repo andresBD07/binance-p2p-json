@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T14:39:44.868270",
-  "actualizado_vzla": "2026-02-03 10:39:44 -04",
+  "timestamp_utc": "2026-02-03T15:34:05.752724",
+  "actualizado_vzla": "2026-02-03 11:34:05 -04",
   "compra_segundo": {
-    "price": 517.95,
-    "name": "Shibundo"
+    "price": 523.899,
+    "name": "SMRcambio"
   },
   "venta_maxima": {
-    "price": 521.5,
+    "price": 524.6,
     "name": "CAMBIOS AVILA "
   },
-  "promedio": 519.73,
+  "promedio": 524.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
