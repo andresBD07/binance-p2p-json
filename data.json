@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T12:39:29.777141",
-  "actualizado_vzla": "2026-02-03 08:39:29 -04",
+  "timestamp_utc": "2026-02-03T13:50:21.900391",
+  "actualizado_vzla": "2026-02-03 09:50:21 -04",
   "compra_segundo": {
-    "price": 523.0,
-    "name": "lamejoropcion"
+    "price": 519.8,
+    "name": "Keria23"
   },
   "venta_maxima": {
-    "price": 521.5,
-    "name": "c_s_"
+    "price": 519.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 522.25,
+  "promedio": 519.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
