@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T18:34:17.888942",
-  "actualizado_vzla": "2026-02-03 14:34:17 -04",
+  "timestamp_utc": "2026-02-03T19:32:43.699007",
+  "actualizado_vzla": "2026-02-03 15:32:43 -04",
   "compra_segundo": {
-    "price": 527.0,
-    "name": "HugginsLabsP2P"
+    "price": 526.4,
+    "name": "Beregoza"
   },
   "venta_maxima": {
-    "price": 527.33,
-    "name": "BerracoT"
+    "price": 527.5,
+    "name": "cazing2230-2"
   },
-  "promedio": 527.16,
+  "promedio": 526.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
