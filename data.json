@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T22:01:32.626998",
-  "actualizado_vzla": "2026-02-04 18:01:32 -04",
+  "timestamp_utc": "2026-02-04T22:43:35.494666",
+  "actualizado_vzla": "2026-02-04 18:43:35 -04",
   "compra_segundo": {
-    "price": 532.1,
-    "name": "Rapid-Pay-Exchance"
+    "price": 532.6,
+    "name": "_Dinastia_"
   },
   "venta_maxima": {
-    "price": 535.1,
+    "price": 535.0,
     "name": "贝HarveySpecter贝"
   },
-  "promedio": 533.6,
+  "promedio": 533.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
