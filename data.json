@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T11:54:47.230390",
-  "actualizado_vzla": "2026-02-04 07:54:47 -04",
+  "timestamp_utc": "2026-02-04T13:13:55.552288",
+  "actualizado_vzla": "2026-02-04 09:13:55 -04",
   "compra_segundo": {
-    "price": 528.0,
-    "name": "maikolmai"
+    "price": 528.8,
+    "name": "Alerapi"
   },
   "venta_maxima": {
-    "price": 526.2,
+    "price": 528.6,
     "name": "ALASKA-"
   },
-  "promedio": 527.1,
+  "promedio": 528.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
