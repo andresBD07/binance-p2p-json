@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-03T23:47:57.847214",
-  "actualizado_vzla": "2026-02-03 19:47:57 -04",
+  "timestamp_utc": "2026-02-04T00:56:27.849963",
+  "actualizado_vzla": "2026-02-03 20:56:27 -04",
   "compra_segundo": {
-    "price": 531.67,
-    "name": "RapidEnvios"
+    "price": 531.19,
+    "name": "LTCambiosRapido"
   },
   "venta_maxima": {
-    "price": 531.8,
+    "price": 531.5,
     "name": "Brawcoins"
   },
-  "promedio": 531.73,
+  "promedio": 531.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
