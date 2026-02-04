@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T23:02:08.855597",
-  "actualizado_vzla": "2026-02-04 19:02:08 -04",
+  "timestamp_utc": "2026-02-04T23:39:24.607555",
+  "actualizado_vzla": "2026-02-04 19:39:24 -04",
   "compra_segundo": {
-    "price": 532.999,
-    "name": "CambiosToGo"
+    "price": 534.0,
+    "name": "你理想的改變"
   },
   "venta_maxima": {
-    "price": 535.5,
+    "price": 535.0,
     "name": "贝HarveySpecter贝"
   },
-  "promedio": 534.25,
+  "promedio": 534.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
