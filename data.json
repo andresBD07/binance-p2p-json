@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T22:43:35.494666",
-  "actualizado_vzla": "2026-02-04 18:43:35 -04",
+  "timestamp_utc": "2026-02-04T23:02:08.855597",
+  "actualizado_vzla": "2026-02-04 19:02:08 -04",
   "compra_segundo": {
-    "price": 532.6,
-    "name": "_Dinastia_"
+    "price": 532.999,
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
-    "price": 535.0,
+    "price": 535.5,
     "name": "贝HarveySpecter贝"
   },
-  "promedio": 533.8,
+  "promedio": 534.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
