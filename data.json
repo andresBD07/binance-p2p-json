@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T03:35:14.604426",
-  "actualizado_vzla": "2026-02-03 23:35:14 -04",
+  "timestamp_utc": "2026-02-04T05:00:52.381981",
+  "actualizado_vzla": "2026-02-04 01:00:52 -04",
   "compra_segundo": {
-    "price": 531.74,
-    "name": "WallStret"
+    "price": 531.9,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 531.5,
-    "name": "安全与信任"
+    "price": 530.0,
+    "name": "TPhillips"
   },
-  "promedio": 531.62,
+  "promedio": 530.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
