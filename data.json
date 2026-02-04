@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T10:44:52.253954",
-  "actualizado_vzla": "2026-02-04 06:44:52 -04",
+  "timestamp_utc": "2026-02-04T11:22:50.039614",
+  "actualizado_vzla": "2026-02-04 07:22:50 -04",
   "compra_segundo": {
-    "price": 530.68,
-    "name": "Cambios-al-instante"
+    "price": 529.8,
+    "name": "Kiuty"
   },
   "venta_maxima": {
     "price": 530.0,
     "name": "TPhillips"
   },
-  "promedio": 530.34,
+  "promedio": 529.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
