@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T05:00:52.381981",
-  "actualizado_vzla": "2026-02-04 01:00:52 -04",
+  "timestamp_utc": "2026-02-04T06:00:44.712088",
+  "actualizado_vzla": "2026-02-04 02:00:44 -04",
   "compra_segundo": {
-    "price": 531.9,
-    "name": "_cambioBTC"
+    "price": 532.999,
+    "name": "ron2409"
   },
   "venta_maxima": {
     "price": 530.0,
     "name": "TPhillips"
   },
-  "promedio": 530.95,
+  "promedio": 531.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
