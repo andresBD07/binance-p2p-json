@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T19:04:00.745591",
-  "actualizado_vzla": "2026-02-04 15:04:00 -04",
+  "timestamp_utc": "2026-02-04T19:49:44.625205",
+  "actualizado_vzla": "2026-02-04 15:49:44 -04",
   "compra_segundo": {
-    "price": 531.0,
-    "name": "Camilo171"
+    "price": 532.0,
+    "name": "Crypto_Oslian"
   },
   "venta_maxima": {
-    "price": 537.0,
-    "name": "-Saitama-"
+    "price": 533.0,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 534.0,
+  "promedio": 532.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
