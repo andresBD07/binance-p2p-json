@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T21:01:22.252416",
-  "actualizado_vzla": "2026-02-04 17:01:22 -04",
+  "timestamp_utc": "2026-02-04T21:45:38.254263",
+  "actualizado_vzla": "2026-02-04 17:45:38 -04",
   "compra_segundo": {
-    "price": 532.7,
-    "name": "R0ckandR0ll"
+    "price": 532.0,
+    "name": "Waldofx"
   },
   "venta_maxima": {
-    "price": 533.5,
+    "price": 535.1,
     "name": "贝HarveySpecter贝"
   },
-  "promedio": 533.1,
+  "promedio": 533.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
