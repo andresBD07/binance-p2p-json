@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T23:39:24.607555",
-  "actualizado_vzla": "2026-02-04 19:39:24 -04",
+  "timestamp_utc": "2026-02-04T23:59:49.110759",
+  "actualizado_vzla": "2026-02-04 19:59:49 -04",
   "compra_segundo": {
-    "price": 534.0,
-    "name": "你理想的改變"
+    "price": 533.9,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 535.0,
-    "name": "贝HarveySpecter贝"
+    "price": 533.5,
+    "name": "Angelojbs"
   },
-  "promedio": 534.5,
+  "promedio": 533.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
