@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T14:10:18.371605",
-  "actualizado_vzla": "2026-02-04 10:10:18 -04",
+  "timestamp_utc": "2026-02-04T15:02:45.065235",
+  "actualizado_vzla": "2026-02-04 11:02:45 -04",
   "compra_segundo": {
-    "price": 523.1,
-    "name": "Atenea11"
+    "price": 524.899,
+    "name": "*CriptoSeguro*"
   },
   "venta_maxima": {
-    "price": 523.0,
-    "name": "Biyt"
+    "price": 527.0,
+    "name": "VERTUOK"
   },
-  "promedio": 523.05,
+  "promedio": 525.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
