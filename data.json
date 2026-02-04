@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T06:00:44.712088",
-  "actualizado_vzla": "2026-02-04 02:00:44 -04",
+  "timestamp_utc": "2026-02-04T07:07:32.101250",
+  "actualizado_vzla": "2026-02-04 03:07:32 -04",
   "compra_segundo": {
-    "price": 532.999,
-    "name": "ron2409"
+    "price": 533.4,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
     "price": 530.0,
     "name": "TPhillips"
   },
-  "promedio": 531.5,
+  "promedio": 531.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
