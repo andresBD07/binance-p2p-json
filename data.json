@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-04T00:56:27.849963",
-  "actualizado_vzla": "2026-02-03 20:56:27 -04",
+  "timestamp_utc": "2026-02-04T03:35:14.604426",
+  "actualizado_vzla": "2026-02-03 23:35:14 -04",
   "compra_segundo": {
-    "price": 531.19,
-    "name": "LTCambiosRapido"
+    "price": 531.74,
+    "name": "WallStret"
   },
   "venta_maxima": {
     "price": 531.5,
-    "name": "Brawcoins"
+    "name": "安全与信任"
   },
-  "promedio": 531.35,
+  "promedio": 531.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
