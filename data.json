@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T02:51:39.467923",
-  "actualizado_vzla": "2026-02-04 22:51:39 -04",
+  "timestamp_utc": "2026-02-05T04:45:46.652846",
+  "actualizado_vzla": "2026-02-05 00:45:46 -04",
   "compra_segundo": {
-    "price": 533.499,
-    "name": "vivilocho"
+    "price": 533.988,
+    "name": "Charro_Business"
   },
   "venta_maxima": {
-    "price": 535.0,
-    "name": "TPhillips"
+    "price": 533.5,
+    "name": "SasukeTrader"
   },
-  "promedio": 534.25,
+  "promedio": 533.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
