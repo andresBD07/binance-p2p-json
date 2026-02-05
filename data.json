@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T16:25:04.152789",
-  "actualizado_vzla": "2026-02-05 12:25:04 -04",
+  "timestamp_utc": "2026-02-05T17:27:46.684395",
+  "actualizado_vzla": "2026-02-05 13:27:46 -04",
   "compra_segundo": {
-    "price": 536.601,
-    "name": "ミReinaPepiadaCoinミ"
+    "price": 540.8,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 537.6,
-    "name": "-Godgiven-"
+    "price": 541.9,
+    "name": "Biyt"
   },
-  "promedio": 537.1,
+  "promedio": 541.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
