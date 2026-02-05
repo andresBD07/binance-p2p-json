@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T19:24:00.415586",
-  "actualizado_vzla": "2026-02-05 15:24:00 -04",
+  "timestamp_utc": "2026-02-05T19:58:09.982300",
+  "actualizado_vzla": "2026-02-05 15:58:09 -04",
   "compra_segundo": {
-    "price": 541.5,
-    "name": "Waldofx"
+    "price": 541.2,
+    "name": "BILLETERA P2P "
   },
   "venta_maxima": {
     "price": 546.0,
     "name": "-Godgiven-"
   },
-  "promedio": 543.75,
+  "promedio": 543.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
