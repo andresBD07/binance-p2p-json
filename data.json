@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T15:29:44.927984",
-  "actualizado_vzla": "2026-02-05 11:29:44 -04",
+  "timestamp_utc": "2026-02-05T16:25:04.152789",
+  "actualizado_vzla": "2026-02-05 12:25:04 -04",
   "compra_segundo": {
-    "price": 535.4,
-    "name": "Amaz0nas-CRIPTO"
+    "price": 536.601,
+    "name": "ミReinaPepiadaCoinミ"
   },
   "venta_maxima": {
-    "price": 537.5,
+    "price": 537.6,
     "name": "-Godgiven-"
   },
-  "promedio": 536.45,
+  "promedio": 537.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
