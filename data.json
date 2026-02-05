@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T22:52:36.415064",
-  "actualizado_vzla": "2026-02-05 18:52:36 -04",
+  "timestamp_utc": "2026-02-05T23:23:36.945799",
+  "actualizado_vzla": "2026-02-05 19:23:36 -04",
   "compra_segundo": {
-    "price": 542.5,
-    "name": "Mero-Mero"
+    "price": 543.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 546.0,
+    "price": 547.0,
     "name": "安全与信任"
   },
-  "promedio": 544.25,
+  "promedio": 545.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
