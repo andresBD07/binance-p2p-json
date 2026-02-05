@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T04:45:46.652846",
-  "actualizado_vzla": "2026-02-05 00:45:46 -04",
+  "timestamp_utc": "2026-02-05T05:44:36.328637",
+  "actualizado_vzla": "2026-02-05 01:44:36 -04",
   "compra_segundo": {
-    "price": 533.988,
-    "name": "Charro_Business"
+    "price": 534.29,
+    "name": "PrecozPay"
   },
   "venta_maxima": {
-    "price": 533.5,
-    "name": "SasukeTrader"
+    "price": 530.7,
+    "name": "Puro lomito"
   },
-  "promedio": 533.74,
+  "promedio": 532.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
