@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T23:23:36.945799",
-  "actualizado_vzla": "2026-02-05 19:23:36 -04",
+  "timestamp_utc": "2026-02-05T23:49:00.179581",
+  "actualizado_vzla": "2026-02-05 19:49:00 -04",
   "compra_segundo": {
-    "price": 543.0,
-    "name": "ElCandidoP2P"
+    "price": 543.1,
+    "name": "Cambiosunicosrey"
   },
   "venta_maxima": {
     "price": 547.0,
     "name": "安全与信任"
   },
-  "promedio": 545.0,
+  "promedio": 545.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
