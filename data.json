@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T11:03:02.851905",
-  "actualizado_vzla": "2026-02-05 07:03:02 -04",
+  "timestamp_utc": "2026-02-05T11:47:40.722668",
+  "actualizado_vzla": "2026-02-05 07:47:40 -04",
   "compra_segundo": {
-    "price": 530.999,
-    "name": "Transacción Segura"
+    "price": 530.9,
+    "name": "willbyruz"
   },
   "venta_maxima": {
-    "price": 529.1,
-    "name": "DTFM-RD"
+    "price": 532.5,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 530.05,
+  "promedio": 531.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
