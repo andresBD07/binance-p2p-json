@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T08:25:47.680136",
-  "actualizado_vzla": "2026-02-05 04:25:47 -04",
+  "timestamp_utc": "2026-02-05T09:24:07.390830",
+  "actualizado_vzla": "2026-02-05 05:24:07 -04",
   "compra_segundo": {
-    "price": 534.0,
-    "name": "GaAle19"
+    "price": 533.0,
+    "name": "-Flash-XChange-"
   },
   "venta_maxima": {
     "price": 533.5,
     "name": "SasukeTrader"
   },
-  "promedio": 533.75,
+  "promedio": 533.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
