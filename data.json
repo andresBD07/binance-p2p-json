@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T11:47:40.722668",
-  "actualizado_vzla": "2026-02-05 07:47:40 -04",
+  "timestamp_utc": "2026-02-05T12:29:14.422688",
+  "actualizado_vzla": "2026-02-05 08:29:14 -04",
   "compra_segundo": {
-    "price": 530.9,
-    "name": "willbyruz"
+    "price": 531.3,
+    "name": "Wis3Trading"
   },
   "venta_maxima": {
-    "price": 532.5,
-    "name": "贝HarveySpecter贝"
+    "price": 535.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 531.7,
+  "promedio": 533.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
