@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T10:09:06.176735",
-  "actualizado_vzla": "2026-02-05 06:09:06 -04",
+  "timestamp_utc": "2026-02-05T11:03:02.851905",
+  "actualizado_vzla": "2026-02-05 07:03:02 -04",
   "compra_segundo": {
-    "price": 531.499,
-    "name": "Cambios-al-instante"
+    "price": 530.999,
+    "name": "Transacción Segura"
   },
   "venta_maxima": {
-    "price": 533.5,
-    "name": "SasukeTrader"
+    "price": 529.1,
+    "name": "DTFM-RD"
   },
-  "promedio": 532.5,
+  "promedio": 530.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
