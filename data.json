@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T12:29:14.422688",
-  "actualizado_vzla": "2026-02-05 08:29:14 -04",
+  "timestamp_utc": "2026-02-05T13:48:56.067913",
+  "actualizado_vzla": "2026-02-05 09:48:56 -04",
   "compra_segundo": {
-    "price": 531.3,
-    "name": "Wis3Trading"
+    "price": 534.989,
+    "name": "Sharkypay"
   },
   "venta_maxima": {
-    "price": 535.0,
+    "price": 536.0,
     "name": "-Godgiven-"
   },
-  "promedio": 533.15,
+  "promedio": 535.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
