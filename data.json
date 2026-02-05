@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T22:19:08.345359",
-  "actualizado_vzla": "2026-02-05 18:19:08 -04",
+  "timestamp_utc": "2026-02-05T22:52:36.415064",
+  "actualizado_vzla": "2026-02-05 18:52:36 -04",
   "compra_segundo": {
-    "price": 541.5,
-    "name": "P2PGsmart"
+    "price": 542.5,
+    "name": "Mero-Mero"
   },
   "venta_maxima": {
-    "price": 545.1,
-    "name": "willr99"
+    "price": 546.0,
+    "name": "安全与信任"
   },
-  "promedio": 543.3,
+  "promedio": 544.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
