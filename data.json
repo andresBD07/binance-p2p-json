@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-05T23:49:00.179581",
-  "actualizado_vzla": "2026-02-05 19:49:00 -04",
+  "timestamp_utc": "2026-02-06T01:09:29.737532",
+  "actualizado_vzla": "2026-02-05 21:09:29 -04",
   "compra_segundo": {
-    "price": 543.1,
-    "name": "Cambiosunicosrey"
+    "price": 545.0,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
     "price": 547.0,
     "name": "安全与信任"
   },
-  "promedio": 545.05,
+  "promedio": 546.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
