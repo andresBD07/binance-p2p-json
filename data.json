@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T16:54:56.403998",
-  "actualizado_vzla": "2026-02-06 12:54:56 -04",
+  "timestamp_utc": "2026-02-06T17:48:50.184753",
+  "actualizado_vzla": "2026-02-06 13:48:50 -04",
   "compra_segundo": {
-    "price": 548.69,
-    "name": "SMA_SPA"
+    "price": 552.69,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 553.0,
+    "price": 556.0,
     "name": "-Godgiven-"
   },
-  "promedio": 550.85,
+  "promedio": 554.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
