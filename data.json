@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T20:47:05.688735",
-  "actualizado_vzla": "2026-02-06 16:47:05 -04",
+  "timestamp_utc": "2026-02-06T21:17:50.979814",
+  "actualizado_vzla": "2026-02-06 17:17:50 -04",
   "compra_segundo": {
-    "price": 557.03,
-    "name": "Jacob2820"
+    "price": 559.0,
+    "name": "ZenTrades"
   },
   "venta_maxima": {
-    "price": 561.0,
+    "price": 562.0,
     "name": "-Godgiven-"
   },
-  "promedio": 559.01,
+  "promedio": 560.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
