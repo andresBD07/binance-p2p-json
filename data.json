@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T05:07:12.006178",
-  "actualizado_vzla": "2026-02-06 01:07:12 -04",
+  "timestamp_utc": "2026-02-06T06:07:33.939741",
+  "actualizado_vzla": "2026-02-06 02:07:33 -04",
   "compra_segundo": {
-    "price": 546.0,
-    "name": "Perfumehouse "
+    "price": 547.0,
+    "name": "Carlos Bello Trader "
   },
   "venta_maxima": {
     "price": 543.2,
     "name": "c_s_"
   },
-  "promedio": 544.6,
+  "promedio": 545.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
