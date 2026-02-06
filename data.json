@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T18:33:53.242157",
-  "actualizado_vzla": "2026-02-06 14:33:53 -04",
+  "timestamp_utc": "2026-02-06T19:25:17.005244",
+  "actualizado_vzla": "2026-02-06 15:25:17 -04",
   "compra_segundo": {
-    "price": 553.9,
-    "name": "InesCrip"
+    "price": 555.9,
+    "name": "AngelinaTrades"
   },
   "venta_maxima": {
-    "price": 559.0,
+    "price": 560.0,
     "name": "-Godgiven-"
   },
-  "promedio": 556.45,
+  "promedio": 557.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
