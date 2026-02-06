@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T13:21:52.393896",
-  "actualizado_vzla": "2026-02-06 09:21:52 -04",
+  "timestamp_utc": "2026-02-06T14:11:19.044765",
+  "actualizado_vzla": "2026-02-06 10:11:19 -04",
   "compra_segundo": {
-    "price": 545.2,
-    "name": "-_-GRUPOEFICAZ-_-"
+    "price": 546.7,
+    "name": "Tucambiove"
   },
   "venta_maxima": {
-    "price": 547.0,
-    "name": "被放逐的狐狸"
+    "price": 552.0,
+    "name": "安全与信任"
   },
-  "promedio": 546.1,
+  "promedio": 549.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
