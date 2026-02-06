@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T08:57:46.364313",
-  "actualizado_vzla": "2026-02-06 04:57:46 -04",
+  "timestamp_utc": "2026-02-06T09:55:49.794465",
+  "actualizado_vzla": "2026-02-06 05:55:49 -04",
   "compra_segundo": {
-    "price": 546.9,
-    "name": "GregoSwap"
+    "price": 546.5,
+    "name": "Aguilarrfj"
   },
   "venta_maxima": {
-    "price": 545.0,
+    "price": 543.0,
     "name": "VERTUOK"
   },
-  "promedio": 545.95,
+  "promedio": 544.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
