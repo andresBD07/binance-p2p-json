@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T06:07:33.939741",
-  "actualizado_vzla": "2026-02-06 02:07:33 -04",
+  "timestamp_utc": "2026-02-06T07:12:53.271685",
+  "actualizado_vzla": "2026-02-06 03:12:53 -04",
   "compra_segundo": {
-    "price": 547.0,
-    "name": "Carlos Bello Trader "
+    "price": 547.4,
+    "name": "saullopezh"
   },
   "venta_maxima": {
     "price": 543.2,
     "name": "c_s_"
   },
-  "promedio": 545.1,
+  "promedio": 545.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
