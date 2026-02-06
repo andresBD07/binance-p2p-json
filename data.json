@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T10:52:08.181076",
-  "actualizado_vzla": "2026-02-06 06:52:08 -04",
+  "timestamp_utc": "2026-02-06T11:32:27.147400",
+  "actualizado_vzla": "2026-02-06 07:32:27 -04",
   "compra_segundo": {
-    "price": 545.0,
-    "name": "Mito"
+    "price": 544.999,
+    "name": "Softcore"
   },
   "venta_maxima": {
-    "price": 543.0,
+    "price": 544.0,
     "name": "VERTUOK"
   },
-  "promedio": 544.0,
+  "promedio": 544.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
