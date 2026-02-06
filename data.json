@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T15:02:28.245204",
-  "actualizado_vzla": "2026-02-06 11:02:28 -04",
+  "timestamp_utc": "2026-02-06T15:54:49.474055",
+  "actualizado_vzla": "2026-02-06 11:54:49 -04",
   "compra_segundo": {
-    "price": 553.7,
-    "name": "FlowMoney"
+    "price": 556.9,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
-    "price": 558.0,
+    "price": 562.0,
     "name": "-Godgiven-"
   },
-  "promedio": 555.85,
+  "promedio": 559.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
