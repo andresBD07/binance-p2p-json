@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T11:32:27.147400",
-  "actualizado_vzla": "2026-02-06 07:32:27 -04",
+  "timestamp_utc": "2026-02-06T11:59:05.790016",
+  "actualizado_vzla": "2026-02-06 07:59:05 -04",
   "compra_segundo": {
-    "price": 544.999,
-    "name": "Softcore"
+    "price": 544.79,
+    "name": "sami maracay "
   },
   "venta_maxima": {
-    "price": 544.0,
+    "price": 544.5,
     "name": "VERTUOK"
   },
-  "promedio": 544.5,
+  "promedio": 544.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
