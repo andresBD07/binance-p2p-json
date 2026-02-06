@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T23:12:39.601501",
-  "actualizado_vzla": "2026-02-06 19:12:39 -04",
+  "timestamp_utc": "2026-02-06T23:43:18.526455",
+  "actualizado_vzla": "2026-02-06 19:43:18 -04",
   "compra_segundo": {
-    "price": 552.25,
-    "name": "CambiosLindos2"
+    "price": 549.3,
+    "name": "Wis3Trading"
   },
   "venta_maxima": {
     "price": 556.0,
     "name": "-Godgiven-"
   },
-  "promedio": 554.12,
+  "promedio": 552.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
