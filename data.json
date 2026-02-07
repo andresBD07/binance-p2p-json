@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T23:02:04.574392",
-  "actualizado_vzla": "2026-02-07 19:02:04 -04",
+  "timestamp_utc": "2026-02-07T23:44:29.221484",
+  "actualizado_vzla": "2026-02-07 19:44:29 -04",
   "compra_segundo": {
-    "price": 547.9,
-    "name": "-Vallenatero-"
+    "price": 547.0,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 551.0,
+    "price": 552.0,
     "name": "-Godgiven-"
   },
-  "promedio": 549.45,
+  "promedio": 549.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
