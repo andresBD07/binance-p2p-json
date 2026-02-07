@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T09:49:50.304220",
-  "actualizado_vzla": "2026-02-07 05:49:50 -04",
+  "timestamp_utc": "2026-02-07T10:18:22.384638",
+  "actualizado_vzla": "2026-02-07 06:18:22 -04",
   "compra_segundo": {
-    "price": 551.901,
-    "name": "CambioVMQF"
+    "price": 552.0,
+    "name": "Keria23"
   },
   "venta_maxima": {
     "price": 548.15,
     "name": "forex25"
   },
-  "promedio": 550.03,
+  "promedio": 550.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
