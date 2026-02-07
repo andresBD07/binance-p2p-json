@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T11:39:57.894289",
-  "actualizado_vzla": "2026-02-07 07:39:57 -04",
+  "timestamp_utc": "2026-02-07T11:55:56.768074",
+  "actualizado_vzla": "2026-02-07 07:55:56 -04",
   "compra_segundo": {
-    "price": 551.59,
-    "name": "Mastersupplies"
+    "price": 551.0,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
     "price": 550.0,
     "name": "TPhillips"
   },
-  "promedio": 550.8,
+  "promedio": 550.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
