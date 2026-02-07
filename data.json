@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T08:47:13.447697",
-  "actualizado_vzla": "2026-02-07 04:47:13 -04",
+  "timestamp_utc": "2026-02-07T09:17:11.688107",
+  "actualizado_vzla": "2026-02-07 05:17:11 -04",
   "compra_segundo": {
-    "price": 553.0,
-    "name": "InvMiggy"
+    "price": 552.0,
+    "name": "Keria23"
   },
   "venta_maxima": {
     "price": 548.15,
     "name": "forex25"
   },
-  "promedio": 550.58,
+  "promedio": 550.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
