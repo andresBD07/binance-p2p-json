@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T19:20:48.097238",
-  "actualizado_vzla": "2026-02-07 15:20:48 -04",
+  "timestamp_utc": "2026-02-07T19:43:14.658408",
+  "actualizado_vzla": "2026-02-07 15:43:14 -04",
   "compra_segundo": {
-    "price": 543.5,
-    "name": "The_KingOdin"
+    "price": 544.399,
+    "name": "FC-Ultimate"
   },
   "venta_maxima": {
-    "price": 547.0,
-    "name": "-Godgiven-"
+    "price": 547.501,
+    "name": "-Saitama-"
   },
-  "promedio": 545.25,
+  "promedio": 545.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
