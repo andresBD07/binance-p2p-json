@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T10:18:22.384638",
-  "actualizado_vzla": "2026-02-07 06:18:22 -04",
+  "timestamp_utc": "2026-02-07T10:49:24.541025",
+  "actualizado_vzla": "2026-02-07 06:49:24 -04",
   "compra_segundo": {
-    "price": 552.0,
-    "name": "Keria23"
+    "price": 550.9,
+    "name": "mandy02"
   },
   "venta_maxima": {
     "price": 548.15,
     "name": "forex25"
   },
-  "promedio": 550.08,
+  "promedio": 549.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
