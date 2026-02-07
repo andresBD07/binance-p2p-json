@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T11:15:04.991969",
-  "actualizado_vzla": "2026-02-07 07:15:05 -04",
+  "timestamp_utc": "2026-02-07T11:39:57.894289",
+  "actualizado_vzla": "2026-02-07 07:39:57 -04",
   "compra_segundo": {
-    "price": 551.0,
-    "name": "_AliExpress_"
+    "price": 551.59,
+    "name": "Mastersupplies"
   },
   "venta_maxima": {
-    "price": 548.5,
-    "name": "DTFM-RD"
+    "price": 550.0,
+    "name": "TPhillips"
   },
-  "promedio": 549.75,
+  "promedio": 550.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
