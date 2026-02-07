@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T02:47:45.985350",
-  "actualizado_vzla": "2026-02-06 22:47:45 -04",
+  "timestamp_utc": "2026-02-07T04:22:59.671576",
+  "actualizado_vzla": "2026-02-07 00:22:59 -04",
   "compra_segundo": {
-    "price": 550.8,
-    "name": "Al3ss0"
+    "price": 550.499,
+    "name": "Manhattankcap"
   },
   "venta_maxima": {
-    "price": 554.0,
-    "name": "-Godgiven-"
+    "price": 548.5,
+    "name": "Cripto-Ale"
   },
-  "promedio": 552.4,
+  "promedio": 549.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
