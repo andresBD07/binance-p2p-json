@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T14:29:07.006158",
-  "actualizado_vzla": "2026-02-07 10:29:07 -04",
+  "timestamp_utc": "2026-02-07T14:55:35.685212",
+  "actualizado_vzla": "2026-02-07 10:55:35 -04",
   "compra_segundo": {
-    "price": 550.9,
-    "name": "Zeta_Cripto"
+    "price": 551.8,
+    "name": "MATTHCAPITAL"
   },
   "venta_maxima": {
-    "price": 560.0,
-    "name": "-Godgiven-"
+    "price": 556.0,
+    "name": "安全与信任"
   },
-  "promedio": 555.45,
+  "promedio": 553.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
