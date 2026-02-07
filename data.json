@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T19:43:14.658408",
-  "actualizado_vzla": "2026-02-07 15:43:14 -04",
+  "timestamp_utc": "2026-02-07T19:58:07.798351",
+  "actualizado_vzla": "2026-02-07 15:58:07 -04",
   "compra_segundo": {
-    "price": 544.399,
-    "name": "FC-Ultimate"
+    "price": 545.099,
+    "name": "PANDA1902"
   },
   "venta_maxima": {
-    "price": 547.501,
-    "name": "-Saitama-"
+    "price": 549.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 545.95,
+  "promedio": 547.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
