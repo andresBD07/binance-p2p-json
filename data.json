@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T21:38:16.185346",
-  "actualizado_vzla": "2026-02-07 17:38:16 -04",
+  "timestamp_utc": "2026-02-07T21:58:01.595419",
+  "actualizado_vzla": "2026-02-07 17:58:01 -04",
   "compra_segundo": {
-    "price": 545.74,
-    "name": "MotoPirueta"
+    "price": 546.18,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
     "price": 550.0,
     "name": "安全与信任"
   },
-  "promedio": 547.87,
+  "promedio": 548.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
