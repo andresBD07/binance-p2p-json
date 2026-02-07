@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T22:38:28.475797",
-  "actualizado_vzla": "2026-02-07 18:38:28 -04",
+  "timestamp_utc": "2026-02-07T23:02:04.574392",
+  "actualizado_vzla": "2026-02-07 19:02:04 -04",
   "compra_segundo": {
-    "price": 546.9,
-    "name": "JP-Services"
+    "price": 547.9,
+    "name": "-Vallenatero-"
   },
   "venta_maxima": {
-    "price": 550.0,
-    "name": "安全与信任"
+    "price": 551.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 548.45,
+  "promedio": 549.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
