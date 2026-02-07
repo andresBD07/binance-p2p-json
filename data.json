@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T07:00:42.557233",
-  "actualizado_vzla": "2026-02-07 03:00:42 -04",
+  "timestamp_utc": "2026-02-07T07:41:46.139202",
+  "actualizado_vzla": "2026-02-07 03:41:46 -04",
   "compra_segundo": {
-    "price": 552.9,
-    "name": "CoinPilot1"
+    "price": 553.2,
+    "name": "FlowMoney"
   },
   "venta_maxima": {
-    "price": 548.32,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 548.15,
+    "name": "forex25"
   },
-  "promedio": 550.61,
+  "promedio": 550.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
