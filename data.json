@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T10:49:24.541025",
-  "actualizado_vzla": "2026-02-07 06:49:24 -04",
+  "timestamp_utc": "2026-02-07T11:15:04.991969",
+  "actualizado_vzla": "2026-02-07 07:15:05 -04",
   "compra_segundo": {
-    "price": 550.9,
-    "name": "mandy02"
+    "price": 551.0,
+    "name": "_AliExpress_"
   },
   "venta_maxima": {
-    "price": 548.15,
-    "name": "forex25"
+    "price": 548.5,
+    "name": "DTFM-RD"
   },
-  "promedio": 549.52,
+  "promedio": 549.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
