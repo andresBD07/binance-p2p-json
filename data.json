@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T21:58:01.595419",
-  "actualizado_vzla": "2026-02-07 17:58:01 -04",
+  "timestamp_utc": "2026-02-07T22:38:28.475797",
+  "actualizado_vzla": "2026-02-07 18:38:28 -04",
   "compra_segundo": {
-    "price": 546.18,
-    "name": "Perfect_Process"
+    "price": 546.9,
+    "name": "JP-Services"
   },
   "venta_maxima": {
     "price": 550.0,
     "name": "安全与信任"
   },
-  "promedio": 548.09,
+  "promedio": 548.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
