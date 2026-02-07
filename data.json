@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T19:58:07.798351",
-  "actualizado_vzla": "2026-02-07 15:58:07 -04",
+  "timestamp_utc": "2026-02-07T20:39:05.184648",
+  "actualizado_vzla": "2026-02-07 16:39:05 -04",
   "compra_segundo": {
-    "price": 545.099,
-    "name": "PANDA1902"
+    "price": 546.7,
+    "name": "ASCENDERLTDA"
   },
   "venta_maxima": {
     "price": 549.0,
     "name": "-Godgiven-"
   },
-  "promedio": 547.05,
+  "promedio": 547.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
