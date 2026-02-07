@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-06T23:43:18.526455",
-  "actualizado_vzla": "2026-02-06 19:43:18 -04",
+  "timestamp_utc": "2026-02-07T00:01:15.325854",
+  "actualizado_vzla": "2026-02-06 20:01:15 -04",
   "compra_segundo": {
-    "price": 549.3,
-    "name": "Wis3Trading"
+    "price": 548.5,
+    "name": "CriptoCambiosWA"
   },
   "venta_maxima": {
     "price": 556.0,
     "name": "-Godgiven-"
   },
-  "promedio": 552.65,
+  "promedio": 552.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
