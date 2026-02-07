@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T14:55:35.685212",
-  "actualizado_vzla": "2026-02-07 10:55:35 -04",
+  "timestamp_utc": "2026-02-07T15:34:04.434309",
+  "actualizado_vzla": "2026-02-07 11:34:04 -04",
   "compra_segundo": {
-    "price": 551.8,
-    "name": "MATTHCAPITAL"
+    "price": 551.5,
+    "name": "Ricardo"
   },
   "venta_maxima": {
     "price": 556.0,
     "name": "安全与信任"
   },
-  "promedio": 553.9,
+  "promedio": 553.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
