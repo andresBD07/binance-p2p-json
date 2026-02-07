@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T11:55:56.768074",
-  "actualizado_vzla": "2026-02-07 07:55:56 -04",
+  "timestamp_utc": "2026-02-07T13:07:59.231110",
+  "actualizado_vzla": "2026-02-07 09:07:59 -04",
   "compra_segundo": {
-    "price": 551.0,
-    "name": "Trading_professional"
+    "price": 552.0,
+    "name": "CambiosBesmant"
   },
   "venta_maxima": {
-    "price": 550.0,
-    "name": "TPhillips"
+    "price": 555.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 550.5,
+  "promedio": 553.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
