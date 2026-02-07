@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T13:53:34.317454",
-  "actualizado_vzla": "2026-02-07 09:53:34 -04",
+  "timestamp_utc": "2026-02-07T14:29:07.006158",
+  "actualizado_vzla": "2026-02-07 10:29:07 -04",
   "compra_segundo": {
-    "price": 550.99,
-    "name": "CryptoIngAlex"
+    "price": 550.9,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 555.0,
+    "price": 560.0,
     "name": "-Godgiven-"
   },
-  "promedio": 553.0,
+  "promedio": 555.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
