@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T18:51:13.504841",
-  "actualizado_vzla": "2026-02-07 14:51:13 -04",
+  "timestamp_utc": "2026-02-07T19:20:48.097238",
+  "actualizado_vzla": "2026-02-07 15:20:48 -04",
   "compra_segundo": {
-    "price": 542.5,
-    "name": "BOOOM"
+    "price": 543.5,
+    "name": "The_KingOdin"
   },
   "venta_maxima": {
-    "price": 546.0,
-    "name": "安全与信任"
+    "price": 547.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 544.25,
+  "promedio": 545.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
