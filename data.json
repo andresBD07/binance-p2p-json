@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-07T07:41:46.139202",
-  "actualizado_vzla": "2026-02-07 03:41:46 -04",
+  "timestamp_utc": "2026-02-07T08:00:06.546973",
+  "actualizado_vzla": "2026-02-07 04:00:06 -04",
   "compra_segundo": {
-    "price": 553.2,
-    "name": "FlowMoney"
+    "price": 553.0,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
     "price": 548.15,
     "name": "forex25"
   },
-  "promedio": 550.67,
+  "promedio": 550.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
