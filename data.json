@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-02-08T09:17:12.494746",
-  "actualizado_vzla": "2026-02-08 05:17:12 -04",
+  "timestamp_utc": "2026-02-08T09:48:49.822965",
+  "actualizado_vzla": "2026-02-08 05:48:49 -04",
   "compra_segundo": {
-    "price": 548.0,
-    "name": "Exotico"
+    "price": 547.99,
+    "name": "1Jm_trade28"
   },
   "venta_maxima": {
     "price": 543.0,
