@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T23:03:20.409470",
-  "actualizado_vzla": "2026-02-08 19:03:20 -04",
+  "timestamp_utc": "2026-02-08T23:44:56.219026",
+  "actualizado_vzla": "2026-02-08 19:44:56 -04",
   "compra_segundo": {
-    "price": 539.3,
-    "name": "CAMBIOS-CRYPTOS"
+    "price": 538.39,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
     "price": 540.0,
-    "name": "-Godgiven-"
+    "name": "VERTUOK"
   },
-  "promedio": 539.65,
+  "promedio": 539.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
