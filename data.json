@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T22:39:13.608728",
-  "actualizado_vzla": "2026-02-08 18:39:13 -04",
+  "timestamp_utc": "2026-02-08T23:03:20.409470",
+  "actualizado_vzla": "2026-02-08 19:03:20 -04",
   "compra_segundo": {
-    "price": 540.5,
-    "name": "JesusJavi"
+    "price": 539.3,
+    "name": "CAMBIOS-CRYPTOS"
   },
   "venta_maxima": {
-    "price": 543.0,
+    "price": 540.0,
     "name": "-Godgiven-"
   },
-  "promedio": 541.75,
+  "promedio": 539.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
