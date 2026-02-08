@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T10:50:32.293914",
-  "actualizado_vzla": "2026-02-08 06:50:32 -04",
+  "timestamp_utc": "2026-02-08T11:18:46.727900",
+  "actualizado_vzla": "2026-02-08 07:18:46 -04",
   "compra_segundo": {
-    "price": 546.999,
-    "name": "IA-Pay"
+    "price": 546.998,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 543.0,
-    "name": "VERTUOK"
+    "price": 544.0,
+    "name": "MikasaAckerman"
   },
-  "promedio": 545.0,
+  "promedio": 545.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
