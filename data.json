@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T09:48:49.822965",
-  "actualizado_vzla": "2026-02-08 05:48:49 -04",
+  "timestamp_utc": "2026-02-08T10:15:42.418961",
+  "actualizado_vzla": "2026-02-08 06:15:42 -04",
   "compra_segundo": {
-    "price": 547.99,
-    "name": "1Jm_trade28"
+    "price": 547.9,
+    "name": "Destropay21"
   },
   "venta_maxima": {
     "price": 543.0,
     "name": "VERTUOK"
   },
-  "promedio": 545.5,
+  "promedio": 545.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
