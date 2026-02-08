@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T18:59:44.168687",
-  "actualizado_vzla": "2026-02-08 14:59:44 -04",
+  "timestamp_utc": "2026-02-08T19:34:38.914660",
+  "actualizado_vzla": "2026-02-08 15:34:38 -04",
   "compra_segundo": {
-    "price": 542.25,
-    "name": "RuizJr02"
+    "price": 541.48,
+    "name": "usaintbolt"
   },
   "venta_maxima": {
-    "price": 544.0,
+    "price": 543.0,
     "name": "-Godgiven-"
   },
-  "promedio": 543.12,
+  "promedio": 542.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
