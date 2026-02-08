@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T06:32:36.209588",
-  "actualizado_vzla": "2026-02-08 02:32:36 -04",
+  "timestamp_utc": "2026-02-08T07:25:17.367696",
+  "actualizado_vzla": "2026-02-08 03:25:17 -04",
   "compra_segundo": {
-    "price": 548.0,
-    "name": "Carlos Bello Trader "
+    "price": 548.5,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 542.1,
-    "name": "Puro lomito"
+    "price": 540.3,
+    "name": "-Vallenatero-"
   },
-  "promedio": 545.05,
+  "promedio": 544.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
