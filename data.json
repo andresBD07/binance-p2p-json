@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T19:52:29.834213",
-  "actualizado_vzla": "2026-02-08 15:52:29 -04",
+  "timestamp_utc": "2026-02-08T20:28:11.610081",
+  "actualizado_vzla": "2026-02-08 16:28:11 -04",
   "compra_segundo": {
-    "price": 541.48,
-    "name": "Ekxprees"
+    "price": 541.999,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
     "price": 543.0,
     "name": "-Godgiven-"
   },
-  "promedio": 542.24,
+  "promedio": 542.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
