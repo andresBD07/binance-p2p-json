@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T14:35:05.057877",
-  "actualizado_vzla": "2026-02-08 10:35:05 -04",
+  "timestamp_utc": "2026-02-08T14:59:14.309186",
+  "actualizado_vzla": "2026-02-08 10:59:14 -04",
   "compra_segundo": {
-    "price": 545.95,
-    "name": "Al3ss0"
+    "price": 546.3,
+    "name": "Alerapi"
   },
   "venta_maxima": {
     "price": 550.0,
     "name": "-Godgiven-"
   },
-  "promedio": 547.98,
+  "promedio": 548.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
