@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T11:42:44.708542",
-  "actualizado_vzla": "2026-02-08 07:42:44 -04",
+  "timestamp_utc": "2026-02-08T11:57:46.990945",
+  "actualizado_vzla": "2026-02-08 07:57:47 -04",
   "compra_segundo": {
-    "price": 546.949,
-    "name": "Chespi_cripto8"
+    "price": 546.7,
+    "name": "LGD04"
   },
   "venta_maxima": {
-    "price": 543.001,
-    "name": "SISISY"
+    "price": 545.0,
+    "name": "VERTUOK"
   },
-  "promedio": 544.97,
+  "promedio": 545.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
