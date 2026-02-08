@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T07:58:04.923655",
-  "actualizado_vzla": "2026-02-08 03:58:04 -04",
+  "timestamp_utc": "2026-02-08T08:46:21.998205",
+  "actualizado_vzla": "2026-02-08 04:46:22 -04",
   "compra_segundo": {
-    "price": 548.8,
-    "name": "HyperCambios_1Millon"
+    "price": 548.5,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 539.0,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 543.0,
+    "name": "VERTUOK"
   },
-  "promedio": 543.9,
+  "promedio": 545.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
