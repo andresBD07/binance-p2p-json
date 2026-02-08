@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T16:44:53.197314",
-  "actualizado_vzla": "2026-02-08 12:44:53 -04",
+  "timestamp_utc": "2026-02-08T17:14:27.406151",
+  "actualizado_vzla": "2026-02-08 13:14:27 -04",
   "compra_segundo": {
-    "price": 546.0,
-    "name": "AmigoCripto"
+    "price": 545.69,
+    "name": "Jesus_viloriagil"
   },
   "venta_maxima": {
-    "price": 550.0,
+    "price": 548.0,
     "name": "-Godgiven-"
   },
-  "promedio": 548.0,
+  "promedio": 546.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
