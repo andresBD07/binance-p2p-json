@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T13:09:47.207306",
-  "actualizado_vzla": "2026-02-08 09:09:47 -04",
+  "timestamp_utc": "2026-02-08T13:55:06.799880",
+  "actualizado_vzla": "2026-02-08 09:55:06 -04",
   "compra_segundo": {
-    "price": 545.9,
-    "name": "Jonathan_chuo_9"
+    "price": 545.59,
+    "name": "Jimenezjat"
   },
   "venta_maxima": {
-    "price": 547.0,
-    "name": "TPhillips"
+    "price": 549.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 546.45,
+  "promedio": 547.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
