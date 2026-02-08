@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-08T11:57:46.990945",
-  "actualizado_vzla": "2026-02-08 07:57:47 -04",
+  "timestamp_utc": "2026-02-08T13:09:47.207306",
+  "actualizado_vzla": "2026-02-08 09:09:47 -04",
   "compra_segundo": {
-    "price": 546.7,
-    "name": "LGD04"
+    "price": 545.9,
+    "name": "Jonathan_chuo_9"
   },
   "venta_maxima": {
-    "price": 545.0,
-    "name": "VERTUOK"
+    "price": 547.0,
+    "name": "TPhillips"
   },
-  "promedio": 545.85,
+  "promedio": 546.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
