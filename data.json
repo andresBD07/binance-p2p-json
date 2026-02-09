@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T09:40:40.414292",
-  "actualizado_vzla": "2026-02-09 05:40:40 -04",
+  "timestamp_utc": "2026-02-09T10:41:26.630863",
+  "actualizado_vzla": "2026-02-09 06:41:26 -04",
   "compra_segundo": {
-    "price": 546.0,
-    "name": "Check-eate"
+    "price": 544.9,
+    "name": "willbyruz"
   },
   "venta_maxima": {
     "price": 541.0,
     "name": "VERTUOK"
   },
-  "promedio": 543.5,
+  "promedio": 542.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
