@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T19:39:13.318839",
-  "actualizado_vzla": "2026-02-09 15:39:13 -04",
+  "timestamp_utc": "2026-02-09T20:22:37.697530",
+  "actualizado_vzla": "2026-02-09 16:22:37 -04",
   "compra_segundo": {
-    "price": 545.899,
-    "name": "RayoTrader"
+    "price": 546.0,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 545.0,
-    "name": "ALASKA-"
+    "price": 549.0,
+    "name": "安全与信任"
   },
-  "promedio": 545.45,
+  "promedio": 547.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
