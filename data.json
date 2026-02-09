@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T17:12:10.427678",
-  "actualizado_vzla": "2026-02-09 13:12:10 -04",
+  "timestamp_utc": "2026-02-09T18:05:58.255496",
+  "actualizado_vzla": "2026-02-09 14:05:58 -04",
   "compra_segundo": {
-    "price": 548.07,
-    "name": "LinkxD"
+    "price": 549.85,
+    "name": "Hilda_19"
   },
   "venta_maxima": {
-    "price": 547.0,
-    "name": "JRR Tolkien"
+    "price": 551.3,
+    "name": "ALASKA-"
   },
-  "promedio": 547.54,
+  "promedio": 550.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
