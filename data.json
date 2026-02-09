@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T20:22:37.697530",
-  "actualizado_vzla": "2026-02-09 16:22:37 -04",
+  "timestamp_utc": "2026-02-09T21:05:50.809609",
+  "actualizado_vzla": "2026-02-09 17:05:50 -04",
   "compra_segundo": {
-    "price": 546.0,
-    "name": "Horusrs"
+    "price": 545.2,
+    "name": "汉JL DIGITAL SPA汉"
   },
   "venta_maxima": {
-    "price": 549.0,
+    "price": 548.0,
     "name": "安全与信任"
   },
-  "promedio": 547.5,
+  "promedio": 546.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
