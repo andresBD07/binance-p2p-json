@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T11:33:54.591736",
-  "actualizado_vzla": "2026-02-09 07:33:54 -04",
+  "timestamp_utc": "2026-02-09T12:31:31.091728",
+  "actualizado_vzla": "2026-02-09 08:31:31 -04",
   "compra_segundo": {
-    "price": 541.0,
-    "name": "VENTASJM"
+    "price": 540.398,
+    "name": "HORUS"
   },
   "venta_maxima": {
-    "price": 541.0,
-    "name": "VERTUOK"
+    "price": 539.1,
+    "name": "luis12crt"
   },
-  "promedio": 541.0,
+  "promedio": 539.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
