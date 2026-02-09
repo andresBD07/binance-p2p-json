@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T10:41:26.630863",
-  "actualizado_vzla": "2026-02-09 06:41:26 -04",
+  "timestamp_utc": "2026-02-09T11:33:54.591736",
+  "actualizado_vzla": "2026-02-09 07:33:54 -04",
   "compra_segundo": {
-    "price": 544.9,
-    "name": "willbyruz"
+    "price": 541.0,
+    "name": "VENTASJM"
   },
   "venta_maxima": {
     "price": 541.0,
     "name": "VERTUOK"
   },
-  "promedio": 542.95,
+  "promedio": 541.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
