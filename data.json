@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T15:03:08.753959",
-  "actualizado_vzla": "2026-02-09 11:03:08 -04",
+  "timestamp_utc": "2026-02-09T16:08:56.016990",
+  "actualizado_vzla": "2026-02-09 12:08:56 -04",
   "compra_segundo": {
-    "price": 541.9,
-    "name": "BOOOM"
+    "price": 548.98,
+    "name": "CESARCAM"
   },
   "venta_maxima": {
-    "price": 543.15,
-    "name": "Biyt"
+    "price": 549.5,
+    "name": "TOPlevelS"
   },
-  "promedio": 542.52,
+  "promedio": 549.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
