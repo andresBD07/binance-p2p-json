@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-09T12:31:31.091728",
-  "actualizado_vzla": "2026-02-09 08:31:31 -04",
+  "timestamp_utc": "2026-02-09T13:57:04.292699",
+  "actualizado_vzla": "2026-02-09 09:57:04 -04",
   "compra_segundo": {
-    "price": 540.398,
-    "name": "HORUS"
+    "price": 539.5,
+    "name": "gustavoseijas"
   },
   "venta_maxima": {
-    "price": 539.1,
-    "name": "luis12crt"
+    "price": 540.001,
+    "name": "Servic-Karyguz"
   },
   "promedio": 539.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
