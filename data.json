@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-09T21:05:50.809609",
-  "actualizado_vzla": "2026-02-09 17:05:50 -04",
+  "timestamp_utc": "2026-02-09T21:54:56.250826",
+  "actualizado_vzla": "2026-02-09 17:54:56 -04",
   "compra_segundo": {
-    "price": 545.2,
-    "name": "汉JL DIGITAL SPA汉"
+    "price": 546.0,
+    "name": "heiversuarez"
   },
   "venta_maxima": {
     "price": 548.0,
     "name": "安全与信任"
   },
-  "promedio": 546.6,
+  "promedio": 547.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
