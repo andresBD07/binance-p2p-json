@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T17:47:18.148304",
-  "actualizado_vzla": "2026-02-10 13:47:18 -04",
+  "timestamp_utc": "2026-02-10T18:45:43.403966",
+  "actualizado_vzla": "2026-02-10 14:45:43 -04",
   "compra_segundo": {
-    "price": 550.8,
-    "name": "CAMBIOS-CRYPTOS"
+    "price": 553.39,
+    "name": "Mas_veloz_P2P"
   },
   "venta_maxima": {
-    "price": 554.5,
+    "price": 555.0,
     "name": "USDTpulso"
   },
-  "promedio": 552.65,
+  "promedio": 554.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
