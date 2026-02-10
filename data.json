@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T15:34:40.259617",
-  "actualizado_vzla": "2026-02-10 11:34:40 -04",
+  "timestamp_utc": "2026-02-10T16:42:56.297548",
+  "actualizado_vzla": "2026-02-10 12:42:56 -04",
   "compra_segundo": {
-    "price": 553.955,
-    "name": "CambiosExpressAE"
+    "price": 555.0,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 555.0,
-    "name": "Eliezerjph"
+    "price": 557.0,
+    "name": "USDTpulso"
   },
-  "promedio": 554.48,
+  "promedio": 556.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
