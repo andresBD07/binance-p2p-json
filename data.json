@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T08:33:48.201626",
-  "actualizado_vzla": "2026-02-10 04:33:48 -04",
+  "timestamp_utc": "2026-02-10T09:40:50.360716",
+  "actualizado_vzla": "2026-02-10 05:40:50 -04",
   "compra_segundo": {
-    "price": 551.1,
-    "name": "GaAle19"
+    "price": 550.297,
+    "name": "USDealerT"
   },
   "venta_maxima": {
     "price": 546.1,
     "name": "jxsosa"
   },
-  "promedio": 548.6,
+  "promedio": 548.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
