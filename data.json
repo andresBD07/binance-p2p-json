@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T00:01:57.317534",
-  "actualizado_vzla": "2026-02-09 20:01:57 -04",
+  "timestamp_utc": "2026-02-10T03:25:47.723602",
+  "actualizado_vzla": "2026-02-09 23:25:47 -04",
   "compra_segundo": {
-    "price": 547.5,
-    "name": "viclop"
+    "price": 549.998,
+    "name": "YeyoYeyo"
   },
   "venta_maxima": {
-    "price": 549.0,
-    "name": "安全与信任"
+    "price": 548.1,
+    "name": "FMDeluXchange"
   },
-  "promedio": 548.25,
+  "promedio": 549.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
