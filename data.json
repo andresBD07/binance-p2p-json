@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T06:39:44.957665",
-  "actualizado_vzla": "2026-02-10 02:39:44 -04",
+  "timestamp_utc": "2026-02-10T07:45:07.200781",
+  "actualizado_vzla": "2026-02-10 03:45:07 -04",
   "compra_segundo": {
-    "price": 551.48,
-    "name": "_CHIGUIRITO_"
+    "price": 551.386,
+    "name": "Apolo_Cript"
   },
   "venta_maxima": {
     "price": 546.1,
     "name": "jxsosa"
   },
-  "promedio": 548.79,
+  "promedio": 548.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
