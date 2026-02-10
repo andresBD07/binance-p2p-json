@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T14:09:03.238414",
-  "actualizado_vzla": "2026-02-10 10:09:03 -04",
+  "timestamp_utc": "2026-02-10T15:34:40.259617",
+  "actualizado_vzla": "2026-02-10 11:34:40 -04",
   "compra_segundo": {
-    "price": 545.9,
-    "name": "Horusrs"
+    "price": 553.955,
+    "name": "CambiosExpressAE"
   },
   "venta_maxima": {
-    "price": 549.0,
-    "name": "Godisgift"
+    "price": 555.0,
+    "name": "Eliezerjph"
   },
-  "promedio": 547.45,
+  "promedio": 554.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
