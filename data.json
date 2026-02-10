@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T19:51:09.241833",
-  "actualizado_vzla": "2026-02-10 15:51:09 -04",
+  "timestamp_utc": "2026-02-10T20:38:48.395057",
+  "actualizado_vzla": "2026-02-10 16:38:48 -04",
   "compra_segundo": {
-    "price": 552.859,
-    "name": "JessAleTrades"
+    "price": 551.99,
+    "name": "SparkThe14"
   },
   "venta_maxima": {
-    "price": 553.0,
+    "price": 553.5,
     "name": "USDTpulso"
   },
-  "promedio": 552.93,
+  "promedio": 552.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
