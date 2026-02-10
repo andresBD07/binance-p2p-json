@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-10T03:25:47.723602",
-  "actualizado_vzla": "2026-02-09 23:25:47 -04",
+  "timestamp_utc": "2026-02-10T05:18:02.620593",
+  "actualizado_vzla": "2026-02-10 01:18:02 -04",
   "compra_segundo": {
-    "price": 549.998,
-    "name": "YeyoYeyo"
+    "price": 551.09,
+    "name": "Q2030"
   },
   "venta_maxima": {
-    "price": 548.1,
-    "name": "FMDeluXchange"
+    "price": 547.2,
+    "name": "securitylc"
   },
-  "promedio": 549.05,
+  "promedio": 549.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
