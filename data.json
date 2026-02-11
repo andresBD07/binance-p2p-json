@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T02:11:28.371496",
-  "actualizado_vzla": "2026-02-10 22:11:28 -04",
+  "timestamp_utc": "2026-02-11T04:38:31.501089",
+  "actualizado_vzla": "2026-02-11 00:38:31 -04",
   "compra_segundo": {
-    "price": 553.999,
-    "name": "P2PGsmart"
+    "price": 553.87,
+    "name": "davzotrading"
   },
   "venta_maxima": {
-    "price": 554.0,
-    "name": "AryJr"
+    "price": 549.101,
+    "name": "CesarRodriguez53"
   },
-  "promedio": 554.0,
+  "promedio": 551.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
