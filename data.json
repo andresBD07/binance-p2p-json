@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T16:45:49.192041",
-  "actualizado_vzla": "2026-02-11 12:45:49 -04",
+  "timestamp_utc": "2026-02-11T17:45:14.031182",
+  "actualizado_vzla": "2026-02-11 13:45:14 -04",
   "compra_segundo": {
-    "price": 551.99,
-    "name": "Criscripto18M"
+    "price": 550.5,
+    "name": "CambiosBesmant"
   },
   "venta_maxima": {
-    "price": 551.0,
-    "name": "AryJr"
+    "price": 553.0,
+    "name": "Biyt"
   },
-  "promedio": 551.5,
+  "promedio": 551.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
