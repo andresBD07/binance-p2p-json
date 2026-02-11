@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T05:58:18.414698",
-  "actualizado_vzla": "2026-02-11 01:58:18 -04",
+  "timestamp_utc": "2026-02-11T07:16:07.353518",
+  "actualizado_vzla": "2026-02-11 03:16:07 -04",
   "compra_segundo": {
-    "price": 554.0,
-    "name": "AkExpress"
+    "price": 554.5,
+    "name": "Kapo"
   },
   "venta_maxima": {
-    "price": 548.0,
-    "name": "IsaBTC-"
+    "price": 548.816,
+    "name": "PAYMENTSPRO"
   },
-  "promedio": 551.0,
+  "promedio": 551.66,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
