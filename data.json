@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T21:05:49.433750",
-  "actualizado_vzla": "2026-02-11 17:05:49 -04",
+  "timestamp_utc": "2026-02-11T21:48:39.219136",
+  "actualizado_vzla": "2026-02-11 17:48:39 -04",
   "compra_segundo": {
-    "price": 551.68,
-    "name": "Tucambiove"
+    "price": 552.175,
+    "name": "urotrader"
   },
   "venta_maxima": {
-    "price": 553.5,
-    "name": "-Godgiven-"
+    "price": 554.001,
+    "name": "chango_pay"
   },
-  "promedio": 552.59,
+  "promedio": 553.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
