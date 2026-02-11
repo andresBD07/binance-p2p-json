@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T04:38:31.501089",
-  "actualizado_vzla": "2026-02-11 00:38:31 -04",
+  "timestamp_utc": "2026-02-11T05:58:18.414698",
+  "actualizado_vzla": "2026-02-11 01:58:18 -04",
   "compra_segundo": {
-    "price": 553.87,
-    "name": "davzotrading"
+    "price": 554.0,
+    "name": "AkExpress"
   },
   "venta_maxima": {
-    "price": 549.101,
-    "name": "CesarRodriguez53"
+    "price": 548.0,
+    "name": "IsaBTC-"
   },
-  "promedio": 551.49,
+  "promedio": 551.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
