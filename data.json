@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T22:19:42.001323",
-  "actualizado_vzla": "2026-02-11 18:19:42 -04",
+  "timestamp_utc": "2026-02-11T22:57:22.936749",
+  "actualizado_vzla": "2026-02-11 18:57:22 -04",
   "compra_segundo": {
-    "price": 552.385,
-    "name": "KEYLOR_CRIPTO_Vzla"
+    "price": 551.8,
+    "name": "Divisas_Coffee"
   },
   "venta_maxima": {
     "price": 554.0,
     "name": "-Godgiven-"
   },
-  "promedio": 553.19,
+  "promedio": 552.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
