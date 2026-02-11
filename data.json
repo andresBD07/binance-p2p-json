@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T11:09:51.243948",
-  "actualizado_vzla": "2026-02-11 07:09:51 -04",
+  "timestamp_utc": "2026-02-11T11:59:13.016682",
+  "actualizado_vzla": "2026-02-11 07:59:13 -04",
   "compra_segundo": {
-    "price": 553.45,
-    "name": "fnog"
+    "price": 552.999,
+    "name": "Lecatrade"
   },
   "venta_maxima": {
-    "price": 550.0,
-    "name": "DOCTOR_CAMBIO"
+    "price": 551.002,
+    "name": "succubus"
   },
-  "promedio": 551.73,
+  "promedio": 552.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
