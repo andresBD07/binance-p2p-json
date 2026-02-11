@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T19:45:02.885589",
-  "actualizado_vzla": "2026-02-11 15:45:02 -04",
+  "timestamp_utc": "2026-02-11T20:24:18.983825",
+  "actualizado_vzla": "2026-02-11 16:24:18 -04",
   "compra_segundo": {
-    "price": 549.6,
-    "name": "Mahc012712"
+    "price": 550.99,
+    "name": "Dinero-Seguro"
   },
   "venta_maxima": {
-    "price": 553.5,
+    "price": 552.5,
     "name": "-Godgiven-"
   },
-  "promedio": 551.55,
+  "promedio": 551.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
