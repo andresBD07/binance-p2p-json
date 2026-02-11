@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T15:43:10.528322",
-  "actualizado_vzla": "2026-02-11 11:43:10 -04",
+  "timestamp_utc": "2026-02-11T16:45:49.192041",
+  "actualizado_vzla": "2026-02-11 12:45:49 -04",
   "compra_segundo": {
-    "price": 552.0,
-    "name": "Cambiosyahve"
+    "price": 551.99,
+    "name": "Criscripto18M"
   },
   "venta_maxima": {
-    "price": 553.5,
-    "name": "被放逐的狐狸"
+    "price": 551.0,
+    "name": "AryJr"
   },
-  "promedio": 552.75,
+  "promedio": 551.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
