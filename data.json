@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T11:59:13.016682",
-  "actualizado_vzla": "2026-02-11 07:59:13 -04",
+  "timestamp_utc": "2026-02-11T13:43:34.379803",
+  "actualizado_vzla": "2026-02-11 09:43:34 -04",
   "compra_segundo": {
-    "price": 552.999,
-    "name": "Lecatrade"
+    "price": 549.2,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 551.002,
-    "name": "succubus"
+    "price": 550.1,
+    "name": "Biyt"
   },
-  "promedio": 552.0,
+  "promedio": 549.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
