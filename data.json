@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T09:04:32.562701",
-  "actualizado_vzla": "2026-02-11 05:04:32 -04",
+  "timestamp_utc": "2026-02-11T10:08:17.068428",
+  "actualizado_vzla": "2026-02-11 06:08:17 -04",
   "compra_segundo": {
-    "price": 554.3,
-    "name": "GregoSwap"
+    "price": 553.45,
+    "name": "ECCRIPTOS"
   },
   "venta_maxima": {
-    "price": 547.0,
-    "name": "trebor19"
+    "price": 548.0,
+    "name": "mayerlingm"
   },
-  "promedio": 550.65,
+  "promedio": 550.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
