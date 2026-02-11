@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T21:48:39.219136",
-  "actualizado_vzla": "2026-02-11 17:48:39 -04",
+  "timestamp_utc": "2026-02-11T22:19:42.001323",
+  "actualizado_vzla": "2026-02-11 18:19:42 -04",
   "compra_segundo": {
-    "price": 552.175,
-    "name": "urotrader"
+    "price": 552.385,
+    "name": "KEYLOR_CRIPTO_Vzla"
   },
   "venta_maxima": {
-    "price": 554.001,
-    "name": "chango_pay"
+    "price": 554.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 553.09,
+  "promedio": 553.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
