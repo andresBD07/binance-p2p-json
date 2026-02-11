@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T14:42:43.460163",
-  "actualizado_vzla": "2026-02-11 10:42:43 -04",
+  "timestamp_utc": "2026-02-11T15:43:10.528322",
+  "actualizado_vzla": "2026-02-11 11:43:10 -04",
   "compra_segundo": {
     "price": 552.0,
-    "name": "LCEtrader"
+    "name": "Cambiosyahve"
   },
   "venta_maxima": {
-    "price": 553.21,
-    "name": "All-inCrypto"
+    "price": 553.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 552.61,
+  "promedio": 552.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
