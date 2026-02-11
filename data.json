@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-11T07:16:07.353518",
-  "actualizado_vzla": "2026-02-11 03:16:07 -04",
+  "timestamp_utc": "2026-02-11T08:03:32.572124",
+  "actualizado_vzla": "2026-02-11 04:03:32 -04",
   "compra_segundo": {
-    "price": 554.5,
-    "name": "Kapo"
+    "price": 554.555,
+    "name": "jossuecrito"
   },
   "venta_maxima": {
     "price": 548.816,
     "name": "PAYMENTSPRO"
   },
-  "promedio": 551.66,
+  "promedio": 551.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
