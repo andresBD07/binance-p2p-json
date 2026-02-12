@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T20:17:34.301243",
-  "actualizado_vzla": "2026-02-12 16:17:34 -04",
+  "timestamp_utc": "2026-02-12T20:55:18.071001",
+  "actualizado_vzla": "2026-02-12 16:55:18 -04",
   "compra_segundo": {
-    "price": 545.15,
-    "name": "Jgonza16"
+    "price": 546.4,
+    "name": "RoyMustang_"
   },
   "venta_maxima": {
-    "price": 547.0,
-    "name": "USDTpulso"
+    "price": 547.5,
+    "name": "Biyt"
   },
-  "promedio": 546.08,
+  "promedio": 546.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
