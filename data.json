@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T11:07:00.692920",
-  "actualizado_vzla": "2026-02-12 07:07:00 -04",
+  "timestamp_utc": "2026-02-12T11:55:41.443297",
+  "actualizado_vzla": "2026-02-12 07:55:41 -04",
   "compra_segundo": {
-    "price": 553.0,
+    "price": 552.999,
     "name": "CaritoTrad3r"
   },
   "venta_maxima": {
-    "price": 550.5,
-    "name": "Destropay21"
+    "price": 553.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 551.75,
+  "promedio": 553.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
