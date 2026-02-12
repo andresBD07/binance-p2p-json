@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T19:40:20.032823",
-  "actualizado_vzla": "2026-02-12 15:40:20 -04",
+  "timestamp_utc": "2026-02-12T20:17:34.301243",
+  "actualizado_vzla": "2026-02-12 16:17:34 -04",
   "compra_segundo": {
-    "price": 545.18,
-    "name": "MFM23"
+    "price": 545.15,
+    "name": "Jgonza16"
   },
   "venta_maxima": {
     "price": 547.0,
-    "name": "Destropay21"
+    "name": "USDTpulso"
   },
-  "promedio": 546.09,
+  "promedio": 546.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
