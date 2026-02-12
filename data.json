@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T13:38:39.885152",
-  "actualizado_vzla": "2026-02-12 09:38:39 -04",
+  "timestamp_utc": "2026-02-12T14:36:30.841891",
+  "actualizado_vzla": "2026-02-12 10:36:30 -04",
   "compra_segundo": {
-    "price": 548.9,
-    "name": "Cambiosbraycar"
+    "price": 549.2,
+    "name": "Criscripto18M"
   },
   "venta_maxima": {
     "price": 551.0,
-    "name": "BlairWaldorf_"
+    "name": "-Godgiven-"
   },
-  "promedio": 549.95,
+  "promedio": 550.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
