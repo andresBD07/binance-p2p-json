@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T18:39:54.154871",
-  "actualizado_vzla": "2026-02-12 14:39:54 -04",
+  "timestamp_utc": "2026-02-12T19:40:20.032823",
+  "actualizado_vzla": "2026-02-12 15:40:20 -04",
   "compra_segundo": {
-    "price": 545.099,
-    "name": "AlfaTrader21"
+    "price": 545.18,
+    "name": "MFM23"
   },
   "venta_maxima": {
-    "price": 545.0,
-    "name": "Biyt"
+    "price": 547.0,
+    "name": "Destropay21"
   },
-  "promedio": 545.05,
+  "promedio": 546.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
