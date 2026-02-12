@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T20:55:18.071001",
-  "actualizado_vzla": "2026-02-12 16:55:18 -04",
+  "timestamp_utc": "2026-02-12T21:41:10.655405",
+  "actualizado_vzla": "2026-02-12 17:41:10 -04",
   "compra_segundo": {
-    "price": 546.4,
-    "name": "RoyMustang_"
+    "price": 546.8,
+    "name": "MANÓN-P2P"
   },
   "venta_maxima": {
-    "price": 547.5,
+    "price": 547.6,
     "name": "Biyt"
   },
-  "promedio": 546.95,
+  "promedio": 547.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
