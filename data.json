@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T17:43:26.499327",
-  "actualizado_vzla": "2026-02-12 13:43:26 -04",
+  "timestamp_utc": "2026-02-12T18:39:54.154871",
+  "actualizado_vzla": "2026-02-12 14:39:54 -04",
   "compra_segundo": {
-    "price": 543.0,
-    "name": "Guayoyoo"
+    "price": 545.099,
+    "name": "AlfaTrader21"
   },
   "venta_maxima": {
     "price": 545.0,
     "name": "Biyt"
   },
-  "promedio": 544.0,
+  "promedio": 545.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
