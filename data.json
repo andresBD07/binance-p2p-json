@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T05:11:33.796439",
-  "actualizado_vzla": "2026-02-12 01:11:33 -04",
+  "timestamp_utc": "2026-02-12T06:16:42.439759",
+  "actualizado_vzla": "2026-02-12 02:16:42 -04",
   "compra_segundo": {
-    "price": 554.4,
-    "name": "GaAle19"
+    "price": 554.3,
+    "name": "Free Trade and Investments"
   },
   "venta_maxima": {
-    "price": 550.05,
-    "name": "Interestelar10"
+    "price": 550.04,
+    "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 552.22,
+  "promedio": 552.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
