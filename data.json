@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T14:36:30.841891",
-  "actualizado_vzla": "2026-02-12 10:36:30 -04",
+  "timestamp_utc": "2026-02-12T15:33:29.388344",
+  "actualizado_vzla": "2026-02-12 11:33:29 -04",
   "compra_segundo": {
-    "price": 549.2,
-    "name": "Criscripto18M"
+    "price": 550.0,
+    "name": "valto22"
   },
   "venta_maxima": {
-    "price": 551.0,
+    "price": 551.5,
     "name": "-Godgiven-"
   },
-  "promedio": 550.1,
+  "promedio": 550.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
