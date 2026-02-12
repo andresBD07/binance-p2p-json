@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T09:05:15.236081",
-  "actualizado_vzla": "2026-02-12 05:05:15 -04",
+  "timestamp_utc": "2026-02-12T10:06:20.649206",
+  "actualizado_vzla": "2026-02-12 06:06:20 -04",
   "compra_segundo": {
-    "price": 554.3,
-    "name": "Free Trade and Investments"
+    "price": 554.0,
+    "name": "CAMBIO-LAGO"
   },
   "venta_maxima": {
-    "price": 550.04,
-    "name": "D B Pago Rápido y Seguro"
+    "price": 549.21,
+    "name": "Invcaf"
   },
-  "promedio": 552.17,
+  "promedio": 551.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
