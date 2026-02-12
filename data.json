@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T16:37:39.084603",
-  "actualizado_vzla": "2026-02-12 12:37:39 -04",
+  "timestamp_utc": "2026-02-12T17:43:26.499327",
+  "actualizado_vzla": "2026-02-12 13:43:26 -04",
   "compra_segundo": {
-    "price": 546.19,
-    "name": "Anderema"
+    "price": 543.0,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 547.5,
-    "name": "-Godgiven-"
+    "price": 545.0,
+    "name": "Biyt"
   },
-  "promedio": 546.85,
+  "promedio": 544.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
