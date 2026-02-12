@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-12T15:33:29.388344",
-  "actualizado_vzla": "2026-02-12 11:33:29 -04",
+  "timestamp_utc": "2026-02-12T16:37:39.084603",
+  "actualizado_vzla": "2026-02-12 12:37:39 -04",
   "compra_segundo": {
-    "price": 550.0,
-    "name": "valto22"
+    "price": 546.19,
+    "name": "Anderema"
   },
   "venta_maxima": {
-    "price": 551.5,
+    "price": 547.5,
     "name": "-Godgiven-"
   },
-  "promedio": 550.75,
+  "promedio": 546.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
