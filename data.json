@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T12:02:45.291323",
-  "actualizado_vzla": "2026-02-13 08:02:45 -04",
+  "timestamp_utc": "2026-02-13T13:33:49.410978",
+  "actualizado_vzla": "2026-02-13 09:33:49 -04",
   "compra_segundo": {
-    "price": 544.175,
-    "name": "urotrader"
+    "price": 536.6,
+    "name": "TokenSwift"
   },
   "venta_maxima": {
-    "price": 546.5,
-    "name": "-Godgiven-"
+    "price": 537.0,
+    "name": "USDTpulso"
   },
-  "promedio": 545.34,
+  "promedio": 536.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
