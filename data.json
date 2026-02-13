@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T14:26:24.088157",
-  "actualizado_vzla": "2026-02-13 10:26:24 -04",
+  "timestamp_utc": "2026-02-13T15:11:11.195439",
+  "actualizado_vzla": "2026-02-13 11:11:11 -04",
   "compra_segundo": {
-    "price": 538.6,
-    "name": "Nirvanacafe"
+    "price": 539.69,
+    "name": "R0ckandR0ll"
   },
   "venta_maxima": {
     "price": 539.0,
     "name": "RONIN2_0"
   },
-  "promedio": 538.8,
+  "promedio": 539.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
