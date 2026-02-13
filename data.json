@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T17:02:25.537210",
-  "actualizado_vzla": "2026-02-13 13:02:25 -04",
+  "timestamp_utc": "2026-02-13T17:54:09.569586",
+  "actualizado_vzla": "2026-02-13 13:54:09 -04",
   "compra_segundo": {
-    "price": 536.82,
-    "name": "CRIPTOCARIBE-JE"
+    "price": 535.0,
+    "name": "P_A_C_A"
   },
   "venta_maxima": {
-    "price": 537.1,
-    "name": "SasukeTrader"
+    "price": 535.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 536.96,
+  "promedio": 535.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
