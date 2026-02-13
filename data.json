@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T16:01:41.407558",
-  "actualizado_vzla": "2026-02-13 12:01:41 -04",
+  "timestamp_utc": "2026-02-13T17:02:25.537210",
+  "actualizado_vzla": "2026-02-13 13:02:25 -04",
   "compra_segundo": {
-    "price": 538.999,
-    "name": "Catalina"
+    "price": 536.82,
+    "name": "CRIPTOCARIBE-JE"
   },
   "venta_maxima": {
-    "price": 539.1,
-    "name": "Vitatech"
+    "price": 537.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 539.05,
+  "promedio": 536.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
