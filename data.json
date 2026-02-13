@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T11:02:25.312457",
-  "actualizado_vzla": "2026-02-13 07:02:25 -04",
+  "timestamp_utc": "2026-02-13T11:43:01.707124",
+  "actualizado_vzla": "2026-02-13 07:43:01 -04",
   "compra_segundo": {
-    "price": 545.0,
-    "name": "Elqueyasabes"
+    "price": 544.19,
+    "name": "Brick"
   },
   "venta_maxima": {
-    "price": 541.801,
-    "name": "RickyRiconn"
+    "price": 543.565,
+    "name": "FMDeluXchange"
   },
-  "promedio": 543.4,
+  "promedio": 543.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
