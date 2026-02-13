@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T09:24:32.083852",
-  "actualizado_vzla": "2026-02-13 05:24:32 -04",
+  "timestamp_utc": "2026-02-13T10:08:30.712345",
+  "actualizado_vzla": "2026-02-13 06:08:30 -04",
   "compra_segundo": {
-    "price": 546.499,
-    "name": "K_H2"
+    "price": 545.8,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 540.5,
-    "name": "TPhillips"
+    "price": 540.75,
+    "name": "AbyBruce"
   },
-  "promedio": 543.5,
+  "promedio": 543.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
