@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T04:02:16.151610",
-  "actualizado_vzla": "2026-02-13 00:02:16 -04",
+  "timestamp_utc": "2026-02-13T05:35:45.986927",
+  "actualizado_vzla": "2026-02-13 01:35:45 -04",
   "compra_segundo": {
-    "price": 546.005,
-    "name": "Caship30"
+    "price": 546.0,
+    "name": "Yoinered"
   },
   "venta_maxima": {
-    "price": 543.5,
-    "name": "Jin-Woo-Sung"
+    "price": 543.2,
+    "name": "Technicianzz"
   },
-  "promedio": 544.75,
+  "promedio": 544.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
