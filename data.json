@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T10:08:30.712345",
-  "actualizado_vzla": "2026-02-13 06:08:30 -04",
+  "timestamp_utc": "2026-02-13T11:02:25.312457",
+  "actualizado_vzla": "2026-02-13 07:02:25 -04",
   "compra_segundo": {
-    "price": 545.8,
-    "name": "raParadas-31"
+    "price": 545.0,
+    "name": "Elqueyasabes"
   },
   "venta_maxima": {
-    "price": 540.75,
-    "name": "AbyBruce"
+    "price": 541.801,
+    "name": "RickyRiconn"
   },
-  "promedio": 543.27,
+  "promedio": 543.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
