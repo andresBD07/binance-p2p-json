@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-13T07:39:03.019910",
-  "actualizado_vzla": "2026-02-13 03:39:03 -04",
+  "timestamp_utc": "2026-02-13T08:26:53.273851",
+  "actualizado_vzla": "2026-02-13 04:26:53 -04",
   "compra_segundo": {
-    "price": 546.7,
-    "name": "Dantecripto"
+    "price": 546.6,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 541.301,
+    "price": 541.0,
     "name": "Star_Trading"
   },
-  "promedio": 544.0,
+  "promedio": 543.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
