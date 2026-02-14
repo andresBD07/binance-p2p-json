@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T12:49:14.737623",
-  "actualizado_vzla": "2026-02-14 08:49:14 -04",
+  "timestamp_utc": "2026-02-14T13:37:49.667326",
+  "actualizado_vzla": "2026-02-14 09:37:49 -04",
   "compra_segundo": {
-    "price": 532.97,
-    "name": "CoinGonzo"
+    "price": 532.68,
+    "name": "Asdru_especial08"
   },
   "venta_maxima": {
-    "price": 531.5,
-    "name": "安全与信任"
+    "price": 533.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 532.24,
+  "promedio": 532.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
