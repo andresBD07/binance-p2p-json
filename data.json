@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T11:32:39.124959",
-  "actualizado_vzla": "2026-02-14 07:32:39 -04",
+  "timestamp_utc": "2026-02-14T11:52:33.373725",
+  "actualizado_vzla": "2026-02-14 07:52:33 -04",
   "compra_segundo": {
-    "price": 534.0,
-    "name": "Soy-Tu-Trader"
+    "price": 533.888,
+    "name": "David-0199"
   },
   "venta_maxima": {
     "price": 531.0,
     "name": "安全与信任"
   },
-  "promedio": 532.5,
+  "promedio": 532.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
