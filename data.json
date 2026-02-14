@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T09:30:54.528954",
-  "actualizado_vzla": "2026-02-14 05:30:54 -04",
+  "timestamp_utc": "2026-02-14T09:56:19.314638",
+  "actualizado_vzla": "2026-02-14 05:56:19 -04",
   "compra_segundo": {
-    "price": 535.0,
-    "name": "MatheusP2P-"
+    "price": 534.999,
+    "name": "Cating"
   },
   "venta_maxima": {
-    "price": 530.4,
+    "price": 530.5,
     "name": "Manuel_eltrader"
   },
-  "promedio": 532.7,
+  "promedio": 532.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
