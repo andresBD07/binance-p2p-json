@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T17:12:53.068565",
-  "actualizado_vzla": "2026-02-14 13:12:53 -04",
+  "timestamp_utc": "2026-02-14T17:44:46.394618",
+  "actualizado_vzla": "2026-02-14 13:44:46 -04",
   "compra_segundo": {
-    "price": 532.777,
-    "name": "OikonomiaDigital"
+    "price": 532.8,
+    "name": "LaMundial"
   },
   "venta_maxima": {
-    "price": 533.8,
+    "price": 533.9,
     "name": "Rapidflorio84"
   },
-  "promedio": 533.29,
+  "promedio": 533.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
