@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T02:49:58.103860",
-  "actualizado_vzla": "2026-02-13 22:49:58 -04",
+  "timestamp_utc": "2026-02-14T04:27:26.266414",
+  "actualizado_vzla": "2026-02-14 00:27:26 -04",
   "compra_segundo": {
-    "price": 534.198,
-    "name": "CriptTradeHup "
+    "price": 534.25,
+    "name": "dkans21"
   },
   "venta_maxima": {
-    "price": 533.5,
-    "name": "-Saitama-"
+    "price": 533.0,
+    "name": "Twix"
   },
-  "promedio": 533.85,
+  "promedio": 533.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
