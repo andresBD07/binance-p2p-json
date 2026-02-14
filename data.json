@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T19:21:04.251376",
-  "actualizado_vzla": "2026-02-14 15:21:04 -04",
+  "timestamp_utc": "2026-02-14T19:43:46.557410",
+  "actualizado_vzla": "2026-02-14 15:43:46 -04",
   "compra_segundo": {
-    "price": 534.2,
-    "name": "Mahc012712"
+    "price": 534.8,
+    "name": "-ArExperienceChange-"
   },
   "venta_maxima": {
-    "price": 534.002,
-    "name": "jaro23"
+    "price": 534.0,
+    "name": "Godisgift"
   },
-  "promedio": 534.1,
+  "promedio": 534.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
