@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T07:46:34.575836",
-  "actualizado_vzla": "2026-02-14 03:46:34 -04",
+  "timestamp_utc": "2026-02-14T08:15:40.145597",
+  "actualizado_vzla": "2026-02-14 04:15:40 -04",
   "compra_segundo": {
-    "price": 535.9,
-    "name": "Cambios_MH2107"
+    "price": 535.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 530.3,
-    "name": "mayerlingm"
+    "price": 531.01,
+    "name": "Wis3Trading"
   },
-  "promedio": 533.1,
+  "promedio": 533.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
