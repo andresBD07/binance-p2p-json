@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T00:01:15.949040",
-  "actualizado_vzla": "2026-02-13 20:01:15 -04",
+  "timestamp_utc": "2026-02-14T02:49:58.103860",
+  "actualizado_vzla": "2026-02-13 22:49:58 -04",
   "compra_segundo": {
-    "price": 532.95,
-    "name": "Tzar25"
+    "price": 534.198,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 535.0,
-    "name": "安全与信任"
+    "price": 533.5,
+    "name": "-Saitama-"
   },
-  "promedio": 533.98,
+  "promedio": 533.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
