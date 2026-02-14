@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-14T05:32:11.328304",
-  "actualizado_vzla": "2026-02-14 01:32:11 -04",
+  "timestamp_utc": "2026-02-14T06:08:13.067558",
+  "actualizado_vzla": "2026-02-14 02:08:13 -04",
   "compra_segundo": {
-    "price": 535.5,
-    "name": "Emmanuelli"
+    "price": 535.65,
+    "name": "eltripolitanop2p"
   },
   "venta_maxima": {
-    "price": 530.44,
-    "name": "angelchacon"
+    "price": 530.3,
+    "name": "mayerlingm"
   },
   "promedio": 532.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
