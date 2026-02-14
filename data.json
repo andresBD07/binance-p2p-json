@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T13:37:49.667326",
-  "actualizado_vzla": "2026-02-14 09:37:49 -04",
+  "timestamp_utc": "2026-02-14T14:04:15.463914",
+  "actualizado_vzla": "2026-02-14 10:04:15 -04",
   "compra_segundo": {
-    "price": 532.68,
-    "name": "Asdru_especial08"
+    "price": 534.0,
+    "name": "Criollos MONEY"
   },
   "venta_maxima": {
-    "price": 533.0,
-    "name": "梅CityCambio爱"
+    "price": 534.5,
+    "name": "TAURUS85"
   },
-  "promedio": 532.84,
+  "promedio": 534.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
