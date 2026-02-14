@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T15:57:45.067226",
-  "actualizado_vzla": "2026-02-14 11:57:45 -04",
+  "timestamp_utc": "2026-02-14T16:43:33.924572",
+  "actualizado_vzla": "2026-02-14 12:43:33 -04",
   "compra_segundo": {
-    "price": 533.45,
-    "name": "MangoConAdoboT"
+    "price": 533.3,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
-    "price": 534.01,
-    "name": "SasukeTrader"
+    "price": 534.0,
+    "name": "CamburPlus"
   },
-  "promedio": 533.73,
+  "promedio": 533.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
