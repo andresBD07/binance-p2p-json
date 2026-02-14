@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T10:59:54.884198",
-  "actualizado_vzla": "2026-02-14 06:59:54 -04",
+  "timestamp_utc": "2026-02-14T11:32:39.124959",
+  "actualizado_vzla": "2026-02-14 07:32:39 -04",
   "compra_segundo": {
-    "price": 534.46,
-    "name": "Criptosafe_"
+    "price": 534.0,
+    "name": "Soy-Tu-Trader"
   },
   "venta_maxima": {
-    "price": 530.0,
-    "name": "Comercial Slim 2018 C A"
+    "price": 531.0,
+    "name": "安全与信任"
   },
-  "promedio": 532.23,
+  "promedio": 532.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
