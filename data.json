@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T19:57:59.001862",
-  "actualizado_vzla": "2026-02-14 15:57:59 -04",
+  "timestamp_utc": "2026-02-14T20:37:41.134018",
+  "actualizado_vzla": "2026-02-14 16:37:41 -04",
   "compra_segundo": {
-    "price": 534.804,
-    "name": "BallGroup"
+    "price": 534.68,
+    "name": "TheQueen27"
   },
   "venta_maxima": {
-    "price": 534.002,
-    "name": "All-inCrypto"
+    "price": 535.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 534.4,
+  "promedio": 534.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
