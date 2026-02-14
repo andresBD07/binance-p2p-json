@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T20:37:41.134018",
-  "actualizado_vzla": "2026-02-14 16:37:41 -04",
+  "timestamp_utc": "2026-02-14T20:58:35.588756",
+  "actualizado_vzla": "2026-02-14 16:58:35 -04",
   "compra_segundo": {
-    "price": 534.68,
-    "name": "TheQueen27"
+    "price": 534.886,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
     "price": 535.0,
-    "name": "GOMEZTUSOLUCION"
+    "name": "Tradingfriend"
   },
-  "promedio": 534.84,
+  "promedio": 534.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
