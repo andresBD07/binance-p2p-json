@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T10:37:09.998756",
-  "actualizado_vzla": "2026-02-14 06:37:10 -04",
+  "timestamp_utc": "2026-02-14T10:59:54.884198",
+  "actualizado_vzla": "2026-02-14 06:59:54 -04",
   "compra_segundo": {
-    "price": 534.49,
-    "name": "CambiosFranccos"
+    "price": 534.46,
+    "name": "Criptosafe_"
   },
   "venta_maxima": {
-    "price": 537.3,
-    "name": "HunterxTrade"
+    "price": 530.0,
+    "name": "Comercial Slim 2018 C A"
   },
-  "promedio": 535.89,
+  "promedio": 532.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
