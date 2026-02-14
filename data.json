@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T22:31:22.718774",
-  "actualizado_vzla": "2026-02-14 18:31:22 -04",
+  "timestamp_utc": "2026-02-14T22:55:34.758882",
+  "actualizado_vzla": "2026-02-14 18:55:34 -04",
   "compra_segundo": {
-    "price": 534.339,
-    "name": "AxelKingS"
+    "price": 534.0,
+    "name": "InversionesJZ"
   },
   "venta_maxima": {
-    "price": 534.1,
+    "price": 534.15,
     "name": "USDTpulso"
   },
-  "promedio": 534.22,
+  "promedio": 534.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
