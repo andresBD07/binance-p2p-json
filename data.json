@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T15:37:26.335645",
-  "actualizado_vzla": "2026-02-14 11:37:26 -04",
+  "timestamp_utc": "2026-02-14T15:57:45.067226",
+  "actualizado_vzla": "2026-02-14 11:57:45 -04",
   "compra_segundo": {
-    "price": 533.5,
-    "name": "MoiAF"
+    "price": 533.45,
+    "name": "MangoConAdoboT"
   },
   "venta_maxima": {
     "price": 534.01,
     "name": "SasukeTrader"
   },
-  "promedio": 533.75,
+  "promedio": 533.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
