@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T08:15:40.145597",
-  "actualizado_vzla": "2026-02-14 04:15:40 -04",
+  "timestamp_utc": "2026-02-14T08:52:32.663238",
+  "actualizado_vzla": "2026-02-14 04:52:32 -04",
   "compra_segundo": {
-    "price": 535.0,
-    "name": "Daikokuten-Finance"
+    "price": 535.65,
+    "name": "eltripolitanop2p"
   },
   "venta_maxima": {
-    "price": 531.01,
-    "name": "Wis3Trading"
+    "price": 531.0,
+    "name": "cazing2230"
   },
-  "promedio": 533.0,
+  "promedio": 533.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
