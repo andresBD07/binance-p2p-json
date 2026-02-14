@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-14T19:43:46.557410",
-  "actualizado_vzla": "2026-02-14 15:43:46 -04",
+  "timestamp_utc": "2026-02-14T19:57:59.001862",
+  "actualizado_vzla": "2026-02-14 15:57:59 -04",
   "compra_segundo": {
-    "price": 534.8,
-    "name": "-ArExperienceChange-"
+    "price": 534.804,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 534.0,
-    "name": "Godisgift"
+    "price": 534.002,
+    "name": "All-inCrypto"
   },
   "promedio": 534.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
