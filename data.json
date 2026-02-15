@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T22:27:31.806895",
-  "actualizado_vzla": "2026-02-15 18:27:31 -04",
+  "timestamp_utc": "2026-02-15T22:55:05.973661",
+  "actualizado_vzla": "2026-02-15 18:55:05 -04",
   "compra_segundo": {
-    "price": 539.889,
-    "name": "GTGTVZLA"
+    "price": 540.2,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 539.5,
+    "price": 539.8,
     "name": "USDTpulso"
   },
-  "promedio": 539.69,
+  "promedio": 540.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
