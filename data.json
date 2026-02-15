@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T06:34:52.782929",
-  "actualizado_vzla": "2026-02-15 02:34:52 -04",
+  "timestamp_utc": "2026-02-15T07:25:56.801219",
+  "actualizado_vzla": "2026-02-15 03:25:56 -04",
   "compra_segundo": {
-    "price": 535.399,
-    "name": "Gavoacoin"
+    "price": 535.3,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
     "price": 532.0,
     "name": "Twix"
   },
-  "promedio": 533.7,
+  "promedio": 533.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
