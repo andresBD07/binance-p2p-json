@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T10:27:00.097164",
-  "actualizado_vzla": "2026-02-15 06:27:00 -04",
+  "timestamp_utc": "2026-02-15T10:55:51.719962",
+  "actualizado_vzla": "2026-02-15 06:55:51 -04",
   "compra_segundo": {
-    "price": 535.5,
-    "name": "Germanctr"
+    "price": 535.089,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
-    "price": 530.009,
-    "name": "CriptoBlox"
+    "price": 529.5,
+    "name": "JoseLNb"
   },
-  "promedio": 532.75,
+  "promedio": 532.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
