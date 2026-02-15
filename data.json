@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T20:55:13.938665",
-  "actualizado_vzla": "2026-02-15 16:55:13 -04",
+  "timestamp_utc": "2026-02-15T21:32:07.778815",
+  "actualizado_vzla": "2026-02-15 17:32:07 -04",
   "compra_segundo": {
-    "price": 538.4,
-    "name": "Santhuan04"
+    "price": 539.49,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
-    "price": 538.8,
+    "price": 539.2,
     "name": "USDTpulso"
   },
-  "promedio": 538.6,
+  "promedio": 539.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
