@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T09:19:10.668880",
-  "actualizado_vzla": "2026-02-15 05:19:10 -04",
+  "timestamp_utc": "2026-02-15T09:52:38.701208",
+  "actualizado_vzla": "2026-02-15 05:52:38 -04",
   "compra_segundo": {
-    "price": 535.289,
-    "name": "ROCU22_VE"
+    "price": 535.199,
+    "name": "CambiosYA _SOLO TITULARES"
   },
   "venta_maxima": {
-    "price": 528.7,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 528.35,
+    "name": "willbyruz"
   },
-  "promedio": 531.99,
+  "promedio": 531.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
