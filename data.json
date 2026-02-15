@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T11:51:02.312439",
-  "actualizado_vzla": "2026-02-15 07:51:02 -04",
+  "timestamp_utc": "2026-02-15T12:40:56.245071",
+  "actualizado_vzla": "2026-02-15 08:40:56 -04",
   "compra_segundo": {
-    "price": 535.0,
-    "name": "MANÓN-P2P"
+    "price": 534.998,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 532.0,
+    "price": 534.0,
     "name": "TradeLion2026"
   },
-  "promedio": 533.5,
+  "promedio": 534.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
