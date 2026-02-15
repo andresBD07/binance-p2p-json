@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T14:03:48.393809",
-  "actualizado_vzla": "2026-02-15 10:03:48 -04",
+  "timestamp_utc": "2026-02-15T14:44:32.307655",
+  "actualizado_vzla": "2026-02-15 10:44:32 -04",
   "compra_segundo": {
-    "price": 539.9,
-    "name": "Check-eate"
+    "price": 541.0,
+    "name": "AKI-TRANSFER"
   },
   "venta_maxima": {
-    "price": 538.0,
+    "price": 539.0,
     "name": "Godisgift"
   },
-  "promedio": 538.95,
+  "promedio": 540.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
