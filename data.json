@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-14T23:54:23.035408",
-  "actualizado_vzla": "2026-02-14 19:54:23 -04",
+  "timestamp_utc": "2026-02-15T02:45:01.794625",
+  "actualizado_vzla": "2026-02-14 22:45:01 -04",
   "compra_segundo": {
-    "price": 533.99,
-    "name": "Mr_Nasdaq"
+    "price": 534.7,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 533.5,
-    "name": "Rapidflorio84"
+    "price": 533.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 533.75,
+  "promedio": 533.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
