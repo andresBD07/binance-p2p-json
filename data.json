@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T17:14:30.508044",
-  "actualizado_vzla": "2026-02-15 13:14:30 -04",
+  "timestamp_utc": "2026-02-15T17:46:33.354342",
+  "actualizado_vzla": "2026-02-15 13:46:33 -04",
   "compra_segundo": {
-    "price": 540.33,
-    "name": "ROMA_USDT"
+    "price": 540.0,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 539.0,
-    "name": "RONIN2_0"
+    "price": 538.5,
+    "name": "你理想的改變"
   },
-  "promedio": 539.66,
+  "promedio": 539.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
