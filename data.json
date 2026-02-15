@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T19:53:02.146938",
-  "actualizado_vzla": "2026-02-15 15:53:02 -04",
+  "timestamp_utc": "2026-02-15T20:29:23.808955",
+  "actualizado_vzla": "2026-02-15 16:29:23 -04",
   "compra_segundo": {
-    "price": 538.09,
-    "name": "CRIPTOCARIBE-JE"
+    "price": 538.2,
+    "name": "Pivot_05"
   },
   "venta_maxima": {
-    "price": 538.6,
-    "name": "Brawcoins"
+    "price": 538.8,
+    "name": "USDTpulso"
   },
-  "promedio": 538.35,
+  "promedio": 538.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
