@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T02:45:01.794625",
-  "actualizado_vzla": "2026-02-14 22:45:01 -04",
+  "timestamp_utc": "2026-02-15T04:46:34.025754",
+  "actualizado_vzla": "2026-02-15 00:46:34 -04",
   "compra_segundo": {
-    "price": 534.7,
-    "name": "_AltCoinMaster_"
+    "price": 535.0,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
-    "price": 533.0,
-    "name": "Child-CambioFacil"
+    "price": 532.0,
+    "name": "Twix"
   },
-  "promedio": 533.85,
+  "promedio": 533.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
