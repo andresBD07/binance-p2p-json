@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T16:00:27.261279",
-  "actualizado_vzla": "2026-02-15 12:00:27 -04",
+  "timestamp_utc": "2026-02-15T16:46:15.674074",
+  "actualizado_vzla": "2026-02-15 12:46:15 -04",
   "compra_segundo": {
-    "price": 538.2,
-    "name": "Cambi0Express"
+    "price": 539.48,
+    "name": "Heljo12"
   },
   "venta_maxima": {
-    "price": 537.8,
-    "name": "Child-CambioFacil"
+    "price": 538.3,
+    "name": "Godisgift"
   },
-  "promedio": 538.0,
+  "promedio": 538.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
