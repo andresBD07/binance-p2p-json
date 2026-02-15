@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T07:58:08.983977",
-  "actualizado_vzla": "2026-02-15 03:58:08 -04",
+  "timestamp_utc": "2026-02-15T08:47:47.937913",
+  "actualizado_vzla": "2026-02-15 04:47:47 -04",
   "compra_segundo": {
-    "price": 535.289,
-    "name": "ROCU22_VE"
+    "price": 535.5,
+    "name": "ComerciaRapidito"
   },
   "venta_maxima": {
-    "price": 530.109,
-    "name": "SPYG"
+    "price": 529.11,
+    "name": "P2pintelegence"
   },
-  "promedio": 532.7,
+  "promedio": 532.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
