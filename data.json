@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T15:11:48.276844",
-  "actualizado_vzla": "2026-02-15 11:11:48 -04",
+  "timestamp_utc": "2026-02-15T15:43:09.355540",
+  "actualizado_vzla": "2026-02-15 11:43:09 -04",
   "compra_segundo": {
-    "price": 541.0,
-    "name": "Trading_professional"
+    "price": 539.0,
+    "name": "BreakStuff"
   },
   "venta_maxima": {
-    "price": 539.5,
+    "price": 538.2,
     "name": "Child-CambioFacil"
   },
-  "promedio": 540.25,
+  "promedio": 538.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
