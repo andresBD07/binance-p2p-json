@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T10:55:51.719962",
-  "actualizado_vzla": "2026-02-15 06:55:51 -04",
+  "timestamp_utc": "2026-02-15T11:30:39.143531",
+  "actualizado_vzla": "2026-02-15 07:30:39 -04",
   "compra_segundo": {
-    "price": 535.089,
-    "name": "TilinArberto"
+    "price": 534.999,
+    "name": "Cambios_fast54"
   },
   "venta_maxima": {
-    "price": 529.5,
-    "name": "JoseLNb"
+    "price": 532.0,
+    "name": "TradeLion2026"
   },
-  "promedio": 532.29,
+  "promedio": 533.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
