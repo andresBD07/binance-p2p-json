@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T04:46:34.025754",
-  "actualizado_vzla": "2026-02-15 00:46:34 -04",
+  "timestamp_utc": "2026-02-15T05:45:43.885171",
+  "actualizado_vzla": "2026-02-15 01:45:43 -04",
   "compra_segundo": {
-    "price": 535.0,
-    "name": "DolceGabbana"
+    "price": 535.199,
+    "name": "LolaCambios"
   },
   "venta_maxima": {
     "price": 532.0,
     "name": "Twix"
   },
-  "promedio": 533.5,
+  "promedio": 533.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
