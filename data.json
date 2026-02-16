@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-15T23:57:24.107734",
-  "actualizado_vzla": "2026-02-15 19:57:24 -04",
+  "timestamp_utc": "2026-02-16T02:55:37.932059",
+  "actualizado_vzla": "2026-02-15 22:55:37 -04",
   "compra_segundo": {
-    "price": 540.38,
-    "name": "dannym12"
+    "price": 541.39,
+    "name": "Tradingsport"
   },
   "venta_maxima": {
-    "price": 540.1,
-    "name": "USDTpulso"
+    "price": 539.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 540.24,
+  "promedio": 540.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
