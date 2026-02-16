@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T16:05:02.233519",
-  "actualizado_vzla": "2026-02-16 12:05:02 -04",
+  "timestamp_utc": "2026-02-16T17:01:18.664778",
+  "actualizado_vzla": "2026-02-16 13:01:18 -04",
   "compra_segundo": {
-    "price": 538.0,
-    "name": "lamejoropcion"
+    "price": 537.89,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 537.0,
-    "name": "Biyt"
+    "price": 537.5,
+    "name": "Gustavo129"
   },
-  "promedio": 537.5,
+  "promedio": 537.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
