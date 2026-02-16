@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T12:00:30.736319",
-  "actualizado_vzla": "2026-02-16 08:00:30 -04",
+  "timestamp_utc": "2026-02-16T13:35:57.020926",
+  "actualizado_vzla": "2026-02-16 09:35:57 -04",
   "compra_segundo": {
-    "price": 540.69,
-    "name": "RapidEx369"
+    "price": 539.45,
+    "name": "AbyBruce"
   },
   "venta_maxima": {
-    "price": 537.5,
-    "name": "Gustavo129"
+    "price": 539.0,
+    "name": "TAURUS85"
   },
-  "promedio": 539.1,
+  "promedio": 539.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
