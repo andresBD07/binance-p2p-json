@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T05:07:16.502926",
-  "actualizado_vzla": "2026-02-16 01:07:16 -04",
+  "timestamp_utc": "2026-02-16T06:14:41.507503",
+  "actualizado_vzla": "2026-02-16 02:14:41 -04",
   "compra_segundo": {
-    "price": 543.79,
-    "name": "Anderema"
+    "price": 544.0,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 538.5,
-    "name": "Jin-Woo-Sung"
+    "price": 538.382,
+    "name": "Ledgerium"
   },
-  "promedio": 541.14,
+  "promedio": 541.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
