@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T09:30:38.256924",
-  "actualizado_vzla": "2026-02-16 05:30:38 -04",
+  "timestamp_utc": "2026-02-16T10:30:44.147489",
+  "actualizado_vzla": "2026-02-16 06:30:44 -04",
   "compra_segundo": {
-    "price": 543.98,
-    "name": "MentalStagnums"
+    "price": 542.721,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 536.02,
-    "name": "Yosedg"
+    "price": 537.0,
+    "name": "GregoSwap"
   },
-  "promedio": 540.0,
+  "promedio": 539.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
