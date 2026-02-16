@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T21:00:16.958896",
-  "actualizado_vzla": "2026-02-16 17:00:16 -04",
+  "timestamp_utc": "2026-02-16T21:39:16.891787",
+  "actualizado_vzla": "2026-02-16 17:39:16 -04",
   "compra_segundo": {
-    "price": 538.0,
-    "name": "Anonymous-GC07"
+    "price": 537.9,
+    "name": "LaMundial"
   },
   "venta_maxima": {
-    "price": 537.0,
-    "name": "TPhillips"
+    "price": 538.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 537.5,
+  "promedio": 537.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
