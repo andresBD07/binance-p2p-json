@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T02:55:37.932059",
-  "actualizado_vzla": "2026-02-15 22:55:37 -04",
+  "timestamp_utc": "2026-02-16T05:07:16.502926",
+  "actualizado_vzla": "2026-02-16 01:07:16 -04",
   "compra_segundo": {
-    "price": 541.39,
-    "name": "Tradingsport"
+    "price": 543.79,
+    "name": "Anderema"
   },
   "venta_maxima": {
-    "price": 539.5,
-    "name": "梅CityCambio爱"
+    "price": 538.5,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 540.44,
+  "promedio": 541.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
