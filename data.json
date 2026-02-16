@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T17:52:12.469308",
-  "actualizado_vzla": "2026-02-16 13:52:12 -04",
+  "timestamp_utc": "2026-02-16T18:42:05.604994",
+  "actualizado_vzla": "2026-02-16 14:42:05 -04",
   "compra_segundo": {
-    "price": 537.9,
-    "name": "Jyqz"
+    "price": 537.999,
+    "name": "CAMBIOS_VDMK"
   },
   "venta_maxima": {
-    "price": 537.55,
+    "price": 537.6,
     "name": "USDTpulso"
   },
-  "promedio": 537.72,
+  "promedio": 537.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
