@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T17:01:18.664778",
-  "actualizado_vzla": "2026-02-16 13:01:18 -04",
+  "timestamp_utc": "2026-02-16T17:52:12.469308",
+  "actualizado_vzla": "2026-02-16 13:52:12 -04",
   "compra_segundo": {
-    "price": 537.89,
-    "name": "CH-Intercambios"
+    "price": 537.9,
+    "name": "Jyqz"
   },
   "venta_maxima": {
-    "price": 537.5,
-    "name": "Gustavo129"
+    "price": 537.55,
+    "name": "USDTpulso"
   },
-  "promedio": 537.69,
+  "promedio": 537.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
