@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-16T08:25:02.547465",
-  "actualizado_vzla": "2026-02-16 04:25:02 -04",
+  "timestamp_utc": "2026-02-16T09:30:38.256924",
+  "actualizado_vzla": "2026-02-16 05:30:38 -04",
   "compra_segundo": {
-    "price": 544.0,
-    "name": "Standard Changes"
+    "price": 543.98,
+    "name": "MentalStagnums"
   },
   "venta_maxima": {
-    "price": 536.001,
-    "name": "usdtking"
+    "price": 536.02,
+    "name": "Yosedg"
   },
   "promedio": 540.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
