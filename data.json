@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T13:35:57.020926",
-  "actualizado_vzla": "2026-02-16 09:35:57 -04",
+  "timestamp_utc": "2026-02-16T14:27:53.535975",
+  "actualizado_vzla": "2026-02-16 10:27:53 -04",
   "compra_segundo": {
-    "price": 539.45,
-    "name": "AbyBruce"
+    "price": 537.65,
+    "name": "Latribu-"
   },
   "venta_maxima": {
-    "price": 539.0,
-    "name": "TAURUS85"
+    "price": 538.2,
+    "name": "Escocrida"
   },
-  "promedio": 539.23,
+  "promedio": 537.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
