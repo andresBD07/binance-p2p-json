@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T18:42:05.604994",
-  "actualizado_vzla": "2026-02-16 14:42:05 -04",
+  "timestamp_utc": "2026-02-16T19:23:14.602671",
+  "actualizado_vzla": "2026-02-16 15:23:14 -04",
   "compra_segundo": {
-    "price": 537.999,
-    "name": "CAMBIOS_VDMK"
+    "price": 538.0,
+    "name": "DavDoug"
   },
   "venta_maxima": {
-    "price": 537.6,
-    "name": "USDTpulso"
+    "price": 537.5,
+    "name": "Gustavo129"
   },
-  "promedio": 537.8,
+  "promedio": 537.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
