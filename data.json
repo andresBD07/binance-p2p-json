@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T07:33:35.562228",
-  "actualizado_vzla": "2026-02-16 03:33:35 -04",
+  "timestamp_utc": "2026-02-16T08:25:02.547465",
+  "actualizado_vzla": "2026-02-16 04:25:02 -04",
   "compra_segundo": {
     "price": 544.0,
-    "name": "_cambioBTC"
+    "name": "Standard Changes"
   },
   "venta_maxima": {
-    "price": 537.0,
-    "name": "Ledgerium"
+    "price": 536.001,
+    "name": "usdtking"
   },
-  "promedio": 540.5,
+  "promedio": 540.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
