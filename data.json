@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T21:39:16.891787",
-  "actualizado_vzla": "2026-02-16 17:39:16 -04",
+  "timestamp_utc": "2026-02-16T21:59:33.487991",
+  "actualizado_vzla": "2026-02-16 17:59:33 -04",
   "compra_segundo": {
-    "price": 537.9,
-    "name": "LaMundial"
+    "price": 537.88,
+    "name": "Fanteb"
   },
   "venta_maxima": {
     "price": 538.0,
     "name": "Child-CambioFacil"
   },
-  "promedio": 537.95,
+  "promedio": 537.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
