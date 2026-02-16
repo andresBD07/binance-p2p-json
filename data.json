@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T11:24:48.204648",
-  "actualizado_vzla": "2026-02-16 07:24:48 -04",
+  "timestamp_utc": "2026-02-16T12:00:30.736319",
+  "actualizado_vzla": "2026-02-16 08:00:30 -04",
   "compra_segundo": {
-    "price": 541.4,
-    "name": "Trading_professional"
+    "price": 540.69,
+    "name": "RapidEx369"
   },
   "venta_maxima": {
-    "price": 537.2,
-    "name": "ChuchoTrader-_-"
+    "price": 537.5,
+    "name": "Gustavo129"
   },
-  "promedio": 539.3,
+  "promedio": 539.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
