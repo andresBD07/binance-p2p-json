@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T20:32:40.554808",
-  "actualizado_vzla": "2026-02-16 16:32:40 -04",
+  "timestamp_utc": "2026-02-16T21:00:16.958896",
+  "actualizado_vzla": "2026-02-16 17:00:16 -04",
   "compra_segundo": {
     "price": 538.0,
-    "name": "Guayoyoo"
+    "name": "Anonymous-GC07"
   },
   "venta_maxima": {
-    "price": 538.1,
-    "name": "USDTFASTTT"
+    "price": 537.0,
+    "name": "TPhillips"
   },
-  "promedio": 538.05,
+  "promedio": 537.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
