@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T23:14:48.079197",
-  "actualizado_vzla": "2026-02-16 19:14:48 -04",
+  "timestamp_utc": "2026-02-16T23:47:56.260829",
+  "actualizado_vzla": "2026-02-16 19:47:56 -04",
   "compra_segundo": {
-    "price": 535.789,
-    "name": "LolaCambios"
+    "price": 534.94,
+    "name": "Ale1498"
   },
   "venta_maxima": {
-    "price": 535.1,
-    "name": "BOLO-USDT"
+    "price": 534.5,
+    "name": "TPhillips"
   },
-  "promedio": 535.44,
+  "promedio": 534.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
