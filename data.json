@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-16T19:52:48.021514",
-  "actualizado_vzla": "2026-02-16 15:52:48 -04",
+  "timestamp_utc": "2026-02-16T20:32:40.554808",
+  "actualizado_vzla": "2026-02-16 16:32:40 -04",
   "compra_segundo": {
-    "price": 537.777,
-    "name": "OikonomiaDigital"
+    "price": 538.0,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 537.5,
-    "name": "USDTpulso"
+    "price": 538.1,
+    "name": "USDTFASTTT"
   },
-  "promedio": 537.64,
+  "promedio": 538.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
