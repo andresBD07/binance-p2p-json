@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T08:02:56.382340",
-  "actualizado_vzla": "2026-02-17 04:02:56 -04",
+  "timestamp_utc": "2026-02-17T09:02:40.371638",
+  "actualizado_vzla": "2026-02-17 05:02:40 -04",
   "compra_segundo": {
-    "price": 536.936,
-    "name": "instantremitly "
+    "price": 536.9,
+    "name": "CorvoMecanique"
   },
   "venta_maxima": {
-    "price": 532.0,
-    "name": "Aszahi7"
+    "price": 531.0,
+    "name": "cazing2230"
   },
-  "promedio": 534.47,
+  "promedio": 533.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
