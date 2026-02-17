@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T19:16:19.032048",
-  "actualizado_vzla": "2026-02-17 15:16:19 -04",
+  "timestamp_utc": "2026-02-17T19:56:45.306278",
+  "actualizado_vzla": "2026-02-17 15:56:45 -04",
   "compra_segundo": {
-    "price": 535.899,
-    "name": "ELGOCHOXCHANGE31"
+    "price": 535.5,
+    "name": "Inversiones Money Today"
   },
   "venta_maxima": {
-    "price": 536.0,
-    "name": "Godisgift"
+    "price": 534.5,
+    "name": "加密操作"
   },
-  "promedio": 535.95,
+  "promedio": 535.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
