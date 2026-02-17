@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T01:00:40.684891",
-  "actualizado_vzla": "2026-02-16 21:00:40 -04",
+  "timestamp_utc": "2026-02-17T03:42:44.394576",
+  "actualizado_vzla": "2026-02-16 23:42:44 -04",
   "compra_segundo": {
-    "price": 535.39,
-    "name": "mandy02"
+    "price": 535.389,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 535.0,
-    "name": "TPhillips"
+    "price": 532.3,
+    "name": "Tumundoexchange"
   },
-  "promedio": 535.19,
+  "promedio": 533.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
