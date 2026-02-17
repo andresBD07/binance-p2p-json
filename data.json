@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T17:16:38.537891",
-  "actualizado_vzla": "2026-02-17 13:16:38 -04",
+  "timestamp_utc": "2026-02-17T18:09:57.348770",
+  "actualizado_vzla": "2026-02-17 14:09:57 -04",
   "compra_segundo": {
-    "price": 536.188,
-    "name": "Wil2589"
+    "price": 535.9,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
-    "price": 536.122,
-    "name": "加密操作"
+    "price": 535.1,
+    "name": "USDTFASTTT"
   },
-  "promedio": 536.15,
+  "promedio": 535.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
