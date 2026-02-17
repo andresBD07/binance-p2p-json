@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T11:51:51.167854",
-  "actualizado_vzla": "2026-02-17 07:51:51 -04",
+  "timestamp_utc": "2026-02-17T12:59:50.036774",
+  "actualizado_vzla": "2026-02-17 08:59:50 -04",
   "compra_segundo": {
-    "price": 534.8,
-    "name": "EL REY DE REYES 76"
+    "price": 533.5,
+    "name": "ANMAIYANME"
   },
   "venta_maxima": {
     "price": 532.5,
-    "name": "TPhillips"
+    "name": "Summer90"
   },
-  "promedio": 533.65,
+  "promedio": 533.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
