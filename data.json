@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T09:02:40.371638",
-  "actualizado_vzla": "2026-02-17 05:02:40 -04",
+  "timestamp_utc": "2026-02-17T10:04:00.662665",
+  "actualizado_vzla": "2026-02-17 06:04:00 -04",
   "compra_segundo": {
-    "price": 536.9,
-    "name": "CorvoMecanique"
+    "price": 536.5,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
-    "price": 531.0,
-    "name": "cazing2230"
+    "price": 531.72,
+    "name": "Arjet_Trading"
   },
-  "promedio": 533.95,
+  "promedio": 534.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
