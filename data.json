@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T07:17:54.583770",
-  "actualizado_vzla": "2026-02-17 03:17:54 -04",
+  "timestamp_utc": "2026-02-17T08:02:56.382340",
+  "actualizado_vzla": "2026-02-17 04:02:56 -04",
   "compra_segundo": {
-    "price": 536.759,
-    "name": "ANDRE-TRADER29"
+    "price": 536.936,
+    "name": "instantremitly "
   },
   "venta_maxima": {
     "price": 532.0,
     "name": "Aszahi7"
   },
-  "promedio": 534.38,
+  "promedio": 534.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
