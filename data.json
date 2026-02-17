@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T05:13:55.594288",
-  "actualizado_vzla": "2026-02-17 01:13:55 -04",
+  "timestamp_utc": "2026-02-17T06:12:57.506628",
+  "actualizado_vzla": "2026-02-17 02:12:57 -04",
   "compra_segundo": {
-    "price": 535.8,
-    "name": "CazadorDeBallenas"
+    "price": 536.7,
+    "name": "EnlineaRyK"
   },
   "venta_maxima": {
     "price": 532.0,
-    "name": "BLACKROCK22"
+    "name": "Aszahi7"
   },
-  "promedio": 533.9,
+  "promedio": 534.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
