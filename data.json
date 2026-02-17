@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-17T10:04:00.662665",
-  "actualizado_vzla": "2026-02-17 06:04:00 -04",
+  "timestamp_utc": "2026-02-17T11:04:12.558653",
+  "actualizado_vzla": "2026-02-17 07:04:12 -04",
   "compra_segundo": {
-    "price": 536.5,
-    "name": "CazadorDeBallenas"
+    "price": 535.49,
+    "name": "Jesusfreitesm"
   },
   "venta_maxima": {
-    "price": 531.72,
-    "name": "Arjet_Trading"
+    "price": 531.5,
+    "name": "c_s_"
   },
-  "promedio": 534.11,
+  "promedio": 533.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
