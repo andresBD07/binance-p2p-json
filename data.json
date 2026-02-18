@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T22:58:03.315456",
-  "actualizado_vzla": "2026-02-18 18:58:03 -04",
+  "timestamp_utc": "2026-02-18T23:39:10.219485",
+  "actualizado_vzla": "2026-02-18 19:39:10 -04",
   "compra_segundo": {
-    "price": 568.25,
-    "name": "Fast-CambiosSeguro-"
+    "price": 568.0,
+    "name": "REMESAS-INTER"
   },
   "venta_maxima": {
-    "price": 569.099,
-    "name": "Safe_Trade_Pagos"
+    "price": 571.5,
+    "name": "cazing2230-2"
   },
-  "promedio": 568.67,
+  "promedio": 569.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
