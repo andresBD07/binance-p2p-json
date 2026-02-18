@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T19:32:29.733723",
-  "actualizado_vzla": "2026-02-18 15:32:29 -04",
+  "timestamp_utc": "2026-02-18T20:07:10.822999",
+  "actualizado_vzla": "2026-02-18 16:07:10 -04",
   "compra_segundo": {
-    "price": 560.0,
-    "name": "BallGroup"
+    "price": 560.45,
+    "name": "Angellys28"
   },
   "venta_maxima": {
-    "price": 562.25,
-    "name": "CamburPlus"
+    "price": 564.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 561.12,
+  "promedio": 562.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
