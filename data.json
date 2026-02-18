@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T22:18:40.767657",
-  "actualizado_vzla": "2026-02-18 18:18:40 -04",
+  "timestamp_utc": "2026-02-18T22:58:03.315456",
+  "actualizado_vzla": "2026-02-18 18:58:03 -04",
   "compra_segundo": {
-    "price": 568.0,
-    "name": "Guayoyoo"
+    "price": 568.25,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 571.0,
-    "name": "Biyt"
+    "price": 569.099,
+    "name": "Safe_Trade_Pagos"
   },
-  "promedio": 569.5,
+  "promedio": 568.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
