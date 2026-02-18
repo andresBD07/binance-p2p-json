@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T11:22:25.131965",
-  "actualizado_vzla": "2026-02-18 07:22:25 -04",
+  "timestamp_utc": "2026-02-18T11:59:58.532651",
+  "actualizado_vzla": "2026-02-18 07:59:58 -04",
   "compra_segundo": {
-    "price": 535.97,
-    "name": "CAMBIOS SEGURO"
+    "price": 535.0,
+    "name": "LOMAX1982"
   },
   "venta_maxima": {
-    "price": 534.0,
-    "name": "AbyBruce"
+    "price": 533.5,
+    "name": "TPhillips"
   },
-  "promedio": 534.99,
+  "promedio": 534.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
