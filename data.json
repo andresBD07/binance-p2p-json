@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T10:24:31.287993",
-  "actualizado_vzla": "2026-02-18 06:24:31 -04",
+  "timestamp_utc": "2026-02-18T11:22:25.131965",
+  "actualizado_vzla": "2026-02-18 07:22:25 -04",
   "compra_segundo": {
-    "price": 536.38,
-    "name": "Criollos MONEY"
+    "price": 535.97,
+    "name": "CAMBIOS SEGURO"
   },
   "venta_maxima": {
-    "price": 533.75,
+    "price": 534.0,
     "name": "AbyBruce"
   },
-  "promedio": 535.07,
+  "promedio": 534.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
