@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T18:32:28.215781",
-  "actualizado_vzla": "2026-02-18 14:32:28 -04",
+  "timestamp_utc": "2026-02-18T19:32:29.733723",
+  "actualizado_vzla": "2026-02-18 15:32:29 -04",
   "compra_segundo": {
-    "price": 556.899,
-    "name": "financepartner1203"
+    "price": 560.0,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 560.0,
-    "name": "-Saitama-"
+    "price": 562.25,
+    "name": "CamburPlus"
   },
-  "promedio": 558.45,
+  "promedio": 561.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
