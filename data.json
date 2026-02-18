@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T14:31:06.707176",
-  "actualizado_vzla": "2026-02-18 10:31:06 -04",
+  "timestamp_utc": "2026-02-18T16:40:01.515783",
+  "actualizado_vzla": "2026-02-18 12:40:01 -04",
   "compra_segundo": {
-    "price": 540.9,
-    "name": "RapidPago "
+    "price": 551.95,
+    "name": "Nelasurej"
   },
   "venta_maxima": {
-    "price": 540.5,
-    "name": "CCST"
+    "price": 559.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 540.7,
+  "promedio": 555.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
