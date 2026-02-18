@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T07:36:47.655704",
-  "actualizado_vzla": "2026-02-18 03:36:47 -04",
+  "timestamp_utc": "2026-02-18T08:26:46.222005",
+  "actualizado_vzla": "2026-02-18 04:26:46 -04",
   "compra_segundo": {
-    "price": 536.989,
-    "name": "ROCU22_VE"
+    "price": 536.89,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 531.15,
-    "name": "PedroCriptoBTC"
+    "price": 531.201,
+    "name": "USDealerT"
   },
-  "promedio": 534.07,
+  "promedio": 534.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
