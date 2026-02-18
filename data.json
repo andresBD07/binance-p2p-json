@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T03:46:37.426346",
-  "actualizado_vzla": "2026-02-17 23:46:37 -04",
+  "timestamp_utc": "2026-02-18T05:16:37.468759",
+  "actualizado_vzla": "2026-02-18 01:16:37 -04",
   "compra_segundo": {
-    "price": 536.2,
-    "name": "RapidPago "
+    "price": 536.699,
+    "name": "LolaCambios"
   },
   "venta_maxima": {
-    "price": 534.0,
-    "name": "Gustavo129"
+    "price": 533.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 535.1,
+  "promedio": 534.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
