@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T06:34:09.050058",
-  "actualizado_vzla": "2026-02-18 02:34:09 -04",
+  "timestamp_utc": "2026-02-18T07:36:47.655704",
+  "actualizado_vzla": "2026-02-18 03:36:47 -04",
   "compra_segundo": {
-    "price": 537.4,
-    "name": "fenomenoR9"
+    "price": 536.989,
+    "name": "ROCU22_VE"
   },
   "venta_maxima": {
-    "price": 531.5,
-    "name": "RIVERMONEY"
+    "price": 531.15,
+    "name": "PedroCriptoBTC"
   },
-  "promedio": 534.45,
+  "promedio": 534.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
