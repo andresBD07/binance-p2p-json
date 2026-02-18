@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T17:41:56.736541",
-  "actualizado_vzla": "2026-02-18 13:41:56 -04",
+  "timestamp_utc": "2026-02-18T18:32:28.215781",
+  "actualizado_vzla": "2026-02-18 14:32:28 -04",
   "compra_segundo": {
-    "price": 553.113,
-    "name": "PLIMPAY"
+    "price": 556.899,
+    "name": "financepartner1203"
   },
   "venta_maxima": {
-    "price": 555.0,
+    "price": 560.0,
     "name": "-Saitama-"
   },
-  "promedio": 554.06,
+  "promedio": 558.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
