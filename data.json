@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T20:57:10.895109",
-  "actualizado_vzla": "2026-02-18 16:57:10 -04",
+  "timestamp_utc": "2026-02-18T21:44:35.975257",
+  "actualizado_vzla": "2026-02-18 17:44:35 -04",
   "compra_segundo": {
-    "price": 565.9,
-    "name": "REMESAS-INTER"
+    "price": 565.0,
+    "name": "enma"
   },
   "venta_maxima": {
-    "price": 566.25,
-    "name": "CamburPlus"
+    "price": 570.0,
+    "name": "Godisgift"
   },
-  "promedio": 566.08,
+  "promedio": 567.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
