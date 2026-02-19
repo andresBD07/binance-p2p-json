@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T05:04:45.693716",
-  "actualizado_vzla": "2026-02-19 01:04:45 -04",
+  "timestamp_utc": "2026-02-19T06:12:51.659718",
+  "actualizado_vzla": "2026-02-19 02:12:51 -04",
   "compra_segundo": {
-    "price": 574.944,
-    "name": "David-0199"
+    "price": 575.0,
+    "name": "JExpress"
   },
   "venta_maxima": {
-    "price": 571.007,
-    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
+    "price": 570.22,
+    "name": "BOLO-USDT"
   },
-  "promedio": 572.98,
+  "promedio": 572.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
