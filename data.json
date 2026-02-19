@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T11:51:31.615517",
-  "actualizado_vzla": "2026-02-19 07:51:31 -04",
+  "timestamp_utc": "2026-02-19T12:59:49.096180",
+  "actualizado_vzla": "2026-02-19 08:59:49 -04",
   "compra_segundo": {
-    "price": 573.997,
-    "name": "Diosesamor"
+    "price": 570.0,
+    "name": "RapidPago "
   },
   "venta_maxima": {
-    "price": 574.0,
-    "name": "CryptoSickoP2P"
+    "price": 569.001,
+    "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 574.0,
+  "promedio": 569.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
