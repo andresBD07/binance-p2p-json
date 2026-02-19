@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T19:09:26.547319",
-  "actualizado_vzla": "2026-02-19 15:09:26 -04",
+  "timestamp_utc": "2026-02-19T19:51:11.298136",
+  "actualizado_vzla": "2026-02-19 15:51:11 -04",
   "compra_segundo": {
-    "price": 577.89,
-    "name": "MotoPirueta"
+    "price": 582.04,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 583.0,
-    "name": "Pipotrade"
+    "price": 584.0,
+    "name": "EleguaOshun"
   },
-  "promedio": 580.44,
+  "promedio": 583.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
