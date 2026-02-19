@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T16:04:45.037730",
-  "actualizado_vzla": "2026-02-19 12:04:45 -04",
+  "timestamp_utc": "2026-02-19T17:11:15.230162",
+  "actualizado_vzla": "2026-02-19 13:11:15 -04",
   "compra_segundo": {
-    "price": 576.0,
-    "name": "Vane_CARDONAGROUP"
+    "price": 578.5,
+    "name": "ChihiroXchanges"
   },
   "venta_maxima": {
     "price": 580.0,
-    "name": "TOPlevelS"
+    "name": "TheOchoa"
   },
-  "promedio": 578.0,
+  "promedio": 579.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
