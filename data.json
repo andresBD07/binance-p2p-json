@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T18:06:55.148624",
-  "actualizado_vzla": "2026-02-19 14:06:55 -04",
+  "timestamp_utc": "2026-02-19T19:09:26.547319",
+  "actualizado_vzla": "2026-02-19 15:09:26 -04",
   "compra_segundo": {
-    "price": 579.0,
-    "name": "Tonyruiz"
+    "price": 577.89,
+    "name": "MotoPirueta"
   },
   "venta_maxima": {
-    "price": 579.32,
-    "name": "MORDEKAISER10"
+    "price": 583.0,
+    "name": "Pipotrade"
   },
-  "promedio": 579.16,
+  "promedio": 580.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
