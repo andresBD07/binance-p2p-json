@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T00:01:11.068994",
-  "actualizado_vzla": "2026-02-18 20:01:11 -04",
+  "timestamp_utc": "2026-02-19T03:12:40.527643",
+  "actualizado_vzla": "2026-02-18 23:12:40 -04",
   "compra_segundo": {
-    "price": 568.4,
-    "name": "Inversiones-Kary"
+    "price": 573.98,
+    "name": "adonisdroid"
   },
   "venta_maxima": {
-    "price": 572.505,
-    "name": "AryJr"
+    "price": 571.92,
+    "name": "-EXCELENTE-"
   },
-  "promedio": 570.45,
+  "promedio": 572.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
