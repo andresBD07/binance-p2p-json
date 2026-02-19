@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T06:12:51.659718",
-  "actualizado_vzla": "2026-02-19 02:12:51 -04",
+  "timestamp_utc": "2026-02-19T07:28:36.461781",
+  "actualizado_vzla": "2026-02-19 03:28:36 -04",
   "compra_segundo": {
-    "price": 575.0,
-    "name": "JExpress"
+    "price": 575.486,
+    "name": "Apolo_Cript"
   },
   "venta_maxima": {
-    "price": 570.22,
-    "name": "BOLO-USDT"
+    "price": 570.0,
+    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
   },
-  "promedio": 572.61,
+  "promedio": 572.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
