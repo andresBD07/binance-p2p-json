@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T09:03:15.580667",
-  "actualizado_vzla": "2026-02-19 05:03:15 -04",
+  "timestamp_utc": "2026-02-19T10:02:29.812297",
+  "actualizado_vzla": "2026-02-19 06:02:29 -04",
   "compra_segundo": {
-    "price": 575.486,
-    "name": "Apolo_Cript"
+    "price": 574.999,
+    "name": "Reimaryp"
   },
   "venta_maxima": {
-    "price": 569.752,
-    "name": "CesarRodriguez53"
+    "price": 571.007,
+    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
   },
-  "promedio": 572.62,
+  "promedio": 573.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
