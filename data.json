@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T03:12:40.527643",
-  "actualizado_vzla": "2026-02-18 23:12:40 -04",
+  "timestamp_utc": "2026-02-19T05:04:45.693716",
+  "actualizado_vzla": "2026-02-19 01:04:45 -04",
   "compra_segundo": {
-    "price": 573.98,
-    "name": "adonisdroid"
+    "price": 574.944,
+    "name": "David-0199"
   },
   "venta_maxima": {
-    "price": 571.92,
-    "name": "-EXCELENTE-"
+    "price": 571.007,
+    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
   },
-  "promedio": 572.95,
+  "promedio": 572.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
