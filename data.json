@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T21:00:56.426057",
-  "actualizado_vzla": "2026-02-19 17:00:56 -04",
+  "timestamp_utc": "2026-02-19T21:46:56.449944",
+  "actualizado_vzla": "2026-02-19 17:46:56 -04",
   "compra_segundo": {
-    "price": 584.5,
-    "name": "SmartradingCircle"
+    "price": 585.994,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
-    "price": 585.5,
-    "name": "TheOchoa"
+    "price": 587.0,
+    "name": "Biyt"
   },
-  "promedio": 585.0,
+  "promedio": 586.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
