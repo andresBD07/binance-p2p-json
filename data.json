@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-18T23:39:10.219485",
-  "actualizado_vzla": "2026-02-18 19:39:10 -04",
+  "timestamp_utc": "2026-02-19T00:01:11.068994",
+  "actualizado_vzla": "2026-02-18 20:01:11 -04",
   "compra_segundo": {
-    "price": 568.0,
-    "name": "REMESAS-INTER"
+    "price": 568.4,
+    "name": "Inversiones-Kary"
   },
   "venta_maxima": {
-    "price": 571.5,
-    "name": "cazing2230-2"
+    "price": 572.505,
+    "name": "AryJr"
   },
-  "promedio": 569.75,
+  "promedio": 570.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
