@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T19:51:11.298136",
-  "actualizado_vzla": "2026-02-19 15:51:11 -04",
+  "timestamp_utc": "2026-02-19T20:28:03.557930",
+  "actualizado_vzla": "2026-02-19 16:28:03 -04",
   "compra_segundo": {
-    "price": 582.04,
-    "name": "trade-key"
+    "price": 583.8,
+    "name": "Cambia-Seguro-01"
   },
   "venta_maxima": {
-    "price": 584.0,
-    "name": "EleguaOshun"
+    "price": 585.0,
+    "name": "Fakefk"
   },
-  "promedio": 583.02,
+  "promedio": 584.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
