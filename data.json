@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T10:02:29.812297",
-  "actualizado_vzla": "2026-02-19 06:02:29 -04",
+  "timestamp_utc": "2026-02-19T11:03:26.872637",
+  "actualizado_vzla": "2026-02-19 07:03:26 -04",
   "compra_segundo": {
-    "price": 574.999,
-    "name": "Reimaryp"
+    "price": 574.989,
+    "name": "Fexyz"
   },
   "venta_maxima": {
-    "price": 571.007,
-    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
+    "price": 572.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 573.0,
+  "promedio": 573.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
