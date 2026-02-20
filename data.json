@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T18:00:56.179697",
-  "actualizado_vzla": "2026-02-20 14:00:56 -04",
+  "timestamp_utc": "2026-02-20T19:02:42.476053",
+  "actualizado_vzla": "2026-02-20 15:02:42 -04",
   "compra_segundo": {
-    "price": 574.4,
-    "name": "BallGroup"
+    "price": 578.4,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 577.0,
-    "name": "Biyt"
+    "price": 579.2,
+    "name": "安全与信任"
   },
-  "promedio": 575.7,
+  "promedio": 578.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
