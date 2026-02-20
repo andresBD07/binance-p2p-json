@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T20:50:04.825820",
-  "actualizado_vzla": "2026-02-20 16:50:04 -04",
+  "timestamp_utc": "2026-02-20T21:17:30.257476",
+  "actualizado_vzla": "2026-02-20 17:17:30 -04",
   "compra_segundo": {
-    "price": 578.5,
-    "name": "CripSeguro23"
+    "price": 579.0,
+    "name": "King2111"
   },
   "venta_maxima": {
-    "price": 581.0,
+    "price": 581.2,
     "name": "被放逐的狐狸"
   },
-  "promedio": 579.75,
+  "promedio": 580.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
