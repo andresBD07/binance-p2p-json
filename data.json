@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T22:00:12.423346",
-  "actualizado_vzla": "2026-02-20 18:00:12 -04",
+  "timestamp_utc": "2026-02-20T22:42:58.413270",
+  "actualizado_vzla": "2026-02-20 18:42:58 -04",
   "compra_segundo": {
-    "price": 578.78,
-    "name": "CORPORACIONJRA"
+    "price": 578.36,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 578.5,
-    "name": "CamburPlus"
+    "price": 580.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 578.64,
+  "promedio": 579.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
