@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T02:50:58.027516",
-  "actualizado_vzla": "2026-02-19 22:50:58 -04",
+  "timestamp_utc": "2026-02-20T04:43:44.000853",
+  "actualizado_vzla": "2026-02-20 00:43:44 -04",
   "compra_segundo": {
-    "price": 586.09,
-    "name": "Cryptocora"
+    "price": 585.25,
+    "name": "EL_MARA_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 585.4,
-    "name": "TheOchoa"
+    "price": 580.0,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 585.75,
+  "promedio": 582.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
