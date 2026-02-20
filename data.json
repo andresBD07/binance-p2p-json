@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T16:31:41.196193",
-  "actualizado_vzla": "2026-02-20 12:31:41 -04",
+  "timestamp_utc": "2026-02-20T17:21:15.445232",
+  "actualizado_vzla": "2026-02-20 13:21:15 -04",
   "compra_segundo": {
-    "price": 574.4,
-    "name": "LCEtrader"
+    "price": 575.775,
+    "name": "TU CAMBIO"
   },
   "venta_maxima": {
-    "price": 576.0,
-    "name": "-Godgiven-"
+    "price": 575.0,
+    "name": "USDTpulso"
   },
-  "promedio": 575.2,
+  "promedio": 575.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
