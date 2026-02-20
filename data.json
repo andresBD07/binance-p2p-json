@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T09:07:10.131178",
-  "actualizado_vzla": "2026-02-20 05:07:10 -04",
+  "timestamp_utc": "2026-02-20T09:57:15.677998",
+  "actualizado_vzla": "2026-02-20 05:57:15 -04",
   "compra_segundo": {
-    "price": 585.949,
-    "name": "CriptoBlox"
+    "price": 584.6,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 578.0,
-    "name": "capystoreve"
+    "price": 578.5,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 581.97,
+  "promedio": 581.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
