@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T13:19:18.837623",
-  "actualizado_vzla": "2026-02-20 09:19:18 -04",
+  "timestamp_utc": "2026-02-20T14:09:11.565279",
+  "actualizado_vzla": "2026-02-20 10:09:11 -04",
   "compra_segundo": {
-    "price": 574.0,
-    "name": "willbyruz"
+    "price": 578.0,
+    "name": "Hache_1005"
   },
   "venta_maxima": {
-    "price": 577.562,
-    "name": "wos22"
+    "price": 582.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 575.78,
+  "promedio": 580.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
