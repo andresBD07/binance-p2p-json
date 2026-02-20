@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-19T23:59:09.812135",
-  "actualizado_vzla": "2026-02-19 19:59:09 -04",
+  "timestamp_utc": "2026-02-20T02:50:58.027516",
+  "actualizado_vzla": "2026-02-19 22:50:58 -04",
   "compra_segundo": {
-    "price": 586.0,
-    "name": "Elite"
+    "price": 586.09,
+    "name": "Cryptocora"
   },
   "venta_maxima": {
-    "price": 587.0,
-    "name": "SasukeTrader"
+    "price": 585.4,
+    "name": "TheOchoa"
   },
-  "promedio": 586.5,
+  "promedio": 585.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
