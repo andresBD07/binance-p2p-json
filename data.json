@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-20T11:29:04.586595",
-  "actualizado_vzla": "2026-02-20 07:29:04 -04",
+  "timestamp_utc": "2026-02-20T11:57:17.029743",
+  "actualizado_vzla": "2026-02-20 07:57:17 -04",
   "compra_segundo": {
-    "price": 582.302,
-    "name": "NexusPremiun"
+    "price": 581.9,
+    "name": "Dancrip24-7"
   },
   "venta_maxima": {
-    "price": 580.1,
-    "name": "BlairWaldorf_"
+    "price": 580.5,
+    "name": "塞Jsse-Pro塞"
   },
   "promedio": 581.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
