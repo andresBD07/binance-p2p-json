@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T20:14:56.909702",
-  "actualizado_vzla": "2026-02-20 16:14:56 -04",
+  "timestamp_utc": "2026-02-20T20:50:04.825820",
+  "actualizado_vzla": "2026-02-20 16:50:04 -04",
   "compra_segundo": {
-    "price": 579.49,
-    "name": "MotoPirueta"
+    "price": 578.5,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 582.0,
-    "name": "ALASKA-"
+    "price": 581.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 580.75,
+  "promedio": 579.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
