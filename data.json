@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T21:45:38.384563",
-  "actualizado_vzla": "2026-02-20 17:45:38 -04",
+  "timestamp_utc": "2026-02-20T22:00:12.423346",
+  "actualizado_vzla": "2026-02-20 18:00:12 -04",
   "compra_segundo": {
-    "price": 578.9,
-    "name": "CH-Intercambios"
+    "price": 578.78,
+    "name": "CORPORACIONJRA"
   },
   "venta_maxima": {
-    "price": 579.0,
-    "name": "Biyt"
+    "price": 578.5,
+    "name": "CamburPlus"
   },
-  "promedio": 578.95,
+  "promedio": 578.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
