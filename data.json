@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T21:17:30.257476",
-  "actualizado_vzla": "2026-02-20 17:17:30 -04",
+  "timestamp_utc": "2026-02-20T21:45:38.384563",
+  "actualizado_vzla": "2026-02-20 17:45:38 -04",
   "compra_segundo": {
-    "price": 579.0,
-    "name": "King2111"
+    "price": 578.9,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 581.2,
-    "name": "被放逐的狐狸"
+    "price": 579.0,
+    "name": "Biyt"
   },
-  "promedio": 580.1,
+  "promedio": 578.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
