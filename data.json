@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T17:21:15.445232",
-  "actualizado_vzla": "2026-02-20 13:21:15 -04",
+  "timestamp_utc": "2026-02-20T18:00:56.179697",
+  "actualizado_vzla": "2026-02-20 14:00:56 -04",
   "compra_segundo": {
-    "price": 575.775,
-    "name": "TU CAMBIO"
+    "price": 574.4,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 575.0,
-    "name": "USDTpulso"
+    "price": 577.0,
+    "name": "Biyt"
   },
-  "promedio": 575.39,
+  "promedio": 575.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
