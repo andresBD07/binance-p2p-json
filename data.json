@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T14:53:08.173023",
-  "actualizado_vzla": "2026-02-21 10:53:08 -04",
+  "timestamp_utc": "2026-02-21T15:27:11.813679",
+  "actualizado_vzla": "2026-02-21 11:27:11 -04",
   "compra_segundo": {
-    "price": 573.24,
-    "name": "Open-cambios"
+    "price": 573.3,
+    "name": "Gabo745"
   },
   "venta_maxima": {
-    "price": 573.0,
-    "name": "luis12crt"
+    "price": 577.2,
+    "name": "已連接"
   },
-  "promedio": 573.12,
+  "promedio": 575.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
