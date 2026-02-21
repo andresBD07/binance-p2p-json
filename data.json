@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-20T23:46:12.572898",
-  "actualizado_vzla": "2026-02-20 19:46:12 -04",
+  "timestamp_utc": "2026-02-21T00:52:21.977979",
+  "actualizado_vzla": "2026-02-20 20:52:21 -04",
   "compra_segundo": {
-    "price": 577.39,
-    "name": "Q2030"
+    "price": 576.7,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 578.5,
-    "name": "安全与信任"
+    "price": 576.005,
+    "name": "Gustavo129"
   },
-  "promedio": 577.94,
+  "promedio": 576.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
