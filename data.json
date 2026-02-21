@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-21T10:47:56.420671",
-  "actualizado_vzla": "2026-02-21 06:47:56 -04",
+  "timestamp_utc": "2026-02-21T11:12:25.847653",
+  "actualizado_vzla": "2026-02-21 07:12:25 -04",
   "compra_segundo": {
     "price": 576.0,
-    "name": "Carlos"
+    "name": "_AliExpress_"
   },
   "venta_maxima": {
     "price": 571.5,
-    "name": "Cambioscorleone"
+    "name": "USDTpulso"
   },
   "promedio": 573.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
