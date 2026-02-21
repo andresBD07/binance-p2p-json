@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T09:16:39.158272",
-  "actualizado_vzla": "2026-02-21 05:16:39 -04",
+  "timestamp_utc": "2026-02-21T09:48:48.801826",
+  "actualizado_vzla": "2026-02-21 05:48:48 -04",
   "compra_segundo": {
-    "price": 576.8,
-    "name": "Cmaximoj"
+    "price": 576.0,
+    "name": "1Jm_trade28"
   },
   "venta_maxima": {
     "price": 570.0,
     "name": "FastChangeSafe"
   },
-  "promedio": 573.4,
+  "promedio": 573.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
