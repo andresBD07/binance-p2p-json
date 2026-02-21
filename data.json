@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T13:05:39.765046",
-  "actualizado_vzla": "2026-02-21 09:05:39 -04",
+  "timestamp_utc": "2026-02-21T13:51:26.368269",
+  "actualizado_vzla": "2026-02-21 09:51:26 -04",
   "compra_segundo": {
-    "price": 574.398,
-    "name": "HORUS"
+    "price": 574.5,
+    "name": "User-95450"
   },
   "venta_maxima": {
-    "price": 575.5,
-    "name": "VERTUOK"
+    "price": 576.5,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 574.95,
+  "promedio": 575.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
