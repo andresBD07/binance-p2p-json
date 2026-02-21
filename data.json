@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T22:53:20.784334",
-  "actualizado_vzla": "2026-02-21 18:53:20 -04",
+  "timestamp_utc": "2026-02-21T23:27:23.643893",
+  "actualizado_vzla": "2026-02-21 19:27:23 -04",
   "compra_segundo": {
-    "price": 572.99,
-    "name": "CambiosFranccos"
+    "price": 572.9,
+    "name": "Drakito_p2p"
   },
   "venta_maxima": {
-    "price": 574.0,
-    "name": "TPhillips"
+    "price": 573.0,
+    "name": "RedBullV12"
   },
-  "promedio": 573.5,
+  "promedio": 572.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
