@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T14:23:44.494588",
-  "actualizado_vzla": "2026-02-21 10:23:44 -04",
+  "timestamp_utc": "2026-02-21T14:53:08.173023",
+  "actualizado_vzla": "2026-02-21 10:53:08 -04",
   "compra_segundo": {
-    "price": 574.2,
-    "name": "FastsEnvios"
+    "price": 573.24,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
-    "price": 575.111,
-    "name": "al_magnifico"
+    "price": 573.0,
+    "name": "luis12crt"
   },
-  "promedio": 574.66,
+  "promedio": 573.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
