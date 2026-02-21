@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-02-21T11:55:25.774485",
-  "actualizado_vzla": "2026-02-21 07:55:25 -04",
+  "timestamp_utc": "2026-02-21T13:05:39.765046",
+  "actualizado_vzla": "2026-02-21 09:05:39 -04",
   "compra_segundo": {
-    "price": 575.898,
-    "name": "criptorapiseguro1"
+    "price": 574.398,
+    "name": "HORUS"
   },
   "venta_maxima": {
-    "price": 574.0,
-    "name": "c_s_"
+    "price": 575.5,
+    "name": "VERTUOK"
   },
   "promedio": 574.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
