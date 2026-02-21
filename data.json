@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T11:38:40.961717",
-  "actualizado_vzla": "2026-02-21 07:38:40 -04",
+  "timestamp_utc": "2026-02-21T11:55:25.774485",
+  "actualizado_vzla": "2026-02-21 07:55:25 -04",
   "compra_segundo": {
-    "price": 575.8,
-    "name": "BallGroup"
+    "price": 575.898,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
     "price": 574.0,
     "name": "c_s_"
   },
-  "promedio": 574.9,
+  "promedio": 574.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
