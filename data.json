@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T19:41:22.704179",
-  "actualizado_vzla": "2026-02-21 15:41:22 -04",
+  "timestamp_utc": "2026-02-21T19:57:01.647988",
+  "actualizado_vzla": "2026-02-21 15:57:01 -04",
   "compra_segundo": {
-    "price": 576.195,
-    "name": "TU CAMBIO"
+    "price": 576.0,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 576.55,
+    "price": 576.5,
     "name": "USDTpulso"
   },
-  "promedio": 576.37,
+  "promedio": 576.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
