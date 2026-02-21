@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T17:33:34.857009",
-  "actualizado_vzla": "2026-02-21 13:33:34 -04",
+  "timestamp_utc": "2026-02-21T17:55:29.224605",
+  "actualizado_vzla": "2026-02-21 13:55:29 -04",
   "compra_segundo": {
-    "price": 575.6,
-    "name": "Martony_23"
+    "price": 575.2,
+    "name": "marote28"
   },
   "venta_maxima": {
-    "price": 577.5,
-    "name": "USDTpulso"
+    "price": 577.0,
+    "name": "Guangzhou13"
   },
-  "promedio": 576.55,
+  "promedio": 576.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
