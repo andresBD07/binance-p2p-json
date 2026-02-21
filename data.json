@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T20:35:40.735953",
-  "actualizado_vzla": "2026-02-21 16:35:40 -04",
+  "timestamp_utc": "2026-02-21T20:56:14.105075",
+  "actualizado_vzla": "2026-02-21 16:56:14 -04",
   "compra_segundo": {
-    "price": 575.28,
-    "name": "SanMiguelArc"
+    "price": 574.75,
+    "name": "AlfredoCambios19"
   },
   "venta_maxima": {
-    "price": 576.0,
-    "name": "USDTpulso"
+    "price": 575.0,
+    "name": "ALASKA-"
   },
-  "promedio": 575.64,
+  "promedio": 574.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
