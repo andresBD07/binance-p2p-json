@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T16:24:55.342476",
-  "actualizado_vzla": "2026-02-21 12:24:55 -04",
+  "timestamp_utc": "2026-02-21T16:56:40.238569",
+  "actualizado_vzla": "2026-02-21 12:56:40 -04",
   "compra_segundo": {
-    "price": 575.24,
-    "name": "Alerapi"
+    "price": 575.64,
+    "name": "VICKYMAN02"
   },
   "venta_maxima": {
-    "price": 576.0,
-    "name": "CCST"
+    "price": 577.5,
+    "name": "Guangzhou13"
   },
-  "promedio": 575.62,
+  "promedio": 576.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
