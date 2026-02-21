@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T04:51:12.142255",
-  "actualizado_vzla": "2026-02-21 00:51:12 -04",
+  "timestamp_utc": "2026-02-21T05:38:48.431592",
+  "actualizado_vzla": "2026-02-21 01:38:48 -04",
   "compra_segundo": {
-    "price": 575.73,
-    "name": "Marquez25"
+    "price": 576.0,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 575.0,
-    "name": "c_s_"
+    "price": 573.2,
+    "name": "-DRASIX-"
   },
-  "promedio": 575.37,
+  "promedio": 574.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
