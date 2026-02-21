@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-21T11:12:25.847653",
-  "actualizado_vzla": "2026-02-21 07:12:25 -04",
+  "timestamp_utc": "2026-02-21T11:38:40.961717",
+  "actualizado_vzla": "2026-02-21 07:38:40 -04",
   "compra_segundo": {
-    "price": 576.0,
-    "name": "_AliExpress_"
+    "price": 575.8,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 571.5,
-    "name": "USDTpulso"
+    "price": 574.0,
+    "name": "c_s_"
   },
-  "promedio": 573.75,
+  "promedio": 574.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
