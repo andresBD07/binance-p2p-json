@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T23:35:24.307292",
-  "actualizado_vzla": "2026-02-22 19:35:24 -04",
+  "timestamp_utc": "2026-02-22T23:57:16.758835",
+  "actualizado_vzla": "2026-02-22 19:57:16 -04",
   "compra_segundo": {
-    "price": 565.0,
-    "name": "Inversiones-Walaw"
+    "price": 564.799,
+    "name": "Minato21 "
   },
   "venta_maxima": {
-    "price": 566.5,
-    "name": "Child-CambioFacil"
+    "price": 564.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 565.75,
+  "promedio": 564.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
