@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T22:33:43.430371",
-  "actualizado_vzla": "2026-02-22 18:33:43 -04",
+  "timestamp_utc": "2026-02-22T22:57:39.868120",
+  "actualizado_vzla": "2026-02-22 18:57:39 -04",
   "compra_segundo": {
-    "price": 566.25,
-    "name": "Yorope21"
+    "price": 566.2,
+    "name": "Kartozpk"
   },
   "venta_maxima": {
-    "price": 565.5,
+    "price": 565.0,
     "name": "GREEN78"
   },
-  "promedio": 565.88,
+  "promedio": 565.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
