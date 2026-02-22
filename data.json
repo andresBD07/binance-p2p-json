@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T17:12:03.470252",
-  "actualizado_vzla": "2026-02-22 13:12:03 -04",
+  "timestamp_utc": "2026-02-22T17:44:37.073701",
+  "actualizado_vzla": "2026-02-22 13:44:37 -04",
   "compra_segundo": {
-    "price": 565.23,
-    "name": "CriptoseguroAyM"
+    "price": 564.8,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 564.001,
-    "name": "MARACAIBOBTC"
+    "price": 568.75,
+    "name": "cheng21"
   },
-  "promedio": 564.62,
+  "promedio": 566.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
