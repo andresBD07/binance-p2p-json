@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T19:24:41.708976",
-  "actualizado_vzla": "2026-02-22 15:24:41 -04",
+  "timestamp_utc": "2026-02-22T19:47:35.916612",
+  "actualizado_vzla": "2026-02-22 15:47:35 -04",
   "compra_segundo": {
-    "price": 566.79,
-    "name": "EXCHANGE_P2P_RAPIDO"
+    "price": 567.0,
+    "name": "EdwCripto"
   },
   "venta_maxima": {
-    "price": 566.0,
-    "name": "jxsosa"
+    "price": 566.5,
+    "name": "加密操作"
   },
-  "promedio": 566.39,
+  "promedio": 566.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
