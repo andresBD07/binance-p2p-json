@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T15:01:09.072023",
-  "actualizado_vzla": "2026-02-22 11:01:09 -04",
+  "timestamp_utc": "2026-02-22T15:37:38.768149",
+  "actualizado_vzla": "2026-02-22 11:37:38 -04",
   "compra_segundo": {
-    "price": 571.78,
-    "name": "Cambios_fast54"
+    "price": 569.949,
+    "name": "jonathan-2402"
   },
   "venta_maxima": {
     "price": 570.0,
     "name": "已連接"
   },
-  "promedio": 570.89,
+  "promedio": 569.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
