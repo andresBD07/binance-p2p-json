@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T15:37:38.768149",
-  "actualizado_vzla": "2026-02-22 11:37:38 -04",
+  "timestamp_utc": "2026-02-22T15:58:04.842393",
+  "actualizado_vzla": "2026-02-22 11:58:04 -04",
   "compra_segundo": {
-    "price": 569.949,
-    "name": "jonathan-2402"
+    "price": 568.9,
+    "name": "BusinessWoman7"
   },
   "venta_maxima": {
-    "price": 570.0,
-    "name": "已連接"
+    "price": 567.25,
+    "name": "Marketplace66 "
   },
-  "promedio": 569.97,
+  "promedio": 568.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
