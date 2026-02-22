@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-02-22T20:39:11.926341",
-  "actualizado_vzla": "2026-02-22 16:39:11 -04",
+  "timestamp_utc": "2026-02-22T21:00:15.313365",
+  "actualizado_vzla": "2026-02-22 17:00:15 -04",
   "compra_segundo": {
-    "price": 568.0,
-    "name": "JJcambiosUSD"
+    "price": 567.99,
+    "name": "PEREZ-Group"
   },
   "venta_maxima": {
     "price": 566.0,
