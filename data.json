@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T20:00:37.765967",
-  "actualizado_vzla": "2026-02-22 16:00:37 -04",
+  "timestamp_utc": "2026-02-22T20:39:11.926341",
+  "actualizado_vzla": "2026-02-22 16:39:11 -04",
   "compra_segundo": {
-    "price": 567.3,
-    "name": "Alerapi"
+    "price": 568.0,
+    "name": "JJcambiosUSD"
   },
   "venta_maxima": {
-    "price": 566.865,
-    "name": "加密操作"
+    "price": 566.0,
+    "name": "GREEN78"
   },
-  "promedio": 567.08,
+  "promedio": 567.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
