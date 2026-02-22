@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T08:54:39.367338",
-  "actualizado_vzla": "2026-02-22 04:54:39 -04",
+  "timestamp_utc": "2026-02-22T09:37:17.647942",
+  "actualizado_vzla": "2026-02-22 05:37:17 -04",
   "compra_segundo": {
-    "price": 574.5,
-    "name": "willbyruz"
+    "price": 574.8,
+    "name": "jaro23"
   },
   "venta_maxima": {
     "price": 571.2,
     "name": "Cubo_rubik"
   },
-  "promedio": 572.85,
+  "promedio": 573.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
