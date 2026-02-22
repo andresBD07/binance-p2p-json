@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T17:44:37.073701",
-  "actualizado_vzla": "2026-02-22 13:44:37 -04",
+  "timestamp_utc": "2026-02-22T18:01:19.635525",
+  "actualizado_vzla": "2026-02-22 14:01:19 -04",
   "compra_segundo": {
-    "price": 564.8,
-    "name": "Zeta_Cripto"
+    "price": 563.99,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 568.75,
-    "name": "cheng21"
+    "price": 564.8,
+    "name": "jxsosa"
   },
-  "promedio": 566.77,
+  "promedio": 564.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
