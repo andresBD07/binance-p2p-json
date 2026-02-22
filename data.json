@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T05:19:43.152925",
-  "actualizado_vzla": "2026-02-22 01:19:43 -04",
+  "timestamp_utc": "2026-02-22T06:07:54.928989",
+  "actualizado_vzla": "2026-02-22 02:07:54 -04",
   "compra_segundo": {
-    "price": 573.35,
-    "name": "Currency_Exchange77"
+    "price": 573.7,
+    "name": "EnlineaRyK"
   },
   "venta_maxima": {
-    "price": 570.55,
-    "name": "angelchacon"
+    "price": 571.2,
+    "name": "Cubo_rubik"
   },
-  "promedio": 571.95,
+  "promedio": 572.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
