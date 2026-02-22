@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T18:01:19.635525",
-  "actualizado_vzla": "2026-02-22 14:01:19 -04",
+  "timestamp_utc": "2026-02-22T18:52:37.816047",
+  "actualizado_vzla": "2026-02-22 14:52:37 -04",
   "compra_segundo": {
-    "price": 563.99,
-    "name": "AndradeGasconTITULAR"
+    "price": 564.8,
+    "name": "mandy02"
   },
   "venta_maxima": {
-    "price": 564.8,
-    "name": "jxsosa"
+    "price": 566.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 564.39,
+  "promedio": 565.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
