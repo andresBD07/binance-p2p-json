@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T21:00:15.313365",
-  "actualizado_vzla": "2026-02-22 17:00:15 -04",
+  "timestamp_utc": "2026-02-22T21:35:53.812008",
+  "actualizado_vzla": "2026-02-22 17:35:53 -04",
   "compra_segundo": {
-    "price": 567.99,
-    "name": "PEREZ-Group"
+    "price": 567.0,
+    "name": "Q2030"
   },
   "venta_maxima": {
-    "price": 566.0,
+    "price": 566.7,
     "name": "GREEN78"
   },
-  "promedio": 567.0,
+  "promedio": 566.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
