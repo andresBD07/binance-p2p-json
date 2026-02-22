@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T08:19:50.378435",
-  "actualizado_vzla": "2026-02-22 04:19:50 -04",
+  "timestamp_utc": "2026-02-22T08:54:39.367338",
+  "actualizado_vzla": "2026-02-22 04:54:39 -04",
   "compra_segundo": {
-    "price": 574.4,
-    "name": "CriptoIntercambios1"
+    "price": 574.5,
+    "name": "willbyruz"
   },
   "venta_maxima": {
     "price": 571.2,
     "name": "Cubo_rubik"
   },
-  "promedio": 572.8,
+  "promedio": 572.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
