@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T16:43:16.706228",
-  "actualizado_vzla": "2026-02-22 12:43:16 -04",
+  "timestamp_utc": "2026-02-22T17:12:03.470252",
+  "actualizado_vzla": "2026-02-22 13:12:03 -04",
   "compra_segundo": {
-    "price": 566.0,
-    "name": "OPABIANCHI"
+    "price": 565.23,
+    "name": "CriptoseguroAyM"
   },
   "venta_maxima": {
-    "price": 564.5,
-    "name": "Burdyn"
+    "price": 564.001,
+    "name": "MARACAIBOBTC"
   },
-  "promedio": 565.25,
+  "promedio": 564.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
