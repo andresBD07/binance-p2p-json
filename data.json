@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T17:43:47.403808",
-  "actualizado_vzla": "2026-02-23 13:43:47 -04",
+  "timestamp_utc": "2026-02-23T18:42:01.535284",
+  "actualizado_vzla": "2026-02-23 14:42:01 -04",
   "compra_segundo": {
-    "price": 582.7,
-    "name": "Cambio2x3"
+    "price": 587.69,
+    "name": "Digitalimport"
   },
   "venta_maxima": {
-    "price": 584.0,
-    "name": "jonax"
+    "price": 588.0,
+    "name": "USDTpulso"
   },
-  "promedio": 583.35,
+  "promedio": 587.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
