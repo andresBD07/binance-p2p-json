@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T14:33:45.813471",
-  "actualizado_vzla": "2026-02-23 10:33:45 -04",
+  "timestamp_utc": "2026-02-23T15:29:37.190583",
+  "actualizado_vzla": "2026-02-23 11:29:37 -04",
   "compra_segundo": {
-    "price": 575.6,
-    "name": "BUSINESS"
+    "price": 575.9,
+    "name": "Tzar25"
   },
   "venta_maxima": {
-    "price": 577.0,
-    "name": "SasukeTrader"
+    "price": 578.5,
+    "name": "Gustavo129"
   },
-  "promedio": 576.3,
+  "promedio": 577.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
