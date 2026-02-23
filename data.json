@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T09:31:31.908313",
-  "actualizado_vzla": "2026-02-23 05:31:31 -04",
+  "timestamp_utc": "2026-02-23T10:31:25.039896",
+  "actualizado_vzla": "2026-02-23 06:31:25 -04",
   "compra_segundo": {
-    "price": 570.7,
-    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
+    "price": 569.3,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
-    "price": 562.01,
-    "name": "Pcambios10"
+    "price": 563.5,
+    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
   },
-  "promedio": 566.36,
+  "promedio": 566.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
