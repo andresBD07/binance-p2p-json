@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T16:31:54.602277",
-  "actualizado_vzla": "2026-02-23 12:31:54 -04",
+  "timestamp_utc": "2026-02-23T17:43:47.403808",
+  "actualizado_vzla": "2026-02-23 13:43:47 -04",
   "compra_segundo": {
-    "price": 581.0,
-    "name": "WOLFusdt "
+    "price": 582.7,
+    "name": "Cambio2x3"
   },
   "venta_maxima": {
-    "price": 581.7,
-    "name": "你理想的改變"
+    "price": 584.0,
+    "name": "jonax"
   },
-  "promedio": 581.35,
+  "promedio": 583.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
