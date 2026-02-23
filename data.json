@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T21:25:59.836914",
-  "actualizado_vzla": "2026-02-23 17:25:59 -04",
+  "timestamp_utc": "2026-02-23T22:09:18.464631",
+  "actualizado_vzla": "2026-02-23 18:09:18 -04",
   "compra_segundo": {
-    "price": 599.899,
-    "name": "jonathan-2402"
+    "price": 600.7,
+    "name": "HT24_7"
   },
   "venta_maxima": {
-    "price": 600.0,
-    "name": "Star_Trading"
+    "price": 599.5,
+    "name": "BerracoT"
   },
-  "promedio": 599.95,
+  "promedio": 600.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
