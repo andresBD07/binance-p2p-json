@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T12:00:57.898428",
-  "actualizado_vzla": "2026-02-23 08:00:57 -04",
+  "timestamp_utc": "2026-02-23T13:38:51.696531",
+  "actualizado_vzla": "2026-02-23 09:38:51 -04",
   "compra_segundo": {
-    "price": 567.779,
-    "name": "Shaddaigacc"
+    "price": 578.888,
+    "name": "Cristh957"
   },
   "venta_maxima": {
-    "price": 566.0,
-    "name": "MaxuelTrader"
+    "price": 578.301,
+    "name": "s28gm"
   },
-  "promedio": 566.89,
+  "promedio": 578.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
