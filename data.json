@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T22:09:18.464631",
-  "actualizado_vzla": "2026-02-23 18:09:18 -04",
+  "timestamp_utc": "2026-02-23T23:02:13.036879",
+  "actualizado_vzla": "2026-02-23 19:02:13 -04",
   "compra_segundo": {
-    "price": 600.7,
-    "name": "HT24_7"
+    "price": 594.9,
+    "name": "CambiosBalita"
   },
   "venta_maxima": {
-    "price": 599.5,
-    "name": "BerracoT"
+    "price": 594.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 600.1,
+  "promedio": 594.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
