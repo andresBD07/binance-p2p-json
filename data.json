@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T11:24:51.843330",
-  "actualizado_vzla": "2026-02-23 07:24:51 -04",
+  "timestamp_utc": "2026-02-23T12:00:57.898428",
+  "actualizado_vzla": "2026-02-23 08:00:57 -04",
   "compra_segundo": {
-    "price": 568.9,
-    "name": "ExpressCash23"
+    "price": 567.779,
+    "name": "Shaddaigacc"
   },
   "venta_maxima": {
-    "price": 565.565,
-    "name": "大TaiLung龙"
+    "price": 566.0,
+    "name": "MaxuelTrader"
   },
-  "promedio": 567.23,
+  "promedio": 566.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
