@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T06:14:42.315284",
-  "actualizado_vzla": "2026-02-23 02:14:42 -04",
+  "timestamp_utc": "2026-02-23T07:34:29.849036",
+  "actualizado_vzla": "2026-02-23 03:34:29 -04",
   "compra_segundo": {
     "price": 571.0,
-    "name": "Manda2-"
+    "name": "何塞 路易斯 坩埚"
   },
   "venta_maxima": {
-    "price": 562.65,
-    "name": "-Vallenatero-"
+    "price": 562.01,
+    "name": "Pcambios10"
   },
-  "promedio": 566.83,
+  "promedio": 566.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
