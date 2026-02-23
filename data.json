@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T10:31:25.039896",
-  "actualizado_vzla": "2026-02-23 06:31:25 -04",
+  "timestamp_utc": "2026-02-23T11:24:51.843330",
+  "actualizado_vzla": "2026-02-23 07:24:51 -04",
   "compra_segundo": {
-    "price": 569.3,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 568.9,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
-    "price": 563.5,
-    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
+    "price": 565.565,
+    "name": "大TaiLung龙"
   },
-  "promedio": 566.4,
+  "promedio": 567.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
