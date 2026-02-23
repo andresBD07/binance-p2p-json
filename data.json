@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T08:26:40.604220",
-  "actualizado_vzla": "2026-02-23 04:26:40 -04",
+  "timestamp_utc": "2026-02-23T09:31:31.908313",
+  "actualizado_vzla": "2026-02-23 05:31:31 -04",
   "compra_segundo": {
-    "price": 571.0,
-    "name": "何塞 路易斯 坩埚"
+    "price": 570.7,
+    "name": "KIПGDӨM ӨF ᄃЯIPƬӨ"
   },
   "venta_maxima": {
     "price": 562.01,
     "name": "Pcambios10"
   },
-  "promedio": 566.5,
+  "promedio": 566.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
