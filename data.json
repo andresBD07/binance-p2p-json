@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-23T19:45:54.556586",
-  "actualizado_vzla": "2026-02-23 15:45:54 -04",
+  "timestamp_utc": "2026-02-23T20:29:40.456735",
+  "actualizado_vzla": "2026-02-23 16:29:40 -04",
   "compra_segundo": {
-    "price": 588.7,
-    "name": "Guayoyoo"
+    "price": 588.0,
+    "name": "-------MORENO-------"
   },
   "venta_maxima": {
-    "price": 590.0,
-    "name": "安全与信任"
+    "price": 590.5,
+    "name": "GREEN78"
   },
-  "promedio": 589.35,
+  "promedio": 589.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
