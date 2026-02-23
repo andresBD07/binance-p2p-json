@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-22T23:57:16.758835",
-  "actualizado_vzla": "2026-02-22 19:57:16 -04",
+  "timestamp_utc": "2026-02-23T02:55:53.685944",
+  "actualizado_vzla": "2026-02-22 22:55:53 -04",
   "compra_segundo": {
-    "price": 564.799,
-    "name": "Minato21 "
+    "price": 569.35,
+    "name": "IEvangelineI"
   },
   "venta_maxima": {
-    "price": 564.0,
-    "name": "TOPlevelS"
+    "price": 565.1,
+    "name": "Intercambiosmgta"
   },
-  "promedio": 564.4,
+  "promedio": 567.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
