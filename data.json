@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T17:45:37.290724",
-  "actualizado_vzla": "2026-02-24 13:45:37 -04",
+  "timestamp_utc": "2026-02-24T18:40:54.917792",
+  "actualizado_vzla": "2026-02-24 14:40:54 -04",
   "compra_segundo": {
-    "price": 620.998,
-    "name": "CriptTradeHup "
+    "price": 623.999,
+    "name": "DivisasPro"
   },
   "venta_maxima": {
-    "price": 622.5,
+    "price": 629.0,
     "name": "-Godgiven-"
   },
-  "promedio": 621.75,
+  "promedio": 626.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
