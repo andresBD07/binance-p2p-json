@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T15:36:01.486328",
-  "actualizado_vzla": "2026-02-24 11:36:01 -04",
+  "timestamp_utc": "2026-02-24T16:44:40.763010",
+  "actualizado_vzla": "2026-02-24 12:44:40 -04",
   "compra_segundo": {
-    "price": 607.19,
-    "name": "SATUPLE13"
+    "price": 614.0,
+    "name": "LaMundial"
   },
   "venta_maxima": {
-    "price": 609.005,
-    "name": "Gustavo129"
+    "price": 617.0,
+    "name": "VERTUOK"
   },
-  "promedio": 608.1,
+  "promedio": 615.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
