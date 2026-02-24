@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T11:55:42.807990",
-  "actualizado_vzla": "2026-02-24 07:55:42 -04",
+  "timestamp_utc": "2026-02-24T13:25:58.336013",
+  "actualizado_vzla": "2026-02-24 09:25:58 -04",
   "compra_segundo": {
-    "price": 605.997,
-    "name": "Diosesamor"
+    "price": 604.9,
+    "name": "Jackdolar"
   },
   "venta_maxima": {
-    "price": 603.5,
-    "name": "-Godgiven-"
+    "price": 604.1,
+    "name": "InvMiggy"
   },
-  "promedio": 604.75,
+  "promedio": 604.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
