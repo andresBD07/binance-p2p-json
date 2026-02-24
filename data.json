@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T07:29:59.555988",
-  "actualizado_vzla": "2026-02-24 03:29:59 -04",
+  "timestamp_utc": "2026-02-24T08:07:52.128099",
+  "actualizado_vzla": "2026-02-24 04:07:52 -04",
   "compra_segundo": {
-    "price": 603.2,
-    "name": "BayonettaPay"
+    "price": 602.959,
+    "name": "Chino Asiático"
   },
   "venta_maxima": {
     "price": 597.0,
     "name": "Cambios_MH2107"
   },
-  "promedio": 600.1,
+  "promedio": 599.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
