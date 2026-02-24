@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T10:08:38.733543",
-  "actualizado_vzla": "2026-02-24 06:08:38 -04",
+  "timestamp_utc": "2026-02-24T11:07:50.961472",
+  "actualizado_vzla": "2026-02-24 07:07:50 -04",
   "compra_segundo": {
-    "price": 602.99,
-    "name": "agunvar1 "
+    "price": 603.0,
+    "name": "M13M"
   },
   "venta_maxima": {
-    "price": 598.8,
-    "name": "Daikokuten-Finance"
+    "price": 601.8,
+    "name": "talepagos"
   },
-  "promedio": 600.89,
+  "promedio": 602.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
