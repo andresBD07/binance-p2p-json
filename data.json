@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T21:00:16.272737",
-  "actualizado_vzla": "2026-02-24 17:00:16 -04",
+  "timestamp_utc": "2026-02-24T21:48:50.612859",
+  "actualizado_vzla": "2026-02-24 17:48:50 -04",
   "compra_segundo": {
-    "price": 614.999,
-    "name": "CAMBIOS_YR"
+    "price": 615.9,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 623.0,
-    "name": "Dolartodan"
+    "price": 620.005,
+    "name": "Gustavo129"
   },
-  "promedio": 619.0,
+  "promedio": 617.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
