@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T08:07:52.128099",
-  "actualizado_vzla": "2026-02-24 04:07:52 -04",
+  "timestamp_utc": "2026-02-24T09:07:31.190373",
+  "actualizado_vzla": "2026-02-24 05:07:31 -04",
   "compra_segundo": {
-    "price": 602.959,
-    "name": "Chino Asiático"
+    "price": 603.0,
+    "name": "CambiosUzzi02"
   },
   "venta_maxima": {
-    "price": 597.0,
-    "name": "Cambios_MH2107"
+    "price": 597.05,
+    "name": "Invcaf"
   },
-  "promedio": 599.98,
+  "promedio": 600.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
