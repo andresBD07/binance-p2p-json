@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T13:25:58.336013",
-  "actualizado_vzla": "2026-02-24 09:25:58 -04",
+  "timestamp_utc": "2026-02-24T14:33:52.490193",
+  "actualizado_vzla": "2026-02-24 10:33:52 -04",
   "compra_segundo": {
-    "price": 604.9,
-    "name": "Jackdolar"
+    "price": 605.9,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 604.1,
-    "name": "InvMiggy"
+    "price": 606.15,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 604.5,
+  "promedio": 606.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
