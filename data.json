@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T19:40:12.580225",
-  "actualizado_vzla": "2026-02-24 15:40:12 -04",
+  "timestamp_utc": "2026-02-24T20:18:51.389043",
+  "actualizado_vzla": "2026-02-24 16:18:51 -04",
   "compra_segundo": {
-    "price": 624.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 621.0,
+    "name": "Cripto_04"
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "-Godgiven-"
+    "price": 623.0,
+    "name": "Dolartodan"
   },
-  "promedio": 626.0,
+  "promedio": 622.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
