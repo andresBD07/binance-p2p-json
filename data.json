@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T20:18:51.389043",
-  "actualizado_vzla": "2026-02-24 16:18:51 -04",
+  "timestamp_utc": "2026-02-24T21:00:16.272737",
+  "actualizado_vzla": "2026-02-24 17:00:16 -04",
   "compra_segundo": {
-    "price": 621.0,
-    "name": "Cripto_04"
+    "price": 614.999,
+    "name": "CAMBIOS_YR"
   },
   "venta_maxima": {
     "price": 623.0,
     "name": "Dolartodan"
   },
-  "promedio": 622.0,
+  "promedio": 619.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
