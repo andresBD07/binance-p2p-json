@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-24T16:44:40.763010",
-  "actualizado_vzla": "2026-02-24 12:44:40 -04",
+  "timestamp_utc": "2026-02-24T17:45:37.290724",
+  "actualizado_vzla": "2026-02-24 13:45:37 -04",
   "compra_segundo": {
-    "price": 614.0,
-    "name": "LaMundial"
+    "price": 620.998,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 617.0,
-    "name": "VERTUOK"
+    "price": 622.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 615.5,
+  "promedio": 621.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
