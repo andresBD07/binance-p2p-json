@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T03:42:42.368971",
-  "actualizado_vzla": "2026-02-24 23:42:42 -04",
+  "timestamp_utc": "2026-02-25T05:15:42.354807",
+  "actualizado_vzla": "2026-02-25 01:15:42 -04",
   "compra_segundo": {
-    "price": 623.998,
-    "name": "Minato21 "
+    "price": 624.8,
+    "name": "THE BOSS  96"
   },
   "venta_maxima": {
-    "price": 621.2,
-    "name": "TradeLion2026"
+    "price": 621.0,
+    "name": "黑块黑块"
   },
-  "promedio": 622.6,
+  "promedio": 622.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
