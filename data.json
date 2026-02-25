@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T11:25:57.054635",
-  "actualizado_vzla": "2026-02-25 07:25:57 -04",
+  "timestamp_utc": "2026-02-25T12:02:23.512586",
+  "actualizado_vzla": "2026-02-25 08:02:23 -04",
   "compra_segundo": {
-    "price": 623.0,
-    "name": "Keria23"
+    "price": 621.4,
+    "name": "inverbarem"
   },
   "venta_maxima": {
-    "price": 620.5,
-    "name": "Skaarj"
+    "price": 620.1,
+    "name": "ALASKA-"
   },
-  "promedio": 621.75,
+  "promedio": 620.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
