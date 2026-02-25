@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T07:37:48.401287",
-  "actualizado_vzla": "2026-02-25 03:37:48 -04",
+  "timestamp_utc": "2026-02-25T08:29:14.311831",
+  "actualizado_vzla": "2026-02-25 04:29:14 -04",
   "compra_segundo": {
-    "price": 625.5,
-    "name": "InvMiggy"
+    "price": 626.2,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "THE BOSS  96"
+    "price": 618.6,
+    "name": "Josebat23"
   },
-  "promedio": 622.75,
+  "promedio": 622.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
