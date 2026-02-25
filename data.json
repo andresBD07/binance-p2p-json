@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T22:44:38.869377",
-  "actualizado_vzla": "2026-02-25 18:44:38 -04",
+  "timestamp_utc": "2026-02-25T23:16:37.993476",
+  "actualizado_vzla": "2026-02-25 19:16:38 -04",
   "compra_segundo": {
-    "price": 613.74,
-    "name": "SATUPLE13"
+    "price": 614.5,
+    "name": "Jesus_viloriagil"
   },
   "venta_maxima": {
-    "price": 615.0,
-    "name": "被放逐的狐狸"
+    "price": 614.5,
+    "name": "Gustavo129"
   },
-  "promedio": 614.37,
+  "promedio": 614.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
