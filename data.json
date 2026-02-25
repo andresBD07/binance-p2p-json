@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T19:14:28.154432",
-  "actualizado_vzla": "2026-02-25 15:14:28 -04",
+  "timestamp_utc": "2026-02-25T19:56:00.009211",
+  "actualizado_vzla": "2026-02-25 15:56:00 -04",
   "compra_segundo": {
-    "price": 616.35,
-    "name": "cambiaseguro_en-5min"
+    "price": 611.989,
+    "name": "Crypto_InvestVEN"
   },
   "venta_maxima": {
-    "price": 616.0,
-    "name": "ClandestinoX"
+    "price": 614.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 616.17,
+  "promedio": 612.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
