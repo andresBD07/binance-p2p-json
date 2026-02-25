@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T17:55:07.364366",
-  "actualizado_vzla": "2026-02-25 13:55:07 -04",
+  "timestamp_utc": "2026-02-25T19:14:28.154432",
+  "actualizado_vzla": "2026-02-25 15:14:28 -04",
   "compra_segundo": {
-    "price": 615.699,
-    "name": "David-0199"
+    "price": 616.35,
+    "name": "cambiaseguro_en-5min"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "Dolartodan"
+    "price": 616.0,
+    "name": "ClandestinoX"
   },
-  "promedio": 616.85,
+  "promedio": 616.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
