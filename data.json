@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T14:37:58.246329",
-  "actualizado_vzla": "2026-02-25 10:37:58 -04",
+  "timestamp_utc": "2026-02-25T15:41:58.890118",
+  "actualizado_vzla": "2026-02-25 11:41:58 -04",
   "compra_segundo": {
-    "price": 606.0,
-    "name": "Alex-MARTIN"
+    "price": 614.0,
+    "name": "MONTERCICP-3"
   },
   "venta_maxima": {
-    "price": 610.0,
-    "name": "安全与信任"
+    "price": 617.1,
+    "name": "willr99"
   },
-  "promedio": 608.0,
+  "promedio": 615.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
