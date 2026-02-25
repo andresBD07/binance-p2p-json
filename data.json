@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T00:59:18.970843",
-  "actualizado_vzla": "2026-02-24 20:59:18 -04",
+  "timestamp_utc": "2026-02-25T03:42:42.368971",
+  "actualizado_vzla": "2026-02-24 23:42:42 -04",
   "compra_segundo": {
-    "price": 620.54,
-    "name": "CambiosyRemesasAG"
+    "price": 623.998,
+    "name": "Minato21 "
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "AryJr"
+    "price": 621.2,
+    "name": "TradeLion2026"
   },
-  "promedio": 620.27,
+  "promedio": 622.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
