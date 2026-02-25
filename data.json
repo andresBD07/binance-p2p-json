@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T16:51:40.177008",
-  "actualizado_vzla": "2026-02-25 12:51:40 -04",
+  "timestamp_utc": "2026-02-25T17:55:07.364366",
+  "actualizado_vzla": "2026-02-25 13:55:07 -04",
   "compra_segundo": {
-    "price": 613.8,
-    "name": "Vergara28Casacambios"
+    "price": 615.699,
+    "name": "David-0199"
   },
   "venta_maxima": {
-    "price": 614.0,
-    "name": "VERTUOK"
+    "price": 618.0,
+    "name": "Dolartodan"
   },
-  "promedio": 613.9,
+  "promedio": 616.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
