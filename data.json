@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T08:29:14.311831",
-  "actualizado_vzla": "2026-02-25 04:29:14 -04",
+  "timestamp_utc": "2026-02-25T09:32:35.428453",
+  "actualizado_vzla": "2026-02-25 05:32:35 -04",
   "compra_segundo": {
-    "price": 626.2,
-    "name": "CryptoSickoP2P"
+    "price": 626.0,
+    "name": "KANGRICRUSS"
   },
   "venta_maxima": {
-    "price": 618.6,
-    "name": "Josebat23"
+    "price": 620.0,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 622.4,
+  "promedio": 623.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
