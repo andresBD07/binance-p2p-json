@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T09:32:35.428453",
-  "actualizado_vzla": "2026-02-25 05:32:35 -04",
+  "timestamp_utc": "2026-02-25T10:32:29.485692",
+  "actualizado_vzla": "2026-02-25 06:32:29 -04",
   "compra_segundo": {
-    "price": 626.0,
-    "name": "KANGRICRUSS"
+    "price": 624.8,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "Daikokuten-Finance"
+    "price": 620.1,
+    "name": "Skaarj"
   },
-  "promedio": 623.0,
+  "promedio": 622.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
