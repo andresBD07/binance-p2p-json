@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T05:15:42.354807",
-  "actualizado_vzla": "2026-02-25 01:15:42 -04",
+  "timestamp_utc": "2026-02-25T06:35:43.861050",
+  "actualizado_vzla": "2026-02-25 02:35:43 -04",
   "compra_segundo": {
-    "price": 624.8,
-    "name": "THE BOSS  96"
+    "price": 625.31,
+    "name": "Yoinered"
   },
   "venta_maxima": {
     "price": 621.0,
-    "name": "黑块黑块"
+    "name": "THE BOSS  96"
   },
-  "promedio": 622.9,
+  "promedio": 623.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
