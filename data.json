@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T12:02:23.512586",
-  "actualizado_vzla": "2026-02-25 08:02:23 -04",
+  "timestamp_utc": "2026-02-25T13:40:46.230493",
+  "actualizado_vzla": "2026-02-25 09:40:46 -04",
   "compra_segundo": {
-    "price": 621.4,
-    "name": "inverbarem"
+    "price": 616.94,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 620.1,
-    "name": "ALASKA-"
+    "price": 620.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 620.75,
+  "promedio": 618.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
