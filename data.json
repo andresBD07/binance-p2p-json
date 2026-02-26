@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T16:08:51.086450",
-  "actualizado_vzla": "2026-02-26 12:08:51 -04",
+  "timestamp_utc": "2026-02-26T17:18:33.895090",
+  "actualizado_vzla": "2026-02-26 13:18:33 -04",
   "compra_segundo": {
-    "price": 617.899,
-    "name": "kaizenholder"
+    "price": 617.5,
+    "name": "InversionesJZ"
   },
   "venta_maxima": {
-    "price": 621.0,
-    "name": "Pipotrade"
+    "price": 619.511,
+    "name": "Vitatech"
   },
-  "promedio": 619.45,
+  "promedio": 618.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
