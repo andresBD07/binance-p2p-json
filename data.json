@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T17:18:33.895090",
-  "actualizado_vzla": "2026-02-26 13:18:33 -04",
+  "timestamp_utc": "2026-02-26T18:07:30.204685",
+  "actualizado_vzla": "2026-02-26 14:07:30 -04",
   "compra_segundo": {
-    "price": 617.5,
-    "name": "InversionesJZ"
+    "price": 615.499,
+    "name": "Clovers-"
   },
   "venta_maxima": {
-    "price": 619.511,
-    "name": "Vitatech"
+    "price": 618.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 618.51,
+  "promedio": 616.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
