@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T20:49:17.085291",
-  "actualizado_vzla": "2026-02-26 16:49:17 -04",
+  "timestamp_utc": "2026-02-26T21:24:40.954157",
+  "actualizado_vzla": "2026-02-26 17:24:40 -04",
   "compra_segundo": {
-    "price": 615.589,
-    "name": "Marcmundo01"
+    "price": 615.5,
+    "name": "Cmaximoj"
   },
   "venta_maxima": {
-    "price": 615.1,
-    "name": "VERTUOK"
+    "price": 615.0,
+    "name": "USDTpulso"
   },
-  "promedio": 615.34,
+  "promedio": 615.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
