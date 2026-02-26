@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T11:05:12.064989",
-  "actualizado_vzla": "2026-02-26 07:05:12 -04",
+  "timestamp_utc": "2026-02-26T11:53:23.449164",
+  "actualizado_vzla": "2026-02-26 07:53:23 -04",
   "compra_segundo": {
-    "price": 615.59,
-    "name": "AndradeGascon"
+    "price": 614.399,
+    "name": "josegcambios"
   },
   "venta_maxima": {
-    "price": 612.5,
-    "name": "ALASKA-"
+    "price": 613.0,
+    "name": "你理想的改變"
   },
-  "promedio": 614.05,
+  "promedio": 613.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
