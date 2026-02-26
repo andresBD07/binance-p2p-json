@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T21:57:18.142610",
-  "actualizado_vzla": "2026-02-26 17:57:18 -04",
+  "timestamp_utc": "2026-02-26T22:45:27.938719",
+  "actualizado_vzla": "2026-02-26 18:45:27 -04",
   "compra_segundo": {
-    "price": 615.365,
-    "name": "SatoruEXchange"
+    "price": 615.495,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 615.0,
+    "price": 615.5,
     "name": "USDTpulso"
   },
-  "promedio": 615.18,
+  "promedio": 615.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
