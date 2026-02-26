@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T22:45:27.938719",
-  "actualizado_vzla": "2026-02-26 18:45:27 -04",
+  "timestamp_utc": "2026-02-26T23:16:35.029904",
+  "actualizado_vzla": "2026-02-26 19:16:35 -04",
   "compra_segundo": {
-    "price": 615.495,
-    "name": "criptorapiseguro1"
+    "price": 615.29,
+    "name": "Minato21 "
   },
   "venta_maxima": {
-    "price": 615.5,
-    "name": "USDTpulso"
+    "price": 616.0,
+    "name": "安全与信任"
   },
-  "promedio": 615.5,
+  "promedio": 615.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
