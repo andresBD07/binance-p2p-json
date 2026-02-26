@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T05:11:48.156202",
-  "actualizado_vzla": "2026-02-26 01:11:48 -04",
+  "timestamp_utc": "2026-02-26T06:13:15.965561",
+  "actualizado_vzla": "2026-02-26 02:13:15 -04",
   "compra_segundo": {
-    "price": 615.99,
-    "name": "KobyTrader"
+    "price": 616.398,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
     "price": 612.101,
     "name": "ZoeTrades"
   },
-  "promedio": 614.05,
+  "promedio": 614.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
