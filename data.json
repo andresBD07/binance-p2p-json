@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T06:13:15.965561",
-  "actualizado_vzla": "2026-02-26 02:13:15 -04",
+  "timestamp_utc": "2026-02-26T07:29:08.708140",
+  "actualizado_vzla": "2026-02-26 03:29:08 -04",
   "compra_segundo": {
-    "price": 616.398,
-    "name": "Juan15_7"
+    "price": 617.0,
+    "name": "TraderMasterrr"
   },
   "venta_maxima": {
     "price": 612.101,
     "name": "ZoeTrades"
   },
-  "promedio": 614.25,
+  "promedio": 614.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
