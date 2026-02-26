@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T15:09:14.130870",
-  "actualizado_vzla": "2026-02-26 11:09:14 -04",
+  "timestamp_utc": "2026-02-26T16:08:51.086450",
+  "actualizado_vzla": "2026-02-26 12:08:51 -04",
   "compra_segundo": {
-    "price": 614.3,
-    "name": "MikasaExchange"
+    "price": 617.899,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 617.0,
-    "name": "-Godgiven-"
+    "price": 621.0,
+    "name": "Pipotrade"
   },
-  "promedio": 615.65,
+  "promedio": 619.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
