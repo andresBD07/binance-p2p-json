@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-25T23:48:21.204315",
-  "actualizado_vzla": "2026-02-25 19:48:21 -04",
+  "timestamp_utc": "2026-02-26T01:03:03.100486",
+  "actualizado_vzla": "2026-02-25 21:03:03 -04",
   "compra_segundo": {
-    "price": 614.89,
-    "name": "ADA_RAPIDO"
+    "price": 615.099,
+    "name": "Trellvader"
   },
   "venta_maxima": {
-    "price": 616.5,
-    "name": "Pipotrade"
+    "price": 613.001,
+    "name": "novatecno"
   },
-  "promedio": 615.69,
+  "promedio": 614.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
