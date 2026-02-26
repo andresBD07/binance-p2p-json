@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T18:07:30.204685",
-  "actualizado_vzla": "2026-02-26 14:07:30 -04",
+  "timestamp_utc": "2026-02-26T19:10:24.754143",
+  "actualizado_vzla": "2026-02-26 15:10:24 -04",
   "compra_segundo": {
-    "price": 615.499,
-    "name": "Clovers-"
+    "price": 615.92,
+    "name": "Cryptolove2026"
   },
   "venta_maxima": {
-    "price": 618.0,
+    "price": 617.0,
     "name": "-Godgiven-"
   },
-  "promedio": 616.75,
+  "promedio": 616.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
