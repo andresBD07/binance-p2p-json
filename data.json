@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T19:10:24.754143",
-  "actualizado_vzla": "2026-02-26 15:10:24 -04",
+  "timestamp_utc": "2026-02-26T19:55:42.248309",
+  "actualizado_vzla": "2026-02-26 15:55:42 -04",
   "compra_segundo": {
-    "price": 615.92,
-    "name": "Cryptolove2026"
+    "price": 616.27,
+    "name": "concha7"
   },
   "venta_maxima": {
-    "price": 617.0,
-    "name": "-Godgiven-"
+    "price": 617.5,
+    "name": "mayerlingm"
   },
-  "promedio": 616.46,
+  "promedio": 616.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
