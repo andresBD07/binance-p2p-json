@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T21:24:40.954157",
-  "actualizado_vzla": "2026-02-26 17:24:40 -04",
+  "timestamp_utc": "2026-02-26T21:57:18.142610",
+  "actualizado_vzla": "2026-02-26 17:57:18 -04",
   "compra_segundo": {
-    "price": 615.5,
-    "name": "Cmaximoj"
+    "price": 615.365,
+    "name": "SatoruEXchange"
   },
   "venta_maxima": {
     "price": 615.0,
     "name": "USDTpulso"
   },
-  "promedio": 615.25,
+  "promedio": 615.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
