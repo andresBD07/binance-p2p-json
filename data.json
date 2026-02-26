@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T23:16:35.029904",
-  "actualizado_vzla": "2026-02-26 19:16:35 -04",
+  "timestamp_utc": "2026-02-26T23:48:56.903766",
+  "actualizado_vzla": "2026-02-26 19:48:56 -04",
   "compra_segundo": {
-    "price": 615.29,
-    "name": "Minato21 "
+    "price": 615.99,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
-    "price": 616.0,
-    "name": "安全与信任"
+    "price": 617.0,
+    "name": "VERTUOK"
   },
-  "promedio": 615.64,
+  "promedio": 616.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
