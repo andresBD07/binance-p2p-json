@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-26T14:15:26.426278",
-  "actualizado_vzla": "2026-02-26 10:15:26 -04",
+  "timestamp_utc": "2026-02-26T15:09:14.130870",
+  "actualizado_vzla": "2026-02-26 11:09:14 -04",
   "compra_segundo": {
-    "price": 614.0,
-    "name": "Atumanocambio"
+    "price": 614.3,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 616.0,
+    "price": 617.0,
     "name": "-Godgiven-"
   },
-  "promedio": 615.0,
+  "promedio": 615.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
