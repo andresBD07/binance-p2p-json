@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T07:11:55.997732",
-  "actualizado_vzla": "2026-02-27 03:11:56 -04",
+  "timestamp_utc": "2026-02-27T07:58:03.491074",
+  "actualizado_vzla": "2026-02-27 03:58:03 -04",
   "compra_segundo": {
-    "price": 617.7,
-    "name": "ChuloFastPay"
+    "price": 617.999,
+    "name": "Tommie Tak s39I"
   },
   "venta_maxima": {
     "price": 615.0,
     "name": "你理想的改變"
   },
-  "promedio": 616.35,
+  "promedio": 616.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
