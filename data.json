@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T06:05:59.923742",
-  "actualizado_vzla": "2026-02-27 02:05:59 -04",
+  "timestamp_utc": "2026-02-27T07:11:55.997732",
+  "actualizado_vzla": "2026-02-27 03:11:56 -04",
   "compra_segundo": {
-    "price": 617.5,
-    "name": "BUSSINESByD"
+    "price": 617.7,
+    "name": "ChuloFastPay"
   },
   "venta_maxima": {
     "price": 615.0,
     "name": "你理想的改變"
   },
-  "promedio": 616.25,
+  "promedio": 616.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
