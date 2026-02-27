@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T11:50:30.986613",
-  "actualizado_vzla": "2026-02-27 07:50:30 -04",
+  "timestamp_utc": "2026-02-27T12:44:23.986003",
+  "actualizado_vzla": "2026-02-27 08:44:23 -04",
   "compra_segundo": {
-    "price": 614.98,
-    "name": "CAMBIOS_VDMK"
+    "price": 614.6,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 614.0,
-    "name": "TPhillips"
+    "price": 616.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 614.49,
+  "promedio": 615.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
