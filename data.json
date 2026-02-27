@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T07:58:03.491074",
-  "actualizado_vzla": "2026-02-27 03:58:03 -04",
+  "timestamp_utc": "2026-02-27T08:54:59.238121",
+  "actualizado_vzla": "2026-02-27 04:54:59 -04",
   "compra_segundo": {
-    "price": 617.999,
-    "name": "Tommie Tak s39I"
+    "price": 617.9,
+    "name": "CRIPTO-LF"
   },
   "venta_maxima": {
     "price": 615.0,
     "name": "你理想的改變"
   },
-  "promedio": 616.5,
+  "promedio": 616.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
