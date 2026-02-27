@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T23:35:47.712297",
-  "actualizado_vzla": "2026-02-27 19:35:47 -04",
+  "timestamp_utc": "2026-02-27T23:55:34.150542",
+  "actualizado_vzla": "2026-02-27 19:55:34 -04",
   "compra_segundo": {
-    "price": 608.884,
-    "name": "R1skTaker"
+    "price": 608.99,
+    "name": "Cambios_Vargas"
   },
   "venta_maxima": {
     "price": 609.0,
     "name": "-Godgiven-"
   },
-  "promedio": 608.94,
+  "promedio": 609.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
