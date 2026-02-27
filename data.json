@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T22:44:59.708013",
-  "actualizado_vzla": "2026-02-27 18:44:59 -04",
+  "timestamp_utc": "2026-02-27T23:01:46.946651",
+  "actualizado_vzla": "2026-02-27 19:01:46 -04",
   "compra_segundo": {
-    "price": 608.14,
-    "name": "Cambios_llaneros"
+    "price": 608.3,
+    "name": "1_WidowsSon_Trader"
   },
   "venta_maxima": {
-    "price": 609.0,
-    "name": "-Godgiven-"
+    "price": 612.0,
+    "name": "Snayderk"
   },
-  "promedio": 608.57,
+  "promedio": 610.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
