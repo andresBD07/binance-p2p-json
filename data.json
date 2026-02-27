@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T18:05:17.984018",
-  "actualizado_vzla": "2026-02-27 14:05:17 -04",
+  "timestamp_utc": "2026-02-27T19:01:55.280221",
+  "actualizado_vzla": "2026-02-27 15:01:55 -04",
   "compra_segundo": {
-    "price": 610.62,
-    "name": "Kuchau"
+    "price": 606.19,
+    "name": "Silv3rPkm"
   },
   "venta_maxima": {
-    "price": 611.5,
+    "price": 607.0,
     "name": "-Godgiven-"
   },
-  "promedio": 611.06,
+  "promedio": 606.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
