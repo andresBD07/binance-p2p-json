@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T11:18:57.498075",
-  "actualizado_vzla": "2026-02-27 07:18:57 -04",
+  "timestamp_utc": "2026-02-27T11:50:30.986613",
+  "actualizado_vzla": "2026-02-27 07:50:30 -04",
   "compra_segundo": {
-    "price": 615.85,
+    "price": 614.98,
     "name": "CAMBIOS_VDMK"
   },
   "venta_maxima": {
-    "price": 613.2,
-    "name": "USDTFASTTT"
+    "price": 614.0,
+    "name": "TPhillips"
   },
-  "promedio": 614.53,
+  "promedio": 614.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
