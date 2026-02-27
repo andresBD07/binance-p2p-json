@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T22:10:53.700495",
-  "actualizado_vzla": "2026-02-27 18:10:53 -04",
+  "timestamp_utc": "2026-02-27T22:44:59.708013",
+  "actualizado_vzla": "2026-02-27 18:44:59 -04",
   "compra_segundo": {
-    "price": 607.789,
-    "name": "Minato21 "
+    "price": 608.14,
+    "name": "Cambios_llaneros"
   },
   "venta_maxima": {
-    "price": 608.1,
-    "name": "-Zeratul-"
+    "price": 609.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 607.94,
+  "promedio": 608.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
