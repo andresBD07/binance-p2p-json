@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T21:16:31.125437",
-  "actualizado_vzla": "2026-02-27 17:16:31 -04",
+  "timestamp_utc": "2026-02-27T21:47:34.305816",
+  "actualizado_vzla": "2026-02-27 17:47:34 -04",
   "compra_segundo": {
-    "price": 606.8,
-    "name": "Songokuu7"
+    "price": 607.485,
+    "name": "ElielWar"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "-Godgiven-"
+    "price": 607.5,
+    "name": "SasukeTrader"
   },
-  "promedio": 606.9,
+  "promedio": 607.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
