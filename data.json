@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T15:22:01.646636",
-  "actualizado_vzla": "2026-02-27 11:22:01 -04",
+  "timestamp_utc": "2026-02-27T15:58:34.058692",
+  "actualizado_vzla": "2026-02-27 11:58:34 -04",
   "compra_segundo": {
-    "price": 609.49,
-    "name": "EL_MARA_EXPRESS"
+    "price": 609.199,
+    "name": "CryptoBrendha"
   },
   "venta_maxima": {
-    "price": 611.0,
+    "price": 613.0,
     "name": "-Godgiven-"
   },
-  "promedio": 610.25,
+  "promedio": 611.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
