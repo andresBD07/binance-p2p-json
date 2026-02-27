@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T09:51:42.755319",
-  "actualizado_vzla": "2026-02-27 05:51:42 -04",
+  "timestamp_utc": "2026-02-27T10:34:59.655855",
+  "actualizado_vzla": "2026-02-27 06:34:59 -04",
   "compra_segundo": {
-    "price": 617.499,
-    "name": "IA-Pay"
+    "price": 617.2,
+    "name": "Jackdolar"
   },
   "venta_maxima": {
-    "price": 692.802,
-    "name": "CriptoanimasLA"
+    "price": 615.0,
+    "name": "你理想的改變"
   },
-  "promedio": 655.15,
+  "promedio": 616.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
