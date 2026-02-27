@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T12:44:23.986003",
-  "actualizado_vzla": "2026-02-27 08:44:23 -04",
+  "timestamp_utc": "2026-02-27T13:47:38.240085",
+  "actualizado_vzla": "2026-02-27 09:47:38 -04",
   "compra_segundo": {
-    "price": 614.6,
-    "name": "Fast-CambiosSeguro-"
+    "price": 613.7,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 616.0,
-    "name": "被放逐的狐狸"
+    "price": 614.0,
+    "name": "Tradingfriend"
   },
-  "promedio": 615.3,
+  "promedio": 613.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
