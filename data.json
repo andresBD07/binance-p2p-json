@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T20:14:52.478013",
-  "actualizado_vzla": "2026-02-27 16:14:52 -04",
+  "timestamp_utc": "2026-02-27T20:47:43.417422",
+  "actualizado_vzla": "2026-02-27 16:47:43 -04",
   "compra_segundo": {
-    "price": 608.99,
-    "name": "Saher7"
+    "price": 607.9,
+    "name": "Viamort"
   },
   "venta_maxima": {
     "price": 608.5,
     "name": "-Godgiven-"
   },
-  "promedio": 608.75,
+  "promedio": 608.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
