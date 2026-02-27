@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T20:47:43.417422",
-  "actualizado_vzla": "2026-02-27 16:47:43 -04",
+  "timestamp_utc": "2026-02-27T21:16:31.125437",
+  "actualizado_vzla": "2026-02-27 17:16:31 -04",
   "compra_segundo": {
-    "price": 607.9,
-    "name": "Viamort"
+    "price": 606.8,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
-    "price": 608.5,
+    "price": 607.0,
     "name": "-Godgiven-"
   },
-  "promedio": 608.2,
+  "promedio": 606.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
