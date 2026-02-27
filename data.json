@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-27T13:47:38.240085",
-  "actualizado_vzla": "2026-02-27 09:47:38 -04",
+  "timestamp_utc": "2026-02-27T14:29:27.923406",
+  "actualizado_vzla": "2026-02-27 10:29:27 -04",
   "compra_segundo": {
-    "price": 613.7,
-    "name": "lamejoropcion"
+    "price": 610.001,
+    "name": "CAMBIOS-LEO"
   },
   "venta_maxima": {
-    "price": 614.0,
-    "name": "Tradingfriend"
+    "price": 611.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 613.85,
+  "promedio": 610.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
