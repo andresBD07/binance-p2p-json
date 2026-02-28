@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T21:59:50.468041",
-  "actualizado_vzla": "2026-02-28 17:59:50 -04",
+  "timestamp_utc": "2026-02-28T22:35:15.944885",
+  "actualizado_vzla": "2026-02-28 18:35:15 -04",
   "compra_segundo": {
-    "price": 607.398,
-    "name": "LAULAR87"
+    "price": 607.2,
+    "name": "Tucambiove"
   },
   "venta_maxima": {
-    "price": 609.0,
-    "name": "TAURUS85"
+    "price": 608.0,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 608.2,
+  "promedio": 607.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
