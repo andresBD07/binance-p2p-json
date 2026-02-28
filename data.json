@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T12:50:50.628649",
-  "actualizado_vzla": "2026-02-28 08:50:50 -04",
+  "timestamp_utc": "2026-02-28T13:33:27.580089",
+  "actualizado_vzla": "2026-02-28 09:33:27 -04",
   "compra_segundo": {
-    "price": 608.5,
-    "name": "1_WidowsSon_Trader"
+    "price": 607.4,
+    "name": "PAYMENTSPRO"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "-Godgiven-"
+    "price": 606.5,
+    "name": "Brawcoins"
   },
-  "promedio": 607.75,
+  "promedio": 606.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
