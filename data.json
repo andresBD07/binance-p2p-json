@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T18:55:27.203889",
-  "actualizado_vzla": "2026-02-28 14:55:27 -04",
+  "timestamp_utc": "2026-02-28T19:27:00.872619",
+  "actualizado_vzla": "2026-02-28 15:27:00 -04",
   "compra_segundo": {
-    "price": 607.79,
-    "name": "RebeP2P"
+    "price": 607.8,
+    "name": "CryptoJM95"
   },
   "venta_maxima": {
     "price": 609.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 608.39,
+  "promedio": 608.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
