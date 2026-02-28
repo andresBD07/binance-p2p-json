@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T22:55:16.857881",
-  "actualizado_vzla": "2026-02-28 18:55:16 -04",
+  "timestamp_utc": "2026-02-28T23:29:32.695942",
+  "actualizado_vzla": "2026-02-28 19:29:32 -04",
   "compra_segundo": {
-    "price": 607.0,
-    "name": "lamejoropcion"
+    "price": 606.349,
+    "name": "Beregoza"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "StrattonOakmontinc"
+    "price": 607.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 607.0,
+  "promedio": 606.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
