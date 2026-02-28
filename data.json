@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T10:52:38.921693",
-  "actualizado_vzla": "2026-02-28 06:52:38 -04",
+  "timestamp_utc": "2026-02-28T11:20:04.660098",
+  "actualizado_vzla": "2026-02-28 07:20:04 -04",
   "compra_segundo": {
-    "price": 610.4,
-    "name": "Kapo_DTP"
+    "price": 609.999,
+    "name": "Ed Money"
   },
   "venta_maxima": {
-    "price": 606.0,
-    "name": "cazing2230"
+    "price": 606.002,
+    "name": "FULL-HOUSSE"
   },
-  "promedio": 608.2,
+  "promedio": 608.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
