@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T07:36:57.915907",
-  "actualizado_vzla": "2026-02-28 03:36:57 -04",
+  "timestamp_utc": "2026-02-28T07:54:30.957096",
+  "actualizado_vzla": "2026-02-28 03:54:30 -04",
   "compra_segundo": {
     "price": 611.0,
     "name": "WChurchill"
   },
   "venta_maxima": {
-    "price": 605.33,
-    "name": "CambiosOjed4"
+    "price": 605.34,
+    "name": "Jesusfreitesm"
   },
-  "promedio": 608.16,
+  "promedio": 608.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
