@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T13:57:04.952890",
-  "actualizado_vzla": "2026-02-28 09:57:04 -04",
+  "timestamp_utc": "2026-02-28T14:32:06.243145",
+  "actualizado_vzla": "2026-02-28 10:32:06 -04",
   "compra_segundo": {
-    "price": 607.75,
-    "name": "Intercambiosmgta"
+    "price": 606.95,
+    "name": "Ale1498"
   },
   "venta_maxima": {
-    "price": 609.1,
-    "name": "Brawcoins"
+    "price": 609.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 608.42,
+  "promedio": 607.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
