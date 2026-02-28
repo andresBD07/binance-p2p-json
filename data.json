@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T10:29:48.927757",
-  "actualizado_vzla": "2026-02-28 06:29:48 -04",
+  "timestamp_utc": "2026-02-28T10:52:38.921693",
+  "actualizado_vzla": "2026-02-28 06:52:38 -04",
   "compra_segundo": {
     "price": 610.4,
     "name": "Kapo_DTP"
   },
   "venta_maxima": {
-    "price": 605.65,
-    "name": "Jesusfreitesm"
+    "price": 606.0,
+    "name": "cazing2230"
   },
-  "promedio": 608.02,
+  "promedio": 608.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
