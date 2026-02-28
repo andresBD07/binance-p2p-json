@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T11:20:04.660098",
-  "actualizado_vzla": "2026-02-28 07:20:04 -04",
+  "timestamp_utc": "2026-02-28T11:39:09.569062",
+  "actualizado_vzla": "2026-02-28 07:39:09 -04",
   "compra_segundo": {
-    "price": 609.999,
-    "name": "Ed Money"
+    "price": 609.998,
+    "name": "Dantecripto"
   },
   "venta_maxima": {
-    "price": 606.002,
-    "name": "FULL-HOUSSE"
+    "price": 606.26,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 608.0,
+  "promedio": 608.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
