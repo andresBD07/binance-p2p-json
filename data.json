@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T23:29:32.695942",
-  "actualizado_vzla": "2026-02-28 19:29:32 -04",
+  "timestamp_utc": "2026-02-28T23:49:39.810606",
+  "actualizado_vzla": "2026-02-28 19:49:39 -04",
   "compra_segundo": {
-    "price": 606.349,
-    "name": "Beregoza"
+    "price": 605.8,
+    "name": "-R-23"
   },
   "venta_maxima": {
-    "price": 607.5,
-    "name": "Rapidflorio84"
+    "price": 606.5,
+    "name": "-Saitama-"
   },
-  "promedio": 606.92,
+  "promedio": 606.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
