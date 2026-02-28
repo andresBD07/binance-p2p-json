@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T02:34:10.445578",
-  "actualizado_vzla": "2026-02-27 22:34:10 -04",
+  "timestamp_utc": "2026-02-28T04:08:31.461532",
+  "actualizado_vzla": "2026-02-28 00:08:31 -04",
   "compra_segundo": {
-    "price": 609.49,
-    "name": "NimaX-64"
+    "price": 609.5,
+    "name": "GusGus-777"
   },
   "venta_maxima": {
-    "price": 608.0,
-    "name": "已連接"
+    "price": 606.305,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 608.75,
+  "promedio": 607.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
