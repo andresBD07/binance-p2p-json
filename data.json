@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T11:53:15.664902",
-  "actualizado_vzla": "2026-02-28 07:53:15 -04",
+  "timestamp_utc": "2026-02-28T12:50:50.628649",
+  "actualizado_vzla": "2026-02-28 08:50:50 -04",
   "compra_segundo": {
-    "price": 609.9,
-    "name": "JokerSwap"
+    "price": 608.5,
+    "name": "1_WidowsSon_Trader"
   },
   "venta_maxima": {
-    "price": 607.5,
-    "name": "梅CityCambio爱"
+    "price": 607.0,
+    "name": "-Godgiven-"
   },
-  "promedio": 608.7,
+  "promedio": 607.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
