@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T15:57:46.206601",
-  "actualizado_vzla": "2026-02-28 11:57:46 -04",
+  "timestamp_utc": "2026-02-28T16:37:36.937186",
+  "actualizado_vzla": "2026-02-28 12:37:36 -04",
   "compra_segundo": {
-    "price": 607.5,
-    "name": "Calito22"
+    "price": 607.693,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
     "price": 609.5,
     "name": "-Godgiven-"
   },
-  "promedio": 608.5,
+  "promedio": 608.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
