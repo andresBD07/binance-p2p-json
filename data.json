@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T20:35:38.797283",
-  "actualizado_vzla": "2026-02-28 16:35:38 -04",
+  "timestamp_utc": "2026-02-28T20:55:15.148588",
+  "actualizado_vzla": "2026-02-28 16:55:15 -04",
   "compra_segundo": {
-    "price": 608.6,
-    "name": "denny34"
+    "price": 608.2,
+    "name": "Franquicia777"
   },
   "venta_maxima": {
-    "price": 608.601,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 608.5,
+    "name": "已連接"
   },
-  "promedio": 608.6,
+  "promedio": 608.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
