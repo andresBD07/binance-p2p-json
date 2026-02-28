@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T19:44:38.970292",
-  "actualizado_vzla": "2026-02-28 15:44:38 -04",
+  "timestamp_utc": "2026-02-28T19:57:27.379432",
+  "actualizado_vzla": "2026-02-28 15:57:27 -04",
   "compra_segundo": {
-    "price": 607.8,
-    "name": "ElCandidoP2P"
+    "price": 608.0,
+    "name": "giiojoc"
   },
   "venta_maxima": {
-    "price": 609.001,
+    "price": 609.1,
     "name": "梅CityCambio爱"
   },
-  "promedio": 608.4,
+  "promedio": 608.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
