@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T14:32:06.243145",
-  "actualizado_vzla": "2026-02-28 10:32:06 -04",
+  "timestamp_utc": "2026-02-28T14:52:14.659194",
+  "actualizado_vzla": "2026-02-28 10:52:14 -04",
   "compra_segundo": {
-    "price": 606.95,
-    "name": "Ale1498"
+    "price": 607.5,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
-    "price": 609.0,
-    "name": "-Godgiven-"
+    "price": 610.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 607.98,
+  "promedio": 608.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
