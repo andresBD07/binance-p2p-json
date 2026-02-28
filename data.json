@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T06:21:03.123607",
-  "actualizado_vzla": "2026-02-28 02:21:03 -04",
+  "timestamp_utc": "2026-02-28T07:01:19.430775",
+  "actualizado_vzla": "2026-02-28 03:01:19 -04",
   "compra_segundo": {
-    "price": 610.4,
-    "name": "ComercioMM"
+    "price": 610.95,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 606.01,
-    "name": "-Vallenatero-"
+    "price": 605.33,
+    "name": "CambiosOjed4"
   },
-  "promedio": 608.2,
+  "promedio": 608.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
