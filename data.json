@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T11:39:09.569062",
-  "actualizado_vzla": "2026-02-28 07:39:09 -04",
+  "timestamp_utc": "2026-02-28T11:53:15.664902",
+  "actualizado_vzla": "2026-02-28 07:53:15 -04",
   "compra_segundo": {
-    "price": 609.998,
-    "name": "Dantecripto"
+    "price": 609.9,
+    "name": "JokerSwap"
   },
   "venta_maxima": {
-    "price": 606.26,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 607.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 608.13,
+  "promedio": 608.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
