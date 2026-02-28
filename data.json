@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T17:50:03.395666",
-  "actualizado_vzla": "2026-02-28 13:50:03 -04",
+  "timestamp_utc": "2026-02-28T18:23:02.127195",
+  "actualizado_vzla": "2026-02-28 14:23:02 -04",
   "compra_segundo": {
-    "price": 607.78,
-    "name": "PagoInstantaneoP2P"
+    "price": 607.479,
+    "name": "VzlaCoin"
   },
   "venta_maxima": {
-    "price": 609.5,
+    "price": 608.5,
     "name": "-Godgiven-"
   },
-  "promedio": 608.64,
+  "promedio": 607.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
