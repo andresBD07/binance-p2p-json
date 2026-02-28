@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T21:28:22.198159",
-  "actualizado_vzla": "2026-02-28 17:28:22 -04",
+  "timestamp_utc": "2026-02-28T21:46:49.548460",
+  "actualizado_vzla": "2026-02-28 17:46:49 -04",
   "compra_segundo": {
-    "price": 607.995,
-    "name": "MrFrogs"
+    "price": 607.9,
+    "name": "心Bee"
   },
   "venta_maxima": {
     "price": 608.5,
     "name": "已連接"
   },
-  "promedio": 608.25,
+  "promedio": 608.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
