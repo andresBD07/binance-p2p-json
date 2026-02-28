@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T18:23:02.127195",
-  "actualizado_vzla": "2026-02-28 14:23:02 -04",
+  "timestamp_utc": "2026-02-28T18:55:27.203889",
+  "actualizado_vzla": "2026-02-28 14:55:27 -04",
   "compra_segundo": {
-    "price": 607.479,
-    "name": "VzlaCoin"
+    "price": 607.79,
+    "name": "RebeP2P"
   },
   "venta_maxima": {
-    "price": 608.5,
-    "name": "-Godgiven-"
+    "price": 609.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 607.99,
+  "promedio": 608.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
