@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T22:35:15.944885",
-  "actualizado_vzla": "2026-02-28 18:35:15 -04",
+  "timestamp_utc": "2026-02-28T22:55:16.857881",
+  "actualizado_vzla": "2026-02-28 18:55:16 -04",
   "compra_segundo": {
-    "price": 607.2,
-    "name": "Tucambiove"
+    "price": 607.0,
+    "name": "lamejoropcion"
   },
   "venta_maxima": {
-    "price": 608.0,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 607.0,
+    "name": "StrattonOakmontinc"
   },
-  "promedio": 607.6,
+  "promedio": 607.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
