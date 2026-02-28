@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-02-28T14:52:14.659194",
-  "actualizado_vzla": "2026-02-28 10:52:14 -04",
+  "timestamp_utc": "2026-02-28T15:21:35.849078",
+  "actualizado_vzla": "2026-02-28 11:21:35 -04",
   "compra_segundo": {
     "price": 607.5,
-    "name": "Songokuu7"
+    "name": "TerraG0109"
   },
   "venta_maxima": {
-    "price": 610.0,
+    "price": 611.5,
     "name": "被放逐的狐狸"
   },
-  "promedio": 608.75,
+  "promedio": 609.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
