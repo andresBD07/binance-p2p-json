@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T13:29:50.130049",
-  "actualizado_vzla": "2026-03-01 09:29:50 -04",
+  "timestamp_utc": "2026-03-01T13:58:35.055007",
+  "actualizado_vzla": "2026-03-01 09:58:35 -04",
   "compra_segundo": {
-    "price": 608.24,
-    "name": "Minato21 "
+    "price": 607.4,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 607.1,
-    "name": "JoseParedez"
+    "price": 606.0,
+    "name": "Godisgift"
   },
-  "promedio": 607.67,
+  "promedio": 606.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
