@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-01T17:47:44.647193",
-  "actualizado_vzla": "2026-03-01 13:47:44 -04",
+  "timestamp_utc": "2026-03-01T18:15:21.948862",
+  "actualizado_vzla": "2026-03-01 14:15:21 -04",
   "compra_segundo": {
-    "price": 607.4,
-    "name": "Razørk"
+    "price": 607.0,
+    "name": "MONEY-EXCHANGE-RS"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "GREEN78"
+    "price": 607.41,
+    "name": "ALASKA-"
   },
   "promedio": 607.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
