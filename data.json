@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T08:16:13.594690",
-  "actualizado_vzla": "2026-03-01 04:16:13 -04",
+  "timestamp_utc": "2026-03-01T08:49:56.138489",
+  "actualizado_vzla": "2026-03-01 04:49:56 -04",
   "compra_segundo": {
-    "price": 609.488,
-    "name": "jaro23"
+    "price": 609.59,
+    "name": "JoelL"
   },
   "venta_maxima": {
     "price": 603.95,
     "name": "ABTRAD"
   },
-  "promedio": 606.72,
+  "promedio": 606.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
