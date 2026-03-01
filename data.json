@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T20:57:31.962074",
-  "actualizado_vzla": "2026-03-01 16:57:31 -04",
+  "timestamp_utc": "2026-03-01T21:32:32.900385",
+  "actualizado_vzla": "2026-03-01 17:32:32 -04",
   "compra_segundo": {
-    "price": 608.798,
-    "name": "Star_Trading"
+    "price": 609.046,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
-    "price": 607.5,
+    "price": 608.5,
     "name": "StrattonOakmontinc"
   },
-  "promedio": 608.15,
+  "promedio": 608.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
