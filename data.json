@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T14:35:44.961102",
-  "actualizado_vzla": "2026-03-01 10:35:44 -04",
+  "timestamp_utc": "2026-03-01T14:56:14.525622",
+  "actualizado_vzla": "2026-03-01 10:56:14 -04",
   "compra_segundo": {
-    "price": 607.5,
-    "name": "comerciosLoreto"
+    "price": 607.6,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
-    "price": 607.5,
-    "name": "ALASKA-"
+    "price": 607.0,
+    "name": "StrattonOakmontinc"
   },
-  "promedio": 607.5,
+  "promedio": 607.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
