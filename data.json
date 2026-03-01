@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T08:49:56.138489",
-  "actualizado_vzla": "2026-03-01 04:49:56 -04",
+  "timestamp_utc": "2026-03-01T09:22:04.673293",
+  "actualizado_vzla": "2026-03-01 05:22:04 -04",
   "compra_segundo": {
-    "price": 609.59,
-    "name": "JoelL"
+    "price": 609.699,
+    "name": "IA-Pay"
   },
   "venta_maxima": {
     "price": 603.95,
     "name": "ABTRAD"
   },
-  "promedio": 606.77,
+  "promedio": 606.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
