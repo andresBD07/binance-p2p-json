@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T22:47:30.840759",
-  "actualizado_vzla": "2026-03-01 18:47:30 -04",
+  "timestamp_utc": "2026-03-01T23:11:23.991357",
+  "actualizado_vzla": "2026-03-01 19:11:24 -04",
   "compra_segundo": {
-    "price": 608.8,
-    "name": "DAKLANID"
+    "price": 608.1,
+    "name": "Jesusfreitesm"
   },
   "venta_maxima": {
     "price": 608.0,
     "name": "QueRapido"
   },
-  "promedio": 608.4,
+  "promedio": 608.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
