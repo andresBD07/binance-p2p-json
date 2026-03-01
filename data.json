@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T07:10:00.834720",
-  "actualizado_vzla": "2026-03-01 03:10:00 -04",
+  "timestamp_utc": "2026-03-01T07:47:56.488326",
+  "actualizado_vzla": "2026-03-01 03:47:56 -04",
   "compra_segundo": {
-    "price": 609.49,
-    "name": "MarDiodoros"
+    "price": 609.3,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
     "price": 603.95,
     "name": "ABTRAD"
   },
-  "promedio": 606.72,
+  "promedio": 606.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
