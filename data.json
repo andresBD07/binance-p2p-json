@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T14:56:14.525622",
-  "actualizado_vzla": "2026-03-01 10:56:14 -04",
+  "timestamp_utc": "2026-03-01T15:32:35.190891",
+  "actualizado_vzla": "2026-03-01 11:32:35 -04",
   "compra_segundo": {
-    "price": 607.6,
-    "name": "Cambioseguro15"
+    "price": 607.7,
+    "name": "ELGOCHOXCHANGE31"
   },
   "venta_maxima": {
     "price": 607.0,
-    "name": "StrattonOakmontinc"
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 607.3,
+  "promedio": 607.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
