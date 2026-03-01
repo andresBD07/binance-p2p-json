@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T19:58:06.675766",
-  "actualizado_vzla": "2026-03-01 15:58:06 -04",
+  "timestamp_utc": "2026-03-01T20:37:38.267632",
+  "actualizado_vzla": "2026-03-01 16:37:38 -04",
   "compra_segundo": {
-    "price": 607.999,
-    "name": "AD_Finanzas"
+    "price": 608.4,
+    "name": "giiojoc"
   },
   "venta_maxima": {
     "price": 607.5,
     "name": "StrattonOakmontinc"
   },
-  "promedio": 607.75,
+  "promedio": 607.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
