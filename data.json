@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T11:12:19.317738",
-  "actualizado_vzla": "2026-03-01 07:12:19 -04",
+  "timestamp_utc": "2026-03-01T11:35:04.577555",
+  "actualizado_vzla": "2026-03-01 07:35:04 -04",
   "compra_segundo": {
-    "price": 608.499,
+    "price": 608.789,
     "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 699.7,
-    "name": "elchambeador007"
+    "price": 660.31,
+    "name": "NimaX-64"
   },
-  "promedio": 654.1,
+  "promedio": 634.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
