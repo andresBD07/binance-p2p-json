@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-03-01T19:44:19.136893",
-  "actualizado_vzla": "2026-03-01 15:44:19 -04",
+  "timestamp_utc": "2026-03-01T19:58:06.675766",
+  "actualizado_vzla": "2026-03-01 15:58:06 -04",
   "compra_segundo": {
     "price": 607.999,
-    "name": "Grand-Exchange"
+    "name": "AD_Finanzas"
   },
   "venta_maxima": {
     "price": 607.5,
