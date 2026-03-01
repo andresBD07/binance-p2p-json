@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T19:23:47.217614",
-  "actualizado_vzla": "2026-03-01 15:23:47 -04",
+  "timestamp_utc": "2026-03-01T19:44:19.136893",
+  "actualizado_vzla": "2026-03-01 15:44:19 -04",
   "compra_segundo": {
-    "price": 607.596,
-    "name": "NimaX-64"
+    "price": 607.999,
+    "name": "Grand-Exchange"
   },
   "venta_maxima": {
-    "price": 607.4,
-    "name": "GREEN78"
+    "price": 607.5,
+    "name": "StrattonOakmontinc"
   },
-  "promedio": 607.5,
+  "promedio": 607.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
