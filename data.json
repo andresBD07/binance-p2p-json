@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T05:31:19.571903",
-  "actualizado_vzla": "2026-03-01 01:31:19 -04",
+  "timestamp_utc": "2026-03-01T06:25:05.599145",
+  "actualizado_vzla": "2026-03-01 02:25:05 -04",
   "compra_segundo": {
-    "price": 609.59,
-    "name": "JoelL"
+    "price": 609.68,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 605.0,
-    "name": "RedBullV12"
+    "price": 603.95,
+    "name": "ABTRAD"
   },
-  "promedio": 607.3,
+  "promedio": 606.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
