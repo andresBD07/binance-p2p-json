@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T10:07:41.656287",
-  "actualizado_vzla": "2026-03-02 06:07:41 -04",
+  "timestamp_utc": "2026-03-02T11:02:43.565413",
+  "actualizado_vzla": "2026-03-02 07:02:43 -04",
   "compra_segundo": {
-    "price": 613.9,
-    "name": "LGD04"
+    "price": 612.0,
+    "name": "zama2004"
   },
   "venta_maxima": {
     "price": 607.5,
     "name": "TOPlevelS"
   },
-  "promedio": 610.7,
+  "promedio": 609.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
