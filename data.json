@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T14:11:50.336052",
-  "actualizado_vzla": "2026-03-02 10:11:50 -04",
+  "timestamp_utc": "2026-03-02T15:02:28.597220",
+  "actualizado_vzla": "2026-03-02 11:02:28 -04",
   "compra_segundo": {
-    "price": 608.99,
-    "name": "CAMBIOS_VDMK"
+    "price": 609.7,
+    "name": "Franquicia777"
   },
   "venta_maxima": {
-    "price": 610.0,
-    "name": "StrattonOakmontinc"
+    "price": 609.6,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 609.5,
+  "promedio": 609.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
