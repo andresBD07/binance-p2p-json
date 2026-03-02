@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T19:56:48.283156",
-  "actualizado_vzla": "2026-03-02 15:56:48 -04",
+  "timestamp_utc": "2026-03-02T20:48:00.490175",
+  "actualizado_vzla": "2026-03-02 16:48:00 -04",
   "compra_segundo": {
-    "price": 616.299,
-    "name": "tuty"
+    "price": 621.998,
+    "name": "AllDayTrade"
   },
   "venta_maxima": {
-    "price": 619.8,
-    "name": "camaro84"
+    "price": 624.0,
+    "name": "-Saitama-"
   },
-  "promedio": 618.05,
+  "promedio": 623.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
