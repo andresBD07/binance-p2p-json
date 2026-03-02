@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T21:56:20.362894",
-  "actualizado_vzla": "2026-03-02 17:56:20 -04",
+  "timestamp_utc": "2026-03-02T22:37:13.329169",
+  "actualizado_vzla": "2026-03-02 18:37:13 -04",
   "compra_segundo": {
-    "price": 618.1,
-    "name": "KEYLOR_CRIPTO_Vzla"
+    "price": 618.7,
+    "name": "Crypto_Flight"
   },
   "venta_maxima": {
-    "price": 620.56,
+    "price": 619.55,
     "name": "cazing2230-2"
   },
-  "promedio": 619.33,
+  "promedio": 619.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
