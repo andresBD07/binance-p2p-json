@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T15:02:28.597220",
-  "actualizado_vzla": "2026-03-02 11:02:28 -04",
+  "timestamp_utc": "2026-03-02T15:53:34.752998",
+  "actualizado_vzla": "2026-03-02 11:53:34 -04",
   "compra_segundo": {
-    "price": 609.7,
-    "name": "Franquicia777"
+    "price": 615.0,
+    "name": "AriM28"
   },
   "venta_maxima": {
-    "price": 609.6,
-    "name": "HAWKEYE-1"
+    "price": 616.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 609.65,
+  "promedio": 615.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
