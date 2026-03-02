@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T22:37:13.329169",
-  "actualizado_vzla": "2026-03-02 18:37:13 -04",
+  "timestamp_utc": "2026-03-02T22:58:37.830452",
+  "actualizado_vzla": "2026-03-02 18:58:37 -04",
   "compra_segundo": {
-    "price": 618.7,
-    "name": "Crypto_Flight"
+    "price": 618.39,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 619.55,
-    "name": "cazing2230-2"
+    "price": 621.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 619.12,
+  "promedio": 619.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
