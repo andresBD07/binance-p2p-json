@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T17:46:56.374732",
-  "actualizado_vzla": "2026-03-02 13:46:56 -04",
+  "timestamp_utc": "2026-03-02T18:27:54.819720",
+  "actualizado_vzla": "2026-03-02 14:27:54 -04",
   "compra_segundo": {
-    "price": 617.0,
-    "name": "REFVEP"
+    "price": 613.4,
+    "name": "CambiosDeLaVega"
   },
   "venta_maxima": {
-    "price": 618.5,
+    "price": 613.2,
     "name": "USDTpulso"
   },
-  "promedio": 617.75,
+  "promedio": 613.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
