@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T11:39:50.050939",
-  "actualizado_vzla": "2026-03-02 07:39:50 -04",
+  "timestamp_utc": "2026-03-02T12:00:57.835722",
+  "actualizado_vzla": "2026-03-02 08:00:57 -04",
   "compra_segundo": {
-    "price": 611.0,
-    "name": "FlashCambios1"
+    "price": 610.2,
+    "name": "kitty1230"
   },
   "venta_maxima": {
-    "price": 608.0,
-    "name": "Rous_Only"
+    "price": 609.0,
+    "name": "VERTUOK"
   },
-  "promedio": 609.5,
+  "promedio": 609.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
