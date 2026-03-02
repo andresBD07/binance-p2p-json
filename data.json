@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T18:27:54.819720",
-  "actualizado_vzla": "2026-03-02 14:27:54 -04",
+  "timestamp_utc": "2026-03-02T19:22:58.299826",
+  "actualizado_vzla": "2026-03-02 15:22:58 -04",
   "compra_segundo": {
-    "price": 613.4,
-    "name": "CambiosDeLaVega"
+    "price": 612.3,
+    "name": "inversionesbyrlimita"
   },
   "venta_maxima": {
-    "price": 613.2,
-    "name": "USDTpulso"
+    "price": 615.0,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 613.3,
+  "promedio": 613.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
