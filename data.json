@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T15:53:34.752998",
-  "actualizado_vzla": "2026-03-02 11:53:34 -04",
+  "timestamp_utc": "2026-03-02T16:53:32.292609",
+  "actualizado_vzla": "2026-03-02 12:53:32 -04",
   "compra_segundo": {
-    "price": 615.0,
-    "name": "AriM28"
+    "price": 616.27,
+    "name": "PonqueMercado"
   },
   "venta_maxima": {
-    "price": 616.5,
-    "name": "被放逐的狐狸"
+    "price": 617.6,
+    "name": "USDTpulso"
   },
-  "promedio": 615.75,
+  "promedio": 616.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
