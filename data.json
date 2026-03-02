@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T05:42:26.061685",
-  "actualizado_vzla": "2026-03-02 01:42:26 -04",
+  "timestamp_utc": "2026-03-02T06:38:42.749606",
+  "actualizado_vzla": "2026-03-02 02:38:42 -04",
   "compra_segundo": {
-    "price": 614.9,
-    "name": "ARKADB"
+    "price": 615.0,
+    "name": "zucorp"
   },
   "venta_maxima": {
     "price": 607.5,
     "name": "TOPlevelS"
   },
-  "promedio": 611.2,
+  "promedio": 611.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
