@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T11:02:43.565413",
-  "actualizado_vzla": "2026-03-02 07:02:43 -04",
+  "timestamp_utc": "2026-03-02T11:39:50.050939",
+  "actualizado_vzla": "2026-03-02 07:39:50 -04",
   "compra_segundo": {
-    "price": 612.0,
-    "name": "zama2004"
+    "price": 611.0,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 607.5,
-    "name": "TOPlevelS"
+    "price": 608.0,
+    "name": "Rous_Only"
   },
-  "promedio": 609.75,
+  "promedio": 609.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
