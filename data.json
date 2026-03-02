@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T23:37:01.825679",
-  "actualizado_vzla": "2026-03-02 19:37:01 -04",
+  "timestamp_utc": "2026-03-02T23:59:39.508871",
+  "actualizado_vzla": "2026-03-02 19:59:39 -04",
   "compra_segundo": {
-    "price": 618.5,
-    "name": "JP-Services"
+    "price": 618.8,
+    "name": "Emm-FAST"
   },
   "venta_maxima": {
-    "price": 619.1,
-    "name": "GOMEZTUSOLUCION"
+    "price": 619.0,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 618.8,
+  "promedio": 618.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
