@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T21:22:00.163029",
-  "actualizado_vzla": "2026-03-02 17:22:00 -04",
+  "timestamp_utc": "2026-03-02T21:56:20.362894",
+  "actualizado_vzla": "2026-03-02 17:56:20 -04",
   "compra_segundo": {
-    "price": 617.989,
-    "name": "criptorapiseguro1"
+    "price": 618.1,
+    "name": "KEYLOR_CRIPTO_Vzla"
   },
   "venta_maxima": {
-    "price": 619.5,
-    "name": "-Godgiven-"
+    "price": 620.56,
+    "name": "cazing2230-2"
   },
-  "promedio": 618.74,
+  "promedio": 619.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
