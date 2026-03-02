@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-01T23:57:36.542606",
-  "actualizado_vzla": "2026-03-01 19:57:36 -04",
+  "timestamp_utc": "2026-03-02T02:50:07.181335",
+  "actualizado_vzla": "2026-03-01 22:50:07 -04",
   "compra_segundo": {
-    "price": 607.999,
-    "name": "Cripto-Solutions"
+    "price": 610.7,
+    "name": "TheSurgueon_DTP"
   },
   "venta_maxima": {
-    "price": 608.0,
-    "name": "GREEN78"
+    "price": 609.0,
+    "name": "StrattonOakmontinc"
   },
-  "promedio": 608.0,
+  "promedio": 609.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
