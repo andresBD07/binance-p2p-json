@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T12:00:57.835722",
-  "actualizado_vzla": "2026-03-02 08:00:57 -04",
+  "timestamp_utc": "2026-03-02T13:22:08.808454",
+  "actualizado_vzla": "2026-03-02 09:22:08 -04",
   "compra_segundo": {
-    "price": 610.2,
-    "name": "kitty1230"
+    "price": 607.0,
+    "name": "Trader_QueenCripto"
   },
   "venta_maxima": {
-    "price": 609.0,
-    "name": "VERTUOK"
+    "price": 607.001,
+    "name": "The_Lider"
   },
-  "promedio": 609.6,
+  "promedio": 607.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
