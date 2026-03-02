@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T13:22:08.808454",
-  "actualizado_vzla": "2026-03-02 09:22:08 -04",
+  "timestamp_utc": "2026-03-02T14:11:50.336052",
+  "actualizado_vzla": "2026-03-02 10:11:50 -04",
   "compra_segundo": {
-    "price": 607.0,
-    "name": "Trader_QueenCripto"
+    "price": 608.99,
+    "name": "CAMBIOS_VDMK"
   },
   "venta_maxima": {
-    "price": 607.001,
-    "name": "The_Lider"
+    "price": 610.0,
+    "name": "StrattonOakmontinc"
   },
-  "promedio": 607.0,
+  "promedio": 609.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
