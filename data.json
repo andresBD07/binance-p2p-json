@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T20:48:00.490175",
-  "actualizado_vzla": "2026-03-02 16:48:00 -04",
+  "timestamp_utc": "2026-03-02T21:22:00.163029",
+  "actualizado_vzla": "2026-03-02 17:22:00 -04",
   "compra_segundo": {
-    "price": 621.998,
-    "name": "AllDayTrade"
+    "price": 617.989,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 624.0,
-    "name": "-Saitama-"
+    "price": 619.5,
+    "name": "-Godgiven-"
   },
-  "promedio": 623.0,
+  "promedio": 618.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
