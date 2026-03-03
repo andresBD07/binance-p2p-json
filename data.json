@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T15:07:04.363432",
-  "actualizado_vzla": "2026-03-03 11:07:04 -04",
+  "timestamp_utc": "2026-03-03T16:00:54.274484",
+  "actualizado_vzla": "2026-03-03 12:00:54 -04",
   "compra_segundo": {
-    "price": 616.4,
-    "name": "Falcon_Trade-P2P"
+    "price": 612.359,
+    "name": "JmP2PTrader"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "Vitatech"
+    "price": 613.5,
+    "name": "LinkLogic"
   },
-  "promedio": 617.2,
+  "promedio": 612.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
