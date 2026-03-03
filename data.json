@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T17:57:40.133963",
-  "actualizado_vzla": "2026-03-03 13:57:40 -04",
+  "timestamp_utc": "2026-03-03T19:05:20.962527",
+  "actualizado_vzla": "2026-03-03 15:05:20 -04",
   "compra_segundo": {
-    "price": 617.4,
-    "name": "Cambiosunicosrey"
+    "price": 618.9,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 618.7,
-    "name": "-Godgiven-"
+    "price": 622.501,
+    "name": "Angel2209"
   },
-  "promedio": 618.05,
+  "promedio": 620.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
