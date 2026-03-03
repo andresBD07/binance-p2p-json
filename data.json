@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T21:43:02.738848",
-  "actualizado_vzla": "2026-03-03 17:43:02 -04",
+  "timestamp_utc": "2026-03-03T22:02:23.016495",
+  "actualizado_vzla": "2026-03-03 18:02:23 -04",
   "compra_segundo": {
-    "price": 627.78,
-    "name": "FC-Ultimate"
+    "price": 629.25,
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
-    "price": 629.1,
+    "price": 630.5,
     "name": "Biyt"
   },
-  "promedio": 628.44,
+  "promedio": 629.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
