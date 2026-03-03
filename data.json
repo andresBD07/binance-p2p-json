@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T08:58:26.680150",
-  "actualizado_vzla": "2026-03-03 04:58:26 -04",
+  "timestamp_utc": "2026-03-03T09:56:52.828257",
+  "actualizado_vzla": "2026-03-03 05:56:52 -04",
   "compra_segundo": {
-    "price": 622.693,
-    "name": "instantremitly "
+    "price": 620.9,
+    "name": "Digitalvimarket"
   },
   "venta_maxima": {
-    "price": 617.0,
-    "name": "SUPERMONEDA"
+    "price": 615.0,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 619.85,
+  "promedio": 617.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
