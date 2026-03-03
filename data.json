@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-02T23:59:39.508871",
-  "actualizado_vzla": "2026-03-02 19:59:39 -04",
+  "timestamp_utc": "2026-03-03T02:54:40.953210",
+  "actualizado_vzla": "2026-03-02 22:54:40 -04",
   "compra_segundo": {
-    "price": 618.8,
-    "name": "Emm-FAST"
+    "price": 619.899,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 619.0,
-    "name": "Don-Cangrejo"
+    "price": 618.0,
+    "name": "-Saitama-"
   },
-  "promedio": 618.9,
+  "promedio": 618.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
