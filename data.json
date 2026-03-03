@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T02:54:40.953210",
-  "actualizado_vzla": "2026-03-02 22:54:40 -04",
+  "timestamp_utc": "2026-03-03T04:51:02.052092",
+  "actualizado_vzla": "2026-03-03 00:51:02 -04",
   "compra_segundo": {
-    "price": 619.899,
-    "name": "Marquez25"
+    "price": 620.8,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "-Saitama-"
+    "price": 617.21,
+    "name": "Reficambios"
   },
-  "promedio": 618.95,
+  "promedio": 619.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
