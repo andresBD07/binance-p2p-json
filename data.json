@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T14:09:25.914098",
-  "actualizado_vzla": "2026-03-03 10:09:25 -04",
+  "timestamp_utc": "2026-03-03T15:07:04.363432",
+  "actualizado_vzla": "2026-03-03 11:07:04 -04",
   "compra_segundo": {
-    "price": 615.5,
-    "name": "CambiosSilva"
+    "price": 616.4,
+    "name": "Falcon_Trade-P2P"
   },
   "venta_maxima": {
-    "price": 615.8,
+    "price": 618.0,
     "name": "Vitatech"
   },
-  "promedio": 615.65,
+  "promedio": 617.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
