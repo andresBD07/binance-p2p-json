@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T20:23:02.803180",
-  "actualizado_vzla": "2026-03-03 16:23:02 -04",
+  "timestamp_utc": "2026-03-03T20:57:14.414634",
+  "actualizado_vzla": "2026-03-03 16:57:14 -04",
   "compra_segundo": {
-    "price": 624.6,
-    "name": "Fast-CambiosSeguro-"
+    "price": 626.0,
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 625.8,
+    "price": 626.85,
     "name": "Rapidflorio84"
   },
-  "promedio": 625.2,
+  "promedio": 626.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
