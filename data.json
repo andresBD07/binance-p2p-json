@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T20:57:14.414634",
-  "actualizado_vzla": "2026-03-03 16:57:14 -04",
+  "timestamp_utc": "2026-03-03T21:43:02.738848",
+  "actualizado_vzla": "2026-03-03 17:43:02 -04",
   "compra_segundo": {
-    "price": 626.0,
-    "name": "Ricardo"
+    "price": 627.78,
+    "name": "FC-Ultimate"
   },
   "venta_maxima": {
-    "price": 626.85,
-    "name": "Rapidflorio84"
+    "price": 629.1,
+    "name": "Biyt"
   },
-  "promedio": 626.42,
+  "promedio": 628.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
