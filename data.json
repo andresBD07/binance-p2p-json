@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T16:00:54.274484",
-  "actualizado_vzla": "2026-03-03 12:00:54 -04",
+  "timestamp_utc": "2026-03-03T17:02:33.383135",
+  "actualizado_vzla": "2026-03-03 13:02:33 -04",
   "compra_segundo": {
-    "price": 612.359,
-    "name": "JmP2PTrader"
+    "price": 616.824,
+    "name": "CambiosFlassh"
   },
   "venta_maxima": {
-    "price": 613.5,
-    "name": "LinkLogic"
+    "price": 620.2,
+    "name": "CamburPlus"
   },
-  "promedio": 612.93,
+  "promedio": 618.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
