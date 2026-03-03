@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T04:51:02.052092",
-  "actualizado_vzla": "2026-03-03 00:51:02 -04",
+  "timestamp_utc": "2026-03-03T05:44:57.295028",
+  "actualizado_vzla": "2026-03-03 01:44:57 -04",
   "compra_segundo": {
-    "price": 620.8,
-    "name": "GaAle19"
+    "price": 621.4,
+    "name": "P2Prafafor"
   },
   "venta_maxima": {
-    "price": 617.21,
-    "name": "Reficambios"
+    "price": 617.0,
+    "name": "SUPERMONEDA"
   },
-  "promedio": 619.0,
+  "promedio": 619.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
