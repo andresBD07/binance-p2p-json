@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T09:56:52.828257",
-  "actualizado_vzla": "2026-03-03 05:56:52 -04",
+  "timestamp_utc": "2026-03-03T10:53:40.782699",
+  "actualizado_vzla": "2026-03-03 06:53:40 -04",
   "compra_segundo": {
-    "price": 620.9,
-    "name": "Digitalvimarket"
+    "price": 619.99,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
-    "price": 615.0,
-    "name": "Daikokuten-Finance"
+    "price": 617.0,
+    "name": "zama2004"
   },
-  "promedio": 617.95,
+  "promedio": 618.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
