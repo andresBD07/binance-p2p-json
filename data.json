@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T23:13:03.837174",
-  "actualizado_vzla": "2026-03-03 19:13:03 -04",
+  "timestamp_utc": "2026-03-03T23:44:28.403796",
+  "actualizado_vzla": "2026-03-03 19:44:28 -04",
   "compra_segundo": {
-    "price": 630.0,
-    "name": "rapid/express"
+    "price": 630.55,
+    "name": "_Metatron_"
   },
   "venta_maxima": {
-    "price": 631.601,
-    "name": "Safe_Trade_Pagos"
+    "price": 632.0,
+    "name": "Biyt"
   },
-  "promedio": 630.8,
+  "promedio": 631.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
