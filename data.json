@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T22:46:33.264773",
-  "actualizado_vzla": "2026-03-03 18:46:33 -04",
+  "timestamp_utc": "2026-03-03T23:13:03.837174",
+  "actualizado_vzla": "2026-03-03 19:13:03 -04",
   "compra_segundo": {
-    "price": 630.3,
-    "name": "Alerapi"
+    "price": 630.0,
+    "name": "rapid/express"
   },
   "venta_maxima": {
-    "price": 631.5,
-    "name": "Biyt"
+    "price": 631.601,
+    "name": "Safe_Trade_Pagos"
   },
-  "promedio": 630.9,
+  "promedio": 630.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
