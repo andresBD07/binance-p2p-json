@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T10:53:40.782699",
-  "actualizado_vzla": "2026-03-03 06:53:40 -04",
+  "timestamp_utc": "2026-03-03T11:35:21.413737",
+  "actualizado_vzla": "2026-03-03 07:35:21 -04",
   "compra_segundo": {
-    "price": 619.99,
-    "name": "K69_Trades"
+    "price": 619.29,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
-    "price": 617.0,
-    "name": "zama2004"
+    "price": 616.052,
+    "name": "LolaCambios"
   },
-  "promedio": 618.5,
+  "promedio": 617.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
