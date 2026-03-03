@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T05:44:57.295028",
-  "actualizado_vzla": "2026-03-03 01:44:57 -04",
+  "timestamp_utc": "2026-03-03T06:33:13.146012",
+  "actualizado_vzla": "2026-03-03 02:33:13 -04",
   "compra_segundo": {
-    "price": 621.4,
-    "name": "P2Prafafor"
+    "price": 622.6,
+    "name": "Listoexpress"
   },
   "venta_maxima": {
     "price": 617.0,
     "name": "SUPERMONEDA"
   },
-  "promedio": 619.2,
+  "promedio": 619.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
