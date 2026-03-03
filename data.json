@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T19:49:10.262268",
-  "actualizado_vzla": "2026-03-03 15:49:10 -04",
+  "timestamp_utc": "2026-03-03T20:23:02.803180",
+  "actualizado_vzla": "2026-03-03 16:23:02 -04",
   "compra_segundo": {
-    "price": 623.799,
-    "name": "FRANFLASH8"
+    "price": 624.6,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "C_Pagos"
+    "price": 625.8,
+    "name": "Rapidflorio84"
   },
-  "promedio": 624.4,
+  "promedio": 625.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
