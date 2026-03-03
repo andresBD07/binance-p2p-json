@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-03T19:05:20.962527",
-  "actualizado_vzla": "2026-03-03 15:05:20 -04",
+  "timestamp_utc": "2026-03-03T19:49:10.262268",
+  "actualizado_vzla": "2026-03-03 15:49:10 -04",
   "compra_segundo": {
-    "price": 618.9,
-    "name": "TUCRIPseguro"
+    "price": 623.799,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 622.501,
-    "name": "Angel2209"
+    "price": 625.0,
+    "name": "C_Pagos"
   },
-  "promedio": 620.7,
+  "promedio": 624.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
