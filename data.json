@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T06:07:46.593525",
-  "actualizado_vzla": "2026-03-04 02:07:46 -04",
+  "timestamp_utc": "2026-03-04T07:06:15.645617",
+  "actualizado_vzla": "2026-03-04 03:06:15 -04",
   "compra_segundo": {
     "price": 634.0,
     "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 628.5,
-    "name": "mundo-cripto"
+    "price": 628.0,
+    "name": "King2111"
   },
-  "promedio": 631.25,
+  "promedio": 631.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
