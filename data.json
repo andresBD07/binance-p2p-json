@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T22:32:43.868667",
-  "actualizado_vzla": "2026-03-04 18:32:43 -04",
+  "timestamp_utc": "2026-03-04T23:00:46.407977",
+  "actualizado_vzla": "2026-03-04 19:00:46 -04",
   "compra_segundo": {
-    "price": 647.897,
-    "name": "R1skTaker"
+    "price": 633.555,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 648.0,
-    "name": "Gustavo129"
+    "price": 636.05,
+    "name": "GREEN78"
   },
-  "promedio": 647.95,
+  "promedio": 634.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
