@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T10:55:13.746680",
-  "actualizado_vzla": "2026-03-04 06:55:13 -04",
+  "timestamp_utc": "2026-03-04T11:37:25.183865",
+  "actualizado_vzla": "2026-03-04 07:37:25 -04",
   "compra_segundo": {
-    "price": 631.288,
-    "name": "David-0199"
+    "price": 629.375,
+    "name": "Rikomercios"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "Daikokuten-Finance"
+    "price": 628.5,
+    "name": "VamosPArriba_"
   },
-  "promedio": 629.14,
+  "promedio": 628.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
