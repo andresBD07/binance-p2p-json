@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T19:57:02.453319",
-  "actualizado_vzla": "2026-03-04 15:57:02 -04",
+  "timestamp_utc": "2026-03-04T20:41:31.317268",
+  "actualizado_vzla": "2026-03-04 16:41:31 -04",
   "compra_segundo": {
-    "price": 658.999,
-    "name": "Ärthas of lordaeron"
+    "price": 652.9,
+    "name": "MGqueen07"
   },
   "venta_maxima": {
-    "price": 663.0,
-    "name": "Angel2209"
+    "price": 657.0,
+    "name": "TheOchoa"
   },
-  "promedio": 661.0,
+  "promedio": 654.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
