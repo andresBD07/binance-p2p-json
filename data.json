@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T18:26:55.469557",
-  "actualizado_vzla": "2026-03-04 14:26:55 -04",
+  "timestamp_utc": "2026-03-04T19:23:05.310717",
+  "actualizado_vzla": "2026-03-04 15:23:05 -04",
   "compra_segundo": {
-    "price": 643.89,
-    "name": "Ed Money"
+    "price": 657.0,
+    "name": "TopPlayer"
   },
   "venta_maxima": {
-    "price": 657.0,
+    "price": 662.501,
     "name": "cazing2230-2"
   },
-  "promedio": 650.44,
+  "promedio": 659.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
