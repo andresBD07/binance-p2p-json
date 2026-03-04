@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T13:19:05.760741",
-  "actualizado_vzla": "2026-03-04 09:19:05 -04",
+  "timestamp_utc": "2026-03-04T14:07:45.088335",
+  "actualizado_vzla": "2026-03-04 10:07:45 -04",
   "compra_segundo": {
-    "price": 629.3,
-    "name": "OzzieMendoza"
+    "price": 626.99,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 629.5,
-    "name": "Biyt"
+    "price": 633.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 629.4,
+  "promedio": 630.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
