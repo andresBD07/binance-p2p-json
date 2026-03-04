@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T20:41:31.317268",
-  "actualizado_vzla": "2026-03-04 16:41:31 -04",
+  "timestamp_utc": "2026-03-04T21:17:27.014793",
+  "actualizado_vzla": "2026-03-04 17:17:27 -04",
   "compra_segundo": {
-    "price": 652.9,
-    "name": "MGqueen07"
+    "price": 644.8,
+    "name": "LechugaExchange"
   },
   "venta_maxima": {
     "price": 657.0,
-    "name": "TheOchoa"
+    "name": "-Saitama-"
   },
-  "promedio": 654.95,
+  "promedio": 650.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
