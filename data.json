@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T14:57:52.665984",
-  "actualizado_vzla": "2026-03-04 10:57:52 -04",
+  "timestamp_utc": "2026-03-04T15:54:16.894246",
+  "actualizado_vzla": "2026-03-04 11:54:16 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "TOROgaboxCoin"
+    "price": 636.4,
+    "name": "Ärthas of lordaeron"
   },
   "venta_maxima": {
-    "price": 637.0,
-    "name": "-Zeratul-"
+    "price": 643.501,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 635.0,
+  "promedio": 639.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
