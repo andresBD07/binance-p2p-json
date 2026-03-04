@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T17:40:22.128012",
-  "actualizado_vzla": "2026-03-04 13:40:22 -04",
+  "timestamp_utc": "2026-03-04T18:26:55.469557",
+  "actualizado_vzla": "2026-03-04 14:26:55 -04",
   "compra_segundo": {
-    "price": 649.999,
-    "name": "Riosakki2021"
+    "price": 643.89,
+    "name": "Ed Money"
   },
   "venta_maxima": {
-    "price": 653.0,
-    "name": "Godisgift"
+    "price": 657.0,
+    "name": "cazing2230-2"
   },
-  "promedio": 651.5,
+  "promedio": 650.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
