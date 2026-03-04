@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T10:04:02.268382",
-  "actualizado_vzla": "2026-03-04 06:04:02 -04",
+  "timestamp_utc": "2026-03-04T10:55:13.746680",
+  "actualizado_vzla": "2026-03-04 06:55:13 -04",
   "compra_segundo": {
-    "price": 632.699,
-    "name": "CriptoXpresGM"
+    "price": 631.288,
+    "name": "David-0199"
   },
   "venta_maxima": {
-    "price": 625.7,
-    "name": "Redmagic17"
+    "price": 627.0,
+    "name": "Daikokuten-Finance"
   },
-  "promedio": 629.2,
+  "promedio": 629.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
