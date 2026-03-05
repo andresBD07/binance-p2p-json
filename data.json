@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T08:03:02.730930",
-  "actualizado_vzla": "2026-03-05 04:03:02 -04",
+  "timestamp_utc": "2026-03-05T08:58:49.190203",
+  "actualizado_vzla": "2026-03-05 04:58:49 -04",
   "compra_segundo": {
-    "price": 643.0,
-    "name": "ComercioJRG"
+    "price": 641.4,
+    "name": "JorleGP"
   },
   "venta_maxima": {
-    "price": 634.09,
-    "name": "FlashPayy"
+    "price": 633.05,
+    "name": "Edixon0101"
   },
-  "promedio": 638.55,
+  "promedio": 637.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
