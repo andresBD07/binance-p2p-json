@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T05:37:03.824873",
-  "actualizado_vzla": "2026-03-05 01:37:03 -04",
+  "timestamp_utc": "2026-03-05T06:30:57.923694",
+  "actualizado_vzla": "2026-03-05 02:30:57 -04",
   "compra_segundo": {
-    "price": 641.94,
-    "name": "--FLASH--"
+    "price": 642.499,
+    "name": "PROFITMENTE-24hrs"
   },
   "venta_maxima": {
     "price": 634.7,
     "name": "BerracoT"
   },
-  "promedio": 638.32,
+  "promedio": 638.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
