@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-04T23:40:41.699837",
-  "actualizado_vzla": "2026-03-04 19:40:41 -04",
+  "timestamp_utc": "2026-03-05T00:00:32.097696",
+  "actualizado_vzla": "2026-03-04 20:00:32 -04",
   "compra_segundo": {
-    "price": 635.0,
-    "name": "Mahc012712"
+    "price": 638.92,
+    "name": "Bip2p"
   },
   "venta_maxima": {
-    "price": 635.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 640.0,
+    "name": "Gustavo129"
   },
-  "promedio": 635.25,
+  "promedio": 639.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
