@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T12:02:34.113535",
-  "actualizado_vzla": "2026-03-05 08:02:34 -04",
+  "timestamp_utc": "2026-03-05T13:34:29.205280",
+  "actualizado_vzla": "2026-03-05 09:34:29 -04",
   "compra_segundo": {
-    "price": 638.0,
-    "name": "Crypto_Oslian"
+    "price": 631.84,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 637.7,
-    "name": "DTFM-RD"
+    "price": 635.0,
+    "name": "Corleone100"
   },
-  "promedio": 637.85,
+  "promedio": 633.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
