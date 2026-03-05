@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T06:30:57.923694",
-  "actualizado_vzla": "2026-03-05 02:30:57 -04",
+  "timestamp_utc": "2026-03-05T07:27:57.293089",
+  "actualizado_vzla": "2026-03-05 03:27:57 -04",
   "compra_segundo": {
-    "price": 642.499,
-    "name": "PROFITMENTE-24hrs"
+    "price": 643.0,
+    "name": "Snayderk"
   },
   "venta_maxima": {
-    "price": 634.7,
-    "name": "BerracoT"
+    "price": 634.09,
+    "name": "FlashPayy"
   },
-  "promedio": 638.6,
+  "promedio": 638.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
