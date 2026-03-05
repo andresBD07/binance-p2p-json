@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T21:24:48.161667",
-  "actualizado_vzla": "2026-03-05 17:24:48 -04",
+  "timestamp_utc": "2026-03-05T21:58:20.490523",
+  "actualizado_vzla": "2026-03-05 17:58:20 -04",
   "compra_segundo": {
-    "price": 635.65,
-    "name": "nicolasvm"
+    "price": 633.9,
+    "name": "P2P CASTILLO"
   },
   "venta_maxima": {
-    "price": 637.0,
+    "price": 639.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 636.33,
+  "promedio": 636.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
