@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T09:57:58.583746",
-  "actualizado_vzla": "2026-03-05 05:57:58 -04",
+  "timestamp_utc": "2026-03-05T10:54:57.872135",
+  "actualizado_vzla": "2026-03-05 06:54:57 -04",
   "compra_segundo": {
-    "price": 640.0,
-    "name": "Carlos"
+    "price": 638.9,
+    "name": "User-95450"
   },
   "venta_maxima": {
-    "price": 633.6,
-    "name": "Exchange Nazami "
+    "price": 635.005,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 636.8,
+  "promedio": 636.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
