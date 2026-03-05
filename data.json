@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T19:57:50.983195",
-  "actualizado_vzla": "2026-03-05 15:57:50 -04",
+  "timestamp_utc": "2026-03-05T20:49:00.128073",
+  "actualizado_vzla": "2026-03-05 16:49:00 -04",
   "compra_segundo": {
-    "price": 637.9,
-    "name": "FastCrypto97"
+    "price": 635.3,
+    "name": "Alerapi"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "angelchacon"
+    "price": 642.613,
+    "name": "FERLUF-TRADER"
   },
-  "promedio": 640.45,
+  "promedio": 638.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
