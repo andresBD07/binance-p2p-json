@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T15:28:45.943444",
-  "actualizado_vzla": "2026-03-05 11:28:45 -04",
+  "timestamp_utc": "2026-03-05T17:46:49.093092",
+  "actualizado_vzla": "2026-03-05 13:46:49 -04",
   "compra_segundo": {
-    "price": 636.24,
-    "name": "Forex Exchange Global "
+    "price": 637.999,
+    "name": "GTGTVZLA"
   },
   "venta_maxima": {
     "price": 644.0,
-    "name": "Blank_Mind"
+    "name": "Biyt"
   },
-  "promedio": 640.12,
+  "promedio": 641.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
