@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T14:27:03.275981",
-  "actualizado_vzla": "2026-03-05 10:27:03 -04",
+  "timestamp_utc": "2026-03-05T15:28:45.943444",
+  "actualizado_vzla": "2026-03-05 11:28:45 -04",
   "compra_segundo": {
-    "price": 632.2,
-    "name": "lab1721"
+    "price": 636.24,
+    "name": "Forex Exchange Global "
   },
   "venta_maxima": {
-    "price": 646.0,
-    "name": "Pipotrade"
+    "price": 644.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 639.1,
+  "promedio": 640.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
