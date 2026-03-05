@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T04:41:31.489703",
-  "actualizado_vzla": "2026-03-05 00:41:31 -04",
+  "timestamp_utc": "2026-03-05T05:37:03.824873",
+  "actualizado_vzla": "2026-03-05 01:37:03 -04",
   "compra_segundo": {
-    "price": 641.95,
-    "name": "yessicatrading"
+    "price": 641.94,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
     "price": 634.7,
-    "name": "Exchange Nazami "
+    "name": "BerracoT"
   },
-  "promedio": 638.33,
+  "promedio": 638.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
