@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T02:50:10.208051",
-  "actualizado_vzla": "2026-03-04 22:50:10 -04",
+  "timestamp_utc": "2026-03-05T04:41:31.489703",
+  "actualizado_vzla": "2026-03-05 00:41:31 -04",
   "compra_segundo": {
-    "price": 639.999,
-    "name": "Dantecripto"
+    "price": 641.95,
+    "name": "yessicatrading"
   },
   "venta_maxima": {
-    "price": 638.55,
-    "name": "梅CityCambio爱"
+    "price": 634.7,
+    "name": "Exchange Nazami "
   },
-  "promedio": 639.27,
+  "promedio": 638.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
