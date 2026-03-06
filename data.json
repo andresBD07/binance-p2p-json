@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T07:24:55.139326",
-  "actualizado_vzla": "2026-03-06 03:24:55 -04",
+  "timestamp_utc": "2026-03-06T07:59:16.247091",
+  "actualizado_vzla": "2026-03-06 03:59:16 -04",
   "compra_segundo": {
-    "price": 631.0,
-    "name": "TheKosT"
+    "price": 631.4,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 632.0,
     "name": "Corleone100"
   },
-  "promedio": 631.5,
+  "promedio": 631.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
