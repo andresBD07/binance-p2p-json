@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T17:08:19.354300",
-  "actualizado_vzla": "2026-03-06 13:08:19 -04",
+  "timestamp_utc": "2026-03-06T17:52:53.531841",
+  "actualizado_vzla": "2026-03-06 13:52:53 -04",
   "compra_segundo": {
-    "price": 623.85,
-    "name": "SmarPhon3"
+    "price": 623.4,
+    "name": "RSTrader_"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "Jin-Woo-Sung"
+    "price": 626.25,
+    "name": "angelchacon"
   },
-  "promedio": 625.42,
+  "promedio": 624.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
