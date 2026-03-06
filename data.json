@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T17:52:53.531841",
-  "actualizado_vzla": "2026-03-06 13:52:53 -04",
+  "timestamp_utc": "2026-03-06T18:49:19.415916",
+  "actualizado_vzla": "2026-03-06 14:49:19 -04",
   "compra_segundo": {
-    "price": 623.4,
-    "name": "RSTrader_"
+    "price": 618.299,
+    "name": "Cambios_Vargas"
   },
   "venta_maxima": {
-    "price": 626.25,
-    "name": "angelchacon"
+    "price": 622.5,
+    "name": "Guangzhou13"
   },
-  "promedio": 624.83,
+  "promedio": 620.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
