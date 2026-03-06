@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T21:46:58.028125",
-  "actualizado_vzla": "2026-03-06 17:46:58 -04",
+  "timestamp_utc": "2026-03-06T22:13:32.908522",
+  "actualizado_vzla": "2026-03-06 18:13:32 -04",
   "compra_segundo": {
-    "price": 620.58,
-    "name": "RapidEnvios"
+    "price": 619.99,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 623.0,
-    "name": "Blank_Mind"
+    "price": 622.0,
+    "name": "安全与信任"
   },
-  "promedio": 621.79,
+  "promedio": 621.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
