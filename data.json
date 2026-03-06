@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T05:32:47.106837",
-  "actualizado_vzla": "2026-03-06 01:32:47 -04",
+  "timestamp_utc": "2026-03-06T06:27:14.616218",
+  "actualizado_vzla": "2026-03-06 02:27:14 -04",
   "compra_segundo": {
-    "price": 630.693,
-    "name": "instantremitly "
+    "price": 631.0,
+    "name": "TheKosT"
   },
   "venta_maxima": {
     "price": 632.0,
     "name": "Corleone100"
   },
-  "promedio": 631.35,
+  "promedio": 631.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
