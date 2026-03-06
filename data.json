@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T19:28:04.342989",
-  "actualizado_vzla": "2026-03-06 15:28:04 -04",
+  "timestamp_utc": "2026-03-06T19:57:03.087157",
+  "actualizado_vzla": "2026-03-06 15:57:03 -04",
   "compra_segundo": {
-    "price": 618.255,
-    "name": "SecurityExpress"
+    "price": 618.295,
+    "name": "HarCapital"
   },
   "venta_maxima": {
-    "price": 620.0,
+    "price": 622.0,
     "name": "Blank_Mind"
   },
-  "promedio": 619.13,
+  "promedio": 620.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
