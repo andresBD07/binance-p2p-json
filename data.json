@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-05T23:16:32.698721",
-  "actualizado_vzla": "2026-03-05 19:16:32 -04",
+  "timestamp_utc": "2026-03-06T00:00:01.228657",
+  "actualizado_vzla": "2026-03-05 20:00:01 -04",
   "compra_segundo": {
-    "price": 629.38,
-    "name": "chichiwilote"
+    "price": 629.388,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 631.0,
-    "name": "Angelojbs"
+    "price": 635.0,
+    "name": "Gustavo129"
   },
-  "promedio": 630.19,
+  "promedio": 632.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
