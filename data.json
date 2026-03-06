@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T04:24:58.775822",
-  "actualizado_vzla": "2026-03-06 00:24:58 -04",
+  "timestamp_utc": "2026-03-06T05:32:47.106837",
+  "actualizado_vzla": "2026-03-06 01:32:47 -04",
   "compra_segundo": {
-    "price": 630.09,
-    "name": "TheMerchanTHM"
+    "price": 630.693,
+    "name": "instantremitly "
   },
   "venta_maxima": {
     "price": 632.0,
     "name": "Corleone100"
   },
-  "promedio": 631.05,
+  "promedio": 631.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
