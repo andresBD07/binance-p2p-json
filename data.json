@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T22:13:32.908522",
-  "actualizado_vzla": "2026-03-06 18:13:32 -04",
+  "timestamp_utc": "2026-03-06T22:49:38.498647",
+  "actualizado_vzla": "2026-03-06 18:49:38 -04",
   "compra_segundo": {
-    "price": 619.99,
-    "name": "CH-Intercambios"
+    "price": 618.0,
+    "name": "Capital Carreño"
   },
   "venta_maxima": {
-    "price": 622.0,
-    "name": "安全与信任"
+    "price": 620.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 621.0,
+  "promedio": 619.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
