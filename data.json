@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T09:41:17.956309",
-  "actualizado_vzla": "2026-03-06 05:41:17 -04",
+  "timestamp_utc": "2026-03-06T10:19:13.506733",
+  "actualizado_vzla": "2026-03-06 06:19:13 -04",
   "compra_segundo": {
-    "price": 630.1,
-    "name": "HijoDeLaViuda_Trader"
+    "price": 629.9,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 632.0,
+    "price": 630.0,
     "name": "Corleone100"
   },
-  "promedio": 631.05,
+  "promedio": 629.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
