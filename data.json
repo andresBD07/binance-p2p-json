@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T09:41:14.494614",
-  "actualizado_vzla": "2026-03-07 05:41:14 -04",
+  "timestamp_utc": "2026-03-07T09:58:09.323934",
+  "actualizado_vzla": "2026-03-07 05:58:09 -04",
   "compra_segundo": {
     "price": 620.0,
-    "name": "何塞 路易斯 坩埚"
+    "name": "Anderema"
   },
   "venta_maxima": {
-    "price": 616.5,
-    "name": "Tumundoexchange"
+    "price": 616.8,
+    "name": "mundo-cripto"
   },
-  "promedio": 618.25,
+  "promedio": 618.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
