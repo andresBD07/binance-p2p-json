@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T17:48:28.710002",
-  "actualizado_vzla": "2026-03-07 13:48:28 -04",
+  "timestamp_utc": "2026-03-07T18:18:07.335792",
+  "actualizado_vzla": "2026-03-07 14:18:07 -04",
   "compra_segundo": {
-    "price": 613.4,
-    "name": "GLOBAL_STEPHANIE_SPA"
+    "price": 612.38,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
     "price": 612.6,
     "name": "chango_pay"
   },
-  "promedio": 613.0,
+  "promedio": 612.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
