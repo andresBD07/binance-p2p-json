@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-06T23:48:27.133447",
-  "actualizado_vzla": "2026-03-06 19:48:27 -04",
+  "timestamp_utc": "2026-03-07T01:01:43.577374",
+  "actualizado_vzla": "2026-03-06 21:01:43 -04",
   "compra_segundo": {
-    "price": 616.99,
-    "name": "NuebotFlash"
+    "price": 618.4,
+    "name": "Franquicia777"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "Trust-Broker"
+    "price": 619.0,
+    "name": "Dolartodan"
   },
-  "promedio": 617.5,
+  "promedio": 618.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
