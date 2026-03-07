@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T13:06:37.063799",
-  "actualizado_vzla": "2026-03-07 09:06:37 -04",
+  "timestamp_utc": "2026-03-07T13:49:05.020823",
+  "actualizado_vzla": "2026-03-07 09:49:05 -04",
   "compra_segundo": {
-    "price": 617.8,
-    "name": "Criptotrading"
+    "price": 617.0,
+    "name": "AntaresRI"
   },
   "venta_maxima": {
-    "price": 617.0,
-    "name": "Trust-Broker"
+    "price": 618.5,
+    "name": "安全与信任"
   },
-  "promedio": 617.4,
+  "promedio": 617.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
