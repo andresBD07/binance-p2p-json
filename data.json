@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-07T18:53:00.716587",
-  "actualizado_vzla": "2026-03-07 14:53:00 -04",
+  "timestamp_utc": "2026-03-07T19:23:00.025574",
+  "actualizado_vzla": "2026-03-07 15:23:00 -04",
   "compra_segundo": {
-    "price": 611.89,
-    "name": "Yamato-Exchange"
+    "price": 611.0,
+    "name": "Magnetic10"
   },
   "venta_maxima": {
-    "price": 612.105,
-    "name": "CambiosEl"
+    "price": 613.0,
+    "name": "VERTUOK"
   },
   "promedio": 612.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
