@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-03-07T09:58:09.323934",
-  "actualizado_vzla": "2026-03-07 05:58:09 -04",
+  "timestamp_utc": "2026-03-07T10:35:34.755312",
+  "actualizado_vzla": "2026-03-07 06:35:34 -04",
   "compra_segundo": {
-    "price": 620.0,
-    "name": "Anderema"
+    "price": 619.999,
+    "name": "jaro23"
   },
   "venta_maxima": {
     "price": 616.8,
