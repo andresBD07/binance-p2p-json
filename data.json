@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T16:54:26.845837",
-  "actualizado_vzla": "2026-03-07 12:54:26 -04",
+  "timestamp_utc": "2026-03-07T17:26:42.710949",
+  "actualizado_vzla": "2026-03-07 13:26:42 -04",
   "compra_segundo": {
-    "price": 610.7,
-    "name": "Waldofx"
+    "price": 612.0,
+    "name": "Elleonesleo"
   },
   "venta_maxima": {
-    "price": 612.5,
+    "price": 612.65,
     "name": "梅CityCambio爱"
   },
-  "promedio": 611.6,
+  "promedio": 612.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
