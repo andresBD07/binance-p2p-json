@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T01:01:43.577374",
-  "actualizado_vzla": "2026-03-06 21:01:43 -04",
+  "timestamp_utc": "2026-03-07T03:23:30.183764",
+  "actualizado_vzla": "2026-03-06 23:23:30 -04",
   "compra_segundo": {
-    "price": 618.4,
-    "name": "Franquicia777"
+    "price": 619.0,
+    "name": "InversionesJZ"
   },
   "venta_maxima": {
-    "price": 619.0,
-    "name": "Dolartodan"
+    "price": 619.15,
+    "name": "mundo-cripto"
   },
-  "promedio": 618.7,
+  "promedio": 619.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
