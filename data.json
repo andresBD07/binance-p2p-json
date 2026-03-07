@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T20:35:41.604305",
-  "actualizado_vzla": "2026-03-07 16:35:41 -04",
+  "timestamp_utc": "2026-03-07T20:55:56.270084",
+  "actualizado_vzla": "2026-03-07 16:55:56 -04",
   "compra_segundo": {
-    "price": 607.994,
-    "name": "CambioSeguro24"
+    "price": 607.899,
+    "name": "Forex Exchange Global "
   },
   "venta_maxima": {
-    "price": 607.001,
-    "name": "JS_Valentine"
+    "price": 606.0,
+    "name": "cambioson"
   },
-  "promedio": 607.5,
+  "promedio": 606.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
