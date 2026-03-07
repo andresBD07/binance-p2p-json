@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T15:00:29.048969",
-  "actualizado_vzla": "2026-03-07 11:00:29 -04",
+  "timestamp_utc": "2026-03-07T15:34:39.219629",
+  "actualizado_vzla": "2026-03-07 11:34:39 -04",
   "compra_segundo": {
-    "price": 616.8,
-    "name": "CryptoExpressVe"
+    "price": 615.799,
+    "name": "LuiggiTrader"
   },
   "venta_maxima": {
-    "price": 615.5,
-    "name": "Trust-Broker"
+    "price": 615.0,
+    "name": "Miranda "
   },
-  "promedio": 616.15,
+  "promedio": 615.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
