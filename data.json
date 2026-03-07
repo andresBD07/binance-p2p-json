@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T19:23:00.025574",
-  "actualizado_vzla": "2026-03-07 15:23:00 -04",
+  "timestamp_utc": "2026-03-07T19:43:39.522037",
+  "actualizado_vzla": "2026-03-07 15:43:39 -04",
   "compra_segundo": {
-    "price": 611.0,
-    "name": "Magnetic10"
+    "price": 610.8,
+    "name": "SoloTitularsNoTrcros"
   },
   "venta_maxima": {
-    "price": 613.0,
+    "price": 612.0,
     "name": "VERTUOK"
   },
-  "promedio": 612.0,
+  "promedio": 611.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
