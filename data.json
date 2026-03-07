@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T14:16:03.441485",
-  "actualizado_vzla": "2026-03-07 10:16:03 -04",
+  "timestamp_utc": "2026-03-07T14:44:55.867518",
+  "actualizado_vzla": "2026-03-07 10:44:55 -04",
   "compra_segundo": {
-    "price": 617.239,
-    "name": "DivisasPro"
+    "price": 617.0,
+    "name": "MONEY-EXCHANGE-RS"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "Manda2-"
+    "price": 616.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 617.62,
+  "promedio": 616.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
