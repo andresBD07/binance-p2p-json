@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T08:41:13.151134",
-  "actualizado_vzla": "2026-03-07 04:41:13 -04",
+  "timestamp_utc": "2026-03-07T09:02:49.347368",
+  "actualizado_vzla": "2026-03-07 05:02:49 -04",
   "compra_segundo": {
-    "price": 620.5,
-    "name": "RickyRiconn_DTP"
+    "price": 620.365,
+    "name": "PagoInstantaneo"
   },
   "venta_maxima": {
     "price": 618.0,
     "name": "Trust-Broker"
   },
-  "promedio": 619.25,
+  "promedio": 619.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
