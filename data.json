@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T21:29:48.146060",
-  "actualizado_vzla": "2026-03-07 17:29:48 -04",
+  "timestamp_utc": "2026-03-07T21:48:43.492757",
+  "actualizado_vzla": "2026-03-07 17:48:43 -04",
   "compra_segundo": {
-    "price": 606.999,
-    "name": "ROME_BUSINESS"
+    "price": 606.0,
+    "name": "Flashpoint98"
   },
   "venta_maxima": {
-    "price": 607.2,
-    "name": "MegalinkFinance"
+    "price": 604.5,
+    "name": "talepagos"
   },
-  "promedio": 607.1,
+  "promedio": 605.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
