@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T11:27:49.891514",
-  "actualizado_vzla": "2026-03-07 07:27:49 -04",
+  "timestamp_utc": "2026-03-07T11:46:54.316555",
+  "actualizado_vzla": "2026-03-07 07:46:54 -04",
   "compra_segundo": {
-    "price": 619.35,
-    "name": "dcamacho"
+    "price": 618.8,
+    "name": "Candy2754"
   },
   "venta_maxima": {
-    "price": 616.62,
-    "name": "CambiosEl"
+    "price": 617.701,
+    "name": "cazing2230"
   },
-  "promedio": 617.99,
+  "promedio": 618.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
