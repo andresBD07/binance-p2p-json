@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T07:55:53.801501",
-  "actualizado_vzla": "2026-03-07 03:55:53 -04",
+  "timestamp_utc": "2026-03-07T08:41:13.151134",
+  "actualizado_vzla": "2026-03-07 04:41:13 -04",
   "compra_segundo": {
-    "price": 620.59,
-    "name": "Criptoliveros"
+    "price": 620.5,
+    "name": "RickyRiconn_DTP"
   },
   "venta_maxima": {
     "price": 618.0,
     "name": "Trust-Broker"
   },
-  "promedio": 619.3,
+  "promedio": 619.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
