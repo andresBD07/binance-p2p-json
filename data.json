@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-07T11:59:43.245865",
-  "actualizado_vzla": "2026-03-07 07:59:43 -04",
+  "timestamp_utc": "2026-03-07T13:06:37.063799",
+  "actualizado_vzla": "2026-03-07 09:06:37 -04",
   "compra_segundo": {
-    "price": 618.9,
-    "name": "Franquicia777"
+    "price": 617.8,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 617.8,
-    "name": "mundo-cripto"
+    "price": 617.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 618.35,
+  "promedio": 617.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
