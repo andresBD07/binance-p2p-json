@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T12:35:15.987186",
-  "actualizado_vzla": "2026-03-08 08:35:15 -04",
+  "timestamp_utc": "2026-03-08T13:27:29.380195",
+  "actualizado_vzla": "2026-03-08 09:27:29 -04",
   "compra_segundo": {
-    "price": 608.4,
-    "name": "ELEUTROS"
+    "price": 606.9,
+    "name": "CAMBIOSJFG"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "塞Jsse-Pro塞"
+    "price": 606.0,
+    "name": "Manda2-"
   },
-  "promedio": 607.7,
+  "promedio": 606.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
