@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T02:12:09.467996",
-  "actualizado_vzla": "2026-03-07 22:12:09 -04",
+  "timestamp_utc": "2026-03-08T04:20:52.324102",
+  "actualizado_vzla": "2026-03-08 00:20:52 -04",
   "compra_segundo": {
-    "price": 607.999,
-    "name": "Kapo_DTP"
+    "price": 608.99,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
     "price": 607.0,
-    "name": "塞Jsse-Pro塞"
+    "name": "LordCambios"
   },
-  "promedio": 607.5,
+  "promedio": 608.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
