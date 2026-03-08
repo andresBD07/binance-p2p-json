@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T22:56:10.634886",
-  "actualizado_vzla": "2026-03-08 18:56:10 -04",
+  "timestamp_utc": "2026-03-08T23:33:20.217449",
+  "actualizado_vzla": "2026-03-08 19:33:20 -04",
   "compra_segundo": {
-    "price": 611.7,
-    "name": "Kndysign"
+    "price": 612.0,
+    "name": "DineroRapido-23"
   },
   "venta_maxima": {
     "price": 611.0,
     "name": "Rapidflorio84"
   },
-  "promedio": 611.35,
+  "promedio": 611.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
