@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T19:32:52.273553",
-  "actualizado_vzla": "2026-03-08 15:32:52 -04",
+  "timestamp_utc": "2026-03-08T19:51:07.225984",
+  "actualizado_vzla": "2026-03-08 15:51:07 -04",
   "compra_segundo": {
-    "price": 610.639,
-    "name": "instantremitly "
+    "price": 610.499,
+    "name": "TheSurgueon_DTP"
   },
   "venta_maxima": {
-    "price": 610.0,
+    "price": 610.5,
     "name": "CAMBIOS AVILA "
   },
-  "promedio": 610.32,
+  "promedio": 610.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
