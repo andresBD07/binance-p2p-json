@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T04:20:52.324102",
-  "actualizado_vzla": "2026-03-08 00:20:52 -04",
+  "timestamp_utc": "2026-03-08T05:27:17.287136",
+  "actualizado_vzla": "2026-03-08 01:27:17 -04",
   "compra_segundo": {
-    "price": 608.99,
-    "name": "MolinaJP_"
+    "price": 609.5,
+    "name": "ZenTrades"
   },
   "venta_maxima": {
-    "price": 607.0,
+    "price": 605.2,
     "name": "LordCambios"
   },
-  "promedio": 608.0,
+  "promedio": 607.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
