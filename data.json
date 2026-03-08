@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T19:02:09.509757",
-  "actualizado_vzla": "2026-03-08 15:02:09 -04",
+  "timestamp_utc": "2026-03-08T19:32:52.273553",
+  "actualizado_vzla": "2026-03-08 15:32:52 -04",
   "compra_segundo": {
-    "price": 609.805,
-    "name": "Marquez25"
+    "price": 610.639,
+    "name": "instantremitly "
   },
   "venta_maxima": {
-    "price": 609.001,
-    "name": "DOCTOR_CAMBIO"
+    "price": 610.0,
+    "name": "CAMBIOS AVILA "
   },
-  "promedio": 609.4,
+  "promedio": 610.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
