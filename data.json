@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T07:58:01.633501",
-  "actualizado_vzla": "2026-03-08 03:58:01 -04",
+  "timestamp_utc": "2026-03-08T08:44:35.053478",
+  "actualizado_vzla": "2026-03-08 04:44:35 -04",
   "compra_segundo": {
     "price": 610.0,
     "name": "3_1415926535897932384626433832795028841971693993751058209749"
   },
   "venta_maxima": {
-    "price": 604.0,
-    "name": "InvMiggy"
+    "price": 603.0,
+    "name": "NEXUS-CRIPTO"
   },
-  "promedio": 607.0,
+  "promedio": 606.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
