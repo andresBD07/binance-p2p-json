@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-08T21:40:42.314368",
-  "actualizado_vzla": "2026-03-08 17:40:42 -04",
+  "timestamp_utc": "2026-03-08T21:57:02.651285",
+  "actualizado_vzla": "2026-03-08 17:57:02 -04",
   "compra_segundo": {
-    "price": 610.999,
-    "name": "Maleiwa wachüjü"
+    "price": 611.2,
+    "name": "NeryCripto"
   },
   "venta_maxima": {
-    "price": 610.7,
-    "name": "RIVERMONEY"
+    "price": 610.5,
+    "name": "Eliezerjph"
   },
   "promedio": 610.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
