@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T16:27:51.555591",
-  "actualizado_vzla": "2026-03-08 12:27:51 -04",
+  "timestamp_utc": "2026-03-08T16:54:51.471918",
+  "actualizado_vzla": "2026-03-08 12:54:51 -04",
   "compra_segundo": {
-    "price": 607.8,
-    "name": "Mahc012712"
+    "price": 607.244,
+    "name": "RADIACTIVE"
   },
   "venta_maxima": {
-    "price": 607.0,
-    "name": "Godisgift"
+    "price": 608.0,
+    "name": "Gonek2k"
   },
-  "promedio": 607.4,
+  "promedio": 607.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
