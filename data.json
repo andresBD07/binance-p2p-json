@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T18:34:40.430392",
-  "actualizado_vzla": "2026-03-08 14:34:40 -04",
+  "timestamp_utc": "2026-03-08T19:02:09.509757",
+  "actualizado_vzla": "2026-03-08 15:02:09 -04",
   "compra_segundo": {
-    "price": 608.966,
-    "name": "elferre92"
+    "price": 609.805,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 609.0,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 609.001,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 608.98,
+  "promedio": 609.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
