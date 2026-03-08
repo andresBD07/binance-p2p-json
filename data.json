@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T09:47:35.505820",
-  "actualizado_vzla": "2026-03-08 05:47:35 -04",
+  "timestamp_utc": "2026-03-08T10:11:55.197839",
+  "actualizado_vzla": "2026-03-08 06:11:55 -04",
   "compra_segundo": {
-    "price": 610.2,
-    "name": "GaAle19"
+    "price": 610.0,
+    "name": "3_1415926535897932384626433832795028841971693993751058209749"
   },
   "venta_maxima": {
-    "price": 698.5,
-    "name": "P_A_C_A"
+    "price": 605.0,
+    "name": "塞Jsse-Pro塞"
   },
-  "promedio": 654.35,
+  "promedio": 607.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
