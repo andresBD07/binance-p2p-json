@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-03-08T11:50:24.361956",
-  "actualizado_vzla": "2026-03-08 07:50:24 -04",
+  "timestamp_utc": "2026-03-08T12:35:15.987186",
+  "actualizado_vzla": "2026-03-08 08:35:15 -04",
   "compra_segundo": {
-    "price": 609.4,
-    "name": "Brick"
+    "price": 608.4,
+    "name": "ELEUTROS"
   },
   "venta_maxima": {
-    "price": 606.0,
+    "price": 607.0,
     "name": "塞Jsse-Pro塞"
   },
   "promedio": 607.7,
