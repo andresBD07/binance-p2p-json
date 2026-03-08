@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T22:34:41.978185",
-  "actualizado_vzla": "2026-03-08 18:34:41 -04",
+  "timestamp_utc": "2026-03-08T22:56:10.634886",
+  "actualizado_vzla": "2026-03-08 18:56:10 -04",
   "compra_segundo": {
-    "price": 611.3,
-    "name": "DanielTradeHouse"
+    "price": 611.7,
+    "name": "Kndysign"
   },
   "venta_maxima": {
     "price": 611.0,
     "name": "Rapidflorio84"
   },
-  "promedio": 611.15,
+  "promedio": 611.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
