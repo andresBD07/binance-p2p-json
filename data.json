@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T21:57:02.651285",
-  "actualizado_vzla": "2026-03-08 17:57:02 -04",
+  "timestamp_utc": "2026-03-08T22:34:41.978185",
+  "actualizado_vzla": "2026-03-08 18:34:41 -04",
   "compra_segundo": {
-    "price": 611.2,
-    "name": "NeryCripto"
+    "price": 611.3,
+    "name": "DanielTradeHouse"
   },
   "venta_maxima": {
-    "price": 610.5,
-    "name": "Eliezerjph"
+    "price": 611.0,
+    "name": "Rapidflorio84"
   },
-  "promedio": 610.85,
+  "promedio": 611.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
