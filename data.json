@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T21:13:03.375725",
-  "actualizado_vzla": "2026-03-08 17:13:03 -04",
+  "timestamp_utc": "2026-03-08T21:40:42.314368",
+  "actualizado_vzla": "2026-03-08 17:40:42 -04",
   "compra_segundo": {
-    "price": 610.9,
-    "name": "DM-PAY"
+    "price": 610.999,
+    "name": "Maleiwa wachüjü"
   },
   "venta_maxima": {
-    "price": 610.0,
-    "name": "TEXAS-TRADER"
+    "price": 610.7,
+    "name": "RIVERMONEY"
   },
-  "promedio": 610.45,
+  "promedio": 610.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
