@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-08T11:31:40.264693",
-  "actualizado_vzla": "2026-03-08 07:31:40 -04",
+  "timestamp_utc": "2026-03-08T11:50:24.361956",
+  "actualizado_vzla": "2026-03-08 07:50:24 -04",
   "compra_segundo": {
-    "price": 609.899,
-    "name": "urotrader"
+    "price": 609.4,
+    "name": "Brick"
   },
   "venta_maxima": {
     "price": 606.0,
     "name": "塞Jsse-Pro塞"
   },
-  "promedio": 607.95,
+  "promedio": 607.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
