@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T14:06:58.670237",
-  "actualizado_vzla": "2026-03-09 10:06:58 -04",
+  "timestamp_utc": "2026-03-09T15:10:15.194561",
+  "actualizado_vzla": "2026-03-09 11:10:15 -04",
   "compra_segundo": {
-    "price": 619.988,
-    "name": "David-0199"
+    "price": 609.79,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "VERTUOK"
+    "price": 609.5,
+    "name": "Burdyn"
   },
-  "promedio": 619.99,
+  "promedio": 609.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
