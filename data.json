@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T11:50:53.942637",
-  "actualizado_vzla": "2026-03-09 07:50:53 -04",
+  "timestamp_utc": "2026-03-09T12:53:27.007987",
+  "actualizado_vzla": "2026-03-09 08:53:27 -04",
   "compra_segundo": {
-    "price": 616.0,
-    "name": "InversionesMR"
+    "price": 613.9,
+    "name": "jeramel24"
   },
   "venta_maxima": {
-    "price": 614.0,
-    "name": "Manda2-"
+    "price": 614.05,
+    "name": "Rapidflorio84"
   },
-  "promedio": 615.0,
+  "promedio": 613.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
