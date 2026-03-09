@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T19:07:30.729804",
-  "actualizado_vzla": "2026-03-09 15:07:30 -04",
+  "timestamp_utc": "2026-03-09T19:51:39.859248",
+  "actualizado_vzla": "2026-03-09 15:51:39 -04",
   "compra_segundo": {
-    "price": 618.5,
-    "name": "Ecapitals Services Corp"
+    "price": 620.8,
+    "name": "WizCoin7"
   },
   "venta_maxima": {
-    "price": 619.3,
-    "name": "Guangzhou13"
+    "price": 622.5,
+    "name": "Eliezerjph"
   },
-  "promedio": 618.9,
+  "promedio": 621.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
