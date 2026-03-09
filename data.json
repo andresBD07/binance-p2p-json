@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T04:31:34.497245",
-  "actualizado_vzla": "2026-03-09 00:31:34 -04",
+  "timestamp_utc": "2026-03-09T05:43:21.026598",
+  "actualizado_vzla": "2026-03-09 01:43:21 -04",
   "compra_segundo": {
-    "price": 619.4,
-    "name": "Itriago22"
+    "price": 621.74,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 615.0,
-    "name": "何塞 路易斯 坩埚"
+    "price": 614.0,
+    "name": "THE BOSS  96"
   },
-  "promedio": 617.2,
+  "promedio": 617.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
