@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T21:01:45.929196",
-  "actualizado_vzla": "2026-03-09 17:01:45 -04",
+  "timestamp_utc": "2026-03-09T21:44:38.036937",
+  "actualizado_vzla": "2026-03-09 17:44:38 -04",
   "compra_segundo": {
-    "price": 621.899,
-    "name": "TU_CAMBIO_SEGURO03"
+    "price": 620.0,
+    "name": "الحب والسلام"
   },
   "venta_maxima": {
-    "price": 622.6,
-    "name": "cazing2230-2"
+    "price": 622.0,
+    "name": "Quick Payment"
   },
-  "promedio": 622.25,
+  "promedio": 621.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
