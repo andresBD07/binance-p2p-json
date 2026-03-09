@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T18:03:07.420635",
-  "actualizado_vzla": "2026-03-09 14:03:07 -04",
+  "timestamp_utc": "2026-03-09T19:07:30.729804",
+  "actualizado_vzla": "2026-03-09 15:07:30 -04",
   "compra_segundo": {
-    "price": 617.0,
-    "name": "Drakito_p2p"
+    "price": 618.5,
+    "name": "Ecapitals Services Corp"
   },
   "venta_maxima": {
-    "price": 618.0,
-    "name": "Eliezerjph"
+    "price": 619.3,
+    "name": "Guangzhou13"
   },
-  "promedio": 617.5,
+  "promedio": 618.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
