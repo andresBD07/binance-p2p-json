@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T19:51:39.859248",
-  "actualizado_vzla": "2026-03-09 15:51:39 -04",
+  "timestamp_utc": "2026-03-09T20:31:24.615005",
+  "actualizado_vzla": "2026-03-09 16:31:24 -04",
   "compra_segundo": {
-    "price": 620.8,
-    "name": "WizCoin7"
+    "price": 623.9,
+    "name": "Mauro03"
   },
   "venta_maxima": {
-    "price": 622.5,
-    "name": "Eliezerjph"
+    "price": 625.2,
+    "name": "Burdyn"
   },
-  "promedio": 621.65,
+  "promedio": 624.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
