@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T22:49:24.899681",
-  "actualizado_vzla": "2026-03-09 18:49:24 -04",
+  "timestamp_utc": "2026-03-09T23:19:36.901765",
+  "actualizado_vzla": "2026-03-09 19:19:36 -04",
   "compra_segundo": {
-    "price": 620.95,
-    "name": "Falcon_Trade-P2P"
+    "price": 619.6,
+    "name": "CambiosFranccos"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "Pdbj"
+    "price": 621.0,
+    "name": "安全与信任"
   },
-  "promedio": 620.48,
+  "promedio": 620.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
