@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T09:27:55.632586",
-  "actualizado_vzla": "2026-03-09 05:27:55 -04",
+  "timestamp_utc": "2026-03-09T10:26:14.118213",
+  "actualizado_vzla": "2026-03-09 06:26:14 -04",
   "compra_segundo": {
-    "price": 621.795,
-    "name": "LuicmarTrader"
+    "price": 619.59,
+    "name": "AARONEX"
   },
   "venta_maxima": {
-    "price": 611.0,
-    "name": "何塞 路易斯 坩埚"
+    "price": 611.65,
+    "name": "AbyBruce"
   },
-  "promedio": 616.4,
+  "promedio": 615.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
