@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T21:44:38.036937",
-  "actualizado_vzla": "2026-03-09 17:44:38 -04",
+  "timestamp_utc": "2026-03-09T22:13:51.568318",
+  "actualizado_vzla": "2026-03-09 18:13:51 -04",
   "compra_segundo": {
-    "price": 620.0,
-    "name": "الحب والسلام"
+    "price": 621.0,
+    "name": "fundatrade"
   },
   "venta_maxima": {
-    "price": 622.0,
-    "name": "Quick Payment"
+    "price": 620.5,
+    "name": "ALASKA-"
   },
-  "promedio": 621.0,
+  "promedio": 620.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
