@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-09T02:37:55.666230",
-  "actualizado_vzla": "2026-03-08 22:37:55 -04",
+  "timestamp_utc": "2026-03-09T04:31:34.497245",
+  "actualizado_vzla": "2026-03-09 00:31:34 -04",
   "compra_segundo": {
-    "price": 615.8,
-    "name": "Riosakki2021"
+    "price": 619.4,
+    "name": "Itriago22"
   },
   "venta_maxima": {
-    "price": 612.501,
-    "name": "-Saitama-"
+    "price": 615.0,
+    "name": "何塞 路易斯 坩埚"
   },
-  "promedio": 614.15,
+  "promedio": 617.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
