@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T14:36:19.197595",
-  "actualizado_vzla": "2026-03-10 10:36:19 -04",
+  "timestamp_utc": "2026-03-10T15:43:09.445175",
+  "actualizado_vzla": "2026-03-10 11:43:09 -04",
   "compra_segundo": {
-    "price": 617.0,
-    "name": "Naguara App"
+    "price": 619.155,
+    "name": "Ale1498"
   },
   "venta_maxima": {
-    "price": 617.601,
-    "name": "Corleone100"
+    "price": 622.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 617.3,
+  "promedio": 620.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
