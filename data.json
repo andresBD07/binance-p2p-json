@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T21:46:30.286298",
-  "actualizado_vzla": "2026-03-10 17:46:30 -04",
+  "timestamp_utc": "2026-03-10T22:12:47.928145",
+  "actualizado_vzla": "2026-03-10 18:12:47 -04",
   "compra_segundo": {
-    "price": 619.7,
-    "name": "Franquicia777"
+    "price": 620.7,
+    "name": "Ricardo"
   },
   "venta_maxima": {
-    "price": 626.0,
-    "name": "Biyt"
+    "price": 626.3,
+    "name": "-Zeratul-"
   },
-  "promedio": 622.85,
+  "promedio": 623.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
