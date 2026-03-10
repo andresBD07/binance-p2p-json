@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T11:01:57.744724",
-  "actualizado_vzla": "2026-03-10 07:01:57 -04",
+  "timestamp_utc": "2026-03-10T11:45:25.346832",
+  "actualizado_vzla": "2026-03-10 07:45:25 -04",
   "compra_segundo": {
-    "price": 622.431,
-    "name": "FlashPayy"
+    "price": 620.999,
+    "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 618.1,
-    "name": "CambiosUzzi02"
+    "price": 620.0,
+    "name": "Dolartodan"
   },
-  "promedio": 620.27,
+  "promedio": 620.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
