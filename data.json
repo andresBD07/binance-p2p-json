@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T21:17:41.346130",
-  "actualizado_vzla": "2026-03-10 17:17:41 -04",
+  "timestamp_utc": "2026-03-10T21:46:30.286298",
+  "actualizado_vzla": "2026-03-10 17:46:30 -04",
   "compra_segundo": {
-    "price": 619.499,
-    "name": "Criptotrading"
+    "price": 619.7,
+    "name": "Franquicia777"
   },
   "venta_maxima": {
-    "price": 620.5,
-    "name": "ALASKA-"
+    "price": 626.0,
+    "name": "Biyt"
   },
-  "promedio": 620.0,
+  "promedio": 622.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
