@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T22:12:47.928145",
-  "actualizado_vzla": "2026-03-10 18:12:47 -04",
+  "timestamp_utc": "2026-03-10T22:48:41.342388",
+  "actualizado_vzla": "2026-03-10 18:48:41 -04",
   "compra_segundo": {
-    "price": 620.7,
-    "name": "Ricardo"
+    "price": 621.999,
+    "name": "User-64eff"
   },
   "venta_maxima": {
-    "price": 626.3,
-    "name": "-Zeratul-"
+    "price": 625.6,
+    "name": "VECTURAFX"
   },
-  "promedio": 623.5,
+  "promedio": 623.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
