@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T10:08:56.171307",
-  "actualizado_vzla": "2026-03-10 06:08:56 -04",
+  "timestamp_utc": "2026-03-10T11:01:57.744724",
+  "actualizado_vzla": "2026-03-10 07:01:57 -04",
   "compra_segundo": {
-    "price": 622.5,
-    "name": "InversionesMR"
+    "price": 622.431,
+    "name": "FlashPayy"
   },
   "venta_maxima": {
-    "price": 617.3,
-    "name": "InvMiggy"
+    "price": 618.1,
+    "name": "CambiosUzzi02"
   },
-  "promedio": 619.9,
+  "promedio": 620.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
