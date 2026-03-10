@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T16:41:04.407715",
-  "actualizado_vzla": "2026-03-10 12:41:04 -04",
+  "timestamp_utc": "2026-03-10T17:33:46.559782",
+  "actualizado_vzla": "2026-03-10 13:33:46 -04",
   "compra_segundo": {
-    "price": 622.399,
-    "name": "ErudioCl"
+    "price": 620.0,
+    "name": "Vergara28Casacambios"
   },
   "venta_maxima": {
-    "price": 624.0,
-    "name": "JRR Tolkien"
+    "price": 622.5,
+    "name": "Pipotrade"
   },
-  "promedio": 623.2,
+  "promedio": 621.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
