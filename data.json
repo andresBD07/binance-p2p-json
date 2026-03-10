@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-10T09:28:16.696486",
-  "actualizado_vzla": "2026-03-10 05:28:16 -04",
+  "timestamp_utc": "2026-03-10T10:08:56.171307",
+  "actualizado_vzla": "2026-03-10 06:08:56 -04",
   "compra_segundo": {
-    "price": 623.0,
-    "name": "CambiosFacil"
+    "price": 622.5,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
-    "price": 616.8,
-    "name": "Free Trade and Investments"
+    "price": 617.3,
+    "name": "InvMiggy"
   },
   "promedio": 619.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
