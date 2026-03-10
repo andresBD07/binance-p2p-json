@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T18:27:30.473832",
-  "actualizado_vzla": "2026-03-10 14:27:30 -04",
+  "timestamp_utc": "2026-03-10T19:23:26.043584",
+  "actualizado_vzla": "2026-03-10 15:23:26 -04",
   "compra_segundo": {
-    "price": 617.39,
-    "name": "Alejandro_MG"
+    "price": 618.5,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
-    "price": 616.7,
+    "price": 619.5,
     "name": "Rapidflorio84"
   },
-  "promedio": 617.05,
+  "promedio": 619.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
