@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T12:27:37.160795",
-  "actualizado_vzla": "2026-03-10 08:27:37 -04",
+  "timestamp_utc": "2026-03-10T13:44:57.735068",
+  "actualizado_vzla": "2026-03-10 09:44:57 -04",
   "compra_segundo": {
-    "price": 618.15,
-    "name": "JesusCrip"
+    "price": 618.0,
+    "name": "REMESAS_ELMARACUCHO"
   },
   "venta_maxima": {
-    "price": 619.0,
-    "name": "Rapidflorio84"
+    "price": 620.0,
+    "name": "安全与信任"
   },
-  "promedio": 618.58,
+  "promedio": 619.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
