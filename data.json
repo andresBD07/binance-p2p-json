@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T19:58:26.603081",
-  "actualizado_vzla": "2026-03-10 15:58:26 -04",
+  "timestamp_utc": "2026-03-10T20:45:58.517703",
+  "actualizado_vzla": "2026-03-10 16:45:58 -04",
   "compra_segundo": {
-    "price": 618.5,
-    "name": "carlosaladejo"
+    "price": 619.299,
+    "name": "Cambiosbraycar"
   },
   "venta_maxima": {
-    "price": 619.0,
+    "price": 620.5,
     "name": "ALASKA-"
   },
-  "promedio": 618.75,
+  "promedio": 619.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
