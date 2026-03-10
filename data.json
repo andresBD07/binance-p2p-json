@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T08:38:58.014337",
-  "actualizado_vzla": "2026-03-10 04:38:58 -04",
+  "timestamp_utc": "2026-03-10T09:28:16.696486",
+  "actualizado_vzla": "2026-03-10 05:28:16 -04",
   "compra_segundo": {
-    "price": 623.7,
-    "name": "ComercioJRG"
+    "price": 623.0,
+    "name": "CambiosFacil"
   },
   "venta_maxima": {
     "price": 616.8,
     "name": "Free Trade and Investments"
   },
-  "promedio": 620.25,
+  "promedio": 619.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
