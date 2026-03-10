@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-10T17:33:46.559782",
-  "actualizado_vzla": "2026-03-10 13:33:46 -04",
+  "timestamp_utc": "2026-03-10T18:27:30.473832",
+  "actualizado_vzla": "2026-03-10 14:27:30 -04",
   "compra_segundo": {
-    "price": 620.0,
-    "name": "Vergara28Casacambios"
+    "price": 617.39,
+    "name": "Alejandro_MG"
   },
   "venta_maxima": {
-    "price": 622.5,
-    "name": "Pipotrade"
+    "price": 616.7,
+    "name": "Rapidflorio84"
   },
-  "promedio": 621.25,
+  "promedio": 617.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
