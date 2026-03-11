@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T21:19:05.207060",
-  "actualizado_vzla": "2026-03-11 17:19:05 -04",
+  "timestamp_utc": "2026-03-11T21:52:51.478063",
+  "actualizado_vzla": "2026-03-11 17:52:51 -04",
   "compra_segundo": {
-    "price": 630.0,
-    "name": "Pesce_Exchange"
+    "price": 629.9,
+    "name": "rausseol"
   },
   "venta_maxima": {
-    "price": 632.529,
-    "name": "DOCTOR_CAMBIO"
+    "price": 635.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 631.26,
+  "promedio": 632.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
