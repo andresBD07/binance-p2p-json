@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T10:53:24.020920",
-  "actualizado_vzla": "2026-03-11 06:53:24 -04",
+  "timestamp_utc": "2026-03-11T11:35:07.036838",
+  "actualizado_vzla": "2026-03-11 07:35:07 -04",
   "compra_segundo": {
-    "price": 627.0,
-    "name": "Raasca_System_Crypto"
+    "price": 626.899,
+    "name": "Money-Max23"
   },
   "venta_maxima": {
-    "price": 627.8,
-    "name": "HT24_7"
+    "price": 631.001,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 627.4,
+  "promedio": 628.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
