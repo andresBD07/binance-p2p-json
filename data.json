@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T22:53:04.427098",
-  "actualizado_vzla": "2026-03-11 18:53:04 -04",
+  "timestamp_utc": "2026-03-11T23:28:17.439396",
+  "actualizado_vzla": "2026-03-11 19:28:17 -04",
   "compra_segundo": {
-    "price": 632.0,
-    "name": "Cambios Ashley"
+    "price": 632.89,
+    "name": "FAST-SECUREJM"
   },
   "venta_maxima": {
-    "price": 634.5,
+    "price": 634.38,
     "name": "mundo-cripto"
   },
-  "promedio": 633.25,
+  "promedio": 633.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
