@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T00:00:18.241134",
-  "actualizado_vzla": "2026-03-10 20:00:18 -04",
+  "timestamp_utc": "2026-03-11T02:47:09.209256",
+  "actualizado_vzla": "2026-03-10 22:47:09 -04",
   "compra_segundo": {
-    "price": 623.799,
-    "name": "Cambiosbraycar"
+    "price": 629.2,
+    "name": "Ekxprees"
   },
   "venta_maxima": {
-    "price": 628.95,
-    "name": "-Saitama-"
+    "price": 632.503,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 626.37,
+  "promedio": 630.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
