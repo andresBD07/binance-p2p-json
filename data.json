@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T12:00:09.705059",
-  "actualizado_vzla": "2026-03-11 08:00:09 -04",
+  "timestamp_utc": "2026-03-11T13:24:13.875702",
+  "actualizado_vzla": "2026-03-11 09:24:13 -04",
   "compra_segundo": {
-    "price": 626.68,
-    "name": "JURGENtrader"
+    "price": 624.399,
+    "name": "frankcriptos"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 631.5,
+    "name": "Biyt"
   },
-  "promedio": 629.34,
+  "promedio": 627.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
