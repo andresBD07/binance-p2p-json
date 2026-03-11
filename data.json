@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T05:34:47.114962",
-  "actualizado_vzla": "2026-03-11 01:34:47 -04",
+  "timestamp_utc": "2026-03-11T06:31:35.003672",
+  "actualizado_vzla": "2026-03-11 02:31:35 -04",
   "compra_segundo": {
-    "price": 630.997,
-    "name": "Capital Bloom"
+    "price": 631.0,
+    "name": "BreakStuff"
   },
   "venta_maxima": {
-    "price": 626.0,
-    "name": "CambiosLQ"
+    "price": 626.1,
+    "name": "Reficambios"
   },
-  "promedio": 628.5,
+  "promedio": 628.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
