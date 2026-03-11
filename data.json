@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T04:25:43.569029",
-  "actualizado_vzla": "2026-03-11 00:25:43 -04",
+  "timestamp_utc": "2026-03-11T05:34:47.114962",
+  "actualizado_vzla": "2026-03-11 01:34:47 -04",
   "compra_segundo": {
-    "price": 629.98,
-    "name": "PERFUMEHOUSE"
+    "price": 630.997,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
-    "price": 627.3,
-    "name": "CambiosEl"
+    "price": 626.0,
+    "name": "CambiosLQ"
   },
-  "promedio": 628.64,
+  "promedio": 628.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
