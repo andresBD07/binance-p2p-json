@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T09:56:21.136981",
-  "actualizado_vzla": "2026-03-11 05:56:21 -04",
+  "timestamp_utc": "2026-03-11T10:53:24.020920",
+  "actualizado_vzla": "2026-03-11 06:53:24 -04",
   "compra_segundo": {
-    "price": 629.2,
-    "name": "Ekxprees"
+    "price": 627.0,
+    "name": "Raasca_System_Crypto"
   },
   "venta_maxima": {
-    "price": 624.5,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 627.8,
+    "name": "HT24_7"
   },
-  "promedio": 626.85,
+  "promedio": 627.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
