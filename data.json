@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T17:29:38.267586",
-  "actualizado_vzla": "2026-03-11 13:29:38 -04",
+  "timestamp_utc": "2026-03-11T18:30:24.768481",
+  "actualizado_vzla": "2026-03-11 14:30:24 -04",
   "compra_segundo": {
-    "price": 633.39,
-    "name": "AndradeGascon"
+    "price": 628.47,
+    "name": "Bip2p"
   },
   "venta_maxima": {
-    "price": 635.5,
-    "name": "-Tyrion-Lannister-"
+    "price": 630.003,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 634.44,
+  "promedio": 629.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
