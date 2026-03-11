@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T13:24:13.875702",
-  "actualizado_vzla": "2026-03-11 09:24:13 -04",
+  "timestamp_utc": "2026-03-11T14:27:34.702116",
+  "actualizado_vzla": "2026-03-11 10:27:34 -04",
   "compra_segundo": {
-    "price": 624.399,
-    "name": "frankcriptos"
+    "price": 629.189,
+    "name": "Kingjvl"
   },
   "venta_maxima": {
-    "price": 631.5,
-    "name": "Biyt"
+    "price": 632.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 627.95,
+  "promedio": 630.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
