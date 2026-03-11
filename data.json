@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T08:03:45.118638",
-  "actualizado_vzla": "2026-03-11 04:03:45 -04",
+  "timestamp_utc": "2026-03-11T08:58:26.515177",
+  "actualizado_vzla": "2026-03-11 04:58:26 -04",
   "compra_segundo": {
-    "price": 630.997,
-    "name": "Capital Bloom"
+    "price": 630.0,
+    "name": "HyperCambios_1Millon"
   },
   "venta_maxima": {
-    "price": 625.0,
+    "price": 624.0,
     "name": "zama2004"
   },
-  "promedio": 628.0,
+  "promedio": 627.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
