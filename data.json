@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T18:30:24.768481",
-  "actualizado_vzla": "2026-03-11 14:30:24 -04",
+  "timestamp_utc": "2026-03-11T19:27:52.976874",
+  "actualizado_vzla": "2026-03-11 15:27:52 -04",
   "compra_segundo": {
-    "price": 628.47,
-    "name": "Bip2p"
+    "price": 627.699,
+    "name": "lab1721"
   },
   "venta_maxima": {
-    "price": 630.003,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 634.1,
+    "name": "cazing2230-2"
   },
-  "promedio": 629.24,
+  "promedio": 630.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
