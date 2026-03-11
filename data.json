@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T19:27:52.976874",
-  "actualizado_vzla": "2026-03-11 15:27:52 -04",
+  "timestamp_utc": "2026-03-11T20:00:26.578376",
+  "actualizado_vzla": "2026-03-11 16:00:26 -04",
   "compra_segundo": {
-    "price": 627.699,
-    "name": "lab1721"
+    "price": 631.0,
+    "name": "P2PGsmart"
   },
   "venta_maxima": {
-    "price": 634.1,
-    "name": "cazing2230-2"
+    "price": 634.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 630.9,
+  "promedio": 632.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
