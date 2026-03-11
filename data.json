@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T02:47:09.209256",
-  "actualizado_vzla": "2026-03-10 22:47:09 -04",
+  "timestamp_utc": "2026-03-11T04:25:43.569029",
+  "actualizado_vzla": "2026-03-11 00:25:43 -04",
   "compra_segundo": {
-    "price": 629.2,
-    "name": "Ekxprees"
+    "price": 629.98,
+    "name": "PERFUMEHOUSE"
   },
   "venta_maxima": {
-    "price": 632.503,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 627.3,
+    "name": "CambiosEl"
   },
-  "promedio": 630.85,
+  "promedio": 628.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
