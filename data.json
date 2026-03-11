@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T14:27:34.702116",
-  "actualizado_vzla": "2026-03-11 10:27:34 -04",
+  "timestamp_utc": "2026-03-11T15:25:35.603772",
+  "actualizado_vzla": "2026-03-11 11:25:35 -04",
   "compra_segundo": {
-    "price": 629.189,
-    "name": "Kingjvl"
+    "price": 629.0,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 632.5,
-    "name": "梅CityCambio爱"
+    "price": 638.0,
+    "name": "Biyt"
   },
-  "promedio": 630.84,
+  "promedio": 633.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
