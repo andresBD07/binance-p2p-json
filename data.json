@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-11T16:27:43.792131",
-  "actualizado_vzla": "2026-03-11 12:27:43 -04",
+  "timestamp_utc": "2026-03-11T17:29:38.267586",
+  "actualizado_vzla": "2026-03-11 13:29:38 -04",
   "compra_segundo": {
-    "price": 632.7,
-    "name": "CambiosFranccos"
+    "price": 633.39,
+    "name": "AndradeGascon"
   },
   "venta_maxima": {
-    "price": 640.5,
-    "name": "梅CityCambio爱"
+    "price": 635.5,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 636.6,
+  "promedio": 634.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
