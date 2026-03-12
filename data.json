@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T09:57:48.070816",
-  "actualizado_vzla": "2026-03-12 05:57:48 -04",
+  "timestamp_utc": "2026-03-12T10:54:01.411854",
+  "actualizado_vzla": "2026-03-12 06:54:01 -04",
   "compra_segundo": {
-    "price": 631.299,
-    "name": "Richgato_Cambios"
+    "price": 628.9,
+    "name": "Cambios_TURPIAL"
   },
   "venta_maxima": {
-    "price": 624.2,
+    "price": 627.1,
     "name": "mundo-cripto"
   },
-  "promedio": 627.75,
+  "promedio": 628.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
