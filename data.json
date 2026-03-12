@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T23:33:38.357724",
-  "actualizado_vzla": "2026-03-12 19:33:38 -04",
+  "timestamp_utc": "2026-03-12T23:56:45.816110",
+  "actualizado_vzla": "2026-03-12 19:56:45 -04",
   "compra_segundo": {
-    "price": 625.769,
-    "name": "LAULAR87"
+    "price": 625.895,
+    "name": "ExchangeWOW"
   },
   "venta_maxima": {
-    "price": 626.5,
-    "name": "Don-Cangrejo"
+    "price": 628.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 626.13,
+  "promedio": 626.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
