@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T22:25:24.164697",
-  "actualizado_vzla": "2026-03-12 18:25:24 -04",
+  "timestamp_utc": "2026-03-12T22:54:37.797600",
+  "actualizado_vzla": "2026-03-12 18:54:37 -04",
   "compra_segundo": {
-    "price": 627.898,
-    "name": "I_R_O_N__V_A_U_L_T"
+    "price": 627.2,
+    "name": "VRSTNE"
   },
   "venta_maxima": {
     "price": 628.0,
     "name": "Blank_Mind"
   },
-  "promedio": 627.95,
+  "promedio": 627.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
