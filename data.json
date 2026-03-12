@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T20:40:22.345703",
-  "actualizado_vzla": "2026-03-12 16:40:22 -04",
+  "timestamp_utc": "2026-03-12T21:17:41.611083",
+  "actualizado_vzla": "2026-03-12 17:17:41 -04",
   "compra_segundo": {
-    "price": 628.9,
-    "name": "kitty1230"
+    "price": 628.75,
+    "name": "Calito22"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Blank_Mind"
+    "price": 631.03,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 629.45,
+  "promedio": 629.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
