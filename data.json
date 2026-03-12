@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T17:14:42.890121",
-  "actualizado_vzla": "2026-03-12 13:14:42 -04",
+  "timestamp_utc": "2026-03-12T18:05:47.457127",
+  "actualizado_vzla": "2026-03-12 14:05:47 -04",
   "compra_segundo": {
-    "price": 625.799,
-    "name": "CR7coinVe"
+    "price": 626.89,
+    "name": "VICKYMAN02"
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "Biyt"
+    "price": 628.5,
+    "name": "安全与信任"
   },
-  "promedio": 626.9,
+  "promedio": 627.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
