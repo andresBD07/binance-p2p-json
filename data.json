@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T21:52:14.601417",
-  "actualizado_vzla": "2026-03-12 17:52:14 -04",
+  "timestamp_utc": "2026-03-12T22:25:24.164697",
+  "actualizado_vzla": "2026-03-12 18:25:24 -04",
   "compra_segundo": {
-    "price": 628.99,
-    "name": "ROME_BUSINESS"
+    "price": 627.898,
+    "name": "I_R_O_N__V_A_U_L_T"
   },
   "venta_maxima": {
-    "price": 630.0,
+    "price": 628.0,
     "name": "Blank_Mind"
   },
-  "promedio": 629.5,
+  "promedio": 627.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
