@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-12T09:01:06.692569",
-  "actualizado_vzla": "2026-03-12 05:01:06 -04",
+  "timestamp_utc": "2026-03-12T09:57:48.070816",
+  "actualizado_vzla": "2026-03-12 05:57:48 -04",
   "compra_segundo": {
-    "price": 631.499,
+    "price": 631.299,
     "name": "Richgato_Cambios"
   },
   "venta_maxima": {
-    "price": 624.0,
-    "name": "AbyBruce"
+    "price": 624.2,
+    "name": "mundo-cripto"
   },
   "promedio": 627.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
