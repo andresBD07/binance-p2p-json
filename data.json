@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T14:13:04.792193",
-  "actualizado_vzla": "2026-03-12 10:13:04 -04",
+  "timestamp_utc": "2026-03-12T15:11:52.640505",
+  "actualizado_vzla": "2026-03-12 11:11:52 -04",
   "compra_segundo": {
-    "price": 623.85,
-    "name": "Cambio2x3"
+    "price": 623.0,
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "Si Me Pasas Te Paso"
+    "price": 623.28,
+    "name": "chichiwilote"
   },
-  "promedio": 624.42,
+  "promedio": 623.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
