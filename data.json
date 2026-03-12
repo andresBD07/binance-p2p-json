@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T11:34:22.385749",
-  "actualizado_vzla": "2026-03-12 07:34:22 -04",
+  "timestamp_utc": "2026-03-12T11:57:02.810451",
+  "actualizado_vzla": "2026-03-12 07:57:02 -04",
   "compra_segundo": {
-    "price": 628.8,
-    "name": "EliseoAmaya"
+    "price": 628.3,
+    "name": "SibyDr"
   },
   "venta_maxima": {
-    "price": 627.5,
+    "price": 627.551,
     "name": "Rapidflorio84"
   },
-  "promedio": 628.15,
+  "promedio": 627.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
