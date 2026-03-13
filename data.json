@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T09:52:51.379794",
-  "actualizado_vzla": "2026-03-13 05:52:51 -04",
+  "timestamp_utc": "2026-03-13T10:37:52.152102",
+  "actualizado_vzla": "2026-03-13 06:37:52 -04",
   "compra_segundo": {
-    "price": 626.6,
-    "name": "JM2026"
+    "price": 626.0,
+    "name": "Falcon_Trade-P2P"
   },
   "venta_maxima": {
-    "price": 624.0,
-    "name": "Cambioscorleone"
+    "price": 623.8,
+    "name": "Intercambiosmgta"
   },
-  "promedio": 625.3,
+  "promedio": 624.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
