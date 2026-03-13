@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T08:57:41.401404",
-  "actualizado_vzla": "2026-03-13 04:57:41 -04",
+  "timestamp_utc": "2026-03-13T09:52:51.379794",
+  "actualizado_vzla": "2026-03-13 05:52:51 -04",
   "compra_segundo": {
-    "price": 626.98,
-    "name": "PrecozPay"
+    "price": 626.6,
+    "name": "JM2026"
   },
   "venta_maxima": {
-    "price": 625.501,
-    "name": "Cripto-Ale"
+    "price": 624.0,
+    "name": "Cambioscorleone"
   },
-  "promedio": 626.24,
+  "promedio": 625.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
