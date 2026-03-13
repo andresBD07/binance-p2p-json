@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T02:47:22.145878",
-  "actualizado_vzla": "2026-03-12 22:47:22 -04",
+  "timestamp_utc": "2026-03-13T04:26:29.665203",
+  "actualizado_vzla": "2026-03-13 00:26:29 -04",
   "compra_segundo": {
-    "price": 626.099,
-    "name": "Cesar_NSL007"
+    "price": 626.45,
+    "name": "marote28"
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "Gustavo129"
+    "price": 624.6,
+    "name": "FMDeluXchange"
   },
-  "promedio": 627.05,
+  "promedio": 625.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
