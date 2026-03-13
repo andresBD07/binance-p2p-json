@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T08:04:13.586795",
-  "actualizado_vzla": "2026-03-13 04:04:13 -04",
+  "timestamp_utc": "2026-03-13T08:57:41.401404",
+  "actualizado_vzla": "2026-03-13 04:57:41 -04",
   "compra_segundo": {
-    "price": 627.4,
-    "name": "chichiwilote"
+    "price": 626.98,
+    "name": "PrecozPay"
   },
   "venta_maxima": {
     "price": 625.501,
     "name": "Cripto-Ale"
   },
-  "promedio": 626.45,
+  "promedio": 626.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
