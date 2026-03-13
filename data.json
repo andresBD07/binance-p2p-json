@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T04:26:29.665203",
-  "actualizado_vzla": "2026-03-13 00:26:29 -04",
+  "timestamp_utc": "2026-03-13T05:34:32.652415",
+  "actualizado_vzla": "2026-03-13 01:34:32 -04",
   "compra_segundo": {
-    "price": 626.45,
-    "name": "marote28"
+    "price": 626.99,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 624.6,
-    "name": "FMDeluXchange"
+    "price": 625.501,
+    "name": "Cripto-Ale"
   },
-  "promedio": 625.53,
+  "promedio": 626.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
