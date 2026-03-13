@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T17:46:03.382267",
-  "actualizado_vzla": "2026-03-13 13:46:03 -04",
+  "timestamp_utc": "2026-03-13T18:23:13.776343",
+  "actualizado_vzla": "2026-03-13 14:23:13 -04",
   "compra_segundo": {
-    "price": 625.8,
-    "name": "LEOCASHFAST"
+    "price": 625.49,
+    "name": "Dolar_veloz"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "被放逐的狐狸"
+    "price": 626.2,
+    "name": "Guangzhou13"
   },
-  "promedio": 626.4,
+  "promedio": 625.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
