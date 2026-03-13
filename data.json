@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T22:03:03.254176",
-  "actualizado_vzla": "2026-03-13 18:03:03 -04",
+  "timestamp_utc": "2026-03-13T22:42:57.639603",
+  "actualizado_vzla": "2026-03-13 18:42:57 -04",
   "compra_segundo": {
-    "price": 627.994,
-    "name": "LuisanENVIOS"
+    "price": 628.15,
+    "name": "DPM1420"
   },
   "venta_maxima": {
-    "price": 627.001,
-    "name": "BLACKROCK22"
+    "price": 629.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 627.5,
+  "promedio": 628.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
