@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T11:49:33.749406",
-  "actualizado_vzla": "2026-03-13 07:49:33 -04",
+  "timestamp_utc": "2026-03-13T12:38:02.001979",
+  "actualizado_vzla": "2026-03-13 08:38:02 -04",
   "compra_segundo": {
-    "price": 625.3,
-    "name": "SibyDr"
+    "price": 623.4,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "梅CityCambio爱"
+    "price": 625.2,
+    "name": "Biyt"
   },
-  "promedio": 625.15,
+  "promedio": 624.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
