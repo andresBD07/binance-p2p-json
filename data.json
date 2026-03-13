@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T20:18:12.791866",
-  "actualizado_vzla": "2026-03-13 16:18:12 -04",
+  "timestamp_utc": "2026-03-13T20:56:46.917948",
+  "actualizado_vzla": "2026-03-13 16:56:46 -04",
   "compra_segundo": {
     "price": 626.48,
-    "name": "Puerto-Trader"
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 626.5,
-    "name": "Rapidflorio84"
+    "price": 627.0,
+    "name": "安全与信任"
   },
-  "promedio": 626.49,
+  "promedio": 626.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
