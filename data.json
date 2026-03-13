@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T06:31:27.051133",
-  "actualizado_vzla": "2026-03-13 02:31:27 -04",
+  "timestamp_utc": "2026-03-13T07:30:44.311812",
+  "actualizado_vzla": "2026-03-13 03:30:44 -04",
   "compra_segundo": {
-    "price": 627.0,
-    "name": "OjrsTrade"
+    "price": 627.4,
+    "name": "TheWorld_isyours"
   },
   "venta_maxima": {
     "price": 625.501,
     "name": "Cripto-Ale"
   },
-  "promedio": 626.25,
+  "promedio": 626.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
