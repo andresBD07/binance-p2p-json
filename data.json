@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-12T23:56:45.816110",
-  "actualizado_vzla": "2026-03-12 19:56:45 -04",
+  "timestamp_utc": "2026-03-13T02:47:22.145878",
+  "actualizado_vzla": "2026-03-12 22:47:22 -04",
   "compra_segundo": {
-    "price": 625.895,
-    "name": "ExchangeWOW"
+    "price": 626.099,
+    "name": "Cesar_NSL007"
   },
   "venta_maxima": {
     "price": 628.0,
-    "name": "Blank_Mind"
+    "name": "Gustavo129"
   },
-  "promedio": 626.95,
+  "promedio": 627.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
