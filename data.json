@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T11:18:14.533422",
-  "actualizado_vzla": "2026-03-13 07:18:14 -04",
+  "timestamp_utc": "2026-03-13T11:49:33.749406",
+  "actualizado_vzla": "2026-03-13 07:49:33 -04",
   "compra_segundo": {
-    "price": 626.0,
-    "name": "Falcon_Trade-P2P"
+    "price": 625.3,
+    "name": "SibyDr"
   },
   "venta_maxima": {
-    "price": 625.501,
-    "name": "Cripto-Ale"
+    "price": 625.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 625.75,
+  "promedio": 625.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
