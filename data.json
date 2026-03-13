@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T12:38:02.001979",
-  "actualizado_vzla": "2026-03-13 08:38:02 -04",
+  "timestamp_utc": "2026-03-13T13:46:23.079604",
+  "actualizado_vzla": "2026-03-13 09:46:23 -04",
   "compra_segundo": {
-    "price": 623.4,
-    "name": "ElCandidoP2P"
+    "price": 625.2,
+    "name": "Drizzt_D"
   },
   "venta_maxima": {
-    "price": 625.2,
-    "name": "Biyt"
+    "price": 626.5,
+    "name": "-Zeratul-"
   },
-  "promedio": 624.3,
+  "promedio": 625.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
