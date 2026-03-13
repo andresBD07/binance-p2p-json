@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T21:42:53.323623",
-  "actualizado_vzla": "2026-03-13 17:42:53 -04",
+  "timestamp_utc": "2026-03-13T22:03:03.254176",
+  "actualizado_vzla": "2026-03-13 18:03:03 -04",
   "compra_segundo": {
-    "price": 626.9,
-    "name": "TransJ_J"
+    "price": 627.994,
+    "name": "LuisanENVIOS"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "Guangzhou13"
+    "price": 627.001,
+    "name": "BLACKROCK22"
   },
-  "promedio": 626.95,
+  "promedio": 627.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
