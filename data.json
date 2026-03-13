@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T22:42:57.639603",
-  "actualizado_vzla": "2026-03-13 18:42:57 -04",
+  "timestamp_utc": "2026-03-13T23:13:31.077970",
+  "actualizado_vzla": "2026-03-13 19:13:31 -04",
   "compra_segundo": {
-    "price": 628.15,
-    "name": "DPM1420"
+    "price": 628.67,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 629.5,
-    "name": "Rapidflorio84"
+    "price": 629.0,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 628.83,
+  "promedio": 628.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
