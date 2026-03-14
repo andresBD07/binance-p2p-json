@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T19:36:33.302777",
-  "actualizado_vzla": "2026-03-14 15:36:33 -04",
+  "timestamp_utc": "2026-03-14T19:55:51.608186",
+  "actualizado_vzla": "2026-03-14 15:55:51 -04",
   "compra_segundo": {
-    "price": 625.8,
-    "name": "ulizer"
+    "price": 625.999,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 627.05,
-    "name": "梅CityCambio爱"
+    "price": 627.6,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 626.42,
+  "promedio": 626.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
