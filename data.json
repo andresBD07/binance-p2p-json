@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T08:56:04.242874",
-  "actualizado_vzla": "2026-03-14 04:56:04 -04",
+  "timestamp_utc": "2026-03-14T09:42:28.106389",
+  "actualizado_vzla": "2026-03-14 05:42:28 -04",
   "compra_segundo": {
-    "price": 629.396,
-    "name": "instantremitly "
+    "price": 628.999,
+    "name": "3_1415926535897932384626433832795028841971693993751058209749"
   },
   "venta_maxima": {
     "price": 626.0,
     "name": "Eliezerjph"
   },
-  "promedio": 627.7,
+  "promedio": 627.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
