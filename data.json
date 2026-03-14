@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-13T23:46:20.782806",
-  "actualizado_vzla": "2026-03-13 19:46:20 -04",
+  "timestamp_utc": "2026-03-14T00:52:56.032173",
+  "actualizado_vzla": "2026-03-13 20:52:56 -04",
   "compra_segundo": {
-    "price": 627.994,
-    "name": "josealtu"
+    "price": 627.979,
+    "name": "TRAVEL BUSINESS 33"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Blank_Mind"
+    "price": 629.1,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 629.0,
+  "promedio": 628.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
