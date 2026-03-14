@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T13:12:21.446157",
-  "actualizado_vzla": "2026-03-14 09:12:21 -04",
+  "timestamp_utc": "2026-03-14T13:55:19.973268",
+  "actualizado_vzla": "2026-03-14 09:55:19 -04",
   "compra_segundo": {
-    "price": 626.9,
-    "name": "Alex-MARTIN"
+    "price": 626.85,
+    "name": "CripSeguro23"
   },
   "venta_maxima": {
-    "price": 627.6,
-    "name": "Guangzhou13"
+    "price": 628.0,
+    "name": "-DRASIX-"
   },
-  "promedio": 627.25,
+  "promedio": 627.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
