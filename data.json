@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T08:18:10.437030",
-  "actualizado_vzla": "2026-03-14 04:18:10 -04",
+  "timestamp_utc": "2026-03-14T08:56:04.242874",
+  "actualizado_vzla": "2026-03-14 04:56:04 -04",
   "compra_segundo": {
-    "price": 629.5,
-    "name": "JCR-P2P-1522"
+    "price": 629.396,
+    "name": "instantremitly "
   },
   "venta_maxima": {
     "price": 626.0,
     "name": "Eliezerjph"
   },
-  "promedio": 627.75,
+  "promedio": 627.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
