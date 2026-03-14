@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-14T17:14:55.050451",
-  "actualizado_vzla": "2026-03-14 13:14:55 -04",
+  "timestamp_utc": "2026-03-14T17:47:08.377082",
+  "actualizado_vzla": "2026-03-14 13:47:08 -04",
   "compra_segundo": {
     "price": 625.5,
-    "name": "ElCandidoP2P"
+    "name": "Franb23"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "梅CityCambio爱"
+    "price": 627.002,
+    "name": "P2P-18cdcaje"
   },
   "promedio": 626.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
