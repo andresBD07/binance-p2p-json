@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-03-14T07:46:34.101098",
-  "actualizado_vzla": "2026-03-14 03:46:34 -04",
+  "timestamp_utc": "2026-03-14T08:18:10.437030",
+  "actualizado_vzla": "2026-03-14 04:18:10 -04",
   "compra_segundo": {
-    "price": 629.509,
-    "name": "FlashPayy"
+    "price": 629.5,
+    "name": "JCR-P2P-1522"
   },
   "venta_maxima": {
     "price": 626.0,
