@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T11:11:56.453907",
-  "actualizado_vzla": "2026-03-14 07:11:56 -04",
+  "timestamp_utc": "2026-03-14T11:41:13.503052",
+  "actualizado_vzla": "2026-03-14 07:41:13 -04",
   "compra_segundo": {
-    "price": 627.999,
-    "name": "PayDesk_Figueroa"
+    "price": 627.98,
+    "name": "Criptosafe_"
   },
   "venta_maxima": {
     "price": 626.0,
     "name": "Eliezerjph"
   },
-  "promedio": 627.0,
+  "promedio": 626.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
