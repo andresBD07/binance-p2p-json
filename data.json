@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T13:55:19.973268",
-  "actualizado_vzla": "2026-03-14 09:55:19 -04",
+  "timestamp_utc": "2026-03-14T14:36:36.597082",
+  "actualizado_vzla": "2026-03-14 10:36:36 -04",
   "compra_segundo": {
-    "price": 626.85,
-    "name": "CripSeguro23"
+    "price": 626.93,
+    "name": "Yamato-Exchange"
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "-DRASIX-"
+    "price": 626.0,
+    "name": "Guangzhou13"
   },
-  "promedio": 627.42,
+  "promedio": 626.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
