@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T11:58:32.543665",
-  "actualizado_vzla": "2026-03-14 07:58:32 -04",
+  "timestamp_utc": "2026-03-14T13:12:21.446157",
+  "actualizado_vzla": "2026-03-14 09:12:21 -04",
   "compra_segundo": {
-    "price": 627.9,
-    "name": "InversionesLT"
+    "price": 626.9,
+    "name": "Alex-MARTIN"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "梅CityCambio爱"
+    "price": 627.6,
+    "name": "Guangzhou13"
   },
-  "promedio": 627.45,
+  "promedio": 627.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
