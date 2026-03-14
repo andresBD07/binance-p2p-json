@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T21:57:17.882557",
-  "actualizado_vzla": "2026-03-14 17:57:17 -04",
+  "timestamp_utc": "2026-03-14T22:37:24.723254",
+  "actualizado_vzla": "2026-03-14 18:37:24 -04",
   "compra_segundo": {
-    "price": 626.89,
-    "name": "WayneTecnology"
+    "price": 627.1,
+    "name": "CryptoMendoza-"
   },
   "venta_maxima": {
-    "price": 627.8,
-    "name": "Rapidflorio84"
+    "price": 628.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 627.35,
+  "promedio": 627.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
