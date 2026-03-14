@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T19:55:51.608186",
-  "actualizado_vzla": "2026-03-14 15:55:51 -04",
+  "timestamp_utc": "2026-03-14T20:38:41.373461",
+  "actualizado_vzla": "2026-03-14 16:38:41 -04",
   "compra_segundo": {
-    "price": 625.999,
-    "name": "MSaracai"
+    "price": 626.49,
+    "name": "thecryptofat"
   },
   "venta_maxima": {
-    "price": 627.6,
-    "name": "Child-CambioFacil"
+    "price": 627.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 626.8,
+  "promedio": 627.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
