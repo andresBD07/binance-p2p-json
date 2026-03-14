@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T17:47:08.377082",
-  "actualizado_vzla": "2026-03-14 13:47:08 -04",
+  "timestamp_utc": "2026-03-14T18:18:10.391707",
+  "actualizado_vzla": "2026-03-14 14:18:10 -04",
   "compra_segundo": {
-    "price": 625.5,
-    "name": "Franb23"
+    "price": 625.29,
+    "name": "FULLcapitalINVEST"
   },
   "venta_maxima": {
-    "price": 627.002,
-    "name": "P2P-18cdcaje"
+    "price": 627.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 626.25,
+  "promedio": 626.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
