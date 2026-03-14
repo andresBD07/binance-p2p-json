@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T19:00:09.518909",
-  "actualizado_vzla": "2026-03-14 15:00:09 -04",
+  "timestamp_utc": "2026-03-14T19:36:33.302777",
+  "actualizado_vzla": "2026-03-14 15:36:33 -04",
   "compra_segundo": {
-    "price": 625.899,
-    "name": "Criptotrading"
+    "price": 625.8,
+    "name": "ulizer"
   },
   "venta_maxima": {
-    "price": 627.0,
-    "name": "CCST"
+    "price": 627.05,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 626.45,
+  "promedio": 626.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
