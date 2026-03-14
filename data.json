@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T22:37:24.723254",
-  "actualizado_vzla": "2026-03-14 18:37:24 -04",
+  "timestamp_utc": "2026-03-14T23:00:17.678159",
+  "actualizado_vzla": "2026-03-14 19:00:17 -04",
   "compra_segundo": {
-    "price": 627.1,
-    "name": "CryptoMendoza-"
+    "price": 627.18,
+    "name": "Tumonedavirtual"
   },
   "venta_maxima": {
-    "price": 628.5,
-    "name": "梅CityCambio爱"
+    "price": 627.9,
+    "name": "USDTpulso"
   },
-  "promedio": 627.8,
+  "promedio": 627.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
