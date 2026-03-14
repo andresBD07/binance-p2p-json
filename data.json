@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T00:52:56.032173",
-  "actualizado_vzla": "2026-03-13 20:52:56 -04",
+  "timestamp_utc": "2026-03-14T03:26:54.824070",
+  "actualizado_vzla": "2026-03-13 23:26:54 -04",
   "compra_segundo": {
-    "price": 627.979,
-    "name": "TRAVEL BUSINESS 33"
+    "price": 628.777,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 629.1,
-    "name": "Infiniti_Ronin"
+    "price": 626.65,
+    "name": "Cripto-Ale"
   },
-  "promedio": 628.54,
+  "promedio": 627.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
