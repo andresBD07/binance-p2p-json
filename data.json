@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T21:00:45.259539",
-  "actualizado_vzla": "2026-03-14 17:00:45 -04",
+  "timestamp_utc": "2026-03-14T21:37:26.757576",
+  "actualizado_vzla": "2026-03-14 17:37:26 -04",
   "compra_segundo": {
-    "price": 626.4,
-    "name": "Gabo745"
+    "price": 626.584,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 627.3,
-    "name": "GOMEZTUSOLUCION"
+    "price": 628.501,
+    "name": "Angel2209"
   },
-  "promedio": 626.85,
+  "promedio": 627.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
