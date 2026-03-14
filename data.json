@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T10:45:06.820200",
-  "actualizado_vzla": "2026-03-14 06:45:06 -04",
+  "timestamp_utc": "2026-03-14T11:11:56.453907",
+  "actualizado_vzla": "2026-03-14 07:11:56 -04",
   "compra_segundo": {
-    "price": 628.89,
-    "name": "GJTG84"
+    "price": 627.999,
+    "name": "PayDesk_Figueroa"
   },
   "venta_maxima": {
     "price": 626.0,
     "name": "Eliezerjph"
   },
-  "promedio": 627.44,
+  "promedio": 627.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
