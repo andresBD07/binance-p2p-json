@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T11:42:41.275683",
-  "actualizado_vzla": "2026-03-15 07:42:41 -04",
+  "timestamp_utc": "2026-03-15T11:59:44.263532",
+  "actualizado_vzla": "2026-03-15 07:59:44 -04",
   "compra_segundo": {
     "price": 629.0,
     "name": "Nexo Capital"
   },
   "venta_maxima": {
-    "price": 624.9,
-    "name": "Rapidflorio84"
+    "price": 626.0,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 626.95,
+  "promedio": 627.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
