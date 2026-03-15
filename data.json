@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T07:56:36.544809",
-  "actualizado_vzla": "2026-03-15 03:56:36 -04",
+  "timestamp_utc": "2026-03-15T08:49:49.187423",
+  "actualizado_vzla": "2026-03-15 04:49:49 -04",
   "compra_segundo": {
-    "price": 629.944,
-    "name": "-HashiramaSenju"
+    "price": 629.85,
+    "name": "eltripolitanop2p"
   },
   "venta_maxima": {
-    "price": 624.6,
-    "name": "BOLO-USDT"
+    "price": 624.7,
+    "name": "Comercial Slim 2018 C A"
   },
-  "promedio": 627.27,
+  "promedio": 627.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
