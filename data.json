@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T13:58:24.117317",
-  "actualizado_vzla": "2026-03-15 09:58:24 -04",
+  "timestamp_utc": "2026-03-15T14:42:46.892339",
+  "actualizado_vzla": "2026-03-15 10:42:46 -04",
   "compra_segundo": {
-    "price": 630.0,
-    "name": "SINGAPORE24"
+    "price": 632.0,
+    "name": "FULLcapitalINVEST"
   },
   "venta_maxima": {
-    "price": 629.01,
-    "name": "Brawcoins"
+    "price": 630.15,
+    "name": "Rapidflorio84"
   },
-  "promedio": 629.5,
+  "promedio": 631.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
