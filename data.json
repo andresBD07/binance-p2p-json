@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T15:46:58.526025",
-  "actualizado_vzla": "2026-03-15 11:46:58 -04",
+  "timestamp_utc": "2026-03-15T16:16:13.174324",
+  "actualizado_vzla": "2026-03-15 12:16:13 -04",
   "compra_segundo": {
-    "price": 632.869,
-    "name": "wuillou11"
+    "price": 632.169,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "SangetsuTrader"
+    "price": 631.2,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 632.43,
+  "promedio": 631.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
