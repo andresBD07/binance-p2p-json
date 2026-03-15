@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-14T23:59:01.707503",
-  "actualizado_vzla": "2026-03-14 19:59:01 -04",
+  "timestamp_utc": "2026-03-15T03:27:30.809691",
+  "actualizado_vzla": "2026-03-14 23:27:30 -04",
   "compra_segundo": {
-    "price": 626.999,
-    "name": "Jorgecamacaro79"
+    "price": 628.88,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 628.55,
-    "name": "梅CityCambio爱"
+    "price": 627.8,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 627.77,
+  "promedio": 628.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
