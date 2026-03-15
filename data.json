@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T21:36:19.426816",
-  "actualizado_vzla": "2026-03-15 17:36:19 -04",
+  "timestamp_utc": "2026-03-15T21:57:16.764840",
+  "actualizado_vzla": "2026-03-15 17:57:16 -04",
   "compra_segundo": {
-    "price": 633.989,
-    "name": "Regoncars"
+    "price": 633.8,
+    "name": "Atumanocambio"
   },
   "venta_maxima": {
-    "price": 634.004,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 634.31,
+    "name": "CambiosEl"
   },
-  "promedio": 634.0,
+  "promedio": 634.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
