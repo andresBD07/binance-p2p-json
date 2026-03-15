@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T19:52:15.002717",
-  "actualizado_vzla": "2026-03-15 15:52:15 -04",
+  "timestamp_utc": "2026-03-15T20:28:46.796786",
+  "actualizado_vzla": "2026-03-15 16:28:46 -04",
   "compra_segundo": {
-    "price": 632.247,
-    "name": "Trellvader"
+    "price": 632.4,
+    "name": "JeyJey_Trade"
   },
   "venta_maxima": {
-    "price": 631.0,
+    "price": 631.5,
     "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 631.62,
+  "promedio": 631.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
