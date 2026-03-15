@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T03:27:30.809691",
-  "actualizado_vzla": "2026-03-14 23:27:30 -04",
+  "timestamp_utc": "2026-03-15T05:19:28.802292",
+  "actualizado_vzla": "2026-03-15 01:19:28 -04",
   "compra_segundo": {
-    "price": 628.88,
-    "name": "RyderXchange"
+    "price": 629.4,
+    "name": "CoinPilot1"
   },
   "venta_maxima": {
-    "price": 627.8,
-    "name": "Infiniti_Ronin"
+    "price": 625.6,
+    "name": "Cambioscorleone"
   },
-  "promedio": 628.34,
+  "promedio": 627.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
