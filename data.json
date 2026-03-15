@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T16:16:13.174324",
-  "actualizado_vzla": "2026-03-15 12:16:13 -04",
+  "timestamp_utc": "2026-03-15T16:52:12.388453",
+  "actualizado_vzla": "2026-03-15 12:52:12 -04",
   "compra_segundo": {
-    "price": 632.169,
-    "name": "CriptTradeHup "
+    "price": 632.55,
+    "name": "CambiosyRemesasAG"
   },
   "venta_maxima": {
-    "price": 631.2,
-    "name": "Infiniti_Ronin"
+    "price": 631.52,
+    "name": "Elrapid"
   },
-  "promedio": 631.68,
+  "promedio": 632.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
