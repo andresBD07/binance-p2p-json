@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T10:44:05.661417",
-  "actualizado_vzla": "2026-03-15 06:44:05 -04",
+  "timestamp_utc": "2026-03-15T11:12:52.035620",
+  "actualizado_vzla": "2026-03-15 07:12:52 -04",
   "compra_segundo": {
-    "price": 629.32,
-    "name": "AskenLurom"
+    "price": 629.099,
+    "name": "TU_CAMBIO_SEGURO03"
   },
   "venta_maxima": {
     "price": 624.5,
     "name": "Arjet_Trading"
   },
-  "promedio": 626.91,
+  "promedio": 626.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
