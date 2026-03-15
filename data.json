@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T11:59:44.263532",
-  "actualizado_vzla": "2026-03-15 07:59:44 -04",
+  "timestamp_utc": "2026-03-15T13:14:19.369086",
+  "actualizado_vzla": "2026-03-15 09:14:19 -04",
   "compra_segundo": {
-    "price": 629.0,
-    "name": "Nexo Capital"
+    "price": 628.88,
+    "name": "CambiosyRemesasAG"
   },
   "venta_maxima": {
-    "price": 626.0,
-    "name": "MaestroRoshi-"
+    "price": 628.0,
+    "name": "Godisgift"
   },
-  "promedio": 627.5,
+  "promedio": 628.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
