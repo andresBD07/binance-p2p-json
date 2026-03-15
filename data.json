@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T20:28:46.796786",
-  "actualizado_vzla": "2026-03-15 16:28:46 -04",
+  "timestamp_utc": "2026-03-15T20:56:54.627867",
+  "actualizado_vzla": "2026-03-15 16:56:54 -04",
   "compra_segundo": {
-    "price": 632.4,
-    "name": "JeyJey_Trade"
+    "price": 633.1,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 631.5,
+    "price": 632.0,
     "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 631.95,
+  "promedio": 632.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
