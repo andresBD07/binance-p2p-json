@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T19:29:07.317978",
-  "actualizado_vzla": "2026-03-15 15:29:07 -04",
+  "timestamp_utc": "2026-03-15T19:52:15.002717",
+  "actualizado_vzla": "2026-03-15 15:52:15 -04",
   "compra_segundo": {
-    "price": 632.0,
-    "name": "Dalabe97"
+    "price": 632.247,
+    "name": "Trellvader"
   },
   "venta_maxima": {
-    "price": 631.205,
+    "price": 631.0,
     "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 631.6,
+  "promedio": 631.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
