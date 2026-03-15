@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T05:19:28.802292",
-  "actualizado_vzla": "2026-03-15 01:19:28 -04",
+  "timestamp_utc": "2026-03-15T06:14:47.911407",
+  "actualizado_vzla": "2026-03-15 02:14:47 -04",
   "compra_segundo": {
-    "price": 629.4,
-    "name": "CoinPilot1"
+    "price": 629.9,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 625.6,
+    "price": 625.8,
     "name": "Cambioscorleone"
   },
-  "promedio": 627.5,
+  "promedio": 627.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
