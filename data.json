@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T13:14:19.369086",
-  "actualizado_vzla": "2026-03-15 09:14:19 -04",
+  "timestamp_utc": "2026-03-15T13:58:24.117317",
+  "actualizado_vzla": "2026-03-15 09:58:24 -04",
   "compra_segundo": {
-    "price": 628.88,
-    "name": "CambiosyRemesasAG"
+    "price": 630.0,
+    "name": "SINGAPORE24"
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "Godisgift"
+    "price": 629.01,
+    "name": "Brawcoins"
   },
-  "promedio": 628.44,
+  "promedio": 629.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
