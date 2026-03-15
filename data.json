@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-15T17:26:43.901676",
-  "actualizado_vzla": "2026-03-15 13:26:43 -04",
+  "timestamp_utc": "2026-03-15T17:55:35.402801",
+  "actualizado_vzla": "2026-03-15 13:55:35 -04",
   "compra_segundo": {
     "price": 633.0,
-    "name": "Trader_QueenCripto"
+    "name": "-ArExperienceChange-"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "Godisgift"
+    "price": 632.01,
+    "name": "Elrapid"
   },
   "promedio": 632.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
