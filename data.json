@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T08:11:59.661815",
-  "actualizado_vzla": "2026-03-16 04:11:59 -04",
+  "timestamp_utc": "2026-03-16T09:16:16.642220",
+  "actualizado_vzla": "2026-03-16 05:16:16 -04",
   "compra_segundo": {
-    "price": 638.999,
-    "name": "TheSurgueon_DTP"
+    "price": 638.0,
+    "name": "JuanFlash"
   },
   "venta_maxima": {
     "price": 633.0,
     "name": "BerracoT"
   },
-  "promedio": 636.0,
+  "promedio": 635.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
