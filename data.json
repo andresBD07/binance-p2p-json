@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T23:00:21.244421",
-  "actualizado_vzla": "2026-03-16 19:00:21 -04",
+  "timestamp_utc": "2026-03-16T23:39:24.966608",
+  "actualizado_vzla": "2026-03-16 19:39:24 -04",
   "compra_segundo": {
-    "price": 652.6,
-    "name": "YersonCapital"
+    "price": 652.998,
+    "name": "--FLASH--"
   },
   "venta_maxima": {
     "price": 655.0,
     "name": "Gustavo129"
   },
-  "promedio": 653.8,
+  "promedio": 654.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
