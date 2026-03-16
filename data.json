@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T15:05:01.615309",
-  "actualizado_vzla": "2026-03-16 11:05:01 -04",
+  "timestamp_utc": "2026-03-16T16:16:24.558352",
+  "actualizado_vzla": "2026-03-16 12:16:24 -04",
   "compra_segundo": {
-    "price": 639.45,
-    "name": "Rapidez_Garantizada"
+    "price": 641.99,
+    "name": "PonqueMercado"
   },
   "venta_maxima": {
-    "price": 640.301,
-    "name": "All-inCrypto"
+    "price": 643.0,
+    "name": "你理想的改變"
   },
-  "promedio": 639.88,
+  "promedio": 642.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
