@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T11:30:22.717556",
-  "actualizado_vzla": "2026-03-16 07:30:22 -04",
+  "timestamp_utc": "2026-03-16T12:07:33.359645",
+  "actualizado_vzla": "2026-03-16 08:07:33 -04",
   "compra_segundo": {
-    "price": 636.589,
-    "name": "Caramelo_11"
+    "price": 636.699,
+    "name": "_PAPITA_"
   },
   "venta_maxima": {
-    "price": 634.2,
-    "name": "Blank_Mind"
+    "price": 634.55,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 635.39,
+  "promedio": 635.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
