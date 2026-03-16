@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T00:01:37.121254",
-  "actualizado_vzla": "2026-03-15 20:01:37 -04",
+  "timestamp_utc": "2026-03-16T03:31:20.882127",
+  "actualizado_vzla": "2026-03-15 23:31:20 -04",
   "compra_segundo": {
-    "price": 635.4,
-    "name": "nene"
+    "price": 637.79,
+    "name": "Q2030"
   },
   "venta_maxima": {
-    "price": 635.0,
-    "name": "TAURUS85"
+    "price": 636.2,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 635.2,
+  "promedio": 637.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
