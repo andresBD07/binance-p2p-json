@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T12:07:33.359645",
-  "actualizado_vzla": "2026-03-16 08:07:33 -04",
+  "timestamp_utc": "2026-03-16T13:54:23.676401",
+  "actualizado_vzla": "2026-03-16 09:54:23 -04",
   "compra_segundo": {
-    "price": 636.699,
-    "name": "_PAPITA_"
+    "price": 634.599,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 634.55,
-    "name": "梅CityCambio爱"
+    "price": 636.1,
+    "name": "Brawcoins"
   },
-  "promedio": 635.62,
+  "promedio": 635.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
