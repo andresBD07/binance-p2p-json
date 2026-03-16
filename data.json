@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T05:31:47.836115",
-  "actualizado_vzla": "2026-03-16 01:31:47 -04",
+  "timestamp_utc": "2026-03-16T06:56:58.394779",
+  "actualizado_vzla": "2026-03-16 02:56:58 -04",
   "compra_segundo": {
-    "price": 638.6,
-    "name": "Rous_Only"
+    "price": 638.999,
+    "name": "TheSurgueon_DTP"
   },
   "venta_maxima": {
-    "price": 633.31,
-    "name": "BOLO-USDT"
+    "price": 633.0,
+    "name": "BerracoT"
   },
-  "promedio": 635.95,
+  "promedio": 636.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
