@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T21:52:36.797050",
-  "actualizado_vzla": "2026-03-16 17:52:36 -04",
+  "timestamp_utc": "2026-03-16T22:33:47.446214",
+  "actualizado_vzla": "2026-03-16 18:33:47 -04",
   "compra_segundo": {
-    "price": 653.7,
-    "name": "Gabo745"
+    "price": 652.84,
+    "name": "MarDiodoros"
   },
   "venta_maxima": {
     "price": 655.0,
     "name": "Gustavo129"
   },
-  "promedio": 654.35,
+  "promedio": 653.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
