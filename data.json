@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-15T23:40:59.966678",
-  "actualizado_vzla": "2026-03-15 19:40:59 -04",
+  "timestamp_utc": "2026-03-16T00:01:37.121254",
+  "actualizado_vzla": "2026-03-15 20:01:37 -04",
   "compra_segundo": {
-    "price": 635.0,
-    "name": "LJBU-19"
+    "price": 635.4,
+    "name": "nene"
   },
   "venta_maxima": {
-    "price": 634.0,
-    "name": "GREEN78"
+    "price": 635.0,
+    "name": "TAURUS85"
   },
-  "promedio": 634.5,
+  "promedio": 635.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
