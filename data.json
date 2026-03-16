@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-16T19:38:49.642118",
-  "actualizado_vzla": "2026-03-16 15:38:49 -04",
+  "timestamp_utc": "2026-03-16T20:20:48.298563",
+  "actualizado_vzla": "2026-03-16 16:20:48 -04",
   "compra_segundo": {
-    "price": 651.3,
-    "name": "raParadas-31"
+    "price": 652.6,
+    "name": "FamaP2P"
   },
   "venta_maxima": {
-    "price": 651.8,
-    "name": "GOMEZTUSOLUCION"
+    "price": 653.001,
+    "name": "火PhoenixRising"
   },
-  "promedio": 651.55,
+  "promedio": 652.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
