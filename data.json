@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T15:47:32.511513",
-  "actualizado_vzla": "2026-03-17 11:47:32 -04",
+  "timestamp_utc": "2026-03-17T16:50:13.166051",
+  "actualizado_vzla": "2026-03-17 12:50:13 -04",
   "compra_segundo": {
-    "price": 659.0,
-    "name": "villada14"
+    "price": 667.999,
+    "name": "LRchanges "
   },
   "venta_maxima": {
-    "price": 661.0,
-    "name": "Biyt"
+    "price": 666.0,
+    "name": "AllDayTrade"
   },
-  "promedio": 660.0,
+  "promedio": 667.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
