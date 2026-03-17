@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T13:44:21.042329",
-  "actualizado_vzla": "2026-03-17 09:44:21 -04",
+  "timestamp_utc": "2026-03-17T14:44:45.763149",
+  "actualizado_vzla": "2026-03-17 10:44:45 -04",
   "compra_segundo": {
-    "price": 651.0,
-    "name": "LopezInvestment"
+    "price": 649.598,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 654.0,
-    "name": "梅CityCambio爱"
+    "price": 650.0,
+    "name": "Pipotrade"
   },
-  "promedio": 652.5,
+  "promedio": 649.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
