@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T10:08:23.216300",
-  "actualizado_vzla": "2026-03-17 06:08:23 -04",
+  "timestamp_utc": "2026-03-17T11:08:49.292746",
+  "actualizado_vzla": "2026-03-17 07:08:49 -04",
   "compra_segundo": {
-    "price": 655.0,
-    "name": "何塞 路易斯 坩埚"
+    "price": 654.0,
+    "name": "willbyruz"
   },
   "venta_maxima": {
     "price": 650.0,
     "name": "app2112"
   },
-  "promedio": 652.5,
+  "promedio": 652.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
