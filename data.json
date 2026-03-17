@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T21:34:08.952344",
-  "actualizado_vzla": "2026-03-17 17:34:08 -04",
+  "timestamp_utc": "2026-03-17T22:04:41.917309",
+  "actualizado_vzla": "2026-03-17 18:04:41 -04",
   "compra_segundo": {
-    "price": 667.66,
-    "name": "CryptoJM95"
+    "price": 668.6,
+    "name": "CambiosBalita"
   },
   "venta_maxima": {
     "price": 670.0,
     "name": "USDTpulso"
   },
-  "promedio": 668.83,
+  "promedio": 669.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
