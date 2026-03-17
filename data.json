@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T22:51:08.704636",
-  "actualizado_vzla": "2026-03-17 18:51:08 -04",
+  "timestamp_utc": "2026-03-17T23:28:39.053122",
+  "actualizado_vzla": "2026-03-17 19:28:39 -04",
   "compra_segundo": {
-    "price": 669.3,
-    "name": "Soy-Tu-Trader"
+    "price": 669.1,
+    "name": "BILLETERA P2P "
   },
   "venta_maxima": {
-    "price": 672.0,
-    "name": "LordCambios"
+    "price": 670.0,
+    "name": "USDTpulso"
   },
-  "promedio": 670.65,
+  "promedio": 669.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
