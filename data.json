@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T19:57:08.332933",
-  "actualizado_vzla": "2026-03-17 15:57:08 -04",
+  "timestamp_utc": "2026-03-17T20:51:21.924156",
+  "actualizado_vzla": "2026-03-17 16:51:21 -04",
   "compra_segundo": {
-    "price": 667.8,
-    "name": "-ArExperienceChange-"
+    "price": 667.6,
+    "name": "CoinBeek"
   },
   "venta_maxima": {
-    "price": 670.0,
-    "name": "USDTpulso"
+    "price": 668.0,
+    "name": "VERTUOK"
   },
-  "promedio": 668.9,
+  "promedio": 667.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
