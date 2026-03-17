@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T22:04:41.917309",
-  "actualizado_vzla": "2026-03-17 18:04:41 -04",
+  "timestamp_utc": "2026-03-17T22:51:08.704636",
+  "actualizado_vzla": "2026-03-17 18:51:08 -04",
   "compra_segundo": {
-    "price": 668.6,
-    "name": "CambiosBalita"
+    "price": 669.3,
+    "name": "Soy-Tu-Trader"
   },
   "venta_maxima": {
-    "price": 670.0,
-    "name": "USDTpulso"
+    "price": 672.0,
+    "name": "LordCambios"
   },
-  "promedio": 669.3,
+  "promedio": 670.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
