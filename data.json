@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T08:03:37.301798",
-  "actualizado_vzla": "2026-03-17 04:03:37 -04",
+  "timestamp_utc": "2026-03-17T09:06:28.338308",
+  "actualizado_vzla": "2026-03-17 05:06:28 -04",
   "compra_segundo": {
-    "price": 655.99,
-    "name": "cambiaseguro22"
+    "price": 655.5,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 650.0,
     "name": "app2112"
   },
-  "promedio": 653.0,
+  "promedio": 652.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
