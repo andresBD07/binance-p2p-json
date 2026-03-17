@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T04:50:29.782460",
-  "actualizado_vzla": "2026-03-17 00:50:29 -04",
+  "timestamp_utc": "2026-03-17T05:54:56.047556",
+  "actualizado_vzla": "2026-03-17 01:54:56 -04",
   "compra_segundo": {
-    "price": 655.0,
-    "name": "Nexo Capital"
+    "price": 655.99,
+    "name": "cambiaseguro22"
   },
   "venta_maxima": {
-    "price": 650.2,
-    "name": "Manda2-"
+    "price": 652.0,
+    "name": "Diego-KV"
   },
-  "promedio": 652.6,
+  "promedio": 654.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
