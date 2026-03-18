@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T20:55:24.776014",
-  "actualizado_vzla": "2026-03-18 16:55:24 -04",
+  "timestamp_utc": "2026-03-18T21:42:22.543450",
+  "actualizado_vzla": "2026-03-18 17:42:22 -04",
   "compra_segundo": {
-    "price": 669.9,
-    "name": "MONYSEND1"
+    "price": 669.99,
+    "name": "Tigre de wall street"
   },
   "venta_maxima": {
-    "price": 668.503,
-    "name": "P2P-18cdcaje"
+    "price": 669.1,
+    "name": "Blank_Mind"
   },
-  "promedio": 669.2,
+  "promedio": 669.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
