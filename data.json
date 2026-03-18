@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-17T23:58:41.766488",
-  "actualizado_vzla": "2026-03-17 19:58:41 -04",
+  "timestamp_utc": "2026-03-18T03:15:33.214517",
+  "actualizado_vzla": "2026-03-17 23:15:33 -04",
   "compra_segundo": {
-    "price": 669.5,
-    "name": "CambiosBesmant"
+    "price": 669.2,
+    "name": "TokenSwift"
   },
   "venta_maxima": {
-    "price": 670.0,
-    "name": "TAURUS85"
+    "price": 667.75,
+    "name": "Trust-Broker"
   },
-  "promedio": 669.75,
+  "promedio": 668.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
