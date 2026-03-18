@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T11:29:12.451112",
-  "actualizado_vzla": "2026-03-18 07:29:12 -04",
+  "timestamp_utc": "2026-03-18T12:07:43.860943",
+  "actualizado_vzla": "2026-03-18 08:07:43 -04",
   "compra_segundo": {
-    "price": 668.89,
-    "name": "RedP2P_VEN"
+    "price": 668.7,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
-    "price": 665.8,
-    "name": "The_Lider"
+    "price": 666.2,
+    "name": "Blank_Mind"
   },
-  "promedio": 667.35,
+  "promedio": 667.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
