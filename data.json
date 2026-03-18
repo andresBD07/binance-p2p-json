@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T13:53:44.322110",
-  "actualizado_vzla": "2026-03-18 09:53:44 -04",
+  "timestamp_utc": "2026-03-18T15:06:28.940784",
+  "actualizado_vzla": "2026-03-18 11:06:28 -04",
   "compra_segundo": {
-    "price": 660.3,
-    "name": "Aalcripto"
+    "price": 666.17,
+    "name": "ROCKandROLL08"
   },
   "venta_maxima": {
-    "price": 658.02,
-    "name": "Elrapid"
+    "price": 665.5,
+    "name": "app2112"
   },
-  "promedio": 659.16,
+  "promedio": 665.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
