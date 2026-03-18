@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T05:10:31.491252",
-  "actualizado_vzla": "2026-03-18 01:10:31 -04",
+  "timestamp_utc": "2026-03-18T06:15:33.025800",
+  "actualizado_vzla": "2026-03-18 02:15:33 -04",
   "compra_segundo": {
-    "price": 669.3,
-    "name": "TOROgaboxCoin"
+    "price": 669.96,
+    "name": "KobyTrader"
   },
   "venta_maxima": {
     "price": 664.55,
     "name": "XSSALLTRADERSSX"
   },
-  "promedio": 666.92,
+  "promedio": 667.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
