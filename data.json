@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T08:26:30.329086",
-  "actualizado_vzla": "2026-03-18 04:26:30 -04",
+  "timestamp_utc": "2026-03-18T09:30:54.478681",
+  "actualizado_vzla": "2026-03-18 05:30:54 -04",
   "compra_segundo": {
-    "price": 671.1,
-    "name": "Abi_Cambios"
+    "price": 670.5,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 663.1,
     "name": "BLACKROCK22"
   },
-  "promedio": 667.1,
+  "promedio": 666.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
