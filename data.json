@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T10:32:19.691847",
-  "actualizado_vzla": "2026-03-18 06:32:19 -04",
+  "timestamp_utc": "2026-03-18T11:29:12.451112",
+  "actualizado_vzla": "2026-03-18 07:29:12 -04",
   "compra_segundo": {
-    "price": 668.38,
-    "name": "lulu14"
+    "price": 668.89,
+    "name": "RedP2P_VEN"
   },
   "venta_maxima": {
-    "price": 663.5,
-    "name": "ConfianzaEnRed"
+    "price": 665.8,
+    "name": "The_Lider"
   },
-  "promedio": 665.94,
+  "promedio": 667.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
