@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T07:33:42.994466",
-  "actualizado_vzla": "2026-03-18 03:33:43 -04",
+  "timestamp_utc": "2026-03-18T08:26:30.329086",
+  "actualizado_vzla": "2026-03-18 04:26:30 -04",
   "compra_segundo": {
-    "price": 671.0,
-    "name": "Osu199x"
+    "price": 671.1,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 664.55,
-    "name": "XSSALLTRADERSSX"
+    "price": 663.1,
+    "name": "BLACKROCK22"
   },
-  "promedio": 667.77,
+  "promedio": 667.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
