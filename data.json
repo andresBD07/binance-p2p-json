@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T22:17:14.562335",
-  "actualizado_vzla": "2026-03-18 18:17:14 -04",
+  "timestamp_utc": "2026-03-18T22:52:09.383571",
+  "actualizado_vzla": "2026-03-18 18:52:09 -04",
   "compra_segundo": {
-    "price": 669.75,
-    "name": "CambiosCedro"
+    "price": 669.4,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
     "price": 670.0,
     "name": "Quick Payment"
   },
-  "promedio": 669.88,
+  "promedio": 669.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
