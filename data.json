@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T12:07:43.860943",
-  "actualizado_vzla": "2026-03-18 08:07:43 -04",
+  "timestamp_utc": "2026-03-18T13:53:44.322110",
+  "actualizado_vzla": "2026-03-18 09:53:44 -04",
   "compra_segundo": {
-    "price": 668.7,
-    "name": "NexusBlock"
+    "price": 660.3,
+    "name": "Aalcripto"
   },
   "venta_maxima": {
-    "price": 666.2,
-    "name": "Blank_Mind"
+    "price": 658.02,
+    "name": "Elrapid"
   },
-  "promedio": 667.45,
+  "promedio": 659.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
