@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T21:42:22.543450",
-  "actualizado_vzla": "2026-03-18 17:42:22 -04",
+  "timestamp_utc": "2026-03-18T22:17:14.562335",
+  "actualizado_vzla": "2026-03-18 18:17:14 -04",
   "compra_segundo": {
-    "price": 669.99,
-    "name": "Tigre de wall street"
+    "price": 669.75,
+    "name": "CambiosCedro"
   },
   "venta_maxima": {
-    "price": 669.1,
-    "name": "Blank_Mind"
+    "price": 670.0,
+    "name": "Quick Payment"
   },
-  "promedio": 669.55,
+  "promedio": 669.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
