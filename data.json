@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-18T16:17:15.820664",
-  "actualizado_vzla": "2026-03-18 12:17:15 -04",
+  "timestamp_utc": "2026-03-18T17:32:56.837486",
+  "actualizado_vzla": "2026-03-18 13:32:56 -04",
   "compra_segundo": {
-    "price": 664.6,
-    "name": "Nazaxavi"
+    "price": 665.29,
+    "name": "mfernandom1"
   },
   "venta_maxima": {
-    "price": 664.0,
-    "name": "4lfw"
+    "price": 665.501,
+    "name": "P2P-18cdcaje"
   },
-  "promedio": 664.3,
+  "promedio": 665.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
