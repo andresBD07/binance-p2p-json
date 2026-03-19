@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T16:40:03.979904",
-  "actualizado_vzla": "2026-03-19 12:40:03 -04",
+  "timestamp_utc": "2026-03-19T17:43:18.118047",
+  "actualizado_vzla": "2026-03-19 13:43:18 -04",
   "compra_segundo": {
-    "price": 665.148,
-    "name": "JeyJey_Trade"
+    "price": 665.0,
+    "name": "_InversionesJG_"
   },
   "venta_maxima": {
-    "price": 665.0,
-    "name": "安全与信任"
+    "price": 663.6,
+    "name": "VECTURAFX"
   },
-  "promedio": 665.07,
+  "promedio": 664.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
