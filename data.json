@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T22:12:54.681415",
-  "actualizado_vzla": "2026-03-19 18:12:54 -04",
+  "timestamp_utc": "2026-03-19T22:50:12.147820",
+  "actualizado_vzla": "2026-03-19 18:50:12 -04",
   "compra_segundo": {
-    "price": 664.49,
-    "name": "LAULAR87"
+    "price": 663.899,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
     "price": 663.5,
-    "name": "TheOchoa"
+    "name": "梅CityCambio爱"
   },
-  "promedio": 664.0,
+  "promedio": 663.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
