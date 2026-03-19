@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T20:56:02.422249",
-  "actualizado_vzla": "2026-03-19 16:56:02 -04",
+  "timestamp_utc": "2026-03-19T21:44:35.584914",
+  "actualizado_vzla": "2026-03-19 17:44:35 -04",
   "compra_segundo": {
-    "price": 665.99,
-    "name": "victorlino"
+    "price": 665.39,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 665.0,
+    "price": 664.5,
     "name": "TheOchoa"
   },
-  "promedio": 665.5,
+  "promedio": 664.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
