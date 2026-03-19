@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T08:58:08.781946",
-  "actualizado_vzla": "2026-03-19 04:58:08 -04",
+  "timestamp_utc": "2026-03-19T09:57:26.929498",
+  "actualizado_vzla": "2026-03-19 05:57:26 -04",
   "compra_segundo": {
-    "price": 667.5,
-    "name": "P2Prafafor"
+    "price": 666.55,
+    "name": "Cambioseguro15"
   },
   "venta_maxima": {
-    "price": 664.4,
-    "name": "gmubb123"
+    "price": 660.35,
+    "name": "Kstore7"
   },
-  "promedio": 665.95,
+  "promedio": 663.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
