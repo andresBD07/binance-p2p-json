@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T06:10:04.858916",
-  "actualizado_vzla": "2026-03-19 02:10:04 -04",
+  "timestamp_utc": "2026-03-19T07:16:04.052432",
+  "actualizado_vzla": "2026-03-19 03:16:04 -04",
   "compra_segundo": {
-    "price": 667.7,
-    "name": "Invcaf"
+    "price": 667.75,
+    "name": "Razørk"
   },
   "venta_maxima": {
     "price": 664.4,
     "name": "gmubb123"
   },
-  "promedio": 666.05,
+  "promedio": 666.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
