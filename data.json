@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T23:24:11.512842",
-  "actualizado_vzla": "2026-03-19 19:24:11 -04",
+  "timestamp_utc": "2026-03-19T23:54:02.142112",
+  "actualizado_vzla": "2026-03-19 19:54:02 -04",
   "compra_segundo": {
-    "price": 663.0,
-    "name": "FRANFLASH8"
+    "price": 662.55,
+    "name": "CashItRight"
   },
   "venta_maxima": {
-    "price": 663.5,
-    "name": "梅CityCambio爱"
+    "price": 663.999,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 663.25,
+  "promedio": 663.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
