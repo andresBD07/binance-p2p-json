@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T07:59:43.303434",
-  "actualizado_vzla": "2026-03-19 03:59:43 -04",
+  "timestamp_utc": "2026-03-19T08:58:08.781946",
+  "actualizado_vzla": "2026-03-19 04:58:08 -04",
   "compra_segundo": {
-    "price": 667.789,
-    "name": "ROCU22_VE"
+    "price": 667.5,
+    "name": "P2Prafafor"
   },
   "venta_maxima": {
     "price": 664.4,
     "name": "gmubb123"
   },
-  "promedio": 666.09,
+  "promedio": 665.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
