@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T12:04:17.838586",
-  "actualizado_vzla": "2026-03-19 08:04:17 -04",
+  "timestamp_utc": "2026-03-19T13:41:14.283674",
+  "actualizado_vzla": "2026-03-19 09:41:14 -04",
   "compra_segundo": {
-    "price": 663.94,
-    "name": "RedP2P_VEN"
+    "price": 659.999,
+    "name": "AREPA P2P"
   },
   "venta_maxima": {
-    "price": 663.0,
-    "name": "La8vaMaravilla"
+    "price": 660.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 663.47,
+  "promedio": 660.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
