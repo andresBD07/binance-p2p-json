@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T09:57:26.929498",
-  "actualizado_vzla": "2026-03-19 05:57:26 -04",
+  "timestamp_utc": "2026-03-19T10:54:50.687519",
+  "actualizado_vzla": "2026-03-19 06:54:50 -04",
   "compra_segundo": {
-    "price": 666.55,
-    "name": "Cambioseguro15"
+    "price": 665.999,
+    "name": "Money-Max23"
   },
   "venta_maxima": {
-    "price": 660.35,
-    "name": "Kstore7"
+    "price": 661.0,
+    "name": "La8vaMaravilla"
   },
-  "promedio": 663.45,
+  "promedio": 663.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
