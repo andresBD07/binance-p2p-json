@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T07:16:04.052432",
-  "actualizado_vzla": "2026-03-19 03:16:04 -04",
+  "timestamp_utc": "2026-03-19T07:59:43.303434",
+  "actualizado_vzla": "2026-03-19 03:59:43 -04",
   "compra_segundo": {
-    "price": 667.75,
-    "name": "Razørk"
+    "price": 667.789,
+    "name": "ROCU22_VE"
   },
   "venta_maxima": {
     "price": 664.4,
     "name": "gmubb123"
   },
-  "promedio": 666.08,
+  "promedio": 666.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
