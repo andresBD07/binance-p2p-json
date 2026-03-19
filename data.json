@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T17:43:18.118047",
-  "actualizado_vzla": "2026-03-19 13:43:18 -04",
+  "timestamp_utc": "2026-03-19T18:36:09.635932",
+  "actualizado_vzla": "2026-03-19 14:36:09 -04",
   "compra_segundo": {
-    "price": 665.0,
-    "name": "_InversionesJG_"
+    "price": 664.0,
+    "name": "wuillou11"
   },
   "venta_maxima": {
-    "price": 663.6,
-    "name": "VECTURAFX"
+    "price": 664.0,
+    "name": "VERTUOK"
   },
-  "promedio": 664.3,
+  "promedio": 664.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
