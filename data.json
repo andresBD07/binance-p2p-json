@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T20:05:45.775040",
-  "actualizado_vzla": "2026-03-19 16:05:45 -04",
+  "timestamp_utc": "2026-03-19T20:56:02.422249",
+  "actualizado_vzla": "2026-03-19 16:56:02 -04",
   "compra_segundo": {
-    "price": 665.9,
-    "name": "Marquez25"
+    "price": 665.99,
+    "name": "victorlino"
   },
   "venta_maxima": {
-    "price": 665.005,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 665.0,
+    "name": "TheOchoa"
   },
-  "promedio": 665.45,
+  "promedio": 665.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
