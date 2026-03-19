@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-19T15:36:17.173535",
-  "actualizado_vzla": "2026-03-19 11:36:17 -04",
+  "timestamp_utc": "2026-03-19T16:40:03.979904",
+  "actualizado_vzla": "2026-03-19 12:40:03 -04",
   "compra_segundo": {
-    "price": 665.7,
-    "name": "TradewCrypto"
+    "price": 665.148,
+    "name": "JeyJey_Trade"
   },
   "venta_maxima": {
     "price": 665.0,
-    "name": "VERTUOK"
+    "name": "安全与信任"
   },
-  "promedio": 665.35,
+  "promedio": 665.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
