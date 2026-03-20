@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T02:29:34.437698",
-  "actualizado_vzla": "2026-03-19 22:29:34 -04",
+  "timestamp_utc": "2026-03-20T04:26:32.449347",
+  "actualizado_vzla": "2026-03-20 00:26:32 -04",
   "compra_segundo": {
-    "price": 660.6,
-    "name": "loudly"
+    "price": 661.7,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 662.001,
-    "name": "-APEX-"
+    "price": 659.0,
+    "name": "All-inCrypto"
   },
-  "promedio": 661.3,
+  "promedio": 660.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
