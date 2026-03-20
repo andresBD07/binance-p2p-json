@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T23:14:39.451460",
-  "actualizado_vzla": "2026-03-20 19:14:39 -04",
+  "timestamp_utc": "2026-03-20T23:47:09.566761",
+  "actualizado_vzla": "2026-03-20 19:47:09 -04",
   "compra_segundo": {
-    "price": 659.89,
-    "name": "BackLabel"
+    "price": 659.1,
+    "name": "SibyDr"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "cazing2230-2"
+    "price": 658.6,
+    "name": "securitylc"
   },
-  "promedio": 659.94,
+  "promedio": 658.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
