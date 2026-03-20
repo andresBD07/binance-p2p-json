@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T06:35:01.829626",
-  "actualizado_vzla": "2026-03-20 02:35:01 -04",
+  "timestamp_utc": "2026-03-20T07:34:10.597792",
+  "actualizado_vzla": "2026-03-20 03:34:10 -04",
   "compra_segundo": {
-    "price": 662.6,
-    "name": "JM2026"
+    "price": 662.9,
+    "name": "wuillou11"
   },
   "venta_maxima": {
     "price": 660.0,
     "name": "JPapaupa_Trader"
   },
-  "promedio": 661.3,
+  "promedio": 661.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
