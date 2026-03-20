@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T22:43:26.600250",
-  "actualizado_vzla": "2026-03-20 18:43:26 -04",
+  "timestamp_utc": "2026-03-20T23:14:39.451460",
+  "actualizado_vzla": "2026-03-20 19:14:39 -04",
   "compra_segundo": {
-    "price": 659.999,
-    "name": "weneko"
+    "price": 659.89,
+    "name": "BackLabel"
   },
   "venta_maxima": {
     "price": 660.0,
     "name": "cazing2230-2"
   },
-  "promedio": 660.0,
+  "promedio": 659.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
