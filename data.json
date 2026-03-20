@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T14:05:05.694997",
-  "actualizado_vzla": "2026-03-20 10:05:05 -04",
+  "timestamp_utc": "2026-03-20T15:00:47.179502",
+  "actualizado_vzla": "2026-03-20 11:00:47 -04",
   "compra_segundo": {
-    "price": 658.995,
-    "name": "Lecatrade"
+    "price": 658.5,
+    "name": "Amaz0nas-CRIPTO"
   },
   "venta_maxima": {
-    "price": 658.55,
-    "name": "cazing2230-2"
+    "price": 657.3,
+    "name": "jxsosa"
   },
-  "promedio": 658.77,
+  "promedio": 657.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
