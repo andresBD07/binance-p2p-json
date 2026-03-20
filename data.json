@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T11:22:23.009874",
-  "actualizado_vzla": "2026-03-20 07:22:23 -04",
+  "timestamp_utc": "2026-03-20T11:52:32.456861",
+  "actualizado_vzla": "2026-03-20 07:52:32 -04",
   "compra_segundo": {
-    "price": 660.6,
-    "name": "CriptoEliser"
+    "price": 657.48,
+    "name": "_Kambalache_"
   },
   "venta_maxima": {
-    "price": 660.0,
+    "price": 659.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 660.3,
+  "promedio": 658.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
