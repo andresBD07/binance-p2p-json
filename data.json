@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T15:55:03.748966",
-  "actualizado_vzla": "2026-03-20 11:55:03 -04",
+  "timestamp_utc": "2026-03-20T16:53:39.765083",
+  "actualizado_vzla": "2026-03-20 12:53:39 -04",
   "compra_segundo": {
-    "price": 654.0,
-    "name": "InversionesVintage"
+    "price": 656.0,
+    "name": "J-J-exchange"
   },
   "venta_maxima": {
-    "price": 656.001,
-    "name": "Vitatech"
+    "price": 659.0,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 655.0,
+  "promedio": 657.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
