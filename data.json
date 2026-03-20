@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T10:48:42.377427",
-  "actualizado_vzla": "2026-03-20 06:48:42 -04",
+  "timestamp_utc": "2026-03-20T11:22:23.009874",
+  "actualizado_vzla": "2026-03-20 07:22:23 -04",
   "compra_segundo": {
-    "price": 661.668,
-    "name": "Gavoacoin"
+    "price": 660.6,
+    "name": "CriptoEliser"
   },
   "venta_maxima": {
-    "price": 658.0,
-    "name": "BearExchangeP2P"
+    "price": 660.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 659.83,
+  "promedio": 660.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
