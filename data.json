@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T15:00:47.179502",
-  "actualizado_vzla": "2026-03-20 11:00:47 -04",
+  "timestamp_utc": "2026-03-20T15:55:03.748966",
+  "actualizado_vzla": "2026-03-20 11:55:03 -04",
   "compra_segundo": {
-    "price": 658.5,
-    "name": "Amaz0nas-CRIPTO"
+    "price": 654.0,
+    "name": "InversionesVintage"
   },
   "venta_maxima": {
-    "price": 657.3,
-    "name": "jxsosa"
+    "price": 656.001,
+    "name": "Vitatech"
   },
-  "promedio": 657.9,
+  "promedio": 655.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
