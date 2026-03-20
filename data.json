@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T07:34:10.597792",
-  "actualizado_vzla": "2026-03-20 03:34:10 -04",
+  "timestamp_utc": "2026-03-20T08:05:40.217657",
+  "actualizado_vzla": "2026-03-20 04:05:40 -04",
   "compra_segundo": {
-    "price": 662.9,
-    "name": "wuillou11"
+    "price": 663.0,
+    "name": "Kapo_DTP"
   },
   "venta_maxima": {
     "price": 660.0,
     "name": "JPapaupa_Trader"
   },
-  "promedio": 661.45,
+  "promedio": 661.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
