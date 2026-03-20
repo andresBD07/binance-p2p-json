@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T20:26:48.272716",
-  "actualizado_vzla": "2026-03-20 16:26:48 -04",
+  "timestamp_utc": "2026-03-20T20:59:20.607529",
+  "actualizado_vzla": "2026-03-20 16:59:20 -04",
   "compra_segundo": {
-    "price": 659.599,
-    "name": "_LaToxica"
+    "price": 659.95,
+    "name": "Moneytransfer"
   },
   "venta_maxima": {
-    "price": 658.6,
-    "name": "TheOchoa"
+    "price": 658.7,
+    "name": "Quick Payment"
   },
-  "promedio": 659.1,
+  "promedio": 659.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
