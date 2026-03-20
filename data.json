@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T21:40:01.215338",
-  "actualizado_vzla": "2026-03-20 17:40:01 -04",
+  "timestamp_utc": "2026-03-20T21:59:45.624747",
+  "actualizado_vzla": "2026-03-20 17:59:45 -04",
   "compra_segundo": {
-    "price": 659.98,
-    "name": "cambiofast24h"
+    "price": 659.94,
+    "name": "MoralesCorp"
   },
   "venta_maxima": {
     "price": 659.5,
     "name": "TOPlevelS"
   },
-  "promedio": 659.74,
+  "promedio": 659.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
