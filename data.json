@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T21:59:45.624747",
-  "actualizado_vzla": "2026-03-20 17:59:45 -04",
+  "timestamp_utc": "2026-03-20T22:43:26.600250",
+  "actualizado_vzla": "2026-03-20 18:43:26 -04",
   "compra_segundo": {
-    "price": 659.94,
-    "name": "MoralesCorp"
+    "price": 659.999,
+    "name": "weneko"
   },
   "venta_maxima": {
-    "price": 659.5,
-    "name": "TOPlevelS"
+    "price": 660.0,
+    "name": "cazing2230-2"
   },
-  "promedio": 659.72,
+  "promedio": 660.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
