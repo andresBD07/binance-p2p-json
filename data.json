@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T09:55:07.427135",
-  "actualizado_vzla": "2026-03-20 05:55:07 -04",
+  "timestamp_utc": "2026-03-20T10:48:42.377427",
+  "actualizado_vzla": "2026-03-20 06:48:42 -04",
   "compra_segundo": {
-    "price": 662.0,
-    "name": "BreakStuff"
+    "price": 661.668,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "JPapaupa_Trader"
+    "price": 658.0,
+    "name": "BearExchangeP2P"
   },
-  "promedio": 661.0,
+  "promedio": 659.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
