@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T14:12:46.894686",
-  "actualizado_vzla": "2026-03-21 10:12:46 -04",
+  "timestamp_utc": "2026-03-21T14:47:13.555647",
+  "actualizado_vzla": "2026-03-21 10:47:13 -04",
   "compra_segundo": {
-    "price": 657.399,
-    "name": "ROCKandROLL08"
+    "price": 658.3,
+    "name": "BUSINESS"
   },
   "venta_maxima": {
-    "price": 658.6,
-    "name": "YKBank"
+    "price": 658.51,
+    "name": "Guangzhou13"
   },
-  "promedio": 658.0,
+  "promedio": 658.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
