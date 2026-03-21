@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-20T23:47:09.566761",
-  "actualizado_vzla": "2026-03-20 19:47:09 -04",
+  "timestamp_utc": "2026-03-21T00:52:25.945733",
+  "actualizado_vzla": "2026-03-20 20:52:25 -04",
   "compra_segundo": {
-    "price": 659.1,
-    "name": "SibyDr"
+    "price": 658.0,
+    "name": "ProVerum"
   },
   "venta_maxima": {
-    "price": 658.6,
-    "name": "securitylc"
+    "price": 659.0,
+    "name": "Quick Payment"
   },
-  "promedio": 658.85,
+  "promedio": 658.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
