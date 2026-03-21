@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T06:24:29.197025",
-  "actualizado_vzla": "2026-03-21 02:24:29 -04",
+  "timestamp_utc": "2026-03-21T07:09:56.983806",
+  "actualizado_vzla": "2026-03-21 03:09:56 -04",
   "compra_segundo": {
     "price": 660.0,
     "name": "maikolmai"
   },
   "venta_maxima": {
-    "price": 657.5,
-    "name": "-APEX-"
+    "price": 654.0,
+    "name": "Anonymous-GC07"
   },
-  "promedio": 658.75,
+  "promedio": 657.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
