@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T10:38:34.938494",
-  "actualizado_vzla": "2026-03-21 06:38:34 -04",
+  "timestamp_utc": "2026-03-21T10:59:53.440337",
+  "actualizado_vzla": "2026-03-21 06:59:53 -04",
   "compra_segundo": {
-    "price": 659.25,
-    "name": "lvl28"
+    "price": 659.2,
+    "name": "Chespi_cripto8"
   },
   "venta_maxima": {
-    "price": 653.5,
-    "name": "The_Lider"
+    "price": 655.0,
+    "name": "c_s_"
   },
-  "promedio": 656.38,
+  "promedio": 657.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
