@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T21:55:58.785382",
-  "actualizado_vzla": "2026-03-21 17:55:58 -04",
+  "timestamp_utc": "2026-03-21T22:34:57.442343",
+  "actualizado_vzla": "2026-03-21 18:34:57 -04",
   "compra_segundo": {
-    "price": 658.0,
-    "name": "CambiosToGo"
+    "price": 658.3,
+    "name": "JDA Crypto"
   },
   "venta_maxima": {
-    "price": 658.2,
-    "name": "-APEX-"
+    "price": 658.3,
+    "name": "Quick Payment"
   },
-  "promedio": 658.1,
+  "promedio": 658.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
