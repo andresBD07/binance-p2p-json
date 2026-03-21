@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T18:00:57.834181",
-  "actualizado_vzla": "2026-03-21 14:00:57 -04",
+  "timestamp_utc": "2026-03-21T18:52:15.419987",
+  "actualizado_vzla": "2026-03-21 14:52:15 -04",
   "compra_segundo": {
-    "price": 658.888,
-    "name": "frankmlh"
+    "price": 658.95,
+    "name": "Drizzt_D"
   },
   "venta_maxima": {
-    "price": 658.5,
-    "name": "MaestroRoshi-"
+    "price": 658.1,
+    "name": "-Zeratul-"
   },
-  "promedio": 658.69,
+  "promedio": 658.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
