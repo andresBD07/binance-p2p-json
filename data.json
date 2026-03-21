@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T20:39:08.385272",
-  "actualizado_vzla": "2026-03-21 16:39:08 -04",
+  "timestamp_utc": "2026-03-21T21:00:08.027126",
+  "actualizado_vzla": "2026-03-21 17:00:08 -04",
   "compra_segundo": {
-    "price": 659.0,
-    "name": "Inversiones F V CA"
+    "price": 658.4,
+    "name": "MACOR_CAMBIOS"
   },
   "venta_maxima": {
     "price": 659.0,
     "name": "notorius11"
   },
-  "promedio": 659.0,
+  "promedio": 658.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
