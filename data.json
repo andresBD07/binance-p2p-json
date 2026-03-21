@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T16:45:07.681683",
-  "actualizado_vzla": "2026-03-21 12:45:07 -04",
+  "timestamp_utc": "2026-03-21T17:13:17.778963",
+  "actualizado_vzla": "2026-03-21 13:13:17 -04",
   "compra_segundo": {
-    "price": 658.65,
-    "name": "nuvis171905"
+    "price": 658.438,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
     "price": 658.2,
-    "name": "securitylc"
+    "name": "Bianchiplus"
   },
-  "promedio": 658.42,
+  "promedio": 658.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
