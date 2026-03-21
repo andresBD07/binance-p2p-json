@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-21T10:59:53.440337",
-  "actualizado_vzla": "2026-03-21 06:59:53 -04",
+  "timestamp_utc": "2026-03-21T11:33:15.335810",
+  "actualizado_vzla": "2026-03-21 07:33:15 -04",
   "compra_segundo": {
-    "price": 659.2,
-    "name": "Chespi_cripto8"
+    "price": 658.693,
+    "name": "Egp-trader"
   },
   "venta_maxima": {
-    "price": 655.0,
-    "name": "c_s_"
+    "price": 655.5,
+    "name": "塞Jsse-Pro塞"
   },
   "promedio": 657.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
