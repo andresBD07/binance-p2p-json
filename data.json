@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T07:09:56.983806",
-  "actualizado_vzla": "2026-03-21 03:09:56 -04",
+  "timestamp_utc": "2026-03-21T07:47:29.892895",
+  "actualizado_vzla": "2026-03-21 03:47:29 -04",
   "compra_segundo": {
-    "price": 660.0,
-    "name": "maikolmai"
+    "price": 659.93,
+    "name": "Tigre de wall street"
   },
   "venta_maxima": {
     "price": 654.0,
     "name": "Anonymous-GC07"
   },
-  "promedio": 657.0,
+  "promedio": 656.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
