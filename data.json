@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T17:45:01.656509",
-  "actualizado_vzla": "2026-03-21 13:45:01 -04",
+  "timestamp_utc": "2026-03-21T18:00:57.834181",
+  "actualizado_vzla": "2026-03-21 14:00:57 -04",
   "compra_segundo": {
-    "price": 658.8,
-    "name": "REMESAS-INTER"
+    "price": 658.888,
+    "name": "frankmlh"
   },
   "venta_maxima": {
     "price": 658.5,
     "name": "MaestroRoshi-"
   },
-  "promedio": 658.65,
+  "promedio": 658.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
