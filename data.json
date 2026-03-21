@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T22:34:57.442343",
-  "actualizado_vzla": "2026-03-21 18:34:57 -04",
+  "timestamp_utc": "2026-03-21T22:57:30.341943",
+  "actualizado_vzla": "2026-03-21 18:57:30 -04",
   "compra_segundo": {
-    "price": 658.3,
-    "name": "JDA Crypto"
+    "price": 658.2,
+    "name": "Kiuty"
   },
   "venta_maxima": {
-    "price": 658.3,
-    "name": "Quick Payment"
+    "price": 658.43,
+    "name": "The_Lider"
   },
-  "promedio": 658.3,
+  "promedio": 658.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
