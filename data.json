@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T03:21:31.788884",
-  "actualizado_vzla": "2026-03-20 23:21:31 -04",
+  "timestamp_utc": "2026-03-21T04:51:27.353675",
+  "actualizado_vzla": "2026-03-21 00:51:27 -04",
   "compra_segundo": {
-    "price": 658.79,
-    "name": "PrecozPay"
+    "price": 659.7,
+    "name": "Criptosafe_"
   },
   "venta_maxima": {
     "price": 658.0,
     "name": "Quick Payment"
   },
-  "promedio": 658.39,
+  "promedio": 658.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
