@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T19:59:44.744882",
-  "actualizado_vzla": "2026-03-21 15:59:44 -04",
+  "timestamp_utc": "2026-03-21T20:39:08.385272",
+  "actualizado_vzla": "2026-03-21 16:39:08 -04",
   "compra_segundo": {
-    "price": 658.99,
-    "name": "REMESAS-INTER-DC"
+    "price": 659.0,
+    "name": "Inversiones F V CA"
   },
   "venta_maxima": {
-    "price": 659.5,
-    "name": "梅CityCambio爱"
+    "price": 659.0,
+    "name": "notorius11"
   },
-  "promedio": 659.25,
+  "promedio": 659.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
