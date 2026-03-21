@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T11:52:57.228317",
-  "actualizado_vzla": "2026-03-21 07:52:57 -04",
+  "timestamp_utc": "2026-03-21T12:52:33.434110",
+  "actualizado_vzla": "2026-03-21 08:52:33 -04",
   "compra_segundo": {
-    "price": 658.8,
-    "name": "CoinBeek"
+    "price": 655.0,
+    "name": "CambiosNath"
   },
   "venta_maxima": {
-    "price": 656.0,
-    "name": "TPhillips"
+    "price": 657.005,
+    "name": "securitylc"
   },
-  "promedio": 657.4,
+  "promedio": 656.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
