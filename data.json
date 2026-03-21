@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T15:13:31.910952",
-  "actualizado_vzla": "2026-03-21 11:13:31 -04",
+  "timestamp_utc": "2026-03-21T15:44:02.164008",
+  "actualizado_vzla": "2026-03-21 11:44:02 -04",
   "compra_segundo": {
-    "price": 658.45,
-    "name": "cambiofast24h"
+    "price": 658.89,
+    "name": "Pivot_05"
   },
   "venta_maxima": {
     "price": 659.0,
     "name": "Guangzhou13"
   },
-  "promedio": 658.73,
+  "promedio": 658.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
