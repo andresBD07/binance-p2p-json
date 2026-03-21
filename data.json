@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T09:57:12.940378",
-  "actualizado_vzla": "2026-03-21 05:57:12 -04",
+  "timestamp_utc": "2026-03-21T10:38:34.938494",
+  "actualizado_vzla": "2026-03-21 06:38:34 -04",
   "compra_segundo": {
-    "price": 659.3,
-    "name": "TuAgenciaDeConfianza"
+    "price": 659.25,
+    "name": "lvl28"
   },
   "venta_maxima": {
-    "price": 652.2,
-    "name": "CryptoExpressVe"
+    "price": 653.5,
+    "name": "The_Lider"
   },
-  "promedio": 655.75,
+  "promedio": 656.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
