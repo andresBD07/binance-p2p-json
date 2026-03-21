@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T19:23:30.336380",
-  "actualizado_vzla": "2026-03-21 15:23:30 -04",
+  "timestamp_utc": "2026-03-21T19:46:19.461195",
+  "actualizado_vzla": "2026-03-21 15:46:19 -04",
   "compra_segundo": {
-    "price": 659.14,
-    "name": "Josealm29"
+    "price": 658.89,
+    "name": "GIROSYREMESASDAN"
   },
   "venta_maxima": {
-    "price": 659.201,
-    "name": "-Zeratul-"
+    "price": 659.5,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 659.17,
+  "promedio": 659.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
