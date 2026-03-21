@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-21T15:44:02.164008",
-  "actualizado_vzla": "2026-03-21 11:44:02 -04",
+  "timestamp_utc": "2026-03-21T16:01:16.238357",
+  "actualizado_vzla": "2026-03-21 12:01:16 -04",
   "compra_segundo": {
-    "price": 658.89,
-    "name": "Pivot_05"
+    "price": 659.29,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 659.0,
+    "price": 658.5,
     "name": "Guangzhou13"
   },
-  "promedio": 658.94,
+  "promedio": 658.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
