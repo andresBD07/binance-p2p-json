@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T09:45:21.262255",
-  "actualizado_vzla": "2026-03-22 05:45:21 -04",
+  "timestamp_utc": "2026-03-22T10:13:07.133206",
+  "actualizado_vzla": "2026-03-22 06:13:07 -04",
   "compra_segundo": {
-    "price": 659.5,
-    "name": "TokenSwift"
+    "price": 659.0,
+    "name": "Morf3o"
   },
   "venta_maxima": {
     "price": 653.61,
     "name": "Tether Premium "
   },
-  "promedio": 656.56,
+  "promedio": 656.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
