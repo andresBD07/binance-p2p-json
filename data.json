@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T21:37:36.056580",
-  "actualizado_vzla": "2026-03-22 17:37:36 -04",
+  "timestamp_utc": "2026-03-22T21:57:40.683848",
+  "actualizado_vzla": "2026-03-22 17:57:40 -04",
   "compra_segundo": {
-    "price": 659.87,
-    "name": "MolinaJP_"
+    "price": 659.849,
+    "name": "Paotrader"
   },
   "venta_maxima": {
-    "price": 658.259,
-    "name": "DOCTOR_CAMBIO"
+    "price": 658.5,
+    "name": "ALASKA-"
   },
-  "promedio": 659.06,
+  "promedio": 659.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
