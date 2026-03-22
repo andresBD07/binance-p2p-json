@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T17:02:26.483614",
-  "actualizado_vzla": "2026-03-22 13:02:26 -04",
+  "timestamp_utc": "2026-03-22T17:37:49.501433",
+  "actualizado_vzla": "2026-03-22 13:37:49 -04",
   "compra_segundo": {
-    "price": 658.449,
-    "name": "OLDCARTO"
+    "price": 658.2,
+    "name": "EliseoAmaya"
   },
   "venta_maxima": {
     "price": 656.251,
     "name": "贝HarveySpecter贝"
   },
-  "promedio": 657.35,
+  "promedio": 657.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
