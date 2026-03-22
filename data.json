@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T16:41:19.227811",
-  "actualizado_vzla": "2026-03-22 12:41:19 -04",
+  "timestamp_utc": "2026-03-22T17:02:26.483614",
+  "actualizado_vzla": "2026-03-22 13:02:26 -04",
   "compra_segundo": {
-    "price": 658.639,
+    "price": 658.449,
     "name": "OLDCARTO"
   },
   "venta_maxima": {
-    "price": 657.0,
-    "name": "Burdyn"
+    "price": 656.251,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 657.82,
+  "promedio": 657.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
