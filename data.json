@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T17:37:49.501433",
-  "actualizado_vzla": "2026-03-22 13:37:49 -04",
+  "timestamp_utc": "2026-03-22T17:58:23.946312",
+  "actualizado_vzla": "2026-03-22 13:58:23 -04",
   "compra_segundo": {
-    "price": 658.2,
-    "name": "EliseoAmaya"
+    "price": 658.28,
+    "name": "NimaX-64"
   },
   "venta_maxima": {
-    "price": 656.251,
-    "name": "贝HarveySpecter贝"
+    "price": 657.5,
+    "name": "已連接"
   },
-  "promedio": 657.23,
+  "promedio": 657.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
