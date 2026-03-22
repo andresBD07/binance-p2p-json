@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T15:56:56.587561",
-  "actualizado_vzla": "2026-03-22 11:56:56 -04",
+  "timestamp_utc": "2026-03-22T16:41:19.227811",
+  "actualizado_vzla": "2026-03-22 12:41:19 -04",
   "compra_segundo": {
-    "price": 658.319,
-    "name": "VzlaCoin"
+    "price": 658.639,
+    "name": "OLDCARTO"
   },
   "venta_maxima": {
-    "price": 657.107,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 657.0,
+    "name": "Burdyn"
   },
-  "promedio": 657.71,
+  "promedio": 657.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
