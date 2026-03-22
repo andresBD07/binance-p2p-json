@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T21:02:53.013957",
-  "actualizado_vzla": "2026-03-22 17:02:53 -04",
+  "timestamp_utc": "2026-03-22T21:37:36.056580",
+  "actualizado_vzla": "2026-03-22 17:37:36 -04",
   "compra_segundo": {
-    "price": 659.799,
-    "name": "ROMIQ"
+    "price": 659.87,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
     "price": 658.259,
     "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 659.03,
+  "promedio": 659.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
