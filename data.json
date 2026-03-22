@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T10:13:07.133206",
-  "actualizado_vzla": "2026-03-22 06:13:07 -04",
+  "timestamp_utc": "2026-03-22T10:48:35.146480",
+  "actualizado_vzla": "2026-03-22 06:48:35 -04",
   "compra_segundo": {
     "price": 659.0,
-    "name": "Morf3o"
+    "name": "LGD04"
   },
   "venta_maxima": {
-    "price": 653.61,
-    "name": "Tether Premium "
+    "price": 653.75,
+    "name": "VENTASJM"
   },
-  "promedio": 656.31,
+  "promedio": 656.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
