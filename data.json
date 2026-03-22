@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T07:49:58.185645",
-  "actualizado_vzla": "2026-03-22 03:49:58 -04",
+  "timestamp_utc": "2026-03-22T08:26:16.677872",
+  "actualizado_vzla": "2026-03-22 04:26:16 -04",
   "compra_segundo": {
-    "price": 659.4,
-    "name": "VelkanVe"
+    "price": 659.3,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
     "price": 654.11,
     "name": "BerracoT"
   },
-  "promedio": 656.75,
+  "promedio": 656.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
