@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T13:08:11.060304",
-  "actualizado_vzla": "2026-03-23 09:08:11 -04",
+  "timestamp_utc": "2026-03-23T14:20:33.571606",
+  "actualizado_vzla": "2026-03-23 10:20:33 -04",
   "compra_segundo": {
-    "price": 654.685,
-    "name": "chichiwilote"
+    "price": 654.4,
+    "name": "FREQUIMO"
   },
   "venta_maxima": {
-    "price": 652.5,
-    "name": "Brawcoins"
+    "price": 654.0,
+    "name": "Godisgift"
   },
-  "promedio": 653.59,
+  "promedio": 654.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
