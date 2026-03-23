@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T17:30:54.297082",
-  "actualizado_vzla": "2026-03-23 13:30:54 -04",
+  "timestamp_utc": "2026-03-23T18:28:13.734518",
+  "actualizado_vzla": "2026-03-23 14:28:13 -04",
   "compra_segundo": {
-    "price": 663.149,
-    "name": "Latinlf"
+    "price": 665.7,
+    "name": "Cachy13Usdt"
   },
   "venta_maxima": {
-    "price": 664.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 667.5,
+    "name": "Biyt"
   },
-  "promedio": 663.57,
+  "promedio": 666.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
