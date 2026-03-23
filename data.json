@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T07:51:07.877803",
-  "actualizado_vzla": "2026-03-23 03:51:07 -04",
+  "timestamp_utc": "2026-03-23T08:50:43.770518",
+  "actualizado_vzla": "2026-03-23 04:50:43 -04",
   "compra_segundo": {
-    "price": 659.2,
-    "name": "GaAle19"
+    "price": 659.196,
+    "name": "Leonardofsb"
   },
   "venta_maxima": {
-    "price": 647.1,
-    "name": "AureusFiduciaOZ"
+    "price": 648.1,
+    "name": "Imperiocrypto_co"
   },
-  "promedio": 653.15,
+  "promedio": 653.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
