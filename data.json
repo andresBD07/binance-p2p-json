@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T15:33:27.187155",
-  "actualizado_vzla": "2026-03-23 11:33:27 -04",
+  "timestamp_utc": "2026-03-23T16:32:11.837468",
+  "actualizado_vzla": "2026-03-23 12:32:11 -04",
   "compra_segundo": {
-    "price": 657.5,
-    "name": "NO3rosNO"
+    "price": 662.19,
+    "name": "CRIPTOCARIBE-JE"
   },
   "venta_maxima": {
-    "price": 657.6,
-    "name": "CoinFlou"
+    "price": 663.0,
+    "name": "安全与信任"
   },
-  "promedio": 657.55,
+  "promedio": 662.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
