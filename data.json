@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T03:21:12.409979",
-  "actualizado_vzla": "2026-03-22 23:21:12 -04",
+  "timestamp_utc": "2026-03-23T05:19:10.686036",
+  "actualizado_vzla": "2026-03-23 01:19:10 -04",
   "compra_segundo": {
-    "price": 658.963,
-    "name": "instantremitly "
+    "price": 659.05,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 655.002,
-    "name": "novatecno"
+    "price": 652.0,
+    "name": "-Vallenatero-"
   },
-  "promedio": 656.98,
+  "promedio": 655.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
