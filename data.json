@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T22:03:02.251580",
-  "actualizado_vzla": "2026-03-23 18:03:02 -04",
+  "timestamp_utc": "2026-03-23T22:50:28.818017",
+  "actualizado_vzla": "2026-03-23 18:50:28 -04",
   "compra_segundo": {
-    "price": 663.2,
-    "name": "BOSS__313"
+    "price": 663.0,
+    "name": "Cripmetal-P2P"
   },
   "venta_maxima": {
-    "price": 663.0,
+    "price": 663.05,
     "name": "Rapidflorio84"
   },
-  "promedio": 663.1,
+  "promedio": 663.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
