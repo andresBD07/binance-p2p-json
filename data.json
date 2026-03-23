@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T09:57:11.227461",
-  "actualizado_vzla": "2026-03-23 05:57:11 -04",
+  "timestamp_utc": "2026-03-23T11:03:29.023661",
+  "actualizado_vzla": "2026-03-23 07:03:29 -04",
   "compra_segundo": {
-    "price": 658.849,
-    "name": "Juan15_7"
+    "price": 657.7,
+    "name": "Jaed Crp"
   },
   "venta_maxima": {
-    "price": 650.5,
-    "name": "LechugaExpress"
+    "price": 652.31,
+    "name": "MORDEKAISER10"
   },
-  "promedio": 654.67,
+  "promedio": 655.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
