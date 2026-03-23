@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T19:30:59.159680",
-  "actualizado_vzla": "2026-03-23 15:30:59 -04",
+  "timestamp_utc": "2026-03-23T20:06:24.525598",
+  "actualizado_vzla": "2026-03-23 16:06:24 -04",
   "compra_segundo": {
-    "price": 667.26,
-    "name": "cripto tarde 117"
+    "price": 662.799,
+    "name": "AaronCrack"
   },
   "venta_maxima": {
-    "price": 666.5,
-    "name": "VERTUOK"
+    "price": 663.774,
+    "name": "cambio"
   },
-  "promedio": 666.88,
+  "promedio": 663.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
