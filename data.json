@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T14:20:33.571606",
-  "actualizado_vzla": "2026-03-23 10:20:33 -04",
+  "timestamp_utc": "2026-03-23T15:33:27.187155",
+  "actualizado_vzla": "2026-03-23 11:33:27 -04",
   "compra_segundo": {
-    "price": 654.4,
-    "name": "FREQUIMO"
+    "price": 657.5,
+    "name": "NO3rosNO"
   },
   "venta_maxima": {
-    "price": 654.0,
-    "name": "Godisgift"
+    "price": 657.6,
+    "name": "CoinFlou"
   },
-  "promedio": 654.2,
+  "promedio": 657.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
