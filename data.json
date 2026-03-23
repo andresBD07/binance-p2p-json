@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-22T23:38:46.285290",
-  "actualizado_vzla": "2026-03-22 19:38:46 -04",
+  "timestamp_utc": "2026-03-23T00:01:03.439784",
+  "actualizado_vzla": "2026-03-22 20:01:03 -04",
   "compra_segundo": {
-    "price": 659.39,
-    "name": "SqualoZ"
+    "price": 659.1,
+    "name": "VITRIOL33"
   },
   "venta_maxima": {
-    "price": 657.5,
-    "name": "ALASKA-"
+    "price": 657.0,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 658.44,
+  "promedio": 658.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
