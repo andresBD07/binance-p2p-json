@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-23T06:44:34.428134",
-  "actualizado_vzla": "2026-03-23 02:44:34 -04",
+  "timestamp_utc": "2026-03-23T07:51:07.877803",
+  "actualizado_vzla": "2026-03-23 03:51:07 -04",
   "compra_segundo": {
     "price": 659.2,
-    "name": "Will_Cripto"
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 651.101,
-    "name": "Dkguitar"
+    "price": 647.1,
+    "name": "AureusFiduciaOZ"
   },
-  "promedio": 655.15,
+  "promedio": 653.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
