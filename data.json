@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T13:44:42.633208",
-  "actualizado_vzla": "2026-03-24 09:44:42 -04",
+  "timestamp_utc": "2026-03-24T14:46:49.031344",
+  "actualizado_vzla": "2026-03-24 10:46:49 -04",
   "compra_segundo": {
-    "price": 648.9,
-    "name": "ROCKandROLL08"
+    "price": 656.15,
+    "name": "JDTRADING"
   },
   "venta_maxima": {
-    "price": 646.11,
-    "name": "塞Jsse-Pro塞"
+    "price": 655.3,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 647.5,
+  "promedio": 655.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
