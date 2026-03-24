@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T15:52:13.164049",
-  "actualizado_vzla": "2026-03-24 11:52:13 -04",
+  "timestamp_utc": "2026-03-24T16:58:39.387072",
+  "actualizado_vzla": "2026-03-24 12:58:39 -04",
   "compra_segundo": {
-    "price": 655.509,
-    "name": "Cambios-Fe"
+    "price": 656.0,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
-    "price": 655.1,
-    "name": "MaestroRoshi-"
+    "price": 657.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 655.3,
+  "promedio": 656.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
