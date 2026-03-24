@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T11:58:07.452505",
-  "actualizado_vzla": "2026-03-24 07:58:07 -04",
+  "timestamp_utc": "2026-03-24T13:44:42.633208",
+  "actualizado_vzla": "2026-03-24 09:44:42 -04",
   "compra_segundo": {
-    "price": 658.0,
-    "name": "Metavic96_Pago-5-min"
+    "price": 648.9,
+    "name": "ROCKandROLL08"
   },
   "venta_maxima": {
-    "price": 656.9,
-    "name": "Rapidflorio84"
+    "price": 646.11,
+    "name": "塞Jsse-Pro塞"
   },
-  "promedio": 657.45,
+  "promedio": 647.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
