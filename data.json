@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T21:42:02.915388",
-  "actualizado_vzla": "2026-03-24 17:42:02 -04",
+  "timestamp_utc": "2026-03-24T22:15:28.802291",
+  "actualizado_vzla": "2026-03-24 18:15:28 -04",
   "compra_segundo": {
-    "price": 668.399,
-    "name": "javiergck"
+    "price": 668.48,
+    "name": "LuicmarTrader"
   },
   "venta_maxima": {
-    "price": 670.75,
-    "name": "cazing2230-2"
+    "price": 672.0,
+    "name": "Godisgift"
   },
-  "promedio": 669.57,
+  "promedio": 670.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
