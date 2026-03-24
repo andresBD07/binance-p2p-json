@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T22:53:48.097266",
-  "actualizado_vzla": "2026-03-24 18:53:48 -04",
+  "timestamp_utc": "2026-03-24T23:36:11.235794",
+  "actualizado_vzla": "2026-03-24 19:36:11 -04",
   "compra_segundo": {
-    "price": 668.4,
-    "name": "P2P CASTILLO"
+    "price": 668.97,
+    "name": "Q2030"
   },
   "venta_maxima": {
-    "price": 674.9,
-    "name": "GOMEZTUSOLUCION"
+    "price": 670.7,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 671.65,
+  "promedio": 669.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
