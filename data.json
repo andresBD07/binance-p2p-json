@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T07:15:56.544811",
-  "actualizado_vzla": "2026-03-24 03:15:56 -04",
+  "timestamp_utc": "2026-03-24T08:04:27.017850",
+  "actualizado_vzla": "2026-03-24 04:04:27 -04",
   "compra_segundo": {
-    "price": 663.11,
-    "name": "MiguelCryptos"
+    "price": 663.0,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
     "price": 654.5,
     "name": "Manda2-"
   },
-  "promedio": 658.81,
+  "promedio": 658.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
