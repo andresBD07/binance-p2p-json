@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T22:15:28.802291",
-  "actualizado_vzla": "2026-03-24 18:15:28 -04",
+  "timestamp_utc": "2026-03-24T22:53:48.097266",
+  "actualizado_vzla": "2026-03-24 18:53:48 -04",
   "compra_segundo": {
-    "price": 668.48,
-    "name": "LuicmarTrader"
+    "price": 668.4,
+    "name": "P2P CASTILLO"
   },
   "venta_maxima": {
-    "price": 672.0,
-    "name": "Godisgift"
+    "price": 674.9,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 670.24,
+  "promedio": 671.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
