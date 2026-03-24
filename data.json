@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T10:09:37.751467",
-  "actualizado_vzla": "2026-03-24 06:09:37 -04",
+  "timestamp_utc": "2026-03-24T11:10:13.571272",
+  "actualizado_vzla": "2026-03-24 07:10:13 -04",
   "compra_segundo": {
-    "price": 660.799,
-    "name": "Gavoacoin"
+    "price": 660.39,
+    "name": "RAPIDOySEGURO_EAGLE"
   },
   "venta_maxima": {
-    "price": 654.0,
-    "name": "ELEUTROS"
+    "price": 657.0,
+    "name": "c_s_"
   },
-  "promedio": 657.4,
+  "promedio": 658.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
