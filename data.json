@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T20:00:40.189775",
-  "actualizado_vzla": "2026-03-24 16:00:40 -04",
+  "timestamp_utc": "2026-03-24T20:54:14.258485",
+  "actualizado_vzla": "2026-03-24 16:54:14 -04",
   "compra_segundo": {
-    "price": 664.5,
-    "name": "7CJ77"
+    "price": 667.0,
+    "name": "CambiosMZ"
   },
   "venta_maxima": {
-    "price": 666.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 669.0,
+    "name": "CCST"
   },
-  "promedio": 665.25,
+  "promedio": 668.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
