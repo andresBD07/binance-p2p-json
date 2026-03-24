@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T14:46:49.031344",
-  "actualizado_vzla": "2026-03-24 10:46:49 -04",
+  "timestamp_utc": "2026-03-24T15:52:13.164049",
+  "actualizado_vzla": "2026-03-24 11:52:13 -04",
   "compra_segundo": {
-    "price": 656.15,
-    "name": "JDTRADING"
+    "price": 655.509,
+    "name": "Cambios-Fe"
   },
   "venta_maxima": {
-    "price": 655.3,
+    "price": 655.1,
     "name": "MaestroRoshi-"
   },
-  "promedio": 655.72,
+  "promedio": 655.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
