@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T21:33:27.073788",
-  "actualizado_vzla": "2026-03-25 17:33:27 -04",
+  "timestamp_utc": "2026-03-25T22:05:59.860141",
+  "actualizado_vzla": "2026-03-25 18:05:59 -04",
   "compra_segundo": {
-    "price": 681.5,
-    "name": "Tzar25"
+    "price": 680.1,
+    "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
-    "price": 681.2,
-    "name": "Rapidflorio84"
+    "price": 680.5,
+    "name": "CAMBIOS AVILA "
   },
-  "promedio": 681.35,
+  "promedio": 680.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
