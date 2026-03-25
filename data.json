@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T08:26:38.754201",
-  "actualizado_vzla": "2026-03-25 04:26:38 -04",
+  "timestamp_utc": "2026-03-25T09:30:41.468579",
+  "actualizado_vzla": "2026-03-25 05:30:41 -04",
   "compra_segundo": {
-    "price": 672.0,
-    "name": "Kapo_DTP"
+    "price": 671.0,
+    "name": "Osu199x"
   },
   "venta_maxima": {
     "price": 668.1,
     "name": "TPhillips"
   },
-  "promedio": 670.05,
+  "promedio": 669.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
