@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T10:29:37.393767",
-  "actualizado_vzla": "2026-03-25 06:29:37 -04",
+  "timestamp_utc": "2026-03-25T11:25:36.149281",
+  "actualizado_vzla": "2026-03-25 07:25:36 -04",
   "compra_segundo": {
-    "price": 670.78,
-    "name": "mandy02"
+    "price": 670.5,
+    "name": "valto22"
   },
   "venta_maxima": {
-    "price": 669.083,
-    "name": "cazing2230"
+    "price": 671.0,
+    "name": "DTFM-RD"
   },
-  "promedio": 669.93,
+  "promedio": 670.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
