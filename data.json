@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T11:25:36.149281",
-  "actualizado_vzla": "2026-03-25 07:25:36 -04",
+  "timestamp_utc": "2026-03-25T12:05:04.251201",
+  "actualizado_vzla": "2026-03-25 08:05:04 -04",
   "compra_segundo": {
-    "price": 670.5,
-    "name": "valto22"
+    "price": 670.45,
+    "name": "JesusCrip"
   },
   "venta_maxima": {
-    "price": 671.0,
-    "name": "DTFM-RD"
+    "price": 673.0,
+    "name": "mundo-cripto"
   },
-  "promedio": 670.75,
+  "promedio": 671.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
