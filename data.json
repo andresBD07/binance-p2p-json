@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-24T23:36:11.235794",
-  "actualizado_vzla": "2026-03-24 19:36:11 -04",
+  "timestamp_utc": "2026-03-25T00:00:29.476882",
+  "actualizado_vzla": "2026-03-24 20:00:29 -04",
   "compra_segundo": {
-    "price": 668.97,
-    "name": "Q2030"
+    "price": 668.8,
+    "name": "ExpressCash23"
   },
   "venta_maxima": {
-    "price": 670.7,
+    "price": 673.2,
     "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 669.84,
+  "promedio": 671.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
