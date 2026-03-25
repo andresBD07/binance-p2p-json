@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T16:08:01.861679",
-  "actualizado_vzla": "2026-03-25 12:08:01 -04",
+  "timestamp_utc": "2026-03-25T17:17:33.247466",
+  "actualizado_vzla": "2026-03-25 13:17:33 -04",
   "compra_segundo": {
-    "price": 677.58,
-    "name": "FastChangeSafeChange"
+    "price": 680.3,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
-    "price": 680.5,
-    "name": "mundo-cripto"
+    "price": 682.0,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 679.04,
+  "promedio": 681.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
