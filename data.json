@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T09:30:41.468579",
-  "actualizado_vzla": "2026-03-25 05:30:41 -04",
+  "timestamp_utc": "2026-03-25T10:29:37.393767",
+  "actualizado_vzla": "2026-03-25 06:29:37 -04",
   "compra_segundo": {
-    "price": 671.0,
-    "name": "Osu199x"
+    "price": 670.78,
+    "name": "mandy02"
   },
   "venta_maxima": {
-    "price": 668.1,
-    "name": "TPhillips"
+    "price": 669.083,
+    "name": "cazing2230"
   },
-  "promedio": 669.55,
+  "promedio": 669.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
