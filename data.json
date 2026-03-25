@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T14:51:40.263515",
-  "actualizado_vzla": "2026-03-25 10:51:40 -04",
+  "timestamp_utc": "2026-03-25T16:08:01.861679",
+  "actualizado_vzla": "2026-03-25 12:08:01 -04",
   "compra_segundo": {
-    "price": 674.0,
-    "name": "JJcambiosUSD"
+    "price": 677.58,
+    "name": "FastChangeSafeChange"
   },
   "venta_maxima": {
-    "price": 675.0,
-    "name": "C_Pagos"
+    "price": 680.5,
+    "name": "mundo-cripto"
   },
-  "promedio": 674.5,
+  "promedio": 679.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
