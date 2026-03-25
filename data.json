@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T22:55:24.141938",
-  "actualizado_vzla": "2026-03-25 18:55:24 -04",
+  "timestamp_utc": "2026-03-25T23:42:47.681781",
+  "actualizado_vzla": "2026-03-25 19:42:47 -04",
   "compra_segundo": {
-    "price": 677.999,
-    "name": "marote28"
+    "price": 677.995,
+    "name": "D R E A M E R "
   },
   "venta_maxima": {
-    "price": 681.0,
-    "name": "Pipotrade"
+    "price": 676.0,
+    "name": "Godisgift"
   },
-  "promedio": 679.5,
+  "promedio": 677.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
