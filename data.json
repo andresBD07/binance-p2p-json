@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T19:12:47.864686",
-  "actualizado_vzla": "2026-03-25 15:12:47 -04",
+  "timestamp_utc": "2026-03-25T19:55:57.593279",
+  "actualizado_vzla": "2026-03-25 15:55:57 -04",
   "compra_segundo": {
-    "price": 679.9,
-    "name": "javiergck"
+    "price": 680.999,
+    "name": "PringlesBBQ"
   },
   "venta_maxima": {
-    "price": 683.05,
-    "name": "CamburPlus"
+    "price": 684.5,
+    "name": "ALASKA-"
   },
-  "promedio": 681.47,
+  "promedio": 682.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
