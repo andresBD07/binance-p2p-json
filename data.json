@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-25T19:55:57.593279",
-  "actualizado_vzla": "2026-03-25 15:55:57 -04",
+  "timestamp_utc": "2026-03-25T20:50:31.336473",
+  "actualizado_vzla": "2026-03-25 16:50:31 -04",
   "compra_segundo": {
-    "price": 680.999,
-    "name": "PringlesBBQ"
+    "price": 682.18,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 684.5,
-    "name": "ALASKA-"
+    "price": 682.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 682.75,
+  "promedio": 682.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
