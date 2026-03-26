@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T22:00:40.989033",
-  "actualizado_vzla": "2026-03-26 18:00:41 -04",
+  "timestamp_utc": "2026-03-26T22:48:25.469866",
+  "actualizado_vzla": "2026-03-26 18:48:25 -04",
   "compra_segundo": {
-    "price": 669.0,
-    "name": "Kapo_DTP"
+    "price": 666.999,
+    "name": "AnaTrading"
   },
   "venta_maxima": {
-    "price": 669.0,
-    "name": "RubenNYC"
+    "price": 666.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 669.0,
+  "promedio": 666.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
