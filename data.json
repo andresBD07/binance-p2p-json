@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T20:22:05.509999",
-  "actualizado_vzla": "2026-03-26 16:22:05 -04",
+  "timestamp_utc": "2026-03-26T20:58:26.635375",
+  "actualizado_vzla": "2026-03-26 16:58:26 -04",
   "compra_segundo": {
-    "price": 669.3,
-    "name": "jeramel24"
+    "price": 670.099,
+    "name": "AnaTrading"
   },
   "venta_maxima": {
     "price": 669.5,
-    "name": "Biyt"
+    "name": "VERTUOK"
   },
-  "promedio": 669.4,
+  "promedio": 669.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
