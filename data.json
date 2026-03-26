@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T12:03:27.583916",
-  "actualizado_vzla": "2026-03-26 08:03:27 -04",
+  "timestamp_utc": "2026-03-26T13:55:52.911639",
+  "actualizado_vzla": "2026-03-26 09:55:52 -04",
   "compra_segundo": {
-    "price": 677.0,
-    "name": "FRANCCOS"
+    "price": 674.1,
+    "name": "Bigwhale12"
   },
   "venta_maxima": {
-    "price": 675.601,
-    "name": "-Tyrion-Lannister-"
+    "price": 675.5,
+    "name": "DTFM-RD"
   },
-  "promedio": 676.3,
+  "promedio": 674.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
