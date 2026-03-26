@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T20:58:26.635375",
-  "actualizado_vzla": "2026-03-26 16:58:26 -04",
+  "timestamp_utc": "2026-03-26T21:41:27.997560",
+  "actualizado_vzla": "2026-03-26 17:41:28 -04",
   "compra_segundo": {
-    "price": 670.099,
-    "name": "AnaTrading"
+    "price": 670.5,
+    "name": "DolceGabbana"
   },
   "venta_maxima": {
-    "price": 669.5,
+    "price": 670.0,
     "name": "VERTUOK"
   },
-  "promedio": 669.8,
+  "promedio": 670.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
