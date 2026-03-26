@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-03-26T04:03:57.653985",
-  "actualizado_vzla": "2026-03-26 00:03:57 -04",
+  "timestamp_utc": "2026-03-26T05:48:03.341765",
+  "actualizado_vzla": "2026-03-26 01:48:03 -04",
   "compra_segundo": {
-    "price": 677.5,
-    "name": "19YGOA"
+    "price": 678.0,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 674.5,
-    "name": "BOLO-USDT"
+    "price": 674.0,
+    "name": "cambioson"
   },
   "promedio": 676.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
