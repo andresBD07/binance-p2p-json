@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T17:41:52.477869",
-  "actualizado_vzla": "2026-03-26 13:41:52 -04",
+  "timestamp_utc": "2026-03-26T18:41:37.453258",
+  "actualizado_vzla": "2026-03-26 14:41:37 -04",
   "compra_segundo": {
-    "price": 667.4,
-    "name": "Silencioso21"
+    "price": 666.77,
+    "name": "JoseManuelGarrido"
   },
   "venta_maxima": {
-    "price": 666.0,
-    "name": "Biyt"
+    "price": 670.001,
+    "name": "P2P-18cdcaje"
   },
-  "promedio": 666.7,
+  "promedio": 668.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
