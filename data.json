@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T08:03:37.166579",
-  "actualizado_vzla": "2026-03-26 04:03:37 -04",
+  "timestamp_utc": "2026-03-26T09:11:50.373849",
+  "actualizado_vzla": "2026-03-26 05:11:50 -04",
   "compra_segundo": {
-    "price": 679.299,
-    "name": "Richgato_Cambios"
+    "price": 678.995,
+    "name": "Blokchaiger"
   },
   "venta_maxima": {
     "price": 674.0,
-    "name": "cambioson"
+    "name": "talepagos"
   },
-  "promedio": 676.65,
+  "promedio": 676.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
