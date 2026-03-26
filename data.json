@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T18:41:37.453258",
-  "actualizado_vzla": "2026-03-26 14:41:37 -04",
+  "timestamp_utc": "2026-03-26T19:44:21.676412",
+  "actualizado_vzla": "2026-03-26 15:44:21 -04",
   "compra_segundo": {
-    "price": 666.77,
-    "name": "JoseManuelGarrido"
+    "price": 668.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 670.001,
-    "name": "P2P-18cdcaje"
+    "price": 670.0,
+    "name": "VERTUOK"
   },
-  "promedio": 668.39,
+  "promedio": 669.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
