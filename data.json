@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T21:41:27.997560",
-  "actualizado_vzla": "2026-03-26 17:41:28 -04",
+  "timestamp_utc": "2026-03-26T22:00:40.989033",
+  "actualizado_vzla": "2026-03-26 18:00:41 -04",
   "compra_segundo": {
-    "price": 670.5,
-    "name": "DolceGabbana"
+    "price": 669.0,
+    "name": "Kapo_DTP"
   },
   "venta_maxima": {
-    "price": 670.0,
-    "name": "VERTUOK"
+    "price": 669.0,
+    "name": "RubenNYC"
   },
-  "promedio": 670.25,
+  "promedio": 669.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
