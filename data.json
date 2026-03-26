@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-26T01:01:42.670374",
-  "actualizado_vzla": "2026-03-25 21:01:42 -04",
+  "timestamp_utc": "2026-03-26T04:03:57.653985",
+  "actualizado_vzla": "2026-03-26 00:03:57 -04",
   "compra_segundo": {
-    "price": 675.6,
-    "name": "CRIPTOCARIBE-JE"
+    "price": 677.5,
+    "name": "19YGOA"
   },
   "venta_maxima": {
-    "price": 677.5,
-    "name": "Blank_Mind"
+    "price": 674.5,
+    "name": "BOLO-USDT"
   },
-  "promedio": 676.55,
+  "promedio": 676.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
