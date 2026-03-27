@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-27T10:29:38.639039",
-  "actualizado_vzla": "2026-03-27 06:29:38 -04",
+  "timestamp_utc": "2026-03-27T11:26:02.931137",
+  "actualizado_vzla": "2026-03-27 07:26:02 -04",
   "compra_segundo": {
-    "price": 665.19,
-    "name": "_cambioBTC"
+    "price": 663.7,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "Seveeen"
+    "price": 660.8,
+    "name": "Rapidflorio84"
   },
-  "promedio": 662.6,
+  "promedio": 662.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
