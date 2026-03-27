@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-27T21:36:27.418112",
-  "actualizado_vzla": "2026-03-27 17:36:27 -04",
+  "timestamp_utc": "2026-03-27T22:01:15.096675",
+  "actualizado_vzla": "2026-03-27 18:01:15 -04",
   "compra_segundo": {
-    "price": 665.0,
-    "name": "Millicripto"
+    "price": 665.45,
+    "name": "Cambios Cripto CC"
   },
   "venta_maxima": {
     "price": 667.0,
     "name": "梅CityCambio爱"
   },
-  "promedio": 666.0,
+  "promedio": 666.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
