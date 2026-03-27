@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-03-27T17:32:33.106186",
-  "actualizado_vzla": "2026-03-27 13:32:33 -04",
+  "timestamp_utc": "2026-03-27T18:32:24.956860",
+  "actualizado_vzla": "2026-03-27 14:32:24 -04",
   "compra_segundo": {
-    "price": 664.0,
-    "name": "USDealerT"
+    "price": 664.499,
+    "name": "TRAVEL BUSINESS 33"
   },
   "venta_maxima": {
-    "price": 666.006,
+    "price": 665.5,
     "name": "فـــــلـــــســـــطــين حرة"
   },
   "promedio": 665.0,
