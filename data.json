@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-27T07:38:25.013586",
-  "actualizado_vzla": "2026-03-27 03:38:25 -04",
+  "timestamp_utc": "2026-03-27T08:30:59.593103",
+  "actualizado_vzla": "2026-03-27 04:30:59 -04",
   "compra_segundo": {
-    "price": 666.45,
-    "name": "LeNary-"
+    "price": 666.5,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
     "price": 661.4,
     "name": "TheWorld_isyours"
   },
-  "promedio": 663.92,
+  "promedio": 663.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
