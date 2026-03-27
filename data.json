@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-27T19:26:40.019454",
-  "actualizado_vzla": "2026-03-27 15:26:40 -04",
+  "timestamp_utc": "2026-03-27T20:01:36.521358",
+  "actualizado_vzla": "2026-03-27 16:01:36 -04",
   "compra_segundo": {
-    "price": 664.99,
-    "name": "CAMBIOS JV"
+    "price": 665.2,
+    "name": "MACOR_CAMBIOS"
   },
   "venta_maxima": {
     "price": 666.5,
     "name": "Blank_Mind"
   },
-  "promedio": 665.75,
+  "promedio": 665.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
