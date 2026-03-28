@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-27T23:54:44.241311",
-  "actualizado_vzla": "2026-03-27 19:54:44 -04",
+  "timestamp_utc": "2026-03-28T02:43:21.139526",
+  "actualizado_vzla": "2026-03-27 22:43:21 -04",
   "compra_segundo": {
-    "price": 666.46,
-    "name": "Rappid0"
+    "price": 666.7,
+    "name": "Agrosnj120_"
   },
   "venta_maxima": {
-    "price": 667.5,
-    "name": "Gustavo129"
+    "price": 668.1,
+    "name": "BLACKROCK22"
   },
-  "promedio": 666.98,
+  "promedio": 667.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
