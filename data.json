@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T16:26:17.206425",
-  "actualizado_vzla": "2026-03-28 12:26:17 -04",
+  "timestamp_utc": "2026-03-28T17:01:39.377815",
+  "actualizado_vzla": "2026-03-28 13:01:39 -04",
   "compra_segundo": {
-    "price": 668.96,
-    "name": "Sag87"
+    "price": 669.899,
+    "name": "TioRico_DTP"
   },
   "venta_maxima": {
-    "price": 675.0,
-    "name": "Godisgift"
+    "price": 673.25,
+    "name": "JoseParedez"
   },
-  "promedio": 671.98,
+  "promedio": 671.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
