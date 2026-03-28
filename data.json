@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T15:50:47.326629",
-  "actualizado_vzla": "2026-03-28 11:50:47 -04",
+  "timestamp_utc": "2026-03-28T16:26:17.206425",
+  "actualizado_vzla": "2026-03-28 12:26:17 -04",
   "compra_segundo": {
-    "price": 668.9,
-    "name": "LCEtrader"
+    "price": 668.96,
+    "name": "Sag87"
   },
   "venta_maxima": {
-    "price": 672.0,
-    "name": "Biyt"
+    "price": 675.0,
+    "name": "Godisgift"
   },
-  "promedio": 670.45,
+  "promedio": 671.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
