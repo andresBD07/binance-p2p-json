@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T08:57:02.174601",
-  "actualizado_vzla": "2026-03-28 04:57:02 -04",
+  "timestamp_utc": "2026-03-28T09:48:25.467597",
+  "actualizado_vzla": "2026-03-28 05:48:25 -04",
   "compra_segundo": {
-    "price": 668.3,
-    "name": "GaAle19"
+    "price": 668.2,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
     "price": 662.0,
     "name": "CAFE-con-PAN"
   },
-  "promedio": 665.15,
+  "promedio": 665.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
