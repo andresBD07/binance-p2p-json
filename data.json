@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T22:51:53.351418",
-  "actualizado_vzla": "2026-03-28 18:51:53 -04",
+  "timestamp_utc": "2026-03-28T23:29:26.332926",
+  "actualizado_vzla": "2026-03-28 19:29:26 -04",
   "compra_segundo": {
-    "price": 666.829,
-    "name": "MERCADO ESTRATEGICO"
+    "price": 667.2,
+    "name": "TUCAMBIOSEGURO24"
   },
   "venta_maxima": {
-    "price": 673.5,
+    "price": 672.5,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 670.16,
+  "promedio": 669.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
