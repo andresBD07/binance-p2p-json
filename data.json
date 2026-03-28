@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T11:36:21.300519",
-  "actualizado_vzla": "2026-03-28 07:36:21 -04",
+  "timestamp_utc": "2026-03-28T11:58:15.338880",
+  "actualizado_vzla": "2026-03-28 07:58:15 -04",
   "compra_segundo": {
-    "price": 667.25,
-    "name": "Yaneht_Elite_Gold"
+    "price": 667.1,
+    "name": "TOROgaboxCoin"
   },
   "venta_maxima": {
     "price": 666.5,
     "name": "Gustavo129"
   },
-  "promedio": 666.88,
+  "promedio": 666.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
