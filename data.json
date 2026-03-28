@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T04:44:54.334145",
-  "actualizado_vzla": "2026-03-28 00:44:54 -04",
+  "timestamp_utc": "2026-03-28T05:45:40.874845",
+  "actualizado_vzla": "2026-03-28 01:45:40 -04",
   "compra_segundo": {
-    "price": 667.15,
-    "name": "Tether Premium "
+    "price": 667.499,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 665.0,
-    "name": "Cambioscorleone"
+    "price": 665.2,
+    "name": "Angelojbs"
   },
-  "promedio": 666.08,
+  "promedio": 666.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
