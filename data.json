@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T21:16:48.927906",
-  "actualizado_vzla": "2026-03-28 17:16:48 -04",
+  "timestamp_utc": "2026-03-28T21:48:41.218201",
+  "actualizado_vzla": "2026-03-28 17:48:41 -04",
   "compra_segundo": {
-    "price": 669.0,
-    "name": "Nestor010699"
+    "price": 668.0,
+    "name": "Ruthnuts"
   },
   "venta_maxima": {
-    "price": 675.0,
-    "name": "Godisgift"
+    "price": 672.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 672.0,
+  "promedio": 670.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
