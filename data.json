@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T06:40:37.088420",
-  "actualizado_vzla": "2026-03-28 02:40:37 -04",
+  "timestamp_utc": "2026-03-28T07:34:46.495616",
+  "actualizado_vzla": "2026-03-28 03:34:46 -04",
   "compra_segundo": {
-    "price": 667.8,
-    "name": "eltripolitanop2p"
+    "price": 668.3,
+    "name": "GaAle19"
   },
   "venta_maxima": {
     "price": 663.0,
     "name": "Angelojbs"
   },
-  "promedio": 665.4,
+  "promedio": 665.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
