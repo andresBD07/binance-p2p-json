@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T10:21:09.963862",
-  "actualizado_vzla": "2026-03-28 06:21:09 -04",
+  "timestamp_utc": "2026-03-28T10:57:17.861022",
+  "actualizado_vzla": "2026-03-28 06:57:17 -04",
   "compra_segundo": {
-    "price": 667.6,
-    "name": "CorvoMecanique"
+    "price": 667.7,
+    "name": "AugustoVelasquez15"
   },
   "venta_maxima": {
-    "price": 662.0,
-    "name": "CAFE-con-PAN"
+    "price": 665.0,
+    "name": "mundo-cripto"
   },
-  "promedio": 664.8,
+  "promedio": 666.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
