@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T18:02:23.054443",
-  "actualizado_vzla": "2026-03-28 14:02:23 -04",
+  "timestamp_utc": "2026-03-28T18:58:36.079559",
+  "actualizado_vzla": "2026-03-28 14:58:36 -04",
   "compra_segundo": {
-    "price": 670.37,
-    "name": "CambiosEM26"
+    "price": 670.0,
+    "name": "sheva07"
   },
   "venta_maxima": {
-    "price": 674.0,
+    "price": 674.5,
     "name": "Godisgift"
   },
-  "promedio": 672.18,
+  "promedio": 672.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
