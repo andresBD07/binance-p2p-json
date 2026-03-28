@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T13:15:38.014006",
-  "actualizado_vzla": "2026-03-28 09:15:38 -04",
+  "timestamp_utc": "2026-03-28T14:01:38.374773",
+  "actualizado_vzla": "2026-03-28 10:01:38 -04",
   "compra_segundo": {
-    "price": 666.6,
-    "name": "champagnepapi DTP"
+    "price": 667.499,
+    "name": "EL_MARA_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 666.0,
-    "name": "Gustavo129"
+    "price": 668.2,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 666.3,
+  "promedio": 667.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
