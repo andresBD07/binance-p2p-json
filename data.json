@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T17:01:39.377815",
-  "actualizado_vzla": "2026-03-28 13:01:39 -04",
+  "timestamp_utc": "2026-03-28T17:42:03.586704",
+  "actualizado_vzla": "2026-03-28 13:42:03 -04",
   "compra_segundo": {
-    "price": 669.899,
-    "name": "TioRico_DTP"
+    "price": 670.249,
+    "name": "和Thorfinn"
   },
   "venta_maxima": {
-    "price": 673.25,
-    "name": "JoseParedez"
+    "price": 674.0,
+    "name": "Godisgift"
   },
-  "promedio": 671.57,
+  "promedio": 672.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
