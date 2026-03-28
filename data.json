@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T17:42:03.586704",
-  "actualizado_vzla": "2026-03-28 13:42:03 -04",
+  "timestamp_utc": "2026-03-28T18:02:23.054443",
+  "actualizado_vzla": "2026-03-28 14:02:23 -04",
   "compra_segundo": {
-    "price": 670.249,
-    "name": "和Thorfinn"
+    "price": 670.37,
+    "name": "CambiosEM26"
   },
   "venta_maxima": {
     "price": 674.0,
     "name": "Godisgift"
   },
-  "promedio": 672.12,
+  "promedio": 672.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
