@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T19:38:31.126195",
-  "actualizado_vzla": "2026-03-28 15:38:31 -04",
+  "timestamp_utc": "2026-03-28T19:59:30.798073",
+  "actualizado_vzla": "2026-03-28 15:59:30 -04",
   "compra_segundo": {
-    "price": 670.3,
-    "name": "LeNary-"
+    "price": 670.2,
+    "name": "JDA Crypto"
   },
   "venta_maxima": {
     "price": 674.5,
     "name": "Godisgift"
   },
-  "promedio": 672.4,
+  "promedio": 672.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
