@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T20:46:08.721911",
-  "actualizado_vzla": "2026-03-28 16:46:08 -04",
+  "timestamp_utc": "2026-03-28T21:16:48.927906",
+  "actualizado_vzla": "2026-03-28 17:16:48 -04",
   "compra_segundo": {
-    "price": 669.699,
-    "name": "NXTrade57"
+    "price": 669.0,
+    "name": "Nestor010699"
   },
   "venta_maxima": {
     "price": 675.0,
     "name": "Godisgift"
   },
-  "promedio": 672.35,
+  "promedio": 672.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
