@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-03-28T19:59:30.798073",
-  "actualizado_vzla": "2026-03-28 15:59:30 -04",
+  "timestamp_utc": "2026-03-28T20:46:08.721911",
+  "actualizado_vzla": "2026-03-28 16:46:08 -04",
   "compra_segundo": {
-    "price": 670.2,
-    "name": "JDA Crypto"
+    "price": 669.699,
+    "name": "NXTrade57"
   },
   "venta_maxima": {
-    "price": 674.5,
+    "price": 675.0,
     "name": "Godisgift"
   },
   "promedio": 672.35,
