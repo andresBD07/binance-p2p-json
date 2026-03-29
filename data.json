@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T15:56:51.311569",
-  "actualizado_vzla": "2026-03-29 11:56:51 -04",
+  "timestamp_utc": "2026-03-29T16:47:06.354307",
+  "actualizado_vzla": "2026-03-29 12:47:06 -04",
   "compra_segundo": {
-    "price": 670.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 670.1,
+    "name": "心Bee"
   },
   "venta_maxima": {
-    "price": 671.0,
+    "price": 672.5,
     "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 670.5,
+  "promedio": 671.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
