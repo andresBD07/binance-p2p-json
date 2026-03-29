@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T13:17:56.485425",
-  "actualizado_vzla": "2026-03-29 09:17:56 -04",
+  "timestamp_utc": "2026-03-29T14:02:57.724405",
+  "actualizado_vzla": "2026-03-29 10:02:57 -04",
   "compra_segundo": {
-    "price": 671.0,
-    "name": "MOI_CARD"
+    "price": 672.0,
+    "name": "IMPORTACIONESMUNVE"
   },
   "venta_maxima": {
-    "price": 672.0,
-    "name": "All-inCrypto"
+    "price": 673.5,
+    "name": "-Zeratul-"
   },
-  "promedio": 671.5,
+  "promedio": 672.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
