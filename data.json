@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T16:47:06.354307",
-  "actualizado_vzla": "2026-03-29 12:47:06 -04",
+  "timestamp_utc": "2026-03-29T17:19:05.078103",
+  "actualizado_vzla": "2026-03-29 13:19:05 -04",
   "compra_segundo": {
-    "price": 670.1,
-    "name": "心Bee"
+    "price": 670.6,
+    "name": "G2Trade"
   },
   "venta_maxima": {
-    "price": 672.5,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 671.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 671.3,
+  "promedio": 670.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
