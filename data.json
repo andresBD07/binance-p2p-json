@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T07:41:26.180313",
-  "actualizado_vzla": "2026-03-29 03:41:26 -04",
+  "timestamp_utc": "2026-03-29T08:23:51.412537",
+  "actualizado_vzla": "2026-03-29 04:23:51 -04",
   "compra_segundo": {
-    "price": 669.8,
-    "name": "AaronCrack"
+    "price": 670.0,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
     "price": 666.3,
     "name": "app2112"
   },
-  "promedio": 668.05,
+  "promedio": 668.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
