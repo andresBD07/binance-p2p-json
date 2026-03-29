@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-28T23:57:55.826692",
-  "actualizado_vzla": "2026-03-28 19:57:55 -04",
+  "timestamp_utc": "2026-03-29T03:30:47.104735",
+  "actualizado_vzla": "2026-03-28 23:30:47 -04",
   "compra_segundo": {
-    "price": 668.0,
-    "name": "MUNDOGENIAL"
+    "price": 669.0,
+    "name": "RushPay"
   },
   "venta_maxima": {
-    "price": 672.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 670.6,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 670.25,
+  "promedio": 669.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
