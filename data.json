@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T09:05:42.130480",
-  "actualizado_vzla": "2026-03-29 05:05:42 -04",
+  "timestamp_utc": "2026-03-29T09:52:28.227167",
+  "actualizado_vzla": "2026-03-29 05:52:28 -04",
   "compra_segundo": {
-    "price": 670.59,
-    "name": "Mavaresinv"
+    "price": 669.439,
+    "name": "VzlaCoin"
   },
   "venta_maxima": {
-    "price": 666.3,
-    "name": "app2112"
+    "price": 666.61,
+    "name": "Extranjero"
   },
-  "promedio": 668.44,
+  "promedio": 668.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
