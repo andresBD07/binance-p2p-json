@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T05:27:06.718020",
-  "actualizado_vzla": "2026-03-29 01:27:06 -04",
+  "timestamp_utc": "2026-03-29T06:44:20.018646",
+  "actualizado_vzla": "2026-03-29 02:44:20 -04",
   "compra_segundo": {
     "price": 669.439,
     "name": "VzlaCoin"
   },
   "venta_maxima": {
-    "price": 667.01,
-    "name": "Extranjero"
+    "price": 666.3,
+    "name": "app2112"
   },
-  "promedio": 668.22,
+  "promedio": 667.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
