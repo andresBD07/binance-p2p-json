@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T12:01:06.080430",
-  "actualizado_vzla": "2026-03-29 08:01:06 -04",
+  "timestamp_utc": "2026-03-29T13:17:56.485425",
+  "actualizado_vzla": "2026-03-29 09:17:56 -04",
   "compra_segundo": {
-    "price": 669.95,
-    "name": "Bip2p"
+    "price": 671.0,
+    "name": "MOI_CARD"
   },
   "venta_maxima": {
-    "price": 667.8,
-    "name": "Cambioscorleone"
+    "price": 672.0,
+    "name": "All-inCrypto"
   },
-  "promedio": 668.88,
+  "promedio": 671.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
