@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T11:03:32.604944",
-  "actualizado_vzla": "2026-03-29 07:03:32 -04",
+  "timestamp_utc": "2026-03-29T11:40:44.468751",
+  "actualizado_vzla": "2026-03-29 07:40:44 -04",
   "compra_segundo": {
-    "price": 669.659,
-    "name": "vivilocho"
+    "price": 670.036,
+    "name": "Thony"
   },
   "venta_maxima": {
-    "price": 667.35,
-    "name": "Cambioscorleone"
+    "price": 668.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 668.5,
+  "promedio": 669.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
