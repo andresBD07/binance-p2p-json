@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T08:23:51.412537",
-  "actualizado_vzla": "2026-03-29 04:23:51 -04",
+  "timestamp_utc": "2026-03-29T09:05:42.130480",
+  "actualizado_vzla": "2026-03-29 05:05:42 -04",
   "compra_segundo": {
-    "price": 670.0,
-    "name": "Daikokuten-Finance"
+    "price": 670.59,
+    "name": "Mavaresinv"
   },
   "venta_maxima": {
     "price": 666.3,
     "name": "app2112"
   },
-  "promedio": 668.15,
+  "promedio": 668.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
