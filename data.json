@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T14:50:27.096515",
-  "actualizado_vzla": "2026-03-29 10:50:27 -04",
+  "timestamp_utc": "2026-03-29T15:25:55.105392",
+  "actualizado_vzla": "2026-03-29 11:25:55 -04",
   "compra_segundo": {
-    "price": 671.6,
-    "name": "svt-usdtfast"
+    "price": 670.995,
+    "name": "ROLEX٠"
   },
   "venta_maxima": {
-    "price": 671.005,
-    "name": "-Tyrion-Lannister-"
+    "price": 671.0,
+    "name": "Godisgift"
   },
-  "promedio": 671.3,
+  "promedio": 671.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
