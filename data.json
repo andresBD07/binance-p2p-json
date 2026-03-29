@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-29T18:48:35.494060",
-  "actualizado_vzla": "2026-03-29 14:48:35 -04",
+  "timestamp_utc": "2026-03-29T19:24:19.054780",
+  "actualizado_vzla": "2026-03-29 15:24:19 -04",
   "compra_segundo": {
-    "price": 669.29,
-    "name": "Kembatrader"
+    "price": 669.5,
+    "name": "CambioSeguroCA"
   },
   "venta_maxima": {
-    "price": 669.0,
+    "price": 671.0,
     "name": "Blank_Mind"
   },
-  "promedio": 669.14,
+  "promedio": 670.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
