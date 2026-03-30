@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-03-30T06:11:54.490642",
-  "actualizado_vzla": "2026-03-30 02:11:54 -04",
+  "timestamp_utc": "2026-03-30T08:02:33.514655",
+  "actualizado_vzla": "2026-03-30 04:02:33 -04",
   "compra_segundo": {
-    "price": 668.5,
-    "name": "InvMiggy"
+    "price": 668.499,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
     "price": 664.0,
