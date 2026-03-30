@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T23:21:28.409066",
-  "actualizado_vzla": "2026-03-30 19:21:28 -04",
+  "timestamp_utc": "2026-03-30T23:58:32.212471",
+  "actualizado_vzla": "2026-03-30 19:58:32 -04",
   "compra_segundo": {
-    "price": 661.787,
-    "name": "lab1721"
+    "price": 661.39,
+    "name": "Trader_LB"
   },
   "venta_maxima": {
-    "price": 662.5,
-    "name": "Blank_Mind"
+    "price": 663.541,
+    "name": "Atumanocambio"
   },
-  "promedio": 662.14,
+  "promedio": 662.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
