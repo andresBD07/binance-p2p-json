@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T04:16:58.561829",
-  "actualizado_vzla": "2026-03-30 00:16:58 -04",
+  "timestamp_utc": "2026-03-30T06:11:54.490642",
+  "actualizado_vzla": "2026-03-30 02:11:54 -04",
   "compra_segundo": {
-    "price": 667.9,
-    "name": "Mero-Mero"
+    "price": 668.5,
+    "name": "InvMiggy"
   },
   "venta_maxima": {
     "price": 664.0,
-    "name": "Mr Miyagi 10"
+    "name": "finanzas 360"
   },
-  "promedio": 665.95,
+  "promedio": 666.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
