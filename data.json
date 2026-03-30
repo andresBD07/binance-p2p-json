@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T19:17:52.052279",
-  "actualizado_vzla": "2026-03-30 15:17:52 -04",
+  "timestamp_utc": "2026-03-30T20:03:57.272306",
+  "actualizado_vzla": "2026-03-30 16:03:57 -04",
   "compra_segundo": {
-    "price": 659.994,
-    "name": "SibyDr"
+    "price": 660.169,
+    "name": "CriptTradeHup "
   },
   "venta_maxima": {
     "price": 660.0,
     "name": "安全与信任"
   },
-  "promedio": 660.0,
+  "promedio": 660.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
