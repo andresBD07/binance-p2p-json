@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T21:00:56.419610",
-  "actualizado_vzla": "2026-03-30 17:00:56 -04",
+  "timestamp_utc": "2026-03-30T21:54:00.757294",
+  "actualizado_vzla": "2026-03-30 17:54:00 -04",
   "compra_segundo": {
-    "price": 660.3,
-    "name": "Pollox5"
+    "price": 661.2,
+    "name": "dkans21"
   },
   "venta_maxima": {
     "price": 663.0,
     "name": "安全与信任"
   },
-  "promedio": 661.65,
+  "promedio": 662.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
