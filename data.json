@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T21:54:00.757294",
-  "actualizado_vzla": "2026-03-30 17:54:00 -04",
+  "timestamp_utc": "2026-03-30T22:41:10.763402",
+  "actualizado_vzla": "2026-03-30 18:41:10 -04",
   "compra_segundo": {
-    "price": 661.2,
-    "name": "dkans21"
+    "price": 661.85,
+    "name": "Gasper25"
   },
   "venta_maxima": {
-    "price": 663.0,
+    "price": 663.5,
     "name": "安全与信任"
   },
-  "promedio": 662.1,
+  "promedio": 662.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
