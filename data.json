@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T15:56:29.036872",
-  "actualizado_vzla": "2026-03-30 11:56:29 -04",
+  "timestamp_utc": "2026-03-30T17:06:39.008399",
+  "actualizado_vzla": "2026-03-30 13:06:39 -04",
   "compra_segundo": {
-    "price": 660.6,
-    "name": "MikasaExchange"
+    "price": 655.25,
+    "name": "DerekTitularP2P"
   },
   "venta_maxima": {
-    "price": 664.51,
-    "name": "AGROCAMBIO"
+    "price": 655.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 662.56,
+  "promedio": 655.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
