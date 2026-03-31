@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T22:43:03.053638",
-  "actualizado_vzla": "2026-03-31 18:43:03 -04",
+  "timestamp_utc": "2026-03-31T23:19:09.511697",
+  "actualizado_vzla": "2026-03-31 19:19:09 -04",
   "compra_segundo": {
-    "price": 659.499,
-    "name": "CoinBeek"
+    "price": 658.7,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 662.0,
+    "price": 663.0,
     "name": "Blank_Mind"
   },
-  "promedio": 660.75,
+  "promedio": 660.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
