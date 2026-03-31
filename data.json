@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T19:42:32.081185",
-  "actualizado_vzla": "2026-03-31 15:42:32 -04",
+  "timestamp_utc": "2026-03-31T20:27:27.940040",
+  "actualizado_vzla": "2026-03-31 16:27:27 -04",
   "compra_segundo": {
-    "price": 658.0,
-    "name": "tovir2572"
+    "price": 659.0,
+    "name": "maikolmai"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "GoldenLion_"
+    "price": 663.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 659.0,
+  "promedio": 661.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
