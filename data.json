@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-30T23:58:32.212471",
-  "actualizado_vzla": "2026-03-30 19:58:32 -04",
+  "timestamp_utc": "2026-03-31T03:24:18.897329",
+  "actualizado_vzla": "2026-03-30 23:24:18 -04",
   "compra_segundo": {
-    "price": 661.39,
-    "name": "Trader_LB"
+    "price": 661.0,
+    "name": "Cambios Ashley"
   },
   "venta_maxima": {
-    "price": 663.541,
-    "name": "Atumanocambio"
+    "price": 660.0,
+    "name": "Free Trade and Investments"
   },
-  "promedio": 662.47,
+  "promedio": 660.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
