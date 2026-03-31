@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T17:42:22.506536",
-  "actualizado_vzla": "2026-03-31 13:42:22 -04",
+  "timestamp_utc": "2026-03-31T18:39:54.790867",
+  "actualizado_vzla": "2026-03-31 14:39:54 -04",
   "compra_segundo": {
-    "price": 658.8,
-    "name": "MecanicTeam"
+    "price": 657.395,
+    "name": "MERCADO ESTRATEGICO"
   },
   "venta_maxima": {
-    "price": 662.5,
+    "price": 660.0,
     "name": "Blank_Mind"
   },
-  "promedio": 660.65,
+  "promedio": 658.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
