@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T10:30:05.328388",
-  "actualizado_vzla": "2026-03-31 06:30:05 -04",
+  "timestamp_utc": "2026-03-31T11:29:19.989478",
+  "actualizado_vzla": "2026-03-31 07:29:19 -04",
   "compra_segundo": {
-    "price": 661.55,
-    "name": "OjrsTrade"
+    "price": 660.199,
+    "name": "Softcore"
   },
   "venta_maxima": {
     "price": 657.0,
-    "name": "c_s_"
+    "name": "VERTUOK"
   },
-  "promedio": 659.27,
+  "promedio": 658.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
