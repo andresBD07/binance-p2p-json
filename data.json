@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T09:16:09.606401",
-  "actualizado_vzla": "2026-03-31 05:16:09 -04",
+  "timestamp_utc": "2026-03-31T10:30:05.328388",
+  "actualizado_vzla": "2026-03-31 06:30:05 -04",
   "compra_segundo": {
-    "price": 661.963,
-    "name": "instantremitly "
+    "price": 661.55,
+    "name": "OjrsTrade"
   },
   "venta_maxima": {
-    "price": 656.55,
-    "name": "Fast Cash "
+    "price": 657.0,
+    "name": "c_s_"
   },
-  "promedio": 659.26,
+  "promedio": 659.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
