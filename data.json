@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T20:27:27.940040",
-  "actualizado_vzla": "2026-03-31 16:27:27 -04",
+  "timestamp_utc": "2026-03-31T21:09:36.036407",
+  "actualizado_vzla": "2026-03-31 17:09:36 -04",
   "compra_segundo": {
-    "price": 659.0,
-    "name": "maikolmai"
+    "price": 660.95,
+    "name": "AA_Over"
   },
   "venta_maxima": {
     "price": 663.0,
     "name": "Blank_Mind"
   },
-  "promedio": 661.0,
+  "promedio": 661.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
