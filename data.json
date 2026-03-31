@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T14:13:26.805518",
-  "actualizado_vzla": "2026-03-31 10:13:26 -04",
+  "timestamp_utc": "2026-03-31T15:39:03.008559",
+  "actualizado_vzla": "2026-03-31 11:39:03 -04",
   "compra_segundo": {
-    "price": 660.289,
-    "name": "Forex Exchange Global "
+    "price": 659.3,
+    "name": "PUENTE_DE_COMPRASP2P"
   },
   "venta_maxima": {
-    "price": 663.0,
+    "price": 662.0,
     "name": "Blank_Mind"
   },
-  "promedio": 661.64,
+  "promedio": 660.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
