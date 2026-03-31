@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T23:19:09.511697",
-  "actualizado_vzla": "2026-03-31 19:19:09 -04",
+  "timestamp_utc": "2026-03-31T23:55:07.647969",
+  "actualizado_vzla": "2026-03-31 19:55:07 -04",
   "compra_segundo": {
-    "price": 658.7,
-    "name": "Criptotrading"
+    "price": 658.23,
+    "name": "Jyplusca"
   },
   "venta_maxima": {
     "price": 663.0,
     "name": "Blank_Mind"
   },
-  "promedio": 660.85,
+  "promedio": 660.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
