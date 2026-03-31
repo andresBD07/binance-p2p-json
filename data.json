@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T08:05:34.931628",
-  "actualizado_vzla": "2026-03-31 04:05:34 -04",
+  "timestamp_utc": "2026-03-31T09:16:09.606401",
+  "actualizado_vzla": "2026-03-31 05:16:09 -04",
   "compra_segundo": {
-    "price": 662.0,
-    "name": "chaker9"
+    "price": 661.963,
+    "name": "instantremitly "
   },
   "venta_maxima": {
-    "price": 658.6,
-    "name": "SangetsuTrader"
+    "price": 656.55,
+    "name": "Fast Cash "
   },
-  "promedio": 660.3,
+  "promedio": 659.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
