@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T18:39:54.790867",
-  "actualizado_vzla": "2026-03-31 14:39:54 -04",
+  "timestamp_utc": "2026-03-31T19:42:32.081185",
+  "actualizado_vzla": "2026-03-31 15:42:32 -04",
   "compra_segundo": {
-    "price": 657.395,
-    "name": "MERCADO ESTRATEGICO"
+    "price": 658.0,
+    "name": "tovir2572"
   },
   "venta_maxima": {
     "price": 660.0,
-    "name": "Blank_Mind"
+    "name": "GoldenLion_"
   },
-  "promedio": 658.7,
+  "promedio": 659.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
