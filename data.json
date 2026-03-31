@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T12:35:13.384918",
-  "actualizado_vzla": "2026-03-31 08:35:13 -04",
+  "timestamp_utc": "2026-03-31T14:13:26.805518",
+  "actualizado_vzla": "2026-03-31 10:13:26 -04",
   "compra_segundo": {
-    "price": 659.0,
-    "name": "Metavic96_Pago-5-min"
+    "price": 660.289,
+    "name": "Forex Exchange Global "
   },
   "venta_maxima": {
-    "price": 661.0,
+    "price": 663.0,
     "name": "Blank_Mind"
   },
-  "promedio": 660.0,
+  "promedio": 661.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
