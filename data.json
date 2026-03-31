@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T03:24:18.897329",
-  "actualizado_vzla": "2026-03-30 23:24:18 -04",
+  "timestamp_utc": "2026-03-31T05:25:26.836653",
+  "actualizado_vzla": "2026-03-31 01:25:26 -04",
   "compra_segundo": {
-    "price": 661.0,
-    "name": "Cambios Ashley"
+    "price": 661.899,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "Free Trade and Investments"
+    "price": 658.6,
+    "name": "SangetsuTrader"
   },
-  "promedio": 660.5,
+  "promedio": 660.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
