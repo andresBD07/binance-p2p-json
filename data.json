@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-03-31T23:55:07.647969",
-  "actualizado_vzla": "2026-03-31 19:55:07 -04",
+  "timestamp_utc": "2026-04-01T03:28:53.667013",
+  "actualizado_vzla": "2026-03-31 23:28:53 -04",
   "compra_segundo": {
-    "price": 658.23,
-    "name": "Jyplusca"
+    "price": 658.2,
+    "name": "Seveeen"
   },
   "venta_maxima": {
-    "price": 663.0,
-    "name": "Blank_Mind"
+    "price": 656.0,
+    "name": "CambiosMZ"
   },
-  "promedio": 660.62,
+  "promedio": 657.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
