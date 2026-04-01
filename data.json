@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T17:38:53.824897",
-  "actualizado_vzla": "2026-04-01 13:38:53 -04",
+  "timestamp_utc": "2026-04-01T18:38:05.667920",
+  "actualizado_vzla": "2026-04-01 14:38:05 -04",
   "compra_segundo": {
-    "price": 651.33,
-    "name": "Forex Exchange Global "
+    "price": 653.95,
+    "name": "Ärthas of lordaeron"
   },
   "venta_maxima": {
-    "price": 652.5,
-    "name": "安全与信任"
+    "price": 653.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 651.91,
+  "promedio": 653.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
