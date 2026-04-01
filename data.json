@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T21:24:55.477835",
-  "actualizado_vzla": "2026-04-01 17:24:55 -04",
+  "timestamp_utc": "2026-04-01T22:04:53.986907",
+  "actualizado_vzla": "2026-04-01 18:04:53 -04",
   "compra_segundo": {
-    "price": 657.37,
-    "name": "chichiwilote"
+    "price": 656.97,
+    "name": "Jact14"
   },
   "venta_maxima": {
-    "price": 658.0,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 655.6,
+    "name": "Biyt"
   },
-  "promedio": 657.68,
+  "promedio": 656.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
