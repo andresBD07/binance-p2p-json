@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T12:42:41.643790",
-  "actualizado_vzla": "2026-04-01 08:42:41 -04",
+  "timestamp_utc": "2026-04-01T14:20:05.034071",
+  "actualizado_vzla": "2026-04-01 10:20:05 -04",
   "compra_segundo": {
-    "price": 654.2,
-    "name": "Hispano-Cripto"
+    "price": 652.8,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 656.0,
-    "name": "安全与信任"
+    "price": 654.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 655.1,
+  "promedio": 653.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
