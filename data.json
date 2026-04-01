@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T20:30:08.787159",
-  "actualizado_vzla": "2026-04-01 16:30:08 -04",
+  "timestamp_utc": "2026-04-01T21:24:55.477835",
+  "actualizado_vzla": "2026-04-01 17:24:55 -04",
   "compra_segundo": {
-    "price": 655.999,
-    "name": "AllDayTrade"
+    "price": 657.37,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
-    "price": 657.0,
-    "name": "Rapidflorio84"
+    "price": 658.0,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 656.5,
+  "promedio": 657.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
