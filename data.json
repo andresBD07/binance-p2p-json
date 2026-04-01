@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T15:50:35.107277",
-  "actualizado_vzla": "2026-04-01 11:50:35 -04",
+  "timestamp_utc": "2026-04-01T16:47:07.327269",
+  "actualizado_vzla": "2026-04-01 12:47:07 -04",
   "compra_segundo": {
-    "price": 650.86,
-    "name": "NXTrade57"
+    "price": 649.9,
+    "name": "Waldofx"
   },
   "venta_maxima": {
-    "price": 652.0,
-    "name": "Blank_Mind"
+    "price": 652.5,
+    "name": "安全与信任"
   },
-  "promedio": 651.43,
+  "promedio": 651.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
