@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T18:38:05.667920",
-  "actualizado_vzla": "2026-04-01 14:38:05 -04",
+  "timestamp_utc": "2026-04-01T19:45:03.274292",
+  "actualizado_vzla": "2026-04-01 15:45:03 -04",
   "compra_segundo": {
-    "price": 653.95,
-    "name": "Ärthas of lordaeron"
+    "price": 653.523,
+    "name": "TradeWiseP2P"
   },
   "venta_maxima": {
-    "price": 653.5,
-    "name": "Blank_Mind"
+    "price": 655.0,
+    "name": "Godisgift"
   },
-  "promedio": 653.73,
+  "promedio": 654.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
