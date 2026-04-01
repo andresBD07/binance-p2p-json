@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T22:04:53.986907",
-  "actualizado_vzla": "2026-04-01 18:04:53 -04",
+  "timestamp_utc": "2026-04-01T22:56:47.272569",
+  "actualizado_vzla": "2026-04-01 18:56:47 -04",
   "compra_segundo": {
-    "price": 656.97,
-    "name": "Jact14"
+    "price": 655.7,
+    "name": "AD_Finanzas"
   },
   "venta_maxima": {
-    "price": 655.6,
-    "name": "Biyt"
+    "price": 659.0,
+    "name": "Gustavo129"
   },
-  "promedio": 656.29,
+  "promedio": 657.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
