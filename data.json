@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T19:45:03.274292",
-  "actualizado_vzla": "2026-04-01 15:45:03 -04",
+  "timestamp_utc": "2026-04-01T20:30:08.787159",
+  "actualizado_vzla": "2026-04-01 16:30:08 -04",
   "compra_segundo": {
-    "price": 653.523,
-    "name": "TradeWiseP2P"
+    "price": 655.999,
+    "name": "AllDayTrade"
   },
   "venta_maxima": {
-    "price": 655.0,
-    "name": "Godisgift"
+    "price": 657.0,
+    "name": "Rapidflorio84"
   },
-  "promedio": 654.26,
+  "promedio": 656.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
