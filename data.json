@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T16:47:07.327269",
-  "actualizado_vzla": "2026-04-01 12:47:07 -04",
+  "timestamp_utc": "2026-04-01T17:38:53.824897",
+  "actualizado_vzla": "2026-04-01 13:38:53 -04",
   "compra_segundo": {
-    "price": 649.9,
-    "name": "Waldofx"
+    "price": 651.33,
+    "name": "Forex Exchange Global "
   },
   "venta_maxima": {
     "price": 652.5,
     "name": "安全与信任"
   },
-  "promedio": 651.2,
+  "promedio": 651.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
