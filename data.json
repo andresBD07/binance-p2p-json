@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T07:03:19.014624",
-  "actualizado_vzla": "2026-04-01 03:03:19 -04",
+  "timestamp_utc": "2026-04-01T08:20:45.816233",
+  "actualizado_vzla": "2026-04-01 04:20:45 -04",
   "compra_segundo": {
-    "price": 659.9,
-    "name": "InversionesMR"
+    "price": 660.2,
+    "name": "criptogene01"
   },
   "venta_maxima": {
-    "price": 653.001,
-    "name": "CesarRodriguez53"
+    "price": 653.0,
+    "name": "BerracoT"
   },
-  "promedio": 656.45,
+  "promedio": 656.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
