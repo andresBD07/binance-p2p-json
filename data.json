@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-01T08:20:45.816233",
-  "actualizado_vzla": "2026-04-01 04:20:45 -04",
+  "timestamp_utc": "2026-04-01T09:43:06.673977",
+  "actualizado_vzla": "2026-04-01 05:43:06 -04",
   "compra_segundo": {
-    "price": 660.2,
-    "name": "criptogene01"
+    "price": 659.9,
+    "name": "CAMBIOCARVAJAL"
   },
   "venta_maxima": {
     "price": 653.0,
     "name": "BerracoT"
   },
-  "promedio": 656.6,
+  "promedio": 656.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
