@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T01:00:44.681054",
-  "actualizado_vzla": "2026-04-01 21:00:44 -04",
+  "timestamp_utc": "2026-04-02T03:50:50.125851",
+  "actualizado_vzla": "2026-04-01 23:50:50 -04",
   "compra_segundo": {
-    "price": 655.5,
-    "name": "NO3rosNO"
+    "price": 656.79,
+    "name": "BOSS__313"
   },
   "venta_maxima": {
-    "price": 659.0,
-    "name": "Gustavo129"
+    "price": 655.5,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 657.25,
+  "promedio": 656.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
