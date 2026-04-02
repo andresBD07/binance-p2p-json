@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T22:03:16.744085",
-  "actualizado_vzla": "2026-04-02 18:03:16 -04",
+  "timestamp_utc": "2026-04-02T22:49:04.864827",
+  "actualizado_vzla": "2026-04-02 18:49:04 -04",
   "compra_segundo": {
-    "price": 654.3,
-    "name": "racaste"
+    "price": 654.399,
+    "name": "Sharkypay"
   },
   "venta_maxima": {
     "price": 654.0,
     "name": "Blank_Mind"
   },
-  "promedio": 654.15,
+  "promedio": 654.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
