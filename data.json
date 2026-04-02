@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T19:11:58.993259",
-  "actualizado_vzla": "2026-04-02 15:11:59 -04",
+  "timestamp_utc": "2026-04-02T19:59:00.582460",
+  "actualizado_vzla": "2026-04-02 15:59:00 -04",
   "compra_segundo": {
-    "price": 654.65,
-    "name": "Betania"
+    "price": 655.199,
+    "name": "ElielWar"
   },
   "venta_maxima": {
-    "price": 656.0,
+    "price": 655.5,
     "name": "CamburPlus"
   },
-  "promedio": 655.33,
+  "promedio": 655.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
