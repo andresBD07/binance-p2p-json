@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T17:07:44.215294",
-  "actualizado_vzla": "2026-04-02 13:07:44 -04",
+  "timestamp_utc": "2026-04-02T18:01:01.068293",
+  "actualizado_vzla": "2026-04-02 14:01:01 -04",
   "compra_segundo": {
-    "price": 654.199,
-    "name": "JDCAPITAL-HOLDING"
+    "price": 654.2,
+    "name": "丹_表达"
   },
   "venta_maxima": {
-    "price": 653.5,
-    "name": "venezuela"
+    "price": 654.2,
+    "name": "c_s_"
   },
-  "promedio": 653.85,
+  "promedio": 654.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
