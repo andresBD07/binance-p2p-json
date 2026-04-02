@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T10:13:44.900611",
-  "actualizado_vzla": "2026-04-02 06:13:44 -04",
+  "timestamp_utc": "2026-04-02T11:12:15.919503",
+  "actualizado_vzla": "2026-04-02 07:12:15 -04",
   "compra_segundo": {
-    "price": 657.29,
-    "name": "Sag87"
+    "price": 656.0,
+    "name": "alejo"
   },
   "venta_maxima": {
-    "price": 652.6,
-    "name": "app2112"
+    "price": 653.5,
+    "name": "juanchoscomerc"
   },
-  "promedio": 654.94,
+  "promedio": 654.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
