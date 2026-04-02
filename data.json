@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T20:48:23.823109",
-  "actualizado_vzla": "2026-04-02 16:48:23 -04",
+  "timestamp_utc": "2026-04-02T21:25:39.044562",
+  "actualizado_vzla": "2026-04-02 17:25:39 -04",
   "compra_segundo": {
-    "price": 654.995,
-    "name": "D R E A M E R "
+    "price": 654.55,
+    "name": "RJDtrades"
   },
   "venta_maxima": {
     "price": 655.0,
     "name": "CamburPlus"
   },
-  "promedio": 655.0,
+  "promedio": 654.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
