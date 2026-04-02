@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-04-02T12:00:20.070794",
-  "actualizado_vzla": "2026-04-02 08:00:20 -04",
+  "timestamp_utc": "2026-04-02T13:51:34.590314",
+  "actualizado_vzla": "2026-04-02 09:51:34 -04",
   "compra_segundo": {
-    "price": 656.5,
-    "name": "NO3rosNO"
+    "price": 655.399,
+    "name": "MOISES0908"
   },
   "venta_maxima": {
-    "price": 654.51,
-    "name": "SoonE20"
+    "price": 655.6,
+    "name": "Blank_Mind"
   },
   "promedio": 655.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
