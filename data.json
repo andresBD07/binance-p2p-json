@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T18:01:01.068293",
-  "actualizado_vzla": "2026-04-02 14:01:01 -04",
+  "timestamp_utc": "2026-04-02T19:11:58.993259",
+  "actualizado_vzla": "2026-04-02 15:11:59 -04",
   "compra_segundo": {
-    "price": 654.2,
-    "name": "丹_表达"
+    "price": 654.65,
+    "name": "Betania"
   },
   "venta_maxima": {
-    "price": 654.2,
-    "name": "c_s_"
+    "price": 656.0,
+    "name": "CamburPlus"
   },
-  "promedio": 654.2,
+  "promedio": 655.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
