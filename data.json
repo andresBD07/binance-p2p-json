@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T03:50:50.125851",
-  "actualizado_vzla": "2026-04-01 23:50:50 -04",
+  "timestamp_utc": "2026-04-02T05:29:13.488423",
+  "actualizado_vzla": "2026-04-02 01:29:13 -04",
   "compra_segundo": {
-    "price": 656.79,
-    "name": "BOSS__313"
+    "price": 657.999,
+    "name": "CIFRANAUTA"
   },
   "venta_maxima": {
-    "price": 655.5,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 655.22,
+    "name": "Jotica7"
   },
-  "promedio": 656.14,
+  "promedio": 656.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
