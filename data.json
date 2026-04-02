@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T05:29:13.488423",
-  "actualizado_vzla": "2026-04-02 01:29:13 -04",
+  "timestamp_utc": "2026-04-02T06:51:33.756532",
+  "actualizado_vzla": "2026-04-02 02:51:33 -04",
   "compra_segundo": {
-    "price": 657.999,
-    "name": "CIFRANAUTA"
+    "price": 658.8,
+    "name": "CambioDirecto"
   },
   "venta_maxima": {
-    "price": 655.22,
-    "name": "Jotica7"
+    "price": 653.0,
+    "name": "Burdyn"
   },
-  "promedio": 656.61,
+  "promedio": 655.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
