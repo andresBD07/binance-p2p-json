@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T08:05:20.198244",
-  "actualizado_vzla": "2026-04-02 04:05:20 -04",
+  "timestamp_utc": "2026-04-02T09:13:23.936418",
+  "actualizado_vzla": "2026-04-02 05:13:23 -04",
   "compra_segundo": {
-    "price": 658.997,
-    "name": "PERFUMEHOUSE"
+    "price": 658.0,
+    "name": "YGSCAPITALSPA"
   },
   "venta_maxima": {
     "price": 652.6,
     "name": "app2112"
   },
-  "promedio": 655.8,
+  "promedio": 655.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
