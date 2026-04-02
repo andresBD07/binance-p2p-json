@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T11:12:15.919503",
-  "actualizado_vzla": "2026-04-02 07:12:15 -04",
+  "timestamp_utc": "2026-04-02T12:00:20.070794",
+  "actualizado_vzla": "2026-04-02 08:00:20 -04",
   "compra_segundo": {
-    "price": 656.0,
-    "name": "alejo"
+    "price": 656.5,
+    "name": "NO3rosNO"
   },
   "venta_maxima": {
-    "price": 653.5,
-    "name": "juanchoscomerc"
+    "price": 654.51,
+    "name": "SoonE20"
   },
-  "promedio": 654.75,
+  "promedio": 655.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
