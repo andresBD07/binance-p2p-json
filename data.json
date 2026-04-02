@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T06:51:33.756532",
-  "actualizado_vzla": "2026-04-02 02:51:33 -04",
+  "timestamp_utc": "2026-04-02T08:05:20.198244",
+  "actualizado_vzla": "2026-04-02 04:05:20 -04",
   "compra_segundo": {
-    "price": 658.8,
-    "name": "CambioDirecto"
+    "price": 658.997,
+    "name": "PERFUMEHOUSE"
   },
   "venta_maxima": {
-    "price": 653.0,
-    "name": "Burdyn"
+    "price": 652.6,
+    "name": "app2112"
   },
-  "promedio": 655.9,
+  "promedio": 655.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
