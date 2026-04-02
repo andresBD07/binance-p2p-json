@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T13:51:34.590314",
-  "actualizado_vzla": "2026-04-02 09:51:34 -04",
+  "timestamp_utc": "2026-04-02T14:53:32.784024",
+  "actualizado_vzla": "2026-04-02 10:53:32 -04",
   "compra_segundo": {
-    "price": 655.399,
-    "name": "MOISES0908"
+    "price": 654.45,
+    "name": "RamgabP2P"
   },
   "venta_maxima": {
-    "price": 655.6,
-    "name": "Blank_Mind"
+    "price": 654.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 655.5,
+  "promedio": 654.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
