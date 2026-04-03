@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T16:55:08.437402",
-  "actualizado_vzla": "2026-04-03 12:55:08 -04",
+  "timestamp_utc": "2026-04-03T17:41:06.497409",
+  "actualizado_vzla": "2026-04-03 13:41:06 -04",
   "compra_segundo": {
-    "price": 647.888,
-    "name": "EduardoArrieche"
+    "price": 647.759,
+    "name": "Cating"
   },
   "venta_maxima": {
-    "price": 647.15,
-    "name": "CAMBIOS AVILA "
+    "price": 646.6,
+    "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 647.52,
+  "promedio": 647.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
