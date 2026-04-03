@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-02T23:25:19.454873",
-  "actualizado_vzla": "2026-04-02 19:25:19 -04",
+  "timestamp_utc": "2026-04-03T00:00:06.382755",
+  "actualizado_vzla": "2026-04-02 20:00:06 -04",
   "compra_segundo": {
-    "price": 653.999,
-    "name": "AD_Finanzas"
+    "price": 653.4,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 653.1,
-    "name": "diomedez14"
+    "price": 654.0,
+    "name": "TheOchoa"
   },
-  "promedio": 653.55,
+  "promedio": 653.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
