@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T23:22:41.753686",
-  "actualizado_vzla": "2026-04-03 19:22:41 -04",
+  "timestamp_utc": "2026-04-03T23:56:40.675159",
+  "actualizado_vzla": "2026-04-03 19:56:40 -04",
   "compra_segundo": {
-    "price": 642.9,
-    "name": "CH-Intercambios"
+    "price": 641.3,
+    "name": "ElReyTrade"
   },
   "venta_maxima": {
-    "price": 642.5,
-    "name": "BerracoT"
+    "price": 640.5,
+    "name": "Mr Miyagi 10"
   },
-  "promedio": 642.7,
+  "promedio": 640.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
