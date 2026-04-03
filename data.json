@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T03:23:40.067001",
-  "actualizado_vzla": "2026-04-02 23:23:40 -04",
+  "timestamp_utc": "2026-04-03T05:20:40.144991",
+  "actualizado_vzla": "2026-04-03 01:20:40 -04",
   "compra_segundo": {
-    "price": 652.7,
-    "name": "Emm-FAST"
+    "price": 653.4,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 651.0,
-    "name": "安全与信任"
+    "price": 650.05,
+    "name": "BOLO-USDT"
   },
-  "promedio": 651.85,
+  "promedio": 651.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
