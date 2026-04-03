@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T10:28:53.811861",
-  "actualizado_vzla": "2026-04-03 06:28:53 -04",
+  "timestamp_utc": "2026-04-03T11:23:23.457667",
+  "actualizado_vzla": "2026-04-03 07:23:23 -04",
   "compra_segundo": {
-    "price": 652.99,
-    "name": "K69_Trades"
+    "price": 652.7,
+    "name": "CambioDirecto"
   },
   "venta_maxima": {
-    "price": 648.909,
-    "name": "SPYG"
+    "price": 650.0,
+    "name": "ShadoWM01"
   },
-  "promedio": 650.95,
+  "promedio": 651.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
