@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T08:47:04.246017",
-  "actualizado_vzla": "2026-04-03 04:47:04 -04",
+  "timestamp_utc": "2026-04-03T09:39:54.204638",
+  "actualizado_vzla": "2026-04-03 05:39:54 -04",
   "compra_segundo": {
-    "price": 653.7,
-    "name": "Yaneht_Elite_Gold"
+    "price": 653.5,
+    "name": "Sag87"
   },
   "venta_maxima": {
     "price": 648.909,
     "name": "SPYG"
   },
-  "promedio": 651.3,
+  "promedio": 651.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
