@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T09:39:54.204638",
-  "actualizado_vzla": "2026-04-03 05:39:54 -04",
+  "timestamp_utc": "2026-04-03T10:28:53.811861",
+  "actualizado_vzla": "2026-04-03 06:28:53 -04",
   "compra_segundo": {
-    "price": 653.5,
-    "name": "Sag87"
+    "price": 652.99,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
     "price": 648.909,
     "name": "SPYG"
   },
-  "promedio": 651.2,
+  "promedio": 650.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
