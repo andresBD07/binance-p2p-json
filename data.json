@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T11:28:07.038652",
-  "actualizado_vzla": "2026-04-04 07:28:07 -04",
+  "timestamp_utc": "2026-04-04T11:54:55.516801",
+  "actualizado_vzla": "2026-04-04 07:54:55 -04",
   "compra_segundo": {
-    "price": 642.998,
-    "name": "UroTrader"
+    "price": 642.1,
+    "name": "PANDA1902"
   },
   "venta_maxima": {
-    "price": 640.0,
-    "name": "CRIPTOMCNC"
+    "price": 639.5,
+    "name": "TOPlevelS"
   },
-  "promedio": 641.5,
+  "promedio": 640.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
