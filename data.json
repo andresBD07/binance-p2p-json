@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-03T23:56:40.675159",
-  "actualizado_vzla": "2026-04-03 19:56:40 -04",
+  "timestamp_utc": "2026-04-04T02:52:56.428171",
+  "actualizado_vzla": "2026-04-03 22:52:56 -04",
   "compra_segundo": {
-    "price": 641.3,
-    "name": "ElReyTrade"
+    "price": 643.499,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 640.5,
-    "name": "Mr Miyagi 10"
+    "price": 641.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 640.9,
+  "promedio": 642.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
