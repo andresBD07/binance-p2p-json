@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T16:32:06.555586",
-  "actualizado_vzla": "2026-04-04 12:32:06 -04",
+  "timestamp_utc": "2026-04-04T17:04:36.946538",
+  "actualizado_vzla": "2026-04-04 13:04:36 -04",
   "compra_segundo": {
-    "price": 634.8,
-    "name": "Hispano-Cripto"
+    "price": 634.79,
+    "name": "MONTERCCCCCCCCCCP"
   },
   "venta_maxima": {
-    "price": 634.7,
-    "name": "Inversiones-ADSC"
+    "price": 635.1,
+    "name": "RAULITO2809"
   },
-  "promedio": 634.75,
+  "promedio": 634.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
