@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T23:15:24.356662",
-  "actualizado_vzla": "2026-04-04 19:15:24 -04",
+  "timestamp_utc": "2026-04-04T23:50:00.280326",
+  "actualizado_vzla": "2026-04-04 19:50:00 -04",
   "compra_segundo": {
-    "price": 633.799,
-    "name": "hc investings "
+    "price": 633.7,
+    "name": "ZenTrades"
   },
   "venta_maxima": {
-    "price": 633.15,
-    "name": "FMDeluXchange"
+    "price": 632.25,
+    "name": "TOPlevelS"
   },
-  "promedio": 633.47,
+  "promedio": 632.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
