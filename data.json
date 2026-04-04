@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T19:45:59.417706",
-  "actualizado_vzla": "2026-04-04 15:45:59 -04",
+  "timestamp_utc": "2026-04-04T20:15:07.891746",
+  "actualizado_vzla": "2026-04-04 16:15:07 -04",
   "compra_segundo": {
-    "price": 637.0,
-    "name": "racaste"
+    "price": 636.795,
+    "name": "eercripto"
   },
   "venta_maxima": {
     "price": 636.0,
     "name": "Godisgift"
   },
-  "promedio": 636.5,
+  "promedio": 636.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
