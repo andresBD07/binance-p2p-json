@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T15:51:23.876751",
-  "actualizado_vzla": "2026-04-04 11:51:23 -04",
+  "timestamp_utc": "2026-04-04T16:32:06.555586",
+  "actualizado_vzla": "2026-04-04 12:32:06 -04",
   "compra_segundo": {
-    "price": 635.59,
-    "name": "GolDkike"
+    "price": 634.8,
+    "name": "Hispano-Cripto"
   },
   "venta_maxima": {
     "price": 634.7,
-    "name": "Job2025"
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 635.14,
+  "promedio": 634.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
