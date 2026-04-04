@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T21:31:21.445853",
-  "actualizado_vzla": "2026-04-04 17:31:21 -04",
+  "timestamp_utc": "2026-04-04T21:57:29.890335",
+  "actualizado_vzla": "2026-04-04 17:57:29 -04",
   "compra_segundo": {
-    "price": 634.99,
-    "name": "Ada0491"
+    "price": 634.2,
+    "name": "CAMBIOS-CRYPTOS"
   },
   "venta_maxima": {
-    "price": 633.81,
-    "name": "Pcambios10"
+    "price": 632.75,
+    "name": "改善ThorFinn改善"
   },
-  "promedio": 634.4,
+  "promedio": 633.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
