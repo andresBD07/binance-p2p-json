@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T08:51:24.481000",
-  "actualizado_vzla": "2026-04-04 04:51:24 -04",
+  "timestamp_utc": "2026-04-04T09:34:38.438347",
+  "actualizado_vzla": "2026-04-04 05:34:38 -04",
   "compra_segundo": {
-    "price": 644.2,
-    "name": "CriptoFms10"
+    "price": 643.65,
+    "name": "Yosedg"
   },
   "venta_maxima": {
     "price": 640.0,
     "name": "CRIPTOMCNC"
   },
-  "promedio": 642.1,
+  "promedio": 641.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
