@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T10:04:19.759025",
-  "actualizado_vzla": "2026-04-04 06:04:19 -04",
+  "timestamp_utc": "2026-04-04T10:52:05.510096",
+  "actualizado_vzla": "2026-04-04 06:52:05 -04",
   "compra_segundo": {
-    "price": 643.5,
-    "name": "LechugaExpress"
+    "price": 643.59,
+    "name": "Criptotur"
   },
   "venta_maxima": {
     "price": 640.0,
     "name": "CRIPTOMCNC"
   },
-  "promedio": 641.75,
+  "promedio": 641.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
