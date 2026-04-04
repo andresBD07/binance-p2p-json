@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T14:00:01.247389",
-  "actualizado_vzla": "2026-04-04 10:00:01 -04",
+  "timestamp_utc": "2026-04-04T14:47:22.552287",
+  "actualizado_vzla": "2026-04-04 10:47:22 -04",
   "compra_segundo": {
-    "price": 637.9,
-    "name": "javier273"
+    "price": 636.7,
+    "name": "Yordcj"
   },
   "venta_maxima": {
-    "price": 638.5,
-    "name": "CamburPlus"
+    "price": 635.0,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 638.2,
+  "promedio": 635.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
