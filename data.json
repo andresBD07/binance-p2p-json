@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T17:46:53.391717",
-  "actualizado_vzla": "2026-04-04 13:46:53 -04",
+  "timestamp_utc": "2026-04-04T18:21:48.333378",
+  "actualizado_vzla": "2026-04-04 14:21:48 -04",
   "compra_segundo": {
-    "price": 635.8,
-    "name": "racaste"
+    "price": 636.6,
+    "name": "CashFlash_TM"
   },
   "venta_maxima": {
-    "price": 636.1,
-    "name": "DOCTOR_CAMBIO"
+    "price": 637.32,
+    "name": "FMDeluXchange"
   },
-  "promedio": 635.95,
+  "promedio": 636.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
