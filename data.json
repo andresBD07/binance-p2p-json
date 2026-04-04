@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T11:54:55.516801",
-  "actualizado_vzla": "2026-04-04 07:54:55 -04",
+  "timestamp_utc": "2026-04-04T13:10:23.946934",
+  "actualizado_vzla": "2026-04-04 09:10:23 -04",
   "compra_segundo": {
-    "price": 642.1,
-    "name": "PANDA1902"
+    "price": 634.445,
+    "name": "_Kambalache_"
   },
   "venta_maxima": {
-    "price": 639.5,
-    "name": "TOPlevelS"
+    "price": 632.8,
+    "name": "CAMBIOS AVILA "
   },
-  "promedio": 640.8,
+  "promedio": 633.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
