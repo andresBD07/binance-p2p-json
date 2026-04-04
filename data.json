@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T15:17:49.871393",
-  "actualizado_vzla": "2026-04-04 11:17:49 -04",
+  "timestamp_utc": "2026-04-04T15:51:23.876751",
+  "actualizado_vzla": "2026-04-04 11:51:23 -04",
   "compra_segundo": {
-    "price": 635.6,
-    "name": "Moi2504"
+    "price": 635.59,
+    "name": "GolDkike"
   },
   "venta_maxima": {
-    "price": 635.5,
-    "name": "Child-CambioFacil"
+    "price": 634.7,
+    "name": "Job2025"
   },
-  "promedio": 635.55,
+  "promedio": 635.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
