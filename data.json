@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T14:47:22.552287",
-  "actualizado_vzla": "2026-04-04 10:47:22 -04",
+  "timestamp_utc": "2026-04-04T15:17:49.871393",
+  "actualizado_vzla": "2026-04-04 11:17:49 -04",
   "compra_segundo": {
-    "price": 636.7,
-    "name": "Yordcj"
+    "price": 635.6,
+    "name": "Moi2504"
   },
   "venta_maxima": {
-    "price": 635.0,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 635.5,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 635.85,
+  "promedio": 635.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
