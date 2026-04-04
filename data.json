@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T07:05:59.114892",
-  "actualizado_vzla": "2026-04-04 03:05:59 -04",
+  "timestamp_utc": "2026-04-04T07:55:00.510550",
+  "actualizado_vzla": "2026-04-04 03:55:00 -04",
   "compra_segundo": {
-    "price": 644.47,
-    "name": "Criptosafe_"
+    "price": 644.5,
+    "name": "Triple_Crown"
   },
   "venta_maxima": {
     "price": 640.0,
     "name": "CRIPTOMCNC"
   },
-  "promedio": 642.24,
+  "promedio": 642.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
