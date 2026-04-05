@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-05T21:43:32.674842",
-  "actualizado_vzla": "2026-04-05 17:43:32 -04",
+  "timestamp_utc": "2026-04-05T22:14:16.997045",
+  "actualizado_vzla": "2026-04-05 18:14:17 -04",
   "compra_segundo": {
-    "price": 633.26,
-    "name": "SmarPhon3"
+    "price": 633.15,
+    "name": "Sharkypay"
   },
   "venta_maxima": {
     "price": 632.0,
     "name": "Pine_USDT"
   },
-  "promedio": 632.63,
+  "promedio": 632.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
