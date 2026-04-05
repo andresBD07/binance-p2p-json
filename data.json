@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-05T10:33:05.669482",
-  "actualizado_vzla": "2026-04-05 06:33:05 -04",
+  "timestamp_utc": "2026-04-05T11:04:20.444204",
+  "actualizado_vzla": "2026-04-05 07:04:20 -04",
   "compra_segundo": {
-    "price": 633.1,
-    "name": "CazadorDeBallenas"
+    "price": 632.7,
+    "name": "JURGENtrader"
   },
   "venta_maxima": {
     "price": 630.0,
     "name": "DavidCapital"
   },
-  "promedio": 631.55,
+  "promedio": 631.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
