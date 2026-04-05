@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-04T23:50:00.280326",
-  "actualizado_vzla": "2026-04-04 19:50:00 -04",
+  "timestamp_utc": "2026-04-05T01:49:52.807374",
+  "actualizado_vzla": "2026-04-04 21:49:52 -04",
   "compra_segundo": {
-    "price": 633.7,
-    "name": "ZenTrades"
+    "price": 631.998,
+    "name": "Gibit"
   },
   "venta_maxima": {
-    "price": 632.25,
-    "name": "TOPlevelS"
+    "price": 630.161,
+    "name": "P2P-18cdcaje"
   },
-  "promedio": 632.98,
+  "promedio": 631.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
