@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-05T17:00:46.566120",
-  "actualizado_vzla": "2026-04-05 13:00:46 -04",
+  "timestamp_utc": "2026-04-05T17:46:51.796266",
+  "actualizado_vzla": "2026-04-05 13:46:51 -04",
   "compra_segundo": {
-    "price": 630.45,
-    "name": "Moneytransfer"
+    "price": 631.5,
+    "name": "fenomenoR9"
   },
   "venta_maxima": {
-    "price": 629.305,
-    "name": "All-inCrypto"
+    "price": 629.3,
+    "name": "SkollFloki"
   },
-  "promedio": 629.88,
+  "promedio": 630.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
