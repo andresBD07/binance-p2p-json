@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-05T13:35:49.437929",
-  "actualizado_vzla": "2026-04-05 09:35:49 -04",
+  "timestamp_utc": "2026-04-05T14:20:29.021223",
+  "actualizado_vzla": "2026-04-05 10:20:29 -04",
   "compra_segundo": {
-    "price": 632.8,
-    "name": "TUCAMBIOSEGURO24"
+    "price": 630.399,
+    "name": "CryptoTrader"
   },
   "venta_maxima": {
-    "price": 629.2,
-    "name": "Caniel02"
+    "price": 630.0,
+    "name": "Elrapid"
   },
-  "promedio": 631.0,
+  "promedio": 630.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
