@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-05T15:00:09.819859",
-  "actualizado_vzla": "2026-04-05 11:00:09 -04",
+  "timestamp_utc": "2026-04-05T15:46:00.406251",
+  "actualizado_vzla": "2026-04-05 11:46:00 -04",
   "compra_segundo": {
-    "price": 629.48,
-    "name": "Digitalimport"
+    "price": 628.7,
+    "name": "CambiosUzzi02"
   },
   "venta_maxima": {
-    "price": 627.2,
-    "name": "塞Jsse-Pro塞"
+    "price": 627.5,
+    "name": "立即购买"
   },
-  "promedio": 628.34,
+  "promedio": 628.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
