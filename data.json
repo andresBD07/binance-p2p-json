@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-05T19:10:01.275424",
-  "actualizado_vzla": "2026-04-05 15:10:01 -04",
+  "timestamp_utc": "2026-04-05T19:49:38.624376",
+  "actualizado_vzla": "2026-04-05 15:49:38 -04",
   "compra_segundo": {
-    "price": 630.5,
-    "name": "TMSC__7"
+    "price": 631.45,
+    "name": "SatoruEXchange"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "CAMBIOS AVILA "
+    "price": 631.1,
+    "name": "ShadoWM01"
   },
-  "promedio": 630.25,
+  "promedio": 631.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
