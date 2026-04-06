@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T10:10:27.866500",
-  "actualizado_vzla": "2026-04-06 06:10:27 -04",
+  "timestamp_utc": "2026-04-06T11:13:26.666566",
+  "actualizado_vzla": "2026-04-06 07:13:26 -04",
   "compra_segundo": {
-    "price": 633.9,
-    "name": "P2P-KAD"
+    "price": 631.0,
+    "name": "REMESAS_ELMARACUCHO"
   },
   "venta_maxima": {
-    "price": 626.409,
-    "name": "Cripmetal-P2P"
+    "price": 626.2,
+    "name": "Más_Veloz_P2P"
   },
-  "promedio": 630.15,
+  "promedio": 628.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
