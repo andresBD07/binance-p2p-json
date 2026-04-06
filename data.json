@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T22:28:31.840278",
-  "actualizado_vzla": "2026-04-06 18:28:31 -04",
+  "timestamp_utc": "2026-04-06T23:06:56.797858",
+  "actualizado_vzla": "2026-04-06 19:06:56 -04",
   "compra_segundo": {
-    "price": 640.99,
-    "name": "Jact14"
+    "price": 640.999,
+    "name": "financepartner1203"
   },
   "venta_maxima": {
-    "price": 643.0,
+    "price": 641.0,
     "name": "Trust-Broker"
   },
-  "promedio": 642.0,
+  "promedio": 641.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
