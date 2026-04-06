@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T19:39:08.590291",
-  "actualizado_vzla": "2026-04-06 15:39:08 -04",
+  "timestamp_utc": "2026-04-06T20:23:56.018097",
+  "actualizado_vzla": "2026-04-06 16:23:56 -04",
   "compra_segundo": {
-    "price": 637.0,
-    "name": "SouthCL"
+    "price": 638.59,
+    "name": "CHANGEcripto"
   },
   "venta_maxima": {
-    "price": 640.05,
-    "name": "立即购买"
+    "price": 639.5,
+    "name": "Biyt"
   },
-  "promedio": 638.52,
+  "promedio": 639.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
