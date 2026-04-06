@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T23:06:56.797858",
-  "actualizado_vzla": "2026-04-06 19:06:56 -04",
+  "timestamp_utc": "2026-04-06T23:51:05.350543",
+  "actualizado_vzla": "2026-04-06 19:51:05 -04",
   "compra_segundo": {
-    "price": 640.999,
-    "name": "financepartner1203"
+    "price": 640.174,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 641.0,
-    "name": "Trust-Broker"
+    "price": 639.4,
+    "name": "VECTURAFX"
   },
-  "promedio": 641.0,
+  "promedio": 639.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
