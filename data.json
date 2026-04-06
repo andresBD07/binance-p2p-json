@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T18:32:16.041376",
-  "actualizado_vzla": "2026-04-06 14:32:16 -04",
+  "timestamp_utc": "2026-04-06T19:39:08.590291",
+  "actualizado_vzla": "2026-04-06 15:39:08 -04",
   "compra_segundo": {
-    "price": 636.999,
-    "name": "EL REY DE REYES 76"
+    "price": 637.0,
+    "name": "SouthCL"
   },
   "venta_maxima": {
-    "price": 636.0,
-    "name": "Biyt"
+    "price": 640.05,
+    "name": "立即购买"
   },
-  "promedio": 636.5,
+  "promedio": 638.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
