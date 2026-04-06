@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T08:53:07.157593",
-  "actualizado_vzla": "2026-04-06 04:53:07 -04",
+  "timestamp_utc": "2026-04-06T10:10:27.866500",
+  "actualizado_vzla": "2026-04-06 06:10:27 -04",
   "compra_segundo": {
-    "price": 634.0,
-    "name": "Notorio"
+    "price": 633.9,
+    "name": "P2P-KAD"
   },
   "venta_maxima": {
-    "price": 627.6,
-    "name": "CorporacionGlobalVe"
+    "price": 626.409,
+    "name": "Cripmetal-P2P"
   },
-  "promedio": 630.8,
+  "promedio": 630.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
