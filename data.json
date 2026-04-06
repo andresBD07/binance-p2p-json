@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T05:50:54.585755",
-  "actualizado_vzla": "2026-04-06 01:50:54 -04",
+  "timestamp_utc": "2026-04-06T07:23:22.532465",
+  "actualizado_vzla": "2026-04-06 03:23:22 -04",
   "compra_segundo": {
-    "price": 634.2,
-    "name": "CarlosBelloNexoCapit"
+    "price": 634.444,
+    "name": "-HashiramaSenju"
   },
   "venta_maxima": {
-    "price": 627.73,
-    "name": "cryptocurrencyworld"
+    "price": 627.046,
+    "name": "EverCryptoUSDT "
   },
-  "promedio": 630.97,
+  "promedio": 630.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
