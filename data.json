@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T14:37:09.774550",
-  "actualizado_vzla": "2026-04-06 10:37:09 -04",
+  "timestamp_utc": "2026-04-06T15:31:51.549660",
+  "actualizado_vzla": "2026-04-06 11:31:51 -04",
   "compra_segundo": {
-    "price": 630.0,
-    "name": "FRANFLASH8"
+    "price": 641.7,
+    "name": "JURGENtrader"
   },
   "venta_maxima": {
-    "price": 630.1,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 644.5,
+    "name": "To0809"
   },
-  "promedio": 630.05,
+  "promedio": 643.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
