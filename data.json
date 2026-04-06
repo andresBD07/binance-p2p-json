@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T11:13:26.666566",
-  "actualizado_vzla": "2026-04-06 07:13:26 -04",
+  "timestamp_utc": "2026-04-06T12:01:25.240726",
+  "actualizado_vzla": "2026-04-06 08:01:25 -04",
   "compra_segundo": {
-    "price": 631.0,
-    "name": "REMESAS_ELMARACUCHO"
+    "price": 630.0,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
-    "price": 626.2,
-    "name": "Más_Veloz_P2P"
+    "price": 629.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 628.6,
+  "promedio": 629.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
