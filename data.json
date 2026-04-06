@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T21:50:00.274726",
-  "actualizado_vzla": "2026-04-06 17:50:00 -04",
+  "timestamp_utc": "2026-04-06T22:28:31.840278",
+  "actualizado_vzla": "2026-04-06 18:28:31 -04",
   "compra_segundo": {
-    "price": 638.9,
-    "name": "MGqueen07"
+    "price": 640.99,
+    "name": "Jact14"
   },
   "venta_maxima": {
-    "price": 642.601,
-    "name": "FULL-HOUSSE"
+    "price": 643.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 640.75,
+  "promedio": 642.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
