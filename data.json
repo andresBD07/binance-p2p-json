@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T03:37:20.017870",
-  "actualizado_vzla": "2026-04-05 23:37:20 -04",
+  "timestamp_utc": "2026-04-06T05:50:54.585755",
+  "actualizado_vzla": "2026-04-06 01:50:54 -04",
   "compra_segundo": {
-    "price": 633.4,
-    "name": "JR10criptos"
+    "price": 634.2,
+    "name": "CarlosBelloNexoCapit"
   },
   "venta_maxima": {
-    "price": 629.001,
-    "name": "Elmanuuu"
+    "price": 627.73,
+    "name": "cryptocurrencyworld"
   },
-  "promedio": 631.2,
+  "promedio": 630.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
