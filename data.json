@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T19:43:44.721853",
-  "actualizado_vzla": "2026-04-07 15:43:44 -04",
+  "timestamp_utc": "2026-04-07T20:30:26.744362",
+  "actualizado_vzla": "2026-04-07 16:30:26 -04",
   "compra_segundo": {
-    "price": 638.3,
-    "name": "AndradeGascon"
+    "price": 637.993,
+    "name": "TopPag0s"
   },
   "venta_maxima": {
-    "price": 641.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 642.5,
+    "name": "Biyt"
   },
-  "promedio": 639.9,
+  "promedio": 640.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
