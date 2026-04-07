@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T18:37:42.409448",
-  "actualizado_vzla": "2026-04-07 14:37:42 -04",
+  "timestamp_utc": "2026-04-07T19:43:44.721853",
+  "actualizado_vzla": "2026-04-07 15:43:44 -04",
   "compra_segundo": {
-    "price": 632.5,
-    "name": "CAMBIOME"
+    "price": 638.3,
+    "name": "AndradeGascon"
   },
   "venta_maxima": {
-    "price": 639.0,
-    "name": "CCST"
+    "price": 641.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 635.75,
+  "promedio": 639.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
