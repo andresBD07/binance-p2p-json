@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T17:38:09.393049",
-  "actualizado_vzla": "2026-04-07 13:38:09 -04",
+  "timestamp_utc": "2026-04-07T18:37:42.409448",
+  "actualizado_vzla": "2026-04-07 14:37:42 -04",
   "compra_segundo": {
-    "price": 632.8,
-    "name": "GolDkike"
+    "price": 632.5,
+    "name": "CAMBIOME"
   },
   "venta_maxima": {
-    "price": 635.1,
-    "name": "Gustavo129"
+    "price": 639.0,
+    "name": "CCST"
   },
-  "promedio": 633.95,
+  "promedio": 635.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
