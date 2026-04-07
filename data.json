@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T22:07:14.832546",
-  "actualizado_vzla": "2026-04-07 18:07:14 -04",
+  "timestamp_utc": "2026-04-07T22:58:15.880852",
+  "actualizado_vzla": "2026-04-07 18:58:15 -04",
   "compra_segundo": {
-    "price": 638.6,
-    "name": "Sg_Ebenezer"
+    "price": 639.89,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 642.5,
-    "name": "BLACKROCK22"
+    "price": 644.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 640.55,
+  "promedio": 642.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
