@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T06:09:32.162591",
-  "actualizado_vzla": "2026-04-07 02:09:32 -04",
+  "timestamp_utc": "2026-04-07T07:50:10.224608",
+  "actualizado_vzla": "2026-04-07 03:50:10 -04",
   "compra_segundo": {
-    "price": 639.5,
-    "name": "InversionesMR"
+    "price": 639.68,
+    "name": "Importinggroup"
   },
   "venta_maxima": {
-    "price": 635.0,
+    "price": 634.0,
     "name": "Fakefk"
   },
-  "promedio": 637.25,
+  "promedio": 636.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
