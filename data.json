@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T07:50:10.224608",
-  "actualizado_vzla": "2026-04-07 03:50:10 -04",
+  "timestamp_utc": "2026-04-07T08:54:58.111254",
+  "actualizado_vzla": "2026-04-07 04:54:58 -04",
   "compra_segundo": {
-    "price": 639.68,
-    "name": "Importinggroup"
+    "price": 638.9,
+    "name": "EduardoArrieche"
   },
   "venta_maxima": {
     "price": 634.0,
     "name": "Fakefk"
   },
-  "promedio": 636.84,
+  "promedio": 636.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
