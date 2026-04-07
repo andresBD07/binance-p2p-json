@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T13:59:57.797465",
-  "actualizado_vzla": "2026-04-07 09:59:57 -04",
+  "timestamp_utc": "2026-04-07T15:23:25.483449",
+  "actualizado_vzla": "2026-04-07 11:23:25 -04",
   "compra_segundo": {
-    "price": 631.998,
-    "name": "Alejandro21mendoza"
+    "price": 631.839,
+    "name": "ExchangeVeskha"
   },
   "venta_maxima": {
-    "price": 634.1,
-    "name": "CCST"
+    "price": 632.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 633.05,
+  "promedio": 631.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
