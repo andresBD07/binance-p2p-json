@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-04-07T20:30:26.744362",
-  "actualizado_vzla": "2026-04-07 16:30:26 -04",
+  "timestamp_utc": "2026-04-07T21:27:15.150230",
+  "actualizado_vzla": "2026-04-07 17:27:15 -04",
   "compra_segundo": {
-    "price": 637.993,
-    "name": "TopPag0s"
+    "price": 638.5,
+    "name": "ZenTrades"
   },
   "venta_maxima": {
-    "price": 642.5,
-    "name": "Biyt"
+    "price": 642.0,
+    "name": "BLACKROCK22"
   },
   "promedio": 640.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
