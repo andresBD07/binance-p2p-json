@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T11:15:49.985698",
-  "actualizado_vzla": "2026-04-07 07:15:49 -04",
+  "timestamp_utc": "2026-04-07T12:05:39.030221",
+  "actualizado_vzla": "2026-04-07 08:05:39 -04",
   "compra_segundo": {
-    "price": 636.999,
-    "name": "Jorgecamacaro79"
+    "price": 635.0,
+    "name": "G2Trade"
   },
   "venta_maxima": {
-    "price": 635.0,
-    "name": "Fakefk"
+    "price": 636.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 636.0,
+  "promedio": 635.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
