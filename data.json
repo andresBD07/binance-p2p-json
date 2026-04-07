@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T08:54:58.111254",
-  "actualizado_vzla": "2026-04-07 04:54:58 -04",
+  "timestamp_utc": "2026-04-07T10:11:42.061209",
+  "actualizado_vzla": "2026-04-07 06:11:42 -04",
   "compra_segundo": {
-    "price": 638.9,
-    "name": "EduardoArrieche"
+    "price": 637.989,
+    "name": "CAMBIOS_YR"
   },
   "venta_maxima": {
     "price": 634.0,
     "name": "Fakefk"
   },
-  "promedio": 636.45,
+  "promedio": 635.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
