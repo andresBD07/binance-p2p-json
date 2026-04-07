@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T16:34:02.335405",
-  "actualizado_vzla": "2026-04-07 12:34:02 -04",
+  "timestamp_utc": "2026-04-07T17:38:09.393049",
+  "actualizado_vzla": "2026-04-07 13:38:09 -04",
   "compra_segundo": {
-    "price": 632.4,
-    "name": "InvDelta"
+    "price": 632.8,
+    "name": "GolDkike"
   },
   "venta_maxima": {
-    "price": 634.5,
-    "name": "GossipGirl"
+    "price": 635.1,
+    "name": "Gustavo129"
   },
-  "promedio": 633.45,
+  "promedio": 633.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
