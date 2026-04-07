@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-06T23:51:05.350543",
-  "actualizado_vzla": "2026-04-06 19:51:05 -04",
+  "timestamp_utc": "2026-04-07T02:02:58.800202",
+  "actualizado_vzla": "2026-04-06 22:02:58 -04",
   "compra_segundo": {
-    "price": 640.174,
-    "name": "rParadas"
+    "price": 637.445,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 639.4,
-    "name": "VECTURAFX"
+    "price": 638.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 639.79,
+  "promedio": 637.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
