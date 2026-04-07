@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T15:23:25.483449",
-  "actualizado_vzla": "2026-04-07 11:23:25 -04",
+  "timestamp_utc": "2026-04-07T16:34:02.335405",
+  "actualizado_vzla": "2026-04-07 12:34:02 -04",
   "compra_segundo": {
-    "price": 631.839,
-    "name": "ExchangeVeskha"
+    "price": 632.4,
+    "name": "InvDelta"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "Blank_Mind"
+    "price": 634.5,
+    "name": "GossipGirl"
   },
-  "promedio": 631.92,
+  "promedio": 633.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
