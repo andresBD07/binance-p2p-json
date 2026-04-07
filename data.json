@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-07T04:41:01.124509",
-  "actualizado_vzla": "2026-04-07 00:41:01 -04",
+  "timestamp_utc": "2026-04-07T06:09:32.162591",
+  "actualizado_vzla": "2026-04-07 02:09:32 -04",
   "compra_segundo": {
-    "price": 638.3,
-    "name": "cambiosaular"
+    "price": 639.5,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
     "price": 635.0,
-    "name": "DerCatala"
+    "name": "Fakefk"
   },
-  "promedio": 636.65,
+  "promedio": 637.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
