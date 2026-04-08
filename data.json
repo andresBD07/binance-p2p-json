@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-04-08T07:53:54.140721",
-  "actualizado_vzla": "2026-04-08 03:53:54 -04",
+  "timestamp_utc": "2026-04-08T09:06:50.446357",
+  "actualizado_vzla": "2026-04-08 05:06:50 -04",
   "compra_segundo": {
-    "price": 643.3,
-    "name": "ComercioJRG"
+    "price": 643.2,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 639.0,
-    "name": "你理想的改變"
+    "price": 639.1,
+    "name": "TheFamilyPay"
   },
   "promedio": 641.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
