@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T21:56:19.410634",
-  "actualizado_vzla": "2026-04-08 17:56:19 -04",
+  "timestamp_utc": "2026-04-08T22:53:32.494137",
+  "actualizado_vzla": "2026-04-08 18:53:32 -04",
   "compra_segundo": {
-    "price": 639.5,
-    "name": "champagnepapi DTP"
+    "price": 638.99,
+    "name": "AD_Finanzas"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "Biyt"
+    "price": 639.0,
+    "name": "mundo-cripto"
   },
-  "promedio": 641.25,
+  "promedio": 639.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
