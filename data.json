@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T21:01:34.141015",
-  "actualizado_vzla": "2026-04-08 17:01:34 -04",
+  "timestamp_utc": "2026-04-08T21:56:19.410634",
+  "actualizado_vzla": "2026-04-08 17:56:19 -04",
   "compra_segundo": {
-    "price": 638.65,
-    "name": "Inversiones Money Today"
+    "price": 639.5,
+    "name": "champagnepapi DTP"
   },
   "venta_maxima": {
     "price": 643.0,
-    "name": "Godisgift"
+    "name": "Biyt"
   },
-  "promedio": 640.83,
+  "promedio": 641.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
