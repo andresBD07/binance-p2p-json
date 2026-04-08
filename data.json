@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T20:07:04.749063",
-  "actualizado_vzla": "2026-04-08 16:07:04 -04",
+  "timestamp_utc": "2026-04-08T21:01:34.141015",
+  "actualizado_vzla": "2026-04-08 17:01:34 -04",
   "compra_segundo": {
-    "price": 636.899,
-    "name": "Minato21"
+    "price": 638.65,
+    "name": "Inversiones Money Today"
   },
   "venta_maxima": {
-    "price": 642.0,
-    "name": "Biyt"
+    "price": 643.0,
+    "name": "Godisgift"
   },
-  "promedio": 639.45,
+  "promedio": 640.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
