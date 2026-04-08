@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T22:53:32.494137",
-  "actualizado_vzla": "2026-04-08 18:53:32 -04",
+  "timestamp_utc": "2026-04-08T23:40:30.577675",
+  "actualizado_vzla": "2026-04-08 19:40:30 -04",
   "compra_segundo": {
-    "price": 638.99,
-    "name": "AD_Finanzas"
+    "price": 636.249,
+    "name": "criptorapiseguro1"
   },
   "venta_maxima": {
-    "price": 639.0,
-    "name": "mundo-cripto"
+    "price": 639.002,
+    "name": "STERLING-CAPITAL"
   },
-  "promedio": 639.0,
+  "promedio": 637.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
