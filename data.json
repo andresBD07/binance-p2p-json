@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T06:10:30.961262",
-  "actualizado_vzla": "2026-04-08 02:10:30 -04",
+  "timestamp_utc": "2026-04-08T07:53:54.140721",
+  "actualizado_vzla": "2026-04-08 03:53:54 -04",
   "compra_segundo": {
-    "price": 642.89,
-    "name": "jaro23"
+    "price": 643.3,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 640.0,
-    "name": "Manda2-"
+    "price": 639.0,
+    "name": "你理想的改變"
   },
-  "promedio": 641.44,
+  "promedio": 641.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
