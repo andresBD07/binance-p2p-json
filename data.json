@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T04:38:12.891391",
-  "actualizado_vzla": "2026-04-08 00:38:12 -04",
+  "timestamp_utc": "2026-04-08T06:10:30.961262",
+  "actualizado_vzla": "2026-04-08 02:10:30 -04",
   "compra_segundo": {
-    "price": 642.499,
-    "name": "G2Trade"
+    "price": 642.89,
+    "name": "jaro23"
   },
   "venta_maxima": {
     "price": 640.0,
     "name": "Manda2-"
   },
-  "promedio": 641.25,
+  "promedio": 641.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
