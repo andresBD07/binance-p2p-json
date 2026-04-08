@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T10:17:03.508068",
-  "actualizado_vzla": "2026-04-08 06:17:03 -04",
+  "timestamp_utc": "2026-04-08T11:27:13.763282",
+  "actualizado_vzla": "2026-04-08 07:27:13 -04",
   "compra_segundo": {
-    "price": 642.5,
-    "name": "Notorio"
+    "price": 641.8,
+    "name": "cgfire"
   },
   "venta_maxima": {
-    "price": 640.5,
-    "name": "mundo-cripto"
+    "price": 642.0,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 641.5,
+  "promedio": 641.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
