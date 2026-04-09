@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T09:59:03.582103",
-  "actualizado_vzla": "2026-04-09 05:59:03 -04",
+  "timestamp_utc": "2026-04-09T11:12:42.154621",
+  "actualizado_vzla": "2026-04-09 07:12:42 -04",
   "compra_segundo": {
-    "price": 636.699,
-    "name": "Gavoacoin"
+    "price": 635.499,
+    "name": "Angelolivar86"
   },
   "venta_maxima": {
-    "price": 631.501,
-    "name": "CambiosUzzi02"
+    "price": 632.3,
+    "name": "TheSurgueon_DTP"
   },
-  "promedio": 634.1,
+  "promedio": 633.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
