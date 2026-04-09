@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T23:02:23.824211",
-  "actualizado_vzla": "2026-04-09 19:02:23 -04",
+  "timestamp_utc": "2026-04-09T23:50:48.919613",
+  "actualizado_vzla": "2026-04-09 19:50:48 -04",
   "compra_segundo": {
-    "price": 637.585,
-    "name": "chichiwilote"
+    "price": 637.6,
+    "name": "_Dinastia_"
   },
   "venta_maxima": {
-    "price": 640.1,
-    "name": "被放逐的狐狸"
+    "price": 642.0,
+    "name": "mundo-cripto"
   },
-  "promedio": 638.84,
+  "promedio": 639.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
