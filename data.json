@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T05:42:00.234516",
-  "actualizado_vzla": "2026-04-09 01:42:00 -04",
+  "timestamp_utc": "2026-04-09T07:04:45.087646",
+  "actualizado_vzla": "2026-04-09 03:04:45 -04",
   "compra_segundo": {
-    "price": 637.998,
-    "name": "Kapo_DTP"
+    "price": 638.495,
+    "name": "_Kambalache_"
   },
   "venta_maxima": {
-    "price": 633.5,
-    "name": "Old Parr"
+    "price": 631.501,
+    "name": "CambiosUzzi02"
   },
-  "promedio": 635.75,
+  "promedio": 635.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
