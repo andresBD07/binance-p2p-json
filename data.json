@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T22:09:40.654875",
-  "actualizado_vzla": "2026-04-09 18:09:40 -04",
+  "timestamp_utc": "2026-04-09T23:02:23.824211",
+  "actualizado_vzla": "2026-04-09 19:02:23 -04",
   "compra_segundo": {
-    "price": 636.999,
-    "name": "cambiofast24h"
+    "price": 637.585,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
-    "price": 640.5,
-    "name": "Blank_Mind"
+    "price": 640.1,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 638.75,
+  "promedio": 638.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
