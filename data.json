@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-08T23:40:30.577675",
-  "actualizado_vzla": "2026-04-08 19:40:30 -04",
+  "timestamp_utc": "2026-04-09T00:52:43.890060",
+  "actualizado_vzla": "2026-04-08 20:52:43 -04",
   "compra_segundo": {
-    "price": 636.249,
-    "name": "criptorapiseguro1"
+    "price": 637.15,
+    "name": "GusGus-777"
   },
   "venta_maxima": {
-    "price": 639.002,
-    "name": "STERLING-CAPITAL"
+    "price": 638.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 637.63,
+  "promedio": 637.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
