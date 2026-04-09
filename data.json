@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T18:14:17.372046",
-  "actualizado_vzla": "2026-04-09 14:14:17 -04",
+  "timestamp_utc": "2026-04-09T19:41:36.297178",
+  "actualizado_vzla": "2026-04-09 15:41:36 -04",
   "compra_segundo": {
-    "price": 631.649,
-    "name": "Exchange_VelozP2P"
+    "price": 637.4,
+    "name": "CosaNostraExchange"
   },
   "venta_maxima": {
-    "price": 637.2,
-    "name": "Blank_Mind"
+    "price": 640.01,
+    "name": "Soluciones_Tec"
   },
-  "promedio": 634.42,
+  "promedio": 638.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
