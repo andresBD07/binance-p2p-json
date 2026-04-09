@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T21:29:52.891197",
-  "actualizado_vzla": "2026-04-09 17:29:52 -04",
+  "timestamp_utc": "2026-04-09T22:09:40.654875",
+  "actualizado_vzla": "2026-04-09 18:09:40 -04",
   "compra_segundo": {
-    "price": 639.89,
-    "name": "Lecatrade"
+    "price": 636.999,
+    "name": "cambiofast24h"
   },
   "venta_maxima": {
-    "price": 642.5,
-    "name": "BLACKROCK22"
+    "price": 640.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 641.19,
+  "promedio": 638.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
