@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T11:12:42.154621",
-  "actualizado_vzla": "2026-04-09 07:12:42 -04",
+  "timestamp_utc": "2026-04-09T12:05:52.393514",
+  "actualizado_vzla": "2026-04-09 08:05:52 -04",
   "compra_segundo": {
-    "price": 635.499,
-    "name": "Angelolivar86"
+    "price": 632.5,
+    "name": "GJCB_Trader"
   },
   "venta_maxima": {
-    "price": 632.3,
-    "name": "TheSurgueon_DTP"
+    "price": 629.95,
+    "name": "DTFM-RD"
   },
-  "promedio": 633.9,
+  "promedio": 631.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
