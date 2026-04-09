@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T08:45:49.209410",
-  "actualizado_vzla": "2026-04-09 04:45:49 -04",
+  "timestamp_utc": "2026-04-09T09:59:03.582103",
+  "actualizado_vzla": "2026-04-09 05:59:03 -04",
   "compra_segundo": {
-    "price": 637.9,
-    "name": "PrimeCripto"
+    "price": 636.699,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
-    "price": 632.5,
-    "name": "Sircousinbeat"
+    "price": 631.501,
+    "name": "CambiosUzzi02"
   },
-  "promedio": 635.2,
+  "promedio": 634.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
