@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T20:34:44.596542",
-  "actualizado_vzla": "2026-04-09 16:34:44 -04",
+  "timestamp_utc": "2026-04-09T21:29:52.891197",
+  "actualizado_vzla": "2026-04-09 17:29:52 -04",
   "compra_segundo": {
-    "price": 638.489,
-    "name": "AlInstante_P2P"
+    "price": 639.89,
+    "name": "Lecatrade"
   },
   "venta_maxima": {
-    "price": 642.0,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 642.5,
+    "name": "BLACKROCK22"
   },
-  "promedio": 640.24,
+  "promedio": 641.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
