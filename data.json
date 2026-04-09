@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T14:13:02.481747",
-  "actualizado_vzla": "2026-04-09 10:13:02 -04",
+  "timestamp_utc": "2026-04-09T15:56:31.428544",
+  "actualizado_vzla": "2026-04-09 11:56:31 -04",
   "compra_segundo": {
-    "price": 633.3,
-    "name": "PagoInstantaneoP2P"
+    "price": 629.3,
+    "name": "Christiancinho"
   },
   "venta_maxima": {
     "price": 635.0,
-    "name": "mundo-cripto"
+    "name": "安全与信任"
   },
-  "promedio": 634.15,
+  "promedio": 632.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
