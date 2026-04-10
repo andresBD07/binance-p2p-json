@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T19:29:10.520339",
-  "actualizado_vzla": "2026-04-10 15:29:10 -04",
+  "timestamp_utc": "2026-04-10T20:04:36.673146",
+  "actualizado_vzla": "2026-04-10 16:04:36 -04",
   "compra_segundo": {
-    "price": 639.979,
-    "name": "AlInstante_P2P"
+    "price": 639.38,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
     "price": 643.0,
     "name": "Blank_Mind"
   },
-  "promedio": 641.49,
+  "promedio": 641.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
