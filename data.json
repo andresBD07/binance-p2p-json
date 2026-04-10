@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T23:02:36.313439",
-  "actualizado_vzla": "2026-04-10 19:02:36 -04",
+  "timestamp_utc": "2026-04-10T23:49:31.074424",
+  "actualizado_vzla": "2026-04-10 19:49:31 -04",
   "compra_segundo": {
-    "price": 639.349,
-    "name": "TMSC__7"
+    "price": 638.489,
+    "name": "Project-Exchange"
   },
   "venta_maxima": {
-    "price": 643.0,
+    "price": 642.0,
     "name": "Blank_Mind"
   },
-  "promedio": 641.17,
+  "promedio": 640.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
