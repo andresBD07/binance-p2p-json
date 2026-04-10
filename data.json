@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T07:00:47.225212",
-  "actualizado_vzla": "2026-04-10 03:00:47 -04",
+  "timestamp_utc": "2026-04-10T08:42:58.463421",
+  "actualizado_vzla": "2026-04-10 04:42:58 -04",
   "compra_segundo": {
-    "price": 639.4,
-    "name": "Kapo_DTP"
+    "price": 638.99,
+    "name": "CRIPTOCARIBE-JE"
   },
   "venta_maxima": {
     "price": 635.0,
     "name": "app2112"
   },
-  "promedio": 637.2,
+  "promedio": 637.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
