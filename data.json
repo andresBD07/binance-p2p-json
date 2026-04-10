@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T20:04:36.673146",
-  "actualizado_vzla": "2026-04-10 16:04:36 -04",
+  "timestamp_utc": "2026-04-10T20:54:13.027479",
+  "actualizado_vzla": "2026-04-10 16:54:13 -04",
   "compra_segundo": {
-    "price": 639.38,
-    "name": "Dxvid Exchange"
+    "price": 640.399,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "Blank_Mind"
+    "price": 644.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 641.19,
+  "promedio": 642.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
