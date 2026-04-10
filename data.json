@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T02:04:48.507184",
-  "actualizado_vzla": "2026-04-09 22:04:48 -04",
+  "timestamp_utc": "2026-04-10T05:07:15.714056",
+  "actualizado_vzla": "2026-04-10 01:07:15 -04",
   "compra_segundo": {
-    "price": 637.982,
-    "name": "JairGOVA贾尔"
+    "price": 638.4,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 640.0,
-    "name": "-TRADER-AL-CAPONE-"
+    "price": 635.5,
+    "name": "Fofospress"
   },
-  "promedio": 638.99,
+  "promedio": 636.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
