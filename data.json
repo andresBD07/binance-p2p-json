@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T05:07:15.714056",
-  "actualizado_vzla": "2026-04-10 01:07:15 -04",
+  "timestamp_utc": "2026-04-10T07:00:47.225212",
+  "actualizado_vzla": "2026-04-10 03:00:47 -04",
   "compra_segundo": {
-    "price": 638.4,
-    "name": "cambiosaular"
+    "price": 639.4,
+    "name": "Kapo_DTP"
   },
   "venta_maxima": {
-    "price": 635.5,
-    "name": "Fofospress"
+    "price": 635.0,
+    "name": "app2112"
   },
-  "promedio": 636.95,
+  "promedio": 637.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
