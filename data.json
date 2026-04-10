@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T18:30:59.722180",
-  "actualizado_vzla": "2026-04-10 14:30:59 -04",
+  "timestamp_utc": "2026-04-10T19:29:10.520339",
+  "actualizado_vzla": "2026-04-10 15:29:10 -04",
   "compra_segundo": {
-    "price": 638.79,
-    "name": "Jesantab"
+    "price": 639.979,
+    "name": "AlInstante_P2P"
   },
   "venta_maxima": {
-    "price": 644.0,
+    "price": 643.0,
     "name": "Blank_Mind"
   },
-  "promedio": 641.39,
+  "promedio": 641.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
