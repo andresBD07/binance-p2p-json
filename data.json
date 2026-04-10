@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-09T23:50:48.919613",
-  "actualizado_vzla": "2026-04-09 19:50:48 -04",
+  "timestamp_utc": "2026-04-10T02:04:48.507184",
+  "actualizado_vzla": "2026-04-09 22:04:48 -04",
   "compra_segundo": {
-    "price": 637.6,
-    "name": "_Dinastia_"
+    "price": 637.982,
+    "name": "JairGOVA贾尔"
   },
   "venta_maxima": {
-    "price": 642.0,
-    "name": "mundo-cripto"
+    "price": 640.0,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 639.8,
+  "promedio": 638.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
