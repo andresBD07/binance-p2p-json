@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T15:34:59.413781",
-  "actualizado_vzla": "2026-04-10 11:34:59 -04",
+  "timestamp_utc": "2026-04-10T16:34:29.564950",
+  "actualizado_vzla": "2026-04-10 12:34:29 -04",
   "compra_segundo": {
-    "price": 637.5,
-    "name": "racaste"
+    "price": 637.9,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 644.0,
+    "price": 640.5,
     "name": "CCST"
   },
-  "promedio": 640.75,
+  "promedio": 639.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
