@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-10T17:33:06.071796",
-  "actualizado_vzla": "2026-04-10 13:33:06 -04",
+  "timestamp_utc": "2026-04-10T18:30:59.722180",
+  "actualizado_vzla": "2026-04-10 14:30:59 -04",
   "compra_segundo": {
-    "price": 638.0,
-    "name": "_Servicios_JT_"
+    "price": 638.79,
+    "name": "Jesantab"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "CCST"
+    "price": 644.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 640.5,
+  "promedio": 641.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
