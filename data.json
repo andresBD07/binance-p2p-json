@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T17:30:28.425380",
-  "actualizado_vzla": "2026-04-11 13:30:28 -04",
+  "timestamp_utc": "2026-04-11T18:00:16.848593",
+  "actualizado_vzla": "2026-04-11 14:00:16 -04",
   "compra_segundo": {
-    "price": 637.0,
-    "name": "aletoya"
+    "price": 637.2,
+    "name": "Elleonesleo"
   },
   "venta_maxima": {
-    "price": 639.65,
-    "name": "Rapidflorio84"
+    "price": 640.005,
+    "name": "CamburPlus"
   },
-  "promedio": 638.33,
+  "promedio": 638.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
