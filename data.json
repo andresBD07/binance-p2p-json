@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T10:49:18.464882",
-  "actualizado_vzla": "2026-04-11 06:49:18 -04",
+  "timestamp_utc": "2026-04-11T11:22:53.393555",
+  "actualizado_vzla": "2026-04-11 07:22:53 -04",
   "compra_segundo": {
-    "price": 640.0,
-    "name": "ROME_BUSINESS"
+    "price": 639.8,
+    "name": "BOOOM"
   },
   "venta_maxima": {
-    "price": 638.0,
-    "name": "塞Jsse-Pro塞"
+    "price": 640.004,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 639.0,
+  "promedio": 639.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
