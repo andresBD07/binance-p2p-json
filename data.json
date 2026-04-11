@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T09:58:04.007320",
-  "actualizado_vzla": "2026-04-11 05:58:04 -04",
+  "timestamp_utc": "2026-04-11T10:49:18.464882",
+  "actualizado_vzla": "2026-04-11 06:49:18 -04",
   "compra_segundo": {
-    "price": 641.0,
-    "name": "_cambioBTC"
+    "price": 640.0,
+    "name": "ROME_BUSINESS"
   },
   "venta_maxima": {
-    "price": 637.5,
-    "name": "BerracoT"
+    "price": 638.0,
+    "name": "塞Jsse-Pro塞"
   },
-  "promedio": 639.25,
+  "promedio": 639.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
