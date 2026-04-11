@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T19:01:58.699220",
-  "actualizado_vzla": "2026-04-11 15:01:58 -04",
+  "timestamp_utc": "2026-04-11T19:46:56.182399",
+  "actualizado_vzla": "2026-04-11 15:46:56 -04",
   "compra_segundo": {
-    "price": 637.259,
-    "name": "Catalina"
+    "price": 636.9,
+    "name": "BILLETERA P2P "
   },
   "venta_maxima": {
     "price": 638.0,
-    "name": "TheOchoa"
+    "name": "GAMBINO-"
   },
-  "promedio": 637.63,
+  "promedio": 637.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
