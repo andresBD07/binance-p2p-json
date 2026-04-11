@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T22:02:19.128502",
-  "actualizado_vzla": "2026-04-11 18:02:19 -04",
+  "timestamp_utc": "2026-04-11T22:50:00.138726",
+  "actualizado_vzla": "2026-04-11 18:50:00 -04",
   "compra_segundo": {
-    "price": 634.5,
-    "name": "PAYMENTSPRO"
+    "price": 634.1,
+    "name": "Will_Cripto"
   },
   "venta_maxima": {
-    "price": 635.0,
+    "price": 636.0,
     "name": "Blank_Mind"
   },
-  "promedio": 634.75,
+  "promedio": 635.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
