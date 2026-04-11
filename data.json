@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T15:29:46.840395",
-  "actualizado_vzla": "2026-04-11 11:29:46 -04",
+  "timestamp_utc": "2026-04-11T16:00:28.765613",
+  "actualizado_vzla": "2026-04-11 12:00:28 -04",
   "compra_segundo": {
-    "price": 638.9,
-    "name": "Waldofx"
+    "price": 637.48,
+    "name": "CambiosFlassh"
   },
   "venta_maxima": {
-    "price": 639.04,
-    "name": "2PB75"
+    "price": 638.51,
+    "name": "TOPlevelS"
   },
-  "promedio": 638.97,
+  "promedio": 638.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
