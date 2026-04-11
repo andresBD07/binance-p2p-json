@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T20:54:24.799412",
-  "actualizado_vzla": "2026-04-11 16:54:24 -04",
+  "timestamp_utc": "2026-04-11T21:38:46.470885",
+  "actualizado_vzla": "2026-04-11 17:38:46 -04",
   "compra_segundo": {
-    "price": 636.6,
-    "name": "MoralesCorp"
+    "price": 634.9,
+    "name": "IrraBlack"
   },
   "venta_maxima": {
-    "price": 636.6,
-    "name": "-Tyrion-Lannister-"
+    "price": 636.5,
+    "name": "CAMBIOS AVILA "
   },
-  "promedio": 636.6,
+  "promedio": 635.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
