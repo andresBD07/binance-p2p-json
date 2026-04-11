@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T20:16:26.833385",
-  "actualizado_vzla": "2026-04-11 16:16:26 -04",
+  "timestamp_utc": "2026-04-11T20:54:24.799412",
+  "actualizado_vzla": "2026-04-11 16:54:24 -04",
   "compra_segundo": {
-    "price": 637.0,
-    "name": "Cambios239"
+    "price": 636.6,
+    "name": "MoralesCorp"
   },
   "venta_maxima": {
-    "price": 638.0,
-    "name": "GAMBINO-"
+    "price": 636.6,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 637.5,
+  "promedio": 636.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
