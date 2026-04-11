@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T16:00:28.765613",
-  "actualizado_vzla": "2026-04-11 12:00:28 -04",
+  "timestamp_utc": "2026-04-11T16:52:10.960862",
+  "actualizado_vzla": "2026-04-11 12:52:10 -04",
   "compra_segundo": {
-    "price": 637.48,
-    "name": "CambiosFlassh"
+    "price": 636.999,
+    "name": "F A I R - 1"
   },
   "venta_maxima": {
-    "price": 638.51,
-    "name": "TOPlevelS"
+    "price": 638.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 638.0,
+  "promedio": 637.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
