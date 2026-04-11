@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-04-11T09:10:24.086900",
-  "actualizado_vzla": "2026-04-11 05:10:24 -04",
+  "timestamp_utc": "2026-04-11T09:58:04.007320",
+  "actualizado_vzla": "2026-04-11 05:58:04 -04",
   "compra_segundo": {
-    "price": 640.99,
-    "name": "marote28"
+    "price": 641.0,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
     "price": 637.5,
