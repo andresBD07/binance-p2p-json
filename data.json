@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T11:53:47.271471",
-  "actualizado_vzla": "2026-04-11 07:53:47 -04",
+  "timestamp_utc": "2026-04-11T13:06:06.576417",
+  "actualizado_vzla": "2026-04-11 09:06:06 -04",
   "compra_segundo": {
-    "price": 639.999,
-    "name": "Intercambiosmgta"
+    "price": 636.0,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 640.5,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 639.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 640.25,
+  "promedio": 637.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
