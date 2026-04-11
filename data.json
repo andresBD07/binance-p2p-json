@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T04:04:05.992062",
-  "actualizado_vzla": "2026-04-11 00:04:06 -04",
+  "timestamp_utc": "2026-04-11T05:38:48.588785",
+  "actualizado_vzla": "2026-04-11 01:38:48 -04",
   "compra_segundo": {
-    "price": 639.399,
-    "name": "PedroCriptoBTC"
+    "price": 640.7,
+    "name": "N1Capital"
   },
   "venta_maxima": {
-    "price": 638.81,
+    "price": 638.51,
     "name": "FenYing"
   },
-  "promedio": 639.1,
+  "promedio": 639.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
