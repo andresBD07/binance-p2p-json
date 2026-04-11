@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T22:50:00.138726",
-  "actualizado_vzla": "2026-04-11 18:50:00 -04",
+  "timestamp_utc": "2026-04-11T23:25:46.650770",
+  "actualizado_vzla": "2026-04-11 19:25:46 -04",
   "compra_segundo": {
-    "price": 634.1,
-    "name": "Will_Cripto"
+    "price": 633.2,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 636.0,
+    "price": 635.0,
     "name": "Blank_Mind"
   },
-  "promedio": 635.05,
+  "promedio": 634.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
