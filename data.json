@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T05:38:48.588785",
-  "actualizado_vzla": "2026-04-11 01:38:48 -04",
+  "timestamp_utc": "2026-04-11T06:42:02.216045",
+  "actualizado_vzla": "2026-04-11 02:42:02 -04",
   "compra_segundo": {
-    "price": 640.7,
-    "name": "N1Capital"
+    "price": 640.999,
+    "name": "RallyMoney"
   },
   "venta_maxima": {
-    "price": 638.51,
-    "name": "FenYing"
+    "price": 637.501,
+    "name": "zama2004"
   },
-  "promedio": 639.61,
+  "promedio": 639.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
