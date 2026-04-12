@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T22:52:01.693853",
-  "actualizado_vzla": "2026-04-12 18:52:01 -04",
+  "timestamp_utc": "2026-04-12T23:33:29.705321",
+  "actualizado_vzla": "2026-04-12 19:33:29 -04",
   "compra_segundo": {
-    "price": 631.3,
-    "name": "AD_Finanzas"
+    "price": 630.48,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 633.5,
-    "name": "TOPlevelS"
+    "price": 631.0,
+    "name": "CAMBIOS AVILA "
   },
-  "promedio": 632.4,
+  "promedio": 630.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
