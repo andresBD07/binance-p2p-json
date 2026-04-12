@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T05:47:19.760082",
-  "actualizado_vzla": "2026-04-12 01:47:19 -04",
+  "timestamp_utc": "2026-04-12T06:59:47.772379",
+  "actualizado_vzla": "2026-04-12 02:59:47 -04",
   "compra_segundo": {
-    "price": 635.0,
-    "name": "tovir2572"
+    "price": 635.1,
+    "name": "Josebat23"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Escocrida"
+    "price": 630.81,
+    "name": "SmarPhon3"
   },
-  "promedio": 632.5,
+  "promedio": 632.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
