@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-04-12T08:07:46.072184",
-  "actualizado_vzla": "2026-04-12 04:07:46 -04",
+  "timestamp_utc": "2026-04-12T09:05:20.213293",
+  "actualizado_vzla": "2026-04-12 05:05:20 -04",
   "compra_segundo": {
     "price": 635.9,
     "name": "Cambios_fast54"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Escocrida"
+    "price": 630.01,
+    "name": "SmarPhon3"
   },
   "promedio": 632.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
