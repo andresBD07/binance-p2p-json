@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T17:51:57.512230",
-  "actualizado_vzla": "2026-04-12 13:51:57 -04",
+  "timestamp_utc": "2026-04-12T18:46:32.943221",
+  "actualizado_vzla": "2026-04-12 14:46:32 -04",
   "compra_segundo": {
-    "price": 633.38,
-    "name": "Dinero-Seguro"
+    "price": 632.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 638.0,
-    "name": "chango_pay"
+    "price": 636.5,
+    "name": "CCST"
   },
-  "promedio": 635.69,
+  "promedio": 634.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
