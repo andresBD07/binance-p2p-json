@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T11:37:32.292736",
-  "actualizado_vzla": "2026-04-12 07:37:32 -04",
+  "timestamp_utc": "2026-04-12T12:03:10.039298",
+  "actualizado_vzla": "2026-04-12 08:03:10 -04",
   "compra_segundo": {
-    "price": 632.99,
-    "name": "dogshow"
+    "price": 631.77,
+    "name": "Kalevv"
   },
   "venta_maxima": {
-    "price": 629.001,
-    "name": "Fanteb"
+    "price": 630.0,
+    "name": "ROMARIO-TRADER"
   },
-  "promedio": 631.0,
+  "promedio": 630.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
