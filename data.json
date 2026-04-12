@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T16:30:16.716149",
-  "actualizado_vzla": "2026-04-12 12:30:16 -04",
+  "timestamp_utc": "2026-04-12T17:07:24.109560",
+  "actualizado_vzla": "2026-04-12 13:07:24 -04",
   "compra_segundo": {
-    "price": 634.7,
-    "name": "Kiuty"
+    "price": 633.99,
+    "name": "MotoPirueta"
   },
   "venta_maxima": {
-    "price": 635.01,
-    "name": "Rapidflorio84"
+    "price": 635.0,
+    "name": "ProfitCM"
   },
-  "promedio": 634.86,
+  "promedio": 634.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
