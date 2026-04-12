@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T15:50:09.933316",
-  "actualizado_vzla": "2026-04-12 11:50:09 -04",
+  "timestamp_utc": "2026-04-12T16:30:16.716149",
+  "actualizado_vzla": "2026-04-12 12:30:16 -04",
   "compra_segundo": {
-    "price": 634.8,
-    "name": "CarlosBelloNexoCapit"
+    "price": 634.7,
+    "name": "Kiuty"
   },
   "venta_maxima": {
-    "price": 637.3,
-    "name": "DOCTOR_CAMBIO"
+    "price": 635.01,
+    "name": "Rapidflorio84"
   },
-  "promedio": 636.05,
+  "promedio": 634.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
