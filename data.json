@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T14:21:46.891231",
-  "actualizado_vzla": "2026-04-12 10:21:46 -04",
+  "timestamp_utc": "2026-04-12T15:03:36.969955",
+  "actualizado_vzla": "2026-04-12 11:03:36 -04",
   "compra_segundo": {
-    "price": 628.7,
-    "name": "sami maracay "
+    "price": 632.5,
+    "name": "StylFashion"
   },
   "venta_maxima": {
-    "price": 630.5,
-    "name": "Rapidflorio84"
+    "price": 940.0,
+    "name": "LordTUKY"
   },
-  "promedio": 629.6,
+  "promedio": 786.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
