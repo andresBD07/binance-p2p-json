@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-11T23:25:46.650770",
-  "actualizado_vzla": "2026-04-11 19:25:46 -04",
+  "timestamp_utc": "2026-04-12T00:00:19.754398",
+  "actualizado_vzla": "2026-04-11 20:00:19 -04",
   "compra_segundo": {
-    "price": 633.2,
-    "name": "Fast-CambiosSeguro-"
+    "price": 633.4,
+    "name": "Mauro03"
   },
   "venta_maxima": {
-    "price": 635.0,
+    "price": 634.0,
     "name": "Blank_Mind"
   },
-  "promedio": 634.1,
+  "promedio": 633.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
