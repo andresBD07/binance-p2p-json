@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T15:03:36.969955",
-  "actualizado_vzla": "2026-04-12 11:03:36 -04",
+  "timestamp_utc": "2026-04-12T15:50:09.933316",
+  "actualizado_vzla": "2026-04-12 11:50:09 -04",
   "compra_segundo": {
-    "price": 632.5,
-    "name": "StylFashion"
+    "price": 634.8,
+    "name": "CarlosBelloNexoCapit"
   },
   "venta_maxima": {
-    "price": 940.0,
-    "name": "LordTUKY"
+    "price": 637.3,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 786.25,
+  "promedio": 636.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
