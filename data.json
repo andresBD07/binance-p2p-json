@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T19:29:43.578058",
-  "actualizado_vzla": "2026-04-12 15:29:43 -04",
+  "timestamp_utc": "2026-04-12T20:02:44.975449",
+  "actualizado_vzla": "2026-04-12 16:02:44 -04",
   "compra_segundo": {
-    "price": 632.999,
-    "name": "BIO_PROTECT"
+    "price": 633.0,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 635.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 636.5,
+    "name": "CCST"
   },
-  "promedio": 634.25,
+  "promedio": 634.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
