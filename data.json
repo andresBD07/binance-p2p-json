@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-04-12T03:41:44.780885",
-  "actualizado_vzla": "2026-04-11 23:41:44 -04",
+  "timestamp_utc": "2026-04-12T05:47:19.760082",
+  "actualizado_vzla": "2026-04-12 01:47:19 -04",
   "compra_segundo": {
-    "price": 633.99,
-    "name": "YHWHTrade"
+    "price": 635.0,
+    "name": "tovir2572"
   },
   "venta_maxima": {
-    "price": 631.0,
-    "name": "-APEX-"
+    "price": 630.0,
+    "name": "Escocrida"
   },
   "promedio": 632.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
