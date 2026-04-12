@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T13:32:34.108400",
-  "actualizado_vzla": "2026-04-12 09:32:34 -04",
+  "timestamp_utc": "2026-04-12T14:21:46.891231",
+  "actualizado_vzla": "2026-04-12 10:21:46 -04",
   "compra_segundo": {
-    "price": 629.88,
-    "name": "Softcore"
+    "price": 628.7,
+    "name": "sami maracay "
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "Blank_Mind"
+    "price": 630.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 628.94,
+  "promedio": 629.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
