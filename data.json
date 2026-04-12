@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-12T20:02:44.975449",
-  "actualizado_vzla": "2026-04-12 16:02:44 -04",
+  "timestamp_utc": "2026-04-12T20:51:00.753390",
+  "actualizado_vzla": "2026-04-12 16:51:00 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "Guayoyoo"
+    "price": 632.18,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 636.5,
-    "name": "CCST"
+    "price": 636.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 634.75,
+  "promedio": 634.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
