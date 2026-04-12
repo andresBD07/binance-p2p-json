@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-04-12T18:46:32.943221",
-  "actualizado_vzla": "2026-04-12 14:46:32 -04",
+  "timestamp_utc": "2026-04-12T19:29:43.578058",
+  "actualizado_vzla": "2026-04-12 15:29:43 -04",
   "compra_segundo": {
-    "price": 632.0,
-    "name": "ElCandidoP2P"
+    "price": 632.999,
+    "name": "BIO_PROTECT"
   },
   "venta_maxima": {
-    "price": 636.5,
-    "name": "CCST"
+    "price": 635.5,
+    "name": "GOMEZTUSOLUCION"
   },
   "promedio": 634.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
