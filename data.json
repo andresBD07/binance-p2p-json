@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-13T08:23:55.680957",
-  "actualizado_vzla": "2026-04-13 04:23:55 -04",
+  "timestamp_utc": "2026-04-13T10:15:12.731518",
+  "actualizado_vzla": "2026-04-13 06:15:12 -04",
   "compra_segundo": {
-    "price": 632.401,
-    "name": "MGcash"
+    "price": 631.0,
+    "name": "SERPURMAR"
   },
   "venta_maxima": {
-    "price": 626.0,
-    "name": "何塞 路易斯 坩埚"
+    "price": 624.001,
+    "name": "MoralesCorp"
   },
-  "promedio": 629.2,
+  "promedio": 627.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
