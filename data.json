@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-13T03:50:58.479209",
-  "actualizado_vzla": "2026-04-12 23:50:58 -04",
+  "timestamp_utc": "2026-04-13T06:10:50.200229",
+  "actualizado_vzla": "2026-04-13 02:10:50 -04",
   "compra_segundo": {
-    "price": 631.5,
-    "name": "VelkanVe"
+    "price": 632.379,
+    "name": "TilinArberto"
   },
   "venta_maxima": {
-    "price": 626.5,
-    "name": "ZoeTrades"
+    "price": 626.0,
+    "name": "何塞 路易斯 坩埚"
   },
-  "promedio": 629.0,
+  "promedio": 629.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
