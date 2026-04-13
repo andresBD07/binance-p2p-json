@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-13T22:57:15.673614",
-  "actualizado_vzla": "2026-04-13 18:57:15 -04",
+  "timestamp_utc": "2026-04-13T23:53:50.283878",
+  "actualizado_vzla": "2026-04-13 19:53:50 -04",
   "compra_segundo": {
-    "price": 640.0,
-    "name": "Fabri moi "
+    "price": 639.9,
+    "name": "ISATradea"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "Blank_Mind"
+    "price": 643.5,
+    "name": "Biyt"
   },
-  "promedio": 641.5,
+  "promedio": 641.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
