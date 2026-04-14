@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T12:42:52.873083",
-  "actualizado_vzla": "2026-04-14 08:42:52 -04",
+  "timestamp_utc": "2026-04-14T14:27:31.443701",
+  "actualizado_vzla": "2026-04-14 10:27:31 -04",
   "compra_segundo": {
-    "price": 639.1,
-    "name": "clinicaef"
+    "price": 644.99,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 641.0,
-    "name": "PitbullChain"
+    "price": 651.0,
+    "name": "Biyt"
   },
-  "promedio": 640.05,
+  "promedio": 648.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
