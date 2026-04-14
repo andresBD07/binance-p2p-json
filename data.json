@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T20:38:19.538126",
-  "actualizado_vzla": "2026-04-14 16:38:19 -04",
+  "timestamp_utc": "2026-04-14T21:34:51.458708",
+  "actualizado_vzla": "2026-04-14 17:34:51 -04",
   "compra_segundo": {
-    "price": 643.75,
-    "name": "nuvis171905"
+    "price": 636.99,
+    "name": "Cambios-Fe"
   },
   "venta_maxima": {
-    "price": 643.0,
-    "name": "StrattonOakmont_"
+    "price": 636.5,
+    "name": "Arjet_Trading"
   },
-  "promedio": 643.38,
+  "promedio": 636.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
