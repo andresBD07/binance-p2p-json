@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T14:27:31.443701",
-  "actualizado_vzla": "2026-04-14 10:27:31 -04",
+  "timestamp_utc": "2026-04-14T15:52:08.687654",
+  "actualizado_vzla": "2026-04-14 11:52:08 -04",
   "compra_segundo": {
-    "price": 644.99,
-    "name": "raParadas-31"
+    "price": 641.7,
+    "name": "MyAngelHM"
   },
   "venta_maxima": {
-    "price": 651.0,
-    "name": "Biyt"
+    "price": 644.5,
+    "name": "CCST"
   },
-  "promedio": 648.0,
+  "promedio": 643.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
