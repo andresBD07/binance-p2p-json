@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T11:32:27.178935",
-  "actualizado_vzla": "2026-04-14 07:32:27 -04",
+  "timestamp_utc": "2026-04-14T12:42:52.873083",
+  "actualizado_vzla": "2026-04-14 08:42:52 -04",
   "compra_segundo": {
-    "price": 642.0,
-    "name": "XTREME-INVERSIONES"
+    "price": 639.1,
+    "name": "clinicaef"
   },
   "venta_maxima": {
     "price": 641.0,
-    "name": "Gustavo129"
+    "name": "PitbullChain"
   },
-  "promedio": 641.5,
+  "promedio": 640.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
