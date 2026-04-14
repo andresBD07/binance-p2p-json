@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T19:45:40.335170",
-  "actualizado_vzla": "2026-04-14 15:45:40 -04",
+  "timestamp_utc": "2026-04-14T20:38:19.538126",
+  "actualizado_vzla": "2026-04-14 16:38:19 -04",
   "compra_segundo": {
-    "price": 644.85,
-    "name": "OreoBoss"
+    "price": 643.75,
+    "name": "nuvis171905"
   },
   "venta_maxima": {
-    "price": 647.001,
-    "name": "mundo-cripto"
+    "price": 643.0,
+    "name": "StrattonOakmont_"
   },
-  "promedio": 645.93,
+  "promedio": 643.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
