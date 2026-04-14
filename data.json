@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T05:24:55.607520",
-  "actualizado_vzla": "2026-04-14 01:24:55 -04",
+  "timestamp_utc": "2026-04-14T07:07:43.303366",
+  "actualizado_vzla": "2026-04-14 03:07:43 -04",
   "compra_segundo": {
-    "price": 643.55,
-    "name": "Moneytransfer"
+    "price": 644.0,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
-    "price": 640.5,
-    "name": "Arjet_Trading"
+    "price": 640.0,
+    "name": "Quick Payment"
   },
-  "promedio": 642.02,
+  "promedio": 642.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
