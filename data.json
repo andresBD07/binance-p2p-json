@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T08:53:37.913130",
-  "actualizado_vzla": "2026-04-14 04:53:37 -04",
+  "timestamp_utc": "2026-04-14T10:16:41.604667",
+  "actualizado_vzla": "2026-04-14 06:16:41 -04",
   "compra_segundo": {
-    "price": 643.98,
-    "name": "KRIPTOREY"
+    "price": 642.699,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
-    "price": 637.201,
-    "name": "TheSurgueon_DTP"
+    "price": 639.0,
+    "name": "Huayin-cheng"
   },
-  "promedio": 640.59,
+  "promedio": 640.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
