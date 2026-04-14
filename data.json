@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-14T02:52:57.243733",
-  "actualizado_vzla": "2026-04-13 22:52:57 -04",
+  "timestamp_utc": "2026-04-14T05:24:55.607520",
+  "actualizado_vzla": "2026-04-14 01:24:55 -04",
   "compra_segundo": {
-    "price": 642.5,
-    "name": "JHcambios97"
+    "price": 643.55,
+    "name": "Moneytransfer"
   },
   "venta_maxima": {
-    "price": 642.635,
-    "name": "NORTH-CAPITAL"
+    "price": 640.5,
+    "name": "Arjet_Trading"
   },
-  "promedio": 642.57,
+  "promedio": 642.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
