@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T22:24:24.930136",
-  "actualizado_vzla": "2026-04-15 18:24:24 -04",
+  "timestamp_utc": "2026-04-15T23:11:24.485653",
+  "actualizado_vzla": "2026-04-15 19:11:24 -04",
   "compra_segundo": {
-    "price": 627.3,
-    "name": "majog"
+    "price": 625.899,
+    "name": "cripto tarde 117"
   },
   "venta_maxima": {
-    "price": 627.0,
+    "price": 627.5,
     "name": "BLACKROCK22"
   },
-  "promedio": 627.15,
+  "promedio": 626.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
