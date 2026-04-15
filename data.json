@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T17:55:00.585323",
-  "actualizado_vzla": "2026-04-15 13:55:00 -04",
+  "timestamp_utc": "2026-04-15T19:36:57.197854",
+  "actualizado_vzla": "2026-04-15 15:36:57 -04",
   "compra_segundo": {
-    "price": 628.0,
-    "name": "rausseol"
+    "price": 628.55,
+    "name": "RamgabP2P"
   },
   "venta_maxima": {
-    "price": 630.005,
-    "name": "Gustavo129"
+    "price": 634.0,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 629.0,
+  "promedio": 631.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
