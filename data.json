@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T15:46:32.221709",
-  "actualizado_vzla": "2026-04-15 11:46:32 -04",
+  "timestamp_utc": "2026-04-15T16:46:22.955203",
+  "actualizado_vzla": "2026-04-15 12:46:22 -04",
   "compra_segundo": {
-    "price": 622.79,
-    "name": "Ärthas of lordaeron"
+    "price": 626.489,
+    "name": "CRIPTOPARK"
   },
   "venta_maxima": {
-    "price": 622.8,
-    "name": "All-inCrypto"
+    "price": 624.9,
+    "name": "jxsosa"
   },
-  "promedio": 622.79,
+  "promedio": 625.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
