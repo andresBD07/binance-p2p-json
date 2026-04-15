@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T09:06:40.642723",
-  "actualizado_vzla": "2026-04-15 05:06:40 -04",
+  "timestamp_utc": "2026-04-15T10:38:01.465436",
+  "actualizado_vzla": "2026-04-15 06:38:01 -04",
   "compra_segundo": {
-    "price": 633.1,
-    "name": "Mahc012712"
+    "price": 632.366,
+    "name": "BTC-CambiosP2P"
   },
   "venta_maxima": {
-    "price": 627.65,
-    "name": "Free Trade and Investments"
+    "price": 628.0,
+    "name": "Gustavo129"
   },
-  "promedio": 630.38,
+  "promedio": 630.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
