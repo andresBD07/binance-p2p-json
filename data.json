@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T16:46:22.955203",
-  "actualizado_vzla": "2026-04-15 12:46:22 -04",
+  "timestamp_utc": "2026-04-15T17:55:00.585323",
+  "actualizado_vzla": "2026-04-15 13:55:00 -04",
   "compra_segundo": {
-    "price": 626.489,
-    "name": "CRIPTOPARK"
+    "price": 628.0,
+    "name": "rausseol"
   },
   "venta_maxima": {
-    "price": 624.9,
-    "name": "jxsosa"
+    "price": 630.005,
+    "name": "Gustavo129"
   },
-  "promedio": 625.69,
+  "promedio": 629.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
