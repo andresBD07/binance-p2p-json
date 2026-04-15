@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T19:36:57.197854",
-  "actualizado_vzla": "2026-04-15 15:36:57 -04",
+  "timestamp_utc": "2026-04-15T20:28:32.453052",
+  "actualizado_vzla": "2026-04-15 16:28:32 -04",
   "compra_segundo": {
-    "price": 628.55,
-    "name": "RamgabP2P"
+    "price": 629.899,
+    "name": "DanielTradeHouse"
   },
   "venta_maxima": {
-    "price": 634.0,
+    "price": 632.5,
     "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 631.27,
+  "promedio": 631.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
