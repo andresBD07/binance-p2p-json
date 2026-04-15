@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T05:51:57.912429",
-  "actualizado_vzla": "2026-04-15 01:51:57 -04",
+  "timestamp_utc": "2026-04-15T07:42:57.843456",
+  "actualizado_vzla": "2026-04-15 03:42:57 -04",
   "compra_segundo": {
-    "price": 632.999,
-    "name": "AaronCrack"
+    "price": 633.49,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
     "price": 627.65,
     "name": "Free Trade and Investments"
   },
-  "promedio": 630.32,
+  "promedio": 630.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
