@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T11:39:36.125302",
-  "actualizado_vzla": "2026-04-15 07:39:36 -04",
+  "timestamp_utc": "2026-04-15T12:47:22.335910",
+  "actualizado_vzla": "2026-04-15 08:47:22 -04",
   "compra_segundo": {
-    "price": 629.0,
-    "name": "JhonAngTrader-s"
+    "price": 628.7,
+    "name": "MOI_CARD"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Gustavo129"
+    "price": 629.0,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 629.5,
+  "promedio": 628.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
