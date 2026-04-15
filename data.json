@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T20:28:32.453052",
-  "actualizado_vzla": "2026-04-15 16:28:32 -04",
+  "timestamp_utc": "2026-04-15T21:31:08.055170",
+  "actualizado_vzla": "2026-04-15 17:31:08 -04",
   "compra_segundo": {
-    "price": 629.899,
-    "name": "DanielTradeHouse"
+    "price": 627.99,
+    "name": "lian K"
   },
   "venta_maxima": {
-    "price": 632.5,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 630.1,
+    "name": "BLACKROCK22"
   },
-  "promedio": 631.2,
+  "promedio": 629.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
