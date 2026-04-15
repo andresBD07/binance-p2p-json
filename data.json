@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-15T14:22:42.198967",
-  "actualizado_vzla": "2026-04-15 10:22:42 -04",
+  "timestamp_utc": "2026-04-15T15:46:32.221709",
+  "actualizado_vzla": "2026-04-15 11:46:32 -04",
   "compra_segundo": {
-    "price": 629.4,
-    "name": "EnEXPRESS"
+    "price": 622.79,
+    "name": "Ärthas of lordaeron"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Blank_Mind"
+    "price": 622.8,
+    "name": "All-inCrypto"
   },
-  "promedio": 629.7,
+  "promedio": 622.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
