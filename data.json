@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T10:40:46.186032",
-  "actualizado_vzla": "2026-04-16 06:40:46 -04",
+  "timestamp_utc": "2026-04-16T11:43:31.554413",
+  "actualizado_vzla": "2026-04-16 07:43:31 -04",
   "compra_segundo": {
-    "price": 625.8,
-    "name": "GJCB_Trader"
+    "price": 624.8,
+    "name": "GasyXchange"
   },
   "venta_maxima": {
-    "price": 623.0,
-    "name": "GossipGirl"
+    "price": 625.0,
+    "name": "YKBank"
   },
-  "promedio": 624.4,
+  "promedio": 624.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
