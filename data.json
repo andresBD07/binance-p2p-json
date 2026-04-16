@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T11:43:31.554413",
-  "actualizado_vzla": "2026-04-16 07:43:31 -04",
+  "timestamp_utc": "2026-04-16T12:54:09.757300",
+  "actualizado_vzla": "2026-04-16 08:54:09 -04",
   "compra_segundo": {
-    "price": 624.8,
-    "name": "GasyXchange"
+    "price": 625.32,
+    "name": "Forex Exchange Global "
   },
   "venta_maxima": {
-    "price": 625.0,
+    "price": 626.2,
     "name": "YKBank"
   },
-  "promedio": 624.9,
+  "promedio": 625.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
