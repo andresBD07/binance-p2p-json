@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T16:44:59.238506",
-  "actualizado_vzla": "2026-04-16 12:44:59 -04",
+  "timestamp_utc": "2026-04-16T17:59:03.300706",
+  "actualizado_vzla": "2026-04-16 13:59:03 -04",
   "compra_segundo": {
-    "price": 621.7,
-    "name": "Yoinered"
+    "price": 623.1,
+    "name": "ComerciaRapidito"
   },
   "venta_maxima": {
-    "price": 623.0,
-    "name": "Pipotrade"
+    "price": 626.0,
+    "name": "Biyt"
   },
-  "promedio": 622.35,
+  "promedio": 624.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
