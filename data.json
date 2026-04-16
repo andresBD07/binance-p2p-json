@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T23:02:39.824918",
-  "actualizado_vzla": "2026-04-16 19:02:39 -04",
+  "timestamp_utc": "2026-04-16T23:55:00.113254",
+  "actualizado_vzla": "2026-04-16 19:55:00 -04",
   "compra_segundo": {
-    "price": 625.1,
-    "name": "SafeTradePro10"
+    "price": 624.999,
+    "name": "byPaezKarloz"
   },
   "venta_maxima": {
-    "price": 624.0,
-    "name": "GAMBINO-"
+    "price": 623.259,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 624.55,
+  "promedio": 624.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
