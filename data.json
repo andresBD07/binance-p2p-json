@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T03:43:05.273772",
-  "actualizado_vzla": "2026-04-15 23:43:05 -04",
+  "timestamp_utc": "2026-04-16T05:52:48.231846",
+  "actualizado_vzla": "2026-04-16 01:52:48 -04",
   "compra_segundo": {
-    "price": 625.999,
-    "name": "DayExpress1"
+    "price": 626.8,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 624.5,
-    "name": "MaxuelTrader"
+    "price": 622.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 625.25,
+  "promedio": 624.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
