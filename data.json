@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T00:00:46.618351",
-  "actualizado_vzla": "2026-04-15 20:00:46 -04",
+  "timestamp_utc": "2026-04-16T03:43:05.273772",
+  "actualizado_vzla": "2026-04-15 23:43:05 -04",
   "compra_segundo": {
-    "price": 624.6,
-    "name": "Pivot_05"
+    "price": 625.999,
+    "name": "DayExpress1"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "c_s_"
+    "price": 624.5,
+    "name": "MaxuelTrader"
   },
-  "promedio": 624.8,
+  "promedio": 625.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
