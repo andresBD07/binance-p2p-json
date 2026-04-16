@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T21:24:15.762073",
-  "actualizado_vzla": "2026-04-16 17:24:15 -04",
+  "timestamp_utc": "2026-04-16T22:08:10.186831",
+  "actualizado_vzla": "2026-04-16 18:08:10 -04",
   "compra_segundo": {
-    "price": 626.0,
-    "name": "Camilo171"
+    "price": 625.9,
+    "name": "Jennser202"
   },
   "venta_maxima": {
-    "price": 625.5,
-    "name": "Pipotrade"
+    "price": 626.0,
+    "name": "jonax"
   },
-  "promedio": 625.75,
+  "promedio": 625.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
