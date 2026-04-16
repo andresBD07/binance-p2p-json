@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T07:47:58.407317",
-  "actualizado_vzla": "2026-04-16 03:47:58 -04",
+  "timestamp_utc": "2026-04-16T09:06:59.325857",
+  "actualizado_vzla": "2026-04-16 05:06:59 -04",
   "compra_segundo": {
-    "price": 626.99,
-    "name": "RAPIDOySEGURO_EAGLE"
+    "price": 626.0,
+    "name": "太COMPANY_CASH"
   },
   "venta_maxima": {
-    "price": 622.0,
-    "name": "SasukeTrader"
+    "price": 621.0,
+    "name": "Old Parr"
   },
-  "promedio": 624.5,
+  "promedio": 623.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
