@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T05:40:24.197290",
-  "actualizado_vzla": "2026-04-17 01:40:24 -04",
+  "timestamp_utc": "2026-04-17T07:11:59.044536",
+  "actualizado_vzla": "2026-04-17 03:11:59 -04",
   "compra_segundo": {
     "price": 626.4,
     "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 622.4,
-    "name": "DlaGeezy_DTP"
+    "price": 621.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 624.4,
+  "promedio": 623.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
