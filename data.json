@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T12:38:32.257558",
-  "actualizado_vzla": "2026-04-17 08:38:32 -04",
+  "timestamp_utc": "2026-04-17T14:07:49.148726",
+  "actualizado_vzla": "2026-04-17 10:07:49 -04",
   "compra_segundo": {
-    "price": 623.4,
-    "name": "RapidEnvios"
+    "price": 623.0,
+    "name": "Cambios Ashley"
   },
   "venta_maxima": {
-    "price": 622.3,
-    "name": "VenUSDT_"
+    "price": 623.5,
+    "name": "Biyt"
   },
-  "promedio": 622.85,
+  "promedio": 623.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
