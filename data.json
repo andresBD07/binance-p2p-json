@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T22:02:00.123391",
-  "actualizado_vzla": "2026-04-17 18:02:00 -04",
+  "timestamp_utc": "2026-04-17T22:58:30.148046",
+  "actualizado_vzla": "2026-04-17 18:58:30 -04",
   "compra_segundo": {
-    "price": 620.999,
-    "name": "MMarket_CL"
+    "price": 620.995,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "Godisgift"
+    "price": 621.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 620.5,
+  "promedio": 621.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
