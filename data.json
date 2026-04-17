@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T20:23:26.780710",
-  "actualizado_vzla": "2026-04-17 16:23:26 -04",
+  "timestamp_utc": "2026-04-17T21:09:33.229548",
+  "actualizado_vzla": "2026-04-17 17:09:33 -04",
   "compra_segundo": {
-    "price": 621.0,
-    "name": "07-transpor"
+    "price": 621.2,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 620.01,
-    "name": "Soluciones_Tec"
+    "price": 620.05,
+    "name": "Godisgift"
   },
-  "promedio": 620.5,
+  "promedio": 620.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
