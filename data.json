@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T11:27:50.238538",
-  "actualizado_vzla": "2026-04-17 07:27:50 -04",
+  "timestamp_utc": "2026-04-17T12:38:32.257558",
+  "actualizado_vzla": "2026-04-17 08:38:32 -04",
   "compra_segundo": {
-    "price": 625.25,
-    "name": "Lillie05"
+    "price": 623.4,
+    "name": "RapidEnvios"
   },
   "venta_maxima": {
-    "price": 623.0,
-    "name": "VERTUOK"
+    "price": 622.3,
+    "name": "VenUSDT_"
   },
-  "promedio": 624.12,
+  "promedio": 622.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
