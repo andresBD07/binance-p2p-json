@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T22:58:30.148046",
-  "actualizado_vzla": "2026-04-17 18:58:30 -04",
+  "timestamp_utc": "2026-04-17T23:51:34.344056",
+  "actualizado_vzla": "2026-04-17 19:51:34 -04",
   "compra_segundo": {
-    "price": 620.995,
-    "name": "Minato21"
+    "price": 621.59,
+    "name": "TrustCapitalP2P"
   },
   "venta_maxima": {
-    "price": 621.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 621.25,
+    "name": "Manda2-"
   },
-  "promedio": 621.0,
+  "promedio": 621.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
