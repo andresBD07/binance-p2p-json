@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T10:20:04.943384",
-  "actualizado_vzla": "2026-04-17 06:20:04 -04",
+  "timestamp_utc": "2026-04-17T11:27:50.238538",
+  "actualizado_vzla": "2026-04-17 07:27:50 -04",
   "compra_segundo": {
-    "price": 625.98,
-    "name": "jfjaraaa89"
+    "price": 625.25,
+    "name": "Lillie05"
   },
   "venta_maxima": {
-    "price": 660.001,
-    "name": "Fanteb"
+    "price": 623.0,
+    "name": "VERTUOK"
   },
-  "promedio": 642.99,
+  "promedio": 624.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
