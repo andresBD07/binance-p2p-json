@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-16T23:55:00.113254",
-  "actualizado_vzla": "2026-04-16 19:55:00 -04",
+  "timestamp_utc": "2026-04-17T03:27:55.809358",
+  "actualizado_vzla": "2026-04-16 23:27:55 -04",
   "compra_segundo": {
-    "price": 624.999,
-    "name": "byPaezKarloz"
+    "price": 625.98,
+    "name": "Q2030"
   },
   "venta_maxima": {
-    "price": 623.259,
-    "name": "DOCTOR_CAMBIO"
+    "price": 624.2,
+    "name": "Cambioscorleone"
   },
-  "promedio": 624.13,
+  "promedio": 625.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
