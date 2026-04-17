@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-17T03:27:55.809358",
-  "actualizado_vzla": "2026-04-16 23:27:55 -04",
+  "timestamp_utc": "2026-04-17T05:40:24.197290",
+  "actualizado_vzla": "2026-04-17 01:40:24 -04",
   "compra_segundo": {
-    "price": 625.98,
-    "name": "Q2030"
+    "price": 626.4,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 624.2,
-    "name": "Cambioscorleone"
+    "price": 622.4,
+    "name": "DlaGeezy_DTP"
   },
-  "promedio": 625.09,
+  "promedio": 624.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
