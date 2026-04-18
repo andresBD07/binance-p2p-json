@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T20:01:07.923855",
-  "actualizado_vzla": "2026-04-18 16:01:07 -04",
+  "timestamp_utc": "2026-04-18T20:50:28.318938",
+  "actualizado_vzla": "2026-04-18 16:50:28 -04",
   "compra_segundo": {
-    "price": 623.8,
-    "name": "RJ_SaveExchange"
+    "price": 623.99,
+    "name": "ROME_BUSINESS"
   },
   "venta_maxima": {
-    "price": 624.1,
-    "name": "GOMEZTUSOLUCION"
+    "price": 624.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 623.95,
+  "promedio": 624.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
