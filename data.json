@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T19:24:56.084832",
-  "actualizado_vzla": "2026-04-18 15:24:56 -04",
+  "timestamp_utc": "2026-04-18T20:01:07.923855",
+  "actualizado_vzla": "2026-04-18 16:01:07 -04",
   "compra_segundo": {
-    "price": 623.69,
-    "name": "Doña Salomé"
+    "price": 623.8,
+    "name": "RJ_SaveExchange"
   },
   "venta_maxima": {
-    "price": 622.505,
-    "name": "Trust-Broker"
+    "price": 624.1,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 623.1,
+  "promedio": 623.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
