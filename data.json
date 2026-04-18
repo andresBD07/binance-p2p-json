@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T12:29:36.324911",
-  "actualizado_vzla": "2026-04-18 08:29:36 -04",
+  "timestamp_utc": "2026-04-18T13:45:28.402374",
+  "actualizado_vzla": "2026-04-18 09:45:28 -04",
   "compra_segundo": {
-    "price": 621.85,
-    "name": "CryptoExpressVe"
+    "price": 622.0,
+    "name": "Criptotrading"
   },
   "venta_maxima": {
-    "price": 619.5,
-    "name": "Mr Miyagi 10"
+    "price": 621.38,
+    "name": "改變JS"
   },
-  "promedio": 620.67,
+  "promedio": 621.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
