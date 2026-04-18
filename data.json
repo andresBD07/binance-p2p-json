@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T21:28:45.669411",
-  "actualizado_vzla": "2026-04-18 17:28:45 -04",
+  "timestamp_utc": "2026-04-18T22:01:40.875317",
+  "actualizado_vzla": "2026-04-18 18:01:40 -04",
   "compra_segundo": {
-    "price": 623.65,
-    "name": "AA_Over"
+    "price": 623.41,
+    "name": "Jyplusca"
   },
   "venta_maxima": {
-    "price": 623.005,
-    "name": "Trust-Broker"
+    "price": 622.8,
+    "name": "Rapidflorio84"
   },
-  "promedio": 623.33,
+  "promedio": 623.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
