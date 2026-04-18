@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T18:25:40.823912",
-  "actualizado_vzla": "2026-04-18 14:25:40 -04",
+  "timestamp_utc": "2026-04-18T19:24:56.084832",
+  "actualizado_vzla": "2026-04-18 15:24:56 -04",
   "compra_segundo": {
-    "price": 623.598,
-    "name": "Calito22"
+    "price": 623.69,
+    "name": "Doña Salomé"
   },
   "venta_maxima": {
-    "price": 623.05,
+    "price": 622.505,
     "name": "Trust-Broker"
   },
-  "promedio": 623.32,
+  "promedio": 623.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
