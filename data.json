@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T11:47:03.058203",
-  "actualizado_vzla": "2026-04-18 07:47:03 -04",
+  "timestamp_utc": "2026-04-18T12:29:36.324911",
+  "actualizado_vzla": "2026-04-18 08:29:36 -04",
   "compra_segundo": {
-    "price": 622.72,
-    "name": "MolinaJP_"
+    "price": 621.85,
+    "name": "CryptoExpressVe"
   },
   "venta_maxima": {
-    "price": 620.2,
-    "name": "Manda2-"
+    "price": 619.5,
+    "name": "Mr Miyagi 10"
   },
-  "promedio": 621.46,
+  "promedio": 620.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
