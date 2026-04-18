@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T22:52:49.322073",
-  "actualizado_vzla": "2026-04-18 18:52:49 -04",
+  "timestamp_utc": "2026-04-18T23:35:45.187731",
+  "actualizado_vzla": "2026-04-18 19:35:45 -04",
   "compra_segundo": {
-    "price": 623.32,
-    "name": "OikonomiaDigital"
+    "price": 623.0,
+    "name": "WizCoin7"
   },
   "venta_maxima": {
     "price": 623.005,
     "name": "Trust-Broker"
   },
-  "promedio": 623.16,
+  "promedio": 623.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
