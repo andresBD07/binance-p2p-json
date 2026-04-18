@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T02:07:06.502962",
-  "actualizado_vzla": "2026-04-17 22:07:06 -04",
+  "timestamp_utc": "2026-04-18T04:41:02.824993",
+  "actualizado_vzla": "2026-04-18 00:41:02 -04",
   "compra_segundo": {
-    "price": 622.6,
-    "name": "Magnetic10"
+    "price": 623.5,
+    "name": "AquilesArturo"
   },
   "venta_maxima": {
-    "price": 622.0,
-    "name": "安全与信任"
+    "price": 621.0,
+    "name": "Arjet_Trading"
   },
-  "promedio": 622.3,
+  "promedio": 622.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
