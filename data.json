@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T16:54:55.196829",
-  "actualizado_vzla": "2026-04-18 12:54:55 -04",
+  "timestamp_utc": "2026-04-18T17:41:37.990562",
+  "actualizado_vzla": "2026-04-18 13:41:38 -04",
   "compra_segundo": {
-    "price": 622.84,
-    "name": "TrustyRetriever"
+    "price": 623.489,
+    "name": "Click_Y_Listo"
   },
   "venta_maxima": {
-    "price": 623.601,
-    "name": "-Tyrion-Lannister-"
+    "price": 623.2,
+    "name": "Blank_Mind"
   },
-  "promedio": 623.22,
+  "promedio": 623.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
