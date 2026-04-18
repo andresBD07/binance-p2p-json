@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T08:24:35.135869",
-  "actualizado_vzla": "2026-04-18 04:24:35 -04",
+  "timestamp_utc": "2026-04-18T09:25:14.829511",
+  "actualizado_vzla": "2026-04-18 05:25:14 -04",
   "compra_segundo": {
-    "price": 624.5,
-    "name": "ELFARMACO-NO_3eros"
+    "price": 623.999,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
     "price": 620.2,
     "name": "ZoeTrades"
   },
-  "promedio": 622.35,
+  "promedio": 622.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
