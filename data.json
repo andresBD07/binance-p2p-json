@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T15:59:13.013359",
-  "actualizado_vzla": "2026-04-18 11:59:13 -04",
+  "timestamp_utc": "2026-04-18T16:54:55.196829",
+  "actualizado_vzla": "2026-04-18 12:54:55 -04",
   "compra_segundo": {
-    "price": 622.459,
-    "name": "Mr Punk"
+    "price": 622.84,
+    "name": "TrustyRetriever"
   },
   "venta_maxima": {
-    "price": 622.3,
-    "name": "Rapidflorio84"
+    "price": 623.601,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 622.38,
+  "promedio": 623.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
