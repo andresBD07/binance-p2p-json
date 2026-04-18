@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-18T13:45:28.402374",
-  "actualizado_vzla": "2026-04-18 09:45:28 -04",
+  "timestamp_utc": "2026-04-18T14:30:23.017867",
+  "actualizado_vzla": "2026-04-18 10:30:23 -04",
   "compra_segundo": {
-    "price": 622.0,
-    "name": "Criptotrading"
+    "price": 622.2,
+    "name": "mandy02"
   },
   "venta_maxima": {
-    "price": 621.38,
-    "name": "改變JS"
+    "price": 622.0,
+    "name": "YKBank"
   },
-  "promedio": 621.69,
+  "promedio": 622.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
