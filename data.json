@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-04-18T23:35:45.187731",
-  "actualizado_vzla": "2026-04-18 19:35:45 -04",
+  "timestamp_utc": "2026-04-19T00:04:23.338995",
+  "actualizado_vzla": "2026-04-18 20:04:23 -04",
   "compra_segundo": {
-    "price": 623.0,
-    "name": "WizCoin7"
+    "price": 622.995,
+    "name": "cripto-p2p-"
   },
   "venta_maxima": {
     "price": 623.005,
