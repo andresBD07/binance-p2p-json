@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T21:22:07.721658",
-  "actualizado_vzla": "2026-04-19 17:22:07 -04",
+  "timestamp_utc": "2026-04-19T21:57:51.730068",
+  "actualizado_vzla": "2026-04-19 17:57:51 -04",
   "compra_segundo": {
-    "price": 622.999,
-    "name": "JCR-P2P-1522"
+    "price": 622.9,
+    "name": "SrTocino"
   },
   "venta_maxima": {
-    "price": 621.714,
-    "name": "cambio"
+    "price": 622.5,
+    "name": "coinxpress"
   },
-  "promedio": 622.36,
+  "promedio": 622.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
