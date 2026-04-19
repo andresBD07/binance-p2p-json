@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T13:43:10.416244",
-  "actualizado_vzla": "2026-04-19 09:43:10 -04",
+  "timestamp_utc": "2026-04-19T14:28:53.738505",
+  "actualizado_vzla": "2026-04-19 10:28:53 -04",
   "compra_segundo": {
-    "price": 622.5,
-    "name": "CHAPMANGOLD_TRADING"
+    "price": 623.998,
+    "name": "Capital_Cambios"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "Arjet_Trading"
+    "price": 622.002,
+    "name": "-TRADER-AL-CAPONE-"
   },
-  "promedio": 621.25,
+  "promedio": 623.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
