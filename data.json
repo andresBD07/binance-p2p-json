@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T16:51:29.517036",
-  "actualizado_vzla": "2026-04-19 12:51:29 -04",
+  "timestamp_utc": "2026-04-19T17:33:38.376858",
+  "actualizado_vzla": "2026-04-19 13:33:38 -04",
   "compra_segundo": {
-    "price": 624.8,
-    "name": "DM-PAY"
+    "price": 624.398,
+    "name": "Cambi0Express"
   },
   "venta_maxima": {
-    "price": 623.505,
+    "price": 623.25,
     "name": "Trust-Broker"
   },
-  "promedio": 624.15,
+  "promedio": 623.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
