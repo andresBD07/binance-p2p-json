@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T08:15:05.080060",
-  "actualizado_vzla": "2026-04-19 04:15:05 -04",
+  "timestamp_utc": "2026-04-19T09:09:44.158992",
+  "actualizado_vzla": "2026-04-19 05:09:44 -04",
   "compra_segundo": {
-    "price": 624.72,
-    "name": "TuCambioYa_"
+    "price": 624.4,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 620.0,
-    "name": "zama2004"
+    "price": 622.0,
+    "name": "Kstore7"
   },
-  "promedio": 622.36,
+  "promedio": 623.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
