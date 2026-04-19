@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T03:48:27.011887",
-  "actualizado_vzla": "2026-04-18 23:48:27 -04",
+  "timestamp_utc": "2026-04-19T05:52:05.686716",
+  "actualizado_vzla": "2026-04-19 01:52:05 -04",
   "compra_segundo": {
-    "price": 623.96,
-    "name": "Comercio_Eficiente"
+    "price": 624.5,
+    "name": "CarlosBelloNexoCapit"
   },
   "venta_maxima": {
     "price": 622.05,
     "name": "Trust-Broker"
   },
-  "promedio": 623.0,
+  "promedio": 623.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
