@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T22:49:51.318703",
-  "actualizado_vzla": "2026-04-19 18:49:51 -04",
+  "timestamp_utc": "2026-04-19T23:29:01.267112",
+  "actualizado_vzla": "2026-04-19 19:29:01 -04",
   "compra_segundo": {
-    "price": 622.6,
-    "name": "LelysMed"
+    "price": 622.9,
+    "name": "Cejota10"
   },
   "venta_maxima": {
     "price": 622.0,
     "name": "Trust-Broker"
   },
-  "promedio": 622.3,
+  "promedio": 622.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
