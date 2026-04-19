@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T07:17:55.711245",
-  "actualizado_vzla": "2026-04-19 03:17:55 -04",
+  "timestamp_utc": "2026-04-19T08:15:05.080060",
+  "actualizado_vzla": "2026-04-19 04:15:05 -04",
   "compra_segundo": {
-    "price": 624.5,
-    "name": "ZoeTrades"
+    "price": 624.72,
+    "name": "TuCambioYa_"
   },
   "venta_maxima": {
     "price": 620.0,
-    "name": "Pcambios10"
+    "name": "zama2004"
   },
-  "promedio": 622.25,
+  "promedio": 622.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
