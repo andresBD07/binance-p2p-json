@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T09:09:44.158992",
-  "actualizado_vzla": "2026-04-19 05:09:44 -04",
+  "timestamp_utc": "2026-04-19T10:02:24.086158",
+  "actualizado_vzla": "2026-04-19 06:02:24 -04",
   "compra_segundo": {
     "price": 624.4,
-    "name": "Yosedg"
+    "name": "GJCB_Trader"
   },
   "venta_maxima": {
-    "price": 622.0,
-    "name": "Kstore7"
+    "price": 619.5,
+    "name": "zama2004"
   },
-  "promedio": 623.2,
+  "promedio": 621.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
