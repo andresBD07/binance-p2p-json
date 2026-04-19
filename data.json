@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T10:57:47.243286",
-  "actualizado_vzla": "2026-04-19 06:57:47 -04",
+  "timestamp_utc": "2026-04-19T11:46:31.871912",
+  "actualizado_vzla": "2026-04-19 07:46:31 -04",
   "compra_segundo": {
-    "price": 624.148,
-    "name": "AM_BovedaActiva"
+    "price": 623.9,
+    "name": "eltripolitanop2p"
   },
   "venta_maxima": {
-    "price": 620.3,
-    "name": "WorldTradeinCripto"
+    "price": 621.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 622.22,
+  "promedio": 622.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
