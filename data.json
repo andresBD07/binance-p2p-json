@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-04-19T00:04:23.338995",
-  "actualizado_vzla": "2026-04-18 20:04:23 -04",
+  "timestamp_utc": "2026-04-19T03:48:27.011887",
+  "actualizado_vzla": "2026-04-18 23:48:27 -04",
   "compra_segundo": {
-    "price": 622.995,
-    "name": "cripto-p2p-"
+    "price": 623.96,
+    "name": "Comercio_Eficiente"
   },
   "venta_maxima": {
-    "price": 623.005,
+    "price": 622.05,
     "name": "Trust-Broker"
   },
   "promedio": 623.0,
