@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T10:02:24.086158",
-  "actualizado_vzla": "2026-04-19 06:02:24 -04",
+  "timestamp_utc": "2026-04-19T10:57:47.243286",
+  "actualizado_vzla": "2026-04-19 06:57:47 -04",
   "compra_segundo": {
-    "price": 624.4,
-    "name": "GJCB_Trader"
+    "price": 624.148,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 619.5,
-    "name": "zama2004"
+    "price": 620.3,
+    "name": "WorldTradeinCripto"
   },
-  "promedio": 621.95,
+  "promedio": 622.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
