@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T11:46:31.871912",
-  "actualizado_vzla": "2026-04-19 07:46:31 -04",
+  "timestamp_utc": "2026-04-19T12:28:47.370730",
+  "actualizado_vzla": "2026-04-19 08:28:47 -04",
   "compra_segundo": {
-    "price": 623.9,
-    "name": "eltripolitanop2p"
+    "price": 623.45,
+    "name": "BraianMay"
   },
   "venta_maxima": {
-    "price": 621.0,
-    "name": "TOPlevelS"
+    "price": 620.15,
+    "name": "Rapidflorio84"
   },
-  "promedio": 622.45,
+  "promedio": 621.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
