@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-19T19:08:55.973808",
-  "actualizado_vzla": "2026-04-19 15:08:55 -04",
+  "timestamp_utc": "2026-04-19T19:54:44.941232",
+  "actualizado_vzla": "2026-04-19 15:54:44 -04",
   "compra_segundo": {
-    "price": 624.0,
-    "name": "恒常"
+    "price": 623.948,
+    "name": "عملة آمنةFERMICONعملة آمنة"
   },
   "venta_maxima": {
     "price": 623.0,
     "name": "Trust-Broker"
   },
-  "promedio": 623.5,
+  "promedio": 623.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
