@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T22:25:26.837693",
-  "actualizado_vzla": "2026-04-20 18:25:26 -04",
+  "timestamp_utc": "2026-04-20T23:22:24.600202",
+  "actualizado_vzla": "2026-04-20 19:22:24 -04",
   "compra_segundo": {
-    "price": 634.3,
-    "name": "MULTIVENTASBARQTO"
+    "price": 635.9,
+    "name": "Tzar25"
   },
   "venta_maxima": {
-    "price": 637.001,
-    "name": "-Tyrion-Lannister-"
+    "price": 636.5,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 635.65,
+  "promedio": 636.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
