@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T11:48:42.555032",
-  "actualizado_vzla": "2026-04-20 07:48:42 -04",
+  "timestamp_utc": "2026-04-20T13:04:16.172619",
+  "actualizado_vzla": "2026-04-20 09:04:16 -04",
   "compra_segundo": {
-    "price": 622.098,
-    "name": "Crypto_Flight"
+    "price": 621.0,
+    "name": "criptogene01"
   },
   "venta_maxima": {
-    "price": 620.05,
-    "name": "Rapidflorio84"
+    "price": 621.0,
+    "name": "Arjet_Trading"
   },
-  "promedio": 621.07,
+  "promedio": 621.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
