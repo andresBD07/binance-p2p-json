@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T10:19:09.767459",
-  "actualizado_vzla": "2026-04-20 06:19:09 -04",
+  "timestamp_utc": "2026-04-20T11:48:42.555032",
+  "actualizado_vzla": "2026-04-20 07:48:42 -04",
   "compra_segundo": {
-    "price": 623.1,
-    "name": "FastEG"
+    "price": 622.098,
+    "name": "Crypto_Flight"
   },
   "venta_maxima": {
-    "price": 619.0,
-    "name": "Pipotrade"
+    "price": 620.05,
+    "name": "Rapidflorio84"
   },
-  "promedio": 621.05,
+  "promedio": 621.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
