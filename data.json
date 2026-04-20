@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T16:18:14.596729",
-  "actualizado_vzla": "2026-04-20 12:18:14 -04",
+  "timestamp_utc": "2026-04-20T17:32:42.578914",
+  "actualizado_vzla": "2026-04-20 13:32:42 -04",
   "compra_segundo": {
-    "price": 621.998,
-    "name": "LegacyCrips"
+    "price": 631.0,
+    "name": "CashFlash_TM"
   },
   "venta_maxima": {
-    "price": 625.0,
-    "name": "Biyt"
+    "price": 630.5,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 623.5,
+  "promedio": 630.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
