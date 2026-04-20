@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T18:39:30.698808",
-  "actualizado_vzla": "2026-04-20 14:39:30 -04",
+  "timestamp_utc": "2026-04-20T19:46:27.495522",
+  "actualizado_vzla": "2026-04-20 15:46:27 -04",
   "compra_segundo": {
-    "price": 631.89,
-    "name": "PagoInstantaneoP2P"
+    "price": 634.0,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 634.5,
+    "price": 636.0,
     "name": "Biyt"
   },
-  "promedio": 633.19,
+  "promedio": 635.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
