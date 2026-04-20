@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T08:28:40.198350",
-  "actualizado_vzla": "2026-04-20 04:28:40 -04",
+  "timestamp_utc": "2026-04-20T10:19:09.767459",
+  "actualizado_vzla": "2026-04-20 06:19:09 -04",
   "compra_segundo": {
-    "price": 623.699,
-    "name": "TuCambioYa_"
+    "price": 623.1,
+    "name": "FastEG"
   },
   "venta_maxima": {
-    "price": 619.7,
-    "name": "InversionesWears"
+    "price": 619.0,
+    "name": "Pipotrade"
   },
-  "promedio": 621.7,
+  "promedio": 621.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
