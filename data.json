@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T13:04:16.172619",
-  "actualizado_vzla": "2026-04-20 09:04:16 -04",
+  "timestamp_utc": "2026-04-20T14:56:52.209000",
+  "actualizado_vzla": "2026-04-20 10:56:52 -04",
   "compra_segundo": {
-    "price": 621.0,
-    "name": "criptogene01"
+    "price": 621.77,
+    "name": "Kalevv"
   },
   "venta_maxima": {
-    "price": 621.0,
-    "name": "Arjet_Trading"
+    "price": 621.219,
+    "name": "LinkLogic"
   },
-  "promedio": 621.0,
+  "promedio": 621.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
