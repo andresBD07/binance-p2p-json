@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-20T19:46:27.495522",
-  "actualizado_vzla": "2026-04-20 15:46:27 -04",
+  "timestamp_utc": "2026-04-20T20:31:40.719290",
+  "actualizado_vzla": "2026-04-20 16:31:40 -04",
   "compra_segundo": {
-    "price": 634.0,
-    "name": "Mahc012712"
+    "price": 635.0,
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
-    "price": 636.0,
+    "price": 637.0,
     "name": "Biyt"
   },
-  "promedio": 635.0,
+  "promedio": 636.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
