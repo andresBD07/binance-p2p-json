@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T15:41:55.232156",
-  "actualizado_vzla": "2026-04-21 11:41:55 -04",
+  "timestamp_utc": "2026-04-21T16:42:22.269910",
+  "actualizado_vzla": "2026-04-21 12:42:22 -04",
   "compra_segundo": {
-    "price": 629.8,
-    "name": "CAMBIOS_YESSI"
+    "price": 630.3,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 631.0,
+    "price": 633.0,
     "name": "-Zeratul-"
   },
-  "promedio": 630.4,
+  "promedio": 631.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
