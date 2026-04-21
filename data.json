@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-04-21T05:54:21.242155",
-  "actualizado_vzla": "2026-04-21 01:54:21 -04",
+  "timestamp_utc": "2026-04-21T08:00:42.479677",
+  "actualizado_vzla": "2026-04-21 04:00:42 -04",
   "compra_segundo": {
     "price": 635.0,
-    "name": "cambiosaular"
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
     "price": 632.0,
