@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T21:01:37.621710",
-  "actualizado_vzla": "2026-04-21 17:01:37 -04",
+  "timestamp_utc": "2026-04-21T21:55:50.159842",
+  "actualizado_vzla": "2026-04-21 17:55:50 -04",
   "compra_segundo": {
-    "price": 631.199,
-    "name": "RayoTrader"
+    "price": 630.0,
+    "name": "criptogene01"
   },
   "venta_maxima": {
-    "price": 630.05,
-    "name": "x-Maverick-x"
+    "price": 631.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 630.62,
+  "promedio": 630.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
