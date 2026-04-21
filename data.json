@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T00:05:14.994762",
-  "actualizado_vzla": "2026-04-20 20:05:15 -04",
+  "timestamp_utc": "2026-04-21T03:44:24.058972",
+  "actualizado_vzla": "2026-04-20 23:44:24 -04",
   "compra_segundo": {
-    "price": 635.45,
-    "name": "Diego"
+    "price": 634.1,
+    "name": "EnlineaRyK"
   },
   "venta_maxima": {
-    "price": 635.305,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 633.3,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 635.38,
+  "promedio": 633.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
