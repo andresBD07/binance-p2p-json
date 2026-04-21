@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T17:44:30.609767",
-  "actualizado_vzla": "2026-04-21 13:44:30 -04",
+  "timestamp_utc": "2026-04-21T18:48:44.008364",
+  "actualizado_vzla": "2026-04-21 14:48:44 -04",
   "compra_segundo": {
-    "price": 631.48,
-    "name": "ProTrade_Coins"
+    "price": 631.0,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 632.541,
-    "name": "GoldenLion_"
+    "price": 631.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 632.01,
+  "promedio": 631.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
