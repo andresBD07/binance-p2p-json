@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T21:55:50.159842",
-  "actualizado_vzla": "2026-04-21 17:55:50 -04",
+  "timestamp_utc": "2026-04-21T22:50:00.913633",
+  "actualizado_vzla": "2026-04-21 18:50:00 -04",
   "compra_segundo": {
-    "price": 630.0,
-    "name": "criptogene01"
+    "price": 629.0,
+    "name": "JasBri ING"
   },
   "venta_maxima": {
     "price": 631.0,
     "name": "Trust-Broker"
   },
-  "promedio": 630.5,
+  "promedio": 630.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
