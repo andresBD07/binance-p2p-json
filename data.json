@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T18:48:44.008364",
-  "actualizado_vzla": "2026-04-21 14:48:44 -04",
+  "timestamp_utc": "2026-04-21T19:58:18.239028",
+  "actualizado_vzla": "2026-04-21 15:58:18 -04",
   "compra_segundo": {
-    "price": 631.0,
-    "name": "Mahc012712"
+    "price": 631.41,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 631.5,
+    "price": 632.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 631.25,
+  "promedio": 631.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
