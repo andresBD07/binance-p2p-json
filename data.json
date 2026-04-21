@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-21T12:05:12.441740",
-  "actualizado_vzla": "2026-04-21 08:05:12 -04",
+  "timestamp_utc": "2026-04-21T14:06:54.530015",
+  "actualizado_vzla": "2026-04-21 10:06:54 -04",
   "compra_segundo": {
-    "price": 633.6,
-    "name": "CambiosBalita"
+    "price": 626.7,
+    "name": "FORTZACRIPTO"
   },
   "venta_maxima": {
-    "price": 632.2,
-    "name": "JRR Tolkien"
+    "price": 627.0,
+    "name": "TICOFINANCIAL"
   },
-  "promedio": 632.9,
+  "promedio": 626.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
