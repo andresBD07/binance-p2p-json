@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T03:39:29.998730",
-  "actualizado_vzla": "2026-04-21 23:39:30 -04",
+  "timestamp_utc": "2026-04-22T05:52:19.162864",
+  "actualizado_vzla": "2026-04-22 01:52:19 -04",
   "compra_segundo": {
-    "price": 628.5,
-    "name": "Ricardo"
+    "price": 628.95,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 628.0,
-    "name": "Neobrokers"
+    "price": 624.3,
+    "name": "ABTRAD"
   },
-  "promedio": 628.25,
+  "promedio": 626.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
