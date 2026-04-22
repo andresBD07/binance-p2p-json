@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T14:43:26.005884",
-  "actualizado_vzla": "2026-04-22 10:43:26 -04",
+  "timestamp_utc": "2026-04-22T15:57:27.105088",
+  "actualizado_vzla": "2026-04-22 11:57:27 -04",
   "compra_segundo": {
-    "price": 628.2,
-    "name": "LUMA_08"
+    "price": 625.15,
+    "name": "agunvar1"
   },
   "venta_maxima": {
-    "price": 628.5,
-    "name": "Vitatech"
+    "price": 626.0,
+    "name": "Eliezerjph"
   },
-  "promedio": 628.35,
+  "promedio": 625.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
