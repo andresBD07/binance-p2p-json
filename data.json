@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T20:38:04.560358",
-  "actualizado_vzla": "2026-04-22 16:38:04 -04",
+  "timestamp_utc": "2026-04-22T21:36:58.904346",
+  "actualizado_vzla": "2026-04-22 17:36:58 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "Elleonesleo"
+    "price": 631.84,
+    "name": "Ärthas of lordaeron"
   },
   "venta_maxima": {
-    "price": 632.6,
-    "name": "Soluciones_Tec"
+    "price": 632.0,
+    "name": "Biyt"
   },
-  "promedio": 632.8,
+  "promedio": 631.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
