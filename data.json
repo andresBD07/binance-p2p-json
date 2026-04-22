@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T05:52:19.162864",
-  "actualizado_vzla": "2026-04-22 01:52:19 -04",
+  "timestamp_utc": "2026-04-22T07:46:14.155999",
+  "actualizado_vzla": "2026-04-22 03:46:14 -04",
   "compra_segundo": {
-    "price": 628.95,
-    "name": "Yosedg"
+    "price": 629.0,
+    "name": "Kapo_DTP"
   },
   "venta_maxima": {
-    "price": 624.3,
-    "name": "ABTRAD"
+    "price": 624.5,
+    "name": "cazing2230"
   },
-  "promedio": 626.62,
+  "promedio": 626.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
