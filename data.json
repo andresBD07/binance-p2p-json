@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T21:36:58.904346",
-  "actualizado_vzla": "2026-04-22 17:36:58 -04",
+  "timestamp_utc": "2026-04-22T22:31:12.025966",
+  "actualizado_vzla": "2026-04-22 18:31:12 -04",
   "compra_segundo": {
-    "price": 631.84,
-    "name": "Ärthas of lordaeron"
+    "price": 632.0,
+    "name": "勝利-Val-Exchanges-勝利"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "Biyt"
+    "price": 631.5,
+    "name": "Arjet_Trading"
   },
-  "promedio": 631.92,
+  "promedio": 631.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
