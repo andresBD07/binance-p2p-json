@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T09:08:13.458920",
-  "actualizado_vzla": "2026-04-22 05:08:13 -04",
+  "timestamp_utc": "2026-04-22T10:42:12.317021",
+  "actualizado_vzla": "2026-04-22 06:42:12 -04",
   "compra_segundo": {
-    "price": 629.11,
-    "name": "CambiosPivot"
+    "price": 627.399,
+    "name": "Paotrader"
   },
   "venta_maxima": {
-    "price": 624.0,
-    "name": "SinVerif-Rapido-Uz"
+    "price": 625.0,
+    "name": "c_s_"
   },
-  "promedio": 626.56,
+  "promedio": 626.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
