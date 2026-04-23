@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-23T01:11:02.077378",
-  "actualizado_vzla": "2026-04-22 21:11:02 -04",
+  "timestamp_utc": "2026-04-23T04:23:09.095165",
+  "actualizado_vzla": "2026-04-23 00:23:09 -04",
   "compra_segundo": {
-    "price": 630.99,
-    "name": "EnLineaPagoRapido"
+    "price": 631.95,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "Arjet_Trading"
+    "price": 629.444,
+    "name": "最好的事情"
   },
-  "promedio": 630.5,
+  "promedio": 630.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
