@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-23T23:01:30.993760",
-  "actualizado_vzla": "2026-04-23 19:01:31 -04",
+  "timestamp_utc": "2026-04-23T23:58:26.566414",
+  "actualizado_vzla": "2026-04-23 19:58:26 -04",
   "compra_segundo": {
-    "price": 631.95,
-    "name": "CryptoExpressVe"
+    "price": 631.8,
+    "name": "MauricioRisso"
   },
   "venta_maxima": {
     "price": 633.5,
     "name": "安全与信任"
   },
-  "promedio": 632.73,
+  "promedio": 632.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
