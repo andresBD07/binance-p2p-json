@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-23T04:23:09.095165",
-  "actualizado_vzla": "2026-04-23 00:23:09 -04",
+  "timestamp_utc": "2026-04-23T06:23:38.977139",
+  "actualizado_vzla": "2026-04-23 02:23:38 -04",
   "compra_segundo": {
-    "price": 631.95,
-    "name": "AllTraders"
+    "price": 632.2,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 629.444,
-    "name": "最好的事情"
+    "price": 628.5,
+    "name": "BerracoT"
   },
-  "promedio": 630.7,
+  "promedio": 630.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
