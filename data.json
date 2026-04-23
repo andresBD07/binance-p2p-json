@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-22T23:29:43.569597",
-  "actualizado_vzla": "2026-04-22 19:29:43 -04",
+  "timestamp_utc": "2026-04-23T01:11:02.077378",
+  "actualizado_vzla": "2026-04-22 21:11:02 -04",
   "compra_segundo": {
-    "price": 631.2,
-    "name": "SaoriKido"
+    "price": 630.99,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 630.5,
+    "price": 630.0,
     "name": "Arjet_Trading"
   },
-  "promedio": 630.85,
+  "promedio": 630.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
