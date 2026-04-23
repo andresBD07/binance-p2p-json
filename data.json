@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-23T21:06:25.349298",
-  "actualizado_vzla": "2026-04-23 17:06:25 -04",
+  "timestamp_utc": "2026-04-23T22:00:29.093504",
+  "actualizado_vzla": "2026-04-23 18:00:29 -04",
   "compra_segundo": {
-    "price": 632.49,
-    "name": "EnLineaPagoRapido"
+    "price": 632.8,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 633.5,
+    "price": 633.0,
     "name": "安全与信任"
   },
-  "promedio": 633.0,
+  "promedio": 632.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
