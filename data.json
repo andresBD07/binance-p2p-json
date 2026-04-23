@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-23T18:53:43.774658",
-  "actualizado_vzla": "2026-04-23 14:53:43 -04",
+  "timestamp_utc": "2026-04-23T20:06:22.430268",
+  "actualizado_vzla": "2026-04-23 16:06:22 -04",
   "compra_segundo": {
-    "price": 630.09,
-    "name": "cambiaseguro_en-5min"
+    "price": 632.999,
+    "name": "gonza"
   },
   "venta_maxima": {
-    "price": 631.0,
-    "name": "Godisgift"
+    "price": 633.5,
+    "name": "安全与信任"
   },
-  "promedio": 630.55,
+  "promedio": 633.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
