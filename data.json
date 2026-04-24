@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T20:28:14.948274",
-  "actualizado_vzla": "2026-04-24 16:28:14 -04",
+  "timestamp_utc": "2026-04-24T21:28:02.767813",
+  "actualizado_vzla": "2026-04-24 17:28:02 -04",
   "compra_segundo": {
-    "price": 631.5,
-    "name": "ZenTrades"
+    "price": 631.27,
+    "name": "TraderGarza"
   },
   "venta_maxima": {
-    "price": 631.6,
-    "name": "app2112"
+    "price": 631.001,
+    "name": "P2P-18cdcaje"
   },
-  "promedio": 631.55,
+  "promedio": 631.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
