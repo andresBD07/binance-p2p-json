@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T11:17:51.987933",
-  "actualizado_vzla": "2026-04-24 07:17:51 -04",
+  "timestamp_utc": "2026-04-24T12:10:52.627202",
+  "actualizado_vzla": "2026-04-24 08:10:52 -04",
   "compra_segundo": {
-    "price": 631.1,
-    "name": "SCambios"
+    "price": 630.45,
+    "name": "FAST-SECUREJM"
   },
   "venta_maxima": {
-    "price": 628.552,
-    "name": "4lfw"
+    "price": 630.0,
+    "name": "安全与信任"
   },
-  "promedio": 629.83,
+  "promedio": 630.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
