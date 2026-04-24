@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T05:58:50.618666",
-  "actualizado_vzla": "2026-04-24 01:58:50 -04",
+  "timestamp_utc": "2026-04-24T08:18:47.197688",
+  "actualizado_vzla": "2026-04-24 04:18:47 -04",
   "compra_segundo": {
-    "price": 632.2,
-    "name": "Inversiones-Kary"
+    "price": 632.087,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
     "price": 631.011,
     "name": "ZoeTrades"
   },
-  "promedio": 631.61,
+  "promedio": 631.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
