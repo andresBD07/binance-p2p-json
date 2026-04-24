@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T08:18:47.197688",
-  "actualizado_vzla": "2026-04-24 04:18:47 -04",
+  "timestamp_utc": "2026-04-24T09:58:57.221718",
+  "actualizado_vzla": "2026-04-24 05:58:57 -04",
   "compra_segundo": {
-    "price": 632.087,
-    "name": "Mr_Nasdaq"
+    "price": 631.8,
+    "name": "Capital_Cambios"
   },
   "venta_maxima": {
     "price": 631.011,
     "name": "ZoeTrades"
   },
-  "promedio": 631.55,
+  "promedio": 631.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
