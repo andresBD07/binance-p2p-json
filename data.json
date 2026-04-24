@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T09:58:57.221718",
-  "actualizado_vzla": "2026-04-24 05:58:57 -04",
+  "timestamp_utc": "2026-04-24T11:17:51.987933",
+  "actualizado_vzla": "2026-04-24 07:17:51 -04",
   "compra_segundo": {
-    "price": 631.8,
-    "name": "Capital_Cambios"
+    "price": 631.1,
+    "name": "SCambios"
   },
   "venta_maxima": {
-    "price": 631.011,
-    "name": "ZoeTrades"
+    "price": 628.552,
+    "name": "4lfw"
   },
-  "promedio": 631.41,
+  "promedio": 629.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
