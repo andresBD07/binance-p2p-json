@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T12:10:52.627202",
-  "actualizado_vzla": "2026-04-24 08:10:52 -04",
+  "timestamp_utc": "2026-04-24T14:08:58.526175",
+  "actualizado_vzla": "2026-04-24 10:08:58 -04",
   "compra_segundo": {
-    "price": 630.45,
-    "name": "FAST-SECUREJM"
+    "price": 631.499,
+    "name": "MSaracai"
   },
   "venta_maxima": {
-    "price": 630.0,
+    "price": 632.0,
     "name": "安全与信任"
   },
-  "promedio": 630.23,
+  "promedio": 631.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
