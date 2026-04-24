@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-23T23:58:26.566414",
-  "actualizado_vzla": "2026-04-23 19:58:26 -04",
+  "timestamp_utc": "2026-04-24T03:43:16.632312",
+  "actualizado_vzla": "2026-04-23 23:43:16 -04",
   "compra_segundo": {
-    "price": 631.8,
-    "name": "MauricioRisso"
+    "price": 631.879,
+    "name": "ROME_BUSINESS"
   },
   "venta_maxima": {
-    "price": 633.5,
-    "name": "安全与信任"
+    "price": 631.011,
+    "name": "ZoeTrades"
   },
-  "promedio": 632.65,
+  "promedio": 631.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
