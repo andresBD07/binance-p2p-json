@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T15:51:42.076100",
-  "actualizado_vzla": "2026-04-25 11:51:42 -04",
+  "timestamp_utc": "2026-04-25T16:38:46.886189",
+  "actualizado_vzla": "2026-04-25 12:38:46 -04",
   "compra_segundo": {
-    "price": 632.0,
-    "name": "GLOBAL-2019"
+    "price": 632.199,
+    "name": "VeloFlux"
   },
   "venta_maxima": {
-    "price": 632.5,
+    "price": 633.2,
     "name": "Blank_Mind"
   },
-  "promedio": 632.25,
+  "promedio": 632.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
