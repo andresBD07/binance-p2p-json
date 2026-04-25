@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T18:06:08.232961",
-  "actualizado_vzla": "2026-04-25 14:06:08 -04",
+  "timestamp_utc": "2026-04-25T19:10:39.334402",
+  "actualizado_vzla": "2026-04-25 15:10:39 -04",
   "compra_segundo": {
-    "price": 632.6,
-    "name": "GlobalEth"
+    "price": 632.899,
+    "name": "hc investings "
   },
   "venta_maxima": {
-    "price": 632.4,
-    "name": "Blank_Mind"
+    "price": 632.5,
+    "name": "TheOchoa"
   },
-  "promedio": 632.5,
+  "promedio": 632.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
