@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T17:25:11.417463",
-  "actualizado_vzla": "2026-04-25 13:25:11 -04",
+  "timestamp_utc": "2026-04-25T18:06:08.232961",
+  "actualizado_vzla": "2026-04-25 14:06:08 -04",
   "compra_segundo": {
-    "price": 632.9,
-    "name": "giiojoc"
+    "price": 632.6,
+    "name": "GlobalEth"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "杰格尔"
+    "price": 632.4,
+    "name": "Blank_Mind"
   },
-  "promedio": 632.45,
+  "promedio": 632.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
