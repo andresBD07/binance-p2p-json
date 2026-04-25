@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-24T23:55:31.324479",
-  "actualizado_vzla": "2026-04-24 19:55:31 -04",
+  "timestamp_utc": "2026-04-25T03:23:53.661088",
+  "actualizado_vzla": "2026-04-24 23:23:53 -04",
   "compra_segundo": {
-    "price": 630.999,
-    "name": "K_H2"
+    "price": 631.5,
+    "name": "Criptoseed"
   },
   "venta_maxima": {
-    "price": 630.6,
-    "name": "Tej_raskon"
+    "price": 631.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 630.8,
+  "promedio": 631.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
