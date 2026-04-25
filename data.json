@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T20:51:26.029351",
-  "actualizado_vzla": "2026-04-25 16:51:26 -04",
+  "timestamp_utc": "2026-04-25T21:34:07.335354",
+  "actualizado_vzla": "2026-04-25 17:34:07 -04",
   "compra_segundo": {
-    "price": 632.679,
-    "name": "Exchange_VelozP2P"
+    "price": 632.94,
+    "name": "Fazio_FlashTrade"
   },
   "venta_maxima": {
-    "price": 632.1,
-    "name": "Blank_Mind"
+    "price": 632.501,
+    "name": "FULL-HOUSSE"
   },
-  "promedio": 632.39,
+  "promedio": 632.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
