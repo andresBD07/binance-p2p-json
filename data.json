@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T16:38:46.886189",
-  "actualizado_vzla": "2026-04-25 12:38:46 -04",
+  "timestamp_utc": "2026-04-25T17:25:11.417463",
+  "actualizado_vzla": "2026-04-25 13:25:11 -04",
   "compra_segundo": {
-    "price": 632.199,
-    "name": "VeloFlux"
+    "price": 632.9,
+    "name": "giiojoc"
   },
   "venta_maxima": {
-    "price": 633.2,
-    "name": "Blank_Mind"
+    "price": 632.0,
+    "name": "杰格尔"
   },
-  "promedio": 632.7,
+  "promedio": 632.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
