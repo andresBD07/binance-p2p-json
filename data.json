@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T22:05:31.058536",
-  "actualizado_vzla": "2026-04-25 18:05:31 -04",
+  "timestamp_utc": "2026-04-25T22:55:55.536070",
+  "actualizado_vzla": "2026-04-25 18:55:55 -04",
   "compra_segundo": {
-    "price": 632.6,
-    "name": "KaryCriptos"
+    "price": 632.4,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 633.0,
+    "price": 633.5,
     "name": "安全与信任"
   },
-  "promedio": 632.8,
+  "promedio": 632.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
