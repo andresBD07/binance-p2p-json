@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T19:55:48.429054",
-  "actualizado_vzla": "2026-04-25 15:55:48 -04",
+  "timestamp_utc": "2026-04-25T20:51:26.029351",
+  "actualizado_vzla": "2026-04-25 16:51:26 -04",
   "compra_segundo": {
-    "price": 632.7,
-    "name": "MauricioRisso"
+    "price": 632.679,
+    "name": "Exchange_VelozP2P"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "TheOchoa"
+    "price": 632.1,
+    "name": "Blank_Mind"
   },
-  "promedio": 632.35,
+  "promedio": 632.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
