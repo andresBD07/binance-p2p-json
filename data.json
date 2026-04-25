@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T11:02:27.589112",
-  "actualizado_vzla": "2026-04-25 07:02:27 -04",
+  "timestamp_utc": "2026-04-25T11:50:47.505806",
+  "actualizado_vzla": "2026-04-25 07:50:47 -04",
   "compra_segundo": {
-    "price": 631.48,
-    "name": "K69_Trades"
+    "price": 630.999,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 629.0,
-    "name": "黑块黑块"
+    "price": 630.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 630.24,
+  "promedio": 630.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
