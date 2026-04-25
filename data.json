@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T11:50:47.505806",
-  "actualizado_vzla": "2026-04-25 07:50:47 -04",
+  "timestamp_utc": "2026-04-25T12:54:26.977515",
+  "actualizado_vzla": "2026-04-25 08:54:26 -04",
   "compra_segundo": {
-    "price": 630.999,
-    "name": "Zeta_Cripto"
+    "price": 631.0,
+    "name": "Cambios-G"
   },
   "venta_maxima": {
-    "price": 630.0,
-    "name": "BLACKROCK22"
+    "price": 631.0,
+    "name": "BraVen_Group"
   },
-  "promedio": 630.5,
+  "promedio": 631.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
