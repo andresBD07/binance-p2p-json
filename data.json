@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T12:54:26.977515",
-  "actualizado_vzla": "2026-04-25 08:54:26 -04",
+  "timestamp_utc": "2026-04-25T14:04:30.149944",
+  "actualizado_vzla": "2026-04-25 10:04:30 -04",
   "compra_segundo": {
-    "price": 631.0,
-    "name": "Cambios-G"
+    "price": 631.96,
+    "name": "MOISES0908"
   },
   "venta_maxima": {
     "price": 631.0,
     "name": "BraVen_Group"
   },
-  "promedio": 631.0,
+  "promedio": 631.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
