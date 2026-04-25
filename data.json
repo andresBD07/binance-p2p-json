@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T22:55:55.536070",
-  "actualizado_vzla": "2026-04-25 18:55:55 -04",
+  "timestamp_utc": "2026-04-25T23:49:21.106316",
+  "actualizado_vzla": "2026-04-25 19:49:21 -04",
   "compra_segundo": {
-    "price": 632.4,
-    "name": "CAMBIOS-SERVICIOS-ED"
+    "price": 632.0,
+    "name": "FRANCCOS"
   },
   "venta_maxima": {
-    "price": 633.5,
+    "price": 632.5,
     "name": "安全与信任"
   },
-  "promedio": 632.95,
+  "promedio": 632.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
