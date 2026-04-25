@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T10:05:38.111104",
-  "actualizado_vzla": "2026-04-25 06:05:38 -04",
+  "timestamp_utc": "2026-04-25T11:02:27.589112",
+  "actualizado_vzla": "2026-04-25 07:02:27 -04",
   "compra_segundo": {
-    "price": 631.78,
-    "name": "marote28"
+    "price": 631.48,
+    "name": "K69_Trades"
   },
   "venta_maxima": {
-    "price": 630.2,
-    "name": "Blank_Mind"
+    "price": 629.0,
+    "name": "黑块黑块"
   },
-  "promedio": 630.99,
+  "promedio": 630.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
