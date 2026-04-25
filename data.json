@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T09:08:10.397834",
-  "actualizado_vzla": "2026-04-25 05:08:10 -04",
+  "timestamp_utc": "2026-04-25T10:05:38.111104",
+  "actualizado_vzla": "2026-04-25 06:05:38 -04",
   "compra_segundo": {
-    "price": 631.999,
-    "name": "Atraderspkj"
+    "price": 631.78,
+    "name": "marote28"
   },
   "venta_maxima": {
     "price": 630.2,
     "name": "Blank_Mind"
   },
-  "promedio": 631.1,
+  "promedio": 630.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
