@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-25T14:04:30.149944",
-  "actualizado_vzla": "2026-04-25 10:04:30 -04",
+  "timestamp_utc": "2026-04-25T14:58:40.056136",
+  "actualizado_vzla": "2026-04-25 10:58:40 -04",
   "compra_segundo": {
-    "price": 631.96,
-    "name": "MOISES0908"
+    "price": 631.8,
+    "name": "yosbth"
   },
   "venta_maxima": {
-    "price": 631.0,
-    "name": "BraVen_Group"
+    "price": 632.0,
+    "name": "Rapidflorio84"
   },
-  "promedio": 631.48,
+  "promedio": 631.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
