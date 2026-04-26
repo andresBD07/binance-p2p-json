@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T09:36:40.864902",
-  "actualizado_vzla": "2026-04-26 05:36:40 -04",
+  "timestamp_utc": "2026-04-26T10:29:15.591992",
+  "actualizado_vzla": "2026-04-26 06:29:15 -04",
   "compra_segundo": {
-    "price": 632.995,
-    "name": "eercripto"
+    "price": 632.94,
+    "name": "davzotrading"
   },
   "venta_maxima": {
-    "price": 628.01,
-    "name": "Extranjero"
+    "price": 629.0,
+    "name": "HijoDeLaViuda_Trader"
   },
-  "promedio": 630.5,
+  "promedio": 630.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
