@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-04-26T07:05:13.821088",
-  "actualizado_vzla": "2026-04-26 03:05:13 -04",
+  "timestamp_utc": "2026-04-26T08:36:29.476495",
+  "actualizado_vzla": "2026-04-26 04:36:29 -04",
   "compra_segundo": {
-    "price": 632.995,
-    "name": "eercripto"
+    "price": 633.0,
+    "name": "Open-cambios"
   },
   "venta_maxima": {
     "price": 629.5,
