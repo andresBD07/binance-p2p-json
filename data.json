@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T12:04:19.425224",
-  "actualizado_vzla": "2026-04-26 08:04:19 -04",
+  "timestamp_utc": "2026-04-26T13:39:42.780098",
+  "actualizado_vzla": "2026-04-26 09:39:42 -04",
   "compra_segundo": {
-    "price": 632.5,
-    "name": "TeresaCrip"
+    "price": 633.0,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 630.5,
-    "name": "-Akopan-"
+    "price": 633.0,
+    "name": "安全与信任"
   },
-  "promedio": 631.5,
+  "promedio": 633.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
