@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T08:36:29.476495",
-  "actualizado_vzla": "2026-04-26 04:36:29 -04",
+  "timestamp_utc": "2026-04-26T09:36:40.864902",
+  "actualizado_vzla": "2026-04-26 05:36:40 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "Open-cambios"
+    "price": 632.995,
+    "name": "eercripto"
   },
   "venta_maxima": {
-    "price": 629.5,
-    "name": "CambiosMZ"
+    "price": 628.01,
+    "name": "Extranjero"
   },
-  "promedio": 631.25,
+  "promedio": 630.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
