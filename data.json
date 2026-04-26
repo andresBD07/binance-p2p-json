@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T10:29:15.591992",
-  "actualizado_vzla": "2026-04-26 06:29:15 -04",
+  "timestamp_utc": "2026-04-26T11:23:23.099460",
+  "actualizado_vzla": "2026-04-26 07:23:23 -04",
   "compra_segundo": {
-    "price": 632.94,
-    "name": "davzotrading"
+    "price": 632.699,
+    "name": "UroTrader"
   },
   "venta_maxima": {
-    "price": 629.0,
-    "name": "HijoDeLaViuda_Trader"
+    "price": 629.5,
+    "name": "-Akopan-"
   },
-  "promedio": 630.97,
+  "promedio": 631.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
