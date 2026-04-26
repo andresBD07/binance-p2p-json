@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T05:11:26.448267",
-  "actualizado_vzla": "2026-04-26 01:11:26 -04",
+  "timestamp_utc": "2026-04-26T07:05:13.821088",
+  "actualizado_vzla": "2026-04-26 03:05:13 -04",
   "compra_segundo": {
-    "price": 632.595,
-    "name": "chichiwilote"
+    "price": 632.995,
+    "name": "eercripto"
   },
   "venta_maxima": {
-    "price": 629.81,
-    "name": "Extranjero"
+    "price": 629.5,
+    "name": "CambiosMZ"
   },
-  "promedio": 631.2,
+  "promedio": 631.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
