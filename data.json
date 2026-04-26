@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T22:57:40.930687",
-  "actualizado_vzla": "2026-04-26 18:57:40 -04",
+  "timestamp_utc": "2026-04-26T23:51:22.223341",
+  "actualizado_vzla": "2026-04-26 19:51:22 -04",
   "compra_segundo": {
-    "price": 632.25,
-    "name": "JM2026"
+    "price": 632.0,
+    "name": "Cambios-G"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "Rapidflorio84"
+    "price": 631.101,
+    "name": "-APEX-"
   },
-  "promedio": 632.12,
+  "promedio": 631.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
