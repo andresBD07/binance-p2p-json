@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T19:54:38.294124",
-  "actualizado_vzla": "2026-04-26 15:54:38 -04",
+  "timestamp_utc": "2026-04-26T20:48:26.993738",
+  "actualizado_vzla": "2026-04-26 16:48:27 -04",
   "compra_segundo": {
-    "price": 632.8,
-    "name": "DM-PAY"
+    "price": 632.7,
+    "name": "PagoInstantaneoP2P"
   },
   "venta_maxima": {
-    "price": 633.0,
-    "name": "Blank_Mind"
+    "price": 632.5,
+    "name": "TheOchoa"
   },
-  "promedio": 632.9,
+  "promedio": 632.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
