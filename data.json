@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-26T17:55:32.903504",
-  "actualizado_vzla": "2026-04-26 13:55:32 -04",
+  "timestamp_utc": "2026-04-26T19:07:24.321808",
+  "actualizado_vzla": "2026-04-26 15:07:24 -04",
   "compra_segundo": {
-    "price": 632.7,
-    "name": "racaste"
+    "price": 632.79,
+    "name": "WaffleCambios"
   },
   "venta_maxima": {
     "price": 633.0,
     "name": "Blank_Mind"
   },
-  "promedio": 632.85,
+  "promedio": 632.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
