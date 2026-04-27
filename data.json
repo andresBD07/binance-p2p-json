@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-27T17:42:57.941057",
-  "actualizado_vzla": "2026-04-27 13:42:57 -04",
+  "timestamp_utc": "2026-04-27T18:58:28.835794",
+  "actualizado_vzla": "2026-04-27 14:58:28 -04",
   "compra_segundo": {
-    "price": 642.25,
-    "name": "LaYanza"
+    "price": 643.699,
+    "name": "MC30TRADE"
   },
   "venta_maxima": {
-    "price": 645.0,
-    "name": "Biyt"
+    "price": 647.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 643.62,
+  "promedio": 645.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
