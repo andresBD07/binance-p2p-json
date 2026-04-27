@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-27T05:40:00.010728",
-  "actualizado_vzla": "2026-04-27 01:40:00 -04",
+  "timestamp_utc": "2026-04-27T07:56:27.948133",
+  "actualizado_vzla": "2026-04-27 03:56:27 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "MikasaExchange"
+    "price": 633.49,
+    "name": "Criptotur"
   },
   "venta_maxima": {
-    "price": 628.236,
-    "name": "Fanteb"
+    "price": 628.3,
+    "name": "Kstore7"
   },
-  "promedio": 630.62,
+  "promedio": 630.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
