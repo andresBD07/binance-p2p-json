@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-27T22:29:48.808552",
-  "actualizado_vzla": "2026-04-27 18:29:48 -04",
+  "timestamp_utc": "2026-04-27T23:31:41.022693",
+  "actualizado_vzla": "2026-04-27 19:31:41 -04",
   "compra_segundo": {
-    "price": 646.79,
-    "name": "ExchangeMarket_Vzla"
+    "price": 645.795,
+    "name": "Betania"
   },
   "venta_maxima": {
-    "price": 647.301,
-    "name": "P2P-18cdcaje"
+    "price": 647.5,
+    "name": "mundo-cripto"
   },
-  "promedio": 647.05,
+  "promedio": 646.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
