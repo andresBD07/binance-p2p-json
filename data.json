@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-27T20:15:53.639823",
-  "actualizado_vzla": "2026-04-27 16:15:53 -04",
+  "timestamp_utc": "2026-04-27T21:30:57.426404",
+  "actualizado_vzla": "2026-04-27 17:30:57 -04",
   "compra_segundo": {
-    "price": 646.0,
-    "name": "Nirvanacafe"
+    "price": 646.8,
+    "name": "Hispano-Cripto"
   },
   "venta_maxima": {
-    "price": 648.0,
-    "name": "Biyt"
+    "price": 647.5,
+    "name": "Godisgift"
   },
-  "promedio": 647.0,
+  "promedio": 647.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
