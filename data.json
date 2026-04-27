@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-27T10:24:42.483201",
-  "actualizado_vzla": "2026-04-27 06:24:42 -04",
+  "timestamp_utc": "2026-04-27T12:08:04.212475",
+  "actualizado_vzla": "2026-04-27 08:08:04 -04",
   "compra_segundo": {
-    "price": 632.2,
-    "name": "PROFESlONAL"
+    "price": 630.949,
+    "name": "Cambios_Veloz"
   },
   "venta_maxima": {
-    "price": 629.0,
-    "name": "YKBank"
+    "price": 630.1,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 630.6,
+  "promedio": 630.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
