@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-27T18:58:28.835794",
-  "actualizado_vzla": "2026-04-27 14:58:28 -04",
+  "timestamp_utc": "2026-04-27T20:15:53.639823",
+  "actualizado_vzla": "2026-04-27 16:15:53 -04",
   "compra_segundo": {
-    "price": 643.699,
-    "name": "MC30TRADE"
+    "price": 646.0,
+    "name": "Nirvanacafe"
   },
   "venta_maxima": {
-    "price": 647.1,
-    "name": "SasukeTrader"
+    "price": 648.0,
+    "name": "Biyt"
   },
-  "promedio": 645.4,
+  "promedio": 647.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
