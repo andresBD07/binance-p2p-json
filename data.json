@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-28T07:28:23.241979",
-  "actualizado_vzla": "2026-04-28 03:28:23 -04",
+  "timestamp_utc": "2026-04-28T09:57:30.488412",
+  "actualizado_vzla": "2026-04-28 05:57:30 -04",
   "compra_segundo": {
-    "price": 649.2,
-    "name": "ALCAPON3"
+    "price": 648.999,
+    "name": "Dkguitar"
   },
   "venta_maxima": {
-    "price": 645.06,
-    "name": "LechugaExpress"
+    "price": 646.4,
+    "name": "VenUSDT_"
   },
-  "promedio": 647.13,
+  "promedio": 647.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
