@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-28T01:19:29.196017",
-  "actualizado_vzla": "2026-04-27 21:19:29 -04",
+  "timestamp_utc": "2026-04-28T04:50:52.209614",
+  "actualizado_vzla": "2026-04-28 00:50:52 -04",
   "compra_segundo": {
-    "price": 647.4,
-    "name": "LeNary-"
+    "price": 649.0,
+    "name": "EduardoArrieche"
   },
   "venta_maxima": {
-    "price": 648.3,
-    "name": "GOMEZTUSOLUCION"
+    "price": 645.5,
+    "name": "4lfw"
   },
-  "promedio": 647.85,
+  "promedio": 647.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
