@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-28T04:50:52.209614",
-  "actualizado_vzla": "2026-04-28 00:50:52 -04",
+  "timestamp_utc": "2026-04-28T07:28:23.241979",
+  "actualizado_vzla": "2026-04-28 03:28:23 -04",
   "compra_segundo": {
-    "price": 649.0,
-    "name": "EduardoArrieche"
+    "price": 649.2,
+    "name": "ALCAPON3"
   },
   "venta_maxima": {
-    "price": 645.5,
-    "name": "4lfw"
+    "price": 645.06,
+    "name": "LechugaExpress"
   },
-  "promedio": 647.25,
+  "promedio": 647.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
