@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-28T11:55:37.191087",
-  "actualizado_vzla": "2026-04-28 07:55:37 -04",
+  "timestamp_utc": "2026-04-28T14:34:47.203795",
+  "actualizado_vzla": "2026-04-28 10:34:47 -04",
   "compra_segundo": {
-    "price": 647.899,
-    "name": "multiservcastaneda"
+    "price": 649.0,
+    "name": "Alejandro_Vzla"
   },
   "venta_maxima": {
-    "price": 647.6,
-    "name": "-Akopan-"
+    "price": 647.2,
+    "name": "MILOMA-EXCHANGE"
   },
-  "promedio": 647.75,
+  "promedio": 648.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
