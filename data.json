@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-28T19:55:39.864989",
-  "actualizado_vzla": "2026-04-28 15:55:39 -04",
+  "timestamp_utc": "2026-04-28T21:13:40.452739",
+  "actualizado_vzla": "2026-04-28 17:13:40 -04",
   "compra_segundo": {
-    "price": 645.0,
-    "name": "racaste"
+    "price": 647.45,
+    "name": "CryptoExpressVe"
   },
   "venta_maxima": {
-    "price": 646.0,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 647.0,
+    "name": "GAMBINO-"
   },
-  "promedio": 645.5,
+  "promedio": 647.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
