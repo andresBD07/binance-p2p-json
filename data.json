@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-28T22:13:53.281701",
-  "actualizado_vzla": "2026-04-28 18:13:53 -04",
+  "timestamp_utc": "2026-04-28T23:12:58.914334",
+  "actualizado_vzla": "2026-04-28 19:12:58 -04",
   "compra_segundo": {
-    "price": 646.6,
-    "name": "CAMBIOS-CRYPTOS"
+    "price": 646.999,
+    "name": "CAMBIOS-JV"
   },
   "venta_maxima": {
     "price": 648.0,
-    "name": "-APEX-"
+    "name": "GAMBINO-"
   },
-  "promedio": 647.3,
+  "promedio": 647.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
