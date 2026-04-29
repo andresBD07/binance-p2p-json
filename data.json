@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-29T06:35:25.889634",
-  "actualizado_vzla": "2026-04-29 02:35:25 -04",
+  "timestamp_utc": "2026-04-29T08:59:45.296104",
+  "actualizado_vzla": "2026-04-29 04:59:45 -04",
   "compra_segundo": {
     "price": 648.0,
     "name": "LGD04"
   },
   "venta_maxima": {
-    "price": 644.88,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 643.51,
+    "name": "GusGus-777"
   },
-  "promedio": 646.44,
+  "promedio": 645.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
