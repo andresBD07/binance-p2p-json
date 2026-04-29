@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-04-28T23:12:58.914334",
-  "actualizado_vzla": "2026-04-28 19:12:58 -04",
+  "timestamp_utc": "2026-04-29T00:10:05.016455",
+  "actualizado_vzla": "2026-04-28 20:10:05 -04",
   "compra_segundo": {
-    "price": 646.999,
-    "name": "CAMBIOS-JV"
+    "price": 646.998,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
     "price": 648.0,
