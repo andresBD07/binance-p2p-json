@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-29T04:03:47.507011",
-  "actualizado_vzla": "2026-04-29 00:03:47 -04",
+  "timestamp_utc": "2026-04-29T06:35:25.889634",
+  "actualizado_vzla": "2026-04-29 02:35:25 -04",
   "compra_segundo": {
-    "price": 647.0,
-    "name": "MikasaExchange"
+    "price": 648.0,
+    "name": "LGD04"
   },
   "venta_maxima": {
-    "price": 645.6,
-    "name": "BOLO-USDT"
+    "price": 644.88,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 646.3,
+  "promedio": 646.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
