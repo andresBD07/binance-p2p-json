@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-29T19:41:41.736238",
-  "actualizado_vzla": "2026-04-29 15:41:41 -04",
+  "timestamp_utc": "2026-04-29T20:44:24.680010",
+  "actualizado_vzla": "2026-04-29 16:44:24 -04",
   "compra_segundo": {
-    "price": 646.43,
-    "name": "AllDayTrade"
+    "price": 645.199,
+    "name": "NXTrade57"
   },
   "venta_maxima": {
-    "price": 645.9,
-    "name": "Tiberiius"
+    "price": 644.5,
+    "name": "TheOchoa"
   },
-  "promedio": 646.16,
+  "promedio": 644.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
