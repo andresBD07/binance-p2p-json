@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-29T17:54:03.693707",
-  "actualizado_vzla": "2026-04-29 13:54:03 -04",
+  "timestamp_utc": "2026-04-29T19:41:41.736238",
+  "actualizado_vzla": "2026-04-29 15:41:41 -04",
   "compra_segundo": {
-    "price": 646.9,
-    "name": "-_GRAN_PALOMON_-_"
+    "price": 646.43,
+    "name": "AllDayTrade"
   },
   "venta_maxima": {
-    "price": 646.3,
-    "name": "friday18"
+    "price": 645.9,
+    "name": "Tiberiius"
   },
-  "promedio": 646.6,
+  "promedio": 646.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
