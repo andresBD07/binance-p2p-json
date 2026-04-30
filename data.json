@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T01:23:33.444141",
-  "actualizado_vzla": "2026-04-29 21:23:33 -04",
+  "timestamp_utc": "2026-04-30T04:56:44.150660",
+  "actualizado_vzla": "2026-04-30 00:56:44 -04",
   "compra_segundo": {
-    "price": 634.7,
-    "name": "Guayoyoo"
+    "price": 634.9,
+    "name": "CAMBIOCARVAJAL"
   },
   "venta_maxima": {
-    "price": 632.7,
-    "name": "CriptoseguroAyM"
+    "price": 629.5,
+    "name": "Elmanuuu"
   },
-  "promedio": 633.7,
+  "promedio": 632.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
