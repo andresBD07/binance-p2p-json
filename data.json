@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T19:51:30.789915",
-  "actualizado_vzla": "2026-04-30 15:51:30 -04",
+  "timestamp_utc": "2026-04-30T20:56:45.895602",
+  "actualizado_vzla": "2026-04-30 16:56:45 -04",
   "compra_segundo": {
-    "price": 631.98,
-    "name": "CryptoExpressVe"
+    "price": 632.8,
+    "name": "Sr_Hamboldzh"
   },
   "venta_maxima": {
     "price": 632.0,
-    "name": "VenUSDT_"
+    "name": "-Isalam-"
   },
-  "promedio": 631.99,
+  "promedio": 632.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
