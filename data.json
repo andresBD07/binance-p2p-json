@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T13:00:29.703433",
-  "actualizado_vzla": "2026-04-30 09:00:29 -04",
+  "timestamp_utc": "2026-04-30T15:19:44.305728",
+  "actualizado_vzla": "2026-04-30 11:19:44 -04",
   "compra_segundo": {
-    "price": 636.99,
-    "name": "TioRico699"
+    "price": 634.0,
+    "name": "Walkerw1"
   },
   "venta_maxima": {
-    "price": 636.0,
-    "name": "Godisgift"
+    "price": 634.1,
+    "name": "-Isalam-"
   },
-  "promedio": 636.5,
+  "promedio": 634.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
