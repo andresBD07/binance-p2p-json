@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T09:36:45.962173",
-  "actualizado_vzla": "2026-04-30 05:36:45 -04",
+  "timestamp_utc": "2026-04-30T11:18:45.982529",
+  "actualizado_vzla": "2026-04-30 07:18:45 -04",
   "compra_segundo": {
-    "price": 635.75,
-    "name": "GaAle19"
+    "price": 633.6,
+    "name": "Agrosnj120_"
   },
   "venta_maxima": {
-    "price": 629.76,
-    "name": "Gonek2k"
+    "price": 630.8,
+    "name": "GGC26"
   },
-  "promedio": 632.75,
+  "promedio": 632.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
