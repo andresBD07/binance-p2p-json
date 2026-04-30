@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T11:18:45.982529",
-  "actualizado_vzla": "2026-04-30 07:18:45 -04",
+  "timestamp_utc": "2026-04-30T13:00:29.703433",
+  "actualizado_vzla": "2026-04-30 09:00:29 -04",
   "compra_segundo": {
-    "price": 633.6,
-    "name": "Agrosnj120_"
+    "price": 636.99,
+    "name": "TioRico699"
   },
   "venta_maxima": {
-    "price": 630.8,
-    "name": "GGC26"
+    "price": 636.0,
+    "name": "Godisgift"
   },
-  "promedio": 632.2,
+  "promedio": 636.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
