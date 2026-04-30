@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T22:03:49.552369",
-  "actualizado_vzla": "2026-04-30 18:03:49 -04",
+  "timestamp_utc": "2026-04-30T23:07:33.117188",
+  "actualizado_vzla": "2026-04-30 19:07:33 -04",
   "compra_segundo": {
-    "price": 632.8,
-    "name": "CambiosToGo"
+    "price": 632.47,
+    "name": "Wis3Trading"
   },
   "venta_maxima": {
-    "price": 632.505,
-    "name": "Trust-Broker"
+    "price": 633.0,
+    "name": "VenUSDT_"
   },
-  "promedio": 632.65,
+  "promedio": 632.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
