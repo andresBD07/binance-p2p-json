@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-04-30T20:56:45.895602",
-  "actualizado_vzla": "2026-04-30 16:56:45 -04",
+  "timestamp_utc": "2026-04-30T22:03:49.552369",
+  "actualizado_vzla": "2026-04-30 18:03:49 -04",
   "compra_segundo": {
     "price": 632.8,
-    "name": "Sr_Hamboldzh"
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "-Isalam-"
+    "price": 632.505,
+    "name": "Trust-Broker"
   },
-  "promedio": 632.4,
+  "promedio": 632.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
