@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-01T17:30:16.579894",
-  "actualizado_vzla": "2026-05-01 13:30:16 -04",
+  "timestamp_utc": "2026-05-01T18:42:51.329259",
+  "actualizado_vzla": "2026-05-01 14:42:51 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "La_vida_es_Bella"
+    "price": 633.5,
+    "name": "G2Trade"
   },
   "venta_maxima": {
     "price": 634.0,
-    "name": "Vitatech"
+    "name": "VenUSDT_"
   },
-  "promedio": 633.5,
+  "promedio": 633.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
