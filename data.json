@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-01T18:42:51.329259",
-  "actualizado_vzla": "2026-05-01 14:42:51 -04",
+  "timestamp_utc": "2026-05-01T19:54:27.513053",
+  "actualizado_vzla": "2026-05-01 15:54:27 -04",
   "compra_segundo": {
-    "price": 633.5,
-    "name": "G2Trade"
+    "price": 634.0,
+    "name": "ArepaConCafe"
   },
   "venta_maxima": {
-    "price": 634.0,
-    "name": "VenUSDT_"
+    "price": 634.21,
+    "name": "GAMBINO-"
   },
-  "promedio": 633.75,
+  "promedio": 634.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
