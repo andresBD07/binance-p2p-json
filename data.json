@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-01T11:46:15.947943",
-  "actualizado_vzla": "2026-05-01 07:46:15 -04",
+  "timestamp_utc": "2026-05-01T12:44:16.722710",
+  "actualizado_vzla": "2026-05-01 08:44:16 -04",
   "compra_segundo": {
-    "price": 633.399,
-    "name": "AM_BovedaActiva"
+    "price": 635.7,
+    "name": "-APEX-"
   },
   "venta_maxima": {
-    "price": 633.0,
+    "price": 635.0,
     "name": "VenUSDT_"
   },
-  "promedio": 633.2,
+  "promedio": 635.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
