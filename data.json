@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-01T04:14:37.283415",
-  "actualizado_vzla": "2026-05-01 00:14:37 -04",
+  "timestamp_utc": "2026-05-01T07:08:51.933386",
+  "actualizado_vzla": "2026-05-01 03:08:51 -04",
   "compra_segundo": {
-    "price": 633.0,
-    "name": "Old Parr"
+    "price": 633.94,
+    "name": "Cristh957"
   },
   "venta_maxima": {
-    "price": 632.5,
-    "name": "Trust-Broker"
+    "price": 630.0,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 632.75,
+  "promedio": 631.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
