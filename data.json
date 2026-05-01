@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-01T00:05:17.892386",
-  "actualizado_vzla": "2026-04-30 20:05:17 -04",
+  "timestamp_utc": "2026-05-01T04:14:37.283415",
+  "actualizado_vzla": "2026-05-01 00:14:37 -04",
   "compra_segundo": {
-    "price": 632.33,
-    "name": "saullopezh"
+    "price": 633.0,
+    "name": "Old Parr"
   },
   "venta_maxima": {
-    "price": 633.005,
+    "price": 632.5,
     "name": "Trust-Broker"
   },
-  "promedio": 632.67,
+  "promedio": 632.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
