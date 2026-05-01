@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-01T07:08:51.933386",
-  "actualizado_vzla": "2026-05-01 03:08:51 -04",
+  "timestamp_utc": "2026-05-01T09:10:50.530014",
+  "actualizado_vzla": "2026-05-01 05:10:50 -04",
   "compra_segundo": {
-    "price": 633.94,
-    "name": "Cristh957"
+    "price": 633.99,
+    "name": "TheSurgueon_DTP"
   },
   "venta_maxima": {
     "price": 630.0,
     "name": "贝HarveySpecter贝"
   },
-  "promedio": 631.97,
+  "promedio": 632.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
