@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T22:57:40.598329",
-  "actualizado_vzla": "2026-05-02 18:57:40 -04",
+  "timestamp_utc": "2026-05-02T23:55:42.762555",
+  "actualizado_vzla": "2026-05-02 19:55:42 -04",
   "compra_segundo": {
-    "price": 631.97,
-    "name": "Tucambiove"
+    "price": 631.999,
+    "name": "JoelonN"
   },
   "venta_maxima": {
-    "price": 630.3,
-    "name": "Blank_Mind"
+    "price": 631.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 631.13,
+  "promedio": 631.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
