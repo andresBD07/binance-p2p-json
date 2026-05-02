@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T00:00:27.220610",
-  "actualizado_vzla": "2026-05-01 20:00:27 -04",
+  "timestamp_utc": "2026-05-02T03:46:15.367105",
+  "actualizado_vzla": "2026-05-01 23:46:15 -04",
   "compra_segundo": {
-    "price": 633.29,
-    "name": "EnLineaPagoRapido"
+    "price": 634.2,
+    "name": "Cambios239"
   },
   "venta_maxima": {
-    "price": 633.0,
-    "name": "Eliezerjph"
+    "price": 631.6,
+    "name": "BraVen_Group"
   },
-  "promedio": 633.14,
+  "promedio": 632.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
