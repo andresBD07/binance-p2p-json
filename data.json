@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T07:56:22.016150",
-  "actualizado_vzla": "2026-05-02 03:56:22 -04",
+  "timestamp_utc": "2026-05-02T09:15:09.496518",
+  "actualizado_vzla": "2026-05-02 05:15:09 -04",
   "compra_segundo": {
-    "price": 634.85,
-    "name": "eltripolitanop2p"
+    "price": 634.89,
+    "name": "Atraderspkj"
   },
   "venta_maxima": {
-    "price": 631.2,
-    "name": "VISÓN CRIPTØ"
+    "price": 631.1,
+    "name": "ZoeTrades"
   },
-  "promedio": 633.03,
+  "promedio": 633.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
