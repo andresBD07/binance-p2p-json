@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T20:24:08.492196",
-  "actualizado_vzla": "2026-05-02 16:24:08 -04",
+  "timestamp_utc": "2026-05-02T21:09:03.141875",
+  "actualizado_vzla": "2026-05-02 17:09:03 -04",
   "compra_segundo": {
-    "price": 634.0,
-    "name": "labebe2222"
+    "price": 633.979,
+    "name": "ZarkXchanges"
   },
   "venta_maxima": {
     "price": 633.0,
     "name": "Eliezerjph"
   },
-  "promedio": 633.5,
+  "promedio": 633.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
