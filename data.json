@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T05:57:41.561490",
-  "actualizado_vzla": "2026-05-02 01:57:41 -04",
+  "timestamp_utc": "2026-05-02T07:56:22.016150",
+  "actualizado_vzla": "2026-05-02 03:56:22 -04",
   "compra_segundo": {
-    "price": 634.8,
-    "name": "THEBOSSTRADER"
+    "price": 634.85,
+    "name": "eltripolitanop2p"
   },
   "venta_maxima": {
     "price": 631.2,
     "name": "VISÓN CRIPTØ"
   },
-  "promedio": 633.0,
+  "promedio": 633.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
