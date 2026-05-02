@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T21:09:03.141875",
-  "actualizado_vzla": "2026-05-02 17:09:03 -04",
+  "timestamp_utc": "2026-05-02T21:59:17.318730",
+  "actualizado_vzla": "2026-05-02 17:59:17 -04",
   "compra_segundo": {
-    "price": 633.979,
-    "name": "ZarkXchanges"
+    "price": 633.28,
+    "name": "Kstore7"
   },
   "venta_maxima": {
     "price": 633.0,
-    "name": "Eliezerjph"
+    "name": "VenUSDT_"
   },
-  "promedio": 633.49,
+  "promedio": 633.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
