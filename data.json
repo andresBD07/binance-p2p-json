@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T03:46:15.367105",
-  "actualizado_vzla": "2026-05-01 23:46:15 -04",
+  "timestamp_utc": "2026-05-02T05:57:41.561490",
+  "actualizado_vzla": "2026-05-02 01:57:41 -04",
   "compra_segundo": {
-    "price": 634.2,
-    "name": "Cambios239"
+    "price": 634.8,
+    "name": "THEBOSSTRADER"
   },
   "venta_maxima": {
-    "price": 631.6,
-    "name": "BraVen_Group"
+    "price": 631.2,
+    "name": "VISÓN CRIPTØ"
   },
-  "promedio": 632.9,
+  "promedio": 633.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
