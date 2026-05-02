@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T11:10:31.733282",
-  "actualizado_vzla": "2026-05-02 07:10:31 -04",
+  "timestamp_utc": "2026-05-02T12:00:53.821007",
+  "actualizado_vzla": "2026-05-02 08:00:53 -04",
   "compra_segundo": {
-    "price": 634.8,
-    "name": "THEBOSSTRADER"
+    "price": 634.25,
+    "name": "OreoBoss"
   },
   "venta_maxima": {
-    "price": 631.5,
-    "name": "Zuko02"
+    "price": 632.222,
+    "name": "Theking_11"
   },
-  "promedio": 633.15,
+  "promedio": 633.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
