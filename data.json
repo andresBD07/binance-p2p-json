@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T17:01:25.351965",
-  "actualizado_vzla": "2026-05-03 13:01:25 -04",
+  "timestamp_utc": "2026-05-03T17:58:23.798218",
+  "actualizado_vzla": "2026-05-03 13:58:23 -04",
   "compra_segundo": {
-    "price": 634.29,
-    "name": "cfracachan"
+    "price": 634.0,
+    "name": "EdwCripto"
   },
   "venta_maxima": {
-    "price": 633.11,
-    "name": "FULL-HOUSSE"
+    "price": 633.061,
+    "name": "All-inCrypto"
   },
-  "promedio": 633.7,
+  "promedio": 633.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
