@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-02T23:55:42.762555",
-  "actualizado_vzla": "2026-05-02 19:55:42 -04",
+  "timestamp_utc": "2026-05-03T04:02:17.218747",
+  "actualizado_vzla": "2026-05-03 00:02:17 -04",
   "compra_segundo": {
-    "price": 631.999,
-    "name": "JoelonN"
+    "price": 633.999,
+    "name": "izzack"
   },
   "venta_maxima": {
     "price": 631.0,
-    "name": "TOPlevelS"
+    "name": "-APEX-"
   },
-  "promedio": 631.5,
+  "promedio": 632.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
