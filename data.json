@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T22:53:14.790318",
-  "actualizado_vzla": "2026-05-03 18:53:14 -04",
+  "timestamp_utc": "2026-05-03T23:49:54.639538",
+  "actualizado_vzla": "2026-05-03 19:49:54 -04",
   "compra_segundo": {
-    "price": 633.399,
-    "name": "Shar-KExchange"
+    "price": 633.49,
+    "name": "zoecambios_21"
   },
   "venta_maxima": {
-    "price": 633.5,
-    "name": "-Akopan-"
+    "price": 632.565,
+    "name": "Trust-Broker"
   },
-  "promedio": 633.45,
+  "promedio": 633.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
