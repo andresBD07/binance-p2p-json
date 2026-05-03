@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T12:32:38.281748",
-  "actualizado_vzla": "2026-05-03 08:32:38 -04",
+  "timestamp_utc": "2026-05-03T13:56:50.294542",
+  "actualizado_vzla": "2026-05-03 09:56:50 -04",
   "compra_segundo": {
-    "price": 634.199,
-    "name": "tovir2572"
+    "price": 634.099,
+    "name": "Shaddaigacc"
   },
   "venta_maxima": {
-    "price": 632.0,
-    "name": "TOPlevelS"
+    "price": 631.355,
+    "name": "CriiptoEnergy"
   },
-  "promedio": 633.1,
+  "promedio": 632.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
