@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T13:56:50.294542",
-  "actualizado_vzla": "2026-05-03 09:56:50 -04",
+  "timestamp_utc": "2026-05-03T14:58:20.054621",
+  "actualizado_vzla": "2026-05-03 10:58:20 -04",
   "compra_segundo": {
-    "price": 634.099,
-    "name": "Shaddaigacc"
+    "price": 634.23,
+    "name": "Nilo_23"
   },
   "venta_maxima": {
-    "price": 631.355,
-    "name": "CriiptoEnergy"
+    "price": 632.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 632.73,
+  "promedio": 633.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
