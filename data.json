@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T15:56:42.513159",
-  "actualizado_vzla": "2026-05-03 11:56:42 -04",
+  "timestamp_utc": "2026-05-03T17:01:25.351965",
+  "actualizado_vzla": "2026-05-03 13:01:25 -04",
   "compra_segundo": {
-    "price": 634.08,
-    "name": "RADIACTIVE"
+    "price": 634.29,
+    "name": "cfracachan"
   },
   "venta_maxima": {
-    "price": 633.001,
-    "name": "All-inCrypto"
+    "price": 633.11,
+    "name": "FULL-HOUSSE"
   },
-  "promedio": 633.54,
+  "promedio": 633.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
