@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T20:58:53.295271",
-  "actualizado_vzla": "2026-05-03 16:58:53 -04",
+  "timestamp_utc": "2026-05-03T21:55:15.558951",
+  "actualizado_vzla": "2026-05-03 17:55:15 -04",
   "compra_segundo": {
-    "price": 633.799,
-    "name": "TradEr2025_Drjgh"
+    "price": 633.699,
+    "name": "CambiosVlz"
   },
   "venta_maxima": {
-    "price": 632.5,
-    "name": "Blank_Mind"
+    "price": 632.565,
+    "name": "Trust-Broker"
   },
-  "promedio": 633.15,
+  "promedio": 633.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
