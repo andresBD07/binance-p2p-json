@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-04T14:32:34.250513",
-  "actualizado_vzla": "2026-05-04 10:32:34 -04",
+  "timestamp_utc": "2026-05-04T16:20:27.886231",
+  "actualizado_vzla": "2026-05-04 12:20:27 -04",
   "compra_segundo": {
-    "price": 648.9,
-    "name": "ExchangeWOW"
+    "price": 648.2,
+    "name": "-_GRAN_PALOMON_-_"
   },
   "venta_maxima": {
-    "price": 649.0,
-    "name": "Godisgift"
+    "price": 648.5,
+    "name": "TPhillips"
   },
-  "promedio": 648.95,
+  "promedio": 648.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
