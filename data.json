@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-04T16:20:27.886231",
-  "actualizado_vzla": "2026-05-04 12:20:27 -04",
+  "timestamp_utc": "2026-05-04T17:57:58.820849",
+  "actualizado_vzla": "2026-05-04 13:57:58 -04",
   "compra_segundo": {
-    "price": 648.2,
-    "name": "-_GRAN_PALOMON_-_"
+    "price": 647.85,
+    "name": "RJDtrades"
   },
   "venta_maxima": {
-    "price": 648.5,
-    "name": "TPhillips"
+    "price": 648.6,
+    "name": "HAWKEYE-1"
   },
-  "promedio": 648.35,
+  "promedio": 648.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
