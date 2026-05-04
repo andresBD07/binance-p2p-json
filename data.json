@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-03T23:49:54.639538",
-  "actualizado_vzla": "2026-05-03 19:49:54 -04",
+  "timestamp_utc": "2026-05-04T02:07:01.577505",
+  "actualizado_vzla": "2026-05-03 22:07:01 -04",
   "compra_segundo": {
-    "price": 633.49,
-    "name": "zoecambios_21"
+    "price": 633.69,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
-    "price": 632.565,
-    "name": "Trust-Broker"
+    "price": 632.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 633.03,
+  "promedio": 633.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
