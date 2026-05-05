@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-05T00:11:16.925672",
-  "actualizado_vzla": "2026-05-04 20:11:16 -04",
+  "timestamp_utc": "2026-05-05T03:52:06.321609",
+  "actualizado_vzla": "2026-05-04 23:52:06 -04",
   "compra_segundo": {
-    "price": 645.145,
-    "name": "MolinaJP_"
+    "price": 649.766,
+    "name": "UwUHanabiUwU"
   },
   "venta_maxima": {
-    "price": 645.7,
-    "name": "-Isalam-"
+    "price": 647.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 645.42,
+  "promedio": 648.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
