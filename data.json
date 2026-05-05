@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-05T21:10:33.697873",
-  "actualizado_vzla": "2026-05-05 17:10:33 -04",
+  "timestamp_utc": "2026-05-05T22:14:15.627711",
+  "actualizado_vzla": "2026-05-05 18:14:15 -04",
   "compra_segundo": {
     "price": 650.0,
-    "name": "Rapid-Pay-Exchance"
+    "name": "CAMBIOS-BENDECIDOS"
   },
   "venta_maxima": {
-    "price": 649.01,
-    "name": "TOPlevelS"
+    "price": 649.2,
+    "name": "Rapidflorio84"
   },
-  "promedio": 649.5,
+  "promedio": 649.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
