@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-05T22:14:15.627711",
-  "actualizado_vzla": "2026-05-05 18:14:15 -04",
+  "timestamp_utc": "2026-05-05T23:14:19.539363",
+  "actualizado_vzla": "2026-05-05 19:14:19 -04",
   "compra_segundo": {
-    "price": 650.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 650.2,
+    "name": "Servicios-Criptos-27"
   },
   "venta_maxima": {
-    "price": 649.2,
-    "name": "Rapidflorio84"
+    "price": 649.5,
+    "name": "ShadoWM01"
   },
-  "promedio": 649.6,
+  "promedio": 649.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
