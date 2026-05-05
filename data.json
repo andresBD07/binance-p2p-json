@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-05T18:21:04.057232",
-  "actualizado_vzla": "2026-05-05 14:21:04 -04",
+  "timestamp_utc": "2026-05-05T19:56:24.235542",
+  "actualizado_vzla": "2026-05-05 15:56:24 -04",
   "compra_segundo": {
-    "price": 649.9,
-    "name": "Cartacho"
+    "price": 649.3,
+    "name": "GlobalEth"
   },
   "venta_maxima": {
-    "price": 649.0,
-    "name": "-Isalam-"
+    "price": 649.5,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 649.45,
+  "promedio": 649.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
