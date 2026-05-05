@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-05T19:56:24.235542",
-  "actualizado_vzla": "2026-05-05 15:56:24 -04",
+  "timestamp_utc": "2026-05-05T21:10:33.697873",
+  "actualizado_vzla": "2026-05-05 17:10:33 -04",
   "compra_segundo": {
-    "price": 649.3,
-    "name": "GlobalEth"
+    "price": 650.0,
+    "name": "Rapid-Pay-Exchance"
   },
   "venta_maxima": {
-    "price": 649.5,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 649.01,
+    "name": "TOPlevelS"
   },
-  "promedio": 649.4,
+  "promedio": 649.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
