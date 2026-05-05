@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-05T03:52:06.321609",
-  "actualizado_vzla": "2026-05-04 23:52:06 -04",
+  "timestamp_utc": "2026-05-05T06:13:54.023845",
+  "actualizado_vzla": "2026-05-05 02:13:54 -04",
   "compra_segundo": {
-    "price": 649.766,
-    "name": "UwUHanabiUwU"
+    "price": 651.7,
+    "name": "VISÓN CRIPTØ"
   },
   "venta_maxima": {
     "price": 647.0,
-    "name": "Trust-Broker"
+    "name": "-Isalam-"
   },
-  "promedio": 648.38,
+  "promedio": 649.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
