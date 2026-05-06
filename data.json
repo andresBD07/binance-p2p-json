@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T15:36:28.754204",
-  "actualizado_vzla": "2026-05-06 11:36:28 -04",
+  "timestamp_utc": "2026-05-06T17:12:44.956897",
+  "actualizado_vzla": "2026-05-06 13:12:44 -04",
   "compra_segundo": {
-    "price": 651.9,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 653.999,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 653.15,
+    "price": 653.05,
     "name": "Rapidflorio84"
   },
-  "promedio": 652.52,
+  "promedio": 653.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
