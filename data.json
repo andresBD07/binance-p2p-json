@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T09:12:37.331668",
-  "actualizado_vzla": "2026-05-06 05:12:37 -04",
+  "timestamp_utc": "2026-05-06T11:22:04.754601",
+  "actualizado_vzla": "2026-05-06 07:22:04 -04",
   "compra_segundo": {
-    "price": 653.0,
-    "name": "intercambiosRodríguez "
+    "price": 651.888,
+    "name": "Alejandra-0810"
   },
   "venta_maxima": {
-    "price": 649.0,
-    "name": "ZoeTrades"
+    "price": 649.2,
+    "name": "chango_pay"
   },
-  "promedio": 651.0,
+  "promedio": 650.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
