@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T00:08:35.796061",
-  "actualizado_vzla": "2026-05-05 20:08:35 -04",
+  "timestamp_utc": "2026-05-06T04:05:42.428172",
+  "actualizado_vzla": "2026-05-06 00:05:42 -04",
   "compra_segundo": {
-    "price": 651.5,
-    "name": "Inv销售"
+    "price": 652.8,
+    "name": "Triple_Crown"
   },
   "venta_maxima": {
-    "price": 650.001,
-    "name": "-Tyrion-Lannister-"
+    "price": 650.3,
+    "name": "CoorpLogistic"
   },
-  "promedio": 650.75,
+  "promedio": 651.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
