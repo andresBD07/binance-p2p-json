@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T21:47:19.599654",
-  "actualizado_vzla": "2026-05-06 17:47:19 -04",
+  "timestamp_utc": "2026-05-06T22:36:09.895491",
+  "actualizado_vzla": "2026-05-06 18:36:09 -04",
   "compra_segundo": {
-    "price": 659.99,
-    "name": "lab1721"
+    "price": 659.0,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "-Isalam-"
+    "price": 659.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 660.0,
+  "promedio": 659.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
