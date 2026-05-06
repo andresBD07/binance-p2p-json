@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T22:36:09.895491",
-  "actualizado_vzla": "2026-05-06 18:36:09 -04",
+  "timestamp_utc": "2026-05-06T23:34:14.696167",
+  "actualizado_vzla": "2026-05-06 19:34:14 -04",
   "compra_segundo": {
-    "price": 659.0,
-    "name": "POCHOLINBA"
+    "price": 658.999,
+    "name": "CRIPTOPARK"
   },
   "venta_maxima": {
-    "price": 659.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 660.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 659.0,
+  "promedio": 659.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
