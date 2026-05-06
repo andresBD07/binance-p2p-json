@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T17:12:44.956897",
-  "actualizado_vzla": "2026-05-06 13:12:44 -04",
+  "timestamp_utc": "2026-05-06T19:02:28.558718",
+  "actualizado_vzla": "2026-05-06 15:02:28 -04",
   "compra_segundo": {
-    "price": 653.999,
-    "name": "TradEr2025_Drjgh"
+    "price": 655.0,
+    "name": "汉JL DIGITAL SPA汉"
   },
   "venta_maxima": {
-    "price": 653.05,
-    "name": "Rapidflorio84"
+    "price": 654.5,
+    "name": "-Zeratul-"
   },
-  "promedio": 653.52,
+  "promedio": 654.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
