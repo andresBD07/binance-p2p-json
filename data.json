@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-06T19:02:28.558718",
-  "actualizado_vzla": "2026-05-06 15:02:28 -04",
+  "timestamp_utc": "2026-05-06T20:43:33.399714",
+  "actualizado_vzla": "2026-05-06 16:43:33 -04",
   "compra_segundo": {
-    "price": 655.0,
-    "name": "汉JL DIGITAL SPA汉"
+    "price": 656.5,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 654.5,
-    "name": "-Zeratul-"
+    "price": 658.07,
+    "name": "Rapidflorio84"
   },
-  "promedio": 654.75,
+  "promedio": 657.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
