@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-07T04:54:36.620896",
-  "actualizado_vzla": "2026-05-07 00:54:36 -04",
+  "timestamp_utc": "2026-05-07T07:44:17.857855",
+  "actualizado_vzla": "2026-05-07 03:44:17 -04",
   "compra_segundo": {
-    "price": 662.745,
-    "name": "AGSC-SUPREME"
+    "price": 663.299,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
-    "price": 660.0,
-    "name": "貝斯韋"
+    "price": 659.0,
+    "name": "VenSniper"
   },
-  "promedio": 661.37,
+  "promedio": 661.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
