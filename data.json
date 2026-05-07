@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-07T12:12:17.372104",
-  "actualizado_vzla": "2026-05-07 08:12:17 -04",
+  "timestamp_utc": "2026-05-07T15:06:06.093069",
+  "actualizado_vzla": "2026-05-07 11:06:06 -04",
   "compra_segundo": {
-    "price": 660.3,
-    "name": "Ebenezer Flash"
+    "price": 656.999,
+    "name": "丹_表达"
   },
   "venta_maxima": {
-    "price": 661.0,
-    "name": "Jin-Woo-Sung"
+    "price": 658.0,
+    "name": "安全与信任"
   },
-  "promedio": 660.65,
+  "promedio": 657.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
