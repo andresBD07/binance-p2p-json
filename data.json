@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-07T10:09:56.440891",
-  "actualizado_vzla": "2026-05-07 06:09:56 -04",
+  "timestamp_utc": "2026-05-07T12:12:17.372104",
+  "actualizado_vzla": "2026-05-07 08:12:17 -04",
   "compra_segundo": {
-    "price": 663.0,
-    "name": "atled"
+    "price": 660.3,
+    "name": "Ebenezer Flash"
   },
   "venta_maxima": {
-    "price": 659.55,
-    "name": "AbyBruce"
+    "price": 661.0,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 661.27,
+  "promedio": 660.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
