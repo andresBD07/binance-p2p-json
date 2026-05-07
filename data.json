@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-05-07T22:38:36.043691",
-  "actualizado_vzla": "2026-05-07 18:38:36 -04",
+  "timestamp_utc": "2026-05-07T23:35:35.506288",
+  "actualizado_vzla": "2026-05-07 19:35:35 -04",
   "compra_segundo": {
-    "price": 656.99,
-    "name": "Razørk"
+    "price": 656.0,
+    "name": "MFM23"
   },
   "venta_maxima": {
-    "price": 657.0,
-    "name": "被放逐的狐狸"
+    "price": 658.0,
+    "name": "TPhillips"
   },
   "promedio": 657.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
