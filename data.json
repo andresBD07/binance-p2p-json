@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T21:18:17.128475",
-  "actualizado_vzla": "2026-05-08 17:18:17 -04",
+  "timestamp_utc": "2026-05-08T22:28:36.652592",
+  "actualizado_vzla": "2026-05-08 18:28:36 -04",
   "compra_segundo": {
-    "price": 651.7,
-    "name": "Songokuu7"
+    "price": 651.499,
+    "name": "lab1721"
   },
   "venta_maxima": {
     "price": 651.5,
     "name": "VERTUOK"
   },
-  "promedio": 651.6,
+  "promedio": 651.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
