@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T08:06:42.938769",
-  "actualizado_vzla": "2026-05-08 04:06:42 -04",
+  "timestamp_utc": "2026-05-08T09:51:38.907891",
+  "actualizado_vzla": "2026-05-08 05:51:38 -04",
   "compra_segundo": {
-    "price": 656.9,
-    "name": "Osu199x"
+    "price": 656.7,
+    "name": "Cambios_fast54"
   },
   "venta_maxima": {
-    "price": 654.1,
-    "name": "SasukeTrader"
+    "price": 653.1,
+    "name": "IMPORTACIONESMUNVE"
   },
-  "promedio": 655.5,
+  "promedio": 654.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
