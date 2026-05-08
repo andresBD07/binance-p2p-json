@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T22:28:36.652592",
-  "actualizado_vzla": "2026-05-08 18:28:36 -04",
+  "timestamp_utc": "2026-05-08T23:31:45.751159",
+  "actualizado_vzla": "2026-05-08 19:31:45 -04",
   "compra_segundo": {
-    "price": 651.499,
-    "name": "lab1721"
+    "price": 651.8,
+    "name": "丹_表达"
   },
   "venta_maxima": {
-    "price": 651.5,
-    "name": "VERTUOK"
+    "price": 653.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 651.5,
+  "promedio": 652.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
