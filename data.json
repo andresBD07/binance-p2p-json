@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T14:27:29.796791",
-  "actualizado_vzla": "2026-05-08 10:27:29 -04",
+  "timestamp_utc": "2026-05-08T15:59:58.639735",
+  "actualizado_vzla": "2026-05-08 11:59:58 -04",
   "compra_segundo": {
-    "price": 652.996,
-    "name": "DS-Law"
+    "price": 648.887,
+    "name": "Vessa"
   },
   "venta_maxima": {
-    "price": 652.0,
-    "name": "SasukeTrader"
+    "price": 650.0,
+    "name": "-Isalam-"
   },
-  "promedio": 652.5,
+  "promedio": 649.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
