@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T09:51:38.907891",
-  "actualizado_vzla": "2026-05-08 05:51:38 -04",
+  "timestamp_utc": "2026-05-08T11:11:28.190353",
+  "actualizado_vzla": "2026-05-08 07:11:28 -04",
   "compra_segundo": {
-    "price": 656.7,
-    "name": "Cambios_fast54"
+    "price": 655.998,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 653.1,
-    "name": "IMPORTACIONESMUNVE"
+    "price": 654.0,
+    "name": "GoldenLion_"
   },
-  "promedio": 654.9,
+  "promedio": 655.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
