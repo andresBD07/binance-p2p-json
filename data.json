@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T18:57:56.326031",
-  "actualizado_vzla": "2026-05-08 14:57:56 -04",
+  "timestamp_utc": "2026-05-08T20:12:41.865877",
+  "actualizado_vzla": "2026-05-08 16:12:41 -04",
   "compra_segundo": {
-    "price": 652.5,
-    "name": "PrimeCripto"
+    "price": 652.399,
+    "name": "tovir2572"
   },
   "venta_maxima": {
     "price": 653.0,
-    "name": "Tej_raskon"
+    "name": "-Isalam-"
   },
-  "promedio": 652.75,
+  "promedio": 652.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
