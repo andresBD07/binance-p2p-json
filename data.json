@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T20:12:41.865877",
-  "actualizado_vzla": "2026-05-08 16:12:41 -04",
+  "timestamp_utc": "2026-05-08T21:18:17.128475",
+  "actualizado_vzla": "2026-05-08 17:18:17 -04",
   "compra_segundo": {
-    "price": 652.399,
-    "name": "tovir2572"
+    "price": 651.7,
+    "name": "Songokuu7"
   },
   "venta_maxima": {
-    "price": 653.0,
-    "name": "-Isalam-"
+    "price": 651.5,
+    "name": "VERTUOK"
   },
-  "promedio": 652.7,
+  "promedio": 651.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
