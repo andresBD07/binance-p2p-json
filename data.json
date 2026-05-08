@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T04:38:19.085289",
-  "actualizado_vzla": "2026-05-08 00:38:19 -04",
+  "timestamp_utc": "2026-05-08T06:21:37.536782",
+  "actualizado_vzla": "2026-05-08 02:21:37 -04",
   "compra_segundo": {
-    "price": 656.699,
-    "name": "Abi_Cambios"
+    "price": 656.99,
+    "name": "LeNary-"
   },
   "venta_maxima": {
-    "price": 653.5,
-    "name": "CambiofacilDB"
+    "price": 654.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 655.1,
+  "promedio": 655.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
