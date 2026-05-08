@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-08T15:59:58.639735",
-  "actualizado_vzla": "2026-05-08 11:59:58 -04",
+  "timestamp_utc": "2026-05-08T17:41:16.520555",
+  "actualizado_vzla": "2026-05-08 13:41:16 -04",
   "compra_segundo": {
-    "price": 648.887,
-    "name": "Vessa"
+    "price": 651.0,
+    "name": "DMCambio2"
   },
   "venta_maxima": {
-    "price": 650.0,
-    "name": "-Isalam-"
+    "price": 652.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 649.44,
+  "promedio": 651.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
