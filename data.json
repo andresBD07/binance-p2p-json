@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T13:46:35.818351",
-  "actualizado_vzla": "2026-05-09 09:46:35 -04",
+  "timestamp_utc": "2026-05-09T14:40:44.052541",
+  "actualizado_vzla": "2026-05-09 10:40:44 -04",
   "compra_segundo": {
-    "price": 651.85,
-    "name": "CAMBIOS-SERVICIOS-ED"
+    "price": 651.4,
+    "name": "yosbth"
   },
   "venta_maxima": {
-    "price": 652.1,
-    "name": "Arjet_Trading"
+    "price": 651.937,
+    "name": "Blank_Mind"
   },
-  "promedio": 651.98,
+  "promedio": 651.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
