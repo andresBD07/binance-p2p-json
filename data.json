@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T16:35:02.036954",
-  "actualizado_vzla": "2026-05-09 12:35:02 -04",
+  "timestamp_utc": "2026-05-09T17:35:12.411712",
+  "actualizado_vzla": "2026-05-09 13:35:12 -04",
   "compra_segundo": {
-    "price": 651.299,
-    "name": "Cambiosuramerica"
+    "price": 651.84,
+    "name": "AvaStark"
   },
   "venta_maxima": {
-    "price": 652.0,
+    "price": 653.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 651.65,
+  "promedio": 652.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
