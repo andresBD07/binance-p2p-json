@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T01:19:20.746885",
-  "actualizado_vzla": "2026-05-08 21:19:20 -04",
+  "timestamp_utc": "2026-05-09T04:41:18.556893",
+  "actualizado_vzla": "2026-05-09 00:41:18 -04",
   "compra_segundo": {
-    "price": 652.99,
-    "name": "CambiosFlassh"
+    "price": 653.799,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 652.5,
-    "name": "TOPlevelS"
+    "price": 652.0,
+    "name": "AJ-Cambios"
   },
-  "promedio": 652.75,
+  "promedio": 652.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
