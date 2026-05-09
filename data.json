@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T04:41:18.556893",
-  "actualizado_vzla": "2026-05-09 00:41:18 -04",
+  "timestamp_utc": "2026-05-09T06:58:28.003284",
+  "actualizado_vzla": "2026-05-09 02:58:28 -04",
   "compra_segundo": {
-    "price": 653.799,
-    "name": "Abi_Cambios"
+    "price": 653.997,
+    "name": "EXITOSOS2025"
   },
   "venta_maxima": {
-    "price": 652.0,
-    "name": "AJ-Cambios"
+    "price": 651.2,
+    "name": "walner17"
   },
-  "promedio": 652.9,
+  "promedio": 652.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
