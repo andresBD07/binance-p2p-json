@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T15:36:59.243504",
-  "actualizado_vzla": "2026-05-09 11:36:59 -04",
+  "timestamp_utc": "2026-05-09T16:35:02.036954",
+  "actualizado_vzla": "2026-05-09 12:35:02 -04",
   "compra_segundo": {
-    "price": 651.25,
-    "name": "SouthCL"
+    "price": 651.299,
+    "name": "Cambiosuramerica"
   },
   "venta_maxima": {
-    "price": 659.6,
-    "name": "JPapaupa_Trader"
+    "price": 652.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 655.42,
+  "promedio": 651.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
