@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T06:58:28.003284",
-  "actualizado_vzla": "2026-05-09 02:58:28 -04",
+  "timestamp_utc": "2026-05-09T08:47:28.346333",
+  "actualizado_vzla": "2026-05-09 04:47:28 -04",
   "compra_segundo": {
-    "price": 653.997,
-    "name": "EXITOSOS2025"
+    "price": 654.0,
+    "name": "maxstreaming"
   },
   "venta_maxima": {
-    "price": 651.2,
-    "name": "walner17"
+    "price": 651.091,
+    "name": "Fenixfortrade"
   },
-  "promedio": 652.6,
+  "promedio": 652.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
