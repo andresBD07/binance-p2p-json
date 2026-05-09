@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T08:47:28.346333",
-  "actualizado_vzla": "2026-05-09 04:47:28 -04",
+  "timestamp_utc": "2026-05-09T09:57:51.846531",
+  "actualizado_vzla": "2026-05-09 05:57:51 -04",
   "compra_segundo": {
-    "price": 654.0,
-    "name": "maxstreaming"
+    "price": 653.888,
+    "name": "Theking_11"
   },
   "venta_maxima": {
-    "price": 651.091,
-    "name": "Fenixfortrade"
+    "price": 651.6,
+    "name": "famerica"
   },
-  "promedio": 652.55,
+  "promedio": 652.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
