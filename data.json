@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T14:40:44.052541",
-  "actualizado_vzla": "2026-05-09 10:40:44 -04",
+  "timestamp_utc": "2026-05-09T15:36:59.243504",
+  "actualizado_vzla": "2026-05-09 11:36:59 -04",
   "compra_segundo": {
-    "price": 651.4,
-    "name": "yosbth"
+    "price": 651.25,
+    "name": "SouthCL"
   },
   "venta_maxima": {
-    "price": 651.937,
-    "name": "Blank_Mind"
+    "price": 659.6,
+    "name": "JPapaupa_Trader"
   },
-  "promedio": 651.67,
+  "promedio": 655.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
