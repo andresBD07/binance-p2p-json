@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T22:09:53.534345",
-  "actualizado_vzla": "2026-05-09 18:09:53 -04",
+  "timestamp_utc": "2026-05-09T23:06:57.526447",
+  "actualizado_vzla": "2026-05-09 19:06:57 -04",
   "compra_segundo": {
-    "price": 652.29,
-    "name": "FRANFLASH8"
+    "price": 652.7,
+    "name": "ROMIQ"
   },
   "venta_maxima": {
-    "price": 655.5,
-    "name": "CambiosEl"
+    "price": 655.0,
+    "name": "CCST"
   },
-  "promedio": 653.89,
+  "promedio": 653.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
