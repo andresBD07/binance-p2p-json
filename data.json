@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T19:44:31.114345",
-  "actualizado_vzla": "2026-05-09 15:44:31 -04",
+  "timestamp_utc": "2026-05-09T20:29:50.076057",
+  "actualizado_vzla": "2026-05-09 16:29:50 -04",
   "compra_segundo": {
-    "price": 652.0,
-    "name": "CashFlash_TM"
+    "price": 651.999,
+    "name": "Idaniap2p"
   },
   "venta_maxima": {
-    "price": 653.0,
-    "name": "Godisgift"
+    "price": 653.5,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 652.5,
+  "promedio": 652.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
