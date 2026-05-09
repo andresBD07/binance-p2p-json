@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T09:57:51.846531",
-  "actualizado_vzla": "2026-05-09 05:57:51 -04",
+  "timestamp_utc": "2026-05-09T11:06:01.417731",
+  "actualizado_vzla": "2026-05-09 07:06:01 -04",
   "compra_segundo": {
-    "price": 653.888,
-    "name": "Theking_11"
+    "price": 653.289,
+    "name": "D-zta"
   },
   "venta_maxima": {
-    "price": 651.6,
-    "name": "famerica"
+    "price": 651.0,
+    "name": "cambioson"
   },
-  "promedio": 652.74,
+  "promedio": 652.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
