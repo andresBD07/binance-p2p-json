@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T21:25:21.924009",
-  "actualizado_vzla": "2026-05-09 17:25:21 -04",
+  "timestamp_utc": "2026-05-09T22:09:53.534345",
+  "actualizado_vzla": "2026-05-09 18:09:53 -04",
   "compra_segundo": {
-    "price": 652.18,
-    "name": "criss35"
+    "price": 652.29,
+    "name": "FRANFLASH8"
   },
   "venta_maxima": {
-    "price": 654.5,
-    "name": "Godisgift"
+    "price": 655.5,
+    "name": "CambiosEl"
   },
-  "promedio": 653.34,
+  "promedio": 653.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
