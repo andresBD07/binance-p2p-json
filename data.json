@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T11:59:47.854827",
-  "actualizado_vzla": "2026-05-09 07:59:47 -04",
+  "timestamp_utc": "2026-05-09T13:46:35.818351",
+  "actualizado_vzla": "2026-05-09 09:46:35 -04",
   "compra_segundo": {
-    "price": 653.0,
-    "name": "Exchange-joelacho19D"
+    "price": 651.85,
+    "name": "CAMBIOS-SERVICIOS-ED"
   },
   "venta_maxima": {
-    "price": 651.5,
-    "name": "TOPlevelS"
+    "price": 652.1,
+    "name": "Arjet_Trading"
   },
-  "promedio": 652.25,
+  "promedio": 651.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
