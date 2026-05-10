@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T19:32:38.071034",
-  "actualizado_vzla": "2026-05-10 15:32:38 -04",
+  "timestamp_utc": "2026-05-10T20:25:23.527569",
+  "actualizado_vzla": "2026-05-10 16:25:23 -04",
   "compra_segundo": {
-    "price": 652.8,
-    "name": "FC7_Trader"
+    "price": 652.884,
+    "name": "ACEORO"
   },
   "venta_maxima": {
     "price": 655.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 653.9,
+  "promedio": 653.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
