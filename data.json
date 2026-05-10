@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T06:45:53.030857",
-  "actualizado_vzla": "2026-05-10 02:45:53 -04",
+  "timestamp_utc": "2026-05-10T08:46:44.385993",
+  "actualizado_vzla": "2026-05-10 04:46:44 -04",
   "compra_segundo": {
-    "price": 653.994,
-    "name": "Elio"
+    "price": 654.45,
+    "name": "NimaX-64"
   },
   "venta_maxima": {
-    "price": 652.0,
-    "name": "mundo-cripto"
+    "price": 651.2,
+    "name": "ArepaConCafe"
   },
-  "promedio": 653.0,
+  "promedio": 652.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
