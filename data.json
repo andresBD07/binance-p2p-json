@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T08:46:44.385993",
-  "actualizado_vzla": "2026-05-10 04:46:44 -04",
+  "timestamp_utc": "2026-05-10T10:03:13.485733",
+  "actualizado_vzla": "2026-05-10 06:03:13 -04",
   "compra_segundo": {
-    "price": 654.45,
-    "name": "NimaX-64"
+    "price": 653.99,
+    "name": "Classy_cripto"
   },
   "venta_maxima": {
-    "price": 651.2,
-    "name": "ArepaConCafe"
+    "price": 651.21,
+    "name": "Invcaf"
   },
-  "promedio": 652.83,
+  "promedio": 652.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
