@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T17:08:42.017362",
-  "actualizado_vzla": "2026-05-10 13:08:42 -04",
+  "timestamp_utc": "2026-05-10T18:06:06.264055",
+  "actualizado_vzla": "2026-05-10 14:06:06 -04",
   "compra_segundo": {
-    "price": 651.9,
-    "name": "MeridaD_Dunbroch"
+    "price": 652.2,
+    "name": "Rapid-Pay-Exchance"
   },
   "venta_maxima": {
     "price": 655.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 653.45,
+  "promedio": 653.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
