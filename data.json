@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T14:57:31.383345",
-  "actualizado_vzla": "2026-05-10 10:57:31 -04",
+  "timestamp_utc": "2026-05-10T16:02:00.371688",
+  "actualizado_vzla": "2026-05-10 12:02:00 -04",
   "compra_segundo": {
-    "price": 651.87,
-    "name": "Girasolee"
+    "price": 651.9,
+    "name": "CambiosDeLaVega"
   },
   "venta_maxima": {
-    "price": 652.7,
-    "name": "TPhillips"
+    "price": 654.0,
+    "name": "安全与信任"
   },
-  "promedio": 652.29,
+  "promedio": 652.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
