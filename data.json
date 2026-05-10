@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T22:24:07.241104",
-  "actualizado_vzla": "2026-05-10 18:24:07 -04",
+  "timestamp_utc": "2026-05-10T23:27:17.222257",
+  "actualizado_vzla": "2026-05-10 19:27:17 -04",
   "compra_segundo": {
-    "price": 654.45,
-    "name": "EnLineaPagoRapido"
+    "price": 655.2,
+    "name": "CambiosVlz"
   },
   "venta_maxima": {
     "price": 655.04,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 654.75,
+  "promedio": 655.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
