@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T00:03:23.180357",
-  "actualizado_vzla": "2026-05-09 20:03:23 -04",
+  "timestamp_utc": "2026-05-10T04:11:05.948980",
+  "actualizado_vzla": "2026-05-10 00:11:05 -04",
   "compra_segundo": {
-    "price": 652.1,
-    "name": "CriptradeAEMS"
+    "price": 653.9,
+    "name": "HijoDeLaViuda_Trader"
   },
   "venta_maxima": {
-    "price": 655.105,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 653.15,
+    "name": "Manda2-"
   },
-  "promedio": 653.6,
+  "promedio": 653.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
