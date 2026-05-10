@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T11:11:53.273445",
-  "actualizado_vzla": "2026-05-10 07:11:53 -04",
+  "timestamp_utc": "2026-05-10T12:05:34.114038",
+  "actualizado_vzla": "2026-05-10 08:05:34 -04",
   "compra_segundo": {
-    "price": 653.85,
-    "name": "Zeta_Cripto"
+    "price": 653.4,
+    "name": "TelecambioVE"
   },
   "venta_maxima": {
-    "price": 651.5,
-    "name": "mundo-cripto"
+    "price": 652.1,
+    "name": "Zuko02"
   },
-  "promedio": 652.67,
+  "promedio": 652.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
