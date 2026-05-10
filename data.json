@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T04:11:05.948980",
-  "actualizado_vzla": "2026-05-10 00:11:05 -04",
+  "timestamp_utc": "2026-05-10T06:45:53.030857",
+  "actualizado_vzla": "2026-05-10 02:45:53 -04",
   "compra_segundo": {
-    "price": 653.9,
-    "name": "HijoDeLaViuda_Trader"
+    "price": 653.994,
+    "name": "Elio"
   },
   "venta_maxima": {
-    "price": 653.15,
-    "name": "Manda2-"
+    "price": 652.0,
+    "name": "mundo-cripto"
   },
-  "promedio": 653.52,
+  "promedio": 653.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
