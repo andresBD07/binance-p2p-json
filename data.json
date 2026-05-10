@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-09T23:06:57.526447",
-  "actualizado_vzla": "2026-05-09 19:06:57 -04",
+  "timestamp_utc": "2026-05-10T00:03:23.180357",
+  "actualizado_vzla": "2026-05-09 20:03:23 -04",
   "compra_segundo": {
-    "price": 652.7,
-    "name": "ROMIQ"
+    "price": 652.1,
+    "name": "CriptradeAEMS"
   },
   "venta_maxima": {
-    "price": 655.0,
-    "name": "CCST"
+    "price": 655.105,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 653.85,
+  "promedio": 653.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
