@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T16:02:00.371688",
-  "actualizado_vzla": "2026-05-10 12:02:00 -04",
+  "timestamp_utc": "2026-05-10T17:08:42.017362",
+  "actualizado_vzla": "2026-05-10 13:08:42 -04",
   "compra_segundo": {
     "price": 651.9,
-    "name": "CambiosDeLaVega"
+    "name": "MeridaD_Dunbroch"
   },
   "venta_maxima": {
-    "price": 654.0,
-    "name": "安全与信任"
+    "price": 655.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 652.95,
+  "promedio": 653.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
