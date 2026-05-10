@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T13:54:18.075875",
-  "actualizado_vzla": "2026-05-10 09:54:18 -04",
+  "timestamp_utc": "2026-05-10T14:57:31.383345",
+  "actualizado_vzla": "2026-05-10 10:57:31 -04",
   "compra_segundo": {
-    "price": 652.0,
-    "name": "JP-Services"
+    "price": 651.87,
+    "name": "Girasolee"
   },
   "venta_maxima": {
-    "price": 652.0,
-    "name": "-Tyrion-Lannister-"
+    "price": 652.7,
+    "name": "TPhillips"
   },
-  "promedio": 652.0,
+  "promedio": 652.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
