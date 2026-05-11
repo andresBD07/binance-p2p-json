@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T22:13:15.914652",
-  "actualizado_vzla": "2026-05-11 18:13:15 -04",
+  "timestamp_utc": "2026-05-11T23:13:58.642505",
+  "actualizado_vzla": "2026-05-11 19:13:58 -04",
   "compra_segundo": {
-    "price": 670.0,
-    "name": "Spiderman_777"
+    "price": 671.49,
+    "name": "Diego"
   },
   "venta_maxima": {
-    "price": 673.0,
-    "name": "Biyt"
+    "price": 670.1,
+    "name": "Huayin-cheng"
   },
-  "promedio": 671.5,
+  "promedio": 670.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
