@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T17:13:45.241044",
-  "actualizado_vzla": "2026-05-11 13:13:45 -04",
+  "timestamp_utc": "2026-05-11T19:13:10.777516",
+  "actualizado_vzla": "2026-05-11 15:13:10 -04",
   "compra_segundo": {
-    "price": 661.0,
-    "name": "jmas"
+    "price": 667.0,
+    "name": "REFVEP"
   },
   "venta_maxima": {
-    "price": 663.1,
-    "name": "QueRapido"
+    "price": 668.0,
+    "name": "Biyt"
   },
-  "promedio": 662.05,
+  "promedio": 667.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
