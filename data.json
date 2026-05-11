@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T05:38:31.841690",
-  "actualizado_vzla": "2026-05-11 01:38:31 -04",
+  "timestamp_utc": "2026-05-11T08:46:47.562971",
+  "actualizado_vzla": "2026-05-11 04:46:47 -04",
   "compra_segundo": {
-    "price": 657.859,
-    "name": "Drizzt_D"
+    "price": 657.979,
+    "name": "Classy_cripto"
   },
   "venta_maxima": {
-    "price": 654.5,
-    "name": "MaxuelTrader"
+    "price": 653.1,
+    "name": "ProfitMode_10"
   },
-  "promedio": 656.18,
+  "promedio": 655.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
