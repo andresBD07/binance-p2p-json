@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T08:46:47.562971",
-  "actualizado_vzla": "2026-05-11 04:46:47 -04",
+  "timestamp_utc": "2026-05-11T11:51:38.160549",
+  "actualizado_vzla": "2026-05-11 07:51:38 -04",
   "compra_segundo": {
-    "price": 657.979,
-    "name": "Classy_cripto"
+    "price": 657.0,
+    "name": "CambiofacilDB"
   },
   "venta_maxima": {
-    "price": 653.1,
-    "name": "ProfitMode_10"
+    "price": 656.06,
+    "name": "Extranjero"
   },
-  "promedio": 655.54,
+  "promedio": 656.53,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
