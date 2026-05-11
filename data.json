@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T01:25:37.757571",
-  "actualizado_vzla": "2026-05-10 21:25:37 -04",
+  "timestamp_utc": "2026-05-11T05:38:31.841690",
+  "actualizado_vzla": "2026-05-11 01:38:31 -04",
   "compra_segundo": {
-    "price": 656.2,
-    "name": "ECCRIPTOS"
+    "price": 657.859,
+    "name": "Drizzt_D"
   },
   "venta_maxima": {
-    "price": 656.0,
-    "name": "Trust-Broker"
+    "price": 654.5,
+    "name": "MaxuelTrader"
   },
-  "promedio": 656.1,
+  "promedio": 656.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
