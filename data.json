@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-10T23:27:17.222257",
-  "actualizado_vzla": "2026-05-10 19:27:17 -04",
+  "timestamp_utc": "2026-05-11T01:25:37.757571",
+  "actualizado_vzla": "2026-05-10 21:25:37 -04",
   "compra_segundo": {
-    "price": 655.2,
-    "name": "CambiosVlz"
+    "price": 656.2,
+    "name": "ECCRIPTOS"
   },
   "venta_maxima": {
-    "price": 655.04,
-    "name": "CriptoseguroAyM"
+    "price": 656.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 655.12,
+  "promedio": 656.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
