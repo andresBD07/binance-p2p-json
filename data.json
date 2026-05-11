@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T14:44:08.524087",
-  "actualizado_vzla": "2026-05-11 10:44:08 -04",
+  "timestamp_utc": "2026-05-11T17:13:45.241044",
+  "actualizado_vzla": "2026-05-11 13:13:45 -04",
   "compra_segundo": {
-    "price": 658.19,
-    "name": "HarlenCH"
+    "price": 661.0,
+    "name": "jmas"
   },
   "venta_maxima": {
-    "price": 657.2,
-    "name": "Godisgift"
+    "price": 663.1,
+    "name": "QueRapido"
   },
-  "promedio": 657.7,
+  "promedio": 662.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
