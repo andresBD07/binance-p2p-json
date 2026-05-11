@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-11T11:51:38.160549",
-  "actualizado_vzla": "2026-05-11 07:51:38 -04",
+  "timestamp_utc": "2026-05-11T14:44:08.524087",
+  "actualizado_vzla": "2026-05-11 10:44:08 -04",
   "compra_segundo": {
-    "price": 657.0,
-    "name": "CambiofacilDB"
+    "price": 658.19,
+    "name": "HarlenCH"
   },
   "venta_maxima": {
-    "price": 656.06,
-    "name": "Extranjero"
+    "price": 657.2,
+    "name": "Godisgift"
   },
-  "promedio": 656.53,
+  "promedio": 657.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
