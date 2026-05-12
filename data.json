@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-12T22:03:59.040492",
-  "actualizado_vzla": "2026-05-12 18:03:59 -04",
+  "timestamp_utc": "2026-05-12T23:16:43.051338",
+  "actualizado_vzla": "2026-05-12 19:16:43 -04",
   "compra_segundo": {
     "price": 671.0,
-    "name": "SamuraiYJR21"
+    "name": "DOCTOR_CAMBIO"
   },
   "venta_maxima": {
-    "price": 673.0,
-    "name": "安全与信任"
+    "price": 674.0,
+    "name": "LordCambios"
   },
-  "promedio": 672.0,
+  "promedio": 672.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
