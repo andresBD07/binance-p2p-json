@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-12T07:16:02.349206",
-  "actualizado_vzla": "2026-05-12 03:16:02 -04",
+  "timestamp_utc": "2026-05-12T10:01:23.761168",
+  "actualizado_vzla": "2026-05-12 06:01:23 -04",
   "compra_segundo": {
-    "price": 672.5,
-    "name": "读Relojero_Exchang音"
+    "price": 672.3,
+    "name": "agunvar1"
   },
   "venta_maxima": {
-    "price": 668.75,
-    "name": "AJ-Cambios"
+    "price": 668.0,
+    "name": "Burdyn"
   },
-  "promedio": 670.62,
+  "promedio": 670.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
