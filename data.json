@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-05-12T19:07:18.290211",
-  "actualizado_vzla": "2026-05-12 15:07:18 -04",
+  "timestamp_utc": "2026-05-12T20:49:17.396500",
+  "actualizado_vzla": "2026-05-12 16:49:17 -04",
   "compra_segundo": {
-    "price": 670.0,
-    "name": "VJTA"
+    "price": 671.485,
+    "name": "Cripto_FF1"
   },
   "venta_maxima": {
-    "price": 673.0,
-    "name": "安全与信任"
+    "price": 671.505,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
   "promedio": 671.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
