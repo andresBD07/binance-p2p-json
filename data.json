@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-12T10:01:23.761168",
-  "actualizado_vzla": "2026-05-12 06:01:23 -04",
+  "timestamp_utc": "2026-05-12T12:07:49.464621",
+  "actualizado_vzla": "2026-05-12 08:07:49 -04",
   "compra_segundo": {
-    "price": 672.3,
-    "name": "agunvar1"
+    "price": 669.595,
+    "name": "tovir2572"
   },
   "venta_maxima": {
-    "price": 668.0,
-    "name": "Burdyn"
+    "price": 669.0,
+    "name": "VenUSDT_"
   },
-  "promedio": 670.15,
+  "promedio": 669.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
