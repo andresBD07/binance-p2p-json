@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-13T12:24:10.535129",
-  "actualizado_vzla": "2026-05-13 08:24:10 -04",
+  "timestamp_utc": "2026-05-13T15:24:58.898466",
+  "actualizado_vzla": "2026-05-13 11:24:58 -04",
   "compra_segundo": {
-    "price": 669.0,
-    "name": "pankekezz"
+    "price": 675.6,
+    "name": "FREDIIEMERCURY"
   },
   "venta_maxima": {
-    "price": 670.0,
-    "name": "mundo-cripto"
+    "price": 677.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 669.5,
+  "promedio": 676.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
