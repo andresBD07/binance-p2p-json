@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-13T15:24:58.898466",
-  "actualizado_vzla": "2026-05-13 11:24:58 -04",
+  "timestamp_utc": "2026-05-13T17:35:12.224787",
+  "actualizado_vzla": "2026-05-13 13:35:12 -04",
   "compra_segundo": {
-    "price": 675.6,
-    "name": "FREDIIEMERCURY"
+    "price": 673.5,
+    "name": "ElvaronP2P"
   },
   "venta_maxima": {
-    "price": 677.005,
-    "name": "Trust-Broker"
+    "price": 674.0,
+    "name": "安全与信任"
   },
-  "promedio": 676.3,
+  "promedio": 673.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
