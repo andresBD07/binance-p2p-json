@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-13T21:08:13.528221",
-  "actualizado_vzla": "2026-05-13 17:08:13 -04",
+  "timestamp_utc": "2026-05-13T22:38:15.007259",
+  "actualizado_vzla": "2026-05-13 18:38:15 -04",
   "compra_segundo": {
-    "price": 674.42,
-    "name": "Cambioseguros4552"
+    "price": 674.688,
+    "name": "jonathan-2402"
   },
   "venta_maxima": {
-    "price": 674.3,
-    "name": "YKBank"
+    "price": 673.01,
+    "name": "-TSxRV-"
   },
-  "promedio": 674.36,
+  "promedio": 673.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
