@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-13T22:38:15.007259",
-  "actualizado_vzla": "2026-05-13 18:38:15 -04",
+  "timestamp_utc": "2026-05-13T23:42:17.137181",
+  "actualizado_vzla": "2026-05-13 19:42:17 -04",
   "compra_segundo": {
-    "price": 674.688,
-    "name": "jonathan-2402"
+    "price": 674.0,
+    "name": "ALE-CAMBIOS"
   },
   "venta_maxima": {
-    "price": 673.01,
-    "name": "-TSxRV-"
+    "price": 673.5,
+    "name": "Bestseller"
   },
-  "promedio": 673.85,
+  "promedio": 673.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
