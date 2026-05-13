@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-13T07:37:59.194824",
-  "actualizado_vzla": "2026-05-13 03:37:59 -04",
+  "timestamp_utc": "2026-05-13T10:08:02.279073",
+  "actualizado_vzla": "2026-05-13 06:08:02 -04",
   "compra_segundo": {
-    "price": 671.649,
-    "name": "Nauzetj"
+    "price": 670.999,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 666.5,
-    "name": "InvMiggy"
+    "price": 668.0,
+    "name": "LordCambios"
   },
-  "promedio": 669.07,
+  "promedio": 669.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
