@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T19:05:13.310463",
-  "actualizado_vzla": "2026-05-14 15:05:13 -04",
+  "timestamp_utc": "2026-05-14T20:43:46.716427",
+  "actualizado_vzla": "2026-05-14 16:43:46 -04",
   "compra_segundo": {
-    "price": 681.5,
-    "name": "PagoInstantaneoP2P"
+    "price": 683.27,
+    "name": "Jearrioja"
   },
   "venta_maxima": {
-    "price": 680.5,
-    "name": "VenUSDT_"
+    "price": 683.0,
+    "name": "Godisgift"
   },
-  "promedio": 681.0,
+  "promedio": 683.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
