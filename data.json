@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T21:54:57.739984",
-  "actualizado_vzla": "2026-05-14 17:54:57 -04",
+  "timestamp_utc": "2026-05-14T23:02:33.170544",
+  "actualizado_vzla": "2026-05-14 19:02:33 -04",
   "compra_segundo": {
-    "price": 687.0,
-    "name": "heiversuarez"
+    "price": 691.0,
+    "name": "丹_表达"
   },
   "venta_maxima": {
-    "price": 686.3,
-    "name": "VenUSDT_"
+    "price": 690.002,
+    "name": "JLACOIN"
   },
-  "promedio": 686.65,
+  "promedio": 690.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
