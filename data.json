@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T10:37:32.279205",
-  "actualizado_vzla": "2026-05-14 06:37:32 -04",
+  "timestamp_utc": "2026-05-14T12:17:37.157164",
+  "actualizado_vzla": "2026-05-14 08:17:37 -04",
   "compra_segundo": {
-    "price": 675.808,
-    "name": "rParadas"
+    "price": 675.8,
+    "name": "Panchcrito2"
   },
   "venta_maxima": {
-    "price": 674.011,
-    "name": "Theking_11"
+    "price": 674.5,
+    "name": "VenUSDT_"
   },
-  "promedio": 674.91,
+  "promedio": 675.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
