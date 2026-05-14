@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T15:00:51.603724",
-  "actualizado_vzla": "2026-05-14 11:00:51 -04",
+  "timestamp_utc": "2026-05-14T17:06:20.375507",
+  "actualizado_vzla": "2026-05-14 13:06:20 -04",
   "compra_segundo": {
-    "price": 676.15,
-    "name": "Juliojv7"
+    "price": 676.998,
+    "name": "N1-Casa_Cripto-N1"
   },
   "venta_maxima": {
-    "price": 676.01,
-    "name": "-TSxRV-"
+    "price": 762.0,
+    "name": "P2P-ASW"
   },
-  "promedio": 676.08,
+  "promedio": 719.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
