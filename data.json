@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T01:47:29.683732",
-  "actualizado_vzla": "2026-05-13 21:47:29 -04",
+  "timestamp_utc": "2026-05-14T05:36:06.807349",
+  "actualizado_vzla": "2026-05-14 01:36:06 -04",
   "compra_segundo": {
-    "price": 674.999,
-    "name": "GJCB_Trader"
+    "price": 675.978,
+    "name": "XTREME-INVERSIONES"
   },
   "venta_maxima": {
-    "price": 676.0,
-    "name": "OsaMeyi"
+    "price": 674.5,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 675.5,
+  "promedio": 675.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
