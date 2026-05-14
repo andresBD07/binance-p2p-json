@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-13T23:42:17.137181",
-  "actualizado_vzla": "2026-05-13 19:42:17 -04",
+  "timestamp_utc": "2026-05-14T01:47:29.683732",
+  "actualizado_vzla": "2026-05-13 21:47:29 -04",
   "compra_segundo": {
-    "price": 674.0,
-    "name": "ALE-CAMBIOS"
+    "price": 674.999,
+    "name": "GJCB_Trader"
   },
   "venta_maxima": {
-    "price": 673.5,
-    "name": "Bestseller"
+    "price": 676.0,
+    "name": "OsaMeyi"
   },
-  "promedio": 673.75,
+  "promedio": 675.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
