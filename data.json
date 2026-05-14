@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T12:17:37.157164",
-  "actualizado_vzla": "2026-05-14 08:17:37 -04",
+  "timestamp_utc": "2026-05-14T15:00:51.603724",
+  "actualizado_vzla": "2026-05-14 11:00:51 -04",
   "compra_segundo": {
-    "price": 675.8,
-    "name": "Panchcrito2"
+    "price": 676.15,
+    "name": "Juliojv7"
   },
   "venta_maxima": {
-    "price": 674.5,
-    "name": "VenUSDT_"
+    "price": 676.01,
+    "name": "-TSxRV-"
   },
-  "promedio": 675.15,
+  "promedio": 676.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
