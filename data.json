@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-14T08:17:18.559261",
-  "actualizado_vzla": "2026-05-14 04:17:18 -04",
+  "timestamp_utc": "2026-05-14T10:37:32.279205",
+  "actualizado_vzla": "2026-05-14 06:37:32 -04",
   "compra_segundo": {
-    "price": 676.375,
-    "name": "Digitalvimarket"
+    "price": 675.808,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 674.004,
-    "name": "VISÓN CRIPTØ"
+    "price": 674.011,
+    "name": "Theking_11"
   },
-  "promedio": 675.19,
+  "promedio": 674.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
