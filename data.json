@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-15T14:35:46.360573",
-  "actualizado_vzla": "2026-05-15 10:35:46 -04",
+  "timestamp_utc": "2026-05-15T16:24:19.044013",
+  "actualizado_vzla": "2026-05-15 12:24:19 -04",
   "compra_segundo": {
-    "price": 700.8,
-    "name": "Qwer77"
+    "price": 689.798,
+    "name": "LAULAR87"
   },
   "venta_maxima": {
-    "price": 699.8,
-    "name": "梅CityCambio爱"
+    "price": 693.0,
+    "name": "Gustavo129"
   },
-  "promedio": 700.3,
+  "promedio": 691.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
