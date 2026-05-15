@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-15T07:38:45.399797",
-  "actualizado_vzla": "2026-05-15 03:38:45 -04",
+  "timestamp_utc": "2026-05-15T10:06:56.747650",
+  "actualizado_vzla": "2026-05-15 06:06:56 -04",
   "compra_segundo": {
-    "price": 694.999,
-    "name": "wuillou11"
+    "price": 694.0,
+    "name": "Cripto-Mendigo"
   },
   "venta_maxima": {
-    "price": 688.4,
-    "name": "DigitaLevel"
+    "price": 689.01,
+    "name": "Elmanuuu"
   },
-  "promedio": 691.7,
+  "promedio": 691.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
