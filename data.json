@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-15T12:08:26.562750",
-  "actualizado_vzla": "2026-05-15 08:08:26 -04",
+  "timestamp_utc": "2026-05-15T14:35:46.360573",
+  "actualizado_vzla": "2026-05-15 10:35:46 -04",
   "compra_segundo": {
-    "price": 693.6,
-    "name": "Toshiro626"
+    "price": 700.8,
+    "name": "Qwer77"
   },
   "venta_maxima": {
-    "price": 690.5,
-    "name": "被放逐的狐狸"
+    "price": 699.8,
+    "name": "梅CityCambio爱"
   },
-  "promedio": 692.05,
+  "promedio": 700.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
