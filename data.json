@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-15T22:09:28.076849",
-  "actualizado_vzla": "2026-05-15 18:09:28 -04",
+  "timestamp_utc": "2026-05-15T23:12:41.848990",
+  "actualizado_vzla": "2026-05-15 19:12:41 -04",
   "compra_segundo": {
-    "price": 692.4,
-    "name": "EdwardJMT"
+    "price": 692.699,
+    "name": "PERFUMEHOUSE"
   },
   "venta_maxima": {
     "price": 697.0,
     "name": "Blank_Mind"
   },
-  "promedio": 694.7,
+  "promedio": 694.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
