@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T18:11:22.272040",
-  "actualizado_vzla": "2026-05-16 14:11:22 -04",
+  "timestamp_utc": "2026-05-16T19:35:27.233066",
+  "actualizado_vzla": "2026-05-16 15:35:27 -04",
   "compra_segundo": {
-    "price": 697.3,
-    "name": "carlosaladejo"
+    "price": 697.4,
+    "name": "ClickCripve"
   },
   "venta_maxima": {
     "price": 702.0,
     "name": "Blank_Mind"
   },
-  "promedio": 699.65,
+  "promedio": 699.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
