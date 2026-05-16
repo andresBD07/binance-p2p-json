@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T04:03:49.527341",
-  "actualizado_vzla": "2026-05-16 00:03:49 -04",
+  "timestamp_utc": "2026-05-16T06:32:43.674402",
+  "actualizado_vzla": "2026-05-16 02:32:43 -04",
   "compra_segundo": {
-    "price": 695.15,
-    "name": "Bugatti-007"
+    "price": 696.0,
+    "name": "Eldiez10"
   },
   "venta_maxima": {
-    "price": 694.004,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 694.111,
+    "name": "Theking_11"
   },
-  "promedio": 694.58,
+  "promedio": 695.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
