@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T08:26:10.636378",
-  "actualizado_vzla": "2026-05-16 04:26:10 -04",
+  "timestamp_utc": "2026-05-16T10:00:58.333242",
+  "actualizado_vzla": "2026-05-16 06:00:58 -04",
   "compra_segundo": {
-    "price": 696.3,
-    "name": "Burdyn"
+    "price": 695.588,
+    "name": "Capital Bloom"
   },
   "venta_maxima": {
-    "price": 694.111,
+    "price": 693.555,
     "name": "Theking_11"
   },
-  "promedio": 695.21,
+  "promedio": 694.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
