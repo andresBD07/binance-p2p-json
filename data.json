@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T00:10:08.535497",
-  "actualizado_vzla": "2026-05-15 20:10:08 -04",
+  "timestamp_utc": "2026-05-16T04:03:49.527341",
+  "actualizado_vzla": "2026-05-16 00:03:49 -04",
   "compra_segundo": {
-    "price": 691.19,
-    "name": "Sg_Ebenezer"
+    "price": 695.15,
+    "name": "Bugatti-007"
   },
   "venta_maxima": {
-    "price": 698.0,
-    "name": "安全与信任"
+    "price": 694.004,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 694.6,
+  "promedio": 694.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
