@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T12:10:30.380140",
-  "actualizado_vzla": "2026-05-16 08:10:30 -04",
+  "timestamp_utc": "2026-05-16T14:00:53.556426",
+  "actualizado_vzla": "2026-05-16 10:00:53 -04",
   "compra_segundo": {
-    "price": 697.63,
-    "name": "NexusPremiun"
+    "price": 695.9,
+    "name": "Rincon25"
   },
   "venta_maxima": {
-    "price": 696.4,
-    "name": "zoecambios_21"
+    "price": 700.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 697.01,
+  "promedio": 697.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
