@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T10:00:58.333242",
-  "actualizado_vzla": "2026-05-16 06:00:58 -04",
+  "timestamp_utc": "2026-05-16T11:14:42.067314",
+  "actualizado_vzla": "2026-05-16 07:14:42 -04",
   "compra_segundo": {
-    "price": 695.588,
-    "name": "Capital Bloom"
+    "price": 696.0,
+    "name": "CambiosAleman"
   },
   "venta_maxima": {
-    "price": 693.555,
-    "name": "Theking_11"
+    "price": 697.0,
+    "name": "InvMiggy"
   },
-  "promedio": 694.57,
+  "promedio": 696.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
