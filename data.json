@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-16T11:14:42.067314",
-  "actualizado_vzla": "2026-05-16 07:14:42 -04",
+  "timestamp_utc": "2026-05-16T12:10:30.380140",
+  "actualizado_vzla": "2026-05-16 08:10:30 -04",
   "compra_segundo": {
-    "price": 696.0,
-    "name": "CambiosAleman"
+    "price": 697.63,
+    "name": "NexusPremiun"
   },
   "venta_maxima": {
-    "price": 697.0,
-    "name": "InvMiggy"
+    "price": 696.4,
+    "name": "zoecambios_21"
   },
-  "promedio": 696.5,
+  "promedio": 697.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
