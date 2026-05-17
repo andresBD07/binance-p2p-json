@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T12:08:57.524188",
-  "actualizado_vzla": "2026-05-17 08:08:57 -04",
+  "timestamp_utc": "2026-05-17T13:57:35.866345",
+  "actualizado_vzla": "2026-05-17 09:57:35 -04",
   "compra_segundo": {
-    "price": 699.8,
-    "name": "VENTASJM"
+    "price": 702.59,
+    "name": "Tzar25"
   },
   "venta_maxima": {
-    "price": 697.5,
-    "name": "caguy"
+    "price": 704.0,
+    "name": "何塞 路易斯 坩埚"
   },
-  "promedio": 698.65,
+  "promedio": 703.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
