@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T21:35:42.286320",
-  "actualizado_vzla": "2026-05-17 17:35:42 -04",
+  "timestamp_utc": "2026-05-17T22:35:54.727572",
+  "actualizado_vzla": "2026-05-17 18:35:54 -04",
   "compra_segundo": {
-    "price": 715.5,
-    "name": "Seveeen"
+    "price": 712.4,
+    "name": "jaro23"
   },
   "venta_maxima": {
-    "price": 717.0,
+    "price": 715.0,
     "name": "Blank_Mind"
   },
-  "promedio": 716.25,
+  "promedio": 713.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
