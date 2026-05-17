@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T09:56:44.637262",
-  "actualizado_vzla": "2026-05-17 05:56:44 -04",
+  "timestamp_utc": "2026-05-17T11:19:04.999556",
+  "actualizado_vzla": "2026-05-17 07:19:05 -04",
   "compra_segundo": {
-    "price": 699.4,
-    "name": "AlexGrecCambiosyReme"
+    "price": 699.0,
+    "name": "Ayron24"
   },
   "venta_maxima": {
-    "price": 693.2,
-    "name": "Pcambios10"
+    "price": 695.8,
+    "name": "liberorapido369"
   },
-  "promedio": 696.3,
+  "promedio": 697.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
