@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T17:17:48.767536",
-  "actualizado_vzla": "2026-05-17 13:17:48 -04",
+  "timestamp_utc": "2026-05-17T18:14:53.645849",
+  "actualizado_vzla": "2026-05-17 14:14:53 -04",
   "compra_segundo": {
-    "price": 708.68,
-    "name": "kaizenholder"
+    "price": 711.795,
+    "name": "breintrader"
   },
   "venta_maxima": {
-    "price": 709.0,
-    "name": "GoldenLion_"
+    "price": 709.501,
+    "name": "-TSxRV-"
   },
-  "promedio": 708.84,
+  "promedio": 710.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
