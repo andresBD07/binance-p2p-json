@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T05:31:33.324949",
-  "actualizado_vzla": "2026-05-17 01:31:33 -04",
+  "timestamp_utc": "2026-05-17T07:58:26.322310",
+  "actualizado_vzla": "2026-05-17 03:58:26 -04",
   "compra_segundo": {
-    "price": 699.39,
-    "name": "_AltCoinMaster_"
+    "price": 699.5,
+    "name": "CazadorDeBallenas"
   },
   "venta_maxima": {
-    "price": 694.002,
-    "name": "Traderp2pVzla"
+    "price": 694.0,
+    "name": "User-95450"
   },
-  "promedio": 696.7,
+  "promedio": 696.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
