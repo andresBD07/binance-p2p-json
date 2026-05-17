@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T16:11:49.451749",
-  "actualizado_vzla": "2026-05-17 12:11:49 -04",
+  "timestamp_utc": "2026-05-17T17:17:48.767536",
+  "actualizado_vzla": "2026-05-17 13:17:48 -04",
   "compra_segundo": {
-    "price": 704.55,
-    "name": "ALTRIUM"
+    "price": 708.68,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 706.0,
-    "name": "Blank_Mind"
+    "price": 709.0,
+    "name": "GoldenLion_"
   },
-  "promedio": 705.27,
+  "promedio": 708.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
