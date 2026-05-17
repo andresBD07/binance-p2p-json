@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T15:08:29.149755",
-  "actualizado_vzla": "2026-05-17 11:08:29 -04",
+  "timestamp_utc": "2026-05-17T16:11:49.451749",
+  "actualizado_vzla": "2026-05-17 12:11:49 -04",
   "compra_segundo": {
-    "price": 703.295,
-    "name": "chichiwilote"
+    "price": 704.55,
+    "name": "ALTRIUM"
   },
   "venta_maxima": {
-    "price": 704.0,
+    "price": 706.0,
     "name": "Blank_Mind"
   },
-  "promedio": 703.65,
+  "promedio": 705.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
