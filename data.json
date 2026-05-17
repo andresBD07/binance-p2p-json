@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T13:57:35.866345",
-  "actualizado_vzla": "2026-05-17 09:57:35 -04",
+  "timestamp_utc": "2026-05-17T15:08:29.149755",
+  "actualizado_vzla": "2026-05-17 11:08:29 -04",
   "compra_segundo": {
-    "price": 702.59,
-    "name": "Tzar25"
+    "price": 703.295,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
     "price": 704.0,
-    "name": "何塞 路易斯 坩埚"
+    "name": "Blank_Mind"
   },
-  "promedio": 703.3,
+  "promedio": 703.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
