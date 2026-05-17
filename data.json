@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-17T19:40:16.722727",
-  "actualizado_vzla": "2026-05-17 15:40:16 -04",
+  "timestamp_utc": "2026-05-17T20:33:55.355164",
+  "actualizado_vzla": "2026-05-17 16:33:55 -04",
   "compra_segundo": {
-    "price": 713.6,
-    "name": "JR_cryptoxchange"
+    "price": 715.8,
+    "name": "GolDkike"
   },
   "venta_maxima": {
-    "price": 714.0,
-    "name": "Elrapid"
+    "price": 717.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 713.8,
+  "promedio": 716.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
