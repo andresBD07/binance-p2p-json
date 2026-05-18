@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-18T21:54:31.167228",
-  "actualizado_vzla": "2026-05-18 17:54:31 -04",
+  "timestamp_utc": "2026-05-18T23:07:19.943526",
+  "actualizado_vzla": "2026-05-18 19:07:19 -04",
   "compra_segundo": {
-    "price": 727.8,
-    "name": "ELGOCHOXCHANGE31"
+    "price": 726.89,
+    "name": "SCambios"
   },
   "venta_maxima": {
-    "price": 725.31,
-    "name": "securitylc"
+    "price": 724.5,
+    "name": "TheOchoa"
   },
-  "promedio": 726.55,
+  "promedio": 725.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
