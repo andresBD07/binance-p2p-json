@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-18T06:08:29.612610",
-  "actualizado_vzla": "2026-05-18 02:08:29 -04",
+  "timestamp_utc": "2026-05-18T10:40:52.802799",
+  "actualizado_vzla": "2026-05-18 06:40:52 -04",
   "compra_segundo": {
-    "price": 717.5,
-    "name": "HugginsLabsP2P"
+    "price": 715.959,
+    "name": "AlejandrinhoP2P"
   },
   "venta_maxima": {
-    "price": 714.0,
+    "price": 712.015,
     "name": "AbyBruce"
   },
-  "promedio": 715.75,
+  "promedio": 713.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
