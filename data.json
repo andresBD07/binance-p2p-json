@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-18T14:18:50.224257",
-  "actualizado_vzla": "2026-05-18 10:18:50 -04",
+  "timestamp_utc": "2026-05-18T17:14:26.097733",
+  "actualizado_vzla": "2026-05-18 13:14:26 -04",
   "compra_segundo": {
-    "price": 719.4,
-    "name": "TradewCrypto"
+    "price": 731.0,
+    "name": "rausseol"
   },
   "venta_maxima": {
-    "price": 720.0,
-    "name": "Blank_Mind"
+    "price": 730.01,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 719.7,
+  "promedio": 730.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
