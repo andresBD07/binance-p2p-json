@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-18T10:40:52.802799",
-  "actualizado_vzla": "2026-05-18 06:40:52 -04",
+  "timestamp_utc": "2026-05-18T14:18:50.224257",
+  "actualizado_vzla": "2026-05-18 10:18:50 -04",
   "compra_segundo": {
-    "price": 715.959,
-    "name": "AlejandrinhoP2P"
+    "price": 719.4,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 712.015,
-    "name": "AbyBruce"
+    "price": 720.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 713.99,
+  "promedio": 719.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
