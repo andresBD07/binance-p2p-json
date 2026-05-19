@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-19T08:05:44.490091",
-  "actualizado_vzla": "2026-05-19 04:05:44 -04",
+  "timestamp_utc": "2026-05-19T11:31:26.125623",
+  "actualizado_vzla": "2026-05-19 07:31:26 -04",
   "compra_segundo": {
-    "price": 726.0,
-    "name": "BreakStuff"
+    "price": 721.0,
+    "name": "zoecambios_21"
   },
   "venta_maxima": {
-    "price": 721.0,
-    "name": "JordanBelfort-"
+    "price": 730.0,
+    "name": "VortexP2P_Exchange"
   },
-  "promedio": 723.5,
+  "promedio": 725.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
