@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-19T19:23:32.049215",
-  "actualizado_vzla": "2026-05-19 15:23:32 -04",
+  "timestamp_utc": "2026-05-19T21:00:24.561213",
+  "actualizado_vzla": "2026-05-19 17:00:24 -04",
   "compra_segundo": {
-    "price": 712.8,
-    "name": "Trading_professional"
+    "price": 711.99,
+    "name": "Sharkypay"
   },
   "venta_maxima": {
-    "price": 712.8,
-    "name": "VenUSDT_"
+    "price": 711.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 712.8,
+  "promedio": 711.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
