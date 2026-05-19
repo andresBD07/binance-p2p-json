@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-19T00:17:46.425743",
-  "actualizado_vzla": "2026-05-18 20:17:46 -04",
+  "timestamp_utc": "2026-05-19T04:37:40.314783",
+  "actualizado_vzla": "2026-05-19 00:37:40 -04",
   "compra_segundo": {
-    "price": 726.0,
-    "name": "Labubu_96"
+    "price": 725.399,
+    "name": "Orlando_1705"
   },
   "venta_maxima": {
-    "price": 724.5,
-    "name": "TheOchoa"
+    "price": 722.03,
+    "name": "FlashCambiosX"
   },
-  "promedio": 725.25,
+  "promedio": 723.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
