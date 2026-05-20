@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-20T01:49:28.951850",
-  "actualizado_vzla": "2026-05-19 21:49:28 -04",
+  "timestamp_utc": "2026-05-20T05:58:54.836068",
+  "actualizado_vzla": "2026-05-20 01:58:54 -04",
   "compra_segundo": {
-    "price": 703.7,
-    "name": "Yaneht_Elite_Gold"
+    "price": 703.3,
+    "name": "Qwer77"
   },
   "venta_maxima": {
-    "price": 702.03,
-    "name": "FlashCambiosX"
+    "price": 694.35,
+    "name": "TradeMCM "
   },
-  "promedio": 702.87,
+  "promedio": 698.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
