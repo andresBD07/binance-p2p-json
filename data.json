@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-20T12:21:07.764353",
-  "actualizado_vzla": "2026-05-20 08:21:07 -04",
+  "timestamp_utc": "2026-05-20T16:03:44.719105",
+  "actualizado_vzla": "2026-05-20 12:03:44 -04",
   "compra_segundo": {
-    "price": 713.8,
-    "name": "Manda2-"
+    "price": 710.6,
+    "name": "Lmg_traders"
   },
   "venta_maxima": {
-    "price": 710.0,
-    "name": "B-P2P"
+    "price": 709.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 711.9,
+  "promedio": 709.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
