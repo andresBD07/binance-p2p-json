@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-20T22:14:20.170432",
-  "actualizado_vzla": "2026-05-20 18:14:20 -04",
+  "timestamp_utc": "2026-05-20T23:42:08.735757",
+  "actualizado_vzla": "2026-05-20 19:42:08 -04",
   "compra_segundo": {
-    "price": 714.69,
-    "name": "TradEr2025_Drjgh"
+    "price": 715.4,
+    "name": "CriptradeAEMS"
   },
   "venta_maxima": {
-    "price": 712.6,
-    "name": "Rapidflorio84"
+    "price": 715.0,
+    "name": "-Akopan-"
   },
-  "promedio": 713.64,
+  "promedio": 715.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
