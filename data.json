@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-20T20:36:17.854658",
-  "actualizado_vzla": "2026-05-20 16:36:17 -04",
+  "timestamp_utc": "2026-05-20T22:14:20.170432",
+  "actualizado_vzla": "2026-05-20 18:14:20 -04",
   "compra_segundo": {
-    "price": 714.3,
-    "name": "GoiCripto"
+    "price": 714.69,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 713.5,
-    "name": "Gustavo129"
+    "price": 712.6,
+    "name": "Rapidflorio84"
   },
-  "promedio": 713.9,
+  "promedio": 713.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
