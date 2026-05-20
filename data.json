@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-20T16:03:44.719105",
-  "actualizado_vzla": "2026-05-20 12:03:44 -04",
+  "timestamp_utc": "2026-05-20T18:29:04.500714",
+  "actualizado_vzla": "2026-05-20 14:29:04 -04",
   "compra_segundo": {
-    "price": 710.6,
-    "name": "Lmg_traders"
+    "price": 711.8,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 709.005,
-    "name": "Trust-Broker"
+    "price": 711.0,
+    "name": "EduardoNalim38"
   },
-  "promedio": 709.8,
+  "promedio": 711.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
