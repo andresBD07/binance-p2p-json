@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-19T23:39:24.287035",
-  "actualizado_vzla": "2026-05-19 19:39:24 -04",
+  "timestamp_utc": "2026-05-20T01:49:28.951850",
+  "actualizado_vzla": "2026-05-19 21:49:28 -04",
   "compra_segundo": {
-    "price": 706.89,
-    "name": "Betania"
+    "price": 703.7,
+    "name": "Yaneht_Elite_Gold"
   },
   "venta_maxima": {
-    "price": 704.0,
-    "name": "VECTURAFX"
+    "price": 702.03,
+    "name": "FlashCambiosX"
   },
-  "promedio": 705.44,
+  "promedio": 702.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
