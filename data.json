@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-20T05:58:54.836068",
-  "actualizado_vzla": "2026-05-20 01:58:54 -04",
+  "timestamp_utc": "2026-05-20T09:51:36.416535",
+  "actualizado_vzla": "2026-05-20 05:51:36 -04",
   "compra_segundo": {
-    "price": 703.3,
-    "name": "Qwer77"
+    "price": 702.23,
+    "name": "JhonAngTrader-s"
   },
   "venta_maxima": {
-    "price": 694.35,
-    "name": "TradeMCM "
+    "price": 695.5,
+    "name": "EverCryptoUSDT "
   },
-  "promedio": 698.83,
+  "promedio": 698.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
