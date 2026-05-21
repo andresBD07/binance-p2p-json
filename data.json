@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-21T01:48:35.905378",
-  "actualizado_vzla": "2026-05-20 21:48:35 -04",
+  "timestamp_utc": "2026-05-21T06:00:22.927788",
+  "actualizado_vzla": "2026-05-21 02:00:22 -04",
   "compra_segundo": {
-    "price": 715.9,
-    "name": "nene"
+    "price": 716.49,
+    "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
-    "price": 715.5,
-    "name": "-Akopan-"
+    "price": 712.5,
+    "name": "D B Pago Rápido y Seguro"
   },
-  "promedio": 715.7,
+  "promedio": 714.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
