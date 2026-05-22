@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-22T20:05:41.015577",
-  "actualizado_vzla": "2026-05-22 16:05:41 -04",
+  "timestamp_utc": "2026-05-22T21:34:25.669558",
+  "actualizado_vzla": "2026-05-22 17:34:25 -04",
   "compra_segundo": {
-    "price": 720.3,
-    "name": "TeamMillicripto"
+    "price": 720.4,
+    "name": "MUNDOGENIAL"
   },
   "venta_maxima": {
-    "price": 723.052,
-    "name": "STERLING-CAPITAL"
+    "price": 723.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 721.68,
+  "promedio": 721.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
