@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-22T21:34:25.669558",
-  "actualizado_vzla": "2026-05-22 17:34:25 -04",
+  "timestamp_utc": "2026-05-22T22:38:49.730998",
+  "actualizado_vzla": "2026-05-22 18:38:49 -04",
   "compra_segundo": {
-    "price": 720.4,
-    "name": "MUNDOGENIAL"
+    "price": 720.24,
+    "name": "Verocomercio"
   },
   "venta_maxima": {
-    "price": 723.0,
-    "name": "BLACKROCK22"
+    "price": 723.3,
+    "name": "已連接"
   },
-  "promedio": 721.7,
+  "promedio": 721.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
