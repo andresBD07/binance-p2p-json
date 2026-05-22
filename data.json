@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-22T18:04:50.730480",
-  "actualizado_vzla": "2026-05-22 14:04:50 -04",
+  "timestamp_utc": "2026-05-22T20:05:41.015577",
+  "actualizado_vzla": "2026-05-22 16:05:41 -04",
   "compra_segundo": {
-    "price": 713.68,
-    "name": "Traderp2pVzla"
+    "price": 720.3,
+    "name": "TeamMillicripto"
   },
   "venta_maxima": {
-    "price": 718.0,
-    "name": "Ricky_Bobby_"
+    "price": 723.052,
+    "name": "STERLING-CAPITAL"
   },
-  "promedio": 715.84,
+  "promedio": 721.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
