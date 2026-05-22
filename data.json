@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-22T16:08:07.225481",
-  "actualizado_vzla": "2026-05-22 12:08:07 -04",
+  "timestamp_utc": "2026-05-22T18:04:50.730480",
+  "actualizado_vzla": "2026-05-22 14:04:50 -04",
   "compra_segundo": {
-    "price": 714.15,
-    "name": "MangoConAdoboT"
+    "price": 713.68,
+    "name": "Traderp2pVzla"
   },
   "venta_maxima": {
-    "price": 713.801,
-    "name": "فـــــلـــــســـــطــين حرة"
+    "price": 718.0,
+    "name": "Ricky_Bobby_"
   },
-  "promedio": 713.98,
+  "promedio": 715.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
