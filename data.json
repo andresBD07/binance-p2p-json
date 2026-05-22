@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-22T13:38:35.507517",
-  "actualizado_vzla": "2026-05-22 09:38:35 -04",
+  "timestamp_utc": "2026-05-22T16:08:07.225481",
+  "actualizado_vzla": "2026-05-22 12:08:07 -04",
   "compra_segundo": {
-    "price": 713.0,
-    "name": "PROFESlONAL"
+    "price": 714.15,
+    "name": "MangoConAdoboT"
   },
   "venta_maxima": {
-    "price": 712.1,
-    "name": "杰格尔"
+    "price": 713.801,
+    "name": "فـــــلـــــســـــطــين حرة"
   },
-  "promedio": 712.55,
+  "promedio": 713.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
