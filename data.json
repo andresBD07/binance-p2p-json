@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-22T04:39:09.853935",
-  "actualizado_vzla": "2026-05-22 00:39:09 -04",
+  "timestamp_utc": "2026-05-22T08:03:00.968299",
+  "actualizado_vzla": "2026-05-22 04:03:00 -04",
   "compra_segundo": {
-    "price": 715.45,
-    "name": "marote28"
+    "price": 716.0,
+    "name": "Criptohana"
   },
   "venta_maxima": {
-    "price": 712.001,
-    "name": "c_s_"
+    "price": 709.505,
+    "name": "willbyruz"
   },
-  "promedio": 713.73,
+  "promedio": 712.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
