@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-23T07:55:25.942500",
-  "actualizado_vzla": "2026-05-23 03:55:25 -04",
+  "timestamp_utc": "2026-05-23T10:00:54.869137",
+  "actualizado_vzla": "2026-05-23 06:00:54 -04",
   "compra_segundo": {
-    "price": 726.3,
-    "name": "VelkanVe"
+    "price": 726.0,
+    "name": "Fofospress"
   },
   "venta_maxima": {
-    "price": 721.5,
-    "name": "Arjet_Trading"
+    "price": 722.0,
+    "name": "Huayin-cheng"
   },
-  "promedio": 723.9,
+  "promedio": 724.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
