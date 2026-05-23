@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-23T21:01:24.682952",
-  "actualizado_vzla": "2026-05-23 17:01:24 -04",
+  "timestamp_utc": "2026-05-23T22:04:12.848594",
+  "actualizado_vzla": "2026-05-23 18:04:12 -04",
   "compra_segundo": {
-    "price": 723.7,
-    "name": "leotrader0204"
+    "price": 722.8,
+    "name": "TuRemesaInt"
   },
   "venta_maxima": {
-    "price": 725.35,
+    "price": 722.55,
     "name": "GAMBINO-"
   },
-  "promedio": 724.53,
+  "promedio": 722.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
