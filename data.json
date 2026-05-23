@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-23T14:04:13.233028",
-  "actualizado_vzla": "2026-05-23 10:04:13 -04",
+  "timestamp_utc": "2026-05-23T15:17:08.886703",
+  "actualizado_vzla": "2026-05-23 11:17:08 -04",
   "compra_segundo": {
-    "price": 727.0,
-    "name": "TUCAMBIOSEGURO24"
+    "price": 725.898,
+    "name": "LordTUKY"
   },
   "venta_maxima": {
-    "price": 727.5,
+    "price": 730.0,
     "name": "Biyt"
   },
-  "promedio": 727.25,
+  "promedio": 727.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
