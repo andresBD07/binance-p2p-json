@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-23T22:04:12.848594",
-  "actualizado_vzla": "2026-05-23 18:04:12 -04",
+  "timestamp_utc": "2026-05-23T23:09:07.046442",
+  "actualizado_vzla": "2026-05-23 19:09:07 -04",
   "compra_segundo": {
-    "price": 722.8,
-    "name": "TuRemesaInt"
+    "price": 721.196,
+    "name": "NuebotFlash"
   },
   "venta_maxima": {
-    "price": 722.55,
-    "name": "GAMBINO-"
+    "price": 722.7,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 722.67,
+  "promedio": 721.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
