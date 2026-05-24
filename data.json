@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-23T23:09:07.046442",
-  "actualizado_vzla": "2026-05-23 19:09:07 -04",
+  "timestamp_utc": "2026-05-24T00:12:38.698518",
+  "actualizado_vzla": "2026-05-23 20:12:38 -04",
   "compra_segundo": {
-    "price": 721.196,
-    "name": "NuebotFlash"
+    "price": 720.5,
+    "name": "LESJ-27"
   },
   "venta_maxima": {
-    "price": 722.7,
+    "price": 723.0,
     "name": "-Tyrion-Lannister-"
   },
-  "promedio": 721.95,
+  "promedio": 721.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
