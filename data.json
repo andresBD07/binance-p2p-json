@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-24T17:35:15.856091",
-  "actualizado_vzla": "2026-05-24 13:35:15 -04",
+  "timestamp_utc": "2026-05-24T18:46:22.153029",
+  "actualizado_vzla": "2026-05-24 14:46:22 -04",
   "compra_segundo": {
-    "price": 723.18,
-    "name": "-INVERSIONES_JFjr-"
+    "price": 722.9,
+    "name": "alexander08_25"
   },
   "venta_maxima": {
-    "price": 722.001,
-    "name": "-Tyrion-Lannister-"
+    "price": 723.0,
+    "name": "c_s_"
   },
-  "promedio": 722.59,
+  "promedio": 722.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
