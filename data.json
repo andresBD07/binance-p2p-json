@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-24T16:30:16.263357",
-  "actualizado_vzla": "2026-05-24 12:30:16 -04",
+  "timestamp_utc": "2026-05-24T17:35:15.856091",
+  "actualizado_vzla": "2026-05-24 13:35:15 -04",
   "compra_segundo": {
-    "price": 723.69,
-    "name": "AFNP15"
+    "price": 723.18,
+    "name": "-INVERSIONES_JFjr-"
   },
   "venta_maxima": {
-    "price": 722.805,
+    "price": 722.001,
     "name": "-Tyrion-Lannister-"
   },
-  "promedio": 723.25,
+  "promedio": 722.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
