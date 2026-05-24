@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-24T07:42:25.699617",
-  "actualizado_vzla": "2026-05-24 03:42:25 -04",
+  "timestamp_utc": "2026-05-24T09:32:54.713488",
+  "actualizado_vzla": "2026-05-24 05:32:54 -04",
   "compra_segundo": {
-    "price": 725.6,
-    "name": "Ferxxo89"
+    "price": 725.77,
+    "name": "NimaX-64"
   },
   "venta_maxima": {
-    "price": 721.3,
-    "name": "caramedio "
+    "price": 721.4,
+    "name": "zoecambios_21"
   },
-  "promedio": 723.45,
+  "promedio": 723.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
