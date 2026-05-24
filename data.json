@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-24T12:08:31.700651",
-  "actualizado_vzla": "2026-05-24 08:08:31 -04",
+  "timestamp_utc": "2026-05-24T14:00:26.574514",
+  "actualizado_vzla": "2026-05-24 10:00:26 -04",
   "compra_segundo": {
-    "price": 725.4,
-    "name": "Cartacho"
+    "price": 723.39,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 722.6,
-    "name": "Brawcoins"
+    "price": 721.41,
+    "name": "TOPlevelS"
   },
-  "promedio": 724.0,
+  "promedio": 722.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
