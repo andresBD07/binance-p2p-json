@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-24T14:00:26.574514",
-  "actualizado_vzla": "2026-05-24 10:00:26 -04",
+  "timestamp_utc": "2026-05-24T15:17:21.595397",
+  "actualizado_vzla": "2026-05-24 11:17:21 -04",
   "compra_segundo": {
-    "price": 723.39,
-    "name": "AndradeGasconTITULAR"
+    "price": 721.999,
+    "name": "TyroneJosee"
   },
   "venta_maxima": {
-    "price": 721.41,
-    "name": "TOPlevelS"
+    "price": 722.1,
+    "name": "BraVen_Group"
   },
-  "promedio": 722.4,
+  "promedio": 722.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
