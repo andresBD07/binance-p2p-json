@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-24T18:46:22.153029",
-  "actualizado_vzla": "2026-05-24 14:46:22 -04",
+  "timestamp_utc": "2026-05-24T19:56:46.103062",
+  "actualizado_vzla": "2026-05-24 15:56:46 -04",
   "compra_segundo": {
-    "price": 722.9,
-    "name": "alexander08_25"
+    "price": 722.801,
+    "name": "yucatrader"
   },
   "venta_maxima": {
     "price": 723.0,
-    "name": "c_s_"
+    "name": "Mr Miyagi 10"
   },
-  "promedio": 722.95,
+  "promedio": 722.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
