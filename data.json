@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T21:19:37.728410",
-  "actualizado_vzla": "2026-05-25 17:19:37 -04",
+  "timestamp_utc": "2026-05-25T22:32:13.845881",
+  "actualizado_vzla": "2026-05-25 18:32:13 -04",
   "compra_segundo": {
-    "price": 733.95,
-    "name": "CUATROSIETE"
+    "price": 734.46,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 733.5,
-    "name": "GREEN78"
+    "price": 735.6,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 733.73,
+  "promedio": 735.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
