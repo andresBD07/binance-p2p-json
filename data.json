@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T22:32:13.845881",
-  "actualizado_vzla": "2026-05-25 18:32:13 -04",
+  "timestamp_utc": "2026-05-25T23:42:10.501978",
+  "actualizado_vzla": "2026-05-25 19:42:10 -04",
   "compra_segundo": {
-    "price": 734.46,
-    "name": "EXDOMO"
+    "price": 735.299,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 735.6,
-    "name": "MaestroRoshi-"
+    "price": 735.5,
+    "name": "GAMBINO-"
   },
-  "promedio": 735.03,
+  "promedio": 735.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
