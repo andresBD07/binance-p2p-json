@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T16:21:42.012385",
-  "actualizado_vzla": "2026-05-25 12:21:42 -04",
+  "timestamp_utc": "2026-05-25T18:08:25.383736",
+  "actualizado_vzla": "2026-05-25 14:08:25 -04",
   "compra_segundo": {
-    "price": 725.99,
-    "name": "Morrachon CyR"
+    "price": 729.4,
+    "name": "Doña Salomé"
   },
   "venta_maxima": {
-    "price": 727.75,
-    "name": "TOPlevelS"
+    "price": 732.0,
+    "name": "活着的价值"
   },
-  "promedio": 726.87,
+  "promedio": 730.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
