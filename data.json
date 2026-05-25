@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T19:59:03.566980",
-  "actualizado_vzla": "2026-05-25 15:59:03 -04",
+  "timestamp_utc": "2026-05-25T21:19:37.728410",
+  "actualizado_vzla": "2026-05-25 17:19:37 -04",
   "compra_segundo": {
-    "price": 733.349,
-    "name": "Mr Punk"
+    "price": 733.95,
+    "name": "CUATROSIETE"
   },
   "venta_maxima": {
     "price": 733.5,
-    "name": "GOMEZTUSOLUCION"
+    "name": "GREEN78"
   },
-  "promedio": 733.42,
+  "promedio": 733.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
