@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T06:05:20.122094",
-  "actualizado_vzla": "2026-05-25 02:05:20 -04",
+  "timestamp_utc": "2026-05-25T10:46:13.560786",
+  "actualizado_vzla": "2026-05-25 06:46:13 -04",
   "compra_segundo": {
-    "price": 721.0,
-    "name": "_DeathNote_"
+    "price": 717.499,
+    "name": "CriptoTraderHub"
   },
   "venta_maxima": {
-    "price": 714.51,
-    "name": "LukkaTrader"
+    "price": 711.5,
+    "name": "GRUPOAVILA"
   },
-  "promedio": 717.75,
+  "promedio": 714.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
