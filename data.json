@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T10:46:13.560786",
-  "actualizado_vzla": "2026-05-25 06:46:13 -04",
+  "timestamp_utc": "2026-05-25T13:52:07.469610",
+  "actualizado_vzla": "2026-05-25 09:52:07 -04",
   "compra_segundo": {
-    "price": 717.499,
-    "name": "CriptoTraderHub"
+    "price": 722.1,
+    "name": "Servicios-Criptos-27"
   },
   "venta_maxima": {
-    "price": 711.5,
-    "name": "GRUPOAVILA"
+    "price": 721.5,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 714.5,
+  "promedio": 721.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
