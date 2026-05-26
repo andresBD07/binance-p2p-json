@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-26T16:28:11.791990",
-  "actualizado_vzla": "2026-05-26 12:28:11 -04",
+  "timestamp_utc": "2026-05-26T19:02:35.204957",
+  "actualizado_vzla": "2026-05-26 15:02:35 -04",
   "compra_segundo": {
-    "price": 737.799,
-    "name": "javi1203"
+    "price": 739.9,
+    "name": "mandy02"
   },
   "venta_maxima": {
-    "price": 738.1,
-    "name": "VenUSDT_"
+    "price": 738.758,
+    "name": "RedBullV12"
   },
-  "promedio": 737.95,
+  "promedio": 739.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
