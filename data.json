@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-25T23:42:10.501978",
-  "actualizado_vzla": "2026-05-25 19:42:10 -04",
+  "timestamp_utc": "2026-05-26T01:32:30.007926",
+  "actualizado_vzla": "2026-05-25 21:32:30 -04",
   "compra_segundo": {
-    "price": 735.299,
-    "name": "Minato21"
+    "price": 733.4,
+    "name": "User-95450"
   },
   "venta_maxima": {
-    "price": 735.5,
-    "name": "GAMBINO-"
+    "price": 732.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 735.4,
+  "promedio": 732.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
