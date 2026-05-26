@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-05-26T19:02:35.204957",
-  "actualizado_vzla": "2026-05-26 15:02:35 -04",
+  "timestamp_utc": "2026-05-26T20:59:09.833556",
+  "actualizado_vzla": "2026-05-26 16:59:09 -04",
   "compra_segundo": {
-    "price": 739.9,
-    "name": "mandy02"
+    "price": 739.65,
+    "name": "maxstreaming"
   },
   "venta_maxima": {
-    "price": 738.758,
-    "name": "RedBullV12"
+    "price": 739.001,
+    "name": "火PhoenixRising"
   },
   "promedio": 739.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
