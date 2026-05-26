@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-26T05:48:46.561965",
-  "actualizado_vzla": "2026-05-26 01:48:46 -04",
+  "timestamp_utc": "2026-05-26T09:33:55.223056",
+  "actualizado_vzla": "2026-05-26 05:33:55 -04",
   "compra_segundo": {
-    "price": 733.14,
-    "name": "NXTrade57"
+    "price": 732.75,
+    "name": "MOVI_SAFE"
   },
   "venta_maxima": {
-    "price": 727.693,
-    "name": "D-zta"
+    "price": 726.5,
+    "name": "InvMiggy"
   },
-  "promedio": 730.42,
+  "promedio": 729.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
