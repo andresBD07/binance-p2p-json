@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-26T01:32:30.007926",
-  "actualizado_vzla": "2026-05-25 21:32:30 -04",
+  "timestamp_utc": "2026-05-26T05:48:46.561965",
+  "actualizado_vzla": "2026-05-26 01:48:46 -04",
   "compra_segundo": {
-    "price": 733.4,
-    "name": "User-95450"
+    "price": 733.14,
+    "name": "NXTrade57"
   },
   "venta_maxima": {
-    "price": 732.0,
-    "name": "BLACKROCK22"
+    "price": 727.693,
+    "name": "D-zta"
   },
-  "promedio": 732.7,
+  "promedio": 730.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
