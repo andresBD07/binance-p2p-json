@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-27T06:36:44.590165",
-  "actualizado_vzla": "2026-05-27 02:36:44 -04",
+  "timestamp_utc": "2026-05-27T10:41:00.549060",
+  "actualizado_vzla": "2026-05-27 06:41:00 -04",
   "compra_segundo": {
-    "price": 736.98,
-    "name": "漢-Kapo"
+    "price": 735.0,
+    "name": "Criptohana"
   },
   "venta_maxima": {
     "price": 731.0,
     "name": "4lfw"
   },
-  "promedio": 733.99,
+  "promedio": 733.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
