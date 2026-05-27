@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-27T19:38:20.341124",
-  "actualizado_vzla": "2026-05-27 15:38:20 -04",
+  "timestamp_utc": "2026-05-27T21:27:19.802946",
+  "actualizado_vzla": "2026-05-27 17:27:19 -04",
   "compra_segundo": {
-    "price": 739.0,
-    "name": "Minato21"
+    "price": 739.5,
+    "name": "Criptohana"
   },
   "venta_maxima": {
-    "price": 739.3,
-    "name": "-Akopan-"
+    "price": 738.2,
+    "name": "Ateneaaa"
   },
-  "promedio": 739.15,
+  "promedio": 738.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
