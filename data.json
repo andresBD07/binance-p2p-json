@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-27T17:31:56.825675",
-  "actualizado_vzla": "2026-05-27 13:31:56 -04",
+  "timestamp_utc": "2026-05-27T19:38:20.341124",
+  "actualizado_vzla": "2026-05-27 15:38:20 -04",
   "compra_segundo": {
-    "price": 738.34,
-    "name": "SafeSwapLong"
+    "price": 739.0,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 739.0,
-    "name": "安全与信任"
+    "price": 739.3,
+    "name": "-Akopan-"
   },
-  "promedio": 738.67,
+  "promedio": 739.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
