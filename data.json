@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-26T23:46:39.730436",
-  "actualizado_vzla": "2026-05-26 19:46:39 -04",
+  "timestamp_utc": "2026-05-27T01:55:35.710425",
+  "actualizado_vzla": "2026-05-26 21:55:35 -04",
   "compra_segundo": {
-    "price": 738.7,
-    "name": "FABIP2"
+    "price": 735.288,
+    "name": "Theking_11"
   },
   "venta_maxima": {
-    "price": 737.05,
-    "name": "TOPlevelS"
+    "price": 734.0,
+    "name": "Quick Payment"
   },
-  "promedio": 737.88,
+  "promedio": 734.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
