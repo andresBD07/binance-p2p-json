@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-27T21:27:19.802946",
-  "actualizado_vzla": "2026-05-27 17:27:19 -04",
+  "timestamp_utc": "2026-05-27T23:00:33.795947",
+  "actualizado_vzla": "2026-05-27 19:00:33 -04",
   "compra_segundo": {
-    "price": 739.5,
-    "name": "Criptohana"
+    "price": 739.2,
+    "name": "Elqueyasabes"
   },
   "venta_maxima": {
-    "price": 738.2,
-    "name": "Ateneaaa"
+    "price": 740.0,
+    "name": "John-Deere"
   },
-  "promedio": 738.85,
+  "promedio": 739.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
