@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T19:16:22.652490",
-  "actualizado_vzla": "2026-05-28 15:16:22 -04",
+  "timestamp_utc": "2026-05-28T21:24:24.743953",
+  "actualizado_vzla": "2026-05-28 17:24:24 -04",
   "compra_segundo": {
-    "price": 746.1,
-    "name": "Bigwhale12"
+    "price": 748.744,
+    "name": "Idaniap2p"
   },
   "venta_maxima": {
-    "price": 746.0,
-    "name": "c_s_"
+    "price": 748.5,
+    "name": "Tej_raskon"
   },
-  "promedio": 746.05,
+  "promedio": 748.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
