@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T04:41:05.931602",
-  "actualizado_vzla": "2026-05-28 00:41:05 -04",
+  "timestamp_utc": "2026-05-28T08:33:41.376594",
+  "actualizado_vzla": "2026-05-28 04:33:41 -04",
   "compra_segundo": {
-    "price": 740.8,
-    "name": "Lucen_Lv71"
+    "price": 741.0,
+    "name": "Alcambio_25"
   },
   "venta_maxima": {
-    "price": 735.6,
-    "name": "BOLO-USDT"
+    "price": 734.511,
+    "name": "Yony26"
   },
-  "promedio": 738.2,
+  "promedio": 737.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
