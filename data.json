@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T08:33:41.376594",
-  "actualizado_vzla": "2026-05-28 04:33:41 -04",
+  "timestamp_utc": "2026-05-28T12:03:13.029781",
+  "actualizado_vzla": "2026-05-28 08:03:13 -04",
   "compra_segundo": {
-    "price": 741.0,
-    "name": "Alcambio_25"
+    "price": 737.99,
+    "name": "Trader-ZETA"
   },
   "venta_maxima": {
-    "price": 734.511,
-    "name": "Yony26"
+    "price": 738.0,
+    "name": "-Akopan-"
   },
-  "promedio": 737.76,
+  "promedio": 738.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
