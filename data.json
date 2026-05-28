@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T00:09:26.182465",
-  "actualizado_vzla": "2026-05-27 20:09:26 -04",
+  "timestamp_utc": "2026-05-28T04:41:05.931602",
+  "actualizado_vzla": "2026-05-28 00:41:05 -04",
   "compra_segundo": {
-    "price": 739.848,
-    "name": "CHAPMANGOLD_TRADING"
+    "price": 740.8,
+    "name": "Lucen_Lv71"
   },
   "venta_maxima": {
-    "price": 740.0,
-    "name": "-Akopan-"
+    "price": 735.6,
+    "name": "BOLO-USDT"
   },
-  "promedio": 739.92,
+  "promedio": 738.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
