@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T21:24:24.743953",
-  "actualizado_vzla": "2026-05-28 17:24:24 -04",
+  "timestamp_utc": "2026-05-28T22:53:33.967335",
+  "actualizado_vzla": "2026-05-28 18:53:33 -04",
   "compra_segundo": {
-    "price": 748.744,
-    "name": "Idaniap2p"
+    "price": 748.179,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 748.5,
-    "name": "Tej_raskon"
+    "price": 746.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 748.62,
+  "promedio": 747.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
