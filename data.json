@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T12:03:13.029781",
-  "actualizado_vzla": "2026-05-28 08:03:13 -04",
+  "timestamp_utc": "2026-05-28T16:30:05.727832",
+  "actualizado_vzla": "2026-05-28 12:30:05 -04",
   "compra_segundo": {
-    "price": 737.99,
-    "name": "Trader-ZETA"
+    "price": 746.5,
+    "name": "Panchcrito2"
   },
   "venta_maxima": {
-    "price": 738.0,
-    "name": "-Akopan-"
+    "price": 748.0,
+    "name": "-Isalam-"
   },
-  "promedio": 738.0,
+  "promedio": 747.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
