@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-29T11:54:40.535125",
-  "actualizado_vzla": "2026-05-29 07:54:40 -04",
+  "timestamp_utc": "2026-05-29T15:54:51.381796",
+  "actualizado_vzla": "2026-05-29 11:54:51 -04",
   "compra_segundo": {
-    "price": 742.997,
-    "name": "NexusPremiun"
+    "price": 739.0,
+    "name": "CAMBIOS-CRYPTOS"
   },
   "venta_maxima": {
-    "price": 742.5,
-    "name": "WEbuy88"
+    "price": 739.0,
+    "name": "John-Deere"
   },
-  "promedio": 742.75,
+  "promedio": 739.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
