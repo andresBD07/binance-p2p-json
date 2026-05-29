@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-29T22:40:50.731438",
-  "actualizado_vzla": "2026-05-29 18:40:50 -04",
+  "timestamp_utc": "2026-05-29T23:55:59.687426",
+  "actualizado_vzla": "2026-05-29 19:55:59 -04",
   "compra_segundo": {
-    "price": 731.999,
-    "name": "Aioria1508"
+    "price": 732.95,
+    "name": "Drakito_p2p"
   },
   "venta_maxima": {
     "price": 734.0,
     "name": "Trust-Broker"
   },
-  "promedio": 733.0,
+  "promedio": 733.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
