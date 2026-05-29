@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-28T22:53:33.967335",
-  "actualizado_vzla": "2026-05-28 18:53:33 -04",
+  "timestamp_utc": "2026-05-29T00:12:46.660988",
+  "actualizado_vzla": "2026-05-28 20:12:46 -04",
   "compra_segundo": {
-    "price": 748.179,
-    "name": "AM_BovedaActiva"
+    "price": 745.848,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
-    "price": 746.0,
-    "name": "BLACKROCK22"
+    "price": 744.0,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 747.09,
+  "promedio": 744.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
