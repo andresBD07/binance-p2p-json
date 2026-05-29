@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-29T21:00:45.314972",
-  "actualizado_vzla": "2026-05-29 17:00:45 -04",
+  "timestamp_utc": "2026-05-29T22:40:50.731438",
+  "actualizado_vzla": "2026-05-29 18:40:50 -04",
   "compra_segundo": {
-    "price": 734.8,
-    "name": "1Jm_trade28"
+    "price": 731.999,
+    "name": "Aioria1508"
   },
   "venta_maxima": {
-    "price": 735.0,
-    "name": "安全与信任"
+    "price": 734.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 734.9,
+  "promedio": 733.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
