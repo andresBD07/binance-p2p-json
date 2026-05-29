@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-29T04:46:40.897197",
-  "actualizado_vzla": "2026-05-29 00:46:40 -04",
+  "timestamp_utc": "2026-05-29T08:34:28.819525",
+  "actualizado_vzla": "2026-05-29 04:34:28 -04",
   "compra_segundo": {
-    "price": 745.5,
-    "name": "TOROgaboxCoin"
+    "price": 745.799,
+    "name": "4F-P2P"
   },
   "venta_maxima": {
     "price": 741.5,
     "name": "Arjet_Trading"
   },
-  "promedio": 743.5,
+  "promedio": 743.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
