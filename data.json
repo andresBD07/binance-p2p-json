@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-29T08:34:28.819525",
-  "actualizado_vzla": "2026-05-29 04:34:28 -04",
+  "timestamp_utc": "2026-05-29T11:54:40.535125",
+  "actualizado_vzla": "2026-05-29 07:54:40 -04",
   "compra_segundo": {
-    "price": 745.799,
-    "name": "4F-P2P"
+    "price": 742.997,
+    "name": "NexusPremiun"
   },
   "venta_maxima": {
-    "price": 741.5,
-    "name": "Arjet_Trading"
+    "price": 742.5,
+    "name": "WEbuy88"
   },
-  "promedio": 743.65,
+  "promedio": 742.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
