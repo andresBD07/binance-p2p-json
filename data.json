@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T12:12:50.332088",
-  "actualizado_vzla": "2026-05-30 08:12:50 -04",
+  "timestamp_utc": "2026-05-30T14:08:08.727641",
+  "actualizado_vzla": "2026-05-30 10:08:08 -04",
   "compra_segundo": {
-    "price": 736.298,
-    "name": "LOSLEONES_CAMBIOSP2P"
+    "price": 736.7,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
-    "price": 734.0,
-    "name": "SasukeTrader"
+    "price": 737.0,
+    "name": "VenUSDT_"
   },
-  "promedio": 735.15,
+  "promedio": 736.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
