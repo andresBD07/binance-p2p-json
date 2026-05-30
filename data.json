@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T09:28:31.366893",
-  "actualizado_vzla": "2026-05-30 05:28:31 -04",
+  "timestamp_utc": "2026-05-30T11:02:10.737156",
+  "actualizado_vzla": "2026-05-30 07:02:10 -04",
   "compra_segundo": {
-    "price": 736.0,
-    "name": "walner17"
+    "price": 735.6,
+    "name": "VISÓN CRIPTØ"
   },
   "venta_maxima": {
-    "price": 731.001,
-    "name": "Valery"
+    "price": 731.02,
+    "name": "Emmanuelli"
   },
-  "promedio": 733.5,
+  "promedio": 733.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
