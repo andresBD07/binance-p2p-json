@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T22:16:30.528860",
-  "actualizado_vzla": "2026-05-30 18:16:30 -04",
+  "timestamp_utc": "2026-05-30T23:30:57.237709",
+  "actualizado_vzla": "2026-05-30 19:30:57 -04",
   "compra_segundo": {
-    "price": 733.49,
-    "name": "PuenteDigital"
+    "price": 732.45,
+    "name": "Drizzt_D"
   },
   "venta_maxima": {
-    "price": 736.0,
+    "price": 737.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 734.75,
+  "promedio": 734.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
