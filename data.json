@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T04:09:53.590378",
-  "actualizado_vzla": "2026-05-30 00:09:53 -04",
+  "timestamp_utc": "2026-05-30T07:20:34.256014",
+  "actualizado_vzla": "2026-05-30 03:20:34 -04",
   "compra_segundo": {
-    "price": 735.45,
-    "name": "Pikachuuu13"
+    "price": 736.3,
+    "name": "OjrsTrade"
   },
   "venta_maxima": {
-    "price": 732.5,
-    "name": "Trust-Broker"
+    "price": 729.0,
+    "name": "CesarRodriguez53"
   },
-  "promedio": 733.98,
+  "promedio": 732.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
