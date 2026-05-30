@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T11:02:10.737156",
-  "actualizado_vzla": "2026-05-30 07:02:10 -04",
+  "timestamp_utc": "2026-05-30T12:12:50.332088",
+  "actualizado_vzla": "2026-05-30 08:12:50 -04",
   "compra_segundo": {
-    "price": 735.6,
-    "name": "VISÓN CRIPTØ"
+    "price": 736.298,
+    "name": "LOSLEONES_CAMBIOSP2P"
   },
   "venta_maxima": {
-    "price": 731.02,
-    "name": "Emmanuelli"
+    "price": 734.0,
+    "name": "SasukeTrader"
   },
-  "promedio": 733.31,
+  "promedio": 735.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
