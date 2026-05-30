@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T16:41:29.668719",
-  "actualizado_vzla": "2026-05-30 12:41:29 -04",
+  "timestamp_utc": "2026-05-30T17:47:18.562494",
+  "actualizado_vzla": "2026-05-30 13:47:18 -04",
   "compra_segundo": {
-    "price": 733.0,
-    "name": "Criptohana"
+    "price": 733.1,
+    "name": "SERPURMAR"
   },
   "venta_maxima": {
-    "price": 733.0,
+    "price": 734.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 733.0,
+  "promedio": 733.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
