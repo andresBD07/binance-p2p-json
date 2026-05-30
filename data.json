@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T18:52:38.650342",
-  "actualizado_vzla": "2026-05-30 14:52:38 -04",
+  "timestamp_utc": "2026-05-30T20:08:44.180731",
+  "actualizado_vzla": "2026-05-30 16:08:44 -04",
   "compra_segundo": {
-    "price": 732.89,
-    "name": "MandoCripto"
+    "price": 732.85,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
     "price": 734.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 733.44,
+  "promedio": 733.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
