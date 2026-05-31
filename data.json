@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T20:43:56.401860",
-  "actualizado_vzla": "2026-05-31 16:43:56 -04",
+  "timestamp_utc": "2026-05-31T21:43:18.666659",
+  "actualizado_vzla": "2026-05-31 17:43:18 -04",
   "compra_segundo": {
-    "price": 737.0,
-    "name": "Barcola_p2p"
+    "price": 737.4,
+    "name": "Bmth_29"
   },
   "venta_maxima": {
     "price": 740.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 738.5,
+  "promedio": 738.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
