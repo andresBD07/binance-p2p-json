@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T11:14:03.468634",
-  "actualizado_vzla": "2026-05-31 07:14:03 -04",
+  "timestamp_utc": "2026-05-31T12:50:46.457997",
+  "actualizado_vzla": "2026-05-31 08:50:46 -04",
   "compra_segundo": {
     "price": 738.5,
-    "name": "Zeta_Cripto"
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 733.663,
-    "name": "TRADER_GOD_P2P"
+    "price": 734.5,
+    "name": "Tej_raskon"
   },
-  "promedio": 736.08,
+  "promedio": 736.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
