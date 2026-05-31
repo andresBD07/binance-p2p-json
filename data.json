@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T15:52:10.973605",
-  "actualizado_vzla": "2026-05-31 11:52:10 -04",
+  "timestamp_utc": "2026-05-31T17:04:36.557759",
+  "actualizado_vzla": "2026-05-31 13:04:36 -04",
   "compra_segundo": {
-    "price": 738.999,
-    "name": "Dxvid Exchange"
+    "price": 738.19,
+    "name": "capcapital333"
   },
   "venta_maxima": {
     "price": 740.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 739.5,
+  "promedio": 739.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
