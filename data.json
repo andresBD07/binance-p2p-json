@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-30T23:30:57.237709",
-  "actualizado_vzla": "2026-05-30 19:30:57 -04",
+  "timestamp_utc": "2026-05-31T01:36:58.682039",
+  "actualizado_vzla": "2026-05-30 21:36:58 -04",
   "compra_segundo": {
-    "price": 732.45,
-    "name": "Drizzt_D"
+    "price": 734.9,
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
     "price": 737.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 734.73,
+  "promedio": 735.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
