@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T06:02:12.477897",
-  "actualizado_vzla": "2026-05-31 02:02:12 -04",
+  "timestamp_utc": "2026-05-31T09:20:55.240472",
+  "actualizado_vzla": "2026-05-31 05:20:55 -04",
   "compra_segundo": {
-    "price": 738.5,
-    "name": "CAMBIORAPID0S"
+    "price": 738.97,
+    "name": "AaronCrack"
   },
   "venta_maxima": {
-    "price": 733.1,
-    "name": "BalduinoIV"
+    "price": 733.111,
+    "name": "Theking_11"
   },
-  "promedio": 735.8,
+  "promedio": 736.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
