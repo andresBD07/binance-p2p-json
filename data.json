@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T09:20:55.240472",
-  "actualizado_vzla": "2026-05-31 05:20:55 -04",
+  "timestamp_utc": "2026-05-31T11:14:03.468634",
+  "actualizado_vzla": "2026-05-31 07:14:03 -04",
   "compra_segundo": {
-    "price": 738.97,
-    "name": "AaronCrack"
+    "price": 738.5,
+    "name": "Zeta_Cripto"
   },
   "venta_maxima": {
-    "price": 733.111,
-    "name": "Theking_11"
+    "price": 733.663,
+    "name": "TRADER_GOD_P2P"
   },
-  "promedio": 736.04,
+  "promedio": 736.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
