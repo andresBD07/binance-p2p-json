@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T17:04:36.557759",
-  "actualizado_vzla": "2026-05-31 13:04:36 -04",
+  "timestamp_utc": "2026-05-31T18:15:44.270263",
+  "actualizado_vzla": "2026-05-31 14:15:44 -04",
   "compra_segundo": {
-    "price": 738.19,
-    "name": "capcapital333"
+    "price": 737.0,
+    "name": "jaro23"
   },
   "venta_maxima": {
     "price": 740.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 739.1,
+  "promedio": 738.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
