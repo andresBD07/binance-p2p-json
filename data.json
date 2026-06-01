@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-01T19:32:56.477449",
-  "actualizado_vzla": "2026-06-01 15:32:56 -04",
+  "timestamp_utc": "2026-06-01T22:22:53.224942",
+  "actualizado_vzla": "2026-06-01 18:22:53 -04",
   "compra_segundo": {
-    "price": 740.0,
-    "name": "ElCandidoP2P"
+    "price": 732.8,
+    "name": "maxstreaming"
   },
   "venta_maxima": {
-    "price": 740.1,
-    "name": "被放逐的狐狸"
+    "price": 731.6,
+    "name": "Money77ves"
   },
-  "promedio": 740.05,
+  "promedio": 732.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
