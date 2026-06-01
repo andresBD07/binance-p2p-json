@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-01T02:55:09.729253",
-  "actualizado_vzla": "2026-05-31 22:55:09 -04",
+  "timestamp_utc": "2026-06-01T08:40:17.126273",
+  "actualizado_vzla": "2026-06-01 04:40:17 -04",
   "compra_segundo": {
-    "price": 738.9,
-    "name": "InversionesMR"
+    "price": 740.999,
+    "name": "Intercambiosmgta"
   },
   "venta_maxima": {
-    "price": 740.0,
-    "name": "被放逐的狐狸"
+    "price": 733.2,
+    "name": "Tiberiius"
   },
-  "promedio": 739.45,
+  "promedio": 737.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
