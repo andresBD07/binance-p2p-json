@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-05-31T23:50:04.742584",
-  "actualizado_vzla": "2026-05-31 19:50:04 -04",
+  "timestamp_utc": "2026-06-01T02:55:09.729253",
+  "actualizado_vzla": "2026-05-31 22:55:09 -04",
   "compra_segundo": {
-    "price": 737.0,
-    "name": "NikeTrader"
+    "price": 738.9,
+    "name": "InversionesMR"
   },
   "venta_maxima": {
     "price": 740.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 738.5,
+  "promedio": 739.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
