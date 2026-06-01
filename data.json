@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-01T14:40:37.250575",
-  "actualizado_vzla": "2026-06-01 10:40:37 -04",
+  "timestamp_utc": "2026-06-01T19:32:56.477449",
+  "actualizado_vzla": "2026-06-01 15:32:56 -04",
   "compra_segundo": {
-    "price": 732.999,
-    "name": "Theking_11"
+    "price": 740.0,
+    "name": "ElCandidoP2P"
   },
   "venta_maxima": {
-    "price": 734.0,
+    "price": 740.1,
     "name": "被放逐的狐狸"
   },
-  "promedio": 733.5,
+  "promedio": 740.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
