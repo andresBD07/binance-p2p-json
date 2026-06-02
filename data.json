@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-02T19:50:23.843127",
-  "actualizado_vzla": "2026-06-02 15:50:23 -04",
+  "timestamp_utc": "2026-06-02T22:18:39.602766",
+  "actualizado_vzla": "2026-06-02 18:18:39 -04",
   "compra_segundo": {
-    "price": 737.489,
-    "name": "MrFrogs"
+    "price": 736.9,
+    "name": "RamgabP2P"
   },
   "venta_maxima": {
-    "price": 739.1,
-    "name": "DOCTOR_CAMBIO"
+    "price": 735.03,
+    "name": "FlashCambiosX"
   },
-  "promedio": 738.29,
+  "promedio": 735.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
