@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-03T10:13:06.735139",
-  "actualizado_vzla": "2026-06-03 06:13:06 -04",
+  "timestamp_utc": "2026-06-03T15:06:44.299565",
+  "actualizado_vzla": "2026-06-03 11:06:44 -04",
   "compra_segundo": {
-    "price": 737.0,
-    "name": "CambiosFacil"
+    "price": 739.0,
+    "name": "QueRapido"
   },
   "venta_maxima": {
-    "price": 732.0,
-    "name": "Gustavo129"
+    "price": 738.5,
+    "name": "CoorpLogistic"
   },
-  "promedio": 734.5,
+  "promedio": 738.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
