@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-03T00:07:29.929644",
-  "actualizado_vzla": "2026-06-02 20:07:29 -04",
+  "timestamp_utc": "2026-06-03T05:16:41.082412",
+  "actualizado_vzla": "2026-06-03 01:16:41 -04",
   "compra_segundo": {
-    "price": 732.94,
-    "name": "Criptosafe_"
+    "price": 736.8,
+    "name": "Razørk"
   },
   "venta_maxima": {
-    "price": 732.5,
-    "name": "Arjet_Trading"
+    "price": 731.006,
+    "name": "CesarRodriguez53"
   },
-  "promedio": 732.72,
+  "promedio": 733.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
