@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-03T18:57:55.286000",
-  "actualizado_vzla": "2026-06-03 14:57:55 -04",
+  "timestamp_utc": "2026-06-03T21:59:17.928036",
+  "actualizado_vzla": "2026-06-03 17:59:17 -04",
   "compra_segundo": {
-    "price": 741.0,
-    "name": "PedroCriptoBTC"
+    "price": 744.0,
+    "name": "_Servicios_JT_"
   },
   "venta_maxima": {
-    "price": 741.7,
-    "name": "TPhillips"
+    "price": 743.701,
+    "name": "s28gm"
   },
-  "promedio": 741.35,
+  "promedio": 743.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
