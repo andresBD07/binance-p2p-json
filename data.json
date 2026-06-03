@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-03T15:06:44.299565",
-  "actualizado_vzla": "2026-06-03 11:06:44 -04",
+  "timestamp_utc": "2026-06-03T18:57:55.286000",
+  "actualizado_vzla": "2026-06-03 14:57:55 -04",
   "compra_segundo": {
-    "price": 739.0,
-    "name": "QueRapido"
+    "price": 741.0,
+    "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
-    "price": 738.5,
-    "name": "CoorpLogistic"
+    "price": 741.7,
+    "name": "TPhillips"
   },
-  "promedio": 738.75,
+  "promedio": 741.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
