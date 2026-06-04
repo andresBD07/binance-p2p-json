@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-04T20:21:19.700004",
-  "actualizado_vzla": "2026-06-04 16:21:19 -04",
+  "timestamp_utc": "2026-06-04T21:59:39.516401",
+  "actualizado_vzla": "2026-06-04 17:59:39 -04",
   "compra_segundo": {
-    "price": 747.0,
-    "name": "CANAIMA21"
+    "price": 749.0,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
     "price": 750.0,
-    "name": "杰格尔"
+    "name": "Godisgift"
   },
-  "promedio": 748.5,
+  "promedio": 749.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
