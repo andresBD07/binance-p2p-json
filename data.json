@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-04T18:02:38.830085",
-  "actualizado_vzla": "2026-06-04 14:02:38 -04",
+  "timestamp_utc": "2026-06-04T20:21:19.700004",
+  "actualizado_vzla": "2026-06-04 16:21:19 -04",
   "compra_segundo": {
-    "price": 749.349,
-    "name": "Gabrielavls"
+    "price": 747.0,
+    "name": "CANAIMA21"
   },
   "venta_maxima": {
     "price": 750.0,
-    "name": "GAMBINO-"
+    "name": "杰格尔"
   },
-  "promedio": 749.67,
+  "promedio": 748.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
