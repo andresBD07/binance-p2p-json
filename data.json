@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-04T21:59:39.516401",
-  "actualizado_vzla": "2026-06-04 17:59:39 -04",
+  "timestamp_utc": "2026-06-04T23:19:25.091127",
+  "actualizado_vzla": "2026-06-04 19:19:25 -04",
   "compra_segundo": {
-    "price": 749.0,
-    "name": "Guayoyoo"
+    "price": 747.799,
+    "name": "EJuliotradeR"
   },
   "venta_maxima": {
     "price": 750.0,
-    "name": "Godisgift"
+    "name": "被放逐的狐狸"
   },
-  "promedio": 749.5,
+  "promedio": 748.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
