@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-05T21:51:26.143657",
-  "actualizado_vzla": "2026-06-05 17:51:26 -04",
+  "timestamp_utc": "2026-06-05T23:05:08.604283",
+  "actualizado_vzla": "2026-06-05 19:05:08 -04",
   "compra_segundo": {
-    "price": 757.5,
-    "name": "carlosaladejo"
+    "price": 761.599,
+    "name": "Danieljc8"
   },
   "venta_maxima": {
-    "price": 761.0,
-    "name": "被放逐的狐狸"
+    "price": 763.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 759.25,
+  "promedio": 762.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
