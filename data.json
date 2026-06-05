@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-05T10:14:54.804261",
-  "actualizado_vzla": "2026-06-05 06:14:54 -04",
+  "timestamp_utc": "2026-06-05T13:28:28.561330",
+  "actualizado_vzla": "2026-06-05 09:28:28 -04",
   "compra_segundo": {
-    "price": 748.49,
-    "name": "vivilocho"
+    "price": 751.4,
+    "name": "Fastmin182-"
   },
   "venta_maxima": {
-    "price": 743.0,
-    "name": "VenSniper"
+    "price": 751.0,
+    "name": "FromVillage"
   },
-  "promedio": 745.75,
+  "promedio": 751.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
