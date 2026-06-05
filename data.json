@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-05T20:18:02.118208",
-  "actualizado_vzla": "2026-06-05 16:18:02 -04",
+  "timestamp_utc": "2026-06-05T21:51:26.143657",
+  "actualizado_vzla": "2026-06-05 17:51:26 -04",
   "compra_segundo": {
-    "price": 756.85,
-    "name": "GaAle19"
+    "price": 757.5,
+    "name": "carlosaladejo"
   },
   "venta_maxima": {
-    "price": 755.5,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 761.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 756.17,
+  "promedio": 759.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
