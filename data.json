@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-05T06:05:56.531200",
-  "actualizado_vzla": "2026-06-05 02:05:56 -04",
+  "timestamp_utc": "2026-06-05T10:14:54.804261",
+  "actualizado_vzla": "2026-06-05 06:14:54 -04",
   "compra_segundo": {
-    "price": 749.0,
-    "name": "-Ledger-"
+    "price": 748.49,
+    "name": "vivilocho"
   },
   "venta_maxima": {
     "price": 743.0,
-    "name": "JmP2PTrader"
+    "name": "VenSniper"
   },
-  "promedio": 746.0,
+  "promedio": 745.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
