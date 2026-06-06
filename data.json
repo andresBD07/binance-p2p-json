@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-06T17:01:43.296338",
-  "actualizado_vzla": "2026-06-06 13:01:43 -04",
+  "timestamp_utc": "2026-06-06T18:18:33.782776",
+  "actualizado_vzla": "2026-06-06 14:18:33 -04",
   "compra_segundo": {
-    "price": 760.388,
-    "name": "criptorapiseguro1"
+    "price": 761.8,
+    "name": "TRANSFERE-EL-AGUILA"
   },
   "venta_maxima": {
-    "price": 765.5,
+    "price": 767.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 762.94,
+  "promedio": 764.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
