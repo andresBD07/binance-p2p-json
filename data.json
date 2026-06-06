@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-06T09:46:51.741142",
-  "actualizado_vzla": "2026-06-06 05:46:51 -04",
+  "timestamp_utc": "2026-06-06T11:12:34.944520",
+  "actualizado_vzla": "2026-06-06 07:12:34 -04",
   "compra_segundo": {
-    "price": 767.9,
-    "name": "LGD04"
+    "price": 767.0,
+    "name": "Mr Day Leo"
   },
   "venta_maxima": {
-    "price": 760.55,
-    "name": "Fofospress"
+    "price": 763.1,
+    "name": "RogerDeakins"
   },
-  "promedio": 764.22,
+  "promedio": 765.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
