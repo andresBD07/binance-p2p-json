@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-06T12:46:22.000064",
-  "actualizado_vzla": "2026-06-06 08:46:22 -04",
+  "timestamp_utc": "2026-06-06T14:21:28.624844",
+  "actualizado_vzla": "2026-06-06 10:21:28 -04",
   "compra_segundo": {
-    "price": 767.249,
-    "name": "CriptoTraderHub"
+    "price": 761.88,
+    "name": "Jesantab"
   },
   "venta_maxima": {
-    "price": 767.0,
+    "price": 765.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 767.12,
+  "promedio": 763.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
