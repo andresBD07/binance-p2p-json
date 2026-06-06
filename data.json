@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-06T04:31:52.432095",
-  "actualizado_vzla": "2026-06-06 00:31:52 -04",
+  "timestamp_utc": "2026-06-06T07:35:06.433678",
+  "actualizado_vzla": "2026-06-06 03:35:06 -04",
   "compra_segundo": {
-    "price": 766.73,
-    "name": "Abi_Cambios"
+    "price": 767.999,
+    "name": "Josebat23"
   },
   "venta_maxima": {
-    "price": 762.5,
-    "name": "Burdyn"
+    "price": 765.0,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 764.62,
+  "promedio": 766.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
