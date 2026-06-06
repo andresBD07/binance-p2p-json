@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-05T23:05:08.604283",
-  "actualizado_vzla": "2026-06-05 19:05:08 -04",
+  "timestamp_utc": "2026-06-06T00:18:03.387724",
+  "actualizado_vzla": "2026-06-05 20:18:03 -04",
   "compra_segundo": {
-    "price": 761.599,
-    "name": "Danieljc8"
+    "price": 761.225,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
-    "price": 763.0,
+    "price": 763.5,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 762.3,
+  "promedio": 762.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
