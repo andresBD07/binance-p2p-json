@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-06T11:12:34.944520",
-  "actualizado_vzla": "2026-06-06 07:12:34 -04",
+  "timestamp_utc": "2026-06-06T12:46:22.000064",
+  "actualizado_vzla": "2026-06-06 08:46:22 -04",
   "compra_segundo": {
-    "price": 767.0,
-    "name": "Mr Day Leo"
+    "price": 767.249,
+    "name": "CriptoTraderHub"
   },
   "venta_maxima": {
-    "price": 763.1,
-    "name": "RogerDeakins"
+    "price": 767.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 765.05,
+  "promedio": 767.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
