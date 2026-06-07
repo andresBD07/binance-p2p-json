@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-07T20:48:30.316545",
-  "actualizado_vzla": "2026-06-07 16:48:30 -04",
+  "timestamp_utc": "2026-06-07T21:56:36.911647",
+  "actualizado_vzla": "2026-06-07 17:56:36 -04",
   "compra_segundo": {
-    "price": 762.4,
-    "name": "CambioSExpreessS"
+    "price": 763.2,
+    "name": "WizCoin7"
   },
   "venta_maxima": {
-    "price": 765.5,
+    "price": 766.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 763.95,
+  "promedio": 764.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
