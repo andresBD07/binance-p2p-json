@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-07T15:00:54.741679",
-  "actualizado_vzla": "2026-06-07 11:00:54 -04",
+  "timestamp_utc": "2026-06-07T16:41:15.932327",
+  "actualizado_vzla": "2026-06-07 12:41:15 -04",
   "compra_segundo": {
-    "price": 763.9,
-    "name": "nene"
+    "price": 763.5,
+    "name": "JR_cryptoxchange"
   },
   "venta_maxima": {
-    "price": 765.0,
+    "price": 767.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 764.45,
+  "promedio": 765.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
