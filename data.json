@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-07T19:26:58.523501",
-  "actualizado_vzla": "2026-06-07 15:26:58 -04",
+  "timestamp_utc": "2026-06-07T20:48:30.316545",
+  "actualizado_vzla": "2026-06-07 16:48:30 -04",
   "compra_segundo": {
-    "price": 762.3,
-    "name": "TokenSwift"
+    "price": 762.4,
+    "name": "CambioSExpreessS"
   },
   "venta_maxima": {
     "price": 765.5,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 763.9,
+  "promedio": 763.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
