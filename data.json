@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-07T01:51:37.430839",
-  "actualizado_vzla": "2026-06-06 21:51:37 -04",
+  "timestamp_utc": "2026-06-07T06:21:42.093525",
+  "actualizado_vzla": "2026-06-07 02:21:42 -04",
   "compra_segundo": {
-    "price": 762.3,
-    "name": "Eleggua1"
+    "price": 764.99,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 765.0,
-    "name": "CriptoseguroAyM"
+    "price": 760.8,
+    "name": "BalduinoIV"
   },
-  "promedio": 763.65,
+  "promedio": 762.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
