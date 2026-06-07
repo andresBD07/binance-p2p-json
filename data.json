@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-06T23:31:00.496961",
-  "actualizado_vzla": "2026-06-06 19:31:00 -04",
+  "timestamp_utc": "2026-06-07T01:51:37.430839",
+  "actualizado_vzla": "2026-06-06 21:51:37 -04",
   "compra_segundo": {
-    "price": 759.998,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 762.3,
+    "name": "Eleggua1"
   },
   "venta_maxima": {
     "price": 765.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 762.5,
+  "promedio": 763.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
