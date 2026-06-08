@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-08T20:31:46.596424",
-  "actualizado_vzla": "2026-06-08 16:31:46 -04",
+  "timestamp_utc": "2026-06-08T22:13:15.014165",
+  "actualizado_vzla": "2026-06-08 18:13:15 -04",
   "compra_segundo": {
-    "price": 766.6,
-    "name": "Walkerw1"
+    "price": 766.3,
+    "name": "PayBin07"
   },
   "venta_maxima": {
-    "price": 767.0,
+    "price": 767.6,
     "name": "Godisgift"
   },
-  "promedio": 766.8,
+  "promedio": 766.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
