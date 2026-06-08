@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-08T18:06:14.204751",
-  "actualizado_vzla": "2026-06-08 14:06:14 -04",
+  "timestamp_utc": "2026-06-08T20:31:46.596424",
+  "actualizado_vzla": "2026-06-08 16:31:46 -04",
   "compra_segundo": {
-    "price": 764.4,
-    "name": "PmVivas"
+    "price": 766.6,
+    "name": "Walkerw1"
   },
   "venta_maxima": {
-    "price": 767.511,
-    "name": "GAMBINO-"
+    "price": 767.0,
+    "name": "Godisgift"
   },
-  "promedio": 765.96,
+  "promedio": 766.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
