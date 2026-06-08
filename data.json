@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-07T23:14:32.339287",
-  "actualizado_vzla": "2026-06-07 19:14:32 -04",
+  "timestamp_utc": "2026-06-08T01:36:13.160962",
+  "actualizado_vzla": "2026-06-07 21:36:13 -04",
   "compra_segundo": {
-    "price": 763.399,
-    "name": "MarySLA"
+    "price": 763.999,
+    "name": "HAZLOAQUI"
   },
   "venta_maxima": {
-    "price": 766.0,
+    "price": 768.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 764.7,
+  "promedio": 766.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
