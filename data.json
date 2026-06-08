@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-08T01:36:13.160962",
-  "actualizado_vzla": "2026-06-07 21:36:13 -04",
+  "timestamp_utc": "2026-06-08T06:22:56.457501",
+  "actualizado_vzla": "2026-06-08 02:22:56 -04",
   "compra_segundo": {
-    "price": 763.999,
-    "name": "HAZLOAQUI"
+    "price": 766.0,
+    "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
-    "price": 768.0,
-    "name": "CriptoseguroAyM"
+    "price": 764.4,
+    "name": "-Ledger-"
   },
-  "promedio": 766.0,
+  "promedio": 765.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
