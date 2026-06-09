@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-09T09:30:37.102309",
-  "actualizado_vzla": "2026-06-09 05:30:37 -04",
+  "timestamp_utc": "2026-06-09T12:23:19.434296",
+  "actualizado_vzla": "2026-06-09 08:23:19 -04",
   "compra_segundo": {
-    "price": 758.5,
-    "name": "eduardo94268"
+    "price": 764.79,
+    "name": "BOLIVARES_BS"
   },
   "venta_maxima": {
-    "price": 753.201,
-    "name": "RicoMcPato_3minutos"
+    "price": 764.7,
+    "name": "ANMAIYANME"
   },
-  "promedio": 755.85,
+  "promedio": 764.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
