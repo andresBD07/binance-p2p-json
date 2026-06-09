@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-09T15:38:24.373162",
-  "actualizado_vzla": "2026-06-09 11:38:24 -04",
+  "timestamp_utc": "2026-06-09T17:45:50.118008",
+  "actualizado_vzla": "2026-06-09 13:45:50 -04",
   "compra_segundo": {
-    "price": 769.45,
-    "name": "KaryCriptos"
+    "price": 774.3,
+    "name": "MACHUFI"
   },
   "venta_maxima": {
-    "price": 769.0,
-    "name": "SasukeTrader"
+    "price": 775.0,
+    "name": "Bestseller"
   },
-  "promedio": 769.23,
+  "promedio": 774.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
