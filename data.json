@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-09T19:49:26.823316",
-  "actualizado_vzla": "2026-06-09 15:49:26 -04",
+  "timestamp_utc": "2026-06-09T21:41:09.813770",
+  "actualizado_vzla": "2026-06-09 17:41:09 -04",
   "compra_segundo": {
-    "price": 778.699,
-    "name": "LopezInvestment"
+    "price": 777.87,
+    "name": "TOP_PR0"
   },
   "venta_maxima": {
-    "price": 777.5,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 776.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 778.1,
+  "promedio": 777.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
