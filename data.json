@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-08T23:39:45.900252",
-  "actualizado_vzla": "2026-06-08 19:39:45 -04",
+  "timestamp_utc": "2026-06-09T01:31:48.190609",
+  "actualizado_vzla": "2026-06-08 21:31:48 -04",
   "compra_segundo": {
-    "price": 764.5,
-    "name": "walner17"
+    "price": 760.7,
+    "name": "lobotrader13"
   },
   "venta_maxima": {
-    "price": 766.0,
-    "name": "Godisgift"
+    "price": 757.0,
+    "name": "John-Deere"
   },
-  "promedio": 765.25,
+  "promedio": 758.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
