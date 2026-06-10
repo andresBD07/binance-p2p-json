@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-09T23:04:54.659134",
-  "actualizado_vzla": "2026-06-09 19:04:54 -04",
+  "timestamp_utc": "2026-06-10T01:29:05.047721",
+  "actualizado_vzla": "2026-06-09 21:29:05 -04",
   "compra_segundo": {
-    "price": 777.49,
-    "name": "_TropiCoqueta_"
+    "price": 778.7,
+    "name": "CambioRapido13"
   },
   "venta_maxima": {
-    "price": 780.0,
-    "name": "bigmitchum"
+    "price": 779.0,
+    "name": "-Akopan-"
   },
-  "promedio": 778.75,
+  "promedio": 778.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
