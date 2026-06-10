@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-10T17:20:21.901399",
-  "actualizado_vzla": "2026-06-10 13:20:21 -04",
+  "timestamp_utc": "2026-06-10T19:51:37.982149",
+  "actualizado_vzla": "2026-06-10 15:51:37 -04",
   "compra_segundo": {
-    "price": 797.7,
-    "name": "Start_777"
+    "price": 806.0,
+    "name": "JMCrip26"
   },
   "venta_maxima": {
-    "price": 798.5,
-    "name": "TOPlevelS"
+    "price": 808.201,
+    "name": "活着的价值"
   },
-  "promedio": 798.1,
+  "promedio": 807.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
