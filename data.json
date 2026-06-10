@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-10T06:04:00.705580",
-  "actualizado_vzla": "2026-06-10 02:04:00 -04",
+  "timestamp_utc": "2026-06-10T10:20:45.055753",
+  "actualizado_vzla": "2026-06-10 06:20:45 -04",
   "compra_segundo": {
-    "price": 781.0,
-    "name": "FlashCambios1"
+    "price": 779.99,
+    "name": "marote28"
   },
   "venta_maxima": {
     "price": 775.6,
     "name": "jxsosa"
   },
-  "promedio": 778.3,
+  "promedio": 777.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
