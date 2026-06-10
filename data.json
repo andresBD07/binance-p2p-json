@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-10T01:29:05.047721",
-  "actualizado_vzla": "2026-06-09 21:29:05 -04",
+  "timestamp_utc": "2026-06-10T06:04:00.705580",
+  "actualizado_vzla": "2026-06-10 02:04:00 -04",
   "compra_segundo": {
-    "price": 778.7,
-    "name": "CambioRapido13"
+    "price": 781.0,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 779.0,
-    "name": "-Akopan-"
+    "price": 775.6,
+    "name": "jxsosa"
   },
-  "promedio": 778.85,
+  "promedio": 778.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
