@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-10T10:20:45.055753",
-  "actualizado_vzla": "2026-06-10 06:20:45 -04",
+  "timestamp_utc": "2026-06-10T13:53:10.896980",
+  "actualizado_vzla": "2026-06-10 09:53:10 -04",
   "compra_segundo": {
-    "price": 779.99,
-    "name": "marote28"
+    "price": 781.9,
+    "name": "*CriptoSeguro*"
   },
   "venta_maxima": {
-    "price": 775.6,
-    "name": "jxsosa"
+    "price": 783.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 777.8,
+  "promedio": 782.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
