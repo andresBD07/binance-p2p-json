@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-11T18:34:43.621167",
-  "actualizado_vzla": "2026-06-11 14:34:43 -04",
+  "timestamp_utc": "2026-06-11T21:07:27.489951",
+  "actualizado_vzla": "2026-06-11 17:07:27 -04",
   "compra_segundo": {
-    "price": 821.2,
-    "name": "SecurityExpress"
+    "price": 808.8,
+    "name": "resu2k"
   },
   "venta_maxima": {
-    "price": 830.0,
-    "name": "SafeTradePro10"
+    "price": 813.5,
+    "name": "DAKLANID"
   },
-  "promedio": 825.6,
+  "promedio": 811.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
