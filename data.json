@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-10T23:43:10.225056",
-  "actualizado_vzla": "2026-06-10 19:43:10 -04",
+  "timestamp_utc": "2026-06-11T02:05:23.327544",
+  "actualizado_vzla": "2026-06-10 22:05:23 -04",
   "compra_segundo": {
-    "price": 812.5,
-    "name": "Qwer77"
+    "price": 813.5,
+    "name": "GJCB_Trader"
   },
   "venta_maxima": {
-    "price": 815.0,
-    "name": "CambiosMZ"
+    "price": 815.014,
+    "name": "TOPlevelS"
   },
-  "promedio": 813.75,
+  "promedio": 814.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
