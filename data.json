@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-11T11:45:44.070518",
-  "actualizado_vzla": "2026-06-11 07:45:44 -04",
+  "timestamp_utc": "2026-06-11T15:22:57.045353",
+  "actualizado_vzla": "2026-06-11 11:22:57 -04",
   "compra_segundo": {
-    "price": 810.499,
-    "name": "cesarcal23"
+    "price": 835.6,
+    "name": "Agrosnj120_"
   },
   "venta_maxima": {
-    "price": 811.0,
-    "name": "Gustavo129"
+    "price": 840.5,
+    "name": "Vitatech"
   },
-  "promedio": 810.75,
+  "promedio": 838.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
