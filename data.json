@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-11T07:03:15.396670",
-  "actualizado_vzla": "2026-06-11 03:03:15 -04",
+  "timestamp_utc": "2026-06-11T11:45:44.070518",
+  "actualizado_vzla": "2026-06-11 07:45:44 -04",
   "compra_segundo": {
-    "price": 814.999,
-    "name": "CHAPMANGOLD_TRADING"
+    "price": 810.499,
+    "name": "cesarcal23"
   },
   "venta_maxima": {
-    "price": 810.0,
-    "name": "JALU2703"
+    "price": 811.0,
+    "name": "Gustavo129"
   },
-  "promedio": 812.5,
+  "promedio": 810.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
