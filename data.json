@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-11T15:22:57.045353",
-  "actualizado_vzla": "2026-06-11 11:22:57 -04",
+  "timestamp_utc": "2026-06-11T18:34:43.621167",
+  "actualizado_vzla": "2026-06-11 14:34:43 -04",
   "compra_segundo": {
-    "price": 835.6,
-    "name": "Agrosnj120_"
+    "price": 821.2,
+    "name": "SecurityExpress"
   },
   "venta_maxima": {
-    "price": 840.5,
-    "name": "Vitatech"
+    "price": 830.0,
+    "name": "SafeTradePro10"
   },
-  "promedio": 838.05,
+  "promedio": 825.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
