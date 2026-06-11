@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-11T21:07:27.489951",
-  "actualizado_vzla": "2026-06-11 17:07:27 -04",
+  "timestamp_utc": "2026-06-11T22:57:48.607470",
+  "actualizado_vzla": "2026-06-11 18:57:48 -04",
   "compra_segundo": {
-    "price": 808.8,
-    "name": "resu2k"
+    "price": 813.38,
+    "name": "AFNP15"
   },
   "venta_maxima": {
-    "price": 813.5,
-    "name": "DAKLANID"
+    "price": 812.1,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 811.15,
+  "promedio": 812.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
