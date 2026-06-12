@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-12T09:15:08.688805",
-  "actualizado_vzla": "2026-06-12 05:15:08 -04",
+  "timestamp_utc": "2026-06-12T12:37:03.140167",
+  "actualizado_vzla": "2026-06-12 08:37:03 -04",
   "compra_segundo": {
-    "price": 812.98,
-    "name": "AaronCrack"
+    "price": 815.5,
+    "name": "Don-Cangrejo"
   },
   "venta_maxima": {
-    "price": 809.0,
-    "name": "被放逐的狐狸"
+    "price": 815.0,
+    "name": "SafeTradePro10"
   },
-  "promedio": 810.99,
+  "promedio": 815.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
