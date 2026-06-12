@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-12T12:37:03.140167",
-  "actualizado_vzla": "2026-06-12 08:37:03 -04",
+  "timestamp_utc": "2026-06-12T15:54:09.785683",
+  "actualizado_vzla": "2026-06-12 11:54:09 -04",
   "compra_segundo": {
-    "price": 815.5,
-    "name": "Don-Cangrejo"
+    "price": 797.0,
+    "name": "jmas"
   },
   "venta_maxima": {
-    "price": 815.0,
-    "name": "SafeTradePro10"
+    "price": 794.3,
+    "name": "貝斯韋"
   },
-  "promedio": 815.25,
+  "promedio": 795.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
