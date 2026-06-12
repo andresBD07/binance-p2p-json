@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-12T15:54:09.785683",
-  "actualizado_vzla": "2026-06-12 11:54:09 -04",
+  "timestamp_utc": "2026-06-12T18:10:14.769624",
+  "actualizado_vzla": "2026-06-12 14:10:14 -04",
   "compra_segundo": {
-    "price": 797.0,
-    "name": "jmas"
+    "price": 793.776,
+    "name": "kufadani"
   },
   "venta_maxima": {
-    "price": 794.3,
-    "name": "貝斯韋"
+    "price": 793.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 795.65,
+  "promedio": 793.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
