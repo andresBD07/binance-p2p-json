@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-12T22:09:39.451816",
-  "actualizado_vzla": "2026-06-12 18:09:39 -04",
+  "timestamp_utc": "2026-06-12T23:53:05.000737",
+  "actualizado_vzla": "2026-06-12 19:53:05 -04",
   "compra_segundo": {
-    "price": 795.1,
-    "name": "OreoBoss"
+    "price": 799.7,
+    "name": "CAMBIOS-LEO"
   },
   "venta_maxima": {
-    "price": 797.0,
+    "price": 800.1,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 796.05,
+  "promedio": 799.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
