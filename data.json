@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-12T20:27:21.966453",
-  "actualizado_vzla": "2026-06-12 16:27:21 -04",
+  "timestamp_utc": "2026-06-12T22:09:39.451816",
+  "actualizado_vzla": "2026-06-12 18:09:39 -04",
   "compra_segundo": {
-    "price": 798.957,
-    "name": "HarCapital"
+    "price": 795.1,
+    "name": "OreoBoss"
   },
   "venta_maxima": {
-    "price": 799.9,
-    "name": "Godisgift"
+    "price": 797.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 799.43,
+  "promedio": 796.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
