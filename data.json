@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-11T22:57:48.607470",
-  "actualizado_vzla": "2026-06-11 18:57:48 -04",
+  "timestamp_utc": "2026-06-12T00:23:04.256494",
+  "actualizado_vzla": "2026-06-11 20:23:04 -04",
   "compra_segundo": {
-    "price": 813.38,
-    "name": "AFNP15"
+    "price": 812.699,
+    "name": "ROCKandROLL08"
   },
   "venta_maxima": {
-    "price": 812.1,
+    "price": 815.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 812.74,
+  "promedio": 813.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
