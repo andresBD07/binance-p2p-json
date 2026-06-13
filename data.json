@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-12T23:53:05.000737",
-  "actualizado_vzla": "2026-06-12 19:53:05 -04",
+  "timestamp_utc": "2026-06-13T03:53:21.967722",
+  "actualizado_vzla": "2026-06-12 23:53:21 -04",
   "compra_segundo": {
-    "price": 799.7,
-    "name": "CAMBIOS-LEO"
+    "price": 802.4,
+    "name": "CryptoSharkDF"
   },
   "venta_maxima": {
-    "price": 800.1,
-    "name": "CriptoseguroAyM"
+    "price": 798.0,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 799.9,
+  "promedio": 800.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
