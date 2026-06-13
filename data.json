@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-06-13T18:58:56.235284",
-  "actualizado_vzla": "2026-06-13 14:58:56 -04",
+  "timestamp_utc": "2026-06-13T20:23:19.662125",
+  "actualizado_vzla": "2026-06-13 16:23:19 -04",
   "compra_segundo": {
-    "price": 800.0,
-    "name": "07-transpor"
+    "price": 799.49,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 799.5,
-    "name": "CANAIMA21"
+    "price": 800.0,
+    "name": "TheOchoa"
   },
   "promedio": 799.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
