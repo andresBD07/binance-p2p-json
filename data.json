@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-13T21:46:18.763320",
-  "actualizado_vzla": "2026-06-13 17:46:18 -04",
+  "timestamp_utc": "2026-06-13T22:50:08.715230",
+  "actualizado_vzla": "2026-06-13 18:50:08 -04",
   "compra_segundo": {
-    "price": 799.899,
-    "name": "VzlaProPago"
+    "price": 799.25,
+    "name": "Carlitos-trading"
   },
   "venta_maxima": {
-    "price": 802.3,
-    "name": "Rapidflorio84"
+    "price": 801.5,
+    "name": "TheOchoa"
   },
-  "promedio": 801.1,
+  "promedio": 800.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
