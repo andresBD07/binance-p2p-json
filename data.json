@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-13T07:50:24.303914",
-  "actualizado_vzla": "2026-06-13 03:50:24 -04",
+  "timestamp_utc": "2026-06-13T10:23:07.708176",
+  "actualizado_vzla": "2026-06-13 06:23:07 -04",
   "compra_segundo": {
-    "price": 803.69,
-    "name": "Jonathan_chuo_9"
+    "price": 801.5,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 796.6,
-    "name": "VenSniper"
+    "price": 799.6,
+    "name": "Dollarcityy"
   },
-  "promedio": 800.14,
+  "promedio": 800.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
