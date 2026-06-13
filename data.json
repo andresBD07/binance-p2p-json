@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-13T20:23:19.662125",
-  "actualizado_vzla": "2026-06-13 16:23:19 -04",
+  "timestamp_utc": "2026-06-13T21:46:18.763320",
+  "actualizado_vzla": "2026-06-13 17:46:18 -04",
   "compra_segundo": {
-    "price": 799.49,
-    "name": "hc-investings"
+    "price": 799.899,
+    "name": "VzlaProPago"
   },
   "venta_maxima": {
-    "price": 800.0,
-    "name": "TheOchoa"
+    "price": 802.3,
+    "name": "Rapidflorio84"
   },
-  "promedio": 799.75,
+  "promedio": 801.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
