@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T21:23:47.277607",
-  "actualizado_vzla": "2026-06-14 17:23:47 -04",
+  "timestamp_utc": "2026-06-14T22:42:13.679488",
+  "actualizado_vzla": "2026-06-14 18:42:13 -04",
   "compra_segundo": {
-    "price": 801.988,
-    "name": "MolinaJP_"
+    "price": 802.422,
+    "name": "ledezmagm"
   },
   "venta_maxima": {
-    "price": 802.5,
-    "name": "TheOchoa"
+    "price": 801.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 802.24,
+  "promedio": 801.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
