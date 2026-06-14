@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T05:02:27.179500",
-  "actualizado_vzla": "2026-06-14 01:02:27 -04",
+  "timestamp_utc": "2026-06-14T08:47:18.440116",
+  "actualizado_vzla": "2026-06-14 04:47:18 -04",
   "compra_segundo": {
-    "price": 802.9,
-    "name": "raParadas-31"
+    "price": 803.999,
+    "name": "漢-Kapo"
   },
   "venta_maxima": {
-    "price": 799.1,
-    "name": "MentalStagnums"
+    "price": 800.5,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 801.0,
+  "promedio": 802.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
