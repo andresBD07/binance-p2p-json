@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T11:20:16.427698",
-  "actualizado_vzla": "2026-06-14 07:20:16 -04",
+  "timestamp_utc": "2026-06-14T13:11:13.846564",
+  "actualizado_vzla": "2026-06-14 09:11:13 -04",
   "compra_segundo": {
-    "price": 802.797,
-    "name": "Jean1024"
+    "price": 802.53,
+    "name": "人民币FERMICON人民币"
   },
   "venta_maxima": {
-    "price": 799.0,
-    "name": "_Vortex12_"
+    "price": 799.503,
+    "name": "TOPlevelS"
   },
-  "promedio": 800.9,
+  "promedio": 801.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
