@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T15:19:35.838337",
-  "actualizado_vzla": "2026-06-14 11:19:35 -04",
+  "timestamp_utc": "2026-06-14T16:52:17.353128",
+  "actualizado_vzla": "2026-06-14 12:52:17 -04",
   "compra_segundo": {
-    "price": 802.0,
-    "name": "HMJ_2024"
+    "price": 801.488,
+    "name": "Be_Cripto"
   },
   "venta_maxima": {
-    "price": 800.5,
-    "name": "MentalStagnums"
+    "price": 802.0,
+    "name": "CambiosMZ"
   },
-  "promedio": 801.25,
+  "promedio": 801.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
