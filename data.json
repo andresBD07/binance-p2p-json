@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T22:42:13.679488",
-  "actualizado_vzla": "2026-06-14 18:42:13 -04",
+  "timestamp_utc": "2026-06-14T23:54:04.155407",
+  "actualizado_vzla": "2026-06-14 19:54:04 -04",
   "compra_segundo": {
-    "price": 802.422,
-    "name": "ledezmagm"
+    "price": 801.599,
+    "name": "EmherCapitalGroup"
   },
   "venta_maxima": {
-    "price": 801.5,
-    "name": "Blank_Mind"
+    "price": 801.75,
+    "name": "Redmagic17"
   },
-  "promedio": 801.96,
+  "promedio": 801.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
