@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T13:11:13.846564",
-  "actualizado_vzla": "2026-06-14 09:11:13 -04",
+  "timestamp_utc": "2026-06-14T15:19:35.838337",
+  "actualizado_vzla": "2026-06-14 11:19:35 -04",
   "compra_segundo": {
-    "price": 802.53,
-    "name": "人民币FERMICON人民币"
+    "price": 802.0,
+    "name": "HMJ_2024"
   },
   "venta_maxima": {
-    "price": 799.503,
-    "name": "TOPlevelS"
+    "price": 800.5,
+    "name": "MentalStagnums"
   },
-  "promedio": 801.02,
+  "promedio": 801.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
