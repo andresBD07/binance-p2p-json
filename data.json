@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-14T20:00:00.105718",
-  "actualizado_vzla": "2026-06-14 16:00:00 -04",
+  "timestamp_utc": "2026-06-14T21:23:47.277607",
+  "actualizado_vzla": "2026-06-14 17:23:47 -04",
   "compra_segundo": {
-    "price": 801.49,
-    "name": "CoinGonzo"
+    "price": 801.988,
+    "name": "MolinaJP_"
   },
   "venta_maxima": {
-    "price": 801.0,
-    "name": "CambiosMZ"
+    "price": 802.5,
+    "name": "TheOchoa"
   },
-  "promedio": 801.25,
+  "promedio": 802.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
