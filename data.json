@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-15T16:14:04.868607",
-  "actualizado_vzla": "2026-06-15 12:14:04 -04",
+  "timestamp_utc": "2026-06-15T19:57:25.309231",
+  "actualizado_vzla": "2026-06-15 15:57:25 -04",
   "compra_segundo": {
-    "price": 795.0,
-    "name": "Elleonesleo"
+    "price": 799.595,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 796.0,
-    "name": "Gustavo129"
+    "price": 804.5,
+    "name": "-Zeratul-"
   },
-  "promedio": 795.5,
+  "promedio": 802.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
