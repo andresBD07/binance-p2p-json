@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-15T19:57:25.309231",
-  "actualizado_vzla": "2026-06-15 15:57:25 -04",
+  "timestamp_utc": "2026-06-15T22:24:19.779694",
+  "actualizado_vzla": "2026-06-15 18:24:19 -04",
   "compra_segundo": {
-    "price": 799.595,
-    "name": "majog"
+    "price": 802.0,
+    "name": "VnzlaHero"
   },
   "venta_maxima": {
-    "price": 804.5,
-    "name": "-Zeratul-"
+    "price": 804.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 802.05,
+  "promedio": 803.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
