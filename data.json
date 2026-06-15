@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-15T10:51:23.415240",
-  "actualizado_vzla": "2026-06-15 06:51:23 -04",
+  "timestamp_utc": "2026-06-15T16:14:04.868607",
+  "actualizado_vzla": "2026-06-15 12:14:04 -04",
   "compra_segundo": {
-    "price": 800.48,
-    "name": "Nauzetj"
+    "price": 795.0,
+    "name": "Elleonesleo"
   },
   "venta_maxima": {
-    "price": 796.6,
-    "name": "Akadz"
+    "price": 796.0,
+    "name": "Gustavo129"
   },
-  "promedio": 798.54,
+  "promedio": 795.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
