@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-15T04:50:45.070227",
-  "actualizado_vzla": "2026-06-15 00:50:45 -04",
+  "timestamp_utc": "2026-06-15T10:51:23.415240",
+  "actualizado_vzla": "2026-06-15 06:51:23 -04",
   "compra_segundo": {
-    "price": 802.999,
-    "name": "JugadorFranquiicia1"
+    "price": 800.48,
+    "name": "Nauzetj"
   },
   "venta_maxima": {
-    "price": 797.2,
-    "name": "EKExpress"
+    "price": 796.6,
+    "name": "Akadz"
   },
-  "promedio": 800.1,
+  "promedio": 798.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
