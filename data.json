@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-16T00:12:19.334399",
-  "actualizado_vzla": "2026-06-15 20:12:19 -04",
+  "timestamp_utc": "2026-06-16T05:37:01.792433",
+  "actualizado_vzla": "2026-06-16 01:37:01 -04",
   "compra_segundo": {
-    "price": 802.99,
-    "name": "LEOCASHFAST"
+    "price": 799.999,
+    "name": "JoelonN"
   },
   "venta_maxima": {
-    "price": 804.0,
-    "name": "TheOchoa"
+    "price": 791.0,
+    "name": "raParadas-31"
   },
-  "promedio": 803.5,
+  "promedio": 795.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
