@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-16T10:30:21.128127",
-  "actualizado_vzla": "2026-06-16 06:30:21 -04",
+  "timestamp_utc": "2026-06-16T15:30:26.649976",
+  "actualizado_vzla": "2026-06-16 11:30:26 -04",
   "compra_segundo": {
-    "price": 796.4,
-    "name": "ZenTrades"
+    "price": 792.999,
+    "name": "Tato0403"
   },
   "venta_maxima": {
-    "price": 792.0,
-    "name": "User-95450"
+    "price": 794.0,
+    "name": "-Isalam-"
   },
-  "promedio": 794.2,
+  "promedio": 793.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
