@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-17T20:06:25.598361",
-  "actualizado_vzla": "2026-06-17 16:06:25 -04",
+  "timestamp_utc": "2026-06-17T22:13:38.035817",
+  "actualizado_vzla": "2026-06-17 18:13:38 -04",
   "compra_segundo": {
-    "price": 803.155,
-    "name": "High-Stakes-Streets2"
+    "price": 803.0,
+    "name": "恒常"
   },
   "venta_maxima": {
-    "price": 802.12,
-    "name": "TradeCampeon"
+    "price": 802.0,
+    "name": "安全与信任"
   },
-  "promedio": 802.64,
+  "promedio": 802.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
