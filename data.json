@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-17T14:56:06.381313",
-  "actualizado_vzla": "2026-06-17 10:56:06 -04",
+  "timestamp_utc": "2026-06-17T17:50:53.944053",
+  "actualizado_vzla": "2026-06-17 13:50:53 -04",
   "compra_segundo": {
-    "price": 788.8,
-    "name": "Tachira2008"
+    "price": 799.4,
+    "name": "_Dinastia_"
   },
   "venta_maxima": {
-    "price": 792.0,
-    "name": "安全与信任"
+    "price": 799.6,
+    "name": "-Isalam-"
   },
-  "promedio": 790.4,
+  "promedio": 799.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
