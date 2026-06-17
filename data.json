@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-16T23:13:51.632913",
-  "actualizado_vzla": "2026-06-16 19:13:51 -04",
+  "timestamp_utc": "2026-06-17T01:43:52.415499",
+  "actualizado_vzla": "2026-06-16 21:43:52 -04",
   "compra_segundo": {
-    "price": 802.78,
-    "name": "Betania"
+    "price": 802.0,
+    "name": "Criptohana"
   },
   "venta_maxima": {
-    "price": 807.0,
+    "price": 808.0,
     "name": "Trust-Broker"
   },
-  "promedio": 804.89,
+  "promedio": 805.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
