@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-17T22:13:38.035817",
-  "actualizado_vzla": "2026-06-17 18:13:38 -04",
+  "timestamp_utc": "2026-06-17T23:52:30.195890",
+  "actualizado_vzla": "2026-06-17 19:52:30 -04",
   "compra_segundo": {
-    "price": 803.0,
-    "name": "恒常"
+    "price": 800.0,
+    "name": "vilcambio "
   },
   "venta_maxima": {
-    "price": 802.0,
-    "name": "安全与信任"
+    "price": 799.0,
+    "name": "Bestseller"
   },
-  "promedio": 802.5,
+  "promedio": 799.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
