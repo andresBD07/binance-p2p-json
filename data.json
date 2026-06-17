@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-17T11:50:03.670830",
-  "actualizado_vzla": "2026-06-17 07:50:03 -04",
+  "timestamp_utc": "2026-06-17T14:56:06.381313",
+  "actualizado_vzla": "2026-06-17 10:56:06 -04",
   "compra_segundo": {
-    "price": 799.34,
-    "name": "JesusCrip"
+    "price": 788.8,
+    "name": "Tachira2008"
   },
   "venta_maxima": {
-    "price": 804.0,
-    "name": "ROMARIO-TRADER"
+    "price": 792.0,
+    "name": "安全与信任"
   },
-  "promedio": 801.67,
+  "promedio": 790.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
