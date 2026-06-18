@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-18T03:58:15.040423",
-  "actualizado_vzla": "2026-06-17 23:58:15 -04",
+  "timestamp_utc": "2026-06-18T08:53:25.743309",
+  "actualizado_vzla": "2026-06-18 04:53:25 -04",
   "compra_segundo": {
-    "price": 790.999,
-    "name": "GlobalEth"
+    "price": 792.0,
+    "name": "3_1415926535897932384626433832795028841971693993751058209749"
   },
   "venta_maxima": {
-    "price": 783.0,
-    "name": "Old Parr"
+    "price": 773.0,
+    "name": "-DRASIX-"
   },
-  "promedio": 787.0,
+  "promedio": 782.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
