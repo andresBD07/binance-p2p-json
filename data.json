@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-18T16:02:00.846486",
-  "actualizado_vzla": "2026-06-18 12:02:00 -04",
+  "timestamp_utc": "2026-06-18T18:32:58.900431",
+  "actualizado_vzla": "2026-06-18 14:32:58 -04",
   "compra_segundo": {
-    "price": 806.4,
-    "name": "NovaCambio"
+    "price": 805.5,
+    "name": "JesusGil"
   },
   "venta_maxima": {
-    "price": 806.0,
-    "name": "JordanBelfort-"
+    "price": 805.53,
+    "name": "Godisgift"
   },
-  "promedio": 806.2,
+  "promedio": 805.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
