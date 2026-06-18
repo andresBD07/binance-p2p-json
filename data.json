@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-18T18:32:58.900431",
-  "actualizado_vzla": "2026-06-18 14:32:58 -04",
+  "timestamp_utc": "2026-06-18T21:09:09.357858",
+  "actualizado_vzla": "2026-06-18 17:09:09 -04",
   "compra_segundo": {
-    "price": 805.5,
-    "name": "JesusGil"
+    "price": 804.8,
+    "name": "MACOR_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 805.53,
-    "name": "Godisgift"
+    "price": 804.0,
+    "name": "TheOchoa"
   },
-  "promedio": 805.51,
+  "promedio": 804.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
