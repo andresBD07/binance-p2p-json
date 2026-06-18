@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-18T21:09:09.357858",
-  "actualizado_vzla": "2026-06-18 17:09:09 -04",
+  "timestamp_utc": "2026-06-18T23:06:38.139931",
+  "actualizado_vzla": "2026-06-18 19:06:38 -04",
   "compra_segundo": {
-    "price": 804.8,
-    "name": "MACOR_CAMBIOS"
+    "price": 801.97,
+    "name": "CryptoLoverss"
   },
   "venta_maxima": {
-    "price": 804.0,
+    "price": 800.0,
     "name": "TheOchoa"
   },
-  "promedio": 804.4,
+  "promedio": 800.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
