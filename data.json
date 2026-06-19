@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-19T17:03:59.707920",
-  "actualizado_vzla": "2026-06-19 13:03:59 -04",
+  "timestamp_utc": "2026-06-19T19:07:40.729868",
+  "actualizado_vzla": "2026-06-19 15:07:40 -04",
   "compra_segundo": {
-    "price": 803.698,
-    "name": "Minato21"
+    "price": 804.0,
+    "name": "Rikomercios"
   },
   "venta_maxima": {
     "price": 805.0,
     "name": "Blank_Mind"
   },
-  "promedio": 804.35,
+  "promedio": 804.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
