@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-19T14:37:31.961714",
-  "actualizado_vzla": "2026-06-19 10:37:31 -04",
+  "timestamp_utc": "2026-06-19T17:03:59.707920",
+  "actualizado_vzla": "2026-06-19 13:03:59 -04",
   "compra_segundo": {
-    "price": 803.798,
-    "name": "TrustVelocity"
+    "price": 803.698,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 800.1,
-    "name": "s28gm"
+    "price": 805.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 801.95,
+  "promedio": 804.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
