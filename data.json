@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-19T02:04:52.332319",
-  "actualizado_vzla": "2026-06-18 22:04:52 -04",
+  "timestamp_utc": "2026-06-19T07:24:13.218715",
+  "actualizado_vzla": "2026-06-19 03:24:13 -04",
   "compra_segundo": {
-    "price": 798.599,
-    "name": "Verocomercio"
+    "price": 800.86,
+    "name": "Criptosafe_"
   },
   "venta_maxima": {
-    "price": 797.0,
-    "name": "TheOchoa"
+    "price": 792.0,
+    "name": "貝斯韋"
   },
-  "promedio": 797.8,
+  "promedio": 796.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
