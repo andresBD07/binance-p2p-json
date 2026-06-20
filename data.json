@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-20T04:46:41.343778",
-  "actualizado_vzla": "2026-06-20 00:46:41 -04",
+  "timestamp_utc": "2026-06-20T08:15:02.992509",
+  "actualizado_vzla": "2026-06-20 04:15:03 -04",
   "compra_segundo": {
-    "price": 811.689,
-    "name": "CryptoRapidoVE"
+    "price": 813.88,
+    "name": "CoinPilot1"
   },
   "venta_maxima": {
-    "price": 809.1,
-    "name": "Theking_11"
+    "price": 809.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 810.39,
+  "promedio": 811.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
