@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-20T21:53:43.712050",
-  "actualizado_vzla": "2026-06-20 17:53:43 -04",
+  "timestamp_utc": "2026-06-20T23:11:30.045633",
+  "actualizado_vzla": "2026-06-20 19:11:30 -04",
   "compra_segundo": {
-    "price": 801.45,
-    "name": "Doctora_Pena"
+    "price": 798.49,
+    "name": "CryptoTrader"
   },
   "venta_maxima": {
     "price": 809.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 805.23,
+  "promedio": 803.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
