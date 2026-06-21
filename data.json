@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-21T01:40:53.780157",
-  "actualizado_vzla": "2026-06-20 21:40:53 -04",
+  "timestamp_utc": "2026-06-21T06:32:27.065169",
+  "actualizado_vzla": "2026-06-21 02:32:27 -04",
   "compra_segundo": {
-    "price": 801.05,
-    "name": "AdriV-P2P"
+    "price": 804.0,
+    "name": "JMCrip26"
   },
   "venta_maxima": {
-    "price": 807.0,
-    "name": "CriptoseguroAyM"
+    "price": 799.0,
+    "name": "黑块黑块"
   },
-  "promedio": 804.02,
+  "promedio": 801.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
