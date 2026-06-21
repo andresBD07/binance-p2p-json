@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-21T10:19:54.704162",
-  "actualizado_vzla": "2026-06-21 06:19:54 -04",
+  "timestamp_utc": "2026-06-21T12:23:31.385211",
+  "actualizado_vzla": "2026-06-21 08:23:31 -04",
   "compra_segundo": {
-    "price": 803.8,
-    "name": "Jyqz"
+    "price": 802.36,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 796.7,
-    "name": "BalduinoIV"
+    "price": 806.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 800.25,
+  "promedio": 804.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
