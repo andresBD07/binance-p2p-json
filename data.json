@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-21T14:41:47.999416",
-  "actualizado_vzla": "2026-06-21 10:41:48 -04",
+  "timestamp_utc": "2026-06-21T16:21:52.966011",
+  "actualizado_vzla": "2026-06-21 12:21:52 -04",
   "compra_segundo": {
-    "price": 799.469,
-    "name": "GusGus-777"
+    "price": 799.0,
+    "name": "LIBERTY -P2P"
   },
   "venta_maxima": {
-    "price": 806.0,
+    "price": 804.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 802.73,
+  "promedio": 801.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
