@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-21T18:03:53.038981",
-  "actualizado_vzla": "2026-06-21 14:03:53 -04",
+  "timestamp_utc": "2026-06-21T19:59:26.342176",
+  "actualizado_vzla": "2026-06-21 15:59:26 -04",
   "compra_segundo": {
-    "price": 796.5,
-    "name": "AlfredoCambios19"
+    "price": 791.59,
+    "name": "ExpresYRapidD"
   },
   "venta_maxima": {
-    "price": 802.5,
-    "name": "Blank_Mind"
+    "price": 797.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 799.5,
+  "promedio": 794.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
