@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-21T21:37:54.470006",
-  "actualizado_vzla": "2026-06-21 17:37:54 -04",
+  "timestamp_utc": "2026-06-21T22:48:57.262674",
+  "actualizado_vzla": "2026-06-21 18:48:57 -04",
   "compra_segundo": {
-    "price": 787.499,
-    "name": "UroTrader"
+    "price": 780.45,
+    "name": "AbyBruce"
   },
   "venta_maxima": {
-    "price": 793.0,
+    "price": 783.0,
     "name": "Blank_Mind"
   },
-  "promedio": 790.25,
+  "promedio": 781.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
