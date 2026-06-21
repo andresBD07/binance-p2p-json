@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-20T23:11:30.045633",
-  "actualizado_vzla": "2026-06-20 19:11:30 -04",
+  "timestamp_utc": "2026-06-21T01:40:53.780157",
+  "actualizado_vzla": "2026-06-20 21:40:53 -04",
   "compra_segundo": {
-    "price": 798.49,
-    "name": "CryptoTrader"
+    "price": 801.05,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
-    "price": 809.0,
-    "name": "被放逐的狐狸"
+    "price": 807.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 803.75,
+  "promedio": 804.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
