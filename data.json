@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-22T05:26:20.842880",
-  "actualizado_vzla": "2026-06-22 01:26:20 -04",
+  "timestamp_utc": "2026-06-22T11:16:10.402851",
+  "actualizado_vzla": "2026-06-22 07:16:10 -04",
   "compra_segundo": {
-    "price": 780.0,
-    "name": "JCR-P2P-1522"
+    "price": 765.995,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 770.2,
-    "name": "Wis3Trading"
+    "price": 758.0,
+    "name": "Escocrida"
   },
-  "promedio": 775.1,
+  "promedio": 762.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
