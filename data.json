@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-22T00:03:01.074769",
-  "actualizado_vzla": "2026-06-21 20:03:01 -04",
+  "timestamp_utc": "2026-06-22T05:26:20.842880",
+  "actualizado_vzla": "2026-06-22 01:26:20 -04",
   "compra_segundo": {
-    "price": 783.0,
-    "name": "Gatsby_24"
+    "price": 780.0,
+    "name": "JCR-P2P-1522"
   },
   "venta_maxima": {
-    "price": 782.0,
-    "name": "Blank_Mind"
+    "price": 770.2,
+    "name": "Wis3Trading"
   },
-  "promedio": 782.5,
+  "promedio": 775.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
