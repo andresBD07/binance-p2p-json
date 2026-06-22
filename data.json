@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-22T16:04:07.817724",
-  "actualizado_vzla": "2026-06-22 12:04:07 -04",
+  "timestamp_utc": "2026-06-22T19:42:42.222139",
+  "actualizado_vzla": "2026-06-22 15:42:42 -04",
   "compra_segundo": {
-    "price": 796.198,
-    "name": "47ronim"
+    "price": 797.0,
+    "name": "Jyplusca"
   },
   "venta_maxima": {
-    "price": 799.0,
-    "name": "Blank_Mind"
+    "price": 797.1,
+    "name": "Money77ves"
   },
-  "promedio": 797.6,
+  "promedio": 797.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
