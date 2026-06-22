@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-21T22:48:57.262674",
-  "actualizado_vzla": "2026-06-21 18:48:57 -04",
+  "timestamp_utc": "2026-06-22T00:03:01.074769",
+  "actualizado_vzla": "2026-06-21 20:03:01 -04",
   "compra_segundo": {
-    "price": 780.45,
-    "name": "AbyBruce"
+    "price": 783.0,
+    "name": "Gatsby_24"
   },
   "venta_maxima": {
-    "price": 783.0,
+    "price": 782.0,
     "name": "Blank_Mind"
   },
-  "promedio": 781.73,
+  "promedio": 782.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
