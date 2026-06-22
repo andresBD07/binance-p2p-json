@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-22T11:16:10.402851",
-  "actualizado_vzla": "2026-06-22 07:16:10 -04",
+  "timestamp_utc": "2026-06-22T16:04:07.817724",
+  "actualizado_vzla": "2026-06-22 12:04:07 -04",
   "compra_segundo": {
-    "price": 765.995,
-    "name": "Trading_professional"
+    "price": 796.198,
+    "name": "47ronim"
   },
   "venta_maxima": {
-    "price": 758.0,
-    "name": "Escocrida"
+    "price": 799.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 762.0,
+  "promedio": 797.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
