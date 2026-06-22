@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-22T21:50:38.541334",
-  "actualizado_vzla": "2026-06-22 17:50:38 -04",
+  "timestamp_utc": "2026-06-22T23:14:27.618870",
+  "actualizado_vzla": "2026-06-22 19:14:27 -04",
   "compra_segundo": {
-    "price": 795.661,
-    "name": "CRapidoP2P"
+    "price": 787.6,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 794.0,
-    "name": "Blank_Mind"
+    "price": 785.8,
+    "name": "YAMISENSEI"
   },
-  "promedio": 794.83,
+  "promedio": 786.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
