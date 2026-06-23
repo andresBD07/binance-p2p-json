@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-23T17:21:41.437385",
-  "actualizado_vzla": "2026-06-23 13:21:41 -04",
+  "timestamp_utc": "2026-06-23T19:24:30.995922",
+  "actualizado_vzla": "2026-06-23 15:24:31 -04",
   "compra_segundo": {
-    "price": 794.999,
-    "name": "ECOcambio"
+    "price": 793.0,
+    "name": "SecurityMaster"
   },
   "venta_maxima": {
-    "price": 793.5,
-    "name": "LEYENDAOTC"
+    "price": 793.0,
+    "name": "-Isalam-"
   },
-  "promedio": 794.25,
+  "promedio": 793.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
