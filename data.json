@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-22T23:14:27.618870",
-  "actualizado_vzla": "2026-06-22 19:14:27 -04",
+  "timestamp_utc": "2026-06-23T01:25:28.900659",
+  "actualizado_vzla": "2026-06-22 21:25:28 -04",
   "compra_segundo": {
-    "price": 787.6,
-    "name": "EXDOMO"
+    "price": 790.999,
+    "name": "InversionesSDYJYS7"
   },
   "venta_maxima": {
-    "price": 785.8,
-    "name": "YAMISENSEI"
+    "price": 787.8,
+    "name": "BOLO-USDT"
   },
-  "promedio": 786.7,
+  "promedio": 789.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
