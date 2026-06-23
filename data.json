@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-23T08:50:05.328336",
-  "actualizado_vzla": "2026-06-23 04:50:05 -04",
+  "timestamp_utc": "2026-06-23T11:54:09.937000",
+  "actualizado_vzla": "2026-06-23 07:54:09 -04",
   "compra_segundo": {
-    "price": 791.6,
-    "name": "Gatsby_24"
+    "price": 792.7,
+    "name": "TuRemesaInt"
   },
   "venta_maxima": {
-    "price": 783.0,
-    "name": "Lear71"
+    "price": 792.0,
+    "name": "MORDEKAISER10"
   },
-  "promedio": 787.3,
+  "promedio": 792.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
