@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-23T21:14:37.465973",
-  "actualizado_vzla": "2026-06-23 17:14:37 -04",
+  "timestamp_utc": "2026-06-23T22:40:36.347866",
+  "actualizado_vzla": "2026-06-23 18:40:36 -04",
   "compra_segundo": {
-    "price": 795.39,
-    "name": "P2pintelegence"
+    "price": 795.0,
+    "name": "Gldiador_1997"
   },
   "venta_maxima": {
-    "price": 793.6,
-    "name": "SureXchanges"
+    "price": 793.2,
+    "name": "affg"
   },
-  "promedio": 794.5,
+  "promedio": 794.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
