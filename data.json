@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-23T11:54:09.937000",
-  "actualizado_vzla": "2026-06-23 07:54:09 -04",
+  "timestamp_utc": "2026-06-23T15:10:44.077161",
+  "actualizado_vzla": "2026-06-23 11:10:44 -04",
   "compra_segundo": {
-    "price": 792.7,
-    "name": "TuRemesaInt"
+    "price": 792.999,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
-    "price": 792.0,
-    "name": "MORDEKAISER10"
+    "price": 791.0,
+    "name": "GIROSAMERICA"
   },
-  "promedio": 792.35,
+  "promedio": 792.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
