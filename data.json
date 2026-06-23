@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-23T05:46:22.786220",
-  "actualizado_vzla": "2026-06-23 01:46:22 -04",
+  "timestamp_utc": "2026-06-23T08:50:05.328336",
+  "actualizado_vzla": "2026-06-23 04:50:05 -04",
   "compra_segundo": {
-    "price": 790.5,
-    "name": "USDealerT"
+    "price": 791.6,
+    "name": "Gatsby_24"
   },
   "venta_maxima": {
-    "price": 784.798,
-    "name": "D-zta"
+    "price": 783.0,
+    "name": "Lear71"
   },
-  "promedio": 787.65,
+  "promedio": 787.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
