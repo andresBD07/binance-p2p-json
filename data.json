@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-24T09:31:41.987259",
-  "actualizado_vzla": "2026-06-24 05:31:41 -04",
+  "timestamp_utc": "2026-06-24T12:07:24.076888",
+  "actualizado_vzla": "2026-06-24 08:07:24 -04",
   "compra_segundo": {
-    "price": 798.3,
-    "name": "Agrosnj120_"
+    "price": 798.9,
+    "name": "CryptoSharkDF"
   },
   "venta_maxima": {
-    "price": 793.5,
-    "name": "THEBOSSTRADER"
+    "price": 797.0,
+    "name": "LEYENDAOTC"
   },
-  "promedio": 795.9,
+  "promedio": 797.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
