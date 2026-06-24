@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-24T05:53:00.635657",
-  "actualizado_vzla": "2026-06-24 01:53:00 -04",
+  "timestamp_utc": "2026-06-24T09:31:41.987259",
+  "actualizado_vzla": "2026-06-24 05:31:41 -04",
   "compra_segundo": {
-    "price": 798.0,
-    "name": "ChangerExpress"
+    "price": 798.3,
+    "name": "Agrosnj120_"
   },
   "venta_maxima": {
     "price": 793.5,
     "name": "THEBOSSTRADER"
   },
-  "promedio": 795.75,
+  "promedio": 795.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
