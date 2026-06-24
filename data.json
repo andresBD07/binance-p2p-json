@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-24T19:04:03.118801",
-  "actualizado_vzla": "2026-06-24 15:04:03 -04",
+  "timestamp_utc": "2026-06-24T20:54:09.272133",
+  "actualizado_vzla": "2026-06-24 16:54:09 -04",
   "compra_segundo": {
-    "price": 795.5,
-    "name": "Mr_Nasdaq"
+    "price": 795.699,
+    "name": "Gibit"
   },
   "venta_maxima": {
-    "price": 795.1,
-    "name": "Akadz"
+    "price": 794.15,
+    "name": "Trust-Broker"
   },
-  "promedio": 795.3,
+  "promedio": 794.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
