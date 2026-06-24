@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-24T01:46:29.185783",
-  "actualizado_vzla": "2026-06-23 21:46:29 -04",
+  "timestamp_utc": "2026-06-24T05:53:00.635657",
+  "actualizado_vzla": "2026-06-24 01:53:00 -04",
   "compra_segundo": {
-    "price": 796.35,
-    "name": "ANMAIYANME"
+    "price": 798.0,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
-    "price": 794.0,
-    "name": "MaestroRoshi-"
+    "price": 793.5,
+    "name": "THEBOSSTRADER"
   },
-  "promedio": 795.17,
+  "promedio": 795.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
