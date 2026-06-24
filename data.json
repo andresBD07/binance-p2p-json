@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-23T23:41:55.358740",
-  "actualizado_vzla": "2026-06-23 19:41:55 -04",
+  "timestamp_utc": "2026-06-24T01:46:29.185783",
+  "actualizado_vzla": "2026-06-23 21:46:29 -04",
   "compra_segundo": {
-    "price": 793.839,
-    "name": "Bet_Guimel"
+    "price": 796.35,
+    "name": "ANMAIYANME"
   },
   "venta_maxima": {
-    "price": 792.5,
-    "name": "Gustavo129"
+    "price": 794.0,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 793.17,
+  "promedio": 795.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
