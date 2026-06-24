@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-24T22:20:54.659101",
-  "actualizado_vzla": "2026-06-24 18:20:54 -04",
+  "timestamp_utc": "2026-06-24T23:40:19.568577",
+  "actualizado_vzla": "2026-06-24 19:40:19 -04",
   "compra_segundo": {
-    "price": 789.599,
-    "name": "Golla_Usdt"
+    "price": 788.29,
+    "name": "Perfect_Process"
   },
   "venta_maxima": {
-    "price": 789.0,
-    "name": "ADLRExpress"
+    "price": 787.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 789.3,
+  "promedio": 787.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
