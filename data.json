@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-25T01:49:58.924659",
-  "actualizado_vzla": "2026-06-24 21:49:58 -04",
+  "timestamp_utc": "2026-06-25T05:59:36.081645",
+  "actualizado_vzla": "2026-06-25 01:59:36 -04",
   "compra_segundo": {
-    "price": 786.5,
-    "name": "Alcambio_25"
+    "price": 793.0,
+    "name": "Panamtrading"
   },
   "venta_maxima": {
-    "price": 787.0,
-    "name": "JFerrerCambios"
+    "price": 786.11,
+    "name": "THEBOSSTRADER"
   },
-  "promedio": 786.75,
+  "promedio": 789.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
