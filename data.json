@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-25T17:23:55.432870",
-  "actualizado_vzla": "2026-06-25 13:23:55 -04",
+  "timestamp_utc": "2026-06-25T19:24:46.128593",
+  "actualizado_vzla": "2026-06-25 15:24:46 -04",
   "compra_segundo": {
-    "price": 790.3,
-    "name": "1Jm_trade28"
+    "price": 791.13,
+    "name": "_TropiCoqueta_"
   },
   "venta_maxima": {
-    "price": 788.0,
-    "name": "SasukeTrader"
+    "price": 790.0,
+    "name": "CANAIMA21"
   },
-  "promedio": 789.15,
+  "promedio": 790.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
