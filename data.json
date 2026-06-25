@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-25T09:38:52.680410",
-  "actualizado_vzla": "2026-06-25 05:38:52 -04",
+  "timestamp_utc": "2026-06-25T12:06:02.458944",
+  "actualizado_vzla": "2026-06-25 08:06:02 -04",
   "compra_segundo": {
-    "price": 794.0,
-    "name": "EKExpress"
+    "price": 789.0,
+    "name": "Grios0511"
   },
   "venta_maxima": {
-    "price": 786.0,
-    "name": "AURUM-"
+    "price": 785.5,
+    "name": "AlphaWolfp2p"
   },
-  "promedio": 790.0,
+  "promedio": 787.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
