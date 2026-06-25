@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-24T23:40:19.568577",
-  "actualizado_vzla": "2026-06-24 19:40:19 -04",
+  "timestamp_utc": "2026-06-25T01:49:58.924659",
+  "actualizado_vzla": "2026-06-24 21:49:58 -04",
   "compra_segundo": {
-    "price": 788.29,
-    "name": "Perfect_Process"
+    "price": 786.5,
+    "name": "Alcambio_25"
   },
   "venta_maxima": {
-    "price": 787.005,
-    "name": "Trust-Broker"
+    "price": 787.0,
+    "name": "JFerrerCambios"
   },
-  "promedio": 787.65,
+  "promedio": 786.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
