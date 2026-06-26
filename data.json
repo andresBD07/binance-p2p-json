@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T21:09:37.670882",
-  "actualizado_vzla": "2026-06-26 17:09:37 -04",
+  "timestamp_utc": "2026-06-26T22:37:05.789001",
+  "actualizado_vzla": "2026-06-26 18:37:05 -04",
   "compra_segundo": {
-    "price": 776.69,
-    "name": "InverVictM"
+    "price": 776.899,
+    "name": "JPapaupa_Cripto"
   },
   "venta_maxima": {
-    "price": 778.3,
-    "name": "YKBank"
+    "price": 775.5,
+    "name": "Gustavo129"
   },
-  "promedio": 777.5,
+  "promedio": 776.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
