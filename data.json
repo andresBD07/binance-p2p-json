@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T19:40:46.501075",
-  "actualizado_vzla": "2026-06-26 15:40:46 -04",
+  "timestamp_utc": "2026-06-26T21:09:37.670882",
+  "actualizado_vzla": "2026-06-26 17:09:37 -04",
   "compra_segundo": {
-    "price": 779.0,
-    "name": "P2PGsmart"
+    "price": 776.69,
+    "name": "InverVictM"
   },
   "venta_maxima": {
-    "price": 778.1,
-    "name": "LordCambios"
+    "price": 778.3,
+    "name": "YKBank"
   },
-  "promedio": 778.55,
+  "promedio": 777.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
