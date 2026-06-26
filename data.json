@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T00:04:55.654243",
-  "actualizado_vzla": "2026-06-25 20:04:55 -04",
+  "timestamp_utc": "2026-06-26T04:37:38.786324",
+  "actualizado_vzla": "2026-06-26 00:37:38 -04",
   "compra_segundo": {
-    "price": 791.37,
-    "name": "NXTrade57"
+    "price": 793.2,
+    "name": "FTAIRG"
   },
   "venta_maxima": {
-    "price": 790.001,
-    "name": "P2P-18cdcaje"
+    "price": 788.0,
+    "name": "-TSxRV-"
   },
-  "promedio": 790.69,
+  "promedio": 790.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
