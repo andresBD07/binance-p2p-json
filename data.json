@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T17:50:40.510165",
-  "actualizado_vzla": "2026-06-26 13:50:40 -04",
+  "timestamp_utc": "2026-06-26T19:40:46.501075",
+  "actualizado_vzla": "2026-06-26 15:40:46 -04",
   "compra_segundo": {
-    "price": 775.0,
-    "name": "VictorVTC"
+    "price": 779.0,
+    "name": "P2PGsmart"
   },
   "venta_maxima": {
-    "price": 776.0,
-    "name": "TPhillips"
+    "price": 778.1,
+    "name": "LordCambios"
   },
-  "promedio": 775.5,
+  "promedio": 778.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
