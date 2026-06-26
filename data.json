@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T04:37:38.786324",
-  "actualizado_vzla": "2026-06-26 00:37:38 -04",
+  "timestamp_utc": "2026-06-26T08:20:01.161950",
+  "actualizado_vzla": "2026-06-26 04:20:01 -04",
   "compra_segundo": {
-    "price": 793.2,
-    "name": "FTAIRG"
+    "price": 794.2,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 788.0,
-    "name": "-TSxRV-"
+    "price": 787.798,
+    "name": "D-zta"
   },
-  "promedio": 790.6,
+  "promedio": 791.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
