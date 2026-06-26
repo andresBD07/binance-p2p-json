@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T22:37:05.789001",
-  "actualizado_vzla": "2026-06-26 18:37:05 -04",
+  "timestamp_utc": "2026-06-26T23:46:17.861244",
+  "actualizado_vzla": "2026-06-26 19:46:17 -04",
   "compra_segundo": {
-    "price": 776.899,
-    "name": "JPapaupa_Cripto"
+    "price": 772.5,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 775.5,
-    "name": "Gustavo129"
+    "price": 773.6,
+    "name": "angelchacon"
   },
-  "promedio": 776.2,
+  "promedio": 773.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
