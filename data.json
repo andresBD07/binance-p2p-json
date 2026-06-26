@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-26T11:20:38.852937",
-  "actualizado_vzla": "2026-06-26 07:20:38 -04",
+  "timestamp_utc": "2026-06-26T13:27:14.579654",
+  "actualizado_vzla": "2026-06-26 09:27:14 -04",
   "compra_segundo": {
-    "price": 792.95,
-    "name": "WillyWonka-"
+    "price": 787.0,
+    "name": "NexusPremiun"
   },
   "venta_maxima": {
-    "price": 789.3,
-    "name": "Manda2-"
+    "price": 785.8,
+    "name": "Gober77"
   },
-  "promedio": 791.12,
+  "promedio": 786.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
