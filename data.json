@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T08:18:17.698237",
-  "actualizado_vzla": "2026-06-27 04:18:17 -04",
+  "timestamp_utc": "2026-06-27T10:30:11.956326",
+  "actualizado_vzla": "2026-06-27 06:30:11 -04",
   "compra_segundo": {
-    "price": 783.7,
-    "name": "ComercioJRG"
+    "price": 781.5,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 776.8,
-    "name": "RONIN_CAPITAL"
+    "price": 776.07,
+    "name": "AlejandrinhoP2P"
   },
-  "promedio": 780.25,
+  "promedio": 778.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
