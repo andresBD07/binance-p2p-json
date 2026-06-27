@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T05:41:20.542148",
-  "actualizado_vzla": "2026-06-27 01:41:20 -04",
+  "timestamp_utc": "2026-06-27T08:18:17.698237",
+  "actualizado_vzla": "2026-06-27 04:18:17 -04",
   "compra_segundo": {
-    "price": 783.0,
-    "name": "Old Parr"
+    "price": 783.7,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 777.6,
-    "name": "CriptoCambiosVzla"
+    "price": 776.8,
+    "name": "RONIN_CAPITAL"
   },
-  "promedio": 780.3,
+  "promedio": 780.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
