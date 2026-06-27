@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T17:49:27.760246",
-  "actualizado_vzla": "2026-06-27 13:49:27 -04",
+  "timestamp_utc": "2026-06-27T19:05:04.930185",
+  "actualizado_vzla": "2026-06-27 15:05:04 -04",
   "compra_segundo": {
-    "price": 773.5,
-    "name": "ALBERTSIT0_P2P"
+    "price": 772.47,
+    "name": "Gabrielavls"
   },
   "venta_maxima": {
-    "price": 775.5,
-    "name": "Blank_Mind"
+    "price": 774.3,
+    "name": "NexusOps"
   },
-  "promedio": 774.5,
+  "promedio": 773.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
