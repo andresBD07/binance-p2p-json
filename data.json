@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T21:34:46.370463",
-  "actualizado_vzla": "2026-06-27 17:34:46 -04",
+  "timestamp_utc": "2026-06-27T22:41:36.189002",
+  "actualizado_vzla": "2026-06-27 18:41:36 -04",
   "compra_segundo": {
-    "price": 769.3,
-    "name": "Seveeen"
+    "price": 769.399,
+    "name": "Beregoza"
   },
   "venta_maxima": {
-    "price": 768.4,
-    "name": "黑块黑块"
+    "price": 771.0,
+    "name": "ROMARIO-TRADER"
   },
-  "promedio": 768.85,
+  "promedio": 770.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
