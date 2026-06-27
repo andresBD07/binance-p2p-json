@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T19:05:04.930185",
-  "actualizado_vzla": "2026-06-27 15:05:04 -04",
+  "timestamp_utc": "2026-06-27T20:18:40.386617",
+  "actualizado_vzla": "2026-06-27 16:18:40 -04",
   "compra_segundo": {
-    "price": 772.47,
-    "name": "Gabrielavls"
+    "price": 772.2,
+    "name": "inversiones Emiliano"
   },
   "venta_maxima": {
-    "price": 774.3,
-    "name": "NexusOps"
+    "price": 771.5,
+    "name": "Bianchiplus"
   },
-  "promedio": 773.38,
+  "promedio": 771.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
