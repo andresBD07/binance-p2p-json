@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T15:35:26.171766",
-  "actualizado_vzla": "2026-06-27 11:35:26 -04",
+  "timestamp_utc": "2026-06-27T16:44:50.201053",
+  "actualizado_vzla": "2026-06-27 12:44:50 -04",
   "compra_segundo": {
-    "price": 775.0,
-    "name": "_DeathNote_"
+    "price": 773.85,
+    "name": "MangoConAdoboT"
   },
   "venta_maxima": {
-    "price": 776.1,
-    "name": "TradeLion2026"
+    "price": 1000.0,
+    "name": "ChangesExpresS"
   },
-  "promedio": 775.55,
+  "promedio": 886.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
