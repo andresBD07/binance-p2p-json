@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-27T10:30:11.956326",
-  "actualizado_vzla": "2026-06-27 06:30:11 -04",
+  "timestamp_utc": "2026-06-27T11:58:33.952676",
+  "actualizado_vzla": "2026-06-27 07:58:33 -04",
   "compra_segundo": {
-    "price": 781.5,
-    "name": "TradEr2025_Drjgh"
+    "price": 779.295,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 776.07,
-    "name": "AlejandrinhoP2P"
+    "price": 777.1,
+    "name": "LordCambios"
   },
-  "promedio": 778.79,
+  "promedio": 778.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
