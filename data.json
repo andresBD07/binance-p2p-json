@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-28T13:01:47.279975",
-  "actualizado_vzla": "2026-06-28 09:01:47 -04",
+  "timestamp_utc": "2026-06-28T14:54:56.103807",
+  "actualizado_vzla": "2026-06-28 10:54:56 -04",
   "compra_segundo": {
-    "price": 772.1,
-    "name": "el_jose_jose"
+    "price": 771.5,
+    "name": "REMESAS_M_L_Y_YORBIS"
   },
   "venta_maxima": {
-    "price": 770.4,
-    "name": "EXCHANGE-PRO"
+    "price": 771.15,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 771.25,
+  "promedio": 771.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
