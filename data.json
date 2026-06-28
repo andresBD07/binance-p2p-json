@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-28T06:33:11.903778",
-  "actualizado_vzla": "2026-06-28 02:33:11 -04",
+  "timestamp_utc": "2026-06-28T09:45:08.463977",
+  "actualizado_vzla": "2026-06-28 05:45:08 -04",
   "compra_segundo": {
-    "price": 773.0,
-    "name": "Importinggroup"
+    "price": 773.5,
+    "name": "EA_FastPay"
   },
   "venta_maxima": {
     "price": 770.105,
     "name": "Trust-Broker"
   },
-  "promedio": 771.55,
+  "promedio": 771.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
