@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-28T11:27:05.444493",
-  "actualizado_vzla": "2026-06-28 07:27:05 -04",
+  "timestamp_utc": "2026-06-28T13:01:47.279975",
+  "actualizado_vzla": "2026-06-28 09:01:47 -04",
   "compra_segundo": {
-    "price": 773.0,
-    "name": "Importinggroup"
+    "price": 772.1,
+    "name": "el_jose_jose"
   },
   "venta_maxima": {
-    "price": 770.3,
-    "name": "-DRASIX-"
+    "price": 770.4,
+    "name": "EXCHANGE-PRO"
   },
-  "promedio": 771.65,
+  "promedio": 771.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
