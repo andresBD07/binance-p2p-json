@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-28T17:39:32.324218",
-  "actualizado_vzla": "2026-06-28 13:39:32 -04",
+  "timestamp_utc": "2026-06-28T18:51:31.466683",
+  "actualizado_vzla": "2026-06-28 14:51:31 -04",
   "compra_segundo": {
-    "price": 771.8,
-    "name": "MarDiodoros"
+    "price": 770.99,
+    "name": "HectorljD"
   },
   "venta_maxima": {
-    "price": 772.0,
+    "price": 770.5,
     "name": "friday18"
   },
-  "promedio": 771.9,
+  "promedio": 770.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
