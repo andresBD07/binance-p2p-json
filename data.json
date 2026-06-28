@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-28T21:30:42.886553",
-  "actualizado_vzla": "2026-06-28 17:30:42 -04",
+  "timestamp_utc": "2026-06-28T22:40:13.900686",
+  "actualizado_vzla": "2026-06-28 18:40:13 -04",
   "compra_segundo": {
     "price": 771.0,
     "name": "_MoneYca_"
   },
   "venta_maxima": {
-    "price": 771.1,
-    "name": "THE_BOSS_962"
+    "price": 770.0,
+    "name": "LordCambios"
   },
-  "promedio": 771.05,
+  "promedio": 770.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
