@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-28T22:40:13.900686",
-  "actualizado_vzla": "2026-06-28 18:40:13 -04",
+  "timestamp_utc": "2026-06-28T23:48:13.524287",
+  "actualizado_vzla": "2026-06-28 19:48:13 -04",
   "compra_segundo": {
-    "price": 771.0,
-    "name": "_MoneYca_"
+    "price": 770.89,
+    "name": "High-Stakes-Streets2"
   },
   "venta_maxima": {
     "price": 770.0,
-    "name": "LordCambios"
+    "name": "CHAPMANGOLD_TRADING"
   },
-  "promedio": 770.5,
+  "promedio": 770.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
