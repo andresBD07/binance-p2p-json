@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-29T21:53:03.999496",
-  "actualizado_vzla": "2026-06-29 17:53:04 -04",
+  "timestamp_utc": "2026-06-29T22:59:31.162632",
+  "actualizado_vzla": "2026-06-29 18:59:31 -04",
   "compra_segundo": {
-    "price": 753.0,
-    "name": "Trader_QueenCripto"
+    "price": 747.77,
+    "name": "AllDayTrade"
   },
   "venta_maxima": {
-    "price": 753.6,
-    "name": "CambioSExpreessS"
+    "price": 747.0,
+    "name": "Gatsby_24"
   },
-  "promedio": 753.3,
+  "promedio": 747.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
