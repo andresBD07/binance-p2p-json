@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-29T12:06:48.686748",
-  "actualizado_vzla": "2026-06-29 08:06:48 -04",
+  "timestamp_utc": "2026-06-29T16:09:30.143189",
+  "actualizado_vzla": "2026-06-29 12:09:30 -04",
   "compra_segundo": {
-    "price": 772.99,
-    "name": "HarlenCH"
+    "price": 764.199,
+    "name": "DesdeLatam"
   },
   "venta_maxima": {
-    "price": 772.0,
-    "name": "SojiroX"
+    "price": 764.5,
+    "name": "friday18"
   },
-  "promedio": 772.5,
+  "promedio": 764.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
