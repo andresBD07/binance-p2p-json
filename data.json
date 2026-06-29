@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-29T20:24:58.617132",
-  "actualizado_vzla": "2026-06-29 16:24:58 -04",
+  "timestamp_utc": "2026-06-29T21:53:03.999496",
+  "actualizado_vzla": "2026-06-29 17:53:04 -04",
   "compra_segundo": {
-    "price": 747.5,
-    "name": "ZilongFast"
+    "price": 753.0,
+    "name": "Trader_QueenCripto"
   },
   "venta_maxima": {
-    "price": 748.0,
-    "name": "Walkerw1"
+    "price": 753.6,
+    "name": "CambioSExpreessS"
   },
-  "promedio": 747.75,
+  "promedio": 753.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
