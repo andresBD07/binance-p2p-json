@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-29T07:03:28.646327",
-  "actualizado_vzla": "2026-06-29 03:03:28 -04",
+  "timestamp_utc": "2026-06-29T12:06:48.686748",
+  "actualizado_vzla": "2026-06-29 08:06:48 -04",
   "compra_segundo": {
-    "price": 774.999,
-    "name": "漢-Kapo"
+    "price": 772.99,
+    "name": "HarlenCH"
   },
   "venta_maxima": {
-    "price": 770.2,
-    "name": "ReadyToTrade_"
+    "price": 772.0,
+    "name": "SojiroX"
   },
-  "promedio": 772.6,
+  "promedio": 772.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
