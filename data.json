@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-29T18:23:42.995529",
-  "actualizado_vzla": "2026-06-29 14:23:43 -04",
+  "timestamp_utc": "2026-06-29T20:24:58.617132",
+  "actualizado_vzla": "2026-06-29 16:24:58 -04",
   "compra_segundo": {
-    "price": 764.3,
-    "name": "Numero-18"
+    "price": 747.5,
+    "name": "ZilongFast"
   },
   "venta_maxima": {
-    "price": 764.0,
-    "name": "friday18"
+    "price": 748.0,
+    "name": "Walkerw1"
   },
-  "promedio": 764.15,
+  "promedio": 747.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
