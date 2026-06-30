@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-30T11:25:04.603107",
-  "actualizado_vzla": "2026-06-30 07:25:04 -04",
+  "timestamp_utc": "2026-06-30T13:23:23.762985",
+  "actualizado_vzla": "2026-06-30 09:23:23 -04",
   "compra_segundo": {
-    "price": 727.9,
-    "name": "zoecambios_21"
+    "price": 744.2,
+    "name": "Barcola_p2p"
   },
   "venta_maxima": {
-    "price": 725.1,
-    "name": "CambioSExpreessS"
+    "price": 741.57,
+    "name": "raParadas-31"
   },
-  "promedio": 726.5,
+  "promedio": 742.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
