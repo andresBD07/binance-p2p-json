@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-30T20:22:09.952075",
-  "actualizado_vzla": "2026-06-30 16:22:09 -04",
+  "timestamp_utc": "2026-06-30T21:54:42.677246",
+  "actualizado_vzla": "2026-06-30 17:54:42 -04",
   "compra_segundo": {
-    "price": 738.199,
-    "name": "Anonymouss-Exchange"
+    "price": 732.0,
+    "name": "Crypto_Medusa"
   },
   "venta_maxima": {
-    "price": 739.301,
-    "name": "GusGus-777"
+    "price": 731.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 738.75,
+  "promedio": 731.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
