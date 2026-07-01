@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-06-30T23:17:48.662360",
-  "actualizado_vzla": "2026-06-30 19:17:48 -04",
+  "timestamp_utc": "2026-07-01T01:35:58.848865",
+  "actualizado_vzla": "2026-06-30 21:35:58 -04",
   "compra_segundo": {
-    "price": 733.56,
-    "name": "LTCambiosRapido"
+    "price": 736.4,
+    "name": "Criptohana"
   },
   "venta_maxima": {
-    "price": 732.9,
-    "name": "TPhillips"
+    "price": 733.55,
+    "name": "THEBOSSTRADER"
   },
-  "promedio": 733.23,
+  "promedio": 734.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
