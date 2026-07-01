@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-01T13:13:27.979145",
-  "actualizado_vzla": "2026-07-01 09:13:27 -04",
+  "timestamp_utc": "2026-07-01T15:58:02.571926",
+  "actualizado_vzla": "2026-07-01 11:58:02 -04",
   "compra_segundo": {
-    "price": 737.2,
-    "name": "maxstreaming"
+    "price": 735.199,
+    "name": "Anonymouss-Exchange"
   },
   "venta_maxima": {
     "price": 735.0,
-    "name": "GAZA_CRIPTO"
+    "name": "GJexchange07"
   },
-  "promedio": 736.1,
+  "promedio": 735.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
