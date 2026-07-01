@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-01T20:13:18.669494",
-  "actualizado_vzla": "2026-07-01 16:13:18 -04",
+  "timestamp_utc": "2026-07-01T21:51:50.410482",
+  "actualizado_vzla": "2026-07-01 17:51:50 -04",
   "compra_segundo": {
-    "price": 738.799,
-    "name": "Masterven"
+    "price": 737.0,
+    "name": "_MoneYca_"
   },
   "venta_maxima": {
-    "price": 737.41,
-    "name": "venezuela"
+    "price": 735.59,
+    "name": "VISÓN CRIPTØ"
   },
-  "promedio": 738.1,
+  "promedio": 736.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
