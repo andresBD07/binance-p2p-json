@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T18:52:05.204821",
-  "actualizado_vzla": "2026-07-02 14:52:05 -04",
+  "timestamp_utc": "2026-07-02T20:16:59.070600",
+  "actualizado_vzla": "2026-07-02 16:16:59 -04",
   "compra_segundo": {
-    "price": 735.895,
-    "name": "Kingjvl"
+    "price": 736.62,
+    "name": "TradeWiseP2P"
   },
   "venta_maxima": {
-    "price": 737.0,
-    "name": "被放逐的狐狸"
+    "price": 736.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 736.45,
+  "promedio": 736.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
