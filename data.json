@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-01T23:12:47.572088",
-  "actualizado_vzla": "2026-07-01 19:12:47 -04",
+  "timestamp_utc": "2026-07-02T01:27:02.821189",
+  "actualizado_vzla": "2026-07-01 21:27:02 -04",
   "compra_segundo": {
-    "price": 736.45,
-    "name": "CryptoExpressVe"
+    "price": 737.8,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 735.9,
-    "name": "安全与信任"
+    "price": 737.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 736.17,
+  "promedio": 737.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
