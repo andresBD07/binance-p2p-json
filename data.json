@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T01:27:02.821189",
-  "actualizado_vzla": "2026-07-01 21:27:02 -04",
+  "timestamp_utc": "2026-07-02T05:36:42.948704",
+  "actualizado_vzla": "2026-07-02 01:36:42 -04",
   "compra_segundo": {
-    "price": 737.8,
-    "name": "FlashCambios1"
+    "price": 740.4,
+    "name": "ReadyToTrade_"
   },
   "venta_maxima": {
-    "price": 737.0,
-    "name": "Trust-Broker"
+    "price": 736.1,
+    "name": "Tucambiove"
   },
-  "promedio": 737.4,
+  "promedio": 738.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
