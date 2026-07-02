@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T21:37:43.745297",
-  "actualizado_vzla": "2026-07-02 17:37:43 -04",
+  "timestamp_utc": "2026-07-02T22:46:21.841041",
+  "actualizado_vzla": "2026-07-02 18:46:21 -04",
   "compra_segundo": {
-    "price": 737.9,
-    "name": "Lucky--Luciano"
+    "price": 741.85,
+    "name": "TUSKARR"
   },
   "venta_maxima": {
-    "price": 737.22,
-    "name": "Bull_Rrun_Trading"
+    "price": 740.0,
+    "name": "BigIron-"
   },
-  "promedio": 737.56,
+  "promedio": 740.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
