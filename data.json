@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T08:32:50.845333",
-  "actualizado_vzla": "2026-07-02 04:32:50 -04",
+  "timestamp_utc": "2026-07-02T11:16:03.272046",
+  "actualizado_vzla": "2026-07-02 07:16:03 -04",
   "compra_segundo": {
-    "price": 742.777,
-    "name": "Jesus-X"
+    "price": 738.4,
+    "name": "Aalcripto"
   },
   "venta_maxima": {
-    "price": 736.1,
-    "name": "Tucambiove"
+    "price": 735.47,
+    "name": "ConfianzaseguraP2P"
   },
-  "promedio": 739.44,
+  "promedio": 736.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
