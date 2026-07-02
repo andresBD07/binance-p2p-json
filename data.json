@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T13:11:58.352997",
-  "actualizado_vzla": "2026-07-02 09:11:58 -04",
+  "timestamp_utc": "2026-07-02T15:33:47.729889",
+  "actualizado_vzla": "2026-07-02 11:33:47 -04",
   "compra_segundo": {
-    "price": 734.5,
-    "name": "SecurityExpress"
+    "price": 736.388,
+    "name": "douglas1997"
   },
   "venta_maxima": {
-    "price": 734.0,
-    "name": "Trust-Broker"
+    "price": 736.5,
+    "name": "安全与信任"
   },
-  "promedio": 734.25,
+  "promedio": 736.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
