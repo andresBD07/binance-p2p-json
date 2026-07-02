@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T20:16:59.070600",
-  "actualizado_vzla": "2026-07-02 16:16:59 -04",
+  "timestamp_utc": "2026-07-02T21:37:43.745297",
+  "actualizado_vzla": "2026-07-02 17:37:43 -04",
   "compra_segundo": {
-    "price": 736.62,
-    "name": "TradeWiseP2P"
+    "price": 737.9,
+    "name": "Lucky--Luciano"
   },
   "venta_maxima": {
-    "price": 736.005,
-    "name": "Trust-Broker"
+    "price": 737.22,
+    "name": "Bull_Rrun_Trading"
   },
-  "promedio": 736.31,
+  "promedio": 737.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
