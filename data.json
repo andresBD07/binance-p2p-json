@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T15:33:47.729889",
-  "actualizado_vzla": "2026-07-02 11:33:47 -04",
+  "timestamp_utc": "2026-07-02T17:15:56.409515",
+  "actualizado_vzla": "2026-07-02 13:15:56 -04",
   "compra_segundo": {
-    "price": 736.388,
-    "name": "douglas1997"
+    "price": 736.4,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
-    "price": 736.5,
-    "name": "安全与信任"
+    "price": 736.1,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 736.44,
+  "promedio": 736.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
