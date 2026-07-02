@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T05:36:42.948704",
-  "actualizado_vzla": "2026-07-02 01:36:42 -04",
+  "timestamp_utc": "2026-07-02T08:32:50.845333",
+  "actualizado_vzla": "2026-07-02 04:32:50 -04",
   "compra_segundo": {
-    "price": 740.4,
-    "name": "ReadyToTrade_"
+    "price": 742.777,
+    "name": "Jesus-X"
   },
   "venta_maxima": {
     "price": 736.1,
     "name": "Tucambiove"
   },
-  "promedio": 738.25,
+  "promedio": 739.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
