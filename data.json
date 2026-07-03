@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-03T02:28:38.578930",
-  "actualizado_vzla": "2026-07-02 22:28:38 -04",
+  "timestamp_utc": "2026-07-03T06:09:16.155405",
+  "actualizado_vzla": "2026-07-03 02:09:16 -04",
   "compra_segundo": {
-    "price": 742.0,
-    "name": "OPABIANCHI"
+    "price": 744.9,
+    "name": "CarlosBelloNexoCapit"
   },
   "venta_maxima": {
-    "price": 739.415,
-    "name": "TransfServirapid"
+    "price": 738.0,
+    "name": "不知道你"
   },
-  "promedio": 740.71,
+  "promedio": 741.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
