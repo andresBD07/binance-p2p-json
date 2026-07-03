@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-03T16:04:57.079312",
-  "actualizado_vzla": "2026-07-03 12:04:57 -04",
+  "timestamp_utc": "2026-07-03T17:45:26.939986",
+  "actualizado_vzla": "2026-07-03 13:45:26 -04",
   "compra_segundo": {
-    "price": 738.0,
-    "name": "B-P2P"
+    "price": 738.99,
+    "name": "zoecambios_21"
   },
   "venta_maxima": {
-    "price": 736.5,
-    "name": "CRIPTO-2026"
+    "price": 738.15,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 737.25,
+  "promedio": 738.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
