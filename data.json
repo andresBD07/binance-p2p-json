@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-03T18:54:12.574621",
-  "actualizado_vzla": "2026-07-03 14:54:12 -04",
+  "timestamp_utc": "2026-07-03T20:17:02.132929",
+  "actualizado_vzla": "2026-07-03 16:17:02 -04",
   "compra_segundo": {
-    "price": 739.4,
-    "name": "CAMBIOS_YESSI"
+    "price": 739.254,
+    "name": "VIPChanges"
   },
   "venta_maxima": {
-    "price": 739.0,
-    "name": "FromVillage"
+    "price": 740.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 739.2,
+  "promedio": 739.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
