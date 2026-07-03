@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-03T14:20:05.979357",
-  "actualizado_vzla": "2026-07-03 10:20:05 -04",
+  "timestamp_utc": "2026-07-03T16:04:57.079312",
+  "actualizado_vzla": "2026-07-03 12:04:57 -04",
   "compra_segundo": {
-    "price": 736.8,
-    "name": "ComerciosAraujo"
+    "price": 738.0,
+    "name": "B-P2P"
   },
   "venta_maxima": {
-    "price": 736.05,
-    "name": "CatireTrade"
+    "price": 736.5,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 736.42,
+  "promedio": 737.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
