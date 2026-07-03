@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-03T21:35:40.650627",
-  "actualizado_vzla": "2026-07-03 17:35:40 -04",
+  "timestamp_utc": "2026-07-03T22:40:48.072064",
+  "actualizado_vzla": "2026-07-03 18:40:48 -04",
   "compra_segundo": {
-    "price": 739.999,
-    "name": "MarDiodoros"
+    "price": 743.31,
+    "name": "High-Stakes-Streets2"
   },
   "venta_maxima": {
-    "price": 742.0,
-    "name": "CriptoseguroAyM"
+    "price": 744.0,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 741.0,
+  "promedio": 743.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
