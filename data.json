@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-03T11:54:34.207323",
-  "actualizado_vzla": "2026-07-03 07:54:34 -04",
+  "timestamp_utc": "2026-07-03T14:20:05.979357",
+  "actualizado_vzla": "2026-07-03 10:20:05 -04",
   "compra_segundo": {
-    "price": 738.0,
-    "name": "ENVIOS YC"
+    "price": 736.8,
+    "name": "ComerciosAraujo"
   },
   "venta_maxima": {
-    "price": 738.0,
-    "name": "TPhillips"
+    "price": 736.05,
+    "name": "CatireTrade"
   },
-  "promedio": 738.0,
+  "promedio": 736.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
