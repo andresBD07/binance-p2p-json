@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-02T23:50:41.207813",
-  "actualizado_vzla": "2026-07-02 19:50:41 -04",
+  "timestamp_utc": "2026-07-03T02:28:38.578930",
+  "actualizado_vzla": "2026-07-02 22:28:38 -04",
   "compra_segundo": {
-    "price": 740.49,
-    "name": "Dgca22"
+    "price": 742.0,
+    "name": "OPABIANCHI"
   },
   "venta_maxima": {
-    "price": 739.0,
-    "name": "InmediatesSAD"
+    "price": 739.415,
+    "name": "TransfServirapid"
   },
-  "promedio": 739.75,
+  "promedio": 740.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
