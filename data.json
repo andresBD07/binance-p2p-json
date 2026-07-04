@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T11:51:25.099493",
-  "actualizado_vzla": "2026-07-04 07:51:25 -04",
+  "timestamp_utc": "2026-07-04T13:17:26.181624",
+  "actualizado_vzla": "2026-07-04 09:17:26 -04",
   "compra_segundo": {
-    "price": 780.99,
-    "name": "LEOCASHFAST"
+    "price": 768.4,
+    "name": "IzaExchangep2p"
   },
   "venta_maxima": {
-    "price": 777.0,
-    "name": "Niur_R"
+    "price": 778.5,
+    "name": "-Gaia-"
   },
-  "promedio": 779.0,
+  "promedio": 773.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
