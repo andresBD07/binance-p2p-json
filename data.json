@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T18:10:19.236147",
-  "actualizado_vzla": "2026-07-04 14:10:19 -04",
+  "timestamp_utc": "2026-07-04T19:39:02.583465",
+  "actualizado_vzla": "2026-07-04 15:39:02 -04",
   "compra_segundo": {
-    "price": 752.7,
-    "name": "Daikokuten-Finance"
+    "price": 756.98,
+    "name": "Fazio_FlashTrade"
   },
   "venta_maxima": {
-    "price": 753.7,
-    "name": "Blank_Mind"
+    "price": 762.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 753.2,
+  "promedio": 759.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
