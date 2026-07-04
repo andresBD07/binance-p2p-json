@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T10:23:15.025121",
-  "actualizado_vzla": "2026-07-04 06:23:15 -04",
+  "timestamp_utc": "2026-07-04T11:51:25.099493",
+  "actualizado_vzla": "2026-07-04 07:51:25 -04",
   "compra_segundo": {
-    "price": 779.47,
-    "name": "Futurexf"
+    "price": 780.99,
+    "name": "LEOCASHFAST"
   },
   "venta_maxima": {
-    "price": 770.28,
-    "name": "AndradeGascon"
+    "price": 777.0,
+    "name": "Niur_R"
   },
-  "promedio": 774.88,
+  "promedio": 779.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
