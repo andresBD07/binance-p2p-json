@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T13:17:26.181624",
-  "actualizado_vzla": "2026-07-04 09:17:26 -04",
+  "timestamp_utc": "2026-07-04T14:47:16.764301",
+  "actualizado_vzla": "2026-07-04 10:47:16 -04",
   "compra_segundo": {
-    "price": 768.4,
-    "name": "IzaExchangep2p"
+    "price": 766.0,
+    "name": "CambioSeguro24"
   },
   "venta_maxima": {
-    "price": 778.5,
-    "name": "-Gaia-"
+    "price": 767.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 773.45,
+  "promedio": 766.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
