@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T14:47:16.764301",
-  "actualizado_vzla": "2026-07-04 10:47:16 -04",
+  "timestamp_utc": "2026-07-04T15:50:29.576716",
+  "actualizado_vzla": "2026-07-04 11:50:29 -04",
   "compra_segundo": {
-    "price": 766.0,
-    "name": "CambioSeguro24"
+    "price": 758.435,
+    "name": "EA_FastPay"
   },
   "venta_maxima": {
-    "price": 767.0,
+    "price": 764.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 766.5,
+  "promedio": 761.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
