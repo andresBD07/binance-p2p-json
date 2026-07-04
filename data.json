@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T16:58:13.397970",
-  "actualizado_vzla": "2026-07-04 12:58:13 -04",
+  "timestamp_utc": "2026-07-04T18:10:19.236147",
+  "actualizado_vzla": "2026-07-04 14:10:19 -04",
   "compra_segundo": {
-    "price": 757.0,
-    "name": "Cambiosbraycar"
+    "price": 752.7,
+    "name": "Daikokuten-Finance"
   },
   "venta_maxima": {
-    "price": 761.0,
-    "name": "被放逐的狐狸"
+    "price": 753.7,
+    "name": "Blank_Mind"
   },
-  "promedio": 759.0,
+  "promedio": 753.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
