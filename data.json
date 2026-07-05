@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T08:32:56.455041",
-  "actualizado_vzla": "2026-07-05 04:32:56 -04",
+  "timestamp_utc": "2026-07-05T10:49:43.273229",
+  "actualizado_vzla": "2026-07-05 06:49:43 -04",
   "compra_segundo": {
-    "price": 759.0,
-    "name": "-Ledger-"
+    "price": 758.97,
+    "name": "JugadorFranquiicia1"
   },
   "venta_maxima": {
-    "price": 753.66,
-    "name": "JGCHANGE"
+    "price": 756.902,
+    "name": "CriptoTraderHub"
   },
-  "promedio": 756.33,
+  "promedio": 757.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
