@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T01:27:33.420230",
-  "actualizado_vzla": "2026-07-04 21:27:33 -04",
+  "timestamp_utc": "2026-07-05T05:44:53.366396",
+  "actualizado_vzla": "2026-07-05 01:44:53 -04",
   "compra_segundo": {
-    "price": 755.0,
+    "price": 758.0,
     "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
-    "price": 752.509,
-    "name": "TOPlevelS"
+    "price": 753.7,
+    "name": "LGD04"
   },
-  "promedio": 753.75,
+  "promedio": 755.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
