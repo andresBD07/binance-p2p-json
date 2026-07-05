@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T16:45:15.820621",
-  "actualizado_vzla": "2026-07-05 12:45:15 -04",
+  "timestamp_utc": "2026-07-05T17:51:23.969847",
+  "actualizado_vzla": "2026-07-05 13:51:23 -04",
   "compra_segundo": {
-    "price": 754.999,
-    "name": "Juan15_7"
+    "price": 750.0,
+    "name": "JmP2PTrader"
   },
   "venta_maxima": {
-    "price": 753.1,
-    "name": "DOCTOR_CAMBIO"
+    "price": 747.7,
+    "name": "TuPesadilla008"
   },
-  "promedio": 754.05,
+  "promedio": 748.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
