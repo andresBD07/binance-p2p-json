@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T10:49:43.273229",
-  "actualizado_vzla": "2026-07-05 06:49:43 -04",
+  "timestamp_utc": "2026-07-05T12:10:18.269961",
+  "actualizado_vzla": "2026-07-05 08:10:18 -04",
   "compra_segundo": {
-    "price": 758.97,
-    "name": "JugadorFranquiicia1"
+    "price": 758.21,
+    "name": "CambiosPivot"
   },
   "venta_maxima": {
-    "price": 756.902,
-    "name": "CriptoTraderHub"
+    "price": 754.0,
+    "name": "VENTASJM"
   },
-  "promedio": 757.94,
+  "promedio": 756.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
