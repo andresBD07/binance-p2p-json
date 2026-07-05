@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T21:37:18.571251",
-  "actualizado_vzla": "2026-07-05 17:37:18 -04",
+  "timestamp_utc": "2026-07-05T22:39:17.558888",
+  "actualizado_vzla": "2026-07-05 18:39:17 -04",
   "compra_segundo": {
-    "price": 748.5,
-    "name": "BaldomeroH"
+    "price": 747.08,
+    "name": "JDCAPITAL-HOLDING"
   },
   "venta_maxima": {
-    "price": 746.1,
-    "name": "Bianchiplus"
+    "price": 744.0,
+    "name": "ThePatron348"
   },
-  "promedio": 747.3,
+  "promedio": 745.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
