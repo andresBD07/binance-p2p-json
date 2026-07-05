@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T17:51:23.969847",
-  "actualizado_vzla": "2026-07-05 13:51:23 -04",
+  "timestamp_utc": "2026-07-05T19:12:20.675113",
+  "actualizado_vzla": "2026-07-05 15:12:20 -04",
   "compra_segundo": {
-    "price": 750.0,
-    "name": "JmP2PTrader"
+    "price": 748.5,
+    "name": "maxstreaming"
   },
   "venta_maxima": {
-    "price": 747.7,
-    "name": "TuPesadilla008"
+    "price": 745.28,
+    "name": "Bianchiplus"
   },
-  "promedio": 748.85,
+  "promedio": 746.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
