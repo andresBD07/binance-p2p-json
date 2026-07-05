@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T14:10:46.595181",
-  "actualizado_vzla": "2026-07-05 10:10:46 -04",
+  "timestamp_utc": "2026-07-05T15:39:20.164332",
+  "actualizado_vzla": "2026-07-05 11:39:20 -04",
   "compra_segundo": {
-    "price": 756.79,
-    "name": "Doctor_Vargas"
+    "price": 756.06,
+    "name": "人民币FERMICON人民币"
   },
   "venta_maxima": {
-    "price": 754.0,
-    "name": "SojiroX"
+    "price": 754.3,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 755.39,
+  "promedio": 755.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
