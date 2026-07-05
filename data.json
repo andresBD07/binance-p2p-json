@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-05T19:12:20.675113",
-  "actualizado_vzla": "2026-07-05 15:12:20 -04",
+  "timestamp_utc": "2026-07-05T20:31:51.309491",
+  "actualizado_vzla": "2026-07-05 16:31:51 -04",
   "compra_segundo": {
-    "price": 748.5,
-    "name": "maxstreaming"
+    "price": 749.5,
+    "name": "Support_IAm"
   },
   "venta_maxima": {
-    "price": 745.28,
-    "name": "Bianchiplus"
+    "price": 747.7,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 746.89,
+  "promedio": 748.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
