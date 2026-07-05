@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-04T23:44:56.619162",
-  "actualizado_vzla": "2026-07-04 19:44:56 -04",
+  "timestamp_utc": "2026-07-05T01:27:33.420230",
+  "actualizado_vzla": "2026-07-04 21:27:33 -04",
   "compra_segundo": {
-    "price": 752.227,
-    "name": "_ Yo Intercambió _"
+    "price": 755.0,
+    "name": "PedroCriptoBTC"
   },
   "venta_maxima": {
-    "price": 751.0,
-    "name": "GJexchange07"
+    "price": 752.509,
+    "name": "TOPlevelS"
   },
-  "promedio": 751.61,
+  "promedio": 753.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
