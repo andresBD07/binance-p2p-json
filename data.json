@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-06T22:36:36.940453",
-  "actualizado_vzla": "2026-07-06 18:36:36 -04",
+  "timestamp_utc": "2026-07-06T23:44:19.623594",
+  "actualizado_vzla": "2026-07-06 19:44:19 -04",
   "compra_segundo": {
-    "price": 762.499,
-    "name": "Cambios_seguros1"
+    "price": 764.5,
+    "name": "WChurchill"
   },
   "venta_maxima": {
-    "price": 763.3,
-    "name": "DOCTOR_CAMBIO"
+    "price": 766.006,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 762.9,
+  "promedio": 765.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
