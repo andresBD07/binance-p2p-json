@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-06T21:06:35.149545",
-  "actualizado_vzla": "2026-07-06 17:06:35 -04",
+  "timestamp_utc": "2026-07-06T22:36:36.940453",
+  "actualizado_vzla": "2026-07-06 18:36:36 -04",
   "compra_segundo": {
-    "price": 766.8,
-    "name": "ROCKandROLL08"
+    "price": 762.499,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
-    "price": 769.0,
-    "name": "GAZA_CRIPTO"
+    "price": 763.3,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 767.9,
+  "promedio": 762.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
