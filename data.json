@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-06T11:02:08.371021",
-  "actualizado_vzla": "2026-07-06 07:02:08 -04",
+  "timestamp_utc": "2026-07-06T14:33:51.015954",
+  "actualizado_vzla": "2026-07-06 10:33:51 -04",
   "compra_segundo": {
-    "price": 746.799,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 750.35,
+    "name": "Low1z"
   },
   "venta_maxima": {
-    "price": 741.6,
-    "name": "SuperDuko"
+    "price": 748.301,
+    "name": "加密操作"
   },
-  "promedio": 744.2,
+  "promedio": 749.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
