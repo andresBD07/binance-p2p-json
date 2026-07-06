@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-06T14:33:51.015954",
-  "actualizado_vzla": "2026-07-06 10:33:51 -04",
+  "timestamp_utc": "2026-07-06T17:25:44.697704",
+  "actualizado_vzla": "2026-07-06 13:25:44 -04",
   "compra_segundo": {
-    "price": 750.35,
-    "name": "Low1z"
+    "price": 758.4,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 748.301,
-    "name": "加密操作"
+    "price": 756.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 749.33,
+  "promedio": 757.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
