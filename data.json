@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-06T06:07:36.106453",
-  "actualizado_vzla": "2026-07-06 02:07:36 -04",
+  "timestamp_utc": "2026-07-06T11:02:08.371021",
+  "actualizado_vzla": "2026-07-06 07:02:08 -04",
   "compra_segundo": {
-    "price": 748.5,
-    "name": "AL-TAYR"
+    "price": 746.799,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 740.1,
-    "name": "EscalantEmprendimientos"
+    "price": 741.6,
+    "name": "SuperDuko"
   },
-  "promedio": 744.3,
+  "promedio": 744.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
