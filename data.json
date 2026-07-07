@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T21:05:12.944118",
-  "actualizado_vzla": "2026-07-07 17:05:12 -04",
+  "timestamp_utc": "2026-07-07T22:21:28.344190",
+  "actualizado_vzla": "2026-07-07 18:21:28 -04",
   "compra_segundo": {
-    "price": 787.598,
-    "name": "Cambios_seguros1"
+    "price": 788.5,
+    "name": "FANSCRIPTO"
   },
   "venta_maxima": {
-    "price": 790.3,
-    "name": "GREEN78"
+    "price": 789.9,
+    "name": "Money77ves"
   },
-  "promedio": 788.95,
+  "promedio": 789.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
