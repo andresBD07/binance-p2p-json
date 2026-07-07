@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T01:27:55.255112",
-  "actualizado_vzla": "2026-07-06 21:27:55 -04",
+  "timestamp_utc": "2026-07-07T05:47:49.507108",
+  "actualizado_vzla": "2026-07-07 01:47:49 -04",
   "compra_segundo": {
-    "price": 767.4,
-    "name": "zoecambios_21"
+    "price": 768.85,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 764.2,
-    "name": "DOCTOR_CAMBIO"
+    "price": 762.4,
+    "name": "ReadyToTrade_"
   },
-  "promedio": 765.8,
+  "promedio": 765.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
