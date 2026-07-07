@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T15:13:04.601376",
-  "actualizado_vzla": "2026-07-07 11:13:04 -04",
+  "timestamp_utc": "2026-07-07T17:27:28.903847",
+  "actualizado_vzla": "2026-07-07 13:27:28 -04",
   "compra_segundo": {
-    "price": 769.1,
-    "name": "StartBusiness"
+    "price": 772.5,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 767.0,
-    "name": "TheOchoa"
+    "price": 771.1,
+    "name": "LordCambios"
   },
-  "promedio": 768.05,
+  "promedio": 771.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
