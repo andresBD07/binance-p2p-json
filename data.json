@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T19:22:09.256654",
-  "actualizado_vzla": "2026-07-07 15:22:09 -04",
+  "timestamp_utc": "2026-07-07T21:05:12.944118",
+  "actualizado_vzla": "2026-07-07 17:05:12 -04",
   "compra_segundo": {
-    "price": 783.666,
-    "name": "OPABIANCHI"
+    "price": 787.598,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
-    "price": 784.0,
-    "name": "DOCTOR_CAMBIO"
+    "price": 790.3,
+    "name": "GREEN78"
   },
-  "promedio": 783.83,
+  "promedio": 788.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
