@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T08:59:33.467773",
-  "actualizado_vzla": "2026-07-07 04:59:33 -04",
+  "timestamp_utc": "2026-07-07T12:06:44.124611",
+  "actualizado_vzla": "2026-07-07 08:06:44 -04",
   "compra_segundo": {
-    "price": 768.8,
-    "name": "REY_SALOMON_CRIPTO"
+    "price": 767.0,
+    "name": "JairGOVA贾尔"
   },
   "venta_maxima": {
-    "price": 761.0,
-    "name": "ReadyToTrade_"
+    "price": 766.0,
+    "name": "JRR Tolkien"
   },
-  "promedio": 764.9,
+  "promedio": 766.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
