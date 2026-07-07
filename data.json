@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T17:27:28.903847",
-  "actualizado_vzla": "2026-07-07 13:27:28 -04",
+  "timestamp_utc": "2026-07-07T19:22:09.256654",
+  "actualizado_vzla": "2026-07-07 15:22:09 -04",
   "compra_segundo": {
-    "price": 772.5,
-    "name": "Horusrs"
+    "price": 783.666,
+    "name": "OPABIANCHI"
   },
   "venta_maxima": {
-    "price": 771.1,
-    "name": "LordCambios"
+    "price": 784.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 771.8,
+  "promedio": 783.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
