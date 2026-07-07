@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T22:21:28.344190",
-  "actualizado_vzla": "2026-07-07 18:21:28 -04",
+  "timestamp_utc": "2026-07-07T23:28:08.881352",
+  "actualizado_vzla": "2026-07-07 19:28:08 -04",
   "compra_segundo": {
-    "price": 788.5,
-    "name": "FANSCRIPTO"
+    "price": 787.999,
+    "name": "Diego"
   },
   "venta_maxima": {
-    "price": 789.9,
-    "name": "Money77ves"
+    "price": 789.2,
+    "name": "Leotrade17"
   },
-  "promedio": 789.2,
+  "promedio": 788.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
