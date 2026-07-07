@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T12:06:44.124611",
-  "actualizado_vzla": "2026-07-07 08:06:44 -04",
+  "timestamp_utc": "2026-07-07T15:13:04.601376",
+  "actualizado_vzla": "2026-07-07 11:13:04 -04",
   "compra_segundo": {
-    "price": 767.0,
-    "name": "JairGOVA贾尔"
+    "price": 769.1,
+    "name": "StartBusiness"
   },
   "venta_maxima": {
-    "price": 766.0,
-    "name": "JRR Tolkien"
+    "price": 767.0,
+    "name": "TheOchoa"
   },
-  "promedio": 766.5,
+  "promedio": 768.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
