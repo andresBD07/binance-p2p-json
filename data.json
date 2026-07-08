@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T04:29:42.006867",
-  "actualizado_vzla": "2026-07-08 00:29:42 -04",
+  "timestamp_utc": "2026-07-08T07:09:56.146545",
+  "actualizado_vzla": "2026-07-08 03:09:56 -04",
   "compra_segundo": {
-    "price": 792.999,
-    "name": "AngelMolinaC"
+    "price": 795.998,
+    "name": "DayExpress1"
   },
   "venta_maxima": {
-    "price": 791.0,
-    "name": "活着的价值"
+    "price": 786.0,
+    "name": "Gatsby_24"
   },
-  "promedio": 792.0,
+  "promedio": 791.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
