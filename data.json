@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T01:04:33.620393",
-  "actualizado_vzla": "2026-07-07 21:04:33 -04",
+  "timestamp_utc": "2026-07-08T04:29:42.006867",
+  "actualizado_vzla": "2026-07-08 00:29:42 -04",
   "compra_segundo": {
-    "price": 789.89,
-    "name": "Marquez25"
+    "price": 792.999,
+    "name": "AngelMolinaC"
   },
   "venta_maxima": {
-    "price": 792.0,
-    "name": "GAMBINO-"
+    "price": 791.0,
+    "name": "活着的价值"
   },
-  "promedio": 790.94,
+  "promedio": 792.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
