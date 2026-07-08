@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T07:09:56.146545",
-  "actualizado_vzla": "2026-07-08 03:09:56 -04",
+  "timestamp_utc": "2026-07-08T09:38:26.454157",
+  "actualizado_vzla": "2026-07-08 05:38:26 -04",
   "compra_segundo": {
-    "price": 795.998,
-    "name": "DayExpress1"
+    "price": 795.5,
+    "name": "Classy_cripto"
   },
   "venta_maxima": {
-    "price": 786.0,
-    "name": "Gatsby_24"
+    "price": 789.1,
+    "name": "Leotrade17"
   },
-  "promedio": 791.0,
+  "promedio": 792.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
