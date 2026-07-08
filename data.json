@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T20:12:24.482279",
-  "actualizado_vzla": "2026-07-08 16:12:24 -04",
+  "timestamp_utc": "2026-07-08T21:32:53.510757",
+  "actualizado_vzla": "2026-07-08 17:32:53 -04",
   "compra_segundo": {
-    "price": 810.9,
-    "name": "Bunnietrader"
+    "price": 813.95,
+    "name": "mandy02"
   },
   "venta_maxima": {
-    "price": 814.0,
-    "name": "GAZA_CRIPTO"
+    "price": 815.002,
+    "name": "Angel2209"
   },
-  "promedio": 812.45,
+  "promedio": 814.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
