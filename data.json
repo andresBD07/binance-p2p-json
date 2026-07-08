@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T13:12:52.752934",
-  "actualizado_vzla": "2026-07-08 09:12:52 -04",
+  "timestamp_utc": "2026-07-08T15:36:59.545255",
+  "actualizado_vzla": "2026-07-08 11:36:59 -04",
   "compra_segundo": {
-    "price": 803.0,
-    "name": "EliseoAmaya"
+    "price": 794.0,
+    "name": "TioRico699"
   },
   "venta_maxima": {
-    "price": 801.0,
-    "name": "angelchacon"
+    "price": 800.0,
+    "name": "安全与信任"
   },
-  "promedio": 802.0,
+  "promedio": 797.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
