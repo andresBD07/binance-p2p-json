@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T18:44:17.134750",
-  "actualizado_vzla": "2026-07-08 14:44:17 -04",
+  "timestamp_utc": "2026-07-08T20:12:24.482279",
+  "actualizado_vzla": "2026-07-08 16:12:24 -04",
   "compra_segundo": {
-    "price": 796.98,
-    "name": "漢-Kapo"
+    "price": 810.9,
+    "name": "Bunnietrader"
   },
   "venta_maxima": {
-    "price": 799.0,
-    "name": "SafeTradePro10"
+    "price": 814.0,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 797.99,
+  "promedio": 812.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
