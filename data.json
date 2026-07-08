@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T09:38:26.454157",
-  "actualizado_vzla": "2026-07-08 05:38:26 -04",
+  "timestamp_utc": "2026-07-08T11:30:47.114366",
+  "actualizado_vzla": "2026-07-08 07:30:47 -04",
   "compra_segundo": {
-    "price": 795.5,
-    "name": "Classy_cripto"
+    "price": 794.199,
+    "name": "CambiosFlassh"
   },
   "venta_maxima": {
-    "price": 789.1,
-    "name": "Leotrade17"
+    "price": 792.2,
+    "name": "Money77ves"
   },
-  "promedio": 792.3,
+  "promedio": 793.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
