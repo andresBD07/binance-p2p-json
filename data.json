@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-07T23:28:08.881352",
-  "actualizado_vzla": "2026-07-07 19:28:08 -04",
+  "timestamp_utc": "2026-07-08T01:04:33.620393",
+  "actualizado_vzla": "2026-07-07 21:04:33 -04",
   "compra_segundo": {
-    "price": 787.999,
-    "name": "Diego"
+    "price": 789.89,
+    "name": "Marquez25"
   },
   "venta_maxima": {
-    "price": 789.2,
-    "name": "Leotrade17"
+    "price": 792.0,
+    "name": "GAMBINO-"
   },
-  "promedio": 788.6,
+  "promedio": 790.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
