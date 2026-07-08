@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-08T17:07:15.656070",
-  "actualizado_vzla": "2026-07-08 13:07:15 -04",
+  "timestamp_utc": "2026-07-08T18:44:17.134750",
+  "actualizado_vzla": "2026-07-08 14:44:17 -04",
   "compra_segundo": {
-    "price": 794.38,
-    "name": "Bitcoin_Jrrv"
+    "price": 796.98,
+    "name": "漢-Kapo"
   },
   "venta_maxima": {
-    "price": 796.5,
-    "name": "GRUPOAVILA"
+    "price": 799.0,
+    "name": "SafeTradePro10"
   },
-  "promedio": 795.44,
+  "promedio": 797.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
