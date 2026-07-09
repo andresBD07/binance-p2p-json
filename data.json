@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-09T20:57:11.525694",
-  "actualizado_vzla": "2026-07-09 16:57:11 -04",
+  "timestamp_utc": "2026-07-09T22:39:15.785897",
+  "actualizado_vzla": "2026-07-09 18:39:15 -04",
   "compra_segundo": {
-    "price": 831.3,
-    "name": "PANDA1902"
+    "price": 835.9,
+    "name": "Edixon0101"
   },
   "venta_maxima": {
-    "price": 832.0,
-    "name": "CCST"
+    "price": 835.005,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 831.65,
+  "promedio": 835.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
