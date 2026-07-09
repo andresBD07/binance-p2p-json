@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-09T05:36:59.298432",
-  "actualizado_vzla": "2026-07-09 01:36:59 -04",
+  "timestamp_utc": "2026-07-09T08:54:23.698244",
+  "actualizado_vzla": "2026-07-09 04:54:23 -04",
   "compra_segundo": {
-    "price": 830.8,
-    "name": "ReadyToTrade_"
+    "price": 830.57,
+    "name": "Molyflash777"
   },
   "venta_maxima": {
-    "price": 824.501,
+    "price": 822.2,
     "name": "GAZA_CRIPTO"
   },
-  "promedio": 827.65,
+  "promedio": 826.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
