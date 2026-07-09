@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-09T17:31:07.053324",
-  "actualizado_vzla": "2026-07-09 13:31:07 -04",
+  "timestamp_utc": "2026-07-09T19:10:19.719852",
+  "actualizado_vzla": "2026-07-09 15:10:19 -04",
   "compra_segundo": {
-    "price": 827.76,
-    "name": "JS_Valentine"
+    "price": 831.52,
+    "name": "Candy2754"
   },
   "venta_maxima": {
-    "price": 827.0,
-    "name": "Ricky_Bobby_"
+    "price": 835.6,
+    "name": "Alejandro21mendoza"
   },
-  "promedio": 827.38,
+  "promedio": 833.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
