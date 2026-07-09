@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-09T12:14:26.347397",
-  "actualizado_vzla": "2026-07-09 08:14:26 -04",
+  "timestamp_utc": "2026-07-09T15:34:01.454851",
+  "actualizado_vzla": "2026-07-09 11:34:01 -04",
   "compra_segundo": {
-    "price": 826.9,
-    "name": "AD_Finanzas"
+    "price": 823.29,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
-    "price": 826.5,
-    "name": "ANMAIYANME"
+    "price": 824.0,
+    "name": "CCST"
   },
-  "promedio": 826.7,
+  "promedio": 823.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
