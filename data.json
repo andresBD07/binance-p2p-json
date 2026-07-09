@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-09T08:54:23.698244",
-  "actualizado_vzla": "2026-07-09 04:54:23 -04",
+  "timestamp_utc": "2026-07-09T12:14:26.347397",
+  "actualizado_vzla": "2026-07-09 08:14:26 -04",
   "compra_segundo": {
-    "price": 830.57,
-    "name": "Molyflash777"
+    "price": 826.9,
+    "name": "AD_Finanzas"
   },
   "venta_maxima": {
-    "price": 822.2,
-    "name": "GAZA_CRIPTO"
+    "price": 826.5,
+    "name": "ANMAIYANME"
   },
-  "promedio": 826.38,
+  "promedio": 826.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
