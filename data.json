@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T15:18:08.280459",
-  "actualizado_vzla": "2026-07-10 11:18:08 -04",
+  "timestamp_utc": "2026-07-10T17:13:41.309716",
+  "actualizado_vzla": "2026-07-10 13:13:41 -04",
   "compra_segundo": {
-    "price": 825.0,
-    "name": "Lucky--Luciano"
+    "price": 819.0,
+    "name": "Casmar84"
   },
   "venta_maxima": {
-    "price": 823.5,
-    "name": "CCST"
+    "price": 817.5,
+    "name": "c_s_"
   },
-  "promedio": 824.25,
+  "promedio": 818.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
