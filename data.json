@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T10:01:40.610475",
-  "actualizado_vzla": "2026-07-10 06:01:40 -04",
+  "timestamp_utc": "2026-07-10T12:34:43.673490",
+  "actualizado_vzla": "2026-07-10 08:34:43 -04",
   "compra_segundo": {
-    "price": 833.9,
-    "name": "mandy02"
+    "price": 833.35,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 827.1,
-    "name": "杰格尔"
+    "price": 831.01,
+    "name": "Rapidflorio84"
   },
-  "promedio": 830.5,
+  "promedio": 832.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
