@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T17:13:41.309716",
-  "actualizado_vzla": "2026-07-10 13:13:41 -04",
+  "timestamp_utc": "2026-07-10T18:50:04.252947",
+  "actualizado_vzla": "2026-07-10 14:50:04 -04",
   "compra_segundo": {
-    "price": 819.0,
-    "name": "Casmar84"
+    "price": 822.2,
+    "name": "MACHUFI"
   },
   "venta_maxima": {
-    "price": 817.5,
-    "name": "c_s_"
+    "price": 823.5,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 818.25,
+  "promedio": 822.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
