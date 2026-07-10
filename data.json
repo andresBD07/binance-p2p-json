@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T22:36:16.487046",
-  "actualizado_vzla": "2026-07-10 18:36:16 -04",
+  "timestamp_utc": "2026-07-10T23:37:31.551333",
+  "actualizado_vzla": "2026-07-10 19:37:31 -04",
   "compra_segundo": {
-    "price": 826.425,
-    "name": "Aioria1508"
+    "price": 826.84,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 829.0,
-    "name": "-Tyrion-Lannister-"
+    "price": 826.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 827.71,
+  "promedio": 826.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
