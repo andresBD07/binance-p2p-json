@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T20:16:22.785718",
-  "actualizado_vzla": "2026-07-10 16:16:22 -04",
+  "timestamp_utc": "2026-07-10T21:30:38.368522",
+  "actualizado_vzla": "2026-07-10 17:30:38 -04",
   "compra_segundo": {
-    "price": 827.8,
-    "name": "Fast-CambiosSeguro-"
+    "price": 826.4,
+    "name": "CAMBIOS_RAPIDOS"
   },
   "venta_maxima": {
-    "price": 829.0,
-    "name": "被放逐的狐狸"
+    "price": 828.1,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 828.4,
+  "promedio": 827.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
