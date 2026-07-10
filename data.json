@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T18:50:04.252947",
-  "actualizado_vzla": "2026-07-10 14:50:04 -04",
+  "timestamp_utc": "2026-07-10T20:16:22.785718",
+  "actualizado_vzla": "2026-07-10 16:16:22 -04",
   "compra_segundo": {
-    "price": 822.2,
-    "name": "MACHUFI"
+    "price": 827.8,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 823.5,
-    "name": "CRIPTO-2026"
+    "price": 829.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 822.85,
+  "promedio": 828.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
