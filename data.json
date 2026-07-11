@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T15:04:00.490097",
-  "actualizado_vzla": "2026-07-11 11:04:00 -04",
+  "timestamp_utc": "2026-07-11T16:07:31.074147",
+  "actualizado_vzla": "2026-07-11 12:07:31 -04",
   "compra_segundo": {
-    "price": 825.998,
-    "name": "frankmlh"
+    "price": 827.25,
+    "name": "CambiosToGo"
   },
   "venta_maxima": {
-    "price": 827.735,
-    "name": "NORTH-CAPITAL"
+    "price": 826.55,
+    "name": "活着的价值"
   },
-  "promedio": 826.87,
+  "promedio": 826.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
