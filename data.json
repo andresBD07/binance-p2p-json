@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T04:28:40.764836",
-  "actualizado_vzla": "2026-07-11 00:28:40 -04",
+  "timestamp_utc": "2026-07-11T06:38:50.489379",
+  "actualizado_vzla": "2026-07-11 02:38:50 -04",
   "compra_segundo": {
-    "price": 832.0,
-    "name": "BaldomeroH"
+    "price": 833.0,
+    "name": "maikolmai"
   },
   "venta_maxima": {
-    "price": 827.1,
-    "name": "securitylc"
+    "price": 827.321,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 829.55,
+  "promedio": 830.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
