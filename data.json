@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-10T23:37:31.551333",
-  "actualizado_vzla": "2026-07-10 19:37:31 -04",
+  "timestamp_utc": "2026-07-11T01:08:30.200999",
+  "actualizado_vzla": "2026-07-10 21:08:30 -04",
   "compra_segundo": {
-    "price": 826.84,
-    "name": "OikonomiaDigital"
+    "price": 827.899,
+    "name": "kaizenholder"
   },
   "venta_maxima": {
-    "price": 826.005,
-    "name": "Trust-Broker"
+    "price": 828.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 826.42,
+  "promedio": 828.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
