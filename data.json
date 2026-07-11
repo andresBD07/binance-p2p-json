@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T16:07:31.074147",
-  "actualizado_vzla": "2026-07-11 12:07:31 -04",
+  "timestamp_utc": "2026-07-11T17:15:27.816667",
+  "actualizado_vzla": "2026-07-11 13:15:27 -04",
   "compra_segundo": {
-    "price": 827.25,
-    "name": "CambiosToGo"
+    "price": 826.78,
+    "name": "Hispano-Cripto"
   },
   "venta_maxima": {
-    "price": 826.55,
-    "name": "活着的价值"
+    "price": 829.5,
+    "name": "JoseParedez"
   },
-  "promedio": 826.9,
+  "promedio": 828.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
