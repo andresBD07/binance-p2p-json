@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T12:10:26.206268",
-  "actualizado_vzla": "2026-07-11 08:10:26 -04",
+  "timestamp_utc": "2026-07-11T13:56:29.268106",
+  "actualizado_vzla": "2026-07-11 09:56:29 -04",
   "compra_segundo": {
-    "price": 830.3,
-    "name": "ADARA--CHACHI"
+    "price": 827.4,
+    "name": "Jaed_crp"
   },
   "venta_maxima": {
-    "price": 828.0,
-    "name": "NovaCambio"
+    "price": 829.15,
+    "name": "RubenNYC"
   },
-  "promedio": 829.15,
+  "promedio": 828.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
