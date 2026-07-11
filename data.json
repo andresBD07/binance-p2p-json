@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T11:17:31.374713",
-  "actualizado_vzla": "2026-07-11 07:17:31 -04",
+  "timestamp_utc": "2026-07-11T12:10:26.206268",
+  "actualizado_vzla": "2026-07-11 08:10:26 -04",
   "compra_segundo": {
-    "price": 831.597,
-    "name": "Jean1024"
+    "price": 830.3,
+    "name": "ADARA--CHACHI"
   },
   "venta_maxima": {
     "price": 828.0,
-    "name": "doctor_zoidberg"
+    "name": "NovaCambio"
   },
-  "promedio": 829.8,
+  "promedio": 829.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
