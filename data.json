@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T18:11:19.884371",
-  "actualizado_vzla": "2026-07-11 14:11:19 -04",
+  "timestamp_utc": "2026-07-11T19:34:09.015716",
+  "actualizado_vzla": "2026-07-11 15:34:09 -04",
   "compra_segundo": {
-    "price": 827.56,
-    "name": "4F-P2P"
+    "price": 827.88,
+    "name": "SrTocino"
   },
   "venta_maxima": {
-    "price": 830.2,
-    "name": "Godisgift"
+    "price": 829.0,
+    "name": "JoseParedez"
   },
-  "promedio": 828.88,
+  "promedio": 828.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
