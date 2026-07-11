@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T01:08:30.200999",
-  "actualizado_vzla": "2026-07-10 21:08:30 -04",
+  "timestamp_utc": "2026-07-11T04:28:40.764836",
+  "actualizado_vzla": "2026-07-11 00:28:40 -04",
   "compra_segundo": {
-    "price": 827.899,
-    "name": "kaizenholder"
+    "price": 832.0,
+    "name": "BaldomeroH"
   },
   "venta_maxima": {
-    "price": 828.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 827.1,
+    "name": "securitylc"
   },
-  "promedio": 828.2,
+  "promedio": 829.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
