@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T20:27:07.318852",
-  "actualizado_vzla": "2026-07-11 16:27:07 -04",
+  "timestamp_utc": "2026-07-11T21:25:46.286850",
+  "actualizado_vzla": "2026-07-11 17:25:46 -04",
   "compra_segundo": {
-    "price": 826.888,
-    "name": "Idaniap2p"
+    "price": 824.469,
+    "name": "OikonomiaDigital"
   },
   "venta_maxima": {
-    "price": 826.005,
+    "price": 825.005,
     "name": "Trust-Broker"
   },
-  "promedio": 826.45,
+  "promedio": 824.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
