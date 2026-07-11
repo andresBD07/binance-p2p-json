@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T22:25:41.600907",
-  "actualizado_vzla": "2026-07-11 18:25:41 -04",
+  "timestamp_utc": "2026-07-11T23:32:17.158620",
+  "actualizado_vzla": "2026-07-11 19:32:17 -04",
   "compra_segundo": {
-    "price": 824.34,
-    "name": "MoneyPlaz"
+    "price": 824.17,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 824.005,
-    "name": "Trust-Broker"
+    "price": 823.5,
+    "name": "TheOchoa"
   },
-  "promedio": 824.17,
+  "promedio": 823.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
