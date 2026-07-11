@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T13:56:29.268106",
-  "actualizado_vzla": "2026-07-11 09:56:29 -04",
+  "timestamp_utc": "2026-07-11T15:04:00.490097",
+  "actualizado_vzla": "2026-07-11 11:04:00 -04",
   "compra_segundo": {
-    "price": 827.4,
-    "name": "Jaed_crp"
+    "price": 825.998,
+    "name": "frankmlh"
   },
   "venta_maxima": {
-    "price": 829.15,
-    "name": "RubenNYC"
+    "price": 827.735,
+    "name": "NORTH-CAPITAL"
   },
-  "promedio": 828.27,
+  "promedio": 826.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
