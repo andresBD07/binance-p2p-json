@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T21:25:46.286850",
-  "actualizado_vzla": "2026-07-11 17:25:46 -04",
+  "timestamp_utc": "2026-07-11T22:25:41.600907",
+  "actualizado_vzla": "2026-07-11 18:25:41 -04",
   "compra_segundo": {
-    "price": 824.469,
-    "name": "OikonomiaDigital"
+    "price": 824.34,
+    "name": "MoneyPlaz"
   },
   "venta_maxima": {
-    "price": 825.005,
+    "price": 824.005,
     "name": "Trust-Broker"
   },
-  "promedio": 824.74,
+  "promedio": 824.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
