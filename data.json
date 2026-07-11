@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T19:34:09.015716",
-  "actualizado_vzla": "2026-07-11 15:34:09 -04",
+  "timestamp_utc": "2026-07-11T20:27:07.318852",
+  "actualizado_vzla": "2026-07-11 16:27:07 -04",
   "compra_segundo": {
-    "price": 827.88,
-    "name": "SrTocino"
+    "price": 826.888,
+    "name": "Idaniap2p"
   },
   "venta_maxima": {
-    "price": 829.0,
-    "name": "JoseParedez"
+    "price": 826.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 828.44,
+  "promedio": 826.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
