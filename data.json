@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T17:15:27.816667",
-  "actualizado_vzla": "2026-07-11 13:15:27 -04",
+  "timestamp_utc": "2026-07-11T18:11:19.884371",
+  "actualizado_vzla": "2026-07-11 14:11:19 -04",
   "compra_segundo": {
-    "price": 826.78,
-    "name": "Hispano-Cripto"
+    "price": 827.56,
+    "name": "4F-P2P"
   },
   "venta_maxima": {
-    "price": 829.5,
-    "name": "JoseParedez"
+    "price": 830.2,
+    "name": "Godisgift"
   },
-  "promedio": 828.14,
+  "promedio": 828.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
