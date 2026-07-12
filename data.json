@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-12T15:43:45.377600",
-  "actualizado_vzla": "2026-07-12 11:43:45 -04",
+  "timestamp_utc": "2026-07-12T16:39:09.050439",
+  "actualizado_vzla": "2026-07-12 12:39:09 -04",
   "compra_segundo": {
-    "price": 825.298,
-    "name": "Minato21"
+    "price": 824.9,
+    "name": "CambioSeguro24"
   },
   "venta_maxima": {
-    "price": 824.005,
+    "price": 823.505,
     "name": "Trust-Broker"
   },
-  "promedio": 824.65,
+  "promedio": 824.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
