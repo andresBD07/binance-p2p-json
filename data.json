@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-12T01:09:25.569318",
-  "actualizado_vzla": "2026-07-11 21:09:25 -04",
+  "timestamp_utc": "2026-07-12T04:41:11.634229",
+  "actualizado_vzla": "2026-07-12 00:41:11 -04",
   "compra_segundo": {
-    "price": 824.6,
-    "name": "Gavoacoin"
+    "price": 828.0,
+    "name": "Edw_Crypto"
   },
   "venta_maxima": {
-    "price": 823.5,
-    "name": "TheOchoa"
+    "price": 824.0,
+    "name": "-Ledger-"
   },
-  "promedio": 824.05,
+  "promedio": 826.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
