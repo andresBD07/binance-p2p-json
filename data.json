@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-12T17:42:57.575499",
-  "actualizado_vzla": "2026-07-12 13:42:57 -04",
+  "timestamp_utc": "2026-07-12T18:40:26.817427",
+  "actualizado_vzla": "2026-07-12 14:40:26 -04",
   "compra_segundo": {
-    "price": 824.8,
-    "name": "roaord05"
+    "price": 825.0,
+    "name": "AquilesArturo"
   },
   "venta_maxima": {
-    "price": 823.5,
-    "name": "TheOchoa"
+    "price": 825.0,
+    "name": "改善ThorFinn改善"
   },
-  "promedio": 824.15,
+  "promedio": 825.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
