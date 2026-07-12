@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-11T23:32:17.158620",
-  "actualizado_vzla": "2026-07-11 19:32:17 -04",
+  "timestamp_utc": "2026-07-12T01:09:25.569318",
+  "actualizado_vzla": "2026-07-11 21:09:25 -04",
   "compra_segundo": {
-    "price": 824.17,
-    "name": "AM_BovedaActiva"
+    "price": 824.6,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
     "price": 823.5,
     "name": "TheOchoa"
   },
-  "promedio": 823.84,
+  "promedio": 824.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
