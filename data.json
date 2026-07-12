@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-12T16:39:09.050439",
-  "actualizado_vzla": "2026-07-12 12:39:09 -04",
+  "timestamp_utc": "2026-07-12T17:42:57.575499",
+  "actualizado_vzla": "2026-07-12 13:42:57 -04",
   "compra_segundo": {
-    "price": 824.9,
-    "name": "CambioSeguro24"
+    "price": 824.8,
+    "name": "roaord05"
   },
   "venta_maxima": {
-    "price": 823.505,
-    "name": "Trust-Broker"
+    "price": 823.5,
+    "name": "TheOchoa"
   },
-  "promedio": 824.2,
+  "promedio": 824.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
