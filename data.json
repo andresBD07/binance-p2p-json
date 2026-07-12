@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-12T11:59:02.082860",
-  "actualizado_vzla": "2026-07-12 07:59:02 -04",
+  "timestamp_utc": "2026-07-12T13:48:46.283846",
+  "actualizado_vzla": "2026-07-12 09:48:46 -04",
   "compra_segundo": {
-    "price": 827.2,
-    "name": "TRADER_GOD_P2P"
+    "price": 826.0,
+    "name": "Click_Y_Listo"
   },
   "venta_maxima": {
-    "price": 823.0,
-    "name": "Gustavo129"
+    "price": 825.005,
+    "name": "TOPlevelS"
   },
-  "promedio": 825.1,
+  "promedio": 825.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
