@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-12T14:46:08.229065",
-  "actualizado_vzla": "2026-07-12 10:46:08 -04",
+  "timestamp_utc": "2026-07-12T15:43:45.377600",
+  "actualizado_vzla": "2026-07-12 11:43:45 -04",
   "compra_segundo": {
-    "price": 826.05,
-    "name": "Diego"
+    "price": 825.298,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 823.5,
-    "name": "Gustavo129"
+    "price": 824.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 824.77,
+  "promedio": 824.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
