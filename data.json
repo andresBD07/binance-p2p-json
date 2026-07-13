@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-07-13T21:34:48.494580",
-  "actualizado_vzla": "2026-07-13 17:34:48 -04",
+  "timestamp_utc": "2026-07-13T22:35:39.409625",
+  "actualizado_vzla": "2026-07-13 18:35:39 -04",
   "compra_segundo": {
-    "price": 843.3,
-    "name": "CambiosVlz"
+    "price": 842.8,
+    "name": "Fast-CambiosSeguro-"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "安全与信任"
+    "price": 846.5,
+    "name": "-Gaia-"
   },
   "promedio": 844.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
