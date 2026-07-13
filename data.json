@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-13T07:30:28.548122",
-  "actualizado_vzla": "2026-07-13 03:30:28 -04",
+  "timestamp_utc": "2026-07-13T10:40:39.165715",
+  "actualizado_vzla": "2026-07-13 06:40:39 -04",
   "compra_segundo": {
-    "price": 827.999,
-    "name": "WillyWonka-"
+    "price": 826.0,
+    "name": "LopezInvestment"
   },
   "venta_maxima": {
-    "price": 817.601,
-    "name": "Mikyrendon"
+    "price": 820.001,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 822.8,
+  "promedio": 823.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
