@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-13T15:50:50.564500",
-  "actualizado_vzla": "2026-07-13 11:50:50 -04",
+  "timestamp_utc": "2026-07-13T17:50:50.702258",
+  "actualizado_vzla": "2026-07-13 13:50:50 -04",
   "compra_segundo": {
-    "price": 831.3,
-    "name": "Seguro"
+    "price": 832.898,
+    "name": "LeymusCoin"
   },
   "venta_maxima": {
-    "price": 833.0,
-    "name": "GJexchange07"
+    "price": 831.028,
+    "name": "TOPlevelS"
   },
-  "promedio": 832.15,
+  "promedio": 831.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
