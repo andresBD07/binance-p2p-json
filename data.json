@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-07-12T22:59:07.464227",
-  "actualizado_vzla": "2026-07-12 18:59:07 -04",
+  "timestamp_utc": "2026-07-13T00:04:48.114711",
+  "actualizado_vzla": "2026-07-12 20:04:48 -04",
   "compra_segundo": {
-    "price": 826.9,
-    "name": "Doctora_Pena"
+    "price": 827.4,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 826.0,
-    "name": "TheOchoa"
+    "price": 825.5,
+    "name": "TITODOBLE"
   },
   "promedio": 826.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
