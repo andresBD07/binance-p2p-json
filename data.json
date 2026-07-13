@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-13T00:04:48.114711",
-  "actualizado_vzla": "2026-07-12 20:04:48 -04",
+  "timestamp_utc": "2026-07-13T03:56:35.635180",
+  "actualizado_vzla": "2026-07-12 23:56:35 -04",
   "compra_segundo": {
-    "price": 827.4,
-    "name": "raParadas-31"
+    "price": 826.9,
+    "name": "Toshiro626"
   },
   "venta_maxima": {
-    "price": 825.5,
-    "name": "TITODOBLE"
+    "price": 825.001,
+    "name": "c_s_"
   },
-  "promedio": 826.45,
+  "promedio": 825.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
