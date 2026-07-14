@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-14T08:39:00.308695",
-  "actualizado_vzla": "2026-07-14 04:39:00 -04",
+  "timestamp_utc": "2026-07-14T10:25:12.030828",
+  "actualizado_vzla": "2026-07-14 06:25:12 -04",
   "compra_segundo": {
-    "price": 845.0,
-    "name": "Criptohana"
+    "price": 844.79,
+    "name": "Criptoecu"
   },
   "venta_maxima": {
-    "price": 839.15,
-    "name": "REY_SALOMON_CRIPTO"
+    "price": 839.7,
+    "name": "cambiofast24h"
   },
-  "promedio": 842.08,
+  "promedio": 842.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
