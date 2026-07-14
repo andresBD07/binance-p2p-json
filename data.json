@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-14T15:42:12.974625",
-  "actualizado_vzla": "2026-07-14 11:42:12 -04",
+  "timestamp_utc": "2026-07-14T16:53:47.028465",
+  "actualizado_vzla": "2026-07-14 12:53:47 -04",
   "compra_segundo": {
-    "price": 845.89,
-    "name": "hc-investings"
+    "price": 849.9,
+    "name": "Ruthnuts"
   },
   "venta_maxima": {
-    "price": 850.01,
-    "name": "chango_pay"
+    "price": 853.0,
+    "name": "-DRASIX-"
   },
-  "promedio": 847.95,
+  "promedio": 851.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
