@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-13T23:34:28.743200",
-  "actualizado_vzla": "2026-07-13 19:34:28 -04",
+  "timestamp_utc": "2026-07-14T01:01:50.687544",
+  "actualizado_vzla": "2026-07-13 21:01:50 -04",
   "compra_segundo": {
-    "price": 843.888,
-    "name": "EduardoArrieche"
+    "price": 840.5,
+    "name": "galactico_traders"
   },
   "venta_maxima": {
-    "price": 844.0,
-    "name": "安全与信任"
+    "price": 843.201,
+    "name": "TOPlevelS"
   },
-  "promedio": 843.94,
+  "promedio": 841.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
