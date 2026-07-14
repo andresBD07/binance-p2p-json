@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-14T21:41:16.387263",
-  "actualizado_vzla": "2026-07-14 17:41:16 -04",
+  "timestamp_utc": "2026-07-14T22:40:52.835136",
+  "actualizado_vzla": "2026-07-14 18:40:52 -04",
   "compra_segundo": {
-    "price": 864.74,
-    "name": "AFNP15"
+    "price": 865.7,
+    "name": "Yaneht_Elite_Gold"
   },
   "venta_maxima": {
-    "price": 866.0,
+    "price": 871.0,
     "name": "-Tyrion-Lannister-"
   },
-  "promedio": 865.37,
+  "promedio": 868.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
