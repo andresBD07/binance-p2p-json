@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-14T14:04:39.433150",
-  "actualizado_vzla": "2026-07-14 10:04:39 -04",
+  "timestamp_utc": "2026-07-14T15:42:12.974625",
+  "actualizado_vzla": "2026-07-14 11:42:12 -04",
   "compra_segundo": {
-    "price": 841.999,
-    "name": "Satoru_Gojo_P2P"
+    "price": 845.89,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 843.5,
-    "name": "TICOFINANCIAL"
+    "price": 850.01,
+    "name": "chango_pay"
   },
-  "promedio": 842.75,
+  "promedio": 847.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
