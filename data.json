@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-14T06:29:02.437989",
-  "actualizado_vzla": "2026-07-14 02:29:02 -04",
+  "timestamp_utc": "2026-07-14T08:39:00.308695",
+  "actualizado_vzla": "2026-07-14 04:39:00 -04",
   "compra_segundo": {
-    "price": 845.499,
-    "name": "CONFIABLE-SERVICIOS"
+    "price": 845.0,
+    "name": "Criptohana"
   },
   "venta_maxima": {
-    "price": 841.5,
-    "name": "TraderImperial"
+    "price": 839.15,
+    "name": "REY_SALOMON_CRIPTO"
   },
-  "promedio": 843.5,
+  "promedio": 842.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
