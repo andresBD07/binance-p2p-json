@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-15T18:39:34.642967",
-  "actualizado_vzla": "2026-07-15 14:39:34 -04",
+  "timestamp_utc": "2026-07-15T19:52:32.940289",
+  "actualizado_vzla": "2026-07-15 15:52:32 -04",
   "compra_segundo": {
-    "price": 881.468,
-    "name": "Orlozada"
+    "price": 879.89,
+    "name": "adrubita"
   },
   "venta_maxima": {
-    "price": 887.0,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 884.0,
+    "name": "Akadz"
   },
-  "promedio": 884.23,
+  "promedio": 881.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
