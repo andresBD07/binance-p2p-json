@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-15T12:21:08.332325",
-  "actualizado_vzla": "2026-07-15 08:21:08 -04",
+  "timestamp_utc": "2026-07-15T14:18:09.833259",
+  "actualizado_vzla": "2026-07-15 10:18:09 -04",
   "compra_segundo": {
-    "price": 865.87,
-    "name": "RSTrader_"
+    "price": 866.0,
+    "name": "ADARA--JHONY"
   },
   "venta_maxima": {
-    "price": 867.3,
-    "name": "VZLAMundialista"
+    "price": 869.5,
+    "name": "TPhillips"
   },
-  "promedio": 866.59,
+  "promedio": 867.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
