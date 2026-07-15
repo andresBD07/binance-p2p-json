@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-15T20:59:41.636743",
-  "actualizado_vzla": "2026-07-15 16:59:41 -04",
+  "timestamp_utc": "2026-07-15T22:09:46.462616",
+  "actualizado_vzla": "2026-07-15 18:09:46 -04",
   "compra_segundo": {
-    "price": 875.98,
-    "name": "Maleono"
+    "price": 868.9,
+    "name": "DanielTradeHouse"
   },
   "venta_maxima": {
-    "price": 883.0,
+    "price": 868.0,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 879.49,
+  "promedio": 868.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
