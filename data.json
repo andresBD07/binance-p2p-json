@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-15T19:52:32.940289",
-  "actualizado_vzla": "2026-07-15 15:52:32 -04",
+  "timestamp_utc": "2026-07-15T20:59:41.636743",
+  "actualizado_vzla": "2026-07-15 16:59:41 -04",
   "compra_segundo": {
-    "price": 879.89,
-    "name": "adrubita"
+    "price": 875.98,
+    "name": "Maleono"
   },
   "venta_maxima": {
-    "price": 884.0,
-    "name": "Akadz"
+    "price": 883.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 881.94,
+  "promedio": 879.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
