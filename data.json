@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-15T10:58:16.466355",
-  "actualizado_vzla": "2026-07-15 06:58:16 -04",
+  "timestamp_utc": "2026-07-15T12:21:08.332325",
+  "actualizado_vzla": "2026-07-15 08:21:08 -04",
   "compra_segundo": {
-    "price": 868.1,
-    "name": "Sag87"
+    "price": 865.87,
+    "name": "RSTrader_"
   },
   "venta_maxima": {
-    "price": 864.85,
-    "name": "ANMAIYANME"
+    "price": 867.3,
+    "name": "VZLAMundialista"
   },
-  "promedio": 866.48,
+  "promedio": 866.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
