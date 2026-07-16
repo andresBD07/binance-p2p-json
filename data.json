@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T06:05:42.207556",
-  "actualizado_vzla": "2026-07-16 02:05:42 -04",
+  "timestamp_utc": "2026-07-16T08:32:02.333523",
+  "actualizado_vzla": "2026-07-16 04:32:02 -04",
   "compra_segundo": {
-    "price": 854.795,
-    "name": "--LuicmarTrader--"
+    "price": 854.0,
+    "name": "Abi_Cambios"
   },
   "venta_maxima": {
-    "price": 844.1,
-    "name": "ReadyToTrade_"
+    "price": 846.7,
+    "name": "MegalinkFinance"
   },
-  "promedio": 849.45,
+  "promedio": 850.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
