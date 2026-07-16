@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T14:19:44.018400",
-  "actualizado_vzla": "2026-07-16 10:19:44 -04",
+  "timestamp_utc": "2026-07-16T15:53:16.243729",
+  "actualizado_vzla": "2026-07-16 11:53:16 -04",
   "compra_segundo": {
-    "price": 827.49,
-    "name": "Tu_Cambio_Seguro"
+    "price": 849.999,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 825.5,
-    "name": "Auyantepuyy"
+    "price": 847.5,
+    "name": "Criptocambioslatam"
   },
-  "promedio": 826.5,
+  "promedio": 848.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
