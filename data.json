@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-15T23:13:06.316578",
-  "actualizado_vzla": "2026-07-15 19:13:06 -04",
+  "timestamp_utc": "2026-07-16T00:12:32.396939",
+  "actualizado_vzla": "2026-07-15 20:12:32 -04",
   "compra_segundo": {
-    "price": 859.5,
-    "name": "读Relojero_Exchang音"
+    "price": 854.999,
+    "name": "JoelonN"
   },
   "venta_maxima": {
-    "price": 859.5,
+    "price": 855.5,
     "name": "TPhillips"
   },
-  "promedio": 859.5,
+  "promedio": 855.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
