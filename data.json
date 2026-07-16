@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T18:35:46.673957",
-  "actualizado_vzla": "2026-07-16 14:35:46 -04",
+  "timestamp_utc": "2026-07-16T19:44:34.801705",
+  "actualizado_vzla": "2026-07-16 15:44:34 -04",
   "compra_segundo": {
-    "price": 842.0,
-    "name": "Gatsby_24"
+    "price": 845.49,
+    "name": "EA_FastPay"
   },
   "venta_maxima": {
-    "price": 847.0,
+    "price": 848.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 844.5,
+  "promedio": 846.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
