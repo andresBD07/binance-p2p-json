@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T19:44:34.801705",
-  "actualizado_vzla": "2026-07-16 15:44:34 -04",
+  "timestamp_utc": "2026-07-16T20:37:45.538632",
+  "actualizado_vzla": "2026-07-16 16:37:45 -04",
   "compra_segundo": {
-    "price": 845.49,
-    "name": "EA_FastPay"
+    "price": 843.999,
+    "name": "你看_VES_你看_VES_你看Like"
   },
   "venta_maxima": {
-    "price": 848.0,
-    "name": "被放逐的狐狸"
+    "price": 847.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 846.75,
+  "promedio": 845.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
