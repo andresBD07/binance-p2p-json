@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T03:42:12.483017",
-  "actualizado_vzla": "2026-07-15 23:42:12 -04",
+  "timestamp_utc": "2026-07-16T06:05:42.207556",
+  "actualizado_vzla": "2026-07-16 02:05:42 -04",
   "compra_segundo": {
-    "price": 852.9,
-    "name": "EliseoAmaya"
+    "price": 854.795,
+    "name": "--LuicmarTrader--"
   },
   "venta_maxima": {
-    "price": 846.6,
+    "price": 844.1,
     "name": "ReadyToTrade_"
   },
-  "promedio": 849.75,
+  "promedio": 849.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
