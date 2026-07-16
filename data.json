@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T08:32:02.333523",
-  "actualizado_vzla": "2026-07-16 04:32:02 -04",
+  "timestamp_utc": "2026-07-16T10:31:10.726612",
+  "actualizado_vzla": "2026-07-16 06:31:10 -04",
   "compra_segundo": {
-    "price": 854.0,
-    "name": "Abi_Cambios"
+    "price": 851.799,
+    "name": "AlexGrecCambiosyReme"
   },
   "venta_maxima": {
-    "price": 846.7,
-    "name": "MegalinkFinance"
+    "price": 844.5,
+    "name": "你就变得更强"
   },
-  "promedio": 850.35,
+  "promedio": 848.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
