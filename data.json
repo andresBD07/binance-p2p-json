@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T17:58:44.192444",
-  "actualizado_vzla": "2026-07-17 13:58:44 -04",
+  "timestamp_utc": "2026-07-17T19:22:39.990207",
+  "actualizado_vzla": "2026-07-17 15:22:40 -04",
   "compra_segundo": {
-    "price": 848.499,
-    "name": "MarDiodoros"
+    "price": 847.49,
+    "name": "LopezInvestment"
   },
   "venta_maxima": {
-    "price": 854.509,
-    "name": "TOPlevelS"
+    "price": 850.0,
+    "name": "安全与信任"
   },
-  "promedio": 851.5,
+  "promedio": 848.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
