@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T21:23:58.737919",
-  "actualizado_vzla": "2026-07-17 17:23:58 -04",
+  "timestamp_utc": "2026-07-17T22:22:56.958319",
+  "actualizado_vzla": "2026-07-17 18:22:56 -04",
   "compra_segundo": {
-    "price": 852.1,
-    "name": "Carlecitta"
+    "price": 855.899,
+    "name": "LUMA_08"
   },
   "venta_maxima": {
-    "price": 853.5,
-    "name": "Blank_Mind"
+    "price": 856.1,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 852.8,
+  "promedio": 856.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
