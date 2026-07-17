@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-16T23:41:50.875809",
-  "actualizado_vzla": "2026-07-16 19:41:50 -04",
+  "timestamp_utc": "2026-07-17T01:14:06.649847",
+  "actualizado_vzla": "2026-07-16 21:14:06 -04",
   "compra_segundo": {
-    "price": 843.0,
+    "price": 841.5,
     "name": "ANMAIYANME"
   },
   "venta_maxima": {
-    "price": 854.0,
-    "name": "Blank_Mind"
+    "price": 840.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 848.5,
+  "promedio": 840.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
