@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T14:09:04.433485",
-  "actualizado_vzla": "2026-07-17 10:09:04 -04",
+  "timestamp_utc": "2026-07-17T15:41:21.301828",
+  "actualizado_vzla": "2026-07-17 11:41:21 -04",
   "compra_segundo": {
-    "price": 842.7,
-    "name": "Alerapi"
+    "price": 846.099,
+    "name": "cesarcal23"
   },
   "venta_maxima": {
-    "price": 842.1,
-    "name": "Cross-26"
+    "price": 846.0,
+    "name": "安全与信任"
   },
-  "promedio": 842.4,
+  "promedio": 846.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
