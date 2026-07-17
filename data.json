@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T15:41:21.301828",
-  "actualizado_vzla": "2026-07-17 11:41:21 -04",
+  "timestamp_utc": "2026-07-17T16:50:17.037866",
+  "actualizado_vzla": "2026-07-17 12:50:17 -04",
   "compra_segundo": {
-    "price": 846.099,
-    "name": "cesarcal23"
+    "price": 848.998,
+    "name": "灰Oshedi"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "安全与信任"
+    "price": 849.5,
+    "name": "Chimuelo__"
   },
-  "promedio": 846.05,
+  "promedio": 849.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
