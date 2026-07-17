@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T19:22:39.990207",
-  "actualizado_vzla": "2026-07-17 15:22:40 -04",
+  "timestamp_utc": "2026-07-17T20:26:46.018797",
+  "actualizado_vzla": "2026-07-17 16:26:46 -04",
   "compra_segundo": {
-    "price": 847.49,
-    "name": "LopezInvestment"
+    "price": 849.75,
+    "name": "Farmatodo"
   },
   "venta_maxima": {
-    "price": 850.0,
-    "name": "安全与信任"
+    "price": 855.2,
+    "name": "GAMBINO-"
   },
-  "promedio": 848.75,
+  "promedio": 852.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
