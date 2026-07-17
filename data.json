@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T12:17:54.270210",
-  "actualizado_vzla": "2026-07-17 08:17:54 -04",
+  "timestamp_utc": "2026-07-17T14:09:04.433485",
+  "actualizado_vzla": "2026-07-17 10:09:04 -04",
   "compra_segundo": {
-    "price": 841.482,
-    "name": "SafeSwapLong"
+    "price": 842.7,
+    "name": "Alerapi"
   },
   "venta_maxima": {
-    "price": 840.0,
-    "name": "YAMISENSEI"
+    "price": 842.1,
+    "name": "Cross-26"
   },
-  "promedio": 840.74,
+  "promedio": 842.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
