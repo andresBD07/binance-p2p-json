@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T04:29:12.100623",
-  "actualizado_vzla": "2026-07-17 00:29:12 -04",
+  "timestamp_utc": "2026-07-17T06:59:18.323683",
+  "actualizado_vzla": "2026-07-17 02:59:18 -04",
   "compra_segundo": {
-    "price": 840.0,
-    "name": "-Ledger-"
+    "price": 841.0,
+    "name": "THEBOSSTRADER"
   },
   "venta_maxima": {
-    "price": 837.0,
-    "name": "c_s_"
+    "price": 832.51,
+    "name": "CoinBeek"
   },
-  "promedio": 838.5,
+  "promedio": 836.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
