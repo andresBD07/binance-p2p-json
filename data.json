@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T09:17:15.673600",
-  "actualizado_vzla": "2026-07-17 05:17:15 -04",
+  "timestamp_utc": "2026-07-17T10:59:26.768330",
+  "actualizado_vzla": "2026-07-17 06:59:26 -04",
   "compra_segundo": {
-    "price": 839.998,
-    "name": "AllTraders"
+    "price": 836.8,
+    "name": "eduardo94268"
   },
   "venta_maxima": {
-    "price": 832.0,
+    "price": 832.196,
     "name": "HunterxTrade"
   },
-  "promedio": 836.0,
+  "promedio": 834.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
