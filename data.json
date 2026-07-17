@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T10:59:26.768330",
-  "actualizado_vzla": "2026-07-17 06:59:26 -04",
+  "timestamp_utc": "2026-07-17T12:17:54.270210",
+  "actualizado_vzla": "2026-07-17 08:17:54 -04",
   "compra_segundo": {
-    "price": 836.8,
-    "name": "eduardo94268"
+    "price": 841.482,
+    "name": "SafeSwapLong"
   },
   "venta_maxima": {
-    "price": 832.196,
-    "name": "HunterxTrade"
+    "price": 840.0,
+    "name": "YAMISENSEI"
   },
-  "promedio": 834.5,
+  "promedio": 840.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
