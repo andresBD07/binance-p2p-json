@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T22:22:56.958319",
-  "actualizado_vzla": "2026-07-17 18:22:56 -04",
+  "timestamp_utc": "2026-07-17T23:23:39.428373",
+  "actualizado_vzla": "2026-07-17 19:23:39 -04",
   "compra_segundo": {
-    "price": 855.899,
-    "name": "LUMA_08"
+    "price": 851.3,
+    "name": "Ciclope7"
   },
   "venta_maxima": {
-    "price": 856.1,
-    "name": "DOCTOR_CAMBIO"
+    "price": 851.1,
+    "name": "TradingCambios"
   },
-  "promedio": 856.0,
+  "promedio": 851.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
