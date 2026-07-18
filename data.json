@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T00:56:19.890025",
-  "actualizado_vzla": "2026-07-17 20:56:19 -04",
+  "timestamp_utc": "2026-07-18T04:06:52.029583",
+  "actualizado_vzla": "2026-07-18 00:06:52 -04",
   "compra_segundo": {
-    "price": 851.8,
-    "name": "CambiosLindos2"
+    "price": 857.0,
+    "name": "RRcambiosalinstante"
   },
   "venta_maxima": {
-    "price": 853.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 855.0,
+    "name": "BraVen_Group"
   },
-  "promedio": 852.4,
+  "promedio": 856.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
