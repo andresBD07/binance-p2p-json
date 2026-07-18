@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T17:39:58.191020",
-  "actualizado_vzla": "2026-07-18 13:39:58 -04",
+  "timestamp_utc": "2026-07-18T18:37:32.025849",
+  "actualizado_vzla": "2026-07-18 14:37:32 -04",
   "compra_segundo": {
-    "price": 858.1,
-    "name": "leosolox"
+    "price": 856.9,
+    "name": "CambiosSegurosLB20"
   },
   "venta_maxima": {
-    "price": 859.41,
-    "name": "LeymusCoin"
+    "price": 860.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 858.75,
+  "promedio": 858.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
