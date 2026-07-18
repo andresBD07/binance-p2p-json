@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T20:39:22.091136",
-  "actualizado_vzla": "2026-07-18 16:39:22 -04",
+  "timestamp_utc": "2026-07-18T21:34:40.669503",
+  "actualizado_vzla": "2026-07-18 17:34:40 -04",
   "compra_segundo": {
-    "price": 857.63,
-    "name": "Dxvid Exchange"
+    "price": 857.5,
+    "name": "Mahc012712"
   },
   "venta_maxima": {
-    "price": 860.6,
-    "name": "Blank_Mind"
+    "price": 860.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 859.12,
+  "promedio": 858.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
