@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T21:34:40.669503",
-  "actualizado_vzla": "2026-07-18 17:34:40 -04",
+  "timestamp_utc": "2026-07-18T22:30:00.156490",
+  "actualizado_vzla": "2026-07-18 18:30:00 -04",
   "compra_segundo": {
-    "price": 857.5,
-    "name": "Mahc012712"
+    "price": 858.099,
+    "name": "PANDA1902"
   },
   "venta_maxima": {
-    "price": 860.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 856.0,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 858.75,
+  "promedio": 857.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
