@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T10:55:04.005879",
-  "actualizado_vzla": "2026-07-18 06:55:04 -04",
+  "timestamp_utc": "2026-07-18T11:57:08.081768",
+  "actualizado_vzla": "2026-07-18 07:57:08 -04",
   "compra_segundo": {
-    "price": 858.0,
-    "name": "P2P-kevinbenito"
+    "price": 859.4,
+    "name": "-HashiramaSenju"
   },
   "venta_maxima": {
-    "price": 855.0,
-    "name": "BraVen_Group"
+    "price": 857.0,
+    "name": "ZilongFast"
   },
-  "promedio": 856.5,
+  "promedio": 858.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
