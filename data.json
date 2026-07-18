@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T15:38:34.924612",
-  "actualizado_vzla": "2026-07-18 11:38:34 -04",
+  "timestamp_utc": "2026-07-18T16:36:16.702462",
+  "actualizado_vzla": "2026-07-18 12:36:16 -04",
   "compra_segundo": {
-    "price": 858.99,
-    "name": "raParadas-31"
+    "price": 860.0,
+    "name": "ADARA--JHONY"
   },
   "venta_maxima": {
-    "price": 861.0,
+    "price": 862.0,
     "name": "JoseParedez"
   },
-  "promedio": 860.0,
+  "promedio": 861.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
