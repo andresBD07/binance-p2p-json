@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T18:37:32.025849",
-  "actualizado_vzla": "2026-07-18 14:37:32 -04",
+  "timestamp_utc": "2026-07-18T19:50:18.652934",
+  "actualizado_vzla": "2026-07-18 15:50:18 -04",
   "compra_segundo": {
-    "price": 856.9,
-    "name": "CambiosSegurosLB20"
+    "price": 858.28,
+    "name": "销CryptoAptus售"
   },
   "venta_maxima": {
-    "price": 860.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 859.0,
+    "name": "HAVALLL"
   },
-  "promedio": 858.45,
+  "promedio": 858.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
