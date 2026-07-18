@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-17T23:23:39.428373",
-  "actualizado_vzla": "2026-07-17 19:23:39 -04",
+  "timestamp_utc": "2026-07-18T00:56:19.890025",
+  "actualizado_vzla": "2026-07-17 20:56:19 -04",
   "compra_segundo": {
-    "price": 851.3,
-    "name": "Ciclope7"
+    "price": 851.8,
+    "name": "CambiosLindos2"
   },
   "venta_maxima": {
-    "price": 851.1,
-    "name": "TradingCambios"
+    "price": 853.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 851.2,
+  "promedio": 852.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
