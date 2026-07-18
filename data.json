@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T06:17:24.552942",
-  "actualizado_vzla": "2026-07-18 02:17:24 -04",
+  "timestamp_utc": "2026-07-18T08:13:16.771374",
+  "actualizado_vzla": "2026-07-18 04:13:16 -04",
   "compra_segundo": {
-    "price": 858.888,
-    "name": "Jesus-X"
+    "price": 858.8,
+    "name": "SCambios"
   },
   "venta_maxima": {
     "price": 855.0,
     "name": "BraVen_Group"
   },
-  "promedio": 856.94,
+  "promedio": 856.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
