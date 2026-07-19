@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-18T23:31:51.314348",
-  "actualizado_vzla": "2026-07-18 19:31:51 -04",
+  "timestamp_utc": "2026-07-19T01:07:19.571324",
+  "actualizado_vzla": "2026-07-18 21:07:19 -04",
   "compra_segundo": {
-    "price": 857.15,
-    "name": "Mahc012712"
+    "price": 858.2,
+    "name": "CriptoWillQV"
   },
   "venta_maxima": {
-    "price": 857.052,
-    "name": "加密操作"
+    "price": 857.2,
+    "name": "LordCambios"
   },
-  "promedio": 857.1,
+  "promedio": 857.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
