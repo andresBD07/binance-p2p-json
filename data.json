@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T04:34:17.319363",
-  "actualizado_vzla": "2026-07-19 00:34:17 -04",
+  "timestamp_utc": "2026-07-19T07:13:09.908906",
+  "actualizado_vzla": "2026-07-19 03:13:09 -04",
   "compra_segundo": {
-    "price": 860.4,
-    "name": "Old Parr"
+    "price": 861.987,
+    "name": "BalduinoIV"
   },
   "venta_maxima": {
-    "price": 855.12,
-    "name": "TuCambioYa_"
+    "price": 854.0,
+    "name": "VenSniper"
   },
-  "promedio": 857.76,
+  "promedio": 857.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
