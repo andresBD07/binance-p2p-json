@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T07:13:09.908906",
-  "actualizado_vzla": "2026-07-19 03:13:09 -04",
+  "timestamp_utc": "2026-07-19T09:20:38.478607",
+  "actualizado_vzla": "2026-07-19 05:20:38 -04",
   "compra_segundo": {
-    "price": 861.987,
-    "name": "BalduinoIV"
+    "price": 862.5,
+    "name": "TraderMasterrr"
   },
   "venta_maxima": {
     "price": 854.0,
-    "name": "VenSniper"
+    "name": "ARKADB"
   },
-  "promedio": 857.99,
+  "promedio": 858.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
