@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T10:50:29.597652",
-  "actualizado_vzla": "2026-07-19 06:50:29 -04",
+  "timestamp_utc": "2026-07-19T11:51:14.878583",
+  "actualizado_vzla": "2026-07-19 07:51:14 -04",
   "compra_segundo": {
-    "price": 860.7,
+    "price": 860.0,
     "name": "Cripto_Activos"
   },
   "venta_maxima": {
-    "price": 855.01,
+    "price": 856.0,
     "name": "LordCambios"
   },
-  "promedio": 857.86,
+  "promedio": 858.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
