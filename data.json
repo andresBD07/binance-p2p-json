@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T18:39:36.068937",
-  "actualizado_vzla": "2026-07-19 14:39:36 -04",
+  "timestamp_utc": "2026-07-19T19:55:18.265526",
+  "actualizado_vzla": "2026-07-19 15:55:18 -04",
   "compra_segundo": {
-    "price": 853.0,
-    "name": "Numero-18"
+    "price": 854.0,
+    "name": "Waldofx"
   },
   "venta_maxima": {
-    "price": 853.0,
-    "name": "Godisgift"
+    "price": 854.1,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 853.0,
+  "promedio": 854.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
