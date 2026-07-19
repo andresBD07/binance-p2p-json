@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-07-19T11:51:14.878583",
-  "actualizado_vzla": "2026-07-19 07:51:14 -04",
+  "timestamp_utc": "2026-07-19T13:08:41.807819",
+  "actualizado_vzla": "2026-07-19 09:08:41 -04",
   "compra_segundo": {
-    "price": 860.0,
-    "name": "Cripto_Activos"
+    "price": 859.0,
+    "name": "CANAIMA21"
   },
   "venta_maxima": {
-    "price": 856.0,
-    "name": "LordCambios"
+    "price": 857.0,
+    "name": "Blank_Mind"
   },
   "promedio": 858.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
