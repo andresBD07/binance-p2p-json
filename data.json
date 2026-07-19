@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T15:35:32.517161",
-  "actualizado_vzla": "2026-07-19 11:35:32 -04",
+  "timestamp_utc": "2026-07-19T16:33:54.658967",
+  "actualizado_vzla": "2026-07-19 12:33:54 -04",
   "compra_segundo": {
-    "price": 856.0,
-    "name": "SamuraiYJR21"
+    "price": 855.995,
+    "name": "ElielWar"
   },
   "venta_maxima": {
-    "price": 852.95,
-    "name": "GAMBINO-"
+    "price": 854.0,
+    "name": "Child-CambioFacil"
   },
-  "promedio": 854.48,
+  "promedio": 855.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
