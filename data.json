@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T09:20:38.478607",
-  "actualizado_vzla": "2026-07-19 05:20:38 -04",
+  "timestamp_utc": "2026-07-19T10:50:29.597652",
+  "actualizado_vzla": "2026-07-19 06:50:29 -04",
   "compra_segundo": {
-    "price": 862.5,
-    "name": "TraderMasterrr"
+    "price": 860.7,
+    "name": "Cripto_Activos"
   },
   "venta_maxima": {
-    "price": 854.0,
-    "name": "ARKADB"
+    "price": 855.01,
+    "name": "LordCambios"
   },
-  "promedio": 858.25,
+  "promedio": 857.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
