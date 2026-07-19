@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T01:07:19.571324",
-  "actualizado_vzla": "2026-07-18 21:07:19 -04",
+  "timestamp_utc": "2026-07-19T04:34:17.319363",
+  "actualizado_vzla": "2026-07-19 00:34:17 -04",
   "compra_segundo": {
-    "price": 858.2,
-    "name": "CriptoWillQV"
+    "price": 860.4,
+    "name": "Old Parr"
   },
   "venta_maxima": {
-    "price": 857.2,
-    "name": "LordCambios"
+    "price": 855.12,
+    "name": "TuCambioYa_"
   },
-  "promedio": 857.7,
+  "promedio": 857.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
