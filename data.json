@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T18:32:25.848339",
-  "actualizado_vzla": "2026-07-20 14:32:25 -04",
+  "timestamp_utc": "2026-07-20T20:09:58.586871",
+  "actualizado_vzla": "2026-07-20 16:09:58 -04",
   "compra_segundo": {
-    "price": 871.97,
-    "name": "RapidEnvios"
+    "price": 870.99,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 872.6,
-    "name": "DOCTOR_CAMBIO"
+    "price": 871.035,
+    "name": "NORTH-CAPITAL"
   },
-  "promedio": 872.29,
+  "promedio": 871.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
