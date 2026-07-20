@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T00:11:13.201475",
-  "actualizado_vzla": "2026-07-19 20:11:13 -04",
+  "timestamp_utc": "2026-07-20T04:07:08.361380",
+  "actualizado_vzla": "2026-07-20 00:07:08 -04",
   "compra_segundo": {
-    "price": 854.998,
-    "name": "Capital Carreño"
+    "price": 855.299,
+    "name": "Richgato_Reload"
   },
   "venta_maxima": {
-    "price": 855.01,
-    "name": "BraVen_Group"
+    "price": 851.0,
+    "name": "c_s_"
   },
-  "promedio": 855.0,
+  "promedio": 853.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
