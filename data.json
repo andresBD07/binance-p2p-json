@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T14:55:11.194943",
-  "actualizado_vzla": "2026-07-20 10:55:11 -04",
+  "timestamp_utc": "2026-07-20T16:37:18.922213",
+  "actualizado_vzla": "2026-07-20 12:37:18 -04",
   "compra_segundo": {
-    "price": 861.0,
-    "name": "07-transpor"
+    "price": 861.95,
+    "name": "ALTRIUM"
   },
   "venta_maxima": {
-    "price": 858.0,
-    "name": "Godisgift"
+    "price": 861.0,
+    "name": "-Zeratul-"
   },
-  "promedio": 859.5,
+  "promedio": 861.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
