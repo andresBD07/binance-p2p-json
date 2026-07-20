@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T22:35:16.323114",
-  "actualizado_vzla": "2026-07-20 18:35:16 -04",
+  "timestamp_utc": "2026-07-20T23:38:12.865094",
+  "actualizado_vzla": "2026-07-20 19:38:12 -04",
   "compra_segundo": {
-    "price": 866.88,
-    "name": "SqualoZ"
+    "price": 867.0,
+    "name": "Cripto_Activos"
   },
   "venta_maxima": {
-    "price": 869.035,
-    "name": "NORTH-CAPITAL"
+    "price": 866.5,
+    "name": "BOLO-USDT"
   },
-  "promedio": 867.96,
+  "promedio": 866.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
