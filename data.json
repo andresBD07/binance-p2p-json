@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T20:09:58.586871",
-  "actualizado_vzla": "2026-07-20 16:09:58 -04",
+  "timestamp_utc": "2026-07-20T21:33:28.537848",
+  "actualizado_vzla": "2026-07-20 17:33:28 -04",
   "compra_segundo": {
-    "price": 870.99,
-    "name": "hc-investings"
+    "price": 869.8,
+    "name": "BaldomeroH"
   },
   "venta_maxima": {
-    "price": 871.035,
-    "name": "NORTH-CAPITAL"
+    "price": 870.2,
+    "name": "c_s_"
   },
-  "promedio": 871.01,
+  "promedio": 870.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
