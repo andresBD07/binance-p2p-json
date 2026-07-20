@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-19T23:06:49.495515",
-  "actualizado_vzla": "2026-07-19 19:06:49 -04",
+  "timestamp_utc": "2026-07-20T00:11:13.201475",
+  "actualizado_vzla": "2026-07-19 20:11:13 -04",
   "compra_segundo": {
-    "price": 854.2,
-    "name": "ISATradea"
+    "price": 854.998,
+    "name": "Capital Carreño"
   },
   "venta_maxima": {
-    "price": 854.583,
-    "name": "TOPlevelS"
+    "price": 855.01,
+    "name": "BraVen_Group"
   },
-  "promedio": 854.39,
+  "promedio": 855.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
