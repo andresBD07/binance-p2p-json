@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T21:33:28.537848",
-  "actualizado_vzla": "2026-07-20 17:33:28 -04",
+  "timestamp_utc": "2026-07-20T22:35:16.323114",
+  "actualizado_vzla": "2026-07-20 18:35:16 -04",
   "compra_segundo": {
-    "price": 869.8,
-    "name": "BaldomeroH"
+    "price": 866.88,
+    "name": "SqualoZ"
   },
   "venta_maxima": {
-    "price": 870.2,
-    "name": "c_s_"
+    "price": 869.035,
+    "name": "NORTH-CAPITAL"
   },
-  "promedio": 870.0,
+  "promedio": 867.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
