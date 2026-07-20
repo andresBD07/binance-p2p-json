@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T10:27:00.284038",
-  "actualizado_vzla": "2026-07-20 06:27:00 -04",
+  "timestamp_utc": "2026-07-20T12:34:24.324347",
+  "actualizado_vzla": "2026-07-20 08:34:24 -04",
   "compra_segundo": {
-    "price": 854.6,
-    "name": "Nezuco05"
+    "price": 856.9,
+    "name": "Horusrs"
   },
   "venta_maxima": {
-    "price": 847.0,
-    "name": "Marchaba"
+    "price": 855.507,
+    "name": "TOPlevelS"
   },
-  "promedio": 850.8,
+  "promedio": 856.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
