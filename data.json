@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T04:07:08.361380",
-  "actualizado_vzla": "2026-07-20 00:07:08 -04",
+  "timestamp_utc": "2026-07-20T07:28:09.697884",
+  "actualizado_vzla": "2026-07-20 03:28:09 -04",
   "compra_segundo": {
-    "price": 855.299,
-    "name": "Richgato_Reload"
+    "price": 857.0,
+    "name": "AyrtonSenna12"
   },
   "venta_maxima": {
-    "price": 851.0,
-    "name": "c_s_"
+    "price": 847.0,
+    "name": "Marchaba"
   },
-  "promedio": 853.15,
+  "promedio": 852.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
