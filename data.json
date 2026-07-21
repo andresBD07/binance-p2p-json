@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-21T04:32:58.242444",
-  "actualizado_vzla": "2026-07-21 00:32:58 -04",
+  "timestamp_utc": "2026-07-21T07:16:32.760957",
+  "actualizado_vzla": "2026-07-21 03:16:32 -04",
   "compra_segundo": {
-    "price": 868.6,
-    "name": "galactico_traders"
+    "price": 869.45,
+    "name": "-----ELITE"
   },
   "venta_maxima": {
-    "price": 863.6,
-    "name": "RuizJr02"
+    "price": 863.05,
+    "name": "REY_SALOMON_CRIPTO"
   },
-  "promedio": 866.1,
+  "promedio": 866.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
