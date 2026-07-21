@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-21T09:45:25.875312",
-  "actualizado_vzla": "2026-07-21 05:45:25 -04",
+  "timestamp_utc": "2026-07-21T11:38:28.431276",
+  "actualizado_vzla": "2026-07-21 07:38:28 -04",
   "compra_segundo": {
-    "price": 869.6,
-    "name": "financepartner1203"
+    "price": 867.8,
+    "name": "Melani_sublimascione"
   },
   "venta_maxima": {
-    "price": 865.0,
-    "name": "Trust-Broker"
+    "price": 864.5,
+    "name": "ANMAIYANME"
   },
-  "promedio": 867.3,
+  "promedio": 866.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
