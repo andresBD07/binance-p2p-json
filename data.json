@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-21T11:38:28.431276",
-  "actualizado_vzla": "2026-07-21 07:38:28 -04",
+  "timestamp_utc": "2026-07-21T13:04:42.735037",
+  "actualizado_vzla": "2026-07-21 09:04:42 -04",
   "compra_segundo": {
-    "price": 867.8,
-    "name": "Melani_sublimascione"
+    "price": 866.1,
+    "name": "CambioSeguro24"
   },
   "venta_maxima": {
-    "price": 864.5,
-    "name": "ANMAIYANME"
+    "price": 863.5,
+    "name": "Gatsby_24"
   },
-  "promedio": 866.15,
+  "promedio": 864.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
