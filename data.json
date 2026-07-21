@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-20T23:38:12.865094",
-  "actualizado_vzla": "2026-07-20 19:38:12 -04",
+  "timestamp_utc": "2026-07-21T01:09:20.794274",
+  "actualizado_vzla": "2026-07-20 21:09:20 -04",
   "compra_segundo": {
-    "price": 867.0,
-    "name": "Cripto_Activos"
+    "price": 867.5,
+    "name": "Yolo_C"
   },
   "venta_maxima": {
-    "price": 866.5,
-    "name": "BOLO-USDT"
+    "price": 867.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 866.75,
+  "promedio": 867.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
