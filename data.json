@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-21T22:13:45.887541",
-  "actualizado_vzla": "2026-07-21 18:13:45 -04",
+  "timestamp_utc": "2026-07-21T23:14:52.102677",
+  "actualizado_vzla": "2026-07-21 19:14:52 -04",
   "compra_segundo": {
-    "price": 870.9,
-    "name": "Nezuco05"
+    "price": 872.3,
+    "name": "TLinversion"
   },
   "venta_maxima": {
     "price": 875.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 872.95,
+  "promedio": 873.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
