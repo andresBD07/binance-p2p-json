@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T03:49:57.668125",
-  "actualizado_vzla": "2026-07-21 23:49:57 -04",
+  "timestamp_utc": "2026-07-22T06:22:07.437656",
+  "actualizado_vzla": "2026-07-22 02:22:07 -04",
   "compra_segundo": {
-    "price": 871.4,
-    "name": "BallGroup"
+    "price": 872.49,
+    "name": "PERFUMEHOUSE"
   },
   "venta_maxima": {
-    "price": 867.0,
-    "name": "CambiosMZ"
+    "price": 865.01,
+    "name": "AndradeGasconTITULAR"
   },
-  "promedio": 869.2,
+  "promedio": 868.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
