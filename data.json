@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T15:05:23.477349",
-  "actualizado_vzla": "2026-07-22 11:05:23 -04",
+  "timestamp_utc": "2026-07-22T16:42:56.258211",
+  "actualizado_vzla": "2026-07-22 12:42:56 -04",
   "compra_segundo": {
-    "price": 870.0,
-    "name": "Calito22"
+    "price": 867.0,
+    "name": "Trader_QueenCripto"
   },
   "venta_maxima": {
-    "price": 869.0,
-    "name": "-TSxRV-"
+    "price": 867.0,
+    "name": "In_God-I_trust"
   },
-  "promedio": 869.5,
+  "promedio": 867.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
