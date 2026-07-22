@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T00:11:19.921112",
-  "actualizado_vzla": "2026-07-21 20:11:19 -04",
+  "timestamp_utc": "2026-07-22T03:49:57.668125",
+  "actualizado_vzla": "2026-07-21 23:49:57 -04",
   "compra_segundo": {
-    "price": 872.295,
-    "name": "MolinaJP_"
+    "price": 871.4,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 875.5,
-    "name": "-Gaia-"
+    "price": 867.0,
+    "name": "CambiosMZ"
   },
-  "promedio": 873.9,
+  "promedio": 869.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
