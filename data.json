@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T16:42:56.258211",
-  "actualizado_vzla": "2026-07-22 12:42:56 -04",
+  "timestamp_utc": "2026-07-22T17:55:52.444512",
+  "actualizado_vzla": "2026-07-22 13:55:52 -04",
   "compra_segundo": {
-    "price": 867.0,
-    "name": "Trader_QueenCripto"
+    "price": 871.3,
+    "name": "EKExpress"
   },
   "venta_maxima": {
-    "price": 867.0,
-    "name": "In_God-I_trust"
+    "price": 873.5,
+    "name": "GREEN78"
   },
-  "promedio": 867.0,
+  "promedio": 872.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
