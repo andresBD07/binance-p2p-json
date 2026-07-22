@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T21:54:39.353053",
-  "actualizado_vzla": "2026-07-22 17:54:39 -04",
+  "timestamp_utc": "2026-07-22T22:54:01.360737",
+  "actualizado_vzla": "2026-07-22 18:54:01 -04",
   "compra_segundo": {
-    "price": 867.85,
-    "name": "RM-CAMBIOS"
+    "price": 860.688,
+    "name": "灰Oshedi"
   },
   "venta_maxima": {
-    "price": 866.1,
-    "name": "Blank_Mind"
+    "price": 858.0,
+    "name": "criptogene01"
   },
-  "promedio": 866.98,
+  "promedio": 859.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
