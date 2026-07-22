@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T19:37:41.335993",
-  "actualizado_vzla": "2026-07-22 15:37:41 -04",
+  "timestamp_utc": "2026-07-22T20:45:31.442021",
+  "actualizado_vzla": "2026-07-22 16:45:31 -04",
   "compra_segundo": {
-    "price": 869.99,
-    "name": "现象"
+    "price": 867.8,
+    "name": "GoiCripto"
   },
   "venta_maxima": {
-    "price": 867.35,
-    "name": "THEBOSSTRADER"
+    "price": 867.213,
+    "name": "VISÓN CRIPTØ"
   },
-  "promedio": 868.67,
+  "promedio": 867.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
