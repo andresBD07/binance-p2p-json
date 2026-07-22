@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-22T09:08:06.200626",
-  "actualizado_vzla": "2026-07-22 05:08:06 -04",
+  "timestamp_utc": "2026-07-22T11:19:30.481177",
+  "actualizado_vzla": "2026-07-22 07:19:30 -04",
   "compra_segundo": {
-    "price": 872.49,
-    "name": "PERFUMEHOUSE"
+    "price": 870.68,
+    "name": "JHcambios97"
   },
   "venta_maxima": {
-    "price": 865.2,
-    "name": "StartBusiness"
+    "price": 867.5,
+    "name": "Redmagic17"
   },
-  "promedio": 868.85,
+  "promedio": 869.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
