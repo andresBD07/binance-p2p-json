@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T00:02:30.348914",
-  "actualizado_vzla": "2026-07-22 20:02:30 -04",
+  "timestamp_utc": "2026-07-23T03:38:32.510875",
+  "actualizado_vzla": "2026-07-22 23:38:32 -04",
   "compra_segundo": {
-    "price": 860.84,
-    "name": "Maleono"
+    "price": 861.0,
+    "name": "ALCAPON3"
   },
   "venta_maxima": {
-    "price": 859.5,
-    "name": "TPhillips"
+    "price": 856.2,
+    "name": "CoorpLogistic"
   },
-  "promedio": 860.17,
+  "promedio": 858.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
