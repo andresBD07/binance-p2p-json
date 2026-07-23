@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T20:45:07.514428",
-  "actualizado_vzla": "2026-07-23 16:45:07 -04",
+  "timestamp_utc": "2026-07-23T21:49:29.776785",
+  "actualizado_vzla": "2026-07-23 17:49:29 -04",
   "compra_segundo": {
-    "price": 862.4,
-    "name": "WOLFIAO"
+    "price": 868.77,
+    "name": "JHcambios97"
   },
   "venta_maxima": {
-    "price": 866.0,
-    "name": "Cross-26"
+    "price": 870.5,
+    "name": "安全与信任"
   },
-  "promedio": 864.2,
+  "promedio": 869.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
