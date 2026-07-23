@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T18:03:16.490300",
-  "actualizado_vzla": "2026-07-23 14:03:16 -04",
+  "timestamp_utc": "2026-07-23T19:41:21.827835",
+  "actualizado_vzla": "2026-07-23 15:41:21 -04",
   "compra_segundo": {
-    "price": 858.269,
-    "name": "cesarcal23"
+    "price": 861.91,
+    "name": "JugadorFranquiicia1"
   },
   "venta_maxima": {
-    "price": 857.1,
-    "name": "Carlecitta"
+    "price": 861.0,
+    "name": "-AMATERATSU-"
   },
-  "promedio": 857.68,
+  "promedio": 861.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
