@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-07-23T12:53:28.265218",
-  "actualizado_vzla": "2026-07-23 08:53:28 -04",
+  "timestamp_utc": "2026-07-23T15:09:42.857148",
+  "actualizado_vzla": "2026-07-23 11:09:42 -04",
   "compra_segundo": {
-    "price": 861.0,
-    "name": "CAMBIOS SEGURO"
+    "price": 860.9,
+    "name": "Cambios-JH-Express"
   },
   "venta_maxima": {
-    "price": 857.5,
-    "name": "TPhillips"
+    "price": 857.6,
+    "name": "diomedez14"
   },
   "promedio": 859.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
