@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T19:41:21.827835",
-  "actualizado_vzla": "2026-07-23 15:41:21 -04",
+  "timestamp_utc": "2026-07-23T20:45:07.514428",
+  "actualizado_vzla": "2026-07-23 16:45:07 -04",
   "compra_segundo": {
-    "price": 861.91,
-    "name": "JugadorFranquiicia1"
+    "price": 862.4,
+    "name": "WOLFIAO"
   },
   "venta_maxima": {
-    "price": 861.0,
-    "name": "-AMATERATSU-"
+    "price": 866.0,
+    "name": "Cross-26"
   },
-  "promedio": 861.45,
+  "promedio": 864.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
