@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T11:18:13.130499",
-  "actualizado_vzla": "2026-07-23 07:18:13 -04",
+  "timestamp_utc": "2026-07-23T12:53:28.265218",
+  "actualizado_vzla": "2026-07-23 08:53:28 -04",
   "compra_segundo": {
-    "price": 855.999,
-    "name": "JPapaupa_Cripto"
+    "price": 861.0,
+    "name": "CAMBIOS SEGURO"
   },
   "venta_maxima": {
-    "price": 852.55,
+    "price": 857.5,
     "name": "TPhillips"
   },
-  "promedio": 854.27,
+  "promedio": 859.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
