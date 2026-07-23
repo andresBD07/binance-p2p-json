@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T22:47:56.095230",
-  "actualizado_vzla": "2026-07-23 18:47:56 -04",
+  "timestamp_utc": "2026-07-23T23:44:53.915158",
+  "actualizado_vzla": "2026-07-23 19:44:53 -04",
   "compra_segundo": {
-    "price": 868.3,
-    "name": "ClickCripve"
+    "price": 870.0,
+    "name": "PROFESlONAL"
   },
   "venta_maxima": {
-    "price": 868.207,
-    "name": "TOPlevelS"
+    "price": 873.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 868.25,
+  "promedio": 871.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
