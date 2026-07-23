@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T03:38:32.510875",
-  "actualizado_vzla": "2026-07-22 23:38:32 -04",
+  "timestamp_utc": "2026-07-23T06:18:26.905536",
+  "actualizado_vzla": "2026-07-23 02:18:26 -04",
   "compra_segundo": {
-    "price": 861.0,
-    "name": "ALCAPON3"
+    "price": 860.4,
+    "name": "THEBOSSTRADER"
   },
   "venta_maxima": {
     "price": 856.2,
     "name": "CoorpLogistic"
   },
-  "promedio": 858.6,
+  "promedio": 858.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
