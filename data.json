@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-23T16:47:27.358732",
-  "actualizado_vzla": "2026-07-23 12:47:27 -04",
+  "timestamp_utc": "2026-07-23T18:03:16.490300",
+  "actualizado_vzla": "2026-07-23 14:03:16 -04",
   "compra_segundo": {
-    "price": 859.0,
-    "name": "CambiosMZ"
+    "price": 858.269,
+    "name": "cesarcal23"
   },
   "venta_maxima": {
-    "price": 856.585,
-    "name": "breintrader"
+    "price": 857.1,
+    "name": "Carlecitta"
   },
-  "promedio": 857.79,
+  "promedio": 857.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
