@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-24T19:53:15.771118",
-  "actualizado_vzla": "2026-07-24 15:53:15 -04",
+  "timestamp_utc": "2026-07-24T21:04:47.541383",
+  "actualizado_vzla": "2026-07-24 17:04:47 -04",
   "compra_segundo": {
-    "price": 872.989,
-    "name": "Magila"
+    "price": 872.53,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
-    "price": 872.5,
-    "name": "s28gm"
+    "price": 877.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 872.74,
+  "promedio": 874.76,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
