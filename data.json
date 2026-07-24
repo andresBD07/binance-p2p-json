@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-24T15:03:35.199324",
-  "actualizado_vzla": "2026-07-24 11:03:35 -04",
+  "timestamp_utc": "2026-07-24T16:54:28.285445",
+  "actualizado_vzla": "2026-07-24 12:54:28 -04",
   "compra_segundo": {
-    "price": 872.975,
-    "name": "亀CryptoKoku"
+    "price": 872.93,
+    "name": "bullbridge"
   },
   "venta_maxima": {
-    "price": 875.0,
-    "name": "CriptoseguroAyM"
+    "price": 875.55,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 873.99,
+  "promedio": 874.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
