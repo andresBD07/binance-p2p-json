@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-24T01:14:15.610131",
-  "actualizado_vzla": "2026-07-23 21:14:15 -04",
+  "timestamp_utc": "2026-07-24T04:38:33.555190",
+  "actualizado_vzla": "2026-07-24 00:38:33 -04",
   "compra_segundo": {
-    "price": 872.45,
-    "name": "CambiosPivot"
+    "price": 876.8,
+    "name": "Molyflash777"
   },
   "venta_maxima": {
-    "price": 874.6,
-    "name": "GOMEZTUSOLUCION"
+    "price": 873.85,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 873.53,
+  "promedio": 875.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
