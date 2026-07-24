@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-24T22:16:25.200046",
-  "actualizado_vzla": "2026-07-24 18:16:25 -04",
+  "timestamp_utc": "2026-07-24T23:29:18.624891",
+  "actualizado_vzla": "2026-07-24 19:29:18 -04",
   "compra_segundo": {
-    "price": 874.469,
-    "name": "Cambios_seguros1"
+    "price": 874.399,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
-    "price": 875.5,
-    "name": "Infiniti_Ronin"
+    "price": 874.8,
+    "name": "IngCryptos"
   },
-  "promedio": 874.98,
+  "promedio": 874.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
