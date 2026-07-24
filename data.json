@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-24T18:21:31.283895",
-  "actualizado_vzla": "2026-07-24 14:21:31 -04",
+  "timestamp_utc": "2026-07-24T19:53:15.771118",
+  "actualizado_vzla": "2026-07-24 15:53:15 -04",
   "compra_segundo": {
-    "price": 872.999,
-    "name": "OpCripto"
+    "price": 872.989,
+    "name": "Magila"
   },
   "venta_maxima": {
-    "price": 876.0,
-    "name": "安全与信任"
+    "price": 872.5,
+    "name": "s28gm"
   },
-  "promedio": 874.5,
+  "promedio": 872.74,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
