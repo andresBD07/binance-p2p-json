@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-24T21:04:47.541383",
-  "actualizado_vzla": "2026-07-24 17:04:47 -04",
+  "timestamp_utc": "2026-07-24T22:16:25.200046",
+  "actualizado_vzla": "2026-07-24 18:16:25 -04",
   "compra_segundo": {
-    "price": 872.53,
-    "name": "chichiwilote"
+    "price": 874.469,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
-    "price": 877.0,
-    "name": "Blank_Mind"
+    "price": 875.5,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 874.76,
+  "promedio": 874.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
