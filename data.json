@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T04:25:57.554387",
-  "actualizado_vzla": "2026-07-25 00:25:57 -04",
+  "timestamp_utc": "2026-07-25T06:40:39.536689",
+  "actualizado_vzla": "2026-07-25 02:40:39 -04",
   "compra_segundo": {
-    "price": 877.0,
-    "name": "Crypto_Medusa"
+    "price": 877.995,
+    "name": "Kingjvl"
   },
   "venta_maxima": {
-    "price": 876.0,
-    "name": "Infiniti_Ronin"
+    "price": 873.2,
+    "name": "eduardo94268"
   },
-  "promedio": 876.5,
+  "promedio": 875.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
