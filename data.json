@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T16:37:59.145011",
-  "actualizado_vzla": "2026-07-25 12:37:59 -04",
+  "timestamp_utc": "2026-07-25T17:42:21.161592",
+  "actualizado_vzla": "2026-07-25 13:42:21 -04",
   "compra_segundo": {
-    "price": 871.999,
-    "name": "alexander08_25"
+    "price": 871.98,
+    "name": "EL_MARA_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 873.5,
+    "price": 874.0,
     "name": "安全与信任"
   },
-  "promedio": 872.75,
+  "promedio": 872.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
