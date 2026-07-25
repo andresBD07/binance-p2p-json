@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T21:05:07.268403",
-  "actualizado_vzla": "2026-07-25 17:05:07 -04",
+  "timestamp_utc": "2026-07-25T22:08:06.834567",
+  "actualizado_vzla": "2026-07-25 18:08:06 -04",
   "compra_segundo": {
-    "price": 869.999,
-    "name": "x88rising"
+    "price": 868.3,
+    "name": "Wilicambios__"
   },
   "venta_maxima": {
-    "price": 868.5,
-    "name": "TuPesadilla008"
+    "price": 866.134,
+    "name": "TOPlevelS"
   },
-  "promedio": 869.25,
+  "promedio": 867.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
