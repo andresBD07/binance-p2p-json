@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T01:04:54.365680",
-  "actualizado_vzla": "2026-07-24 21:04:54 -04",
+  "timestamp_utc": "2026-07-25T04:25:57.554387",
+  "actualizado_vzla": "2026-07-25 00:25:57 -04",
   "compra_segundo": {
-    "price": 874.599,
-    "name": "Cambios_seguros1"
+    "price": 877.0,
+    "name": "Crypto_Medusa"
   },
   "venta_maxima": {
-    "price": 878.0,
-    "name": "GAZA_CRIPTO"
+    "price": 876.0,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 876.3,
+  "promedio": 876.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
