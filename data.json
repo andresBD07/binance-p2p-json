@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T19:59:57.187861",
-  "actualizado_vzla": "2026-07-25 15:59:57 -04",
+  "timestamp_utc": "2026-07-25T21:05:07.268403",
+  "actualizado_vzla": "2026-07-25 17:05:07 -04",
   "compra_segundo": {
-    "price": 871.88,
-    "name": "CambiosToGo"
+    "price": 869.999,
+    "name": "x88rising"
   },
   "venta_maxima": {
-    "price": 871.0,
-    "name": "安全与信任"
+    "price": 868.5,
+    "name": "TuPesadilla008"
   },
-  "promedio": 871.44,
+  "promedio": 869.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
