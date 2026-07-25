@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T22:08:06.834567",
-  "actualizado_vzla": "2026-07-25 18:08:06 -04",
+  "timestamp_utc": "2026-07-25T23:12:34.656403",
+  "actualizado_vzla": "2026-07-25 19:12:34 -04",
   "compra_segundo": {
-    "price": 868.3,
-    "name": "Wilicambios__"
+    "price": 865.498,
+    "name": "PortuCambios"
   },
   "venta_maxima": {
-    "price": 866.134,
+    "price": 864.13,
     "name": "TOPlevelS"
   },
-  "promedio": 867.22,
+  "promedio": 864.81,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
