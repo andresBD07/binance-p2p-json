@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T12:50:35.932251",
-  "actualizado_vzla": "2026-07-25 08:50:35 -04",
+  "timestamp_utc": "2026-07-25T14:27:18.716122",
+  "actualizado_vzla": "2026-07-25 10:27:18 -04",
   "compra_segundo": {
-    "price": 875.998,
-    "name": "ChangerExpress"
+    "price": 873.0,
+    "name": "Darkcrip23"
   },
   "venta_maxima": {
-    "price": 875.1,
-    "name": "zBatman10"
+    "price": 873.0,
+    "name": "Brawcoins"
   },
-  "promedio": 875.55,
+  "promedio": 873.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
