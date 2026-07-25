@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T11:46:29.229052",
-  "actualizado_vzla": "2026-07-25 07:46:29 -04",
+  "timestamp_utc": "2026-07-25T12:50:35.932251",
+  "actualizado_vzla": "2026-07-25 08:50:35 -04",
   "compra_segundo": {
-    "price": 877.0,
-    "name": "sanchez237"
+    "price": 875.998,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
-    "price": 874.4,
-    "name": "VinDiesel21"
+    "price": 875.1,
+    "name": "zBatman10"
   },
-  "promedio": 875.7,
+  "promedio": 875.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
