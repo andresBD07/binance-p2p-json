@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T15:43:36.645162",
-  "actualizado_vzla": "2026-07-25 11:43:36 -04",
+  "timestamp_utc": "2026-07-25T16:37:59.145011",
+  "actualizado_vzla": "2026-07-25 12:37:59 -04",
   "compra_segundo": {
-    "price": 872.785,
-    "name": "Gheze"
+    "price": 871.999,
+    "name": "alexander08_25"
   },
   "venta_maxima": {
-    "price": 872.0,
+    "price": 873.5,
     "name": "安全与信任"
   },
-  "promedio": 872.39,
+  "promedio": 872.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
