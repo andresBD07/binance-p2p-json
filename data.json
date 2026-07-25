@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T14:27:18.716122",
-  "actualizado_vzla": "2026-07-25 10:27:18 -04",
+  "timestamp_utc": "2026-07-25T15:43:36.645162",
+  "actualizado_vzla": "2026-07-25 11:43:36 -04",
   "compra_segundo": {
-    "price": 873.0,
-    "name": "Darkcrip23"
+    "price": 872.785,
+    "name": "Gheze"
   },
   "venta_maxima": {
-    "price": 873.0,
-    "name": "Brawcoins"
+    "price": 872.0,
+    "name": "安全与信任"
   },
-  "promedio": 873.0,
+  "promedio": 872.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
