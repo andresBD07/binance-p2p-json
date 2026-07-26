@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T20:41:01.151041",
-  "actualizado_vzla": "2026-07-26 16:41:01 -04",
+  "timestamp_utc": "2026-07-26T21:41:50.887956",
+  "actualizado_vzla": "2026-07-26 17:41:50 -04",
   "compra_segundo": {
-    "price": 864.51,
-    "name": "Hiroma_"
+    "price": 861.998,
+    "name": "Johanjimenez14"
   },
   "venta_maxima": {
-    "price": 862.06,
-    "name": "CriptoVergara"
+    "price": 861.0,
+    "name": "luis12crt"
   },
-  "promedio": 863.28,
+  "promedio": 861.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
