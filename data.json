@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T14:58:33.550395",
-  "actualizado_vzla": "2026-07-26 10:58:33 -04",
+  "timestamp_utc": "2026-07-26T16:10:38.343281",
+  "actualizado_vzla": "2026-07-26 12:10:38 -04",
   "compra_segundo": {
-    "price": 868.29,
-    "name": "DAKLANID"
+    "price": 867.998,
+    "name": "JoelonN"
   },
   "venta_maxima": {
-    "price": 866.41,
-    "name": "Inversiones-ADSC"
+    "price": 865.6,
+    "name": "CriptoVergara"
   },
-  "promedio": 867.35,
+  "promedio": 866.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
