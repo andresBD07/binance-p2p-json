@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T00:15:37.038425",
-  "actualizado_vzla": "2026-07-25 20:15:37 -04",
+  "timestamp_utc": "2026-07-26T04:02:18.845284",
+  "actualizado_vzla": "2026-07-26 00:02:18 -04",
   "compra_segundo": {
-    "price": 866.9,
-    "name": "Alex-MARTIN"
+    "price": 869.6,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 864.553,
-    "name": "TOPlevelS"
+    "price": 866.6,
+    "name": "YAMISENSEI"
   },
-  "promedio": 865.73,
+  "promedio": 868.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
