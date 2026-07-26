@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T09:04:55.169295",
-  "actualizado_vzla": "2026-07-26 05:04:55 -04",
+  "timestamp_utc": "2026-07-26T10:52:24.835553",
+  "actualizado_vzla": "2026-07-26 06:52:24 -04",
   "compra_segundo": {
-    "price": 870.0,
-    "name": "漢-Kapo"
+    "price": 869.39,
+    "name": "Yamato-Exchange"
   },
   "venta_maxima": {
-    "price": 865.75,
-    "name": "Don-Cangrejo"
+    "price": 866.0,
+    "name": "REY_SALOMON_CRIPTO"
   },
-  "promedio": 867.88,
+  "promedio": 867.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
