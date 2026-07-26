@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T16:10:38.343281",
-  "actualizado_vzla": "2026-07-26 12:10:38 -04",
+  "timestamp_utc": "2026-07-26T17:17:51.593848",
+  "actualizado_vzla": "2026-07-26 13:17:51 -04",
   "compra_segundo": {
-    "price": 867.998,
-    "name": "JoelonN"
+    "price": 866.15,
+    "name": "eltripolitanop2p"
   },
   "venta_maxima": {
-    "price": 865.6,
-    "name": "CriptoVergara"
+    "price": 864.12,
+    "name": "guamo-1"
   },
-  "promedio": 866.8,
+  "promedio": 865.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
