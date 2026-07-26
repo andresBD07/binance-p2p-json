@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-25T23:12:34.656403",
-  "actualizado_vzla": "2026-07-25 19:12:34 -04",
+  "timestamp_utc": "2026-07-26T00:15:37.038425",
+  "actualizado_vzla": "2026-07-25 20:15:37 -04",
   "compra_segundo": {
-    "price": 865.498,
-    "name": "PortuCambios"
+    "price": 866.9,
+    "name": "Alex-MARTIN"
   },
   "venta_maxima": {
-    "price": 864.13,
+    "price": 864.553,
     "name": "TOPlevelS"
   },
-  "promedio": 864.81,
+  "promedio": 865.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
