@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T22:43:33.510201",
-  "actualizado_vzla": "2026-07-26 18:43:33 -04",
+  "timestamp_utc": "2026-07-26T23:45:41.730221",
+  "actualizado_vzla": "2026-07-26 19:45:41 -04",
   "compra_segundo": {
-    "price": 861.79,
-    "name": "DAKLANID"
+    "price": 861.44,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
-    "price": 859.4,
-    "name": "Brawcoins"
+    "price": 859.0,
+    "name": "c__s"
   },
-  "promedio": 860.6,
+  "promedio": 860.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
