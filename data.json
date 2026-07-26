@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T17:17:51.593848",
-  "actualizado_vzla": "2026-07-26 13:17:51 -04",
+  "timestamp_utc": "2026-07-26T18:28:54.231849",
+  "actualizado_vzla": "2026-07-26 14:28:54 -04",
   "compra_segundo": {
-    "price": 866.15,
-    "name": "eltripolitanop2p"
+    "price": 863.84,
+    "name": "quiander08"
   },
   "venta_maxima": {
-    "price": 864.12,
-    "name": "guamo-1"
+    "price": 861.601,
+    "name": "Tycoonn"
   },
-  "promedio": 865.13,
+  "promedio": 862.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
