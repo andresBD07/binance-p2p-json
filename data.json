@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T19:46:16.537288",
-  "actualizado_vzla": "2026-07-26 15:46:16 -04",
+  "timestamp_utc": "2026-07-26T20:41:01.151041",
+  "actualizado_vzla": "2026-07-26 16:41:01 -04",
   "compra_segundo": {
-    "price": 864.8,
-    "name": "Jearrioja"
+    "price": 864.51,
+    "name": "Hiroma_"
   },
   "venta_maxima": {
-    "price": 862.91,
-    "name": "Remexa"
+    "price": 862.06,
+    "name": "CriptoVergara"
   },
-  "promedio": 863.86,
+  "promedio": 863.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
