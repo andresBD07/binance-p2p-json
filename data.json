@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-26T04:02:18.845284",
-  "actualizado_vzla": "2026-07-26 00:02:18 -04",
+  "timestamp_utc": "2026-07-26T06:45:33.731012",
+  "actualizado_vzla": "2026-07-26 02:45:33 -04",
   "compra_segundo": {
-    "price": 869.6,
-    "name": "AllTraders"
+    "price": 870.0,
+    "name": "漢-Kapo"
   },
   "venta_maxima": {
-    "price": 866.6,
-    "name": "YAMISENSEI"
+    "price": 865.75,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 868.1,
+  "promedio": 867.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
