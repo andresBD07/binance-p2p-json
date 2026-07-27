@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T17:11:54.259507",
-  "actualizado_vzla": "2026-07-27 13:11:54 -04",
+  "timestamp_utc": "2026-07-27T18:49:28.017045",
+  "actualizado_vzla": "2026-07-27 14:49:28 -04",
   "compra_segundo": {
-    "price": 864.38,
-    "name": "InverVictM"
+    "price": 867.249,
+    "name": "ELBUNKER"
   },
   "venta_maxima": {
-    "price": 863.33,
-    "name": "JoseParedez"
+    "price": 866.1,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 863.86,
+  "promedio": 866.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
