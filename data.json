@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T18:49:28.017045",
-  "actualizado_vzla": "2026-07-27 14:49:28 -04",
+  "timestamp_utc": "2026-07-27T20:13:34.990892",
+  "actualizado_vzla": "2026-07-27 16:13:34 -04",
   "compra_segundo": {
-    "price": 867.249,
-    "name": "ELBUNKER"
+    "price": 859.9,
+    "name": "Solxmotion"
   },
   "venta_maxima": {
-    "price": 866.1,
-    "name": "GOMEZTUSOLUCION"
+    "price": 860.0,
+    "name": "CCST"
   },
-  "promedio": 866.67,
+  "promedio": 859.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
