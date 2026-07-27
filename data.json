@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T01:22:32.423220",
-  "actualizado_vzla": "2026-07-26 21:22:32 -04",
+  "timestamp_utc": "2026-07-27T05:10:18.338261",
+  "actualizado_vzla": "2026-07-27 01:10:18 -04",
   "compra_segundo": {
-    "price": 861.88,
-    "name": "LeymusCoin"
+    "price": 863.97,
+    "name": "jogherc"
   },
   "venta_maxima": {
-    "price": 858.55,
-    "name": "TPhillips"
+    "price": 859.0,
+    "name": "VeExpressLars"
   },
-  "promedio": 860.21,
+  "promedio": 861.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
