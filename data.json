@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T21:31:50.254170",
-  "actualizado_vzla": "2026-07-27 17:31:50 -04",
+  "timestamp_utc": "2026-07-27T22:38:34.994425",
+  "actualizado_vzla": "2026-07-27 18:38:35 -04",
   "compra_segundo": {
-    "price": 859.4,
-    "name": "LelysMed"
+    "price": 854.4,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 857.5,
-    "name": "SinVerif-Rapido-Uz"
+    "price": 852.03,
+    "name": "FlashCambiosX"
   },
-  "promedio": 858.45,
+  "promedio": 853.21,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
