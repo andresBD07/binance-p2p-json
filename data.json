@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T12:06:50.198602",
-  "actualizado_vzla": "2026-07-27 08:06:50 -04",
+  "timestamp_utc": "2026-07-27T15:11:48.881588",
+  "actualizado_vzla": "2026-07-27 11:11:48 -04",
   "compra_segundo": {
-    "price": 864.0,
-    "name": "edicson29"
+    "price": 861.7,
+    "name": "Krypto-Handeln"
   },
   "venta_maxima": {
-    "price": 862.0,
-    "name": "被放逐的狐狸"
+    "price": 861.0,
+    "name": "安全与信任"
   },
-  "promedio": 863.0,
+  "promedio": 861.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
