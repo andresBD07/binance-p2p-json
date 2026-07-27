@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T20:13:34.990892",
-  "actualizado_vzla": "2026-07-27 16:13:34 -04",
+  "timestamp_utc": "2026-07-27T21:31:50.254170",
+  "actualizado_vzla": "2026-07-27 17:31:50 -04",
   "compra_segundo": {
-    "price": 859.9,
-    "name": "Solxmotion"
+    "price": 859.4,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 860.0,
-    "name": "CCST"
+    "price": 857.5,
+    "name": "SinVerif-Rapido-Uz"
   },
-  "promedio": 859.95,
+  "promedio": 858.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
