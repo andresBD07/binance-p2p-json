@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-27T08:47:52.769841",
-  "actualizado_vzla": "2026-07-27 04:47:52 -04",
+  "timestamp_utc": "2026-07-27T12:06:50.198602",
+  "actualizado_vzla": "2026-07-27 08:06:50 -04",
   "compra_segundo": {
-    "price": 864.95,
-    "name": "MasRapidoMasSeguro"
+    "price": 864.0,
+    "name": "edicson29"
   },
   "venta_maxima": {
-    "price": 857.505,
-    "name": "Mosquera42"
+    "price": 862.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 861.23,
+  "promedio": 863.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
