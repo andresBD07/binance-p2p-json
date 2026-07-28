@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-28T01:09:49.183265",
-  "actualizado_vzla": "2026-07-27 21:09:49 -04",
+  "timestamp_utc": "2026-07-28T04:30:01.707367",
+  "actualizado_vzla": "2026-07-28 00:30:01 -04",
   "compra_segundo": {
-    "price": 849.84,
-    "name": "CRIPTOCARIBE-JE"
+    "price": 848.0,
+    "name": "WillyWonka-"
   },
   "venta_maxima": {
-    "price": 847.52,
-    "name": "guamo-1"
+    "price": 842.6,
+    "name": "walner17"
   },
-  "promedio": 848.68,
+  "promedio": 845.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
