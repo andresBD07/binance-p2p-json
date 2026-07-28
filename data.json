@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-07-28T07:20:28.704471",
-  "actualizado_vzla": "2026-07-28 03:20:28 -04",
+  "timestamp_utc": "2026-07-28T10:03:01.066519",
+  "actualizado_vzla": "2026-07-28 06:03:01 -04",
   "compra_segundo": {
-    "price": 850.38,
-    "name": "OikonomiaDigital"
+    "price": 849.685,
+    "name": "EA_FastPay"
   },
   "venta_maxima": {
-    "price": 841.3,
-    "name": "TraderMasterrr"
+    "price": 842.0,
+    "name": "VeExpressLars"
   },
   "promedio": 845.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
