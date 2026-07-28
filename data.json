@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-28T14:37:46.248031",
-  "actualizado_vzla": "2026-07-28 10:37:46 -04",
+  "timestamp_utc": "2026-07-28T16:23:21.018891",
+  "actualizado_vzla": "2026-07-28 12:23:21 -04",
   "compra_segundo": {
-    "price": 849.6,
-    "name": "TuRemesaInt"
+    "price": 849.0,
+    "name": "Trader_QueenCripto"
   },
   "venta_maxima": {
     "price": 846.5,
-    "name": "SafeTradePro10"
+    "name": "杰格尔"
   },
-  "promedio": 848.05,
+  "promedio": 847.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
