@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-28T21:54:58.496113",
-  "actualizado_vzla": "2026-07-28 17:54:58 -04",
+  "timestamp_utc": "2026-07-28T23:04:23.372727",
+  "actualizado_vzla": "2026-07-28 19:04:23 -04",
   "compra_segundo": {
-    "price": 849.899,
-    "name": "Cambios_fast54"
+    "price": 846.499,
+    "name": "ExchangeVeskha"
   },
   "venta_maxima": {
-    "price": 848.5,
-    "name": "安全与信任"
+    "price": 847.0,
+    "name": "永不放棄"
   },
-  "promedio": 849.2,
+  "promedio": 846.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
