@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-29T18:06:39.311023",
-  "actualizado_vzla": "2026-07-29 14:06:39 -04",
+  "timestamp_utc": "2026-07-29T19:41:16.399636",
+  "actualizado_vzla": "2026-07-29 15:41:16 -04",
   "compra_segundo": {
-    "price": 847.22,
-    "name": "Chuivzla"
+    "price": 847.998,
+    "name": "jaro23"
   },
   "venta_maxima": {
-    "price": 850.0,
+    "price": 852.0,
     "name": "Blank_Mind"
   },
-  "promedio": 848.61,
+  "promedio": 850.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
