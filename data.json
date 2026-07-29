@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-29T03:38:26.017193",
-  "actualizado_vzla": "2026-07-28 23:38:26 -04",
+  "timestamp_utc": "2026-07-29T06:18:56.486480",
+  "actualizado_vzla": "2026-07-29 02:18:56 -04",
   "compra_segundo": {
-    "price": 846.299,
-    "name": "Marquez25"
+    "price": 847.2,
+    "name": "CAMBIOS SEGURO"
   },
   "venta_maxima": {
-    "price": 842.5,
-    "name": "销CryptoAptus售"
+    "price": 841.0,
+    "name": "Listoexpress"
   },
-  "promedio": 844.4,
+  "promedio": 844.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
