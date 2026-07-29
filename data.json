@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-29T15:28:42.818895",
-  "actualizado_vzla": "2026-07-29 11:28:42 -04",
+  "timestamp_utc": "2026-07-29T16:52:45.769628",
+  "actualizado_vzla": "2026-07-29 12:52:45 -04",
   "compra_segundo": {
-    "price": 847.0,
-    "name": "CAMBIOS-BENDECIDOS"
+    "price": 846.3,
+    "name": "ミReinaPepiadaCoinミ"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "EleguaOshun"
+    "price": 845.0,
+    "name": "安全与信任"
   },
-  "promedio": 846.5,
+  "promedio": 845.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
