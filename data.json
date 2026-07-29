@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-29T09:18:24.440968",
-  "actualizado_vzla": "2026-07-29 05:18:24 -04",
+  "timestamp_utc": "2026-07-29T11:37:13.980020",
+  "actualizado_vzla": "2026-07-29 07:37:13 -04",
   "compra_segundo": {
-    "price": 847.9,
-    "name": "zoecambios_21"
+    "price": 846.594,
+    "name": "EA_FastPay"
   },
   "venta_maxima": {
-    "price": 841.0,
-    "name": "BraVen_Group"
+    "price": 845.0,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 844.45,
+  "promedio": 845.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
