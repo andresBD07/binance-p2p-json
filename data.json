@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T11:33:01.134264",
-  "actualizado_vzla": "2026-07-30 07:33:01 -04",
+  "timestamp_utc": "2026-07-30T13:11:33.987907",
+  "actualizado_vzla": "2026-07-30 09:11:33 -04",
   "compra_segundo": {
-    "price": 860.0,
-    "name": "KR20"
+    "price": 858.0,
+    "name": "CriollosMONEY"
   },
   "venta_maxima": {
-    "price": 858.5,
-    "name": "FlashRaid"
+    "price": 855.657,
+    "name": "TOPlevelS"
   },
-  "promedio": 859.25,
+  "promedio": 856.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
