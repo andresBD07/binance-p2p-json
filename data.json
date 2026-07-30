@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T04:16:59.017042",
-  "actualizado_vzla": "2026-07-30 00:16:59 -04",
+  "timestamp_utc": "2026-07-30T07:05:16.869729",
+  "actualizado_vzla": "2026-07-30 03:05:16 -04",
   "compra_segundo": {
-    "price": 857.0,
-    "name": "Cr-Seven"
+    "price": 859.5,
+    "name": "Silv3rPkm"
   },
   "venta_maxima": {
-    "price": 854.512,
-    "name": "LolaCambios"
+    "price": 854.001,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 855.76,
+  "promedio": 856.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
