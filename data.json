@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T09:39:18.308653",
-  "actualizado_vzla": "2026-07-30 05:39:18 -04",
+  "timestamp_utc": "2026-07-30T11:33:01.134264",
+  "actualizado_vzla": "2026-07-30 07:33:01 -04",
   "compra_segundo": {
     "price": 860.0,
-    "name": "Dazacoin18"
+    "name": "KR20"
   },
   "venta_maxima": {
-    "price": 854.2,
-    "name": "RicoMcPato_3minutos"
+    "price": 858.5,
+    "name": "FlashRaid"
   },
-  "promedio": 857.1,
+  "promedio": 859.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
