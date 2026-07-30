@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T07:05:16.869729",
-  "actualizado_vzla": "2026-07-30 03:05:16 -04",
+  "timestamp_utc": "2026-07-30T09:39:18.308653",
+  "actualizado_vzla": "2026-07-30 05:39:18 -04",
   "compra_segundo": {
-    "price": 859.5,
-    "name": "Silv3rPkm"
+    "price": 860.0,
+    "name": "Dazacoin18"
   },
   "venta_maxima": {
-    "price": 854.001,
-    "name": "贝HarveySpecter贝"
+    "price": 854.2,
+    "name": "RicoMcPato_3minutos"
   },
-  "promedio": 856.75,
+  "promedio": 857.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
