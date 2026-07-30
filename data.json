@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T13:11:33.987907",
-  "actualizado_vzla": "2026-07-30 09:11:33 -04",
+  "timestamp_utc": "2026-07-30T15:24:51.321858",
+  "actualizado_vzla": "2026-07-30 11:24:51 -04",
   "compra_segundo": {
-    "price": 858.0,
-    "name": "CriollosMONEY"
+    "price": 850.0,
+    "name": "4F-P2P"
   },
   "venta_maxima": {
-    "price": 855.657,
-    "name": "TOPlevelS"
+    "price": 849.5,
+    "name": "Money77ves"
   },
-  "promedio": 856.83,
+  "promedio": 849.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
