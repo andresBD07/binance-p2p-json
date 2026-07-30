@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T21:30:20.227243",
-  "actualizado_vzla": "2026-07-30 17:30:20 -04",
+  "timestamp_utc": "2026-07-30T22:41:08.483607",
+  "actualizado_vzla": "2026-07-30 18:41:08 -04",
   "compra_segundo": {
-    "price": 852.6,
-    "name": "MACOR_CAMBIOS"
+    "price": 853.2,
+    "name": "Jearrioja"
   },
   "venta_maxima": {
-    "price": 854.0,
-    "name": "BLACKROCK22"
+    "price": 855.7,
+    "name": "VECTURAFX"
   },
-  "promedio": 853.3,
+  "promedio": 854.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
