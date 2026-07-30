@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T20:06:27.020104",
-  "actualizado_vzla": "2026-07-30 16:06:27 -04",
+  "timestamp_utc": "2026-07-30T21:30:20.227243",
+  "actualizado_vzla": "2026-07-30 17:30:20 -04",
   "compra_segundo": {
-    "price": 850.8,
+    "price": 852.6,
     "name": "MACOR_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 851.56,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 854.0,
+    "name": "BLACKROCK22"
   },
-  "promedio": 851.18,
+  "promedio": 853.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
