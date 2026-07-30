@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T18:41:40.933820",
-  "actualizado_vzla": "2026-07-30 14:41:40 -04",
+  "timestamp_utc": "2026-07-30T20:06:27.020104",
+  "actualizado_vzla": "2026-07-30 16:06:27 -04",
   "compra_segundo": {
-    "price": 852.29,
-    "name": "ElHijo2407"
+    "price": 850.8,
+    "name": "MACOR_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 852.0,
-    "name": "Godisgift"
+    "price": 851.56,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 852.14,
+  "promedio": 851.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
