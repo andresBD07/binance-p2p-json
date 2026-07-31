@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-31T12:24:40.461904",
-  "actualizado_vzla": "2026-07-31 08:24:40 -04",
+  "timestamp_utc": "2026-07-31T14:59:52.744077",
+  "actualizado_vzla": "2026-07-31 10:59:52 -04",
   "compra_segundo": {
-    "price": 855.895,
-    "name": "Kingjvl"
+    "price": 850.59,
+    "name": "ElHijo2407"
   },
   "venta_maxima": {
-    "price": 854.0,
-    "name": "-DRASIX-"
+    "price": 851.155,
+    "name": "CROMOSOMA-21"
   },
-  "promedio": 854.95,
+  "promedio": 850.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
