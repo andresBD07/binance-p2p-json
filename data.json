@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-31T22:27:19.294766",
-  "actualizado_vzla": "2026-07-31 18:27:19 -04",
+  "timestamp_utc": "2026-07-31T23:34:02.308479",
+  "actualizado_vzla": "2026-07-31 19:34:02 -04",
   "compra_segundo": {
-    "price": 847.6,
-    "name": "Gabrielavls"
+    "price": 847.7,
+    "name": "GMatiuzz"
   },
   "venta_maxima": {
-    "price": 850.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 849.735,
+    "name": "NORTH-CAPITAL"
   },
-  "promedio": 848.8,
+  "promedio": 848.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
