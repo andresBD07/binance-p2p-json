@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-31T18:18:12.923509",
-  "actualizado_vzla": "2026-07-31 14:18:12 -04",
+  "timestamp_utc": "2026-07-31T19:58:33.025808",
+  "actualizado_vzla": "2026-07-31 15:58:33 -04",
   "compra_segundo": {
-    "price": 845.0,
-    "name": "-MISSDEAL-"
+    "price": 848.38,
+    "name": "AFNP15"
   },
   "venta_maxima": {
-    "price": 844.9,
-    "name": "GREEN78"
+    "price": 848.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 844.95,
+  "promedio": 848.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
