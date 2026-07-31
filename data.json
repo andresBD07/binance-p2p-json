@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-31T01:16:43.367863",
-  "actualizado_vzla": "2026-07-30 21:16:43 -04",
+  "timestamp_utc": "2026-07-31T04:48:21.227559",
+  "actualizado_vzla": "2026-07-31 00:48:21 -04",
   "compra_segundo": {
-    "price": 855.9,
-    "name": "Nezuco05"
+    "price": 858.299,
+    "name": "JS_Valentine"
   },
   "venta_maxima": {
-    "price": 856.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 854.02,
+    "name": "ROMA_USDT"
   },
-  "promedio": 856.2,
+  "promedio": 856.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
