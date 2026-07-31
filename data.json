@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-31T10:20:25.206175",
-  "actualizado_vzla": "2026-07-31 06:20:25 -04",
+  "timestamp_utc": "2026-07-31T12:24:40.461904",
+  "actualizado_vzla": "2026-07-31 08:24:40 -04",
   "compra_segundo": {
-    "price": 857.5,
-    "name": "GJCB_Trader"
+    "price": 855.895,
+    "name": "Kingjvl"
   },
   "venta_maxima": {
-    "price": 853.0,
-    "name": "zama2004"
+    "price": 854.0,
+    "name": "-DRASIX-"
   },
-  "promedio": 855.25,
+  "promedio": 854.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
