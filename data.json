@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-30T23:43:25.917220",
-  "actualizado_vzla": "2026-07-30 19:43:25 -04",
+  "timestamp_utc": "2026-07-31T01:16:43.367863",
+  "actualizado_vzla": "2026-07-30 21:16:43 -04",
   "compra_segundo": {
-    "price": 853.799,
-    "name": "Capital Carreño"
+    "price": 855.9,
+    "name": "Nezuco05"
   },
   "venta_maxima": {
-    "price": 855.0,
-    "name": "Ateneaaa"
+    "price": 856.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 854.4,
+  "promedio": 856.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
