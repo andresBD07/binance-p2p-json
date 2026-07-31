@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-07-31T14:59:52.744077",
-  "actualizado_vzla": "2026-07-31 10:59:52 -04",
+  "timestamp_utc": "2026-07-31T16:51:54.504464",
+  "actualizado_vzla": "2026-07-31 12:51:54 -04",
   "compra_segundo": {
-    "price": 850.59,
-    "name": "ElHijo2407"
+    "price": 845.047,
+    "name": "BallGroup"
   },
   "venta_maxima": {
-    "price": 851.155,
-    "name": "CROMOSOMA-21"
+    "price": 844.001,
+    "name": "CHAPMANGOLD_TRADING"
   },
-  "promedio": 850.87,
+  "promedio": 844.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
