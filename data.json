@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T22:38:25.594203",
-  "actualizado_vzla": "2026-08-01 18:38:25 -04",
+  "timestamp_utc": "2026-08-01T23:41:19.315615",
+  "actualizado_vzla": "2026-08-01 19:41:19 -04",
   "compra_segundo": {
-    "price": 847.0,
-    "name": "yamatekudasaiiii"
+    "price": 848.0,
+    "name": "-_-GRUPOEFICAZ-_-"
   },
   "venta_maxima": {
-    "price": 845.5,
-    "name": "securitylc"
+    "price": 845.0,
+    "name": "FromVillage"
   },
-  "promedio": 846.25,
+  "promedio": 846.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
