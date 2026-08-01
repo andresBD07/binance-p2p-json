@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T17:27:18.108258",
-  "actualizado_vzla": "2026-08-01 13:27:18 -04",
+  "timestamp_utc": "2026-08-01T18:31:12.410214",
+  "actualizado_vzla": "2026-08-01 14:31:12 -04",
   "compra_segundo": {
-    "price": 848.799,
-    "name": "TuCambioYa_"
+    "price": 849.0,
+    "name": "Crypto_Medusa"
   },
   "venta_maxima": {
-    "price": 846.6,
-    "name": "jxsosa"
+    "price": 846.0,
+    "name": "IngCryptos"
   },
-  "promedio": 847.7,
+  "promedio": 847.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
