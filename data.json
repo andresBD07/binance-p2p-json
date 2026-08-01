@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T04:39:29.599605",
-  "actualizado_vzla": "2026-08-01 00:39:29 -04",
+  "timestamp_utc": "2026-08-01T07:16:00.672443",
+  "actualizado_vzla": "2026-08-01 03:16:00 -04",
   "compra_segundo": {
-    "price": 851.8,
-    "name": "JR_cryptoxchange"
+    "price": 854.0,
+    "name": "Gatsby_24"
   },
   "venta_maxima": {
-    "price": 851.055,
-    "name": "ExchangeVeskha"
+    "price": 850.0,
+    "name": "Fortu_new"
   },
-  "promedio": 851.43,
+  "promedio": 852.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
