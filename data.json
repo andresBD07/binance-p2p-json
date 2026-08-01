@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T09:27:14.655911",
-  "actualizado_vzla": "2026-08-01 05:27:14 -04",
+  "timestamp_utc": "2026-08-01T11:02:27.450657",
+  "actualizado_vzla": "2026-08-01 07:02:27 -04",
   "compra_segundo": {
-    "price": 853.699,
-    "name": "Cambios Rápidos y Seguros"
+    "price": 852.899,
+    "name": "MrFrogs"
   },
   "venta_maxima": {
-    "price": 849.0,
+    "price": 849.1,
     "name": "-TSxRV-"
   },
-  "promedio": 851.35,
+  "promedio": 851.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
