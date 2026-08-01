@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T01:11:30.328172",
-  "actualizado_vzla": "2026-07-31 21:11:30 -04",
+  "timestamp_utc": "2026-08-01T04:39:29.599605",
+  "actualizado_vzla": "2026-08-01 00:39:29 -04",
   "compra_segundo": {
-    "price": 848.965,
-    "name": "JS_Valentine"
+    "price": 851.8,
+    "name": "JR_cryptoxchange"
   },
   "venta_maxima": {
-    "price": 851.0,
-    "name": "DOCTOR_CAMBIO"
+    "price": 851.055,
+    "name": "ExchangeVeskha"
   },
-  "promedio": 849.98,
+  "promedio": 851.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
