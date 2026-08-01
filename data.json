@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T16:13:23.794045",
-  "actualizado_vzla": "2026-08-01 12:13:23 -04",
+  "timestamp_utc": "2026-08-01T17:27:18.108258",
+  "actualizado_vzla": "2026-08-01 13:27:18 -04",
   "compra_segundo": {
-    "price": 848.5,
-    "name": "MISS_SIDNEY"
+    "price": 848.799,
+    "name": "TuCambioYa_"
   },
   "venta_maxima": {
-    "price": 846.5,
-    "name": "Brawcoins"
+    "price": 846.6,
+    "name": "jxsosa"
   },
-  "promedio": 847.5,
+  "promedio": 847.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
