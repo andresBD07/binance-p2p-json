@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T13:56:50.983764",
-  "actualizado_vzla": "2026-08-01 09:56:50 -04",
+  "timestamp_utc": "2026-08-01T15:09:14.155865",
+  "actualizado_vzla": "2026-08-01 11:09:14 -04",
   "compra_segundo": {
-    "price": 852.425,
-    "name": "Minato21"
+    "price": 850.0,
+    "name": "GabyGaby12"
   },
   "venta_maxima": {
-    "price": 850.658,
-    "name": "TOPlevelS"
+    "price": 849.1,
+    "name": "Brawcoins"
   },
-  "promedio": 851.54,
+  "promedio": 849.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
