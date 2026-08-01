@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T19:48:42.699739",
-  "actualizado_vzla": "2026-08-01 15:48:42 -04",
+  "timestamp_utc": "2026-08-01T20:39:15.340996",
+  "actualizado_vzla": "2026-08-01 16:39:15 -04",
   "compra_segundo": {
-    "price": 847.2,
-    "name": "Casmar84"
+    "price": 847.1,
+    "name": "VRSTNE"
   },
   "venta_maxima": {
     "price": 846.0,
     "name": "Trust-Broker"
   },
-  "promedio": 846.6,
+  "promedio": 846.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
