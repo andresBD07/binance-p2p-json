@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T11:02:27.450657",
-  "actualizado_vzla": "2026-08-01 07:02:27 -04",
+  "timestamp_utc": "2026-08-01T12:09:46.747149",
+  "actualizado_vzla": "2026-08-01 08:09:46 -04",
   "compra_segundo": {
-    "price": 852.899,
-    "name": "MrFrogs"
+    "price": 852.1,
+    "name": "ELSOSO"
   },
   "venta_maxima": {
-    "price": 849.1,
-    "name": "-TSxRV-"
+    "price": 851.5,
+    "name": "TPhillips"
   },
-  "promedio": 851.0,
+  "promedio": 851.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
