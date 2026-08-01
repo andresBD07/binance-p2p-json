@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-01T18:31:12.410214",
-  "actualizado_vzla": "2026-08-01 14:31:12 -04",
+  "timestamp_utc": "2026-08-01T19:48:42.699739",
+  "actualizado_vzla": "2026-08-01 15:48:42 -04",
   "compra_segundo": {
-    "price": 849.0,
-    "name": "Crypto_Medusa"
+    "price": 847.2,
+    "name": "Casmar84"
   },
   "venta_maxima": {
     "price": 846.0,
-    "name": "IngCryptos"
+    "name": "Trust-Broker"
   },
-  "promedio": 847.5,
+  "promedio": 846.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
