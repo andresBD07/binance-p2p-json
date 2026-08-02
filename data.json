@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-02T19:50:52.273600",
-  "actualizado_vzla": "2026-08-02 15:50:52 -04",
+  "timestamp_utc": "2026-08-02T20:48:07.274918",
+  "actualizado_vzla": "2026-08-02 16:48:07 -04",
   "compra_segundo": {
-    "price": 846.63,
-    "name": "Rickcambios"
+    "price": 847.4,
+    "name": "ROMA_USDT"
   },
   "venta_maxima": {
-    "price": 845.0,
-    "name": "Redmagic17"
+    "price": 846.0,
+    "name": "The_Lider"
   },
-  "promedio": 845.82,
+  "promedio": 846.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
