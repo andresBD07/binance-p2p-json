@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-02T07:23:37.854925",
-  "actualizado_vzla": "2026-08-02 03:23:37 -04",
+  "timestamp_utc": "2026-08-02T09:33:04.752765",
+  "actualizado_vzla": "2026-08-02 05:33:04 -04",
   "compra_segundo": {
-    "price": 850.8,
-    "name": "wilman2106"
+    "price": 850.983,
+    "name": "Anonymouss-Exchange"
   },
   "venta_maxima": {
-    "price": 844.0,
-    "name": "PuenteDigital"
+    "price": 845.0,
+    "name": "Godisgift"
   },
-  "promedio": 847.4,
+  "promedio": 847.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
