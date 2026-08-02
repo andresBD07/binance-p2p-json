@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-02T04:43:59.766303",
-  "actualizado_vzla": "2026-08-02 00:43:59 -04",
+  "timestamp_utc": "2026-08-02T07:23:37.854925",
+  "actualizado_vzla": "2026-08-02 03:23:37 -04",
   "compra_segundo": {
-    "price": 849.7,
-    "name": "CambioVeloz_15"
+    "price": 850.8,
+    "name": "wilman2106"
   },
   "venta_maxima": {
-    "price": 845.109,
-    "name": "Marquez25"
+    "price": 844.0,
+    "name": "PuenteDigital"
   },
   "promedio": 847.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
