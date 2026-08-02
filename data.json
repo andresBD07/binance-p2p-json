@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-02T01:16:27.067377",
-  "actualizado_vzla": "2026-08-01 21:16:27 -04",
+  "timestamp_utc": "2026-08-02T04:43:59.766303",
+  "actualizado_vzla": "2026-08-02 00:43:59 -04",
   "compra_segundo": {
-    "price": 848.299,
-    "name": "In_God-I_trust"
+    "price": 849.7,
+    "name": "CambioVeloz_15"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "EnviApp"
+    "price": 845.109,
+    "name": "Marquez25"
   },
-  "promedio": 847.15,
+  "promedio": 847.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
