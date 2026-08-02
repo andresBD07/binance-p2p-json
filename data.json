@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-02T09:33:04.752765",
-  "actualizado_vzla": "2026-08-02 05:33:04 -04",
+  "timestamp_utc": "2026-08-02T11:04:39.736990",
+  "actualizado_vzla": "2026-08-02 07:04:39 -04",
   "compra_segundo": {
-    "price": 850.983,
-    "name": "Anonymouss-Exchange"
+    "price": 850.0,
+    "name": "zoecambios_21"
   },
   "venta_maxima": {
     "price": 845.0,
     "name": "Godisgift"
   },
-  "promedio": 847.99,
+  "promedio": 847.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
