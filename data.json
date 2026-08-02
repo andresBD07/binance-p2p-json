@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-02T12:12:53.890357",
-  "actualizado_vzla": "2026-08-02 08:12:53 -04",
+  "timestamp_utc": "2026-08-02T14:01:21.612106",
+  "actualizado_vzla": "2026-08-02 10:01:21 -04",
   "compra_segundo": {
-    "price": 849.29,
-    "name": "HarlenCH"
+    "price": 848.95,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 844.159,
-    "name": "TOPlevelS"
+    "price": 845.0,
+    "name": "securitylc"
   },
-  "promedio": 846.72,
+  "promedio": 846.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
