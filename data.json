@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-02T15:14:19.562408",
-  "actualizado_vzla": "2026-08-02 11:14:19 -04",
+  "timestamp_utc": "2026-08-02T16:17:08.378089",
+  "actualizado_vzla": "2026-08-02 12:17:08 -04",
   "compra_segundo": {
-    "price": 848.0,
-    "name": "EnEXPRESS"
+    "price": 848.2,
+    "name": "Ramygh99"
   },
   "venta_maxima": {
-    "price": 846.2,
-    "name": "USDTFASTTT"
+    "price": 846.0,
+    "name": "Money77ves"
   },
   "promedio": 847.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
