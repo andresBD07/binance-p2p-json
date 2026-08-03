@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-03T17:19:58.143502",
-  "actualizado_vzla": "2026-08-03 13:19:58 -04",
+  "timestamp_utc": "2026-08-03T19:02:08.389595",
+  "actualizado_vzla": "2026-08-03 15:02:08 -04",
   "compra_segundo": {
-    "price": 851.79,
-    "name": "AlejandrinhoP2P"
+    "price": 853.99,
+    "name": "BOLIVARES_BS"
   },
   "venta_maxima": {
-    "price": 850.0,
-    "name": "CCST"
+    "price": 852.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 850.89,
+  "promedio": 853.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
