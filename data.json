@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-03T15:10:29.447991",
-  "actualizado_vzla": "2026-08-03 11:10:29 -04",
+  "timestamp_utc": "2026-08-03T17:19:58.143502",
+  "actualizado_vzla": "2026-08-03 13:19:58 -04",
   "compra_segundo": {
-    "price": 848.0,
-    "name": "intercambiosRodríguez "
+    "price": 851.79,
+    "name": "AlejandrinhoP2P"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "jonax"
+    "price": 850.0,
+    "name": "CCST"
   },
-  "promedio": 847.0,
+  "promedio": 850.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
