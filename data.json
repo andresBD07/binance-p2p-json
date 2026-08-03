@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-02T23:43:58.545110",
-  "actualizado_vzla": "2026-08-02 19:43:58 -04",
+  "timestamp_utc": "2026-08-03T01:17:43.881520",
+  "actualizado_vzla": "2026-08-02 21:17:43 -04",
   "compra_segundo": {
-    "price": 847.218,
-    "name": "Latinlf"
+    "price": 847.68,
+    "name": "Doctora_Pena"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "Blank_Mind"
+    "price": 844.1,
+    "name": "BalduinoIV"
   },
-  "promedio": 846.61,
+  "promedio": 845.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
