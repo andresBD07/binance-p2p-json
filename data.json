@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-03T01:17:43.881520",
-  "actualizado_vzla": "2026-08-02 21:17:43 -04",
+  "timestamp_utc": "2026-08-03T04:53:30.652597",
+  "actualizado_vzla": "2026-08-03 00:53:30 -04",
   "compra_segundo": {
-    "price": 847.68,
-    "name": "Doctora_Pena"
+    "price": 847.79,
+    "name": "Addr04p2p"
   },
   "venta_maxima": {
-    "price": 844.1,
-    "name": "BalduinoIV"
+    "price": 843.0,
+    "name": "c__s"
   },
-  "promedio": 845.89,
+  "promedio": 845.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
