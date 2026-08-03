@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-03T20:37:15.617723",
-  "actualizado_vzla": "2026-08-03 16:37:15 -04",
+  "timestamp_utc": "2026-08-03T21:48:19.368233",
+  "actualizado_vzla": "2026-08-03 17:48:19 -04",
   "compra_segundo": {
-    "price": 853.69,
-    "name": "REMESAS_ELMARACUCHO"
+    "price": 849.9,
+    "name": "_InversionesJG_"
   },
   "venta_maxima": {
-    "price": 852.5,
-    "name": "Blank_Mind"
+    "price": 849.0,
+    "name": "Money77ves"
   },
-  "promedio": 853.1,
+  "promedio": 849.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
