@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-04T06:12:40.294584",
-  "actualizado_vzla": "2026-08-04 02:12:40 -04",
+  "timestamp_utc": "2026-08-04T09:13:27.687383",
+  "actualizado_vzla": "2026-08-04 05:13:27 -04",
   "compra_segundo": {
-    "price": 851.7,
-    "name": "EnlineaRyK"
+    "price": 850.9,
+    "name": "BreoCapital_Pay"
   },
   "venta_maxima": {
-    "price": 847.0,
-    "name": "inversionesl"
+    "price": 845.986,
+    "name": "Dxvid Exchange"
   },
-  "promedio": 849.35,
+  "promedio": 848.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
