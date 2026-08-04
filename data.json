@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-04T11:35:10.132481",
-  "actualizado_vzla": "2026-08-04 07:35:10 -04",
+  "timestamp_utc": "2026-08-04T13:22:19.964774",
+  "actualizado_vzla": "2026-08-04 09:22:19 -04",
   "compra_segundo": {
-    "price": 850.0,
-    "name": "-Gaia-"
+    "price": 846.99,
+    "name": "walner17"
   },
   "venta_maxima": {
-    "price": 846.56,
-    "name": "FlashRaid"
+    "price": 846.0,
+    "name": "EleguaOshun"
   },
-  "promedio": 848.28,
+  "promedio": 846.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
