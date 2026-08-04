@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-03T23:57:02.035924",
-  "actualizado_vzla": "2026-08-03 19:57:02 -04",
+  "timestamp_utc": "2026-08-04T03:28:40.144755",
+  "actualizado_vzla": "2026-08-03 23:28:40 -04",
   "compra_segundo": {
-    "price": 849.0,
-    "name": "Santhuan04"
+    "price": 850.3,
+    "name": "NexusBlock"
   },
   "venta_maxima": {
-    "price": 848.0,
-    "name": "DOCTOR_CAMBIO"
+    "price": 847.3,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 848.5,
+  "promedio": 848.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
