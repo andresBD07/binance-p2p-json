@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T13:20:32.838882",
-  "actualizado_vzla": "2026-08-05 09:20:32 -04",
+  "timestamp_utc": "2026-08-05T15:35:44.661616",
+  "actualizado_vzla": "2026-08-05 11:35:44 -04",
   "compra_segundo": {
-    "price": 843.199,
-    "name": "ECOcambio"
+    "price": 845.999,
+    "name": "MC30TRADE"
   },
   "venta_maxima": {
-    "price": 841.15,
-    "name": "Trust-Broker"
+    "price": 846.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 842.17,
+  "promedio": 846.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
