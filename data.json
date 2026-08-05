@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T06:34:16.878710",
-  "actualizado_vzla": "2026-08-05 02:34:16 -04",
+  "timestamp_utc": "2026-08-05T09:22:03.770966",
+  "actualizado_vzla": "2026-08-05 05:22:03 -04",
   "compra_segundo": {
-    "price": 848.999,
-    "name": "TraderMasterrr"
+    "price": 849.0,
+    "name": "Maxidigital"
   },
   "venta_maxima": {
-    "price": 843.0,
-    "name": "Gatsby_24"
+    "price": 843.75,
+    "name": "PAGOSYAAA"
   },
-  "promedio": 846.0,
+  "promedio": 846.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
