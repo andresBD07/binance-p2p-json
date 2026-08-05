@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T09:22:03.770966",
-  "actualizado_vzla": "2026-08-05 05:22:03 -04",
+  "timestamp_utc": "2026-08-05T11:36:14.721464",
+  "actualizado_vzla": "2026-08-05 07:36:14 -04",
   "compra_segundo": {
-    "price": 849.0,
-    "name": "Maxidigital"
+    "price": 845.9,
+    "name": "WorldTradeinCripto"
   },
   "venta_maxima": {
-    "price": 843.75,
-    "name": "PAGOSYAAA"
+    "price": 844.005,
+    "name": "Gustavo129"
   },
-  "promedio": 846.38,
+  "promedio": 844.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
