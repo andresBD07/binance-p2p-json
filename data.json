@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T18:53:43.981744",
-  "actualizado_vzla": "2026-08-05 14:53:43 -04",
+  "timestamp_utc": "2026-08-05T20:27:18.384023",
+  "actualizado_vzla": "2026-08-05 16:27:18 -04",
   "compra_segundo": {
-    "price": 846.29,
-    "name": "CRIPTOMAINN"
+    "price": 846.5,
+    "name": "CAMBIOS_YESSI"
   },
   "venta_maxima": {
-    "price": 844.0,
-    "name": "LEYENDAOTC"
+    "price": 845.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 845.14,
+  "promedio": 845.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
