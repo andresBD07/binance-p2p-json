@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T20:27:18.384023",
-  "actualizado_vzla": "2026-08-05 16:27:18 -04",
+  "timestamp_utc": "2026-08-05T21:50:25.650367",
+  "actualizado_vzla": "2026-08-05 17:50:25 -04",
   "compra_segundo": {
-    "price": 846.5,
-    "name": "CAMBIOS_YESSI"
+    "price": 847.9,
+    "name": "ArepaConCafe"
   },
   "venta_maxima": {
-    "price": 845.0,
-    "name": "Blank_Mind"
+    "price": 848.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 845.75,
+  "promedio": 847.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
