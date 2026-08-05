@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-04T23:17:03.418365",
-  "actualizado_vzla": "2026-08-04 19:17:03 -04",
+  "timestamp_utc": "2026-08-05T00:50:46.709279",
+  "actualizado_vzla": "2026-08-04 20:50:46 -04",
   "compra_segundo": {
-    "price": 847.5,
-    "name": "Pcambios10"
+    "price": 847.69,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 845.0,
-    "name": "Blank_Mind"
+    "price": 845.8,
+    "name": "BudLigth"
   },
-  "promedio": 846.25,
+  "promedio": 846.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
