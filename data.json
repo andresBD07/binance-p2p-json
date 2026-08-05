@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T21:50:25.650367",
-  "actualizado_vzla": "2026-08-05 17:50:25 -04",
+  "timestamp_utc": "2026-08-05T22:51:31.123567",
+  "actualizado_vzla": "2026-08-05 18:51:31 -04",
   "compra_segundo": {
-    "price": 847.9,
-    "name": "ArepaConCafe"
+    "price": 847.5,
+    "name": "pollitodolare"
   },
   "venta_maxima": {
-    "price": 848.0,
-    "name": "被放逐的狐狸"
+    "price": 847.0,
+    "name": "GAMBINO-"
   },
-  "promedio": 847.95,
+  "promedio": 847.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
