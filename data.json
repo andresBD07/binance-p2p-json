@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T22:51:31.123567",
-  "actualizado_vzla": "2026-08-05 18:51:31 -04",
+  "timestamp_utc": "2026-08-05T23:56:42.653976",
+  "actualizado_vzla": "2026-08-05 19:56:42 -04",
   "compra_segundo": {
-    "price": 847.5,
-    "name": "pollitodolare"
+    "price": 847.9,
+    "name": "Cambios239"
   },
   "venta_maxima": {
     "price": 847.0,
-    "name": "GAMBINO-"
+    "name": "被放逐的狐狸"
   },
-  "promedio": 847.25,
+  "promedio": 847.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
