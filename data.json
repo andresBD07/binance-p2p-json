@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-05T17:08:57.851901",
-  "actualizado_vzla": "2026-08-05 13:08:57 -04",
+  "timestamp_utc": "2026-08-05T18:53:43.981744",
+  "actualizado_vzla": "2026-08-05 14:53:43 -04",
   "compra_segundo": {
-    "price": 847.699,
-    "name": "resu2k"
+    "price": 846.29,
+    "name": "CRIPTOMAINN"
   },
   "venta_maxima": {
-    "price": 846.0,
-    "name": "安全与信任"
+    "price": 844.0,
+    "name": "LEYENDAOTC"
   },
-  "promedio": 846.85,
+  "promedio": 845.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
