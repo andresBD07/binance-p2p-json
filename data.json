@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T00:33:51.254500",
-  "actualizado_vzla": "2026-08-06 20:33:51 -04",
+  "timestamp_utc": "2026-08-07T03:36:43.075928",
+  "actualizado_vzla": "2026-08-06 23:36:43 -04",
   "compra_segundo": {
-    "price": 856.0,
-    "name": "alfonzo 21"
+    "price": 860.2,
+    "name": "Tecnologyh"
   },
   "venta_maxima": {
     "price": 860.0,
-    "name": "Infiniti_Ronin"
+    "name": "Leotrade17"
   },
-  "promedio": 858.0,
+  "promedio": 860.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
