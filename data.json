@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T14:32:14.419286",
-  "actualizado_vzla": "2026-08-07 10:32:14 -04",
+  "timestamp_utc": "2026-08-07T15:30:56.976349",
+  "actualizado_vzla": "2026-08-07 11:30:56 -04",
   "compra_segundo": {
-    "price": 858.899,
-    "name": "Gabrielavls"
+    "price": 860.7,
+    "name": "1Jm_trade28"
   },
   "venta_maxima": {
-    "price": 859.5,
-    "name": "杰格尔"
+    "price": 865.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 859.2,
+  "promedio": 862.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
