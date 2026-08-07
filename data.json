@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T20:18:22.903947",
-  "actualizado_vzla": "2026-08-07 16:18:22 -04",
+  "timestamp_utc": "2026-08-07T21:05:13.817450",
+  "actualizado_vzla": "2026-08-07 17:05:13 -04",
   "compra_segundo": {
-    "price": 861.987,
-    "name": "DS0"
+    "price": 858.999,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 865.0,
+    "price": 862.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 863.49,
+  "promedio": 860.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
