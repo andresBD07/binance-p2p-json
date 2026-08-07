@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T03:36:43.075928",
-  "actualizado_vzla": "2026-08-06 23:36:43 -04",
+  "timestamp_utc": "2026-08-07T05:22:43.133133",
+  "actualizado_vzla": "2026-08-07 01:22:43 -04",
   "compra_segundo": {
-    "price": 860.2,
-    "name": "Tecnologyh"
+    "price": 861.18,
+    "name": "D-zta"
   },
   "venta_maxima": {
-    "price": 860.0,
-    "name": "Leotrade17"
+    "price": 856.5,
+    "name": "CHAPMANGOLD_TRADING"
   },
-  "promedio": 860.1,
+  "promedio": 858.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
