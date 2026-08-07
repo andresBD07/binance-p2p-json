@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T22:36:12.901072",
-  "actualizado_vzla": "2026-08-07 18:36:12 -04",
+  "timestamp_utc": "2026-08-07T23:16:19.676461",
+  "actualizado_vzla": "2026-08-07 19:16:19 -04",
   "compra_segundo": {
-    "price": 859.2,
-    "name": "majog"
+    "price": 861.2,
+    "name": "User-95450"
   },
   "venta_maxima": {
     "price": 863.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 861.1,
+  "promedio": 862.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
