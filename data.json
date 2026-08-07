@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T17:27:32.348217",
-  "actualizado_vzla": "2026-08-07 13:27:32 -04",
+  "timestamp_utc": "2026-08-07T18:25:23.138653",
+  "actualizado_vzla": "2026-08-07 14:25:23 -04",
   "compra_segundo": {
-    "price": 862.64,
-    "name": "Josealm29"
+    "price": 862.65,
+    "name": "Justcrip18"
   },
   "venta_maxima": {
     "price": 866.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 864.32,
+  "promedio": 864.33,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
