@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T11:10:40.268090",
-  "actualizado_vzla": "2026-08-07 07:10:40 -04",
+  "timestamp_utc": "2026-08-07T11:58:51.568729",
+  "actualizado_vzla": "2026-08-07 07:58:51 -04",
   "compra_segundo": {
-    "price": 859.499,
-    "name": "MiRoca_S18"
+    "price": 858.4,
+    "name": "RSTrader_"
   },
   "venta_maxima": {
-    "price": 856.1,
-    "name": "QueRapido"
+    "price": 855.6,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 857.8,
+  "promedio": 857.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
