@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T08:01:32.016439",
-  "actualizado_vzla": "2026-08-07 04:01:32 -04",
+  "timestamp_utc": "2026-08-07T09:12:07.371277",
+  "actualizado_vzla": "2026-08-07 05:12:07 -04",
   "compra_segundo": {
-    "price": 862.16,
-    "name": "eltripolitanop2p"
+    "price": 862.0,
+    "name": "Alcambio_25"
   },
   "venta_maxima": {
-    "price": 855.2,
-    "name": "x88rising"
+    "price": 856.55,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 858.68,
+  "promedio": 859.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
