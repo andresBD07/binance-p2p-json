@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T21:53:06.436796",
-  "actualizado_vzla": "2026-08-07 17:53:06 -04",
+  "timestamp_utc": "2026-08-07T22:36:12.901072",
+  "actualizado_vzla": "2026-08-07 18:36:12 -04",
   "compra_segundo": {
-    "price": 858.6,
-    "name": "viclop"
+    "price": 859.2,
+    "name": "majog"
   },
   "venta_maxima": {
     "price": 863.0,
-    "name": "被放逐的狐狸"
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 860.8,
+  "promedio": 861.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
