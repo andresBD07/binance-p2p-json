@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T23:16:19.676461",
-  "actualizado_vzla": "2026-08-07 19:16:19 -04",
+  "timestamp_utc": "2026-08-07T23:52:19.099588",
+  "actualizado_vzla": "2026-08-07 19:52:19 -04",
   "compra_segundo": {
-    "price": 861.2,
-    "name": "User-95450"
+    "price": 861.0,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 863.0,
+    "price": 864.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 862.1,
+  "promedio": 862.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
