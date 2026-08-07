@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T11:58:51.568729",
-  "actualizado_vzla": "2026-08-07 07:58:51 -04",
+  "timestamp_utc": "2026-08-07T13:23:42.536044",
+  "actualizado_vzla": "2026-08-07 09:23:42 -04",
   "compra_segundo": {
-    "price": 858.4,
-    "name": "RSTrader_"
+    "price": 858.1,
+    "name": "La-Tia-Mema"
   },
   "venta_maxima": {
-    "price": 855.6,
-    "name": "Infiniti_Ronin"
+    "price": 858.6,
+    "name": "Brawcoins"
   },
-  "promedio": 857.0,
+  "promedio": 858.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
