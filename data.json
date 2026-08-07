@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-07T13:23:42.536044",
-  "actualizado_vzla": "2026-08-07 09:23:42 -04",
+  "timestamp_utc": "2026-08-07T14:32:14.419286",
+  "actualizado_vzla": "2026-08-07 10:32:14 -04",
   "compra_segundo": {
-    "price": 858.1,
-    "name": "La-Tia-Mema"
+    "price": 858.899,
+    "name": "Gabrielavls"
   },
   "venta_maxima": {
-    "price": 858.6,
-    "name": "Brawcoins"
+    "price": 859.5,
+    "name": "杰格尔"
   },
-  "promedio": 858.35,
+  "promedio": 859.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
