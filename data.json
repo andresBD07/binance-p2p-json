@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T22:19:52.507635",
-  "actualizado_vzla": "2026-08-08 18:19:52 -04",
+  "timestamp_utc": "2026-08-08T22:54:37.940966",
+  "actualizado_vzla": "2026-08-08 18:54:37 -04",
   "compra_segundo": {
-    "price": 862.95,
-    "name": "Pikachuuu13"
+    "price": 863.59,
+    "name": "MUNDOGENIAL"
   },
   "venta_maxima": {
-    "price": 865.0,
-    "name": "CriptoseguroAyM"
+    "price": 866.5,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 863.98,
+  "promedio": 865.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
