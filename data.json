@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T03:11:32.799229",
-  "actualizado_vzla": "2026-08-07 23:11:32 -04",
+  "timestamp_utc": "2026-08-08T04:30:28.744565",
+  "actualizado_vzla": "2026-08-08 00:30:28 -04",
   "compra_segundo": {
-    "price": 864.0,
-    "name": "销CryptoAptus售"
+    "price": 864.245,
+    "name": "Ninja Trading"
   },
   "venta_maxima": {
-    "price": 863.0,
-    "name": "Trust-Broker"
+    "price": 862.0,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 863.5,
+  "promedio": 863.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
