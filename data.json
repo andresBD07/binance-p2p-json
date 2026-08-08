@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T19:34:08.749520",
-  "actualizado_vzla": "2026-08-08 15:34:08 -04",
+  "timestamp_utc": "2026-08-08T20:00:05.512251",
+  "actualizado_vzla": "2026-08-08 16:00:05 -04",
   "compra_segundo": {
-    "price": 862.999,
-    "name": "Q2030"
+    "price": 863.399,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
     "price": 866.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 864.5,
+  "promedio": 864.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
