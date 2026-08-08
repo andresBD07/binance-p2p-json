@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T04:30:28.744565",
-  "actualizado_vzla": "2026-08-08 00:30:28 -04",
+  "timestamp_utc": "2026-08-08T05:22:21.183585",
+  "actualizado_vzla": "2026-08-08 01:22:21 -04",
   "compra_segundo": {
-    "price": 864.245,
-    "name": "Ninja Trading"
+    "price": 864.2,
+    "name": "JR_cryptoxchange"
   },
   "venta_maxima": {
-    "price": 862.0,
+    "price": 862.1,
     "name": "doctor_zoidberg"
   },
-  "promedio": 863.12,
+  "promedio": 863.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
