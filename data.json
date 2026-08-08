@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T16:57:26.155507",
-  "actualizado_vzla": "2026-08-08 12:57:26 -04",
+  "timestamp_utc": "2026-08-08T17:38:35.781524",
+  "actualizado_vzla": "2026-08-08 13:38:35 -04",
   "compra_segundo": {
-    "price": 861.499,
-    "name": "Catalina"
+    "price": 862.5,
+    "name": "Click_Y_Listo"
   },
   "venta_maxima": {
     "price": 866.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 863.75,
+  "promedio": 864.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
