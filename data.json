@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T10:55:22.325430",
-  "actualizado_vzla": "2026-08-08 06:55:22 -04",
+  "timestamp_utc": "2026-08-08T11:34:32.452142",
+  "actualizado_vzla": "2026-08-08 07:34:32 -04",
   "compra_segundo": {
-    "price": 864.35,
-    "name": "AquilesArturo"
+    "price": 863.699,
+    "name": "-RaGnaroK-"
   },
   "venta_maxima": {
-    "price": 864.7,
-    "name": "JuanLuisBuriel"
+    "price": 864.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 864.53,
+  "promedio": 863.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
