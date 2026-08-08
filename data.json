@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T12:00:06.523662",
-  "actualizado_vzla": "2026-08-08 08:00:06 -04",
+  "timestamp_utc": "2026-08-08T13:07:44.878495",
+  "actualizado_vzla": "2026-08-08 09:07:44 -04",
   "compra_segundo": {
-    "price": 863.333,
+    "price": 863.499,
     "name": "svt-usdtfast"
   },
   "venta_maxima": {
-    "price": 863.5,
-    "name": "CriptoseguroAyM"
+    "price": 865.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 863.42,
+  "promedio": 864.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
