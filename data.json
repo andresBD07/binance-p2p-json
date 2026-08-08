@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T17:38:35.781524",
-  "actualizado_vzla": "2026-08-08 13:38:35 -04",
+  "timestamp_utc": "2026-08-08T18:03:19.355651",
+  "actualizado_vzla": "2026-08-08 14:03:19 -04",
   "compra_segundo": {
-    "price": 862.5,
-    "name": "Click_Y_Listo"
+    "price": 863.46,
+    "name": "Carlitos-trading"
   },
   "venta_maxima": {
     "price": 866.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 864.25,
+  "promedio": 864.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
