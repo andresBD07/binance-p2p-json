@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T07:12:13.583418",
-  "actualizado_vzla": "2026-08-08 03:12:13 -04",
+  "timestamp_utc": "2026-08-08T08:02:09.901455",
+  "actualizado_vzla": "2026-08-08 04:02:09 -04",
   "compra_segundo": {
     "price": 865.0,
     "name": "JMCrip26"
   },
   "venta_maxima": {
-    "price": 861.1,
-    "name": "AirExhanger"
+    "price": 860.0,
+    "name": "-TSxRV-"
   },
-  "promedio": 863.05,
+  "promedio": 862.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
