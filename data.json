@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T23:33:33.676020",
-  "actualizado_vzla": "2026-08-08 19:33:33 -04",
+  "timestamp_utc": "2026-08-08T23:59:49.838783",
+  "actualizado_vzla": "2026-08-08 19:59:49 -04",
   "compra_segundo": {
-    "price": 863.33,
-    "name": "菲利"
+    "price": 863.4,
+    "name": "Seveeen"
   },
   "venta_maxima": {
-    "price": 864.1,
-    "name": "CRIPTO-2026"
+    "price": 864.606,
+    "name": "TOPlevelS"
   },
-  "promedio": 863.72,
+  "promedio": 864.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
