@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T09:45:53.750762",
-  "actualizado_vzla": "2026-08-08 05:45:53 -04",
+  "timestamp_utc": "2026-08-08T10:16:11.204779",
+  "actualizado_vzla": "2026-08-08 06:16:11 -04",
   "compra_segundo": {
-    "price": 864.8,
-    "name": "InvDelta"
+    "price": 864.65,
+    "name": "JMCrip26"
   },
   "venta_maxima": {
     "price": 859.8,
     "name": "Pcambios10"
   },
-  "promedio": 862.3,
+  "promedio": 862.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
