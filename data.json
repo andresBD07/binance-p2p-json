@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T08:02:09.901455",
-  "actualizado_vzla": "2026-08-08 04:02:09 -04",
+  "timestamp_utc": "2026-08-08T08:55:36.716221",
+  "actualizado_vzla": "2026-08-08 04:55:36 -04",
   "compra_segundo": {
-    "price": 865.0,
-    "name": "JMCrip26"
+    "price": 864.999,
+    "name": "CapitalTrade_P2P"
   },
   "venta_maxima": {
-    "price": 860.0,
-    "name": "-TSxRV-"
+    "price": 859.8,
+    "name": "Pcambios10"
   },
-  "promedio": 862.5,
+  "promedio": 862.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
