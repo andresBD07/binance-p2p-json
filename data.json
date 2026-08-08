@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T15:48:22.877508",
-  "actualizado_vzla": "2026-08-08 11:48:22 -04",
+  "timestamp_utc": "2026-08-08T16:17:36.692544",
+  "actualizado_vzla": "2026-08-08 12:17:36 -04",
   "compra_segundo": {
-    "price": 861.5,
-    "name": "TeresaCrip"
+    "price": 861.9,
+    "name": "CryptoExpressVe"
   },
   "venta_maxima": {
     "price": 866.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 863.75,
+  "promedio": 863.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
