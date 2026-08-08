@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T21:13:58.257756",
-  "actualizado_vzla": "2026-08-08 17:13:58 -04",
+  "timestamp_utc": "2026-08-08T21:49:53.913536",
+  "actualizado_vzla": "2026-08-08 17:49:53 -04",
   "compra_segundo": {
-    "price": 863.0,
-    "name": "SuperDuko"
+    "price": 862.99,
+    "name": "P2P CASTILLO"
   },
   "venta_maxima": {
-    "price": 866.0,
+    "price": 865.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 864.5,
+  "promedio": 864.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
