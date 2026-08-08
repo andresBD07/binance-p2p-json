@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T22:54:37.940966",
-  "actualizado_vzla": "2026-08-08 18:54:37 -04",
+  "timestamp_utc": "2026-08-08T23:33:33.676020",
+  "actualizado_vzla": "2026-08-08 19:33:33 -04",
   "compra_segundo": {
-    "price": 863.59,
-    "name": "MUNDOGENIAL"
+    "price": 863.33,
+    "name": "菲利"
   },
   "venta_maxima": {
-    "price": 866.5,
-    "name": "Infiniti_Ronin"
+    "price": 864.1,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 865.05,
+  "promedio": 863.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
