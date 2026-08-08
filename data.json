@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-08T05:22:21.183585",
-  "actualizado_vzla": "2026-08-08 01:22:21 -04",
+  "timestamp_utc": "2026-08-08T06:05:26.187215",
+  "actualizado_vzla": "2026-08-08 02:05:26 -04",
   "compra_segundo": {
-    "price": 864.2,
-    "name": "JR_cryptoxchange"
+    "price": 864.9,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 862.1,
-    "name": "doctor_zoidberg"
+    "price": 861.3,
+    "name": "AirExhanger"
   },
-  "promedio": 863.15,
+  "promedio": 863.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
