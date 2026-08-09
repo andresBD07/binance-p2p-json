@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T20:01:57.125491",
-  "actualizado_vzla": "2026-08-09 16:01:57 -04",
+  "timestamp_utc": "2026-08-09T20:48:22.629695",
+  "actualizado_vzla": "2026-08-09 16:48:22 -04",
   "compra_segundo": {
-    "price": 865.13,
-    "name": "chichiwilote"
+    "price": 865.0,
+    "name": "AquilesArturo"
   },
   "venta_maxima": {
-    "price": 866.05,
-    "name": "Don-Cangrejo"
+    "price": 866.0,
+    "name": "LordCambios"
   },
-  "promedio": 865.59,
+  "promedio": 865.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
