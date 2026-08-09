@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T10:27:11.355810",
-  "actualizado_vzla": "2026-08-09 06:27:11 -04",
+  "timestamp_utc": "2026-08-09T11:04:09.639703",
+  "actualizado_vzla": "2026-08-09 07:04:09 -04",
   "compra_segundo": {
-    "price": 867.4,
-    "name": "AM_BovedaActiva"
+    "price": 867.0,
+    "name": "XTREME-INVERSIONES"
   },
   "venta_maxima": {
-    "price": 863.51,
-    "name": "JURGEN_TRADER"
+    "price": 863.75,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 865.45,
+  "promedio": 865.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
