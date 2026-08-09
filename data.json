@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T22:39:15.877279",
-  "actualizado_vzla": "2026-08-09 18:39:15 -04",
+  "timestamp_utc": "2026-08-09T23:11:19.324616",
+  "actualizado_vzla": "2026-08-09 19:11:19 -04",
   "compra_segundo": {
-    "price": 864.989,
-    "name": "jhonfdz"
+    "price": 864.774,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 866.0,
+    "price": 866.5,
     "name": "-Tyrion-Lannister-"
   },
-  "promedio": 865.49,
+  "promedio": 865.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
