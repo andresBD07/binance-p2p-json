@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T11:04:09.639703",
-  "actualizado_vzla": "2026-08-09 07:04:09 -04",
+  "timestamp_utc": "2026-08-09T11:41:45.367430",
+  "actualizado_vzla": "2026-08-09 07:41:45 -04",
   "compra_segundo": {
-    "price": 867.0,
-    "name": "XTREME-INVERSIONES"
+    "price": 865.999,
+    "name": "VzlaCoin"
   },
   "venta_maxima": {
-    "price": 863.75,
-    "name": "Don-Cangrejo"
+    "price": 865.009,
+    "name": "TOPlevelS"
   },
-  "promedio": 865.38,
+  "promedio": 865.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
