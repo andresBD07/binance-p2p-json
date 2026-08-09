@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T11:41:45.367430",
-  "actualizado_vzla": "2026-08-09 07:41:45 -04",
+  "timestamp_utc": "2026-08-09T12:16:04.097851",
+  "actualizado_vzla": "2026-08-09 08:16:04 -04",
   "compra_segundo": {
-    "price": 865.999,
-    "name": "VzlaCoin"
+    "price": 864.999,
+    "name": "ExpressCambiOriginal"
   },
   "venta_maxima": {
-    "price": 865.009,
-    "name": "TOPlevelS"
+    "price": 865.25,
+    "name": "Brawcoins"
   },
-  "promedio": 865.5,
+  "promedio": 865.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
