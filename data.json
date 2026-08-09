@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T02:23:46.710815",
-  "actualizado_vzla": "2026-08-08 22:23:46 -04",
+  "timestamp_utc": "2026-08-09T03:58:57.022507",
+  "actualizado_vzla": "2026-08-08 23:58:57 -04",
   "compra_segundo": {
-    "price": 864.8,
-    "name": "cambiosaular"
+    "price": 865.5,
+    "name": "walner17"
   },
   "venta_maxima": {
-    "price": 865.5,
-    "name": "-Tyrion-Lannister-"
+    "price": 864.1,
+    "name": " Blessed "
   },
-  "promedio": 865.15,
+  "promedio": 864.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
