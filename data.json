@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T17:21:43.612968",
-  "actualizado_vzla": "2026-08-09 13:21:43 -04",
+  "timestamp_utc": "2026-08-09T17:57:38.273429",
+  "actualizado_vzla": "2026-08-09 13:57:38 -04",
   "compra_segundo": {
-    "price": 864.65,
-    "name": "CUATROSIETE"
+    "price": 864.7,
+    "name": "AA_Over"
   },
   "venta_maxima": {
-    "price": 865.25,
-    "name": "贝HarveySpecter贝"
+    "price": 865.8,
+    "name": "Brawcoins"
   },
-  "promedio": 864.95,
+  "promedio": 865.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
