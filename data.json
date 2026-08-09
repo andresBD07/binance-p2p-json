@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T06:02:19.080904",
-  "actualizado_vzla": "2026-08-09 02:02:19 -04",
+  "timestamp_utc": "2026-08-09T07:11:08.351056",
+  "actualizado_vzla": "2026-08-09 03:11:08 -04",
   "compra_segundo": {
-    "price": 866.709,
-    "name": "financepartner1203"
+    "price": 867.399,
+    "name": "succubus"
   },
   "venta_maxima": {
     "price": 863.3,
     "name": "caguy"
   },
-  "promedio": 865.0,
+  "promedio": 865.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
