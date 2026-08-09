@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T08:58:32.721829",
-  "actualizado_vzla": "2026-08-09 04:58:32 -04",
+  "timestamp_utc": "2026-08-09T09:50:36.641506",
+  "actualizado_vzla": "2026-08-09 05:50:36 -04",
   "compra_segundo": {
-    "price": 867.9,
-    "name": "INTERCAMBIOS-DE2V"
+    "price": 867.881,
+    "name": "AngelMolinaC"
   },
   "venta_maxima": {
-    "price": 863.2,
+    "price": 863.1,
     "name": "Inversiones-ADSC"
   },
-  "promedio": 865.55,
+  "promedio": 865.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
