@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T08:03:19.348245",
-  "actualizado_vzla": "2026-08-09 04:03:19 -04",
+  "timestamp_utc": "2026-08-09T08:58:32.721829",
+  "actualizado_vzla": "2026-08-09 04:58:32 -04",
   "compra_segundo": {
-    "price": 868.0,
-    "name": "CambiosMZ"
+    "price": 867.9,
+    "name": "INTERCAMBIOS-DE2V"
   },
   "venta_maxima": {
     "price": 863.2,
-    "name": "doctor_zoidberg"
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 865.6,
+  "promedio": 865.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
