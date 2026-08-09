@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T16:01:28.870941",
-  "actualizado_vzla": "2026-08-09 12:01:28 -04",
+  "timestamp_utc": "2026-08-09T16:49:27.292289",
+  "actualizado_vzla": "2026-08-09 12:49:27 -04",
   "compra_segundo": {
-    "price": 864.7,
-    "name": "TAZ-P2P"
+    "price": 864.85,
+    "name": "CUATROSIETE"
   },
   "venta_maxima": {
-    "price": 865.0,
-    "name": "Brawcoins"
+    "price": 865.15,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 864.85,
+  "promedio": 865.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
