@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T14:52:43.699409",
-  "actualizado_vzla": "2026-08-09 10:52:43 -04",
+  "timestamp_utc": "2026-08-09T15:31:11.289607",
+  "actualizado_vzla": "2026-08-09 11:31:11 -04",
   "compra_segundo": {
-    "price": 864.798,
-    "name": "CUATROSIETE"
+    "price": 864.8,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 864.511,
-    "name": "TOPlevelS"
+    "price": 865.2,
+    "name": "Brawcoins"
   },
-  "promedio": 864.65,
+  "promedio": 865.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
