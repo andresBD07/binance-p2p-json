@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T23:11:19.324616",
-  "actualizado_vzla": "2026-08-09 19:11:19 -04",
+  "timestamp_utc": "2026-08-09T23:49:22.242530",
+  "actualizado_vzla": "2026-08-09 19:49:22 -04",
   "compra_segundo": {
-    "price": 864.774,
-    "name": "AM_BovedaActiva"
+    "price": 864.648,
+    "name": "CriptoTraderHub"
   },
   "venta_maxima": {
-    "price": 866.5,
-    "name": "-Tyrion-Lannister-"
+    "price": 865.0,
+    "name": "王冠__你们的头"
   },
-  "promedio": 865.64,
+  "promedio": 864.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
