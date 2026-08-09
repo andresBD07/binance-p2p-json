@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T17:57:38.273429",
-  "actualizado_vzla": "2026-08-09 13:57:38 -04",
+  "timestamp_utc": "2026-08-09T18:53:27.156772",
+  "actualizado_vzla": "2026-08-09 14:53:27 -04",
   "compra_segundo": {
-    "price": 864.7,
-    "name": "AA_Over"
+    "price": 864.9,
+    "name": "alexander08_25"
   },
   "venta_maxima": {
-    "price": 865.8,
-    "name": "Brawcoins"
+    "price": 866.21,
+    "name": "LordCambios"
   },
-  "promedio": 865.25,
+  "promedio": 865.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
