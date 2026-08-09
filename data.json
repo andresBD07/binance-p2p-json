@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T19:34:13.512090",
-  "actualizado_vzla": "2026-08-09 15:34:13 -04",
+  "timestamp_utc": "2026-08-09T20:01:57.125491",
+  "actualizado_vzla": "2026-08-09 16:01:57 -04",
   "compra_segundo": {
-    "price": 865.0,
-    "name": "愛PolarcitaCoin愛"
+    "price": 865.13,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
-    "price": 866.31,
-    "name": "LordCambios"
+    "price": 866.05,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 865.65,
+  "promedio": 865.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
