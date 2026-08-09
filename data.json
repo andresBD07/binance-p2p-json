@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T07:11:08.351056",
-  "actualizado_vzla": "2026-08-09 03:11:08 -04",
+  "timestamp_utc": "2026-08-09T08:03:19.348245",
+  "actualizado_vzla": "2026-08-09 04:03:19 -04",
   "compra_segundo": {
-    "price": 867.399,
-    "name": "succubus"
+    "price": 868.0,
+    "name": "CambiosMZ"
   },
   "venta_maxima": {
-    "price": 863.3,
-    "name": "caguy"
+    "price": 863.2,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 865.35,
+  "promedio": 865.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
