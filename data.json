@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T16:49:27.292289",
-  "actualizado_vzla": "2026-08-09 12:49:27 -04",
+  "timestamp_utc": "2026-08-09T17:21:43.612968",
+  "actualizado_vzla": "2026-08-09 13:21:43 -04",
   "compra_segundo": {
-    "price": 864.85,
+    "price": 864.65,
     "name": "CUATROSIETE"
   },
   "venta_maxima": {
-    "price": 865.15,
-    "name": "Inversiones-ADSC"
+    "price": 865.25,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 865.0,
+  "promedio": 864.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
