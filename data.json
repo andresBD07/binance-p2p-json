@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-09T05:13:37.260012",
-  "actualizado_vzla": "2026-08-09 01:13:37 -04",
+  "timestamp_utc": "2026-08-09T06:02:19.080904",
+  "actualizado_vzla": "2026-08-09 02:02:19 -04",
   "compra_segundo": {
-    "price": 866.8,
-    "name": "MikasaExchange"
+    "price": 866.709,
+    "name": "financepartner1203"
   },
   "venta_maxima": {
-    "price": 865.0,
-    "name": "Labubu_96"
+    "price": 863.3,
+    "name": "caguy"
   },
-  "promedio": 865.9,
+  "promedio": 865.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
