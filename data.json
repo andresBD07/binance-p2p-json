@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T10:59:46.116903",
-  "actualizado_vzla": "2026-08-10 06:59:46 -04",
+  "timestamp_utc": "2026-08-10T11:55:18.871728",
+  "actualizado_vzla": "2026-08-10 07:55:18 -04",
   "compra_segundo": {
-    "price": 862.75,
-    "name": "Futurexf"
+    "price": 862.4,
+    "name": "DerekTitularP2P"
   },
   "venta_maxima": {
-    "price": 861.0,
-    "name": "YKBank"
+    "price": 863.92,
+    "name": "MaestroRoshi-"
   },
-  "promedio": 861.88,
+  "promedio": 863.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
