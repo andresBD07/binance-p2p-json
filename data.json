@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T13:24:10.871076",
-  "actualizado_vzla": "2026-08-10 09:24:10 -04",
+  "timestamp_utc": "2026-08-10T14:36:38.084056",
+  "actualizado_vzla": "2026-08-10 10:36:38 -04",
   "compra_segundo": {
-    "price": 861.689,
-    "name": "JBinverciones"
+    "price": 864.95,
+    "name": "Bull_Rrun_Trading"
   },
   "venta_maxima": {
-    "price": 863.0,
-    "name": "SExchange20"
+    "price": 865.5,
+    "name": "-Zeratul-"
   },
-  "promedio": 862.34,
+  "promedio": 865.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
