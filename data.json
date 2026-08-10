@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T11:55:18.871728",
-  "actualizado_vzla": "2026-08-10 07:55:18 -04",
+  "timestamp_utc": "2026-08-10T13:24:10.871076",
+  "actualizado_vzla": "2026-08-10 09:24:10 -04",
   "compra_segundo": {
-    "price": 862.4,
-    "name": "DerekTitularP2P"
+    "price": 861.689,
+    "name": "JBinverciones"
   },
   "venta_maxima": {
-    "price": 863.92,
-    "name": "MaestroRoshi-"
+    "price": 863.0,
+    "name": "SExchange20"
   },
-  "promedio": 863.16,
+  "promedio": 862.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
