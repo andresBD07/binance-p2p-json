@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T18:28:16.748257",
-  "actualizado_vzla": "2026-08-10 14:28:16 -04",
+  "timestamp_utc": "2026-08-10T19:35:24.773767",
+  "actualizado_vzla": "2026-08-10 15:35:24 -04",
   "compra_segundo": {
-    "price": 871.0,
-    "name": "JG-18Dembouz"
+    "price": 867.55,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 873.2,
-    "name": "安全与信任"
+    "price": 870.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 872.1,
+  "promedio": 868.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
