@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T08:10:30.104091",
-  "actualizado_vzla": "2026-08-10 04:10:30 -04",
+  "timestamp_utc": "2026-08-10T09:50:00.093937",
+  "actualizado_vzla": "2026-08-10 05:50:00 -04",
   "compra_segundo": {
-    "price": 866.0,
-    "name": "Power-STROKKER"
+    "price": 865.469,
+    "name": "Bansky"
   },
   "venta_maxima": {
-    "price": 859.2,
-    "name": "BalduinoIV"
+    "price": 857.7,
+    "name": "YAMISENSEI"
   },
-  "promedio": 862.6,
+  "promedio": 861.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
