@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T03:17:31.867335",
-  "actualizado_vzla": "2026-08-09 23:17:31 -04",
+  "timestamp_utc": "2026-08-10T04:59:29.316282",
+  "actualizado_vzla": "2026-08-10 00:59:29 -04",
   "compra_segundo": {
-    "price": 864.4,
-    "name": "Ruthnuts"
+    "price": 865.19,
+    "name": "VENTASJM"
   },
   "venta_maxima": {
-    "price": 862.37,
-    "name": "HAVALLL"
+    "price": 861.0,
+    "name": "VinDiesel21"
   },
-  "promedio": 863.38,
+  "promedio": 863.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
