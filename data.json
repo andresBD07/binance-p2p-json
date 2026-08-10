@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T17:30:41.218415",
-  "actualizado_vzla": "2026-08-10 13:30:41 -04",
+  "timestamp_utc": "2026-08-10T18:28:16.748257",
+  "actualizado_vzla": "2026-08-10 14:28:16 -04",
   "compra_segundo": {
     "price": 871.0,
-    "name": "Jesus200620"
+    "name": "JG-18Dembouz"
   },
   "venta_maxima": {
-    "price": 874.0,
-    "name": "被放逐的狐狸"
+    "price": 873.2,
+    "name": "安全与信任"
   },
-  "promedio": 872.5,
+  "promedio": 872.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
