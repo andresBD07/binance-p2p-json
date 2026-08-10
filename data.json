@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T22:50:56.004267",
-  "actualizado_vzla": "2026-08-10 18:50:56 -04",
+  "timestamp_utc": "2026-08-10T23:29:13.781614",
+  "actualizado_vzla": "2026-08-10 19:29:13 -04",
   "compra_segundo": {
-    "price": 870.0,
-    "name": "danlord_trade"
+    "price": 869.889,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
-    "price": 870.0,
+    "price": 869.0,
     "name": "安全与信任"
   },
-  "promedio": 870.0,
+  "promedio": 869.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
