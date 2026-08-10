@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T14:36:38.084056",
-  "actualizado_vzla": "2026-08-10 10:36:38 -04",
+  "timestamp_utc": "2026-08-10T15:36:24.514335",
+  "actualizado_vzla": "2026-08-10 11:36:24 -04",
   "compra_segundo": {
-    "price": 864.95,
-    "name": "Bull_Rrun_Trading"
+    "price": 867.0,
+    "name": "alancoin1984"
   },
   "venta_maxima": {
-    "price": 865.5,
-    "name": "-Zeratul-"
+    "price": 869.5,
+    "name": "活着的价值"
   },
-  "promedio": 865.23,
+  "promedio": 868.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
