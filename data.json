@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T21:10:03.501395",
-  "actualizado_vzla": "2026-08-10 17:10:03 -04",
+  "timestamp_utc": "2026-08-10T21:59:33.081698",
+  "actualizado_vzla": "2026-08-10 17:59:33 -04",
   "compra_segundo": {
-    "price": 869.6,
-    "name": "诚信支付"
+    "price": 869.9,
+    "name": "Mecanicteam2"
   },
   "venta_maxima": {
-    "price": 869.0,
+    "price": 870.0,
     "name": "安全与信任"
   },
-  "promedio": 869.3,
+  "promedio": 869.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
