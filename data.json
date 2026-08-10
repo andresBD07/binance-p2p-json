@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-10T06:18:21.437552",
-  "actualizado_vzla": "2026-08-10 02:18:21 -04",
+  "timestamp_utc": "2026-08-10T08:10:30.104091",
+  "actualizado_vzla": "2026-08-10 04:10:30 -04",
   "compra_segundo": {
-    "price": 865.99,
-    "name": "Maleono"
+    "price": 866.0,
+    "name": "Power-STROKKER"
   },
   "venta_maxima": {
-    "price": 859.207,
-    "name": "CAMBIORAPID0S"
+    "price": 859.2,
+    "name": "BalduinoIV"
   },
   "promedio": 862.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
