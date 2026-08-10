@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T16:30:37.131617",
-  "actualizado_vzla": "2026-08-10 12:30:37 -04",
+  "timestamp_utc": "2026-08-10T17:30:41.218415",
+  "actualizado_vzla": "2026-08-10 13:30:41 -04",
   "compra_segundo": {
-    "price": 869.22,
-    "name": "ExpressCambiOriginal"
+    "price": 871.0,
+    "name": "Jesus200620"
   },
   "venta_maxima": {
-    "price": 874.001,
+    "price": 874.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 871.61,
+  "promedio": 872.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
