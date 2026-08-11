@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T15:08:23.598236",
-  "actualizado_vzla": "2026-08-11 11:08:23 -04",
+  "timestamp_utc": "2026-08-11T16:10:18.247379",
+  "actualizado_vzla": "2026-08-11 12:10:18 -04",
   "compra_segundo": {
-    "price": 868.8,
-    "name": "DJ-Trader"
+    "price": 869.649,
+    "name": "yoyocaco73"
   },
   "venta_maxima": {
-    "price": 872.0,
-    "name": "Blank_Mind"
+    "price": 870.0,
+    "name": "安全与信任"
   },
-  "promedio": 870.4,
+  "promedio": 869.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
