@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-10T23:29:13.781614",
-  "actualizado_vzla": "2026-08-10 19:29:13 -04",
+  "timestamp_utc": "2026-08-11T00:03:12.690309",
+  "actualizado_vzla": "2026-08-10 20:03:12 -04",
   "compra_segundo": {
-    "price": 869.889,
-    "name": "Juan15_7"
+    "price": 869.088,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
     "price": 869.0,
     "name": "安全与信任"
   },
-  "promedio": 869.44,
+  "promedio": 869.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
