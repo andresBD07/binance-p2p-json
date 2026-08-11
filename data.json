@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T06:11:02.553661",
-  "actualizado_vzla": "2026-08-11 02:11:02 -04",
+  "timestamp_utc": "2026-08-11T07:39:44.164319",
+  "actualizado_vzla": "2026-08-11 03:39:44 -04",
   "compra_segundo": {
-    "price": 870.0,
-    "name": "WorldTradeinCripto"
+    "price": 870.1,
+    "name": "Coinrich17"
   },
   "venta_maxima": {
-    "price": 866.0,
-    "name": "YAMISENSEI"
+    "price": 865.001,
+    "name": "ArepaConCafe"
   },
-  "promedio": 868.0,
+  "promedio": 867.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
