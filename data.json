@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T11:28:53.864732",
-  "actualizado_vzla": "2026-08-11 07:28:53 -04",
+  "timestamp_utc": "2026-08-11T12:25:28.166269",
+  "actualizado_vzla": "2026-08-11 08:25:28 -04",
   "compra_segundo": {
-    "price": 868.319,
-    "name": "CambiosFlassh"
+    "price": 866.95,
+    "name": "BlockArbi-X"
   },
   "venta_maxima": {
-    "price": 866.5,
+    "price": 867.5,
     "name": "-AMATERATSU-"
   },
-  "promedio": 867.41,
+  "promedio": 867.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
