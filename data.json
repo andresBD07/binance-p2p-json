@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T13:57:26.872632",
-  "actualizado_vzla": "2026-08-11 09:57:26 -04",
+  "timestamp_utc": "2026-08-11T15:08:23.598236",
+  "actualizado_vzla": "2026-08-11 11:08:23 -04",
   "compra_segundo": {
-    "price": 867.45,
-    "name": "DopaP2P"
+    "price": 868.8,
+    "name": "DJ-Trader"
   },
   "venta_maxima": {
-    "price": 866.5,
-    "name": "Trust-Broker"
+    "price": 872.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 866.98,
+  "promedio": 870.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
