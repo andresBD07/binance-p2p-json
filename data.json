@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T12:25:28.166269",
-  "actualizado_vzla": "2026-08-11 08:25:28 -04",
+  "timestamp_utc": "2026-08-11T13:57:26.872632",
+  "actualizado_vzla": "2026-08-11 09:57:26 -04",
   "compra_segundo": {
-    "price": 866.95,
-    "name": "BlockArbi-X"
+    "price": 867.45,
+    "name": "DopaP2P"
   },
   "venta_maxima": {
-    "price": 867.5,
-    "name": "-AMATERATSU-"
+    "price": 866.5,
+    "name": "Trust-Broker"
   },
-  "promedio": 867.23,
+  "promedio": 866.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
