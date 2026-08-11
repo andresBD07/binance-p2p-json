@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T02:23:34.209055",
-  "actualizado_vzla": "2026-08-10 22:23:34 -04",
+  "timestamp_utc": "2026-08-11T04:00:11.020587",
+  "actualizado_vzla": "2026-08-11 00:00:11 -04",
   "compra_segundo": {
-    "price": 869.5,
-    "name": "raParadas-31"
+    "price": 869.601,
+    "name": "JM2026"
   },
   "venta_maxima": {
-    "price": 869.5,
-    "name": "-AMATERATSU-"
+    "price": 868.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 869.5,
+  "promedio": 868.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
