@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T21:05:41.858517",
-  "actualizado_vzla": "2026-08-11 17:05:41 -04",
+  "timestamp_utc": "2026-08-11T22:02:39.814731",
+  "actualizado_vzla": "2026-08-11 18:02:39 -04",
   "compra_segundo": {
-    "price": 877.74,
-    "name": "Yamato-Exchange"
+    "price": 878.24,
+    "name": "bigmitchum"
   },
   "venta_maxima": {
-    "price": 875.5,
-    "name": "Gatsby_24"
+    "price": 875.42,
+    "name": "BOLO-USDT"
   },
-  "promedio": 876.62,
+  "promedio": 876.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
