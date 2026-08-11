@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T09:41:43.014359",
-  "actualizado_vzla": "2026-08-11 05:41:43 -04",
+  "timestamp_utc": "2026-08-11T10:35:52.748937",
+  "actualizado_vzla": "2026-08-11 06:35:52 -04",
   "compra_segundo": {
-    "price": 869.9,
-    "name": "eduardo94268"
+    "price": 868.999,
+    "name": "CapitalTrade_P2P"
   },
   "venta_maxima": {
-    "price": 865.001,
-    "name": "ArepaConCafe"
+    "price": 865.5,
+    "name": "QueRapido"
   },
-  "promedio": 867.45,
+  "promedio": 867.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
