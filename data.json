@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T17:13:54.322859",
-  "actualizado_vzla": "2026-08-11 13:13:54 -04",
+  "timestamp_utc": "2026-08-11T18:09:51.793932",
+  "actualizado_vzla": "2026-08-11 14:09:51 -04",
   "compra_segundo": {
-    "price": 869.97,
-    "name": "YisusOwl28"
+    "price": 870.799,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
-    "price": 870.0,
-    "name": "Blank_Mind"
+    "price": 871.1,
+    "name": "LEYENDAOTC"
   },
-  "promedio": 869.99,
+  "promedio": 870.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
