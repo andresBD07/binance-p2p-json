@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T19:28:35.268928",
-  "actualizado_vzla": "2026-08-12 15:28:35 -04",
+  "timestamp_utc": "2026-08-12T20:18:20.131353",
+  "actualizado_vzla": "2026-08-12 16:18:20 -04",
   "compra_segundo": {
-    "price": 879.149,
-    "name": "ECOcambio"
+    "price": 880.95,
+    "name": "IronCladP2P"
   },
   "venta_maxima": {
     "price": 879.0,
     "name": "LEYENDAOTC"
   },
-  "promedio": 879.07,
+  "promedio": 879.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
