@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T21:09:09.947236",
-  "actualizado_vzla": "2026-08-12 17:09:09 -04",
+  "timestamp_utc": "2026-08-12T22:02:55.566454",
+  "actualizado_vzla": "2026-08-12 18:02:55 -04",
   "compra_segundo": {
-    "price": 881.59,
-    "name": "Vanguard_Crypto"
+    "price": 882.44,
+    "name": "ROCKandROLL08"
   },
   "venta_maxima": {
-    "price": 881.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 883.1,
+    "name": "BLACKROCK22"
   },
-  "promedio": 881.3,
+  "promedio": 882.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
