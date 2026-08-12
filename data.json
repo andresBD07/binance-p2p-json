@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T18:10:41.096754",
-  "actualizado_vzla": "2026-08-12 14:10:41 -04",
+  "timestamp_utc": "2026-08-12T19:28:35.268928",
+  "actualizado_vzla": "2026-08-12 15:28:35 -04",
   "compra_segundo": {
-    "price": 879.4,
-    "name": "J17CS"
+    "price": 879.149,
+    "name": "ECOcambio"
   },
   "venta_maxima": {
-    "price": 881.0,
-    "name": "-Akopan-"
+    "price": 879.0,
+    "name": "LEYENDAOTC"
   },
-  "promedio": 880.2,
+  "promedio": 879.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
