@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T20:18:20.131353",
-  "actualizado_vzla": "2026-08-12 16:18:20 -04",
+  "timestamp_utc": "2026-08-12T21:09:09.947236",
+  "actualizado_vzla": "2026-08-12 17:09:09 -04",
   "compra_segundo": {
-    "price": 880.95,
-    "name": "IronCladP2P"
+    "price": 881.59,
+    "name": "Vanguard_Crypto"
   },
   "venta_maxima": {
-    "price": 879.0,
-    "name": "LEYENDAOTC"
+    "price": 881.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 879.98,
+  "promedio": 881.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
