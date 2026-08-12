@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T06:54:45.468268",
-  "actualizado_vzla": "2026-08-12 02:54:45 -04",
+  "timestamp_utc": "2026-08-12T08:22:02.045527",
+  "actualizado_vzla": "2026-08-12 04:22:02 -04",
   "compra_segundo": {
-    "price": 876.778,
-    "name": "JPapaupa_Cripto"
+    "price": 876.899,
+    "name": "Rentable"
   },
   "venta_maxima": {
-    "price": 872.1,
-    "name": "Fortu_new"
+    "price": 870.23,
+    "name": "CesarRodriguez53"
   },
-  "promedio": 874.44,
+  "promedio": 873.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
