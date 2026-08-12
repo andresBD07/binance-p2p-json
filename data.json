@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T12:30:29.399294",
-  "actualizado_vzla": "2026-08-12 08:30:29 -04",
+  "timestamp_utc": "2026-08-12T14:02:56.863833",
+  "actualizado_vzla": "2026-08-12 10:02:56 -04",
   "compra_segundo": {
-    "price": 876.38,
-    "name": "財源廣進"
+    "price": 878.995,
+    "name": "yoyocaco73"
   },
   "venta_maxima": {
-    "price": 876.0,
+    "price": 879.0,
     "name": "安全与信任"
   },
-  "promedio": 876.19,
+  "promedio": 879.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
