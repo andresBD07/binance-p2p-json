@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-11T23:51:53.622050",
-  "actualizado_vzla": "2026-08-11 19:51:53 -04",
+  "timestamp_utc": "2026-08-12T01:45:30.001579",
+  "actualizado_vzla": "2026-08-11 21:45:30 -04",
   "compra_segundo": {
-    "price": 876.597,
-    "name": "ledezmagm"
+    "price": 875.6,
+    "name": "zoecambios_21"
   },
   "venta_maxima": {
-    "price": 876.0,
-    "name": "Cross-26"
+    "price": 875.0,
+    "name": "安全与信任"
   },
-  "promedio": 876.3,
+  "promedio": 875.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
