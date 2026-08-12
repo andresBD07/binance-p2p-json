@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T16:10:51.794912",
-  "actualizado_vzla": "2026-08-12 12:10:51 -04",
+  "timestamp_utc": "2026-08-12T17:14:37.711935",
+  "actualizado_vzla": "2026-08-12 13:14:37 -04",
   "compra_segundo": {
-    "price": 881.09,
-    "name": "Melani_sublimascione"
+    "price": 880.6,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 881.0,
+    "price": 879.5,
     "name": "LEYENDAOTC"
   },
-  "promedio": 881.05,
+  "promedio": 880.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
