@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-12T09:39:35.332146",
-  "actualizado_vzla": "2026-08-12 05:39:35 -04",
+  "timestamp_utc": "2026-08-12T10:43:09.211802",
+  "actualizado_vzla": "2026-08-12 06:43:09 -04",
   "compra_segundo": {
-    "price": 876.777,
-    "name": "CHICLE_BOMBA"
+    "price": 875.7,
+    "name": "kikediaz02"
   },
   "venta_maxima": {
-    "price": 870.23,
-    "name": "CesarRodriguez53"
+    "price": 871.5,
+    "name": "FlashRaid"
   },
-  "promedio": 873.5,
+  "promedio": 873.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
