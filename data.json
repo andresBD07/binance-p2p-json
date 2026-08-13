@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T20:06:32.703290",
-  "actualizado_vzla": "2026-08-13 16:06:32 -04",
+  "timestamp_utc": "2026-08-13T21:01:35.576252",
+  "actualizado_vzla": "2026-08-13 17:01:35 -04",
   "compra_segundo": {
-    "price": 888.8,
-    "name": "░▒▓█  JeanPacheco"
+    "price": 894.499,
+    "name": "HilianaNV"
   },
   "venta_maxima": {
-    "price": 889.5,
-    "name": "贝HarveySpecter贝"
+    "price": 894.004,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 889.15,
+  "promedio": 894.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
