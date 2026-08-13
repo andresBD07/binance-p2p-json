@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T11:37:35.742567",
-  "actualizado_vzla": "2026-08-13 07:37:35 -04",
+  "timestamp_utc": "2026-08-13T12:32:25.745572",
+  "actualizado_vzla": "2026-08-13 08:32:25 -04",
   "compra_segundo": {
-    "price": 888.389,
-    "name": "CriptoTraderHub"
+    "price": 886.699,
+    "name": "EXCHANGE-PRO"
   },
   "venta_maxima": {
-    "price": 885.505,
+    "price": 885.7,
     "name": "Gustavo129"
   },
-  "promedio": 886.95,
+  "promedio": 886.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
