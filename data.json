@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T21:57:39.060746",
-  "actualizado_vzla": "2026-08-13 17:57:39 -04",
+  "timestamp_utc": "2026-08-13T22:53:47.550130",
+  "actualizado_vzla": "2026-08-13 18:53:47 -04",
   "compra_segundo": {
-    "price": 890.79,
-    "name": "Bull_Rrun_Trading"
+    "price": 891.369,
+    "name": "instantremitly "
   },
   "venta_maxima": {
-    "price": 892.3,
-    "name": "Cross-26"
+    "price": 895.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 891.54,
+  "promedio": 893.43,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
