@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T03:54:12.146168",
-  "actualizado_vzla": "2026-08-12 23:54:12 -04",
+  "timestamp_utc": "2026-08-13T05:42:25.535846",
+  "actualizado_vzla": "2026-08-13 01:42:25 -04",
   "compra_segundo": {
-    "price": 887.88,
-    "name": "JR_cryptoxchange"
+    "price": 888.3,
+    "name": "WillyWonka-"
   },
   "venta_maxima": {
-    "price": 883.7,
-    "name": "Lear71"
+    "price": 884.603,
+    "name": "BalduinoIV"
   },
-  "promedio": 885.79,
+  "promedio": 886.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
