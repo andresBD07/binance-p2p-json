@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T12:32:25.745572",
-  "actualizado_vzla": "2026-08-13 08:32:25 -04",
+  "timestamp_utc": "2026-08-13T14:04:51.409443",
+  "actualizado_vzla": "2026-08-13 10:04:51 -04",
   "compra_segundo": {
-    "price": 886.699,
-    "name": "EXCHANGE-PRO"
+    "price": 886.1,
+    "name": "ALTRIUM"
   },
   "venta_maxima": {
-    "price": 885.7,
-    "name": "Gustavo129"
+    "price": 888.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 886.2,
+  "promedio": 887.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
