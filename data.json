@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T08:40:42.434970",
-  "actualizado_vzla": "2026-08-13 04:40:42 -04",
+  "timestamp_utc": "2026-08-13T09:47:50.034676",
+  "actualizado_vzla": "2026-08-13 05:47:50 -04",
   "compra_segundo": {
-    "price": 888.856,
-    "name": "JugadorFranquiicia1"
+    "price": 888.9,
+    "name": "Osu199x"
   },
   "venta_maxima": {
-    "price": 883.5,
+    "price": 884.1,
     "name": "REY_SALOMON_CRIPTO"
   },
-  "promedio": 886.18,
+  "promedio": 886.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
