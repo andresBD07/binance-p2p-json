@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T07:02:57.109434",
-  "actualizado_vzla": "2026-08-13 03:02:57 -04",
+  "timestamp_utc": "2026-08-13T08:40:42.434970",
+  "actualizado_vzla": "2026-08-13 04:40:42 -04",
   "compra_segundo": {
-    "price": 889.0,
-    "name": "Jesus-X"
+    "price": 888.856,
+    "name": "JugadorFranquiicia1"
   },
   "venta_maxima": {
-    "price": 883.3,
-    "name": "Angelojbs"
+    "price": 883.5,
+    "name": "REY_SALOMON_CRIPTO"
   },
-  "promedio": 886.15,
+  "promedio": 886.18,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
