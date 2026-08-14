@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T20:07:15.068239",
-  "actualizado_vzla": "2026-08-14 16:07:15 -04",
+  "timestamp_utc": "2026-08-14T20:44:31.738229",
+  "actualizado_vzla": "2026-08-14 16:44:31 -04",
   "compra_segundo": {
-    "price": 882.2,
-    "name": "User-95450"
+    "price": 883.5,
+    "name": "Kalevv"
   },
   "venta_maxima": {
     "price": 886.5,
-    "name": "TH3K1NGP2P"
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 884.35,
+  "promedio": 885.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
