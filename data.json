@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-13T23:43:21.445363",
-  "actualizado_vzla": "2026-08-13 19:43:21 -04",
+  "timestamp_utc": "2026-08-14T00:44:13.608227",
+  "actualizado_vzla": "2026-08-13 20:44:13 -04",
   "compra_segundo": {
-    "price": 890.8,
-    "name": "AM_BovedaActiva"
+    "price": 889.0,
+    "name": "Elly_Crypto_"
   },
   "venta_maxima": {
-    "price": 890.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 888.5,
+    "name": "活着的价值"
   },
-  "promedio": 890.65,
+  "promedio": 888.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
