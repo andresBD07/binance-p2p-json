@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T21:42:30.432773",
-  "actualizado_vzla": "2026-08-14 17:42:30 -04",
+  "timestamp_utc": "2026-08-14T22:01:00.368307",
+  "actualizado_vzla": "2026-08-14 18:01:00 -04",
   "compra_segundo": {
-    "price": 882.94,
-    "name": "GodisTrust"
+    "price": 882.655,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
-    "price": 881.2,
-    "name": "doctor_zoidberg"
+    "price": 883.0,
+    "name": "Cross-26"
   },
-  "promedio": 882.07,
+  "promedio": 882.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
