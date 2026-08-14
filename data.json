@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T19:32:59.389512",
-  "actualizado_vzla": "2026-08-14 15:32:59 -04",
+  "timestamp_utc": "2026-08-14T20:07:15.068239",
+  "actualizado_vzla": "2026-08-14 16:07:15 -04",
   "compra_segundo": {
-    "price": 882.0,
-    "name": "CambiosToGo"
+    "price": 882.2,
+    "name": "User-95450"
   },
   "venta_maxima": {
-    "price": 883.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 886.5,
+    "name": "TH3K1NGP2P"
   },
-  "promedio": 882.5,
+  "promedio": 884.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
