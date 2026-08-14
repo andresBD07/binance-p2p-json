@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T03:14:51.093029",
-  "actualizado_vzla": "2026-08-13 23:14:51 -04",
+  "timestamp_utc": "2026-08-14T05:09:20.515917",
+  "actualizado_vzla": "2026-08-14 01:09:20 -04",
   "compra_segundo": {
-    "price": 887.0,
-    "name": "walner17"
+    "price": 888.199,
+    "name": "x88rising"
   },
   "venta_maxima": {
-    "price": 884.505,
-    "name": "贝HarveySpecter贝"
+    "price": 884.5,
+    "name": "AmigoTrading"
   },
-  "promedio": 885.75,
+  "promedio": 886.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
