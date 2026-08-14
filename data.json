@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T21:10:45.133450",
-  "actualizado_vzla": "2026-08-14 17:10:45 -04",
+  "timestamp_utc": "2026-08-14T21:42:30.432773",
+  "actualizado_vzla": "2026-08-14 17:42:30 -04",
   "compra_segundo": {
-    "price": 883.8,
-    "name": "ChrisPerez"
+    "price": 882.94,
+    "name": "GodisTrust"
   },
   "venta_maxima": {
-    "price": 884.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 881.2,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 884.15,
+  "promedio": 882.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
