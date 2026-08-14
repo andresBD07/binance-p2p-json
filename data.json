@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T08:03:30.344608",
-  "actualizado_vzla": "2026-08-14 04:03:30 -04",
+  "timestamp_utc": "2026-08-14T09:17:26.633530",
+  "actualizado_vzla": "2026-08-14 05:17:26 -04",
   "compra_segundo": {
-    "price": 888.3,
-    "name": "WillyWonka-"
+    "price": 887.8,
+    "name": "GJCB_Trader"
   },
   "venta_maxima": {
-    "price": 883.15,
-    "name": "AT80CAMBIOS"
+    "price": 882.5,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 885.72,
+  "promedio": 885.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
