@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-14T06:43:12.847432",
-  "actualizado_vzla": "2026-08-14 02:43:12 -04",
+  "timestamp_utc": "2026-08-14T08:03:30.344608",
+  "actualizado_vzla": "2026-08-14 04:03:30 -04",
   "compra_segundo": {
-    "price": 888.199,
-    "name": "x88rising"
+    "price": 888.3,
+    "name": "WillyWonka-"
   },
   "venta_maxima": {
-    "price": 883.25,
-    "name": "ReadyToTrade_"
+    "price": 883.15,
+    "name": "AT80CAMBIOS"
   },
   "promedio": 885.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
