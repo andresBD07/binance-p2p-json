@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T17:33:25.596514",
-  "actualizado_vzla": "2026-08-14 13:33:25 -04",
+  "timestamp_utc": "2026-08-14T18:30:01.133043",
+  "actualizado_vzla": "2026-08-14 14:30:01 -04",
   "compra_segundo": {
-    "price": 877.3,
-    "name": "CarlosBelloNexoCapit"
+    "price": 876.99,
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
-    "price": 875.5,
-    "name": "Gatsby_24"
+    "price": 879.0,
+    "name": "CCST"
   },
-  "promedio": 876.4,
+  "promedio": 878.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
