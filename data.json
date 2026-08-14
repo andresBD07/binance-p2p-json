@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T16:30:23.364411",
-  "actualizado_vzla": "2026-08-14 12:30:23 -04",
+  "timestamp_utc": "2026-08-14T17:33:25.596514",
+  "actualizado_vzla": "2026-08-14 13:33:25 -04",
   "compra_segundo": {
-    "price": 872.38,
-    "name": "RapidEnvios"
+    "price": 877.3,
+    "name": "CarlosBelloNexoCapit"
   },
   "venta_maxima": {
-    "price": 872.55,
-    "name": "Kw2"
+    "price": 875.5,
+    "name": "Gatsby_24"
   },
-  "promedio": 872.46,
+  "promedio": 876.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
