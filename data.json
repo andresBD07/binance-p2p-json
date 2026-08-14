@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T14:40:49.105523",
-  "actualizado_vzla": "2026-08-14 10:40:49 -04",
+  "timestamp_utc": "2026-08-14T15:35:41.226447",
+  "actualizado_vzla": "2026-08-14 11:35:41 -04",
   "compra_segundo": {
-    "price": 882.499,
-    "name": "S3bss_Exchang3"
+    "price": 878.95,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 884.0,
+    "price": 878.0,
     "name": "GAMBINO-"
   },
-  "promedio": 883.25,
+  "promedio": 878.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
