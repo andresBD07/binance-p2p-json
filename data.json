@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T22:35:23.009302",
-  "actualizado_vzla": "2026-08-14 18:35:23 -04",
+  "timestamp_utc": "2026-08-14T22:57:52.731053",
+  "actualizado_vzla": "2026-08-14 18:57:52 -04",
   "compra_segundo": {
-    "price": 882.43,
-    "name": "圎Sushi"
+    "price": 881.98,
+    "name": "YisusOwl28"
   },
   "venta_maxima": {
-    "price": 882.5,
+    "price": 881.0,
     "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 882.46,
+  "promedio": 881.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
