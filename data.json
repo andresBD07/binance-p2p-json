@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T22:01:00.368307",
-  "actualizado_vzla": "2026-08-14 18:01:00 -04",
+  "timestamp_utc": "2026-08-14T22:35:23.009302",
+  "actualizado_vzla": "2026-08-14 18:35:23 -04",
   "compra_segundo": {
-    "price": 882.655,
-    "name": "chichiwilote"
+    "price": 882.43,
+    "name": "圎Sushi"
   },
   "venta_maxima": {
-    "price": 883.0,
-    "name": "Cross-26"
+    "price": 882.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 882.83,
+  "promedio": 882.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
