@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-14T23:54:46.426461",
-  "actualizado_vzla": "2026-08-14 19:54:46 -04",
+  "timestamp_utc": "2026-08-15T01:36:01.195940",
+  "actualizado_vzla": "2026-08-14 21:36:01 -04",
   "compra_segundo": {
-    "price": 881.2,
-    "name": "Softcore"
+    "price": 881.809,
+    "name": "TwoDiaz"
   },
   "venta_maxima": {
-    "price": 882.3,
-    "name": "RicoMcPato_3minutos"
+    "price": 880.805,
+    "name": "CHAPMANGOLD_TRADING"
   },
-  "promedio": 881.75,
+  "promedio": 881.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
