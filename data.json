@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T17:53:33.604969",
-  "actualizado_vzla": "2026-08-15 13:53:33 -04",
+  "timestamp_utc": "2026-08-15T18:31:53.391179",
+  "actualizado_vzla": "2026-08-15 14:31:53 -04",
   "compra_segundo": {
-    "price": 872.999,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 874.85,
+    "name": "Diego"
   },
   "venta_maxima": {
-    "price": 875.0,
-    "name": "Blank_Mind"
+    "price": 875.5,
+    "name": "SasukeTrader"
   },
-  "promedio": 874.0,
+  "promedio": 875.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
