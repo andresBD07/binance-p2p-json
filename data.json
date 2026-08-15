@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T05:43:00.094833",
-  "actualizado_vzla": "2026-08-15 01:43:00 -04",
+  "timestamp_utc": "2026-08-15T06:02:19.566903",
+  "actualizado_vzla": "2026-08-15 02:02:19 -04",
   "compra_segundo": {
     "price": 885.0,
     "name": "JLACOIN"
   },
   "venta_maxima": {
-    "price": 882.5,
+    "price": 883.0,
     "name": "doctor_zoidberg"
   },
-  "promedio": 883.75,
+  "promedio": 884.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
