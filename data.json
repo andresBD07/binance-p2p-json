@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T21:52:39.457831",
-  "actualizado_vzla": "2026-08-15 17:52:39 -04",
+  "timestamp_utc": "2026-08-15T22:19:47.475827",
+  "actualizado_vzla": "2026-08-15 18:19:47 -04",
   "compra_segundo": {
-    "price": 873.0,
-    "name": "Cambiosbraycar"
+    "price": 873.499,
+    "name": "JS_Valentine"
   },
   "venta_maxima": {
-    "price": 872.8,
-    "name": "TradeLion2026"
+    "price": 873.0,
+    "name": "angelchacon"
   },
-  "promedio": 872.9,
+  "promedio": 873.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
