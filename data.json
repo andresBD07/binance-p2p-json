@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T14:54:45.861581",
-  "actualizado_vzla": "2026-08-15 10:54:45 -04",
+  "timestamp_utc": "2026-08-15T15:25:58.639562",
+  "actualizado_vzla": "2026-08-15 11:25:58 -04",
   "compra_segundo": {
-    "price": 878.2,
-    "name": "CarlaM-1002"
+    "price": 877.8,
+    "name": "Nezuco05"
   },
   "venta_maxima": {
     "price": 879.0,
     "name": "SasukeTrader"
   },
-  "promedio": 878.6,
+  "promedio": 878.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
