@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T04:03:24.704470",
-  "actualizado_vzla": "2026-08-15 00:03:24 -04",
+  "timestamp_utc": "2026-08-15T04:43:37.556509",
+  "actualizado_vzla": "2026-08-15 00:43:37 -04",
   "compra_segundo": {
-    "price": 884.68,
-    "name": "MandoCripto"
+    "price": 884.799,
+    "name": "marote28"
   },
   "venta_maxima": {
-    "price": 881.2,
-    "name": "RuizJr02"
+    "price": 881.1,
+    "name": "los100cien"
   },
-  "promedio": 882.94,
+  "promedio": 882.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
