@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T01:36:01.195940",
-  "actualizado_vzla": "2026-08-14 21:36:01 -04",
+  "timestamp_utc": "2026-08-15T02:37:26.817528",
+  "actualizado_vzla": "2026-08-14 22:37:26 -04",
   "compra_segundo": {
-    "price": 881.809,
-    "name": "TwoDiaz"
+    "price": 883.0,
+    "name": "WillyWonka-"
   },
   "venta_maxima": {
-    "price": 880.805,
-    "name": "CHAPMANGOLD_TRADING"
+    "price": 882.0,
+    "name": "我米德克"
   },
-  "promedio": 881.31,
+  "promedio": 882.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
