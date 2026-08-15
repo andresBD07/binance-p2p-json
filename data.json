@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-15T08:38:43.981091",
-  "actualizado_vzla": "2026-08-15 04:38:43 -04",
+  "timestamp_utc": "2026-08-15T09:02:17.061399",
+  "actualizado_vzla": "2026-08-15 05:02:17 -04",
   "compra_segundo": {
     "price": 885.999,
-    "name": "CapitalTrade_P2P"
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
     "price": 880.2,
-    "name": "Fofospress"
+    "name": "NovaCambio"
   },
   "promedio": 883.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
