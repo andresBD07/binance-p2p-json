@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T03:22:39.037067",
-  "actualizado_vzla": "2026-08-14 23:22:39 -04",
+  "timestamp_utc": "2026-08-15T04:03:24.704470",
+  "actualizado_vzla": "2026-08-15 00:03:24 -04",
   "compra_segundo": {
-    "price": 884.0,
-    "name": "Daikokuten-Finance"
+    "price": 884.68,
+    "name": "MandoCripto"
   },
   "venta_maxima": {
-    "price": 882.208,
-    "name": "TOPlevelS"
+    "price": 881.2,
+    "name": "RuizJr02"
   },
-  "promedio": 883.1,
+  "promedio": 882.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
