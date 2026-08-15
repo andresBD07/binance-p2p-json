@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T20:41:54.041236",
-  "actualizado_vzla": "2026-08-15 16:41:54 -04",
+  "timestamp_utc": "2026-08-15T21:01:29.861293",
+  "actualizado_vzla": "2026-08-15 17:01:29 -04",
   "compra_segundo": {
-    "price": 872.65,
-    "name": "FABIP2"
+    "price": 872.99,
+    "name": "walner17"
   },
   "venta_maxima": {
-    "price": 873.6,
-    "name": "Blank_Mind"
+    "price": 874.0,
+    "name": "TradeLion2026"
   },
-  "promedio": 873.12,
+  "promedio": 873.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
