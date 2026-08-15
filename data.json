@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T12:54:55.573830",
-  "actualizado_vzla": "2026-08-15 08:54:55 -04",
+  "timestamp_utc": "2026-08-15T13:34:29.943548",
+  "actualizado_vzla": "2026-08-15 09:34:29 -04",
   "compra_segundo": {
-    "price": 881.0,
-    "name": "EL_MARA_CAMBIOS"
+    "price": 880.499,
+    "name": "quiander08"
   },
   "venta_maxima": {
-    "price": 879.501,
+    "price": 879.0,
     "name": "Blank_Mind"
   },
-  "promedio": 880.25,
+  "promedio": 879.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
