@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T07:34:14.180958",
-  "actualizado_vzla": "2026-08-15 03:34:14 -04",
+  "timestamp_utc": "2026-08-15T07:57:27.573688",
+  "actualizado_vzla": "2026-08-15 03:57:27 -04",
   "compra_segundo": {
-    "price": 885.5,
-    "name": "Llaquemate"
+    "price": 885.999,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 881.0,
-    "name": "YAMISENSEI"
+    "price": 880.002,
+    "name": "Molyflash777"
   },
-  "promedio": 883.25,
+  "promedio": 883.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
