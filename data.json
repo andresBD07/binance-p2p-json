@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T21:01:29.861293",
-  "actualizado_vzla": "2026-08-15 17:01:29 -04",
+  "timestamp_utc": "2026-08-15T21:31:15.380600",
+  "actualizado_vzla": "2026-08-15 17:31:15 -04",
   "compra_segundo": {
-    "price": 872.99,
-    "name": "walner17"
+    "price": 873.9,
+    "name": "TokenSwift"
   },
   "venta_maxima": {
-    "price": 874.0,
+    "price": 873.6,
     "name": "TradeLion2026"
   },
-  "promedio": 873.5,
+  "promedio": 873.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
