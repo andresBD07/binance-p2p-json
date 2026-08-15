@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T19:49:54.930130",
-  "actualizado_vzla": "2026-08-15 15:49:54 -04",
+  "timestamp_utc": "2026-08-15T20:13:23.588014",
+  "actualizado_vzla": "2026-08-15 16:13:23 -04",
   "compra_segundo": {
-    "price": 874.933,
-    "name": "TopPag0s"
+    "price": 874.0,
+    "name": "VeExpressLars"
   },
   "venta_maxima": {
-    "price": 876.0,
-    "name": "SasukeTrader"
+    "price": 875.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 875.47,
+  "promedio": 874.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
