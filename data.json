@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T11:46:05.384342",
-  "actualizado_vzla": "2026-08-15 07:46:05 -04",
+  "timestamp_utc": "2026-08-15T12:00:59.366382",
+  "actualizado_vzla": "2026-08-15 08:00:59 -04",
   "compra_segundo": {
-    "price": 884.48,
-    "name": "Vip_Super_p2p"
+    "price": 884.188,
+    "name": "anderrmg"
   },
   "venta_maxima": {
     "price": 881.5,
     "name": "los100cien"
   },
-  "promedio": 882.99,
+  "promedio": 882.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
