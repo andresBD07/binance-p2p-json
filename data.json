@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T20:13:23.588014",
-  "actualizado_vzla": "2026-08-15 16:13:23 -04",
+  "timestamp_utc": "2026-08-15T20:41:54.041236",
+  "actualizado_vzla": "2026-08-15 16:41:54 -04",
   "compra_segundo": {
-    "price": 874.0,
-    "name": "VeExpressLars"
+    "price": 872.65,
+    "name": "FABIP2"
   },
   "venta_maxima": {
-    "price": 875.5,
+    "price": 873.6,
     "name": "Blank_Mind"
   },
-  "promedio": 874.75,
+  "promedio": 873.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
