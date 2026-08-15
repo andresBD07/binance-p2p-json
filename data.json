@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T22:44:12.460512",
-  "actualizado_vzla": "2026-08-15 18:44:12 -04",
+  "timestamp_utc": "2026-08-15T23:00:56.415536",
+  "actualizado_vzla": "2026-08-15 19:00:56 -04",
   "compra_segundo": {
-    "price": 873.7,
-    "name": "Fast-CambiosSeguro-"
+    "price": 873.89,
+    "name": "EKExpress"
   },
   "venta_maxima": {
-    "price": 873.05,
-    "name": "angelchacon"
+    "price": 873.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 873.38,
+  "promedio": 873.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
