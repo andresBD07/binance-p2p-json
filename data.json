@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-15T13:57:04.306206",
-  "actualizado_vzla": "2026-08-15 09:57:04 -04",
+  "timestamp_utc": "2026-08-15T14:31:30.656957",
+  "actualizado_vzla": "2026-08-15 10:31:30 -04",
   "compra_segundo": {
-    "price": 878.5,
-    "name": "Inversiones-Kary"
+    "price": 877.989,
+    "name": "Jessica1003"
   },
   "venta_maxima": {
-    "price": 878.0,
+    "price": 878.5,
     "name": "Blank_Mind"
   },
-  "promedio": 878.25,
+  "promedio": 878.24,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
