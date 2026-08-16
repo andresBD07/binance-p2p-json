@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T14:35:25.441488",
-  "actualizado_vzla": "2026-08-16 10:35:25 -04",
+  "timestamp_utc": "2026-08-16T14:57:51.327072",
+  "actualizado_vzla": "2026-08-16 10:57:51 -04",
   "compra_segundo": {
-    "price": 874.28,
-    "name": "JDVR_05"
+    "price": 874.29,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 872.9,
-    "name": "angelchacon"
+    "price": 872.0,
+    "name": "Escocrida"
   },
-  "promedio": 873.59,
+  "promedio": 873.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
