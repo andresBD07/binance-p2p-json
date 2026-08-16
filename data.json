@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T04:55:06.118758",
-  "actualizado_vzla": "2026-08-16 00:55:06 -04",
+  "timestamp_utc": "2026-08-16T05:33:06.108972",
+  "actualizado_vzla": "2026-08-16 01:33:06 -04",
   "compra_segundo": {
-    "price": 874.8,
-    "name": "raParadas-31"
+    "price": 874.987,
+    "name": "SeguroVeloz"
   },
   "venta_maxima": {
-    "price": 870.05,
-    "name": "MIDAS14"
+    "price": 870.3,
+    "name": "Wil2589"
   },
-  "promedio": 872.42,
+  "promedio": 872.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
