@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T06:53:43.008797",
-  "actualizado_vzla": "2026-08-16 02:53:43 -04",
+  "timestamp_utc": "2026-08-16T07:32:39.881043",
+  "actualizado_vzla": "2026-08-16 03:32:39 -04",
   "compra_segundo": {
-    "price": 875.29,
-    "name": "trade-key"
+    "price": 875.4,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
-    "price": 870.1,
-    "name": "MIDAS14"
+    "price": 870.0,
+    "name": "Rous_Only"
   },
-  "promedio": 872.69,
+  "promedio": 872.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
