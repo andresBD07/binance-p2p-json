@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T10:33:02.875124",
-  "actualizado_vzla": "2026-08-16 06:33:02 -04",
+  "timestamp_utc": "2026-08-16T10:55:36.538373",
+  "actualizado_vzla": "2026-08-16 06:55:36 -04",
   "compra_segundo": {
-    "price": 875.0,
-    "name": "CaroraExchange"
+    "price": 874.96,
+    "name": "Blokchaiger"
   },
   "venta_maxima": {
-    "price": 870.0,
-    "name": "Rous_Only"
+    "price": 869.003,
+    "name": "CHAPMANGOLD_TRADING"
   },
-  "promedio": 872.5,
+  "promedio": 871.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
