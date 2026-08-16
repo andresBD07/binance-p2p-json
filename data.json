@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T21:30:30.265490",
-  "actualizado_vzla": "2026-08-16 17:30:30 -04",
+  "timestamp_utc": "2026-08-16T21:51:22.476935",
+  "actualizado_vzla": "2026-08-16 17:51:22 -04",
   "compra_segundo": {
-    "price": 870.499,
-    "name": "Jorgecamacaro79"
+    "price": 870.999,
+    "name": "Doctora_Pena"
   },
   "venta_maxima": {
-    "price": 868.5,
-    "name": "Rapidflorio84"
+    "price": 868.2,
+    "name": "TradeLion2026"
   },
-  "promedio": 869.5,
+  "promedio": 869.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
