@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T14:02:25.502052",
-  "actualizado_vzla": "2026-08-16 10:02:25 -04",
+  "timestamp_utc": "2026-08-16T14:35:25.441488",
+  "actualizado_vzla": "2026-08-16 10:35:25 -04",
   "compra_segundo": {
-    "price": 874.19,
-    "name": "KingTradeVzla"
+    "price": 874.28,
+    "name": "JDVR_05"
   },
   "venta_maxima": {
-    "price": 872.0,
-    "name": "novatecno"
+    "price": 872.9,
+    "name": "angelchacon"
   },
-  "promedio": 873.1,
+  "promedio": 873.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
