@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T21:00:07.601025",
-  "actualizado_vzla": "2026-08-16 17:00:07 -04",
+  "timestamp_utc": "2026-08-16T21:30:30.265490",
+  "actualizado_vzla": "2026-08-16 17:30:30 -04",
   "compra_segundo": {
-    "price": 870.5,
-    "name": "AlCambiorick"
+    "price": 870.499,
+    "name": "Jorgecamacaro79"
   },
   "venta_maxima": {
-    "price": 868.0,
-    "name": "GRUPOAVILA"
+    "price": 868.5,
+    "name": "Rapidflorio84"
   },
-  "promedio": 869.25,
+  "promedio": 869.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
