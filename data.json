@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T17:18:01.300541",
-  "actualizado_vzla": "2026-08-16 13:18:01 -04",
+  "timestamp_utc": "2026-08-16T17:40:08.591767",
+  "actualizado_vzla": "2026-08-16 13:40:08 -04",
   "compra_segundo": {
-    "price": 873.2,
-    "name": "CriptradeAEMS"
+    "price": 873.4,
+    "name": "EL-TIBURON-DEL-CRIPT"
   },
   "venta_maxima": {
-    "price": 870.65,
-    "name": "DavidCapital"
+    "price": 871.0,
+    "name": "Redmagic17"
   },
-  "promedio": 871.92,
+  "promedio": 872.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
