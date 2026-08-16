@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T10:55:36.538373",
-  "actualizado_vzla": "2026-08-16 06:55:36 -04",
+  "timestamp_utc": "2026-08-16T11:26:50.801176",
+  "actualizado_vzla": "2026-08-16 07:26:50 -04",
   "compra_segundo": {
-    "price": 874.96,
-    "name": "Blokchaiger"
+    "price": 874.799,
+    "name": "SLIPKNOTT"
   },
   "venta_maxima": {
-    "price": 869.003,
-    "name": "CHAPMANGOLD_TRADING"
+    "price": 869.0,
+    "name": "securitylc"
   },
-  "promedio": 871.98,
+  "promedio": 871.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
