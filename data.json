@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T04:17:40.348683",
-  "actualizado_vzla": "2026-08-16 00:17:40 -04",
+  "timestamp_utc": "2026-08-16T04:55:06.118758",
+  "actualizado_vzla": "2026-08-16 00:55:06 -04",
   "compra_segundo": {
-    "price": 874.84,
-    "name": "dannym12"
+    "price": 874.8,
+    "name": "raParadas-31"
   },
   "venta_maxima": {
-    "price": 871.0,
-    "name": "DanielAlex_01"
+    "price": 870.05,
+    "name": "MIDAS14"
   },
-  "promedio": 872.92,
+  "promedio": 872.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
