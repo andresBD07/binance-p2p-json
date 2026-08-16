@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T19:03:50.453900",
-  "actualizado_vzla": "2026-08-16 15:03:50 -04",
+  "timestamp_utc": "2026-08-16T19:30:36.312618",
+  "actualizado_vzla": "2026-08-16 15:30:36 -04",
   "compra_segundo": {
-    "price": 872.848,
-    "name": "Gibit"
+    "price": 871.978,
+    "name": "Bitcoin_Jrrv"
   },
   "venta_maxima": {
-    "price": 870.5,
-    "name": "SangetsuTrader"
+    "price": 870.03,
+    "name": "Pcambios10"
   },
-  "promedio": 871.67,
+  "promedio": 871.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
