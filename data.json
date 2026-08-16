@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T09:59:00.957327",
-  "actualizado_vzla": "2026-08-16 05:59:00 -04",
+  "timestamp_utc": "2026-08-16T10:33:02.875124",
+  "actualizado_vzla": "2026-08-16 06:33:02 -04",
   "compra_segundo": {
-    "price": 875.4,
-    "name": "ComercioJRG"
+    "price": 875.0,
+    "name": "CaroraExchange"
   },
   "venta_maxima": {
     "price": 870.0,
     "name": "Rous_Only"
   },
-  "promedio": 872.7,
+  "promedio": 872.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
