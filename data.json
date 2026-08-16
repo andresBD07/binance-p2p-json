@@ -1,9 +1,9 @@
 {
-  "timestamp_utc": "2026-08-16T08:39:28.900289",
-  "actualizado_vzla": "2026-08-16 04:39:28 -04",
+  "timestamp_utc": "2026-08-16T09:03:46.480786",
+  "actualizado_vzla": "2026-08-16 05:03:46 -04",
   "compra_segundo": {
-    "price": 875.399,
-    "name": "Juan15_7"
+    "price": 875.4,
+    "name": "ComercioJRG"
   },
   "venta_maxima": {
     "price": 870.0,
