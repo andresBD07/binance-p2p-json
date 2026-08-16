@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-08-16T15:30:17.716084",
-  "actualizado_vzla": "2026-08-16 11:30:17 -04",
+  "timestamp_utc": "2026-08-16T15:52:56.773935",
+  "actualizado_vzla": "2026-08-16 11:52:56 -04",
   "compra_segundo": {
-    "price": 873.9,
-    "name": "Elnegrop2p"
+    "price": 874.0,
+    "name": "OPABIANCHI"
   },
   "venta_maxima": {
-    "price": 871.6,
+    "price": 871.5,
     "name": "Spider-Nova"
   },
   "promedio": 872.75,
