@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T05:33:06.108972",
-  "actualizado_vzla": "2026-08-16 01:33:06 -04",
+  "timestamp_utc": "2026-08-16T05:58:22.371083",
+  "actualizado_vzla": "2026-08-16 01:58:22 -04",
   "compra_segundo": {
-    "price": 874.987,
-    "name": "SeguroVeloz"
+    "price": 875.0,
+    "name": "CaroraExchange"
   },
   "venta_maxima": {
-    "price": 870.3,
-    "name": "Wil2589"
+    "price": 870.1,
+    "name": "MIDAS14"
   },
-  "promedio": 872.64,
+  "promedio": 872.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
