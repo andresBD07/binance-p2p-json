@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T22:59:41.466619",
-  "actualizado_vzla": "2026-08-16 18:59:41 -04",
+  "timestamp_utc": "2026-08-16T23:29:41.629418",
+  "actualizado_vzla": "2026-08-16 19:29:41 -04",
   "compra_segundo": {
-    "price": 870.999,
-    "name": "JoelonN"
+    "price": 871.3,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
-    "price": 867.707,
-    "name": "TOPlevelS"
+    "price": 868.6,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 869.35,
+  "promedio": 869.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
