@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T18:39:58.440853",
-  "actualizado_vzla": "2026-08-16 14:39:58 -04",
+  "timestamp_utc": "2026-08-16T19:03:50.453900",
+  "actualizado_vzla": "2026-08-16 15:03:50 -04",
   "compra_segundo": {
-    "price": 872.8,
-    "name": "User-95450"
+    "price": 872.848,
+    "name": "Gibit"
   },
   "venta_maxima": {
-    "price": 870.2,
-    "name": "BOLO-USDT"
+    "price": 870.5,
+    "name": "SangetsuTrader"
   },
-  "promedio": 871.5,
+  "promedio": 871.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
