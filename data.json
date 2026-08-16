@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T20:41:02.415823",
-  "actualizado_vzla": "2026-08-16 16:41:02 -04",
+  "timestamp_utc": "2026-08-16T21:00:07.601025",
+  "actualizado_vzla": "2026-08-16 17:00:07 -04",
   "compra_segundo": {
-    "price": 871.13,
-    "name": "Fuenmaaa"
+    "price": 870.5,
+    "name": "AlCambiorick"
   },
   "venta_maxima": {
     "price": 868.0,
     "name": "GRUPOAVILA"
   },
-  "promedio": 869.57,
+  "promedio": 869.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
