@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T16:24:48.173409",
-  "actualizado_vzla": "2026-08-16 12:24:48 -04",
+  "timestamp_utc": "2026-08-16T16:52:26.697817",
+  "actualizado_vzla": "2026-08-16 12:52:26 -04",
   "compra_segundo": {
-    "price": 873.389,
-    "name": "Doctor_Vargas"
+    "price": 873.2,
+    "name": "HectorljD"
   },
   "venta_maxima": {
-    "price": 871.5,
-    "name": "Spider-Nova"
+    "price": 870.8,
+    "name": "加密操作"
   },
-  "promedio": 872.44,
+  "promedio": 872.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
