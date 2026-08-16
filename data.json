@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T23:29:41.629418",
-  "actualizado_vzla": "2026-08-16 19:29:41 -04",
+  "timestamp_utc": "2026-08-16T23:50:59.916022",
+  "actualizado_vzla": "2026-08-16 19:50:59 -04",
   "compra_segundo": {
-    "price": 871.3,
-    "name": "CryptoSickoP2P"
+    "price": 871.87,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 868.6,
-    "name": "DOCTOR_CAMBIO"
+    "price": 870.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 869.95,
+  "promedio": 870.93,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
