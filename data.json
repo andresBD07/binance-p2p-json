@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T21:51:22.476935",
-  "actualizado_vzla": "2026-08-16 17:51:22 -04",
+  "timestamp_utc": "2026-08-16T22:16:03.329470",
+  "actualizado_vzla": "2026-08-16 18:16:03 -04",
   "compra_segundo": {
-    "price": 870.999,
-    "name": "Doctora_Pena"
+    "price": 871.249,
+    "name": "TwoDiaz"
   },
   "venta_maxima": {
     "price": 868.2,
     "name": "TradeLion2026"
   },
-  "promedio": 869.6,
+  "promedio": 869.72,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
