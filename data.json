@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T13:42:53.764186",
-  "actualizado_vzla": "2026-08-16 09:42:53 -04",
+  "timestamp_utc": "2026-08-16T14:02:25.502052",
+  "actualizado_vzla": "2026-08-16 10:02:25 -04",
   "compra_segundo": {
     "price": 874.19,
-    "name": "Cambios_fast54"
+    "name": "KingTradeVzla"
   },
   "venta_maxima": {
-    "price": 870.128,
-    "name": "TOPlevelS"
+    "price": 872.0,
+    "name": "novatecno"
   },
-  "promedio": 872.16,
+  "promedio": 873.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
