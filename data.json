@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T11:26:50.801176",
-  "actualizado_vzla": "2026-08-16 07:26:50 -04",
+  "timestamp_utc": "2026-08-16T11:48:59.211247",
+  "actualizado_vzla": "2026-08-16 07:48:59 -04",
   "compra_segundo": {
-    "price": 874.799,
-    "name": "SLIPKNOTT"
+    "price": 874.3,
+    "name": "Aalcripto"
   },
   "venta_maxima": {
-    "price": 869.0,
-    "name": "securitylc"
+    "price": 869.001,
+    "name": "Forex Exchange Global "
   },
-  "promedio": 871.9,
+  "promedio": 871.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
