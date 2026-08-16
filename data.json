@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T07:57:02.038388",
-  "actualizado_vzla": "2026-08-16 03:57:02 -04",
+  "timestamp_utc": "2026-08-16T08:39:28.900289",
+  "actualizado_vzla": "2026-08-16 04:39:28 -04",
   "compra_segundo": {
-    "price": 875.4,
-    "name": "ComercioJRG"
+    "price": 875.399,
+    "name": "Juan15_7"
   },
   "venta_maxima": {
-    "price": 869.0,
-    "name": "securitylc"
+    "price": 870.0,
+    "name": "Rous_Only"
   },
-  "promedio": 872.2,
+  "promedio": 872.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
