@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-16T23:50:59.916022",
-  "actualizado_vzla": "2026-08-16 19:50:59 -04",
+  "timestamp_utc": "2026-08-17T00:58:48.067396",
+  "actualizado_vzla": "2026-08-16 20:58:48 -04",
   "compra_segundo": {
-    "price": 871.87,
-    "name": "hc-investings"
+    "price": 873.0,
+    "name": "Elleonesleo"
   },
   "venta_maxima": {
-    "price": 870.0,
-    "name": "TOPlevelS"
+    "price": 869.5,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 870.93,
+  "promedio": 871.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
