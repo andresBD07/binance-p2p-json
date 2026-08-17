@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T15:19:28.065108",
-  "actualizado_vzla": "2026-08-17 11:19:28 -04",
+  "timestamp_utc": "2026-08-17T15:46:35.962127",
+  "actualizado_vzla": "2026-08-17 11:46:35 -04",
   "compra_segundo": {
-    "price": 878.7,
-    "name": "Lucky--Luciano"
+    "price": 879.95,
+    "name": "Juanvax"
   },
   "venta_maxima": {
-    "price": 877.7,
-    "name": "FlashRaid"
+    "price": 879.0,
+    "name": "-AMATERATSU-"
   },
-  "promedio": 878.2,
+  "promedio": 879.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
