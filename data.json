@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T20:01:46.517441",
-  "actualizado_vzla": "2026-08-17 16:01:46 -04",
+  "timestamp_utc": "2026-08-17T20:38:10.006810",
+  "actualizado_vzla": "2026-08-17 16:38:10 -04",
   "compra_segundo": {
-    "price": 886.44,
-    "name": "FastPay2026"
+    "price": 886.5,
+    "name": "pollitodolare"
   },
   "venta_maxima": {
-    "price": 887.05,
-    "name": "TEQUISUNSHINE"
+    "price": 889.5,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 886.75,
+  "promedio": 888.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
