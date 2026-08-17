@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T17:13:44.824262",
-  "actualizado_vzla": "2026-08-17 13:13:44 -04",
+  "timestamp_utc": "2026-08-17T17:48:13.987453",
+  "actualizado_vzla": "2026-08-17 13:48:13 -04",
   "compra_segundo": {
-    "price": 880.6,
-    "name": "GodisTrust"
+    "price": 881.15,
+    "name": "_InversionesJG_"
   },
   "venta_maxima": {
-    "price": 881.034,
+    "price": 884.034,
     "name": "TOPlevelS"
   },
-  "promedio": 880.82,
+  "promedio": 882.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
