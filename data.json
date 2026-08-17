@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T21:02:38.806813",
-  "actualizado_vzla": "2026-08-17 17:02:38 -04",
+  "timestamp_utc": "2026-08-17T21:36:07.999074",
+  "actualizado_vzla": "2026-08-17 17:36:08 -04",
   "compra_segundo": {
-    "price": 887.2,
-    "name": "LadyCapitalP2P"
+    "price": 888.5,
+    "name": "销CryptoAptus售"
   },
   "venta_maxima": {
-    "price": 888.5,
-    "name": "Gustavo129"
+    "price": 890.6,
+    "name": "Redmagic17"
   },
-  "promedio": 887.85,
+  "promedio": 889.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
