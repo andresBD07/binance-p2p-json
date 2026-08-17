@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T00:58:48.067396",
-  "actualizado_vzla": "2026-08-16 20:58:48 -04",
+  "timestamp_utc": "2026-08-17T02:22:49.881663",
+  "actualizado_vzla": "2026-08-16 22:22:49 -04",
   "compra_segundo": {
-    "price": 873.0,
-    "name": "Elleonesleo"
+    "price": 872.92,
+    "name": "LeymusCoin"
   },
   "venta_maxima": {
-    "price": 869.5,
-    "name": "DOCTOR_CAMBIO"
+    "price": 869.15,
+    "name": "VeExpressLars"
   },
-  "promedio": 871.25,
+  "promedio": 871.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
