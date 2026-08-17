@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T09:58:11.869869",
-  "actualizado_vzla": "2026-08-17 05:58:11 -04",
+  "timestamp_utc": "2026-08-17T10:41:18.178069",
+  "actualizado_vzla": "2026-08-17 06:41:18 -04",
   "compra_segundo": {
-    "price": 873.99,
-    "name": "GJCB_Trader"
+    "price": 872.8,
+    "name": "MFX_Exchange"
   },
   "venta_maxima": {
-    "price": 866.67,
-    "name": "TRADER_MT"
+    "price": 866.0,
+    "name": "talepagos"
   },
-  "promedio": 870.33,
+  "promedio": 869.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
