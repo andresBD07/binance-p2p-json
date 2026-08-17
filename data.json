@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T19:40:12.552889",
-  "actualizado_vzla": "2026-08-17 15:40:12 -04",
+  "timestamp_utc": "2026-08-17T20:01:46.517441",
+  "actualizado_vzla": "2026-08-17 16:01:46 -04",
   "compra_segundo": {
-    "price": 885.29,
-    "name": "AndradeGasconTITULAR"
+    "price": 886.44,
+    "name": "FastPay2026"
   },
   "venta_maxima": {
-    "price": 887.5,
-    "name": "Redmagic17"
+    "price": 887.05,
+    "name": "TEQUISUNSHINE"
   },
-  "promedio": 886.39,
+  "promedio": 886.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
