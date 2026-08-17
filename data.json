@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T08:23:51.666383",
-  "actualizado_vzla": "2026-08-17 04:23:51 -04",
+  "timestamp_utc": "2026-08-17T09:09:17.259628",
+  "actualizado_vzla": "2026-08-17 05:09:17 -04",
   "compra_segundo": {
-    "price": 874.5,
-    "name": "AlejandrojP2P"
+    "price": 874.4,
+    "name": "JM2026"
   },
   "venta_maxima": {
     "price": 867.0,
     "name": "VENTASJM"
   },
-  "promedio": 870.75,
+  "promedio": 870.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
