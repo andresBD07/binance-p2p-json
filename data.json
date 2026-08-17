@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T19:05:38.863385",
-  "actualizado_vzla": "2026-08-17 15:05:38 -04",
+  "timestamp_utc": "2026-08-17T19:40:12.552889",
+  "actualizado_vzla": "2026-08-17 15:40:12 -04",
   "compra_segundo": {
-    "price": 884.5,
-    "name": "VENTASJM"
+    "price": 885.29,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 885.8,
-    "name": "CRIPTO-2026"
+    "price": 887.5,
+    "name": "Redmagic17"
   },
-  "promedio": 885.15,
+  "promedio": 886.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
