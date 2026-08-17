@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T11:39:36.998060",
-  "actualizado_vzla": "2026-08-17 07:39:37 -04",
+  "timestamp_utc": "2026-08-17T12:00:29.786645",
+  "actualizado_vzla": "2026-08-17 08:00:29 -04",
   "compra_segundo": {
-    "price": 868.5,
-    "name": "Cambio_Mateo"
+    "price": 866.99,
+    "name": "walner17"
   },
   "venta_maxima": {
-    "price": 866.11,
-    "name": "Yosedg"
+    "price": 863.501,
+    "name": "Bernaaaaaaa"
   },
-  "promedio": 867.31,
+  "promedio": 865.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
