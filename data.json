@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-17T14:19:11.334488",
-  "actualizado_vzla": "2026-08-17 10:19:11 -04",
+  "timestamp_utc": "2026-08-17T14:50:45.931791",
+  "actualizado_vzla": "2026-08-17 10:50:45 -04",
   "compra_segundo": {
-    "price": 873.5,
-    "name": "Sharkypay"
+    "price": 874.999,
+    "name": "rParadas"
   },
   "venta_maxima": {
-    "price": 872.2,
-    "name": "IngCryptos"
+    "price": 874.0,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 872.85,
+  "promedio": 874.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
