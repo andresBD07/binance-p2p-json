@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T02:38:08.763238",
-  "actualizado_vzla": "2026-08-17 22:38:08 -04",
+  "timestamp_utc": "2026-08-18T03:27:06.886247",
+  "actualizado_vzla": "2026-08-17 23:27:06 -04",
   "compra_segundo": {
-    "price": 890.299,
-    "name": "Richgato_Reload"
+    "price": 890.799,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 890.0,
-    "name": "被放逐的狐狸"
+    "price": 888.21,
+    "name": "Redmagic17"
   },
-  "promedio": 890.15,
+  "promedio": 889.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
