@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T19:50:27.788700",
-  "actualizado_vzla": "2026-08-18 15:50:27 -04",
+  "timestamp_utc": "2026-08-18T20:15:45.928068",
+  "actualizado_vzla": "2026-08-18 16:15:45 -04",
   "compra_segundo": {
-    "price": 903.0,
-    "name": "CriollosMONEY"
+    "price": 907.88,
+    "name": "RyderXchange"
   },
   "venta_maxima": {
-    "price": 908.5,
-    "name": "GAZA_CRIPTO"
+    "price": 909.0,
+    "name": "MICHELITA_"
   },
-  "promedio": 905.75,
+  "promedio": 908.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
