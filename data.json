@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T06:58:43.191415",
-  "actualizado_vzla": "2026-08-18 02:58:43 -04",
+  "timestamp_utc": "2026-08-18T07:47:54.843509",
+  "actualizado_vzla": "2026-08-18 03:47:54 -04",
   "compra_segundo": {
-    "price": 891.999,
-    "name": "Juan15_7"
+    "price": 891.98,
+    "name": "PagaTakaTaka"
   },
   "venta_maxima": {
-    "price": 887.701,
-    "name": "LechugaExpress"
+    "price": 888.0,
+    "name": "我米德克"
   },
-  "promedio": 889.85,
+  "promedio": 889.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
