@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T16:59:20.020899",
-  "actualizado_vzla": "2026-08-18 12:59:20 -04",
+  "timestamp_utc": "2026-08-18T17:36:51.130237",
+  "actualizado_vzla": "2026-08-18 13:36:51 -04",
   "compra_segundo": {
-    "price": 891.25,
-    "name": "TenshiEx"
+    "price": 894.0,
+    "name": "eljuniorfit247"
   },
   "venta_maxima": {
-    "price": 892.0,
-    "name": "我米德克"
+    "price": 895.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 891.62,
+  "promedio": 894.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
