@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T20:43:33.192745",
-  "actualizado_vzla": "2026-08-18 16:43:33 -04",
+  "timestamp_utc": "2026-08-18T21:08:39.700104",
+  "actualizado_vzla": "2026-08-18 17:08:39 -04",
   "compra_segundo": {
-    "price": 905.5,
-    "name": "FamaP2P"
+    "price": 906.0,
+    "name": "销CryptoAptus售"
   },
   "venta_maxima": {
     "price": 909.0,
-    "name": "Godisgift"
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 907.25,
+  "promedio": 907.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
