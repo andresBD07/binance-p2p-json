@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T21:08:39.700104",
-  "actualizado_vzla": "2026-08-18 17:08:39 -04",
+  "timestamp_utc": "2026-08-18T21:38:25.269611",
+  "actualizado_vzla": "2026-08-18 17:38:25 -04",
   "compra_segundo": {
-    "price": 906.0,
-    "name": "销CryptoAptus售"
+    "price": 910.2,
+    "name": "JeyJey_Trade"
   },
   "venta_maxima": {
-    "price": 909.0,
-    "name": "GAZA_CRIPTO"
+    "price": 911.8,
+    "name": "IngCryptos"
   },
-  "promedio": 907.5,
+  "promedio": 911.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
