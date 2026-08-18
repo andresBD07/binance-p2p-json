@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T13:13:34.426674",
-  "actualizado_vzla": "2026-08-18 09:13:34 -04",
+  "timestamp_utc": "2026-08-18T13:59:37.650143",
+  "actualizado_vzla": "2026-08-18 09:59:37 -04",
   "compra_segundo": {
-    "price": 889.787,
-    "name": "Theking_11"
+    "price": 891.85,
+    "name": "Changes_Adventurers"
   },
   "venta_maxima": {
-    "price": 887.0,
-    "name": "Inversiones-ADSC"
+    "price": 890.0,
+    "name": "In_God-I_trust"
   },
-  "promedio": 888.39,
+  "promedio": 890.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
