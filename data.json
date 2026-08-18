@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T08:18:45.127014",
-  "actualizado_vzla": "2026-08-18 04:18:45 -04",
+  "timestamp_utc": "2026-08-18T08:59:48.298015",
+  "actualizado_vzla": "2026-08-18 04:59:48 -04",
   "compra_segundo": {
-    "price": 891.999,
-    "name": "ArepaConCafe"
+    "price": 892.0,
+    "name": "Alcambio_25"
   },
   "venta_maxima": {
-    "price": 887.7,
-    "name": "GREEN78"
+    "price": 888.0,
+    "name": "我米德克"
   },
-  "promedio": 889.85,
+  "promedio": 890.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
