@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T23:30:05.243098",
-  "actualizado_vzla": "2026-08-18 19:30:05 -04",
+  "timestamp_utc": "2026-08-18T23:53:03.500313",
+  "actualizado_vzla": "2026-08-18 19:53:03 -04",
   "compra_segundo": {
-    "price": 912.2,
-    "name": "灰Oshedi"
+    "price": 912.89,
+    "name": "JS_Valentine"
   },
   "venta_maxima": {
-    "price": 913.21,
-    "name": "NG_Evangelion"
+    "price": 914.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 912.71,
+  "promedio": 913.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
