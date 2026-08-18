@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T16:27:26.178071",
-  "actualizado_vzla": "2026-08-18 12:27:26 -04",
+  "timestamp_utc": "2026-08-18T16:59:20.020899",
+  "actualizado_vzla": "2026-08-18 12:59:20 -04",
   "compra_segundo": {
-    "price": 890.7,
-    "name": "Herstellerin"
+    "price": 891.25,
+    "name": "TenshiEx"
   },
   "venta_maxima": {
-    "price": 889.001,
-    "name": "Blank_Mind"
+    "price": 892.0,
+    "name": "我米德克"
   },
-  "promedio": 889.85,
+  "promedio": 891.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
