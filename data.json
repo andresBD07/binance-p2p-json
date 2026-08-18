@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T10:11:57.492699",
-  "actualizado_vzla": "2026-08-18 06:11:57 -04",
+  "timestamp_utc": "2026-08-18T10:49:01.567476",
+  "actualizado_vzla": "2026-08-18 06:49:01 -04",
   "compra_segundo": {
-    "price": 891.6,
-    "name": "sanchez237"
+    "price": 890.9,
+    "name": "kufadani"
   },
   "venta_maxima": {
     "price": 887.7,
     "name": "GREEN78"
   },
-  "promedio": 889.65,
+  "promedio": 889.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
