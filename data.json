@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T03:27:06.886247",
-  "actualizado_vzla": "2026-08-17 23:27:06 -04",
+  "timestamp_utc": "2026-08-18T04:10:07.979435",
+  "actualizado_vzla": "2026-08-18 00:10:07 -04",
   "compra_segundo": {
-    "price": 890.799,
-    "name": "hc-investings"
+    "price": 891.4,
+    "name": "CAMBIOSJEAN"
   },
   "venta_maxima": {
-    "price": 888.21,
-    "name": "Redmagic17"
+    "price": 887.7,
+    "name": "GREEN78"
   },
-  "promedio": 889.5,
+  "promedio": 889.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
