@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T22:57:29.591301",
-  "actualizado_vzla": "2026-08-18 18:57:29 -04",
+  "timestamp_utc": "2026-08-18T23:30:05.243098",
+  "actualizado_vzla": "2026-08-18 19:30:05 -04",
   "compra_segundo": {
-    "price": 912.39,
-    "name": "销CryptoAptus售"
+    "price": 912.2,
+    "name": "灰Oshedi"
   },
   "venta_maxima": {
-    "price": 913.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 913.21,
+    "name": "NG_Evangelion"
   },
-  "promedio": 912.69,
+  "promedio": 912.71,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
