@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-18T21:38:25.269611",
-  "actualizado_vzla": "2026-08-18 17:38:25 -04",
+  "timestamp_utc": "2026-08-18T21:57:51.789442",
+  "actualizado_vzla": "2026-08-18 17:57:51 -04",
   "compra_segundo": {
-    "price": 910.2,
-    "name": "JeyJey_Trade"
+    "price": 912.0,
+    "name": "IronCladP2P"
   },
   "venta_maxima": {
-    "price": 911.8,
-    "name": "IngCryptos"
+    "price": 910.0,
+    "name": "FlashRaid"
   },
   "promedio": 911.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
