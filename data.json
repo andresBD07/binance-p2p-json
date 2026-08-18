@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T20:15:45.928068",
-  "actualizado_vzla": "2026-08-18 16:15:45 -04",
+  "timestamp_utc": "2026-08-18T20:43:33.192745",
+  "actualizado_vzla": "2026-08-18 16:43:33 -04",
   "compra_segundo": {
-    "price": 907.88,
-    "name": "RyderXchange"
+    "price": 905.5,
+    "name": "FamaP2P"
   },
   "venta_maxima": {
     "price": 909.0,
-    "name": "MICHELITA_"
+    "name": "Godisgift"
   },
-  "promedio": 908.44,
+  "promedio": 907.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
