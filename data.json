@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T12:15:14.895095",
-  "actualizado_vzla": "2026-08-18 08:15:14 -04",
+  "timestamp_utc": "2026-08-18T13:13:34.426674",
+  "actualizado_vzla": "2026-08-18 09:13:34 -04",
   "compra_segundo": {
-    "price": 890.1,
-    "name": "Satoru_Gojo_P2P"
+    "price": 889.787,
+    "name": "Theking_11"
   },
   "venta_maxima": {
-    "price": 887.9,
-    "name": "FlashRaid"
+    "price": 887.0,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 889.0,
+  "promedio": 888.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
