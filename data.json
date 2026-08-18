@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T15:51:48.561774",
-  "actualizado_vzla": "2026-08-18 11:51:48 -04",
+  "timestamp_utc": "2026-08-18T16:27:26.178071",
+  "actualizado_vzla": "2026-08-18 12:27:26 -04",
   "compra_segundo": {
-    "price": 890.4,
-    "name": "你看_VES_你看_VES_你看Like"
+    "price": 890.7,
+    "name": "Herstellerin"
   },
   "venta_maxima": {
-    "price": 889.004,
-    "name": "YGinversiones"
+    "price": 889.001,
+    "name": "Blank_Mind"
   },
-  "promedio": 889.7,
+  "promedio": 889.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
