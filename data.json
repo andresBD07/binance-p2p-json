@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T11:15:13.976583",
-  "actualizado_vzla": "2026-08-18 07:15:13 -04",
+  "timestamp_utc": "2026-08-18T11:45:14.244426",
+  "actualizado_vzla": "2026-08-18 07:45:14 -04",
   "compra_segundo": {
-    "price": 890.799,
-    "name": "-RaGnaroK-"
+    "price": 890.49,
+    "name": "Yamato-Exchange"
   },
   "venta_maxima": {
     "price": 888.5,
-    "name": "贝HarveySpecter贝"
+    "name": "CRIPTO-2026"
   },
-  "promedio": 889.65,
+  "promedio": 889.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
