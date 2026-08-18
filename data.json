@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T18:01:24.203366",
-  "actualizado_vzla": "2026-08-18 14:01:24 -04",
+  "timestamp_utc": "2026-08-18T18:52:26.010632",
+  "actualizado_vzla": "2026-08-18 14:52:26 -04",
   "compra_segundo": {
-    "price": 896.39,
-    "name": "JesusCrip"
+    "price": 900.0,
+    "name": "Guerreroxc"
   },
   "venta_maxima": {
-    "price": 900.0,
-    "name": "Godisgift"
+    "price": 904.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 898.19,
+  "promedio": 902.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
