@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-18T04:53:39.585332",
-  "actualizado_vzla": "2026-08-18 00:53:39 -04",
+  "timestamp_utc": "2026-08-18T05:31:27.846528",
+  "actualizado_vzla": "2026-08-18 01:31:27 -04",
   "compra_segundo": {
-    "price": 891.5,
-    "name": "EscalantEmprendimientos"
+    "price": 891.75,
+    "name": "TheMerchanTHM"
   },
   "venta_maxima": {
     "price": 887.7,
     "name": "GREEN78"
   },
-  "promedio": 889.6,
+  "promedio": 889.73,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
