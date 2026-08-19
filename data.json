@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T04:10:28.553826",
-  "actualizado_vzla": "2026-08-19 00:10:28 -04",
+  "timestamp_utc": "2026-08-19T04:53:40.088372",
+  "actualizado_vzla": "2026-08-19 00:53:40 -04",
   "compra_segundo": {
-    "price": 911.799,
-    "name": "MANTEQUILLAA"
+    "price": 911.86,
+    "name": "Yoinered"
   },
   "venta_maxima": {
-    "price": 906.0,
-    "name": "GazzyTrade"
+    "price": 906.351,
+    "name": "josealtu"
   },
-  "promedio": 908.9,
+  "promedio": 909.11,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
