@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T10:49:16.361039",
-  "actualizado_vzla": "2026-08-19 06:49:16 -04",
+  "timestamp_utc": "2026-08-19T11:16:17.863637",
+  "actualizado_vzla": "2026-08-19 07:16:17 -04",
   "compra_segundo": {
-    "price": 912.4,
-    "name": "PagoInstantaneoP2P"
+    "price": 912.45,
+    "name": "FamaP2P"
   },
   "venta_maxima": {
-    "price": 907.8,
-    "name": "QueRapido"
+    "price": 909.5,
+    "name": "Don-Cangrejo"
   },
-  "promedio": 910.1,
+  "promedio": 910.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
