@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T19:14:31.707575",
-  "actualizado_vzla": "2026-08-19 15:14:31 -04",
+  "timestamp_utc": "2026-08-19T19:44:04.590441",
+  "actualizado_vzla": "2026-08-19 15:44:04 -04",
   "compra_segundo": {
-    "price": 929.25,
-    "name": "Clovers-"
+    "price": 928.99,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 928.0,
-    "name": "Gustavo129"
+    "price": 930.003,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 928.62,
+  "promedio": 929.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
