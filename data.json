@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T18:47:02.668878",
-  "actualizado_vzla": "2026-08-19 14:47:02 -04",
+  "timestamp_utc": "2026-08-19T19:14:31.707575",
+  "actualizado_vzla": "2026-08-19 15:14:31 -04",
   "compra_segundo": {
-    "price": 929.2,
-    "name": "SuperDuko"
+    "price": 929.25,
+    "name": "Clovers-"
   },
   "venta_maxima": {
-    "price": 992.812,
-    "name": "Click_Y_Listo"
+    "price": 928.0,
+    "name": "Gustavo129"
   },
-  "promedio": 961.01,
+  "promedio": 928.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
