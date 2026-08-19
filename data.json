@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T22:40:27.734925",
-  "actualizado_vzla": "2026-08-19 18:40:27 -04",
+  "timestamp_utc": "2026-08-19T23:02:20.855772",
+  "actualizado_vzla": "2026-08-19 19:02:20 -04",
   "compra_segundo": {
-    "price": 920.8,
-    "name": "销CryptoAptus售"
+    "price": 919.35,
+    "name": "AthenaCryptoP2P"
   },
   "venta_maxima": {
-    "price": 919.65,
-    "name": "securitylc"
+    "price": 916.0,
+    "name": "Quick Payment"
   },
-  "promedio": 920.22,
+  "promedio": 917.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
