@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T22:07:02.073148",
-  "actualizado_vzla": "2026-08-19 18:07:02 -04",
+  "timestamp_utc": "2026-08-19T22:40:27.734925",
+  "actualizado_vzla": "2026-08-19 18:40:27 -04",
   "compra_segundo": {
     "price": 920.8,
-    "name": "-CAPITALFLOW-ELITE-"
+    "name": "销CryptoAptus售"
   },
   "venta_maxima": {
-    "price": 920.0,
-    "name": "Blank_Mind"
+    "price": 919.65,
+    "name": "securitylc"
   },
-  "promedio": 920.4,
+  "promedio": 920.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
