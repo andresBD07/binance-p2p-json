@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T09:47:05.554012",
-  "actualizado_vzla": "2026-08-19 05:47:05 -04",
+  "timestamp_utc": "2026-08-19T10:13:25.554298",
+  "actualizado_vzla": "2026-08-19 06:13:25 -04",
   "compra_segundo": {
-    "price": 912.69,
-    "name": "Sg-Cambioseguro"
+    "price": 912.5,
+    "name": "Inversiones-Kary"
   },
   "venta_maxima": {
-    "price": 907.121,
-    "name": "Remexa"
+    "price": 906.8,
+    "name": "AthenaCryptoP2P"
   },
-  "promedio": 909.91,
+  "promedio": 909.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
