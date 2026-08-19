@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T14:01:01.215587",
-  "actualizado_vzla": "2026-08-19 10:01:01 -04",
+  "timestamp_utc": "2026-08-19T14:47:52.464370",
+  "actualizado_vzla": "2026-08-19 10:47:52 -04",
   "compra_segundo": {
-    "price": 913.89,
-    "name": "BOLIVARES_BS"
+    "price": 918.0,
+    "name": "Osu199x"
   },
   "venta_maxima": {
-    "price": 914.0,
+    "price": 917.0,
     "name": "Blank_Mind"
   },
-  "promedio": 913.94,
+  "promedio": 917.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
