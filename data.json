@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T11:16:17.863637",
-  "actualizado_vzla": "2026-08-19 07:16:17 -04",
+  "timestamp_utc": "2026-08-19T11:44:49.046385",
+  "actualizado_vzla": "2026-08-19 07:44:49 -04",
   "compra_segundo": {
-    "price": 912.45,
-    "name": "FamaP2P"
+    "price": 912.0,
+    "name": "Criptohana"
   },
   "venta_maxima": {
-    "price": 909.5,
-    "name": "Don-Cangrejo"
+    "price": 908.02,
+    "name": "Justcrip18"
   },
-  "promedio": 910.98,
+  "promedio": 910.01,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
