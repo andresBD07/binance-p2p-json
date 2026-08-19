@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T21:11:52.490286",
-  "actualizado_vzla": "2026-08-19 17:11:52 -04",
+  "timestamp_utc": "2026-08-19T21:43:27.378805",
+  "actualizado_vzla": "2026-08-19 17:43:27 -04",
   "compra_segundo": {
-    "price": 919.969,
-    "name": "aconde15"
+    "price": 914.99,
+    "name": "Click_Y_Listo"
   },
   "venta_maxima": {
-    "price": 918.5,
-    "name": "Infiniti_Ronin"
+    "price": 914.5,
+    "name": "AmigoTrading"
   },
-  "promedio": 919.23,
+  "promedio": 914.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
