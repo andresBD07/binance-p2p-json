@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T06:00:01.008568",
-  "actualizado_vzla": "2026-08-19 02:00:01 -04",
+  "timestamp_utc": "2026-08-19T07:00:19.637463",
+  "actualizado_vzla": "2026-08-19 03:00:19 -04",
   "compra_segundo": {
-    "price": 911.979,
-    "name": "MANTEQUILLAA"
+    "price": 913.68,
+    "name": "D-zta"
   },
   "venta_maxima": {
-    "price": 907.685,
-    "name": "breintrader"
+    "price": 906.0,
+    "name": "Fortu_new"
   },
-  "promedio": 909.83,
+  "promedio": 909.84,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
