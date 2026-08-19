@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T16:27:30.219555",
-  "actualizado_vzla": "2026-08-19 12:27:30 -04",
+  "timestamp_utc": "2026-08-19T16:57:51.863806",
+  "actualizado_vzla": "2026-08-19 12:57:51 -04",
   "compra_segundo": {
-    "price": 925.5,
-    "name": "Guayoyoo"
+    "price": 923.0,
+    "name": "LechugaExpress"
   },
   "venta_maxima": {
-    "price": 925.45,
-    "name": "IsaBTC-"
+    "price": 922.0,
+    "name": "NexusGlobalTradeP2P"
   },
-  "promedio": 925.48,
+  "promedio": 922.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
