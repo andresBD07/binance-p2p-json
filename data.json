@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T17:34:18.623895",
-  "actualizado_vzla": "2026-08-19 13:34:18 -04",
+  "timestamp_utc": "2026-08-19T17:57:08.950024",
+  "actualizado_vzla": "2026-08-19 13:57:08 -04",
   "compra_segundo": {
-    "price": 924.34,
-    "name": "Holy_Spirit_"
+    "price": 924.439,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
-    "price": 992.05,
-    "name": "Luishein"
+    "price": 926.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 958.19,
+  "promedio": 925.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
