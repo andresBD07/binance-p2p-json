@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T20:08:45.972392",
-  "actualizado_vzla": "2026-08-19 16:08:45 -04",
+  "timestamp_utc": "2026-08-19T20:45:43.274447",
+  "actualizado_vzla": "2026-08-19 16:45:43 -04",
   "compra_segundo": {
-    "price": 930.49,
-    "name": "Yamato-Exchange"
+    "price": 927.0,
+    "name": "New-Change"
   },
   "venta_maxima": {
-    "price": 931.925,
-    "name": "CROMOSOMA-21"
+    "price": 929.0,
+    "name": "FlashRaid"
   },
-  "promedio": 931.21,
+  "promedio": 928.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
