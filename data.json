@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T03:26:56.344227",
-  "actualizado_vzla": "2026-08-18 23:26:56 -04",
+  "timestamp_utc": "2026-08-19T04:10:28.553826",
+  "actualizado_vzla": "2026-08-19 00:10:28 -04",
   "compra_segundo": {
-    "price": 911.99,
-    "name": "AlfredoCambios19"
+    "price": 911.799,
+    "name": "MANTEQUILLAA"
   },
   "venta_maxima": {
-    "price": 909.0,
-    "name": "Cubo_rubik"
+    "price": 906.0,
+    "name": "GazzyTrade"
   },
-  "promedio": 910.5,
+  "promedio": 908.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
