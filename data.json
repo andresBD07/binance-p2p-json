@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T07:00:19.637463",
-  "actualizado_vzla": "2026-08-19 03:00:19 -04",
+  "timestamp_utc": "2026-08-19T07:48:59.092750",
+  "actualizado_vzla": "2026-08-19 03:48:59 -04",
   "compra_segundo": {
-    "price": 913.68,
-    "name": "D-zta"
+    "price": 913.7,
+    "name": " Blessed "
   },
   "venta_maxima": {
-    "price": 906.0,
-    "name": "Fortu_new"
+    "price": 905.6,
+    "name": "EKExpress"
   },
-  "promedio": 909.84,
+  "promedio": 909.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
