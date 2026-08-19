@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T20:45:43.274447",
-  "actualizado_vzla": "2026-08-19 16:45:43 -04",
+  "timestamp_utc": "2026-08-19T21:11:52.490286",
+  "actualizado_vzla": "2026-08-19 17:11:52 -04",
   "compra_segundo": {
-    "price": 927.0,
-    "name": "New-Change"
+    "price": 919.969,
+    "name": "aconde15"
   },
   "venta_maxima": {
-    "price": 929.0,
-    "name": "FlashRaid"
+    "price": 918.5,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 928.0,
+  "promedio": 919.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
