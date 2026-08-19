@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T07:48:59.092750",
-  "actualizado_vzla": "2026-08-19 03:48:59 -04",
+  "timestamp_utc": "2026-08-19T08:23:24.582406",
+  "actualizado_vzla": "2026-08-19 04:23:24 -04",
   "compra_segundo": {
-    "price": 913.7,
-    "name": " Blessed "
+    "price": 913.5,
+    "name": "Cambioslinarez"
   },
   "venta_maxima": {
     "price": 905.6,
     "name": "EKExpress"
   },
-  "promedio": 909.65,
+  "promedio": 909.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
