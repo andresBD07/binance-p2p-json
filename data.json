@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T16:57:51.863806",
-  "actualizado_vzla": "2026-08-19 12:57:51 -04",
+  "timestamp_utc": "2026-08-19T17:34:18.623895",
+  "actualizado_vzla": "2026-08-19 13:34:18 -04",
   "compra_segundo": {
-    "price": 923.0,
-    "name": "LechugaExpress"
+    "price": 924.34,
+    "name": "Holy_Spirit_"
   },
   "venta_maxima": {
-    "price": 922.0,
-    "name": "NexusGlobalTradeP2P"
+    "price": 992.05,
+    "name": "Luishein"
   },
-  "promedio": 922.5,
+  "promedio": 958.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
