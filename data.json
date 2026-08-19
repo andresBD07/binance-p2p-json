@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T11:44:49.046385",
-  "actualizado_vzla": "2026-08-19 07:44:49 -04",
+  "timestamp_utc": "2026-08-19T12:14:40.011279",
+  "actualizado_vzla": "2026-08-19 08:14:40 -04",
   "compra_segundo": {
-    "price": 912.0,
-    "name": "Criptohana"
+    "price": 911.9,
+    "name": "Calito22"
   },
   "venta_maxima": {
-    "price": 908.02,
-    "name": "Justcrip18"
+    "price": 909.0,
+    "name": "LordCambios"
   },
-  "promedio": 910.01,
+  "promedio": 910.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
