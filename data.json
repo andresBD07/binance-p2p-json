@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T10:13:25.554298",
-  "actualizado_vzla": "2026-08-19 06:13:25 -04",
+  "timestamp_utc": "2026-08-19T10:49:16.361039",
+  "actualizado_vzla": "2026-08-19 06:49:16 -04",
   "compra_segundo": {
-    "price": 912.5,
-    "name": "Inversiones-Kary"
+    "price": 912.4,
+    "name": "PagoInstantaneoP2P"
   },
   "venta_maxima": {
-    "price": 906.8,
-    "name": "AthenaCryptoP2P"
+    "price": 907.8,
+    "name": "QueRapido"
   },
-  "promedio": 909.65,
+  "promedio": 910.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
