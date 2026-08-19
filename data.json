@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-19T19:44:04.590441",
-  "actualizado_vzla": "2026-08-19 15:44:04 -04",
+  "timestamp_utc": "2026-08-19T20:08:45.972392",
+  "actualizado_vzla": "2026-08-19 16:08:45 -04",
   "compra_segundo": {
-    "price": 928.99,
-    "name": "hc-investings"
+    "price": 930.49,
+    "name": "Yamato-Exchange"
   },
   "venta_maxima": {
-    "price": 930.003,
-    "name": "GAZA_CRIPTO"
+    "price": 931.925,
+    "name": "CROMOSOMA-21"
   },
-  "promedio": 929.5,
+  "promedio": 931.21,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
