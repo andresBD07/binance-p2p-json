@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T01:41:47.993637",
-  "actualizado_vzla": "2026-08-19 21:41:47 -04",
+  "timestamp_utc": "2026-08-20T02:43:18.956078",
+  "actualizado_vzla": "2026-08-19 22:43:18 -04",
   "compra_segundo": {
-    "price": 915.39,
-    "name": "JhonAngTrader-s"
+    "price": 913.89,
+    "name": "Cartacho"
   },
   "venta_maxima": {
-    "price": 912.005,
+    "price": 912.15,
     "name": "Trust-Broker"
   },
-  "promedio": 913.7,
+  "promedio": 913.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
