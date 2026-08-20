@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T02:43:18.956078",
-  "actualizado_vzla": "2026-08-19 22:43:18 -04",
+  "timestamp_utc": "2026-08-20T03:32:50.202422",
+  "actualizado_vzla": "2026-08-19 23:32:50 -04",
   "compra_segundo": {
-    "price": 913.89,
-    "name": "Cartacho"
+    "price": 913.84,
+    "name": "销CryptoAptus售"
   },
   "venta_maxima": {
     "price": 912.15,
     "name": "Trust-Broker"
   },
-  "promedio": 913.02,
+  "promedio": 913.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
