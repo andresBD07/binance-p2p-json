@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T11:45:52.292757",
-  "actualizado_vzla": "2026-08-20 07:45:52 -04",
+  "timestamp_utc": "2026-08-20T12:16:22.472392",
+  "actualizado_vzla": "2026-08-20 08:16:22 -04",
   "compra_segundo": {
-    "price": 915.0,
-    "name": "AutoTraderP2P"
+    "price": 915.99,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 912.109,
-    "name": "TOPlevelS"
+    "price": 913.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 913.55,
+  "promedio": 914.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
