@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T23:35:00.863436",
-  "actualizado_vzla": "2026-08-20 19:35:00 -04",
+  "timestamp_utc": "2026-08-20T23:57:57.561995",
+  "actualizado_vzla": "2026-08-20 19:57:57 -04",
   "compra_segundo": {
-    "price": 918.63,
-    "name": "销CryptoAptus售"
+    "price": 918.5,
+    "name": "TUCRIPseguro"
   },
   "venta_maxima": {
-    "price": 917.5,
-    "name": "Cross-26"
+    "price": 916.5,
+    "name": "Escocrida"
   },
-  "promedio": 918.07,
+  "promedio": 917.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
