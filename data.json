@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T16:48:17.480258",
-  "actualizado_vzla": "2026-08-20 12:48:17 -04",
+  "timestamp_utc": "2026-08-20T17:16:53.417781",
+  "actualizado_vzla": "2026-08-20 13:16:53 -04",
   "compra_segundo": {
-    "price": 912.8,
-    "name": "Gatsby_24"
+    "price": 914.38,
+    "name": "ROCKandROLL08"
   },
   "venta_maxima": {
     "price": 914.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 913.4,
+  "promedio": 914.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
