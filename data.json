@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T10:43:52.926849",
-  "actualizado_vzla": "2026-08-20 06:43:52 -04",
+  "timestamp_utc": "2026-08-20T11:11:43.366346",
+  "actualizado_vzla": "2026-08-20 07:11:43 -04",
   "compra_segundo": {
-    "price": 915.493,
-    "name": "Shar-KExchange"
+    "price": 915.599,
+    "name": "Gibit"
   },
   "venta_maxima": {
-    "price": 909.8,
-    "name": "NexusGlobalTradeP2P"
+    "price": 910.6,
+    "name": "angelbitea"
   },
-  "promedio": 912.65,
+  "promedio": 913.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
