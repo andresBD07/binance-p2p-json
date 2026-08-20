@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T18:31:25.482880",
-  "actualizado_vzla": "2026-08-20 14:31:25 -04",
+  "timestamp_utc": "2026-08-20T19:16:24.226290",
+  "actualizado_vzla": "2026-08-20 15:16:24 -04",
   "compra_segundo": {
-    "price": 920.0,
-    "name": "-thekingtrade"
+    "price": 920.989,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 918.0,
-    "name": "安全与信任"
+    "price": 920.0,
+    "name": "Cross-26"
   },
-  "promedio": 919.0,
+  "promedio": 920.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
