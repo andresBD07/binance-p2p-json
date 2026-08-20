@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-20T17:50:55.597337",
-  "actualizado_vzla": "2026-08-20 13:50:55 -04",
+  "timestamp_utc": "2026-08-20T18:31:25.482880",
+  "actualizado_vzla": "2026-08-20 14:31:25 -04",
   "compra_segundo": {
-    "price": 916.9,
-    "name": "MandoCripto"
+    "price": 920.0,
+    "name": "-thekingtrade"
   },
   "venta_maxima": {
-    "price": 915.5,
-    "name": "Blank_Mind"
+    "price": 918.0,
+    "name": "安全与信任"
   },
-  "promedio": 916.2,
+  "promedio": 919.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
