@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T09:56:07.560210",
-  "actualizado_vzla": "2026-08-21 05:56:07 -04",
+  "timestamp_utc": "2026-08-21T10:37:22.882130",
+  "actualizado_vzla": "2026-08-21 06:37:22 -04",
   "compra_segundo": {
-    "price": 922.722,
-    "name": "Molyflash777"
+    "price": 922.35,
+    "name": "Pedro3030"
   },
   "venta_maxima": {
-    "price": 916.5,
-    "name": "ISO9002"
+    "price": 920.0,
+    "name": "LordCambios"
   },
-  "promedio": 919.61,
+  "promedio": 921.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
