@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-21T19:01:37.850441",
-  "actualizado_vzla": "2026-08-21 15:01:37 -04",
+  "timestamp_utc": "2026-08-21T19:33:14.380046",
+  "actualizado_vzla": "2026-08-21 15:33:14 -04",
   "compra_segundo": {
-    "price": 919.699,
-    "name": "TrustVelocity"
+    "price": 919.0,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 918.0,
-    "name": "永不放棄"
+    "price": 918.7,
+    "name": "Dgca22"
   },
   "promedio": 918.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
