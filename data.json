@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T14:44:35.536185",
-  "actualizado_vzla": "2026-08-21 10:44:35 -04",
+  "timestamp_utc": "2026-08-21T15:17:19.133671",
+  "actualizado_vzla": "2026-08-21 11:17:19 -04",
   "compra_segundo": {
-    "price": 921.3,
-    "name": "Jaed_crp"
+    "price": 918.8,
+    "name": "Dgca22"
   },
   "venta_maxima": {
-    "price": 921.0,
-    "name": "CAMBIOS_ABG_WILMER_G"
+    "price": 916.5,
+    "name": "Comercializadora_MAC"
   },
-  "promedio": 921.15,
+  "promedio": 917.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
