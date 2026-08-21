@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T10:37:22.882130",
-  "actualizado_vzla": "2026-08-21 06:37:22 -04",
+  "timestamp_utc": "2026-08-21T11:02:33.795003",
+  "actualizado_vzla": "2026-08-21 07:02:33 -04",
   "compra_segundo": {
-    "price": 922.35,
-    "name": "Pedro3030"
+    "price": 922.0,
+    "name": "Criptohana"
   },
   "venta_maxima": {
     "price": 920.0,
     "name": "LordCambios"
   },
-  "promedio": 921.17,
+  "promedio": 921.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
