@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T21:52:02.267533",
-  "actualizado_vzla": "2026-08-21 17:52:02 -04",
+  "timestamp_utc": "2026-08-21T22:21:27.411358",
+  "actualizado_vzla": "2026-08-21 18:21:27 -04",
   "compra_segundo": {
-    "price": 919.999,
-    "name": "Venepay"
+    "price": 921.0,
+    "name": "Rapidez100Canapia"
   },
   "venta_maxima": {
-    "price": 919.03,
-    "name": "JM-Phantom"
+    "price": 920.0,
+    "name": "TheOchoa"
   },
-  "promedio": 919.51,
+  "promedio": 920.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
