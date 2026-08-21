@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T04:46:54.177398",
-  "actualizado_vzla": "2026-08-21 00:46:54 -04",
+  "timestamp_utc": "2026-08-21T05:19:31.337470",
+  "actualizado_vzla": "2026-08-21 01:19:31 -04",
   "compra_segundo": {
-    "price": 921.9,
-    "name": "DanielaCambios"
+    "price": 922.0,
+    "name": "DerekTitularP2P"
   },
   "venta_maxima": {
-    "price": 917.455,
+    "price": 917.3,
     "name": "我米德克"
   },
-  "promedio": 919.68,
+  "promedio": 919.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
