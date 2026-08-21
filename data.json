@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T05:54:59.225117",
-  "actualizado_vzla": "2026-08-21 01:54:59 -04",
+  "timestamp_utc": "2026-08-21T06:56:27.285433",
+  "actualizado_vzla": "2026-08-21 02:56:27 -04",
   "compra_segundo": {
-    "price": 922.4,
-    "name": "cripto-p2p-"
+    "price": 922.8,
+    "name": "Royrdgz"
   },
   "venta_maxima": {
-    "price": 917.3,
-    "name": "我米德克"
+    "price": 917.2,
+    "name": "HRCORP_777"
   },
-  "promedio": 919.85,
+  "promedio": 920.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
