@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T20:53:31.316589",
-  "actualizado_vzla": "2026-08-21 16:53:31 -04",
+  "timestamp_utc": "2026-08-21T21:26:11.578405",
+  "actualizado_vzla": "2026-08-21 17:26:11 -04",
   "compra_segundo": {
-    "price": 919.5,
-    "name": "DiosesbuenoDiosteama"
+    "price": 919.599,
+    "name": "_TropiCoqueta_"
   },
   "venta_maxima": {
-    "price": 918.0,
-    "name": "Cross-26"
+    "price": 918.5,
+    "name": "TheOchoa"
   },
-  "promedio": 918.75,
+  "promedio": 919.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
