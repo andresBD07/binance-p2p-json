@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T12:01:16.144295",
-  "actualizado_vzla": "2026-08-21 08:01:16 -04",
+  "timestamp_utc": "2026-08-21T13:06:10.163618",
+  "actualizado_vzla": "2026-08-21 09:06:10 -04",
   "compra_segundo": {
-    "price": 920.0,
-    "name": "x88rising"
+    "price": 922.8,
+    "name": "Vip_Super_p2p"
   },
   "venta_maxima": {
-    "price": 917.0,
-    "name": "OLDesk"
+    "price": 921.501,
+    "name": "-Tyrion-Lannister-"
   },
-  "promedio": 918.5,
+  "promedio": 922.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
