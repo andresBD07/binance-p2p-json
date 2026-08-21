@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T20:28:08.941495",
-  "actualizado_vzla": "2026-08-21 16:28:08 -04",
+  "timestamp_utc": "2026-08-21T20:53:31.316589",
+  "actualizado_vzla": "2026-08-21 16:53:31 -04",
   "compra_segundo": {
-    "price": 919.38,
-    "name": "亀CryptoKoku"
+    "price": 919.5,
+    "name": "DiosesbuenoDiosteama"
   },
   "venta_maxima": {
     "price": 918.0,
-    "name": "LordCambios"
+    "name": "Cross-26"
   },
-  "promedio": 918.69,
+  "promedio": 918.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
