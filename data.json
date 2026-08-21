@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T22:49:33.356443",
-  "actualizado_vzla": "2026-08-21 18:49:33 -04",
+  "timestamp_utc": "2026-08-21T23:14:13.354471",
+  "actualizado_vzla": "2026-08-21 19:14:13 -04",
   "compra_segundo": {
-    "price": 921.45,
-    "name": "Pagoypunto-5min"
+    "price": 921.9,
+    "name": "SmarPhon3"
   },
   "venta_maxima": {
-    "price": 922.001,
-    "name": "DOCTOR_CAMBIO"
+    "price": 921.21,
+    "name": "不知道你"
   },
-  "promedio": 921.73,
+  "promedio": 921.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
