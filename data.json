@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T23:14:13.354471",
-  "actualizado_vzla": "2026-08-21 19:14:13 -04",
+  "timestamp_utc": "2026-08-21T23:42:51.633174",
+  "actualizado_vzla": "2026-08-21 19:42:51 -04",
   "compra_segundo": {
-    "price": 921.9,
-    "name": "SmarPhon3"
+    "price": 921.2,
+    "name": "CJ2001"
   },
   "venta_maxima": {
-    "price": 921.21,
+    "price": 919.5,
     "name": "不知道你"
   },
-  "promedio": 921.56,
+  "promedio": 920.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
