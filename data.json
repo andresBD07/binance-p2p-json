@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T07:50:12.167155",
-  "actualizado_vzla": "2026-08-21 03:50:12 -04",
+  "timestamp_utc": "2026-08-21T08:31:13.358856",
+  "actualizado_vzla": "2026-08-21 04:31:13 -04",
   "compra_segundo": {
-    "price": 922.799,
-    "name": "AllTraders"
+    "price": 922.98,
+    "name": "漢-Kapo"
   },
   "venta_maxima": {
     "price": 917.2,
     "name": "HRCORP_777"
   },
-  "promedio": 920.0,
+  "promedio": 920.09,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
