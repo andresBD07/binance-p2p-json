@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T19:53:57.529446",
-  "actualizado_vzla": "2026-08-21 15:53:57 -04",
+  "timestamp_utc": "2026-08-21T20:28:08.941495",
+  "actualizado_vzla": "2026-08-21 16:28:08 -04",
   "compra_segundo": {
-    "price": 918.88,
-    "name": "CarlaM-1002"
+    "price": 919.38,
+    "name": "亀CryptoKoku"
   },
   "venta_maxima": {
     "price": 918.0,
-    "name": "安全与信任"
+    "name": "LordCambios"
   },
-  "promedio": 918.44,
+  "promedio": 918.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
