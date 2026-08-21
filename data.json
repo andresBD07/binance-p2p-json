@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T13:56:50.479574",
-  "actualizado_vzla": "2026-08-21 09:56:50 -04",
+  "timestamp_utc": "2026-08-21T14:44:35.536185",
+  "actualizado_vzla": "2026-08-21 10:44:35 -04",
   "compra_segundo": {
-    "price": 922.38,
-    "name": "AndradeGasconTITULAR"
+    "price": 921.3,
+    "name": "Jaed_crp"
   },
   "venta_maxima": {
-    "price": 921.5,
-    "name": "改善ThorFinn改善"
+    "price": 921.0,
+    "name": "CAMBIOS_ABG_WILMER_G"
   },
-  "promedio": 921.94,
+  "promedio": 921.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
