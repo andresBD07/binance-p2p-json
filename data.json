@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T21:26:11.578405",
-  "actualizado_vzla": "2026-08-21 17:26:11 -04",
+  "timestamp_utc": "2026-08-21T21:52:02.267533",
+  "actualizado_vzla": "2026-08-21 17:52:02 -04",
   "compra_segundo": {
-    "price": 919.599,
-    "name": "_TropiCoqueta_"
+    "price": 919.999,
+    "name": "Venepay"
   },
   "venta_maxima": {
-    "price": 918.5,
-    "name": "TheOchoa"
+    "price": 919.03,
+    "name": "JM-Phantom"
   },
-  "promedio": 919.05,
+  "promedio": 919.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
