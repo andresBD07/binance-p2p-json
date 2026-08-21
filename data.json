@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T17:05:39.904902",
-  "actualizado_vzla": "2026-08-21 13:05:39 -04",
+  "timestamp_utc": "2026-08-21T17:42:40.913382",
+  "actualizado_vzla": "2026-08-21 13:42:40 -04",
   "compra_segundo": {
-    "price": 920.756,
-    "name": "Dakone"
+    "price": 918.5,
+    "name": "resu2k"
   },
   "venta_maxima": {
-    "price": 918.01,
-    "name": "doctor_zoidberg"
+    "price": 917.5,
+    "name": "mandy02"
   },
-  "promedio": 919.38,
+  "promedio": 918.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
