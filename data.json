@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-21T08:31:13.358856",
-  "actualizado_vzla": "2026-08-21 04:31:13 -04",
+  "timestamp_utc": "2026-08-21T09:17:20.152911",
+  "actualizado_vzla": "2026-08-21 05:17:20 -04",
   "compra_segundo": {
-    "price": 922.98,
-    "name": "漢-Kapo"
+    "price": 922.722,
+    "name": "Molyflash777"
   },
   "venta_maxima": {
-    "price": 917.2,
-    "name": "HRCORP_777"
+    "price": 916.0,
+    "name": "zama2004"
   },
-  "promedio": 920.09,
+  "promedio": 919.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
