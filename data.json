@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T21:05:34.347774",
-  "actualizado_vzla": "2026-08-22 17:05:34 -04",
+  "timestamp_utc": "2026-08-22T21:33:55.500403",
+  "actualizado_vzla": "2026-08-22 17:33:55 -04",
   "compra_segundo": {
-    "price": 920.3,
-    "name": "Cambios Ashley"
+    "price": 920.0,
+    "name": "Jesusbt-"
   },
   "venta_maxima": {
-    "price": 919.0,
-    "name": "TheOchoa"
+    "price": 918.9,
+    "name": "BOLO-USDT"
   },
-  "promedio": 919.65,
+  "promedio": 919.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
