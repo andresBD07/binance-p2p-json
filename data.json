@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-22T08:53:50.419858",
-  "actualizado_vzla": "2026-08-22 04:53:50 -04",
+  "timestamp_utc": "2026-08-22T09:28:41.373389",
+  "actualizado_vzla": "2026-08-22 05:28:41 -04",
   "compra_segundo": {
     "price": 925.6,
     "name": "eduardo94268"
   },
   "venta_maxima": {
-    "price": 919.12,
-    "name": "EverCryptoUSDT "
+    "price": 919.11,
+    "name": "Mr-Bean-"
   },
   "promedio": 922.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
