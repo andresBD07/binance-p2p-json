@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T13:37:17.220642",
-  "actualizado_vzla": "2026-08-22 09:37:17 -04",
+  "timestamp_utc": "2026-08-22T13:58:21.822936",
+  "actualizado_vzla": "2026-08-22 09:58:21 -04",
   "compra_segundo": {
-    "price": 921.6,
-    "name": "Dmitre_0308"
+    "price": 921.499,
+    "name": "TucacasPay"
   },
   "venta_maxima": {
     "price": 920.5,
     "name": "caguy"
   },
-  "promedio": 921.05,
+  "promedio": 921.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
