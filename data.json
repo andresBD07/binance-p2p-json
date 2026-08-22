@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T11:59:10.376405",
-  "actualizado_vzla": "2026-08-22 07:59:10 -04",
+  "timestamp_utc": "2026-08-22T12:55:41.363130",
+  "actualizado_vzla": "2026-08-22 08:55:41 -04",
   "compra_segundo": {
-    "price": 923.557,
-    "name": "EL-PODER-ES-DE-DIOS"
+    "price": 921.6,
+    "name": "Servicios-Criptos-27"
   },
   "venta_maxima": {
-    "price": 924.5,
-    "name": "Gustavo129"
+    "price": 920.5,
+    "name": "caguy"
   },
-  "promedio": 924.03,
+  "promedio": 921.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
