@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T16:39:32.049204",
-  "actualizado_vzla": "2026-08-22 12:39:32 -04",
+  "timestamp_utc": "2026-08-22T17:00:19.634211",
+  "actualizado_vzla": "2026-08-22 13:00:19 -04",
   "compra_segundo": {
-    "price": 920.0,
-    "name": "CANAIMA21"
+    "price": 920.199,
+    "name": "CS_DIGITAL"
   },
   "venta_maxima": {
-    "price": 920.505,
+    "price": 920.105,
     "name": "Trust-Broker"
   },
-  "promedio": 920.25,
+  "promedio": 920.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
