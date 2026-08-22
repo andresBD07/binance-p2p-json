@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T19:51:52.444226",
-  "actualizado_vzla": "2026-08-22 15:51:52 -04",
+  "timestamp_utc": "2026-08-22T20:18:53.169985",
+  "actualizado_vzla": "2026-08-22 16:18:53 -04",
   "compra_segundo": {
-    "price": 920.2,
-    "name": "J17CS"
+    "price": 920.0,
+    "name": "ChangerExpress"
   },
   "venta_maxima": {
-    "price": 920.001,
+    "price": 919.5,
     "name": "我米德克"
   },
-  "promedio": 920.1,
+  "promedio": 919.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
