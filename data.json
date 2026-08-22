@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T17:53:53.705493",
-  "actualizado_vzla": "2026-08-22 13:53:53 -04",
+  "timestamp_utc": "2026-08-22T18:34:06.205766",
+  "actualizado_vzla": "2026-08-22 14:34:06 -04",
   "compra_segundo": {
-    "price": 920.19,
-    "name": "TAZ-P2P"
+    "price": 919.99,
+    "name": "InverVictM"
   },
   "venta_maxima": {
-    "price": 918.0,
-    "name": "TheOchoa"
+    "price": 918.3,
+    "name": "2020EXCHANGEVIP"
   },
-  "promedio": 919.1,
+  "promedio": 919.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
