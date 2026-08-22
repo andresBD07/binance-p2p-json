@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T15:47:19.082283",
-  "actualizado_vzla": "2026-08-22 11:47:19 -04",
+  "timestamp_utc": "2026-08-22T16:06:43.302272",
+  "actualizado_vzla": "2026-08-22 12:06:43 -04",
   "compra_segundo": {
-    "price": 919.799,
-    "name": "EXDOMO"
+    "price": 920.0,
+    "name": "MauricioRisso"
   },
   "venta_maxima": {
     "price": 920.505,
     "name": "Trust-Broker"
   },
-  "promedio": 920.15,
+  "promedio": 920.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
