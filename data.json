@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T18:34:06.205766",
-  "actualizado_vzla": "2026-08-22 14:34:06 -04",
+  "timestamp_utc": "2026-08-22T19:01:45.202512",
+  "actualizado_vzla": "2026-08-22 15:01:45 -04",
   "compra_segundo": {
-    "price": 919.99,
-    "name": "InverVictM"
+    "price": 919.7,
+    "name": "ADLRExpress"
   },
   "venta_maxima": {
-    "price": 918.3,
+    "price": 918.6,
     "name": "2020EXCHANGEVIP"
   },
-  "promedio": 919.14,
+  "promedio": 919.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
