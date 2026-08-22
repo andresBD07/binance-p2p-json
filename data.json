@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T14:30:42.658416",
-  "actualizado_vzla": "2026-08-22 10:30:42 -04",
+  "timestamp_utc": "2026-08-22T14:53:54.199270",
+  "actualizado_vzla": "2026-08-22 10:53:54 -04",
   "compra_segundo": {
-    "price": 921.19,
-    "name": "Luishein"
+    "price": 920.5,
+    "name": "Gjsan"
   },
   "venta_maxima": {
     "price": 920.505,
     "name": "Trust-Broker"
   },
-  "promedio": 920.85,
+  "promedio": 920.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
