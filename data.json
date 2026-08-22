@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T21:55:09.424412",
-  "actualizado_vzla": "2026-08-22 17:55:09 -04",
+  "timestamp_utc": "2026-08-22T22:28:18.450011",
+  "actualizado_vzla": "2026-08-22 18:28:18 -04",
   "compra_segundo": {
-    "price": 919.9,
-    "name": "JJcambiosUSD"
+    "price": 919.699,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 918.3,
-    "name": "BOLO-USDT"
+    "price": 919.004,
+    "name": "Angel2209"
   },
-  "promedio": 919.1,
+  "promedio": 919.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
