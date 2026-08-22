@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T05:50:47.219290",
-  "actualizado_vzla": "2026-08-22 01:50:47 -04",
+  "timestamp_utc": "2026-08-22T06:30:16.435260",
+  "actualizado_vzla": "2026-08-22 02:30:16 -04",
   "compra_segundo": {
-    "price": 924.7,
-    "name": "UrusChangeP2P"
+    "price": 924.895,
+    "name": "Fexyz"
   },
   "venta_maxima": {
     "price": 920.1,
     "name": "ReadyToTrade_"
   },
-  "promedio": 922.4,
+  "promedio": 922.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
