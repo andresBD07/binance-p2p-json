@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T02:42:42.292655",
-  "actualizado_vzla": "2026-08-21 22:42:42 -04",
+  "timestamp_utc": "2026-08-22T03:28:03.480896",
+  "actualizado_vzla": "2026-08-21 23:28:03 -04",
   "compra_segundo": {
-    "price": 923.481,
-    "name": "BOLIVARES_BS"
+    "price": 923.89,
+    "name": "JR_cryptoxchange"
   },
   "venta_maxima": {
-    "price": 922.0,
-    "name": "不知道你"
+    "price": 921.005,
+    "name": "TOPlevelS"
   },
-  "promedio": 922.74,
+  "promedio": 922.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
