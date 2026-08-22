@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T15:23:43.240683",
-  "actualizado_vzla": "2026-08-22 11:23:43 -04",
+  "timestamp_utc": "2026-08-22T15:47:19.082283",
+  "actualizado_vzla": "2026-08-22 11:47:19 -04",
   "compra_segundo": {
-    "price": 920.0,
-    "name": "Lirio_Nocturno8"
+    "price": 919.799,
+    "name": "EXDOMO"
   },
   "venta_maxima": {
     "price": 920.505,
     "name": "Trust-Broker"
   },
-  "promedio": 920.25,
+  "promedio": 920.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
