@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T10:51:07.184380",
-  "actualizado_vzla": "2026-08-22 06:51:07 -04",
+  "timestamp_utc": "2026-08-22T11:16:34.914497",
+  "actualizado_vzla": "2026-08-22 07:16:34 -04",
   "compra_segundo": {
-    "price": 925.3,
-    "name": "Elvisvilla34"
+    "price": 924.779,
+    "name": "ZcambioS2"
   },
   "venta_maxima": {
-    "price": 919.5,
-    "name": "TrustyRetriever"
+    "price": 920.005,
+    "name": "Gustavo129"
   },
-  "promedio": 922.4,
+  "promedio": 922.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
