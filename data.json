@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T05:19:49.502479",
-  "actualizado_vzla": "2026-08-22 01:19:49 -04",
+  "timestamp_utc": "2026-08-22T05:50:47.219290",
+  "actualizado_vzla": "2026-08-22 01:50:47 -04",
   "compra_segundo": {
-    "price": 924.49,
-    "name": "ArgenisCastillo"
+    "price": 924.7,
+    "name": "UrusChangeP2P"
   },
   "venta_maxima": {
     "price": 920.1,
     "name": "ReadyToTrade_"
   },
-  "promedio": 922.3,
+  "promedio": 922.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
