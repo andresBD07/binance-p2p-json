@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T04:08:48.409097",
-  "actualizado_vzla": "2026-08-22 00:08:48 -04",
+  "timestamp_utc": "2026-08-22T04:50:02.489274",
+  "actualizado_vzla": "2026-08-22 00:50:02 -04",
   "compra_segundo": {
-    "price": 924.0,
-    "name": "Samirrrrrrr"
+    "price": 924.2,
+    "name": "MikasaExchange"
   },
   "venta_maxima": {
-    "price": 920.5,
-    "name": "Avatar_Roku"
+    "price": 920.6,
+    "name": "ReadyToTrade_"
   },
-  "promedio": 922.25,
+  "promedio": 922.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
