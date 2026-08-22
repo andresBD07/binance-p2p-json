@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T11:40:20.700019",
-  "actualizado_vzla": "2026-08-22 07:40:20 -04",
+  "timestamp_utc": "2026-08-22T11:59:10.376405",
+  "actualizado_vzla": "2026-08-22 07:59:10 -04",
   "compra_segundo": {
-    "price": 923.836,
-    "name": "JugadorFranquiicia1"
+    "price": 923.557,
+    "name": "EL-PODER-ES-DE-DIOS"
   },
   "venta_maxima": {
-    "price": 920.005,
+    "price": 924.5,
     "name": "Gustavo129"
   },
-  "promedio": 921.92,
+  "promedio": 924.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
