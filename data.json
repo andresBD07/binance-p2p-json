@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-22T22:28:18.450011",
-  "actualizado_vzla": "2026-08-22 18:28:18 -04",
+  "timestamp_utc": "2026-08-22T22:52:18.834294",
+  "actualizado_vzla": "2026-08-22 18:52:18 -04",
   "compra_segundo": {
-    "price": 919.699,
-    "name": "Minato21"
+    "price": 919.18,
+    "name": "销CryptoAptus售"
   },
   "venta_maxima": {
-    "price": 919.004,
-    "name": "Angel2209"
+    "price": 920.0,
+    "name": "安全与信任"
   },
-  "promedio": 919.35,
+  "promedio": 919.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
