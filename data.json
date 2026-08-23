@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T07:53:43.540342",
-  "actualizado_vzla": "2026-08-23 03:53:43 -04",
+  "timestamp_utc": "2026-08-23T08:32:34.844145",
+  "actualizado_vzla": "2026-08-23 04:32:34 -04",
   "compra_segundo": {
-    "price": 922.9,
-    "name": "Fexyz"
+    "price": 922.94,
+    "name": "Criptosafe_"
   },
   "venta_maxima": {
-    "price": 917.5,
+    "price": 918.1,
     "name": "VISÓN CRIPTØ"
   },
-  "promedio": 920.2,
+  "promedio": 920.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
