@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T21:32:17.966295",
-  "actualizado_vzla": "2026-08-23 17:32:17 -04",
+  "timestamp_utc": "2026-08-23T21:53:47.081365",
+  "actualizado_vzla": "2026-08-23 17:53:47 -04",
   "compra_segundo": {
-    "price": 921.18,
-    "name": "caro_caro"
+    "price": 921.45,
+    "name": "LUMA_08"
   },
   "venta_maxima": {
-    "price": 921.15,
-    "name": "BOLO-USDT"
+    "price": 921.4,
+    "name": "Infiniti_Ronin"
   },
-  "promedio": 921.16,
+  "promedio": 921.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
