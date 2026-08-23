@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T21:01:32.184929",
-  "actualizado_vzla": "2026-08-23 17:01:32 -04",
+  "timestamp_utc": "2026-08-23T21:32:17.966295",
+  "actualizado_vzla": "2026-08-23 17:32:17 -04",
   "compra_segundo": {
-    "price": 920.89,
-    "name": "hc-investings"
+    "price": 921.18,
+    "name": "caro_caro"
   },
   "venta_maxima": {
-    "price": 921.3,
-    "name": "HectorB"
+    "price": 921.15,
+    "name": "BOLO-USDT"
   },
-  "promedio": 921.1,
+  "promedio": 921.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
