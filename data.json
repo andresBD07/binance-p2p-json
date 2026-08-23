@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T16:34:24.801309",
-  "actualizado_vzla": "2026-08-23 12:34:24 -04",
+  "timestamp_utc": "2026-08-23T16:58:40.774642",
+  "actualizado_vzla": "2026-08-23 12:58:40 -04",
   "compra_segundo": {
-    "price": 920.9,
-    "name": "Anderema"
+    "price": 920.878,
+    "name": "LordTUKY"
   },
   "venta_maxima": {
     "price": 920.0,
     "name": "DIOSESTODOPARAMI"
   },
-  "promedio": 920.45,
+  "promedio": 920.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
