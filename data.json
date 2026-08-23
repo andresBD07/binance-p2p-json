@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T04:02:59.790532",
-  "actualizado_vzla": "2026-08-23 00:02:59 -04",
+  "timestamp_utc": "2026-08-23T04:48:49.085552",
+  "actualizado_vzla": "2026-08-23 00:48:49 -04",
   "compra_segundo": {
-    "price": 922.3,
-    "name": "Titanica"
+    "price": 922.8,
+    "name": "Luishein"
   },
   "venta_maxima": {
-    "price": 918.7,
-    "name": "VISÓN CRIPTØ"
+    "price": 919.111,
+    "name": "Labubu_96"
   },
-  "promedio": 920.5,
+  "promedio": 920.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
