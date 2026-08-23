@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T05:18:56.156523",
-  "actualizado_vzla": "2026-08-23 01:18:56 -04",
+  "timestamp_utc": "2026-08-23T05:51:33.664369",
+  "actualizado_vzla": "2026-08-23 01:51:33 -04",
   "compra_segundo": {
-    "price": 922.95,
-    "name": "x88rising"
+    "price": 922.9,
+    "name": "Heisenberg_OTC"
   },
   "venta_maxima": {
-    "price": 919.0,
-    "name": "VISÓN CRIPTØ"
+    "price": 919.199,
+    "name": "Binancemar"
   },
-  "promedio": 920.98,
+  "promedio": 921.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
