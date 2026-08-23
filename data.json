@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T22:49:24.069092",
-  "actualizado_vzla": "2026-08-23 18:49:24 -04",
+  "timestamp_utc": "2026-08-23T23:11:43.668525",
+  "actualizado_vzla": "2026-08-23 19:11:43 -04",
   "compra_segundo": {
-    "price": 922.5,
-    "name": "Listoexpress"
+    "price": 922.68,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 921.5,
-    "name": "-AMATERATSU-"
+    "price": 921.25,
+    "name": "不知道你"
   },
-  "promedio": 922.0,
+  "promedio": 921.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
