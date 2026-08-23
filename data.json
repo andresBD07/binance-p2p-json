@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T20:41:48.788210",
-  "actualizado_vzla": "2026-08-23 16:41:48 -04",
+  "timestamp_utc": "2026-08-23T21:01:32.184929",
+  "actualizado_vzla": "2026-08-23 17:01:32 -04",
   "compra_segundo": {
-    "price": 920.995,
-    "name": "Lesvalls_Cripto"
+    "price": 920.89,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 920.655,
-    "name": "CROMOSOMA-21"
+    "price": 921.3,
+    "name": "HectorB"
   },
-  "promedio": 920.83,
+  "promedio": 921.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
