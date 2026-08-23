@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T15:03:34.264940",
-  "actualizado_vzla": "2026-08-23 11:03:34 -04",
+  "timestamp_utc": "2026-08-23T15:33:59.430854",
+  "actualizado_vzla": "2026-08-23 11:33:59 -04",
   "compra_segundo": {
-    "price": 920.98,
-    "name": "DelxyRex"
+    "price": 921.1,
+    "name": "CriptradeAEMS"
   },
   "venta_maxima": {
     "price": 919.0,
     "name": "Godisgift"
   },
-  "promedio": 919.99,
+  "promedio": 920.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
