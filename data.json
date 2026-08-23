@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T15:33:59.430854",
-  "actualizado_vzla": "2026-08-23 11:33:59 -04",
+  "timestamp_utc": "2026-08-23T15:55:38.120416",
+  "actualizado_vzla": "2026-08-23 11:55:38 -04",
   "compra_segundo": {
-    "price": 921.1,
-    "name": "CriptradeAEMS"
+    "price": 920.898,
+    "name": "Orlando_1705"
   },
   "venta_maxima": {
-    "price": 919.0,
-    "name": "Godisgift"
+    "price": 919.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 920.05,
+  "promedio": 919.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
