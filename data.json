@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-23T17:51:06.209969",
-  "actualizado_vzla": "2026-08-23 13:51:06 -04",
+  "timestamp_utc": "2026-08-23T18:21:47.809215",
+  "actualizado_vzla": "2026-08-23 14:21:47 -04",
   "compra_segundo": {
-    "price": 921.0,
-    "name": "Sariiwow"
+    "price": 920.99,
+    "name": "MANÓN-P2P"
   },
   "venta_maxima": {
-    "price": 920.0,
-    "name": "DIOSESTODOPARAMI"
+    "price": 920.01,
+    "name": "Hcompa"
   },
   "promedio": 920.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
