@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T20:11:15.034189",
-  "actualizado_vzla": "2026-08-23 16:11:15 -04",
+  "timestamp_utc": "2026-08-23T20:41:48.788210",
+  "actualizado_vzla": "2026-08-23 16:41:48 -04",
   "compra_segundo": {
-    "price": 921.195,
-    "name": "MolinaJP_"
+    "price": 920.995,
+    "name": "Lesvalls_Cripto"
   },
   "venta_maxima": {
-    "price": 920.5,
-    "name": "不知道你"
+    "price": 920.655,
+    "name": "CROMOSOMA-21"
   },
-  "promedio": 920.85,
+  "promedio": 920.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
