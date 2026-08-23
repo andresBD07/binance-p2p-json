@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T09:59:50.367402",
-  "actualizado_vzla": "2026-08-23 05:59:50 -04",
+  "timestamp_utc": "2026-08-23T10:34:54.058482",
+  "actualizado_vzla": "2026-08-23 06:34:54 -04",
   "compra_segundo": {
-    "price": 922.97,
-    "name": "Atraderspkj"
+    "price": 922.7,
+    "name": "ミReinaPepiadaCoinミ"
   },
   "venta_maxima": {
     "price": 916.0,
     "name": "WMPTrade"
   },
-  "promedio": 919.49,
+  "promedio": 919.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
