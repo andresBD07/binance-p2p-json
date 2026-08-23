@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T14:14:30.449493",
-  "actualizado_vzla": "2026-08-23 10:14:30 -04",
+  "timestamp_utc": "2026-08-23T14:43:49.162019",
+  "actualizado_vzla": "2026-08-23 10:43:49 -04",
   "compra_segundo": {
-    "price": 920.99,
-    "name": "VeExpressLars"
+    "price": 920.95,
+    "name": "EnLineaPagoRapido"
   },
   "venta_maxima": {
     "price": 919.0,
     "name": "Godisgift"
   },
-  "promedio": 920.0,
+  "promedio": 919.98,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
