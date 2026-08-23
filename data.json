@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T09:37:48.758010",
-  "actualizado_vzla": "2026-08-23 05:37:48 -04",
+  "timestamp_utc": "2026-08-23T09:59:50.367402",
+  "actualizado_vzla": "2026-08-23 05:59:50 -04",
   "compra_segundo": {
-    "price": 922.95,
-    "name": "x88rising"
+    "price": 922.97,
+    "name": "Atraderspkj"
   },
   "venta_maxima": {
     "price": 916.0,
     "name": "WMPTrade"
   },
-  "promedio": 919.48,
+  "promedio": 919.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
