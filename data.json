@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T23:11:43.668525",
-  "actualizado_vzla": "2026-08-23 19:11:43 -04",
+  "timestamp_utc": "2026-08-23T23:38:28.123346",
+  "actualizado_vzla": "2026-08-23 19:38:28 -04",
   "compra_segundo": {
-    "price": 922.68,
-    "name": "_cambioBTC"
+    "price": 922.3,
+    "name": "Jesusbt-"
   },
   "venta_maxima": {
-    "price": 921.25,
-    "name": "不知道你"
+    "price": 920.8,
+    "name": "Hcompa"
   },
-  "promedio": 921.96,
+  "promedio": 921.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
