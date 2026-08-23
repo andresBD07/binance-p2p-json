@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T16:58:40.774642",
-  "actualizado_vzla": "2026-08-23 12:58:40 -04",
+  "timestamp_utc": "2026-08-23T17:28:44.494549",
+  "actualizado_vzla": "2026-08-23 13:28:44 -04",
   "compra_segundo": {
-    "price": 920.878,
-    "name": "LordTUKY"
+    "price": 921.199,
+    "name": "Money-Max23"
   },
   "venta_maxima": {
     "price": 920.0,
     "name": "DIOSESTODOPARAMI"
   },
-  "promedio": 920.44,
+  "promedio": 920.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
