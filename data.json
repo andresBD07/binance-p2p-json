@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T10:57:46.613429",
-  "actualizado_vzla": "2026-08-23 06:57:46 -04",
+  "timestamp_utc": "2026-08-23T11:28:33.385944",
+  "actualizado_vzla": "2026-08-23 07:28:33 -04",
   "compra_segundo": {
-    "price": 922.0,
-    "name": "x88rising"
+    "price": 921.85,
+    "name": "Magila_Trade"
   },
   "venta_maxima": {
-    "price": 916.0,
-    "name": "WMPTrade"
+    "price": 920.0,
+    "name": "VISÓN CRIPTØ"
   },
-  "promedio": 919.0,
+  "promedio": 920.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
