@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-23T18:56:16.820768",
-  "actualizado_vzla": "2026-08-23 14:56:16 -04",
+  "timestamp_utc": "2026-08-23T19:28:12.820929",
+  "actualizado_vzla": "2026-08-23 15:28:12 -04",
   "compra_segundo": {
-    "price": 921.1,
-    "name": "1Jm_trade28"
+    "price": 920.98,
+    "name": "ExchangeMarket_Vzla"
   },
   "venta_maxima": {
     "price": 920.35,
     "name": "BOLO-USDT"
   },
-  "promedio": 920.73,
+  "promedio": 920.66,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
