@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T10:18:37.967058",
-  "actualizado_vzla": "2026-08-24 06:18:37 -04",
+  "timestamp_utc": "2026-08-24T10:58:54.887745",
+  "actualizado_vzla": "2026-08-24 06:58:54 -04",
   "compra_segundo": {
-    "price": 923.4,
-    "name": "Shaddaigacc"
+    "price": 922.8,
+    "name": "Carlecitta"
   },
   "venta_maxima": {
     "price": 918.2,
     "name": "Torontox"
   },
-  "promedio": 920.8,
+  "promedio": 920.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
