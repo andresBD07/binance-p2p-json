@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T17:41:34.643671",
-  "actualizado_vzla": "2026-08-24 13:41:34 -04",
+  "timestamp_utc": "2026-08-24T18:15:10.640892",
+  "actualizado_vzla": "2026-08-24 14:15:10 -04",
   "compra_segundo": {
-    "price": 936.3,
-    "name": "TMSC__7"
+    "price": 934.6,
+    "name": "JoseLNb"
   },
   "venta_maxima": {
-    "price": 936.0,
-    "name": "Cross-26"
+    "price": 933.51,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 936.15,
+  "promedio": 934.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
