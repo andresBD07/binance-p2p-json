@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T20:11:11.475714",
-  "actualizado_vzla": "2026-08-24 16:11:11 -04",
+  "timestamp_utc": "2026-08-24T20:50:24.069379",
+  "actualizado_vzla": "2026-08-24 16:50:24 -04",
   "compra_segundo": {
     "price": 932.0,
-    "name": "-----CASUVEN-----"
+    "name": "Herstellerin"
   },
   "venta_maxima": {
-    "price": 931.0,
-    "name": "Gustavo129"
+    "price": 929.6,
+    "name": "Leotrade17"
   },
-  "promedio": 931.5,
+  "promedio": 930.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
