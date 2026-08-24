@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T18:15:10.640892",
-  "actualizado_vzla": "2026-08-24 14:15:10 -04",
+  "timestamp_utc": "2026-08-24T19:05:29.253628",
+  "actualizado_vzla": "2026-08-24 15:05:29 -04",
   "compra_segundo": {
-    "price": 934.6,
-    "name": "JoseLNb"
+    "price": 930.28,
+    "name": "Tigre de wall street"
   },
   "venta_maxima": {
-    "price": 933.51,
-    "name": "Inversiones-ADSC"
+    "price": 928.15,
+    "name": "securitylc"
   },
-  "promedio": 934.06,
+  "promedio": 929.21,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
