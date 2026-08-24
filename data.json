@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T13:08:48.403718",
-  "actualizado_vzla": "2026-08-24 09:08:48 -04",
+  "timestamp_utc": "2026-08-24T14:03:00.412232",
+  "actualizado_vzla": "2026-08-24 10:03:00 -04",
   "compra_segundo": {
-    "price": 925.999,
-    "name": "Cambios_Veloz"
+    "price": 927.0,
+    "name": "Kalevv"
   },
   "venta_maxima": {
-    "price": 924.402,
-    "name": "Cripto-Mendigo"
+    "price": 926.8,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 925.2,
+  "promedio": 926.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
