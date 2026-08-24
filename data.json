@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T20:50:24.069379",
-  "actualizado_vzla": "2026-08-24 16:50:24 -04",
+  "timestamp_utc": "2026-08-24T21:21:49.281486",
+  "actualizado_vzla": "2026-08-24 17:21:49 -04",
   "compra_segundo": {
-    "price": 932.0,
-    "name": "Herstellerin"
+    "price": 931.7,
+    "name": "SuperDuko"
   },
   "venta_maxima": {
-    "price": 929.6,
-    "name": "Leotrade17"
+    "price": 929.514,
+    "name": "TOPlevelS"
   },
-  "promedio": 930.8,
+  "promedio": 930.61,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
