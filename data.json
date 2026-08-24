@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T17:02:25.007498",
-  "actualizado_vzla": "2026-08-24 13:02:25 -04",
+  "timestamp_utc": "2026-08-24T17:41:34.643671",
+  "actualizado_vzla": "2026-08-24 13:41:34 -04",
   "compra_segundo": {
-    "price": 936.29,
-    "name": "RapidEnvios"
+    "price": 936.3,
+    "name": "TMSC__7"
   },
   "venta_maxima": {
-    "price": 937.0,
-    "name": "Godisgift"
+    "price": 936.0,
+    "name": "Cross-26"
   },
-  "promedio": 936.64,
+  "promedio": 936.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
