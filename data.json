@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T08:28:38.231389",
-  "actualizado_vzla": "2026-08-24 04:28:38 -04",
+  "timestamp_utc": "2026-08-24T09:26:28.015350",
+  "actualizado_vzla": "2026-08-24 05:26:28 -04",
   "compra_segundo": {
-    "price": 924.841,
-    "name": "AngelMolinaC"
+    "price": 924.69,
+    "name": "Sag87"
   },
   "venta_maxima": {
     "price": 918.2,
     "name": "Torontox"
   },
-  "promedio": 921.52,
+  "promedio": 921.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
