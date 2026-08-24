@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T10:58:54.887745",
-  "actualizado_vzla": "2026-08-24 06:58:54 -04",
+  "timestamp_utc": "2026-08-24T11:37:28.389281",
+  "actualizado_vzla": "2026-08-24 07:37:28 -04",
   "compra_segundo": {
-    "price": 922.8,
-    "name": "Carlecitta"
+    "price": 922.0,
+    "name": "DJCHTrader"
   },
   "venta_maxima": {
-    "price": 918.2,
-    "name": "Torontox"
+    "price": 920.0,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 920.5,
+  "promedio": 921.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
