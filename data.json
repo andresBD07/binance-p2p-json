@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T14:55:42.179275",
-  "actualizado_vzla": "2026-08-24 10:55:42 -04",
+  "timestamp_utc": "2026-08-24T15:47:44.616018",
+  "actualizado_vzla": "2026-08-24 11:47:44 -04",
   "compra_segundo": {
-    "price": 932.96,
-    "name": "GarciaTrade_"
+    "price": 936.4,
+    "name": "kufadani"
   },
   "venta_maxima": {
-    "price": 932.61,
-    "name": "Brawcoins"
+    "price": 937.0,
+    "name": "Godisgift"
   },
-  "promedio": 932.79,
+  "promedio": 936.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
