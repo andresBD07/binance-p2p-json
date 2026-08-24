@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T11:37:28.389281",
-  "actualizado_vzla": "2026-08-24 07:37:28 -04",
+  "timestamp_utc": "2026-08-24T12:01:19.162815",
+  "actualizado_vzla": "2026-08-24 08:01:19 -04",
   "compra_segundo": {
-    "price": 922.0,
+    "price": 922.5,
     "name": "DJCHTrader"
   },
   "venta_maxima": {
-    "price": 920.0,
-    "name": "Inversiones-ADSC"
+    "price": 919.21,
+    "name": "Brawcoins"
   },
-  "promedio": 921.0,
+  "promedio": 920.86,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
