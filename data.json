@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T01:51:02.491647",
-  "actualizado_vzla": "2026-08-23 21:51:02 -04",
+  "timestamp_utc": "2026-08-24T02:57:54.145544",
+  "actualizado_vzla": "2026-08-23 22:57:54 -04",
   "compra_segundo": {
-    "price": 923.3,
-    "name": "Edixon0101"
+    "price": 923.295,
+    "name": "chichiwilote"
   },
   "venta_maxima": {
-    "price": 921.0,
-    "name": "Brawcoins"
+    "price": 920.7,
+    "name": "MileGuerrero24"
   },
-  "promedio": 922.15,
+  "promedio": 922.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
