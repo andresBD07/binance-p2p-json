@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T14:03:00.412232",
-  "actualizado_vzla": "2026-08-24 10:03:00 -04",
+  "timestamp_utc": "2026-08-24T14:55:42.179275",
+  "actualizado_vzla": "2026-08-24 10:55:42 -04",
   "compra_segundo": {
-    "price": 927.0,
-    "name": "Kalevv"
+    "price": 932.96,
+    "name": "GarciaTrade_"
   },
   "venta_maxima": {
-    "price": 926.8,
-    "name": "Jin-Woo-Sung"
+    "price": 932.61,
+    "name": "Brawcoins"
   },
-  "promedio": 926.9,
+  "promedio": 932.79,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
