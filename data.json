@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T16:52:10.407174",
-  "actualizado_vzla": "2026-08-25 12:52:10 -04",
+  "timestamp_utc": "2026-08-25T17:29:15.750475",
+  "actualizado_vzla": "2026-08-25 13:29:15 -04",
   "compra_segundo": {
-    "price": 933.199,
-    "name": "lajoya77"
+    "price": 933.27,
+    "name": "FORTZACRIPTO"
   },
   "venta_maxima": {
-    "price": 932.0,
-    "name": "RubenNYC"
+    "price": 931.0,
+    "name": "LordCambios"
   },
-  "promedio": 932.6,
+  "promedio": 932.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
