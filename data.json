@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T18:52:42.123429",
-  "actualizado_vzla": "2026-08-25 14:52:42 -04",
+  "timestamp_utc": "2026-08-25T19:30:56.008589",
+  "actualizado_vzla": "2026-08-25 15:30:56 -04",
   "compra_segundo": {
-    "price": 934.55,
-    "name": "docfabi2020"
+    "price": 935.48,
+    "name": "MOISES0908"
   },
   "venta_maxima": {
-    "price": 933.005,
-    "name": "Trust-Broker"
+    "price": 934.01,
+    "name": "Fast-Pay-Crypto-Fast"
   },
-  "promedio": 933.78,
+  "promedio": 934.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
