@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-24T21:52:46.989007",
-  "actualizado_vzla": "2026-08-24 17:52:46 -04",
+  "timestamp_utc": "2026-08-25T15:14:46.277092",
+  "actualizado_vzla": "2026-08-25 11:14:46 -04",
   "compra_segundo": {
-    "price": 930.188,
-    "name": "StartBusiness"
+    "price": 933.85,
+    "name": "我米德克"
   },
   "venta_maxima": {
-    "price": 928.8,
-    "name": "-Topocho-"
+    "price": 933.0,
+    "name": "CAMBIOS_ABG_WILMER_G"
   },
-  "promedio": 929.49,
+  "promedio": 933.42,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
