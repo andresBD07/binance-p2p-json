@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T18:00:06.753373",
-  "actualizado_vzla": "2026-08-25 14:00:06 -04",
+  "timestamp_utc": "2026-08-25T18:52:42.123429",
+  "actualizado_vzla": "2026-08-25 14:52:42 -04",
   "compra_segundo": {
-    "price": 933.17,
-    "name": "Fast_-Change"
+    "price": 934.55,
+    "name": "docfabi2020"
   },
   "venta_maxima": {
-    "price": 932.01,
-    "name": "LordCambios"
+    "price": 933.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 932.59,
+  "promedio": 933.78,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
