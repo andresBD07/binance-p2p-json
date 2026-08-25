@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T23:34:44.177180",
-  "actualizado_vzla": "2026-08-25 19:34:44 -04",
+  "timestamp_utc": "2026-08-25T23:57:37.784536",
+  "actualizado_vzla": "2026-08-25 19:57:37 -04",
   "compra_segundo": {
-    "price": 939.75,
-    "name": "POCHOLINBA"
+    "price": 941.8,
+    "name": "ComerciosAraujo"
   },
   "venta_maxima": {
-    "price": 940.501,
-    "name": "DOCTOR_CAMBIO"
+    "price": 941.0,
+    "name": "IsaBTC-"
   },
-  "promedio": 940.13,
+  "promedio": 941.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
