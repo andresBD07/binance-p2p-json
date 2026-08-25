@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T23:03:46.303029",
-  "actualizado_vzla": "2026-08-25 19:03:46 -04",
+  "timestamp_utc": "2026-08-25T23:34:44.177180",
+  "actualizado_vzla": "2026-08-25 19:34:44 -04",
   "compra_segundo": {
-    "price": 937.6,
-    "name": "AA_Over"
+    "price": 939.75,
+    "name": "POCHOLINBA"
   },
   "venta_maxima": {
-    "price": 938.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 940.501,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 937.8,
+  "promedio": 940.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
