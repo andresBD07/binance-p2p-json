@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T19:58:30.135741",
-  "actualizado_vzla": "2026-08-25 15:58:30 -04",
+  "timestamp_utc": "2026-08-25T20:38:37.188185",
+  "actualizado_vzla": "2026-08-25 16:38:37 -04",
   "compra_segundo": {
-    "price": 936.3,
-    "name": "Tucambiove"
+    "price": 935.85,
+    "name": "_INVESTING_"
   },
   "venta_maxima": {
-    "price": 935.2,
-    "name": "Escocrida"
+    "price": 934.5,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 935.75,
+  "promedio": 935.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
