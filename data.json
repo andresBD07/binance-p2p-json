@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T22:39:44.679928",
-  "actualizado_vzla": "2026-08-25 18:39:44 -04",
+  "timestamp_utc": "2026-08-25T23:03:46.303029",
+  "actualizado_vzla": "2026-08-25 19:03:46 -04",
   "compra_segundo": {
-    "price": 937.19,
-    "name": "ManaExpress"
+    "price": 937.6,
+    "name": "AA_Over"
   },
   "venta_maxima": {
-    "price": 935.5,
-    "name": "Gustavo129"
+    "price": 938.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 936.35,
+  "promedio": 937.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
