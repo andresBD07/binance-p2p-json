@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T16:03:43.652395",
-  "actualizado_vzla": "2026-08-25 12:03:43 -04",
+  "timestamp_utc": "2026-08-25T16:52:10.407174",
+  "actualizado_vzla": "2026-08-25 12:52:10 -04",
   "compra_segundo": {
-    "price": 932.499,
-    "name": "AllTraders"
+    "price": 933.199,
+    "name": "lajoya77"
   },
   "venta_maxima": {
-    "price": 930.5,
-    "name": "friday18"
+    "price": 932.0,
+    "name": "RubenNYC"
   },
-  "promedio": 931.5,
+  "promedio": 932.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
