@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T20:38:37.188185",
-  "actualizado_vzla": "2026-08-25 16:38:37 -04",
+  "timestamp_utc": "2026-08-25T21:03:48.229418",
+  "actualizado_vzla": "2026-08-25 17:03:48 -04",
   "compra_segundo": {
-    "price": 935.85,
-    "name": "_INVESTING_"
+    "price": 936.8,
+    "name": "WorldTradeinCripto"
   },
   "venta_maxima": {
-    "price": 934.5,
-    "name": "GOMEZTUSOLUCION"
+    "price": 936.0,
+    "name": "安全与信任"
   },
-  "promedio": 935.17,
+  "promedio": 936.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
