@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T15:14:46.277092",
-  "actualizado_vzla": "2026-08-25 11:14:46 -04",
+  "timestamp_utc": "2026-08-25T16:03:43.652395",
+  "actualizado_vzla": "2026-08-25 12:03:43 -04",
   "compra_segundo": {
-    "price": 933.85,
-    "name": "我米德克"
+    "price": 932.499,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 933.0,
-    "name": "CAMBIOS_ABG_WILMER_G"
+    "price": 930.5,
+    "name": "friday18"
   },
-  "promedio": 933.42,
+  "promedio": 931.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
