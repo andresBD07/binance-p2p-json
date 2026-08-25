@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T19:30:56.008589",
-  "actualizado_vzla": "2026-08-25 15:30:56 -04",
+  "timestamp_utc": "2026-08-25T19:58:30.135741",
+  "actualizado_vzla": "2026-08-25 15:58:30 -04",
   "compra_segundo": {
-    "price": 935.48,
-    "name": "MOISES0908"
+    "price": 936.3,
+    "name": "Tucambiove"
   },
   "venta_maxima": {
-    "price": 934.01,
-    "name": "Fast-Pay-Crypto-Fast"
+    "price": 935.2,
+    "name": "Escocrida"
   },
-  "promedio": 934.75,
+  "promedio": 935.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
