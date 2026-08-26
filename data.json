@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T10:58:49.758051",
-  "actualizado_vzla": "2026-08-26 06:58:49 -04",
+  "timestamp_utc": "2026-08-26T11:37:59.790795",
+  "actualizado_vzla": "2026-08-26 07:37:59 -04",
   "compra_segundo": {
-    "price": 949.3,
-    "name": "CAMBIOS_RAPIDOS"
+    "price": 949.5,
+    "name": "Tzar25"
   },
   "venta_maxima": {
-    "price": 945.5,
-    "name": "LadyCapitalP2P"
+    "price": 946.6,
+    "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 947.4,
+  "promedio": 948.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
