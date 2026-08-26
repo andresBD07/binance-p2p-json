@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T12:03:16.604389",
-  "actualizado_vzla": "2026-08-26 08:03:16 -04",
+  "timestamp_utc": "2026-08-26T13:12:35.568851",
+  "actualizado_vzla": "2026-08-26 09:12:35 -04",
   "compra_segundo": {
-    "price": 949.6,
-    "name": "User-95450"
+    "price": 947.3,
+    "name": "trade-key"
   },
   "venta_maxima": {
-    "price": 946.5,
-    "name": "Gustavo129"
+    "price": 945.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 948.05,
+  "promedio": 946.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
