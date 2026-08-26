@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T07:56:30.263794",
-  "actualizado_vzla": "2026-08-26 03:56:30 -04",
+  "timestamp_utc": "2026-08-26T08:53:56.905353",
+  "actualizado_vzla": "2026-08-26 04:53:56 -04",
   "compra_segundo": {
-    "price": 949.099,
-    "name": "BallGroup"
+    "price": 949.5,
+    "name": "Anderema"
   },
   "venta_maxima": {
-    "price": 943.08,
+    "price": 943.8,
     "name": "VISÓN CRIPTØ"
   },
-  "promedio": 946.09,
+  "promedio": 946.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
