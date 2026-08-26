@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T08:53:56.905353",
-  "actualizado_vzla": "2026-08-26 04:53:56 -04",
+  "timestamp_utc": "2026-08-26T09:45:26.441651",
+  "actualizado_vzla": "2026-08-26 05:45:26 -04",
   "compra_segundo": {
     "price": 949.5,
-    "name": "Anderema"
+    "name": "CarlosBelloNexoCapit"
   },
   "venta_maxima": {
-    "price": 943.8,
+    "price": 944.2,
     "name": "VISÓN CRIPTØ"
   },
-  "promedio": 946.65,
+  "promedio": 946.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
