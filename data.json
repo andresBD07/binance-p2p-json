@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-08-26T11:37:59.790795",
-  "actualizado_vzla": "2026-08-26 07:37:59 -04",
+  "timestamp_utc": "2026-08-26T12:03:16.604389",
+  "actualizado_vzla": "2026-08-26 08:03:16 -04",
   "compra_segundo": {
-    "price": 949.5,
-    "name": "Tzar25"
+    "price": 949.6,
+    "name": "User-95450"
   },
   "venta_maxima": {
-    "price": 946.6,
-    "name": "ミReinaPepiadaCoinミ"
+    "price": 946.5,
+    "name": "Gustavo129"
   },
   "promedio": 948.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
