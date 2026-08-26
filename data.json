@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T05:26:47.188965",
-  "actualizado_vzla": "2026-08-26 01:26:47 -04",
+  "timestamp_utc": "2026-08-26T06:01:56.031317",
+  "actualizado_vzla": "2026-08-26 02:01:56 -04",
   "compra_segundo": {
-    "price": 948.55,
-    "name": "GaAle19"
+    "price": 948.698,
+    "name": "Atumanocambio"
   },
   "venta_maxima": {
-    "price": 943.5,
+    "price": 943.8,
     "name": "VISÓN CRIPTØ"
   },
-  "promedio": 946.02,
+  "promedio": 946.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
