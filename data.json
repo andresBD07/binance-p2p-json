@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T02:59:36.685236",
-  "actualizado_vzla": "2026-08-25 22:59:36 -04",
+  "timestamp_utc": "2026-08-26T03:58:49.724668",
+  "actualizado_vzla": "2026-08-25 23:58:49 -04",
   "compra_segundo": {
-    "price": 947.9,
-    "name": "DsantiagoJ_"
+    "price": 947.99,
+    "name": "adonisdroid"
   },
   "venta_maxima": {
-    "price": 946.0,
-    "name": "IsaBTC-"
+    "price": 943.0,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 946.95,
+  "promedio": 945.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
