@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T04:50:12.493912",
-  "actualizado_vzla": "2026-08-26 00:50:12 -04",
+  "timestamp_utc": "2026-08-26T05:26:47.188965",
+  "actualizado_vzla": "2026-08-26 01:26:47 -04",
   "compra_segundo": {
-    "price": 948.44,
-    "name": "ComercioJRG"
+    "price": 948.55,
+    "name": "GaAle19"
   },
   "venta_maxima": {
-    "price": 943.2,
-    "name": "CLERTH"
+    "price": 943.5,
+    "name": "VISÓN CRIPTØ"
   },
-  "promedio": 945.82,
+  "promedio": 946.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
