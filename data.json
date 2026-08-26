@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T10:19:43.335499",
-  "actualizado_vzla": "2026-08-26 06:19:43 -04",
+  "timestamp_utc": "2026-08-26T10:58:49.758051",
+  "actualizado_vzla": "2026-08-26 06:58:49 -04",
   "compra_segundo": {
-    "price": 949.0,
-    "name": "TioRico699"
+    "price": 949.3,
+    "name": "CAMBIOS_RAPIDOS"
   },
   "venta_maxima": {
-    "price": 944.71,
-    "name": "NexusGlobalTradeP2P"
+    "price": 945.5,
+    "name": "LadyCapitalP2P"
   },
-  "promedio": 946.86,
+  "promedio": 947.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
