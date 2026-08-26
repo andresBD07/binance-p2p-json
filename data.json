@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T18:30:12.578701",
-  "actualizado_vzla": "2026-08-26 14:30:12 -04",
+  "timestamp_utc": "2026-08-26T21:09:34.628247",
+  "actualizado_vzla": "2026-08-26 17:09:34 -04",
   "compra_segundo": {
-    "price": 949.8,
-    "name": "ClickCripve"
+    "price": 957.3,
+    "name": "DAKLANID"
   },
   "venta_maxima": {
-    "price": 952.3,
-    "name": "WayneTecnology"
+    "price": 956.0,
+    "name": "Escocrida"
   },
-  "promedio": 951.05,
+  "promedio": 956.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
