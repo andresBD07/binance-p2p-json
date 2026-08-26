@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-25T23:57:37.784536",
-  "actualizado_vzla": "2026-08-25 19:57:37 -04",
+  "timestamp_utc": "2026-08-26T01:51:10.007073",
+  "actualizado_vzla": "2026-08-25 21:51:10 -04",
   "compra_segundo": {
-    "price": 941.8,
-    "name": "ComerciosAraujo"
+    "price": 945.499,
+    "name": "Richgato_Reload"
   },
   "venta_maxima": {
-    "price": 941.0,
-    "name": "IsaBTC-"
+    "price": 945.0,
+    "name": "TheNumberOneMaturin"
   },
-  "promedio": 941.4,
+  "promedio": 945.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
