@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T14:06:58.429731",
-  "actualizado_vzla": "2026-08-26 10:06:58 -04",
+  "timestamp_utc": "2026-08-26T15:51:58.168970",
+  "actualizado_vzla": "2026-08-26 11:51:58 -04",
   "compra_segundo": {
-    "price": 953.953,
-    "name": "TopPag0s"
+    "price": 948.998,
+    "name": "Ramoncho2020"
   },
   "venta_maxima": {
-    "price": 955.001,
-    "name": "Infiniti_Ronin"
+    "price": 950.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 954.48,
+  "promedio": 949.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
