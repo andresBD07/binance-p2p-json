@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T06:01:56.031317",
-  "actualizado_vzla": "2026-08-26 02:01:56 -04",
+  "timestamp_utc": "2026-08-26T07:04:23.073394",
+  "actualizado_vzla": "2026-08-26 03:04:23 -04",
   "compra_segundo": {
-    "price": 948.698,
-    "name": "Atumanocambio"
+    "price": 948.9,
+    "name": "EverCryptoUSDT "
   },
   "venta_maxima": {
-    "price": 943.8,
+    "price": 943.08,
     "name": "VISÓN CRIPTØ"
   },
-  "promedio": 946.25,
+  "promedio": 945.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
