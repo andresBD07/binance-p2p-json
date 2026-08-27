@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-27T00:49:05.062445",
-  "actualizado_vzla": "2026-08-26 20:49:05 -04",
+  "timestamp_utc": "2026-08-27T10:45:25.109557",
+  "actualizado_vzla": "2026-08-27 06:45:25 -04",
   "compra_segundo": {
-    "price": 958.0,
-    "name": "WorldTradeinCripto"
+    "price": 957.0,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 956.0,
-    "name": "Trust-Broker"
+    "price": 953.0,
+    "name": "NexusGlobalTradeP2P"
   },
-  "promedio": 957.0,
+  "promedio": 955.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
