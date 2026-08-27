@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-26T21:09:34.628247",
-  "actualizado_vzla": "2026-08-26 17:09:34 -04",
+  "timestamp_utc": "2026-08-27T00:49:05.062445",
+  "actualizado_vzla": "2026-08-26 20:49:05 -04",
   "compra_segundo": {
-    "price": 957.3,
-    "name": "DAKLANID"
+    "price": 958.0,
+    "name": "WorldTradeinCripto"
   },
   "venta_maxima": {
     "price": 956.0,
-    "name": "Escocrida"
+    "name": "Trust-Broker"
   },
-  "promedio": 956.65,
+  "promedio": 957.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
