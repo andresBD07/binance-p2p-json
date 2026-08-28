@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-27T20:48:30.122092",
-  "actualizado_vzla": "2026-08-27 16:48:30 -04",
+  "timestamp_utc": "2026-08-28T05:00:03.451180",
+  "actualizado_vzla": "2026-08-28 01:00:03 -04",
   "compra_segundo": {
-    "price": 946.1,
-    "name": "Edixon0101"
+    "price": 942.6,
+    "name": "AENETEACHEOENEYE"
   },
   "venta_maxima": {
-    "price": 946.5,
-    "name": "Gustavo129"
+    "price": 937.1,
+    "name": " Blessed "
   },
-  "promedio": 946.3,
+  "promedio": 939.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
