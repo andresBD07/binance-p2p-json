@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-28T05:00:03.451180",
-  "actualizado_vzla": "2026-08-28 01:00:03 -04",
+  "timestamp_utc": "2026-08-28T17:22:44.447860",
+  "actualizado_vzla": "2026-08-28 13:22:44 -04",
   "compra_segundo": {
-    "price": 942.6,
-    "name": "AENETEACHEOENEYE"
+    "price": 934.0,
+    "name": "CriollosMONEY"
   },
   "venta_maxima": {
-    "price": 937.1,
-    "name": " Blessed "
+    "price": 936.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 939.85,
+  "promedio": 935.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
