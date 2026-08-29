@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-29T01:05:34.288747",
-  "actualizado_vzla": "2026-08-28 21:05:34 -04",
+  "timestamp_utc": "2026-08-29T07:51:25.382896",
+  "actualizado_vzla": "2026-08-29 03:51:25 -04",
   "compra_segundo": {
-    "price": 940.6,
-    "name": "Cambiosya12"
+    "price": 945.3,
+    "name": "RoronoaZoro3"
   },
   "venta_maxima": {
-    "price": 940.01,
-    "name": "Inversiones-ADSC"
+    "price": 940.4,
+    "name": "NewtScamander"
   },
-  "promedio": 940.31,
+  "promedio": 942.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
