@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-28T17:22:44.447860",
-  "actualizado_vzla": "2026-08-28 13:22:44 -04",
+  "timestamp_utc": "2026-08-29T01:05:34.288747",
+  "actualizado_vzla": "2026-08-28 21:05:34 -04",
   "compra_segundo": {
-    "price": 934.0,
-    "name": "CriollosMONEY"
+    "price": 940.6,
+    "name": "Cambiosya12"
   },
   "venta_maxima": {
-    "price": 936.0,
-    "name": "被放逐的狐狸"
+    "price": 940.01,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 935.0,
+  "promedio": 940.31,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
