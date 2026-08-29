@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-29T07:51:25.382896",
-  "actualizado_vzla": "2026-08-29 03:51:25 -04",
+  "timestamp_utc": "2026-08-29T13:34:52.344413",
+  "actualizado_vzla": "2026-08-29 09:34:52 -04",
   "compra_segundo": {
-    "price": 945.3,
-    "name": "RoronoaZoro3"
+    "price": 940.79,
+    "name": "TradEr2025_Drjgh"
   },
   "venta_maxima": {
-    "price": 940.4,
-    "name": "NewtScamander"
+    "price": 940.01,
+    "name": "EverCryptoUSDT "
   },
-  "promedio": 942.85,
+  "promedio": 940.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
