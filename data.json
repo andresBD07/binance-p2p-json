@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-30T21:38:27.499413",
-  "actualizado_vzla": "2026-08-30 17:38:27 -04",
+  "timestamp_utc": "2026-08-30T23:54:43.051763",
+  "actualizado_vzla": "2026-08-30 19:54:43 -04",
   "compra_segundo": {
-    "price": 934.549,
-    "name": "GhuzzCz"
+    "price": 935.1,
+    "name": "Elvisvilla34"
   },
   "venta_maxima": {
-    "price": 936.5,
+    "price": 934.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 935.52,
+  "promedio": 934.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
