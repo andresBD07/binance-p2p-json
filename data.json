@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-29T19:54:31.153072",
-  "actualizado_vzla": "2026-08-29 15:54:31 -04",
+  "timestamp_utc": "2026-08-30T00:39:17.520673",
+  "actualizado_vzla": "2026-08-29 20:39:17 -04",
   "compra_segundo": {
-    "price": 938.05,
-    "name": "Clovers-"
+    "price": 935.929,
+    "name": "Marcmundo01"
   },
   "venta_maxima": {
-    "price": 938.0,
+    "price": 936.0,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 938.02,
+  "promedio": 935.96,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
