@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-30T05:52:18.885824",
-  "actualizado_vzla": "2026-08-30 01:52:18 -04",
+  "timestamp_utc": "2026-08-30T11:19:27.602813",
+  "actualizado_vzla": "2026-08-30 07:19:27 -04",
   "compra_segundo": {
-    "price": 938.999,
-    "name": "JoelonN"
+    "price": 938.6,
+    "name": "YHWHTrade"
   },
   "venta_maxima": {
-    "price": 934.6,
-    "name": "CesarRodriguez53"
+    "price": 934.0,
+    "name": "Comercializadora_MAC"
   },
-  "promedio": 936.8,
+  "promedio": 936.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
