@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-30T18:43:54.041143",
-  "actualizado_vzla": "2026-08-30 14:43:54 -04",
+  "timestamp_utc": "2026-08-30T21:38:27.499413",
+  "actualizado_vzla": "2026-08-30 17:38:27 -04",
   "compra_segundo": {
-    "price": 937.9,
-    "name": "Open-cambios"
+    "price": 934.549,
+    "name": "GhuzzCz"
   },
   "venta_maxima": {
-    "price": 936.0,
+    "price": 936.5,
     "name": "CriptoseguroAyM"
   },
-  "promedio": 936.95,
+  "promedio": 935.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
