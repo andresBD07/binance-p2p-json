@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-31T11:28:50.616058",
-  "actualizado_vzla": "2026-08-31 07:28:50 -04",
+  "timestamp_utc": "2026-08-31T18:06:20.937434",
+  "actualizado_vzla": "2026-08-31 14:06:20 -04",
   "compra_segundo": {
-    "price": 935.449,
-    "name": "yoyocaco73"
+    "price": 926.78,
+    "name": "CH-Intercambios"
   },
   "venta_maxima": {
-    "price": 931.5,
-    "name": "贝HarveySpecter贝"
+    "price": 925.5,
+    "name": "IronCladP2P"
   },
-  "promedio": 933.47,
+  "promedio": 926.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
