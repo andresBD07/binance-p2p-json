@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-31T04:54:37.378180",
-  "actualizado_vzla": "2026-08-31 00:54:37 -04",
+  "timestamp_utc": "2026-08-31T11:28:50.616058",
+  "actualizado_vzla": "2026-08-31 07:28:50 -04",
   "compra_segundo": {
-    "price": 936.9,
-    "name": "Listoexpress"
+    "price": 935.449,
+    "name": "yoyocaco73"
   },
   "venta_maxima": {
-    "price": 932.203,
-    "name": "MentalStagnums"
+    "price": 931.5,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 934.55,
+  "promedio": 933.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
