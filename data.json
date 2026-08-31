@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-31T18:06:20.937434",
-  "actualizado_vzla": "2026-08-31 14:06:20 -04",
+  "timestamp_utc": "2026-08-31T22:49:16.083281",
+  "actualizado_vzla": "2026-08-31 18:49:16 -04",
   "compra_segundo": {
-    "price": 926.78,
-    "name": "CH-Intercambios"
+    "price": 933.8,
+    "name": "VITRIOL33"
   },
   "venta_maxima": {
-    "price": 925.5,
-    "name": "IronCladP2P"
+    "price": 936.0,
+    "name": "Cross-26"
   },
-  "promedio": 926.14,
+  "promedio": 934.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
