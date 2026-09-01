@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-01T16:38:14.257514",
-  "actualizado_vzla": "2026-09-01 12:38:14 -04",
+  "timestamp_utc": "2026-09-01T19:37:09.045175",
+  "actualizado_vzla": "2026-09-01 15:37:09 -04",
   "compra_segundo": {
-    "price": 949.98,
-    "name": "Casmar84"
+    "price": 959.1,
+    "name": "AM_BovedaActiva"
   },
   "venta_maxima": {
-    "price": 947.9,
-    "name": "angelchacon"
+    "price": 958.0,
+    "name": "Escocrida"
   },
-  "promedio": 948.94,
+  "promedio": 958.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
