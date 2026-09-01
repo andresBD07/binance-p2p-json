@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-01T19:37:09.045175",
-  "actualizado_vzla": "2026-09-01 15:37:09 -04",
+  "timestamp_utc": "2026-09-01T22:03:35.134868",
+  "actualizado_vzla": "2026-09-01 18:03:35 -04",
   "compra_segundo": {
-    "price": 959.1,
-    "name": "AM_BovedaActiva"
+    "price": 959.099,
+    "name": "StartBusiness"
   },
   "venta_maxima": {
-    "price": 958.0,
-    "name": "Escocrida"
+    "price": 959.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 958.55,
+  "promedio": 959.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
