@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-01T12:06:23.769265",
-  "actualizado_vzla": "2026-09-01 08:06:23 -04",
+  "timestamp_utc": "2026-09-01T16:38:14.257514",
+  "actualizado_vzla": "2026-09-01 12:38:14 -04",
   "compra_segundo": {
-    "price": 943.4,
-    "name": "CRIPTOCARIBE-JE"
+    "price": 949.98,
+    "name": "Casmar84"
   },
   "venta_maxima": {
-    "price": 941.0,
-    "name": "TradeLion2026"
+    "price": 947.9,
+    "name": "angelchacon"
   },
-  "promedio": 942.2,
+  "promedio": 948.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
