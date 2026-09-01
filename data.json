@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-08-31T22:49:16.083281",
-  "actualizado_vzla": "2026-08-31 18:49:16 -04",
+  "timestamp_utc": "2026-09-01T01:30:51.040426",
+  "actualizado_vzla": "2026-08-31 21:30:51 -04",
   "compra_segundo": {
-    "price": 933.8,
-    "name": "VITRIOL33"
+    "price": 940.4,
+    "name": "CAMBIOSJFG"
   },
   "venta_maxima": {
-    "price": 936.0,
-    "name": "Cross-26"
+    "price": 939.0,
+    "name": "HectorB"
   },
-  "promedio": 934.9,
+  "promedio": 939.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
