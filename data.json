@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-02T19:55:43.123451",
-  "actualizado_vzla": "2026-09-02 15:55:43 -04",
+  "timestamp_utc": "2026-09-02T22:31:09.668966",
+  "actualizado_vzla": "2026-09-02 18:31:09 -04",
   "compra_segundo": {
-    "price": 970.287,
-    "name": "BalduinoIV"
+    "price": 977.939,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
-    "price": 969.0,
-    "name": "Cross-26"
+    "price": 976.0,
+    "name": "Smolder-"
   },
-  "promedio": 969.64,
+  "promedio": 976.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
