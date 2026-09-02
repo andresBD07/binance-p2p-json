@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-02T13:33:58.215458",
-  "actualizado_vzla": "2026-09-02 09:33:58 -04",
+  "timestamp_utc": "2026-09-02T17:19:25.480225",
+  "actualizado_vzla": "2026-09-02 13:19:25 -04",
   "compra_segundo": {
-    "price": 964.7,
-    "name": "Lirio_Nocturno8"
+    "price": 968.88,
+    "name": "-CambiosBarrilito-"
   },
   "venta_maxima": {
-    "price": 964.0,
-    "name": "fighting_group888"
+    "price": 967.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 964.35,
+  "promedio": 967.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
