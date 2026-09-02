@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-02T00:06:43.912145",
-  "actualizado_vzla": "2026-09-01 20:06:43 -04",
+  "timestamp_utc": "2026-09-02T04:32:21.117975",
+  "actualizado_vzla": "2026-09-02 00:32:21 -04",
   "compra_segundo": {
-    "price": 961.99,
-    "name": "改善Gudrid改善"
+    "price": 968.98,
+    "name": "x88rising"
   },
   "venta_maxima": {
-    "price": 962.0,
-    "name": "Trust-Broker"
+    "price": 964.1,
+    "name": "SirCaiza-Trader"
   },
-  "promedio": 962.0,
+  "promedio": 966.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
