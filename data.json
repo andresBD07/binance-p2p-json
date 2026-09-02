@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-02T17:19:25.480225",
-  "actualizado_vzla": "2026-09-02 13:19:25 -04",
+  "timestamp_utc": "2026-09-02T19:55:43.123451",
+  "actualizado_vzla": "2026-09-02 15:55:43 -04",
   "compra_segundo": {
-    "price": 968.88,
-    "name": "-CambiosBarrilito-"
+    "price": 970.287,
+    "name": "BalduinoIV"
   },
   "venta_maxima": {
-    "price": 967.0,
-    "name": "Trust-Broker"
+    "price": 969.0,
+    "name": "Cross-26"
   },
-  "promedio": 967.94,
+  "promedio": 969.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
