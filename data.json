@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-01T22:03:35.134868",
-  "actualizado_vzla": "2026-09-01 18:03:35 -04",
+  "timestamp_utc": "2026-09-02T00:06:43.912145",
+  "actualizado_vzla": "2026-09-01 20:06:43 -04",
   "compra_segundo": {
-    "price": 959.099,
-    "name": "StartBusiness"
+    "price": 961.99,
+    "name": "改善Gudrid改善"
   },
   "venta_maxima": {
-    "price": 959.0,
-    "name": "Blank_Mind"
+    "price": 962.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 959.05,
+  "promedio": 962.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
