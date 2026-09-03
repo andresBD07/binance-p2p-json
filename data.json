@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-03T17:46:33.240458",
-  "actualizado_vzla": "2026-09-03 13:46:33 -04",
+  "timestamp_utc": "2026-09-03T20:09:31.706234",
+  "actualizado_vzla": "2026-09-03 16:09:31 -04",
   "compra_segundo": {
-    "price": 984.689,
-    "name": "BOLIVARES_BS"
+    "price": 982.27,
+    "name": "hc-investings"
   },
   "venta_maxima": {
-    "price": 983.1,
+    "price": 981.5,
     "name": "KaioSama16"
   },
-  "promedio": 983.89,
+  "promedio": 981.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
