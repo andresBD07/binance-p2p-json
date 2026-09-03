@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-03T20:09:31.706234",
-  "actualizado_vzla": "2026-09-03 16:09:31 -04",
+  "timestamp_utc": "2026-09-03T22:36:07.427238",
+  "actualizado_vzla": "2026-09-03 18:36:07 -04",
   "compra_segundo": {
-    "price": 982.27,
-    "name": "hc-investings"
+    "price": 973.378,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 981.5,
-    "name": "KaioSama16"
+    "price": 974.4,
+    "name": "Ccripto16"
   },
-  "promedio": 981.88,
+  "promedio": 973.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
