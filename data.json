@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-03T00:36:09.314190",
-  "actualizado_vzla": "2026-09-02 20:36:09 -04",
+  "timestamp_utc": "2026-09-03T05:03:59.230721",
+  "actualizado_vzla": "2026-09-03 01:03:59 -04",
   "compra_segundo": {
-    "price": 978.0,
-    "name": "Labubu_96"
+    "price": 979.35,
+    "name": "VISÓN CRIPTØ"
   },
   "venta_maxima": {
-    "price": 978.0,
-    "name": "LordCambios"
+    "price": 974.0,
+    "name": "zama2004"
   },
-  "promedio": 978.0,
+  "promedio": 976.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
