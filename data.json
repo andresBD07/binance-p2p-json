@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-03T22:36:07.427238",
-  "actualizado_vzla": "2026-09-03 18:36:07 -04",
+  "timestamp_utc": "2026-09-04T00:24:29.998303",
+  "actualizado_vzla": "2026-09-03 20:24:30 -04",
   "compra_segundo": {
-    "price": 973.378,
-    "name": "_AltCoinMaster_"
+    "price": 973.9,
+    "name": "zoecambios_21"
   },
   "venta_maxima": {
-    "price": 974.4,
-    "name": "Ccripto16"
+    "price": 976.1,
+    "name": "KaioSama16"
   },
-  "promedio": 973.89,
+  "promedio": 975.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
