@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-04T00:24:29.998303",
-  "actualizado_vzla": "2026-09-03 20:24:30 -04",
+  "timestamp_utc": "2026-09-04T04:58:27.646900",
+  "actualizado_vzla": "2026-09-04 00:58:27 -04",
   "compra_segundo": {
-    "price": 973.9,
-    "name": "zoecambios_21"
+    "price": 977.7,
+    "name": "JokerSwap"
   },
   "venta_maxima": {
-    "price": 976.1,
-    "name": "KaioSama16"
+    "price": 973.101,
+    "name": "Capital_VES_P2P"
   },
-  "promedio": 975.0,
+  "promedio": 975.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
