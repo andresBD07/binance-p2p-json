@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-04T09:31:24.781549",
-  "actualizado_vzla": "2026-09-04 05:31:24 -04",
+  "timestamp_utc": "2026-09-04T13:44:25.194459",
+  "actualizado_vzla": "2026-09-04 09:44:25 -04",
   "compra_segundo": {
-    "price": 977.8,
-    "name": "Holy_Spirit_"
+    "price": 971.0,
+    "name": "Herstellerin"
   },
   "venta_maxima": {
-    "price": 972.0,
-    "name": "zama2004"
+    "price": 973.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 974.9,
+  "promedio": 972.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
