@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-04T17:10:18.632119",
-  "actualizado_vzla": "2026-09-04 13:10:18 -04",
+  "timestamp_utc": "2026-09-04T19:38:00.350612",
+  "actualizado_vzla": "2026-09-04 15:38:00 -04",
   "compra_segundo": {
-    "price": 965.0,
-    "name": "Germanctr"
+    "price": 963.799,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 970.0,
+    "price": 966.0,
     "name": "被放逐的狐狸"
   },
-  "promedio": 967.5,
+  "promedio": 964.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
