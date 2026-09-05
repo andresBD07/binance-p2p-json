@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-05T06:13:43.926614",
-  "actualizado_vzla": "2026-09-05 02:13:43 -04",
+  "timestamp_utc": "2026-09-05T10:43:42.560804",
+  "actualizado_vzla": "2026-09-05 06:43:42 -04",
   "compra_segundo": {
-    "price": 971.78,
-    "name": "Holy_Spirit_"
+    "price": 969.8,
+    "name": "GJCB_Trader"
   },
   "venta_maxima": {
-    "price": 965.616,
-    "name": "VISÓN CRIPTØ"
+    "price": 964.0,
+    "name": "ReadyToTrade_"
   },
-  "promedio": 968.7,
+  "promedio": 966.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
