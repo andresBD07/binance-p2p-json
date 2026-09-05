@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-05T01:25:07.624043",
-  "actualizado_vzla": "2026-09-04 21:25:07 -04",
+  "timestamp_utc": "2026-09-05T06:13:43.926614",
+  "actualizado_vzla": "2026-09-05 02:13:43 -04",
   "compra_segundo": {
-    "price": 967.799,
-    "name": "DayExpress1"
+    "price": 971.78,
+    "name": "Holy_Spirit_"
   },
   "venta_maxima": {
-    "price": 967.5,
-    "name": "CriptoseguroAyM"
+    "price": 965.616,
+    "name": "VISÓN CRIPTØ"
   },
-  "promedio": 967.65,
+  "promedio": 968.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
