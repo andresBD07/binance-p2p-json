@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-05T13:34:03.148836",
-  "actualizado_vzla": "2026-09-05 09:34:03 -04",
+  "timestamp_utc": "2026-09-05T16:14:41.674009",
+  "actualizado_vzla": "2026-09-05 12:14:41 -04",
   "compra_segundo": {
-    "price": 966.47,
-    "name": "Chester_Cambios"
+    "price": 964.99,
+    "name": "HectorljD"
   },
   "venta_maxima": {
-    "price": 969.0,
-    "name": "Blank_Mind"
+    "price": 971.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 967.74,
+  "promedio": 968.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
