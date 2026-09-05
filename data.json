@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-05T20:37:17.958615",
-  "actualizado_vzla": "2026-09-05 16:37:17 -04",
+  "timestamp_utc": "2026-09-05T22:18:54.416977",
+  "actualizado_vzla": "2026-09-05 18:18:54 -04",
   "compra_segundo": {
-    "price": 960.68,
-    "name": "camaro84"
+    "price": 958.0,
+    "name": "Naguara App"
   },
   "venta_maxima": {
-    "price": 964.0,
-    "name": "CriptoseguroAyM"
+    "price": 958.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 962.34,
+  "promedio": 958.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
