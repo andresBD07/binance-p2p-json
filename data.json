@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-05T18:24:22.078646",
-  "actualizado_vzla": "2026-09-05 14:24:22 -04",
+  "timestamp_utc": "2026-09-05T20:37:17.958615",
+  "actualizado_vzla": "2026-09-05 16:37:17 -04",
   "compra_segundo": {
-    "price": 961.999,
-    "name": "SecureEX_Pro"
+    "price": 960.68,
+    "name": "camaro84"
   },
   "venta_maxima": {
-    "price": 967.0,
-    "name": "被放逐的狐狸"
+    "price": 964.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 964.5,
+  "promedio": 962.34,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
