@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T19:37:27.476359",
-  "actualizado_vzla": "2026-09-06 15:37:27 -04",
+  "timestamp_utc": "2026-09-06T21:43:31.662285",
+  "actualizado_vzla": "2026-09-06 17:43:31 -04",
   "compra_segundo": {
-    "price": 960.09,
-    "name": "BOLIVARES_BS"
+    "price": 959.7,
+    "name": "JMS-XCHANGE"
   },
   "venta_maxima": {
-    "price": 960.0,
-    "name": "Frijol007"
+    "price": 959.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 960.05,
+  "promedio": 959.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
