@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T17:47:13.900036",
-  "actualizado_vzla": "2026-09-06 13:47:13 -04",
+  "timestamp_utc": "2026-09-06T19:37:27.476359",
+  "actualizado_vzla": "2026-09-06 15:37:27 -04",
   "compra_segundo": {
-    "price": 960.749,
-    "name": "CryptoMendoza-"
+    "price": 960.09,
+    "name": "BOLIVARES_BS"
   },
   "venta_maxima": {
-    "price": 960.005,
-    "name": "Trust-Broker"
+    "price": 960.0,
+    "name": "Frijol007"
   },
-  "promedio": 960.38,
+  "promedio": 960.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
