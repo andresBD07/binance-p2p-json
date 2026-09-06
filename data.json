@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-05T22:18:54.416977",
-  "actualizado_vzla": "2026-09-05 18:18:54 -04",
+  "timestamp_utc": "2026-09-06T00:02:29.243484",
+  "actualizado_vzla": "2026-09-05 20:02:29 -04",
   "compra_segundo": {
-    "price": 958.0,
-    "name": "Naguara App"
+    "price": 957.839,
+    "name": "AlfaTrader21"
   },
   "venta_maxima": {
     "price": 958.005,
     "name": "Trust-Broker"
   },
-  "promedio": 958.0,
+  "promedio": 957.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
