@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T15:46:48.957010",
-  "actualizado_vzla": "2026-09-06 11:46:48 -04",
+  "timestamp_utc": "2026-09-06T17:47:13.900036",
+  "actualizado_vzla": "2026-09-06 13:47:13 -04",
   "compra_segundo": {
-    "price": 961.49,
-    "name": "Elnegrop2p"
+    "price": 960.749,
+    "name": "CryptoMendoza-"
   },
   "venta_maxima": {
-    "price": 959.6,
-    "name": "ミReinaPepiadaCoinミ"
+    "price": 960.005,
+    "name": "Trust-Broker"
   },
-  "promedio": 960.55,
+  "promedio": 960.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
