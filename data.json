@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T12:35:49.712554",
-  "actualizado_vzla": "2026-09-06 08:35:49 -04",
+  "timestamp_utc": "2026-09-06T15:46:48.957010",
+  "actualizado_vzla": "2026-09-06 11:46:48 -04",
   "compra_segundo": {
-    "price": 960.888,
-    "name": "LanaCattleya"
+    "price": 961.49,
+    "name": "Elnegrop2p"
   },
   "venta_maxima": {
-    "price": 955.0,
-    "name": "RIVERMONEY"
+    "price": 959.6,
+    "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 957.94,
+  "promedio": 960.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
