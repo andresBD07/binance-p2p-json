@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T00:02:29.243484",
-  "actualizado_vzla": "2026-09-05 20:02:29 -04",
+  "timestamp_utc": "2026-09-06T04:30:36.328224",
+  "actualizado_vzla": "2026-09-06 00:30:36 -04",
   "compra_segundo": {
-    "price": 957.839,
-    "name": "AlfaTrader21"
+    "price": 960.899,
+    "name": "KriptonianoKALEL"
   },
   "venta_maxima": {
-    "price": 958.005,
-    "name": "Trust-Broker"
+    "price": 959.75,
+    "name": "davzotrading"
   },
-  "promedio": 957.92,
+  "promedio": 960.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
