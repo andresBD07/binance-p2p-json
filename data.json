@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T04:30:36.328224",
-  "actualizado_vzla": "2026-09-06 00:30:36 -04",
+  "timestamp_utc": "2026-09-06T08:51:43.132254",
+  "actualizado_vzla": "2026-09-06 04:51:43 -04",
   "compra_segundo": {
-    "price": 960.899,
-    "name": "KriptonianoKALEL"
+    "price": 962.396,
+    "name": "instantremitly "
   },
   "venta_maxima": {
-    "price": 959.75,
-    "name": "davzotrading"
+    "price": 954.0,
+    "name": "CryptoVersos"
   },
-  "promedio": 960.32,
+  "promedio": 958.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
