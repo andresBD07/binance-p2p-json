@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-06T23:15:10.173066",
-  "actualizado_vzla": "2026-09-06 19:15:10 -04",
+  "timestamp_utc": "2026-09-07T01:07:00.288566",
+  "actualizado_vzla": "2026-09-06 21:07:00 -04",
   "compra_segundo": {
-    "price": 961.0,
-    "name": "Edw_Crypto"
+    "price": 963.0,
+    "name": "THE_BOSS_962"
   },
   "venta_maxima": {
-    "price": 960.0,
-    "name": "Trust-Broker"
+    "price": 961.1,
+    "name": "Jin-Woo-Sung"
   },
-  "promedio": 960.5,
+  "promedio": 962.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
