@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-07T17:52:57.059816",
-  "actualizado_vzla": "2026-09-07 13:52:57 -04",
+  "timestamp_utc": "2026-09-07T21:12:07.719907",
+  "actualizado_vzla": "2026-09-07 17:12:07 -04",
   "compra_segundo": {
-    "price": 967.0,
-    "name": "THE_BOSS_962"
+    "price": 971.0,
+    "name": "ExpressCambiOriginal"
   },
   "venta_maxima": {
     "price": 972.0,
     "name": "Blank_Mind"
   },
-  "promedio": 969.5,
+  "promedio": 971.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
