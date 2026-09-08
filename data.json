@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-08T01:22:41.224672",
-  "actualizado_vzla": "2026-09-07 21:22:41 -04",
+  "timestamp_utc": "2026-09-08T06:17:36.522677",
+  "actualizado_vzla": "2026-09-08 02:17:36 -04",
   "compra_segundo": {
-    "price": 972.4,
-    "name": "Cambios_fast54"
+    "price": 974.299,
+    "name": "Aioria1508"
   },
   "venta_maxima": {
-    "price": 972.0,
-    "name": "Blank_Mind"
+    "price": 967.51,
+    "name": "EverCryptoUSDT "
   },
-  "promedio": 972.2,
+  "promedio": 970.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
