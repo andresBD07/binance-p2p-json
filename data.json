@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-08T11:29:46.425706",
-  "actualizado_vzla": "2026-09-08 07:29:46 -04",
+  "timestamp_utc": "2026-09-08T15:17:03.716915",
+  "actualizado_vzla": "2026-09-08 11:17:03 -04",
   "compra_segundo": {
-    "price": 972.0,
-    "name": "FRANCCOS"
+    "price": 970.599,
+    "name": "Viamort"
   },
   "venta_maxima": {
-    "price": 972.0,
-    "name": "Blank_Mind"
+    "price": 969.25,
+    "name": "Trust-Broker"
   },
-  "promedio": 972.0,
+  "promedio": 969.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
