@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-08T21:30:33.940266",
-  "actualizado_vzla": "2026-09-08 17:30:33 -04",
+  "timestamp_utc": "2026-09-08T23:38:42.335020",
+  "actualizado_vzla": "2026-09-08 19:38:42 -04",
   "compra_segundo": {
-    "price": 968.997,
-    "name": "EA_FastPay"
+    "price": 965.5,
+    "name": "pinfi10"
   },
   "venta_maxima": {
-    "price": 970.0,
-    "name": "Blank_Mind"
+    "price": 966.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 969.5,
+  "promedio": 965.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
