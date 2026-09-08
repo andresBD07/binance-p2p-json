@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-08T18:49:09.629854",
-  "actualizado_vzla": "2026-09-08 14:49:09 -04",
+  "timestamp_utc": "2026-09-08T21:30:33.940266",
+  "actualizado_vzla": "2026-09-08 17:30:33 -04",
   "compra_segundo": {
-    "price": 967.198,
-    "name": "Chente123"
+    "price": 968.997,
+    "name": "EA_FastPay"
   },
   "venta_maxima": {
-    "price": 973.0,
-    "name": "La-Tia-Mema"
+    "price": 970.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 970.1,
+  "promedio": 969.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
