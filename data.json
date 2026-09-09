@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-09T06:40:13.517140",
-  "actualizado_vzla": "2026-09-09 02:40:13 -04",
+  "timestamp_utc": "2026-09-09T11:55:33.281026",
+  "actualizado_vzla": "2026-09-09 07:55:33 -04",
   "compra_segundo": {
-    "price": 968.4,
-    "name": "Godspeed_Crypto"
+    "price": 962.9,
+    "name": "Elnegrop2p"
   },
   "venta_maxima": {
     "price": 964.15,
     "name": "Bianchiplus"
   },
-  "promedio": 966.27,
+  "promedio": 963.52,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
