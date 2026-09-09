@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-09T16:26:17.275340",
-  "actualizado_vzla": "2026-09-09 12:26:17 -04",
+  "timestamp_utc": "2026-09-09T19:25:05.808889",
+  "actualizado_vzla": "2026-09-09 15:25:05 -04",
   "compra_segundo": {
-    "price": 965.78,
-    "name": "adonisdroid"
+    "price": 965.9,
+    "name": "Edwin_91"
   },
   "venta_maxima": {
-    "price": 964.5,
-    "name": "MICHELITA_"
+    "price": 969.912,
+    "name": "CONFIABLE-SERVICIOS"
   },
-  "promedio": 965.14,
+  "promedio": 967.91,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
