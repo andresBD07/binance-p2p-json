@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-09T11:55:33.281026",
-  "actualizado_vzla": "2026-09-09 07:55:33 -04",
+  "timestamp_utc": "2026-09-09T16:26:17.275340",
+  "actualizado_vzla": "2026-09-09 12:26:17 -04",
   "compra_segundo": {
-    "price": 962.9,
-    "name": "Elnegrop2p"
+    "price": 965.78,
+    "name": "adonisdroid"
   },
   "venta_maxima": {
-    "price": 964.15,
-    "name": "Bianchiplus"
+    "price": 964.5,
+    "name": "MICHELITA_"
   },
-  "promedio": 963.52,
+  "promedio": 965.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
