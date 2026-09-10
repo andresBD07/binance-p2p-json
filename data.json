@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-10T02:51:18.771289",
-  "actualizado_vzla": "2026-09-09 22:51:18 -04",
+  "timestamp_utc": "2026-09-10T07:49:20.966910",
+  "actualizado_vzla": "2026-09-10 03:49:20 -04",
   "compra_segundo": {
-    "price": 965.5,
-    "name": "ALE-CAMBIOS"
+    "price": 967.0,
+    "name": "x88rising"
   },
   "venta_maxima": {
-    "price": 963.01,
-    "name": "LordCambios"
+    "price": 960.509,
+    "name": "MolinaJP_"
   },
-  "promedio": 964.25,
+  "promedio": 963.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
