@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-10T21:42:12.908940",
-  "actualizado_vzla": "2026-09-10 17:42:12 -04",
+  "timestamp_utc": "2026-09-10T23:25:37.702786",
+  "actualizado_vzla": "2026-09-10 19:25:37 -04",
   "compra_segundo": {
-    "price": 963.38,
-    "name": "NexusBlock"
+    "price": 961.8,
+    "name": "CUATROSIETE"
   },
   "venta_maxima": {
-    "price": 962.5,
-    "name": "Blank_Mind"
+    "price": 961.6,
+    "name": "diomedez14"
   },
-  "promedio": 962.94,
+  "promedio": 961.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
