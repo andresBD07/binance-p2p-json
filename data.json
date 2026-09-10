@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-10T16:39:08.132647",
-  "actualizado_vzla": "2026-09-10 12:39:08 -04",
+  "timestamp_utc": "2026-09-10T19:16:54.028253",
+  "actualizado_vzla": "2026-09-10 15:16:54 -04",
   "compra_segundo": {
-    "price": 964.0,
-    "name": "MikasaExchange"
+    "price": 962.9,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 962.547,
-    "name": "TOPlevelS"
+    "price": 962.4,
+    "name": "IngCryptos"
   },
-  "promedio": 963.27,
+  "promedio": 962.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
