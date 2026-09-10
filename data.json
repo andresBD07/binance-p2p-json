@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-10T07:49:20.966910",
-  "actualizado_vzla": "2026-09-10 03:49:20 -04",
+  "timestamp_utc": "2026-09-10T12:30:16.316469",
+  "actualizado_vzla": "2026-09-10 08:30:16 -04",
   "compra_segundo": {
-    "price": 967.0,
-    "name": "x88rising"
+    "price": 961.9,
+    "name": "Herstellerin"
   },
   "venta_maxima": {
-    "price": 960.509,
-    "name": "MolinaJP_"
+    "price": 960.2,
+    "name": "FamaP2P"
   },
-  "promedio": 963.75,
+  "promedio": 961.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
