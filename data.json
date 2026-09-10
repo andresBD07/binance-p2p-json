@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-09T23:51:15.951395",
-  "actualizado_vzla": "2026-09-09 19:51:15 -04",
+  "timestamp_utc": "2026-09-10T02:51:18.771289",
+  "actualizado_vzla": "2026-09-09 22:51:18 -04",
   "compra_segundo": {
-    "price": 965.59,
-    "name": "AUTOPAY-P2P"
+    "price": 965.5,
+    "name": "ALE-CAMBIOS"
   },
   "venta_maxima": {
-    "price": 965.0,
-    "name": "CambiosMZ"
+    "price": 963.01,
+    "name": "LordCambios"
   },
-  "promedio": 965.3,
+  "promedio": 964.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
