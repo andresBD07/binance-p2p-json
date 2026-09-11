@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-11T21:20:14.393374",
-  "actualizado_vzla": "2026-09-11 17:20:14 -04",
+  "timestamp_utc": "2026-09-11T23:24:58.097032",
+  "actualizado_vzla": "2026-09-11 19:24:58 -04",
   "compra_segundo": {
-    "price": 959.999,
-    "name": "Minato21"
+    "price": 962.788,
+    "name": "StarBusiness2"
   },
   "venta_maxima": {
-    "price": 960.0,
+    "price": 965.0,
     "name": "LordCambios"
   },
-  "promedio": 960.0,
+  "promedio": 963.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
