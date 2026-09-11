@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-11T18:39:00.992296",
-  "actualizado_vzla": "2026-09-11 14:39:01 -04",
+  "timestamp_utc": "2026-09-11T21:20:14.393374",
+  "actualizado_vzla": "2026-09-11 17:20:14 -04",
   "compra_segundo": {
-    "price": 958.0,
-    "name": "cambiaseguro22"
+    "price": 959.999,
+    "name": "Minato21"
   },
   "venta_maxima": {
-    "price": 956.005,
-    "name": "Trust-Broker"
+    "price": 960.0,
+    "name": "LordCambios"
   },
-  "promedio": 957.0,
+  "promedio": 960.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
