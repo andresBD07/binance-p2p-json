@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-10T23:25:37.702786",
-  "actualizado_vzla": "2026-09-10 19:25:37 -04",
+  "timestamp_utc": "2026-09-11T01:23:37.744928",
+  "actualizado_vzla": "2026-09-10 21:23:37 -04",
   "compra_segundo": {
-    "price": 961.8,
-    "name": "CUATROSIETE"
+    "price": 962.999,
+    "name": "SafeSwapLong"
   },
   "venta_maxima": {
-    "price": 961.6,
-    "name": "diomedez14"
+    "price": 964.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 961.7,
+  "promedio": 963.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
