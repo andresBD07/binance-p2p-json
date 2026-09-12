@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-12T19:22:28.931144",
-  "actualizado_vzla": "2026-09-12 15:22:28 -04",
+  "timestamp_utc": "2026-09-12T21:33:07.966189",
+  "actualizado_vzla": "2026-09-12 17:33:07 -04",
   "compra_segundo": {
-    "price": 959.999,
-    "name": "DiosesbuenoDiosteama"
+    "price": 958.395,
+    "name": "majog"
   },
   "venta_maxima": {
-    "price": 960.0,
-    "name": "Trust-Broker"
+    "price": 956.0,
+    "name": "-TSxRV-"
   },
-  "promedio": 960.0,
+  "promedio": 957.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
