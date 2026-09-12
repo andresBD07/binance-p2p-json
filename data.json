@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-12T01:26:01.167840",
-  "actualizado_vzla": "2026-09-11 21:26:01 -04",
+  "timestamp_utc": "2026-09-12T06:23:24.938536",
+  "actualizado_vzla": "2026-09-12 02:23:24 -04",
   "compra_segundo": {
-    "price": 963.5,
-    "name": "VENTASJM"
+    "price": 964.5,
+    "name": "CryptoSickoP2P"
   },
   "venta_maxima": {
-    "price": 965.0,
-    "name": "LordCambios"
+    "price": 962.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 964.25,
+  "promedio": 963.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
