@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-11T23:24:58.097032",
-  "actualizado_vzla": "2026-09-11 19:24:58 -04",
+  "timestamp_utc": "2026-09-12T01:26:01.167840",
+  "actualizado_vzla": "2026-09-11 21:26:01 -04",
   "compra_segundo": {
-    "price": 962.788,
-    "name": "StarBusiness2"
+    "price": 963.5,
+    "name": "VENTASJM"
   },
   "venta_maxima": {
     "price": 965.0,
     "name": "LordCambios"
   },
-  "promedio": 963.89,
+  "promedio": 964.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
