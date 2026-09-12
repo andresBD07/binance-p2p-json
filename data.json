@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-12T11:06:47.536562",
-  "actualizado_vzla": "2026-09-12 07:06:47 -04",
+  "timestamp_utc": "2026-09-12T14:06:30.617777",
+  "actualizado_vzla": "2026-09-12 10:06:30 -04",
   "compra_segundo": {
-    "price": 964.2,
-    "name": "Cripto-Mendigo"
+    "price": 962.398,
+    "name": "tripleacrypto"
   },
   "venta_maxima": {
     "price": 962.0,
-    "name": "CoorpLogistic"
+    "name": "Trust-Broker"
   },
-  "promedio": 963.1,
+  "promedio": 962.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
