@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-12T21:33:07.966189",
-  "actualizado_vzla": "2026-09-12 17:33:07 -04",
+  "timestamp_utc": "2026-09-12T23:18:23.710683",
+  "actualizado_vzla": "2026-09-12 19:18:23 -04",
   "compra_segundo": {
-    "price": 958.395,
-    "name": "majog"
+    "price": 957.95,
+    "name": "AA_Over"
   },
   "venta_maxima": {
-    "price": 956.0,
-    "name": "-TSxRV-"
+    "price": 957.0,
+    "name": "CROMOSOMA-21"
   },
-  "promedio": 957.2,
+  "promedio": 957.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
