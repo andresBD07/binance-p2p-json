@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-13T06:16:56.556166",
-  "actualizado_vzla": "2026-09-13 02:16:56 -04",
+  "timestamp_utc": "2026-09-13T12:06:20.804388",
+  "actualizado_vzla": "2026-09-13 08:06:20 -04",
   "compra_segundo": {
-    "price": 961.79,
-    "name": "EverCryptoUSDT "
+    "price": 960.7,
+    "name": "YersonCapital"
   },
   "venta_maxima": {
-    "price": 958.0,
-    "name": "Trust-Broker"
+    "price": 956.5,
+    "name": "FUERZA_ELITE"
   },
-  "promedio": 959.89,
+  "promedio": 958.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
