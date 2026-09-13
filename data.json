@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-13T12:06:20.804388",
-  "actualizado_vzla": "2026-09-13 08:06:20 -04",
+  "timestamp_utc": "2026-09-13T16:15:01.242548",
+  "actualizado_vzla": "2026-09-13 12:15:01 -04",
   "compra_segundo": {
-    "price": 960.7,
-    "name": "YersonCapital"
+    "price": 961.0,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 956.5,
-    "name": "FUERZA_ELITE"
+    "price": 960.0,
+    "name": "Cross-26"
   },
-  "promedio": 958.6,
+  "promedio": 960.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
