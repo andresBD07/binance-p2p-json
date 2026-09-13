@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-13T21:13:15.066701",
-  "actualizado_vzla": "2026-09-13 17:13:15 -04",
+  "timestamp_utc": "2026-09-13T23:12:50.628046",
+  "actualizado_vzla": "2026-09-13 19:12:50 -04",
   "compra_segundo": {
-    "price": 962.2,
-    "name": "Ackerman12"
+    "price": 962.279,
+    "name": "cesarcal23"
   },
   "venta_maxima": {
-    "price": 961.55,
-    "name": "FUERZA_ELITE"
+    "price": 963.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 961.88,
+  "promedio": 962.64,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
