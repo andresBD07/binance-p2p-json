@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-12T23:18:23.710683",
-  "actualizado_vzla": "2026-09-12 19:18:23 -04",
+  "timestamp_utc": "2026-09-13T01:12:31.535648",
+  "actualizado_vzla": "2026-09-12 21:12:31 -04",
   "compra_segundo": {
-    "price": 957.95,
-    "name": "AA_Over"
+    "price": 959.95,
+    "name": "AdriV-P2P"
   },
   "venta_maxima": {
-    "price": 957.0,
-    "name": "CROMOSOMA-21"
+    "price": 957.3,
+    "name": "LeymusCoin"
   },
-  "promedio": 957.48,
+  "promedio": 958.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
