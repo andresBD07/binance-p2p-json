@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-13T01:12:31.535648",
-  "actualizado_vzla": "2026-09-12 21:12:31 -04",
+  "timestamp_utc": "2026-09-13T06:16:56.556166",
+  "actualizado_vzla": "2026-09-13 02:16:56 -04",
   "compra_segundo": {
-    "price": 959.95,
-    "name": "AdriV-P2P"
+    "price": 961.79,
+    "name": "EverCryptoUSDT "
   },
   "venta_maxima": {
-    "price": 957.3,
-    "name": "LeymusCoin"
+    "price": 958.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 958.62,
+  "promedio": 959.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
