@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-14T01:12:22.690886",
-  "actualizado_vzla": "2026-09-13 21:12:22 -04",
+  "timestamp_utc": "2026-09-14T06:24:32.263694",
+  "actualizado_vzla": "2026-09-14 02:24:32 -04",
   "compra_segundo": {
-    "price": 965.2,
-    "name": "CambioRapido13"
+    "price": 968.5,
+    "name": "_Cyber_Glup_Matrix_-"
   },
   "venta_maxima": {
-    "price": 962.906,
-    "name": "TOPlevelS"
+    "price": 962.605,
+    "name": "Newton_TraderFast"
   },
-  "promedio": 964.05,
+  "promedio": 965.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
