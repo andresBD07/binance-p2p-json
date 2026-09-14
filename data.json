@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-13T23:12:50.628046",
-  "actualizado_vzla": "2026-09-13 19:12:50 -04",
+  "timestamp_utc": "2026-09-14T01:12:22.690886",
+  "actualizado_vzla": "2026-09-13 21:12:22 -04",
   "compra_segundo": {
-    "price": 962.279,
-    "name": "cesarcal23"
+    "price": 965.2,
+    "name": "CambioRapido13"
   },
   "venta_maxima": {
-    "price": 963.0,
-    "name": "Trust-Broker"
+    "price": 962.906,
+    "name": "TOPlevelS"
   },
-  "promedio": 962.64,
+  "promedio": 964.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
