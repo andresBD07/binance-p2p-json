@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-14T13:13:41.571851",
-  "actualizado_vzla": "2026-09-14 09:13:41 -04",
+  "timestamp_utc": "2026-09-14T18:41:51.695114",
+  "actualizado_vzla": "2026-09-14 14:41:51 -04",
   "compra_segundo": {
-    "price": 963.899,
-    "name": "ADARA--CHACHI"
+    "price": 957.6,
+    "name": "S3bss_Exchang3"
   },
   "venta_maxima": {
-    "price": 962.0,
-    "name": "KAIROS333"
+    "price": 958.0,
+    "name": "Blank_Mind"
   },
-  "promedio": 962.95,
+  "promedio": 957.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
