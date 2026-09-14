@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-14T06:24:32.263694",
-  "actualizado_vzla": "2026-09-14 02:24:32 -04",
+  "timestamp_utc": "2026-09-14T13:13:41.571851",
+  "actualizado_vzla": "2026-09-14 09:13:41 -04",
   "compra_segundo": {
-    "price": 968.5,
-    "name": "_Cyber_Glup_Matrix_-"
+    "price": 963.899,
+    "name": "ADARA--CHACHI"
   },
   "venta_maxima": {
-    "price": 962.605,
-    "name": "Newton_TraderFast"
+    "price": 962.0,
+    "name": "KAIROS333"
   },
-  "promedio": 965.55,
+  "promedio": 962.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
