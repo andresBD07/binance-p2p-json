@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-15T00:37:15.318179",
-  "actualizado_vzla": "2026-09-14 20:37:15 -04",
+  "timestamp_utc": "2026-09-15T05:23:19.695971",
+  "actualizado_vzla": "2026-09-15 01:23:19 -04",
   "compra_segundo": {
-    "price": 952.0,
-    "name": "Xyruzx"
+    "price": 953.0,
+    "name": "DIOSESTODOPARAMI"
   },
   "venta_maxima": {
-    "price": 953.0,
-    "name": "Blank_Mind"
+    "price": 947.11,
+    "name": "Securityy"
   },
-  "promedio": 952.5,
+  "promedio": 950.06,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
