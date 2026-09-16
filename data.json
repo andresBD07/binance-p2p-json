@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-16T21:37:35.617656",
-  "actualizado_vzla": "2026-09-16 17:37:35 -04",
+  "timestamp_utc": "2026-09-16T23:51:49.611927",
+  "actualizado_vzla": "2026-09-16 19:51:49 -04",
   "compra_segundo": {
-    "price": 961.1,
-    "name": "La-Tia-Mema"
+    "price": 959.999,
+    "name": "Guayoyoo"
   },
   "venta_maxima": {
-    "price": 959.008,
-    "name": "Trust-Broker"
+    "price": 959.0,
+    "name": "DOCTOR_CAMBIO"
   },
-  "promedio": 960.05,
+  "promedio": 959.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
