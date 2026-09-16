@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-16T14:38:03.018198",
-  "actualizado_vzla": "2026-09-16 10:38:03 -04",
+  "timestamp_utc": "2026-09-16T18:26:41.248339",
+  "actualizado_vzla": "2026-09-16 14:26:41 -04",
   "compra_segundo": {
-    "price": 958.1,
-    "name": "TradewCrypto"
+    "price": 959.0,
+    "name": "doctor_zoidberg"
   },
   "venta_maxima": {
-    "price": 956.1,
-    "name": "John-Deere"
+    "price": 958.1,
+    "name": "-维克多-"
   },
-  "promedio": 957.1,
+  "promedio": 958.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
