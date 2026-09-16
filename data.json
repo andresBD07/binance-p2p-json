@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-16T09:52:37.638592",
-  "actualizado_vzla": "2026-09-16 05:52:37 -04",
+  "timestamp_utc": "2026-09-16T14:38:03.018198",
+  "actualizado_vzla": "2026-09-16 10:38:03 -04",
   "compra_segundo": {
-    "price": 959.99,
-    "name": "PraderaCapital"
+    "price": 958.1,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 955.15,
-    "name": "MOI_CARD"
+    "price": 956.1,
+    "name": "John-Deere"
   },
-  "promedio": 957.57,
+  "promedio": 957.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
