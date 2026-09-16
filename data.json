@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-15T22:08:00.400943",
-  "actualizado_vzla": "2026-09-15 18:08:00 -04",
+  "timestamp_utc": "2026-09-16T00:20:45.598184",
+  "actualizado_vzla": "2026-09-15 20:20:45 -04",
   "compra_segundo": {
-    "price": 957.999,
-    "name": "不會不會他不會"
+    "price": 958.683,
+    "name": "FTAIRG"
   },
   "venta_maxima": {
-    "price": 956.1,
-    "name": "-Tyrion-Lannister-"
+    "price": 956.5,
+    "name": "Trust-Broker"
   },
-  "promedio": 957.05,
+  "promedio": 957.59,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
