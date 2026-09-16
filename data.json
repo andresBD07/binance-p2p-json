@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-16T05:02:08.924652",
-  "actualizado_vzla": "2026-09-16 01:02:08 -04",
+  "timestamp_utc": "2026-09-16T09:52:37.638592",
+  "actualizado_vzla": "2026-09-16 05:52:37 -04",
   "compra_segundo": {
-    "price": 960.499,
-    "name": "ImJustGirl"
+    "price": 959.99,
+    "name": "PraderaCapital"
   },
   "venta_maxima": {
-    "price": 955.0,
-    "name": "Amaz0nas-CRIPTO"
+    "price": 955.15,
+    "name": "MOI_CARD"
   },
-  "promedio": 957.75,
+  "promedio": 957.57,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
