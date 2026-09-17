@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-17T14:05:21.486520",
-  "actualizado_vzla": "2026-09-17 10:05:21 -04",
+  "timestamp_utc": "2026-09-17T18:10:44.937834",
+  "actualizado_vzla": "2026-09-17 14:10:44 -04",
   "compra_segundo": {
-    "price": 949.8,
-    "name": "Soy-Tu-Trader"
+    "price": 953.0,
+    "name": "读Relojero_Exchang音"
   },
   "venta_maxima": {
-    "price": 946.5,
-    "name": "TEQUISUNSHINE"
+    "price": 951.001,
+    "name": "Servic-Karyguz"
   },
-  "promedio": 948.15,
+  "promedio": 952.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
