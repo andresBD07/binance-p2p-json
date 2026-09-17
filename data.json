@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-17T08:51:49.723999",
-  "actualizado_vzla": "2026-09-17 04:51:49 -04",
+  "timestamp_utc": "2026-09-17T14:05:21.486520",
+  "actualizado_vzla": "2026-09-17 10:05:21 -04",
   "compra_segundo": {
-    "price": 959.749,
-    "name": "Aioria1508"
+    "price": 949.8,
+    "name": "Soy-Tu-Trader"
   },
   "venta_maxima": {
-    "price": 953.0,
-    "name": "JoseLNb"
+    "price": 946.5,
+    "name": "TEQUISUNSHINE"
   },
-  "promedio": 956.37,
+  "promedio": 948.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
