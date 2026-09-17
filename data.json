@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-16T23:51:49.611927",
-  "actualizado_vzla": "2026-09-16 19:51:49 -04",
+  "timestamp_utc": "2026-09-17T03:25:57.563153",
+  "actualizado_vzla": "2026-09-16 23:25:57 -04",
   "compra_segundo": {
-    "price": 959.999,
-    "name": "Guayoyoo"
+    "price": 958.999,
+    "name": "Jorgecamacaro79"
   },
   "venta_maxima": {
-    "price": 959.0,
-    "name": "DOCTOR_CAMBIO"
+    "price": 953.7,
+    "name": "Jhaxssss"
   },
-  "promedio": 959.5,
+  "promedio": 956.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
