@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-18T06:36:45.304714",
-  "actualizado_vzla": "2026-09-18 02:36:45 -04",
+  "timestamp_utc": "2026-09-18T11:49:46.707221",
+  "actualizado_vzla": "2026-09-18 07:49:46 -04",
   "compra_segundo": {
-    "price": 951.0,
-    "name": "Bernaaaaaaa"
+    "price": 947.26,
+    "name": "RicoMcPato_3minutos"
   },
   "venta_maxima": {
-    "price": 946.0,
-    "name": "deikko24"
+    "price": 946.1,
+    "name": "User-95450"
   },
-  "promedio": 948.5,
+  "promedio": 946.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
