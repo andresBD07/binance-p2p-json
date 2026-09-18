@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-18T15:32:01.573706",
-  "actualizado_vzla": "2026-09-18 11:32:01 -04",
+  "timestamp_utc": "2026-09-18T18:37:21.399600",
+  "actualizado_vzla": "2026-09-18 14:37:21 -04",
   "compra_segundo": {
-    "price": 948.999,
-    "name": "CambiosDelValle26"
+    "price": 951.59,
+    "name": "TAZ-P2P"
   },
   "venta_maxima": {
-    "price": 946.5,
-    "name": "Infiniti_Ronin"
+    "price": 950.0,
+    "name": "HonorYNegocioP2P"
   },
-  "promedio": 947.75,
+  "promedio": 950.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
