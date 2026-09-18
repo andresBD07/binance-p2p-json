@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-18T18:37:21.399600",
-  "actualizado_vzla": "2026-09-18 14:37:21 -04",
+  "timestamp_utc": "2026-09-18T21:15:53.150991",
+  "actualizado_vzla": "2026-09-18 17:15:53 -04",
   "compra_segundo": {
-    "price": 951.59,
-    "name": "TAZ-P2P"
+    "price": 953.3,
+    "name": "Servicios-Criptos-27"
   },
   "venta_maxima": {
-    "price": 950.0,
-    "name": "HonorYNegocioP2P"
+    "price": 952.01,
+    "name": "Xenon54_"
   },
-  "promedio": 950.8,
+  "promedio": 952.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
