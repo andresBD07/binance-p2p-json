@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-19T06:26:29.495061",
-  "actualizado_vzla": "2026-09-19 02:26:29 -04",
+  "timestamp_utc": "2026-09-19T11:24:41.684456",
+  "actualizado_vzla": "2026-09-19 07:24:41 -04",
   "compra_segundo": {
-    "price": 956.99,
-    "name": "KRM-CAPITAL"
+    "price": 955.88,
+    "name": "AllTraders"
   },
   "venta_maxima": {
     "price": 953.1,
     "name": "CambiosOjed4"
   },
-  "promedio": 955.05,
+  "promedio": 954.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
