@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-19T17:28:34.134789",
-  "actualizado_vzla": "2026-09-19 13:28:34 -04",
+  "timestamp_utc": "2026-09-19T19:33:15.821077",
+  "actualizado_vzla": "2026-09-19 15:33:15 -04",
   "compra_segundo": {
-    "price": 949.99,
-    "name": "majog"
+    "price": 950.7,
+    "name": "PrimeCripto"
   },
   "venta_maxima": {
-    "price": 949.0,
-    "name": "Blank_Mind"
+    "price": 949.15,
+    "name": "FMP-INVESTMENTS"
   },
-  "promedio": 949.5,
+  "promedio": 949.92,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
