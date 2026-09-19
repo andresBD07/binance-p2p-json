@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-19T21:43:52.741283",
-  "actualizado_vzla": "2026-09-19 17:43:52 -04",
+  "timestamp_utc": "2026-09-19T23:37:51.583031",
+  "actualizado_vzla": "2026-09-19 19:37:51 -04",
   "compra_segundo": {
-    "price": 950.35,
-    "name": "CriptoseguroAyM"
+    "price": 951.997,
+    "name": "CriptoTraderHub"
   },
   "venta_maxima": {
-    "price": 948.1,
-    "name": "TrustyRetriever"
+    "price": 950.5,
+    "name": "Blank_Mind"
   },
-  "promedio": 949.23,
+  "promedio": 951.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
