@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-19T11:24:41.684456",
-  "actualizado_vzla": "2026-09-19 07:24:41 -04",
+  "timestamp_utc": "2026-09-19T14:41:54.503138",
+  "actualizado_vzla": "2026-09-19 10:41:54 -04",
   "compra_segundo": {
-    "price": 955.88,
-    "name": "AllTraders"
+    "price": 954.0,
+    "name": "Srexchanges"
   },
   "venta_maxima": {
-    "price": 953.1,
+    "price": 951.5,
     "name": "CambiosOjed4"
   },
-  "promedio": 954.49,
+  "promedio": 952.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
