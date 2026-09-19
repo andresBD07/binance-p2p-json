@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-19T01:24:47.985134",
-  "actualizado_vzla": "2026-09-18 21:24:47 -04",
+  "timestamp_utc": "2026-09-19T06:26:29.495061",
+  "actualizado_vzla": "2026-09-19 02:26:29 -04",
   "compra_segundo": {
-    "price": 954.9,
-    "name": "Old Parr"
+    "price": 956.99,
+    "name": "KRM-CAPITAL"
   },
   "venta_maxima": {
-    "price": 952.0,
-    "name": "doctor_zoidberg"
+    "price": 953.1,
+    "name": "CambiosOjed4"
   },
-  "promedio": 953.45,
+  "promedio": 955.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
