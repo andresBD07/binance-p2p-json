@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-20T21:22:23.794323",
-  "actualizado_vzla": "2026-09-20 17:22:23 -04",
+  "timestamp_utc": "2026-09-20T23:21:07.831706",
+  "actualizado_vzla": "2026-09-20 19:21:07 -04",
   "compra_segundo": {
-    "price": 948.799,
-    "name": "LelysMed"
+    "price": 948.65,
+    "name": "TraderGarza"
   },
   "venta_maxima": {
-    "price": 947.0,
-    "name": "Blank_Mind"
+    "price": 947.003,
+    "name": "CryptoVersos"
   },
-  "promedio": 947.9,
+  "promedio": 947.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
