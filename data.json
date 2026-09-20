@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-20T18:55:02.051758",
-  "actualizado_vzla": "2026-09-20 14:55:02 -04",
+  "timestamp_utc": "2026-09-20T21:22:23.794323",
+  "actualizado_vzla": "2026-09-20 17:22:23 -04",
   "compra_segundo": {
-    "price": 951.83,
-    "name": "-Woody-"
+    "price": 948.799,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 949.0,
+    "price": 947.0,
     "name": "Blank_Mind"
   },
-  "promedio": 950.41,
+  "promedio": 947.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
