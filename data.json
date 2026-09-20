@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-20T07:04:25.532137",
-  "actualizado_vzla": "2026-09-20 03:04:25 -04",
+  "timestamp_utc": "2026-09-20T12:18:12.445239",
+  "actualizado_vzla": "2026-09-20 08:18:12 -04",
   "compra_segundo": {
-    "price": 953.99,
-    "name": "VE_TRADE_ZONE"
+    "price": 953.2,
+    "name": "EL-PODER-ES-DE-DIOS"
   },
   "venta_maxima": {
-    "price": 949.21,
-    "name": "你就变得更强"
+    "price": 948.4,
+    "name": "EL-PODER-ES-DE-DIOS"
   },
-  "promedio": 951.6,
+  "promedio": 950.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
