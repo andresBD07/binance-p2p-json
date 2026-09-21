@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-20T23:21:07.831706",
-  "actualizado_vzla": "2026-09-20 19:21:07 -04",
+  "timestamp_utc": "2026-09-21T01:20:06.432109",
+  "actualizado_vzla": "2026-09-20 21:20:06 -04",
   "compra_segundo": {
-    "price": 948.65,
-    "name": "TraderGarza"
+    "price": 947.799,
+    "name": "ExchangeVeskha"
   },
   "venta_maxima": {
-    "price": 947.003,
-    "name": "CryptoVersos"
+    "price": 945.0,
+    "name": "Gatsby_24"
   },
-  "promedio": 947.83,
+  "promedio": 946.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
