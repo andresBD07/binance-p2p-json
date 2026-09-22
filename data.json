@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-22T15:44:29.183124",
-  "actualizado_vzla": "2026-09-22 11:44:29 -04",
+  "timestamp_utc": "2026-09-22T19:16:49.756926",
+  "actualizado_vzla": "2026-09-22 15:16:49 -04",
   "compra_segundo": {
-    "price": 962.8,
-    "name": "MC30TRADE"
+    "price": 964.0,
+    "name": "Athenea1510"
   },
   "venta_maxima": {
-    "price": 962.5,
-    "name": "Blank_Mind"
+    "price": 965.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 962.65,
+  "promedio": 964.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
