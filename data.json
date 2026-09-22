@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-22T01:02:57.042892",
-  "actualizado_vzla": "2026-09-21 21:02:57 -04",
+  "timestamp_utc": "2026-09-22T06:08:52.808082",
+  "actualizado_vzla": "2026-09-22 02:08:52 -04",
   "compra_segundo": {
-    "price": 956.2,
-    "name": "Trading_professional"
+    "price": 959.889,
+    "name": "EverCryptoUSDT "
   },
   "venta_maxima": {
-    "price": 955.5,
-    "name": "-Akopan-"
+    "price": 954.0,
+    "name": "Quick Payment"
   },
-  "promedio": 955.85,
+  "promedio": 956.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
