@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-23T10:07:02.728042",
-  "actualizado_vzla": "2026-09-23 06:07:02 -04",
+  "timestamp_utc": "2026-09-23T15:00:36.481878",
+  "actualizado_vzla": "2026-09-23 11:00:36 -04",
   "compra_segundo": {
-    "price": 967.57,
-    "name": "MonkeyCryptoSeguro"
+    "price": 973.5,
+    "name": "Melani_sublimascione"
   },
   "venta_maxima": {
-    "price": 962.5,
-    "name": "faroexchange "
+    "price": 971.7,
+    "name": "Amaev_cripto"
   },
-  "promedio": 965.04,
+  "promedio": 972.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
