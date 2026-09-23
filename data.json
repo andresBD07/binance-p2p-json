@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-23T15:00:36.481878",
-  "actualizado_vzla": "2026-09-23 11:00:36 -04",
+  "timestamp_utc": "2026-09-23T19:00:07.774751",
+  "actualizado_vzla": "2026-09-23 15:00:07 -04",
   "compra_segundo": {
-    "price": 973.5,
-    "name": "Melani_sublimascione"
+    "price": 968.889,
+    "name": "LelysMed"
   },
   "venta_maxima": {
-    "price": 971.7,
-    "name": "Amaev_cripto"
+    "price": 967.0,
+    "name": "Gatsby_24"
   },
-  "promedio": 972.6,
+  "promedio": 967.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
