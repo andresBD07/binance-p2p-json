@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-09-22T22:18:53.925984",
-  "actualizado_vzla": "2026-09-22 18:18:53 -04",
+  "timestamp_utc": "2026-09-23T00:46:06.787718",
+  "actualizado_vzla": "2026-09-22 20:46:06 -04",
   "compra_segundo": {
-    "price": 965.396,
-    "name": "CS_DIGITAL"
+    "price": 965.498,
+    "name": "Mr_Nasdaq"
   },
   "venta_maxima": {
-    "price": 964.1,
+    "price": 964.0,
     "name": "Amaev_cripto"
   },
   "promedio": 964.75,
