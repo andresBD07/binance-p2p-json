@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-24T19:22:02.041050",
-  "actualizado_vzla": "2026-09-24 15:22:02 -04",
+  "timestamp_utc": "2026-09-24T22:37:41.834167",
+  "actualizado_vzla": "2026-09-24 18:37:41 -04",
   "compra_segundo": {
-    "price": 968.16,
-    "name": "Trader_MVG"
+    "price": 968.649,
+    "name": "MzVesP2P"
   },
   "venta_maxima": {
-    "price": 966.5,
-    "name": "PEJAGOBLA"
+    "price": 966.501,
+    "name": "GAMBINO-"
   },
-  "promedio": 967.33,
+  "promedio": 967.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
