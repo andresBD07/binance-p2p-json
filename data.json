@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-24T10:20:43.258907",
-  "actualizado_vzla": "2026-09-24 06:20:43 -04",
+  "timestamp_utc": "2026-09-24T15:20:45.476925",
+  "actualizado_vzla": "2026-09-24 11:20:45 -04",
   "compra_segundo": {
-    "price": 968.399,
-    "name": "Abi_Cambios"
+    "price": 968.0,
+    "name": "WaldoGH"
   },
   "venta_maxima": {
-    "price": 965.13,
-    "name": "EKExpress"
+    "price": 966.0,
+    "name": "Kingjvl"
   },
-  "promedio": 966.76,
+  "promedio": 967.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
