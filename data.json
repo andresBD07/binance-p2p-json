@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-25T10:37:30.571603",
-  "actualizado_vzla": "2026-09-25 06:37:30 -04",
+  "timestamp_utc": "2026-09-25T15:34:08.094962",
+  "actualizado_vzla": "2026-09-25 11:34:08 -04",
   "compra_segundo": {
-    "price": 971.897,
-    "name": "CriptoTraderHub"
+    "price": 965.699,
+    "name": "VIPChanges"
   },
   "venta_maxima": {
-    "price": 968.811,
-    "name": "Germanctr"
+    "price": 965.2,
+    "name": "IngCryptos"
   },
-  "promedio": 970.35,
+  "promedio": 965.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
