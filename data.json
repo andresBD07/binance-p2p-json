@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-25T19:32:12.719024",
-  "actualizado_vzla": "2026-09-25 15:32:12 -04",
+  "timestamp_utc": "2026-09-25T22:46:58.276343",
+  "actualizado_vzla": "2026-09-25 18:46:58 -04",
   "compra_segundo": {
-    "price": 964.999,
-    "name": "Diego"
+    "price": 969.49,
+    "name": "ChihiroXchanges"
   },
   "venta_maxima": {
-    "price": 966.01,
-    "name": "IsaBTC-"
+    "price": 970.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 965.5,
+  "promedio": 969.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
