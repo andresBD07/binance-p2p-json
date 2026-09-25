@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-25T00:51:48.770649",
-  "actualizado_vzla": "2026-09-24 20:51:48 -04",
+  "timestamp_utc": "2026-09-25T05:47:43.765168",
+  "actualizado_vzla": "2026-09-25 01:47:43 -04",
   "compra_segundo": {
-    "price": 969.2,
-    "name": "EKExpress"
+    "price": 972.0,
+    "name": "Invcaf"
   },
   "venta_maxima": {
-    "price": 968.0,
-    "name": "GAZA_CRIPTO"
+    "price": 968.811,
+    "name": "Germanctr"
   },
-  "promedio": 968.6,
+  "promedio": 970.41,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
