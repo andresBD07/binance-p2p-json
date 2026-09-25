@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-25T15:34:08.094962",
-  "actualizado_vzla": "2026-09-25 11:34:08 -04",
+  "timestamp_utc": "2026-09-25T19:32:12.719024",
+  "actualizado_vzla": "2026-09-25 15:32:12 -04",
   "compra_segundo": {
-    "price": 965.699,
-    "name": "VIPChanges"
+    "price": 964.999,
+    "name": "Diego"
   },
   "venta_maxima": {
-    "price": 965.2,
-    "name": "IngCryptos"
+    "price": 966.01,
+    "name": "IsaBTC-"
   },
-  "promedio": 965.45,
+  "promedio": 965.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
