@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-26T06:04:49.678331",
-  "actualizado_vzla": "2026-09-26 02:04:49 -04",
+  "timestamp_utc": "2026-09-26T11:18:57.510911",
+  "actualizado_vzla": "2026-09-26 07:18:57 -04",
   "compra_segundo": {
-    "price": 974.0,
-    "name": "JokerSwap"
+    "price": 974.099,
+    "name": "Gavoacoin"
   },
   "venta_maxima": {
-    "price": 970.0,
-    "name": "-AMATERATSU-"
+    "price": 970.156,
+    "name": "CoinFlou"
   },
-  "promedio": 972.0,
+  "promedio": 972.13,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
