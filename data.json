@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-26T00:58:03.935271",
-  "actualizado_vzla": "2026-09-25 20:58:03 -04",
+  "timestamp_utc": "2026-09-26T06:04:49.678331",
+  "actualizado_vzla": "2026-09-26 02:04:49 -04",
   "compra_segundo": {
-    "price": 970.899,
-    "name": "Cambios_seguros1"
+    "price": 974.0,
+    "name": "JokerSwap"
   },
   "venta_maxima": {
-    "price": 970.02,
-    "name": "Cambioscorleone"
+    "price": 970.0,
+    "name": "-AMATERATSU-"
   },
-  "promedio": 970.46,
+  "promedio": 972.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
