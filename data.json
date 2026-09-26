@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-25T22:46:58.276343",
-  "actualizado_vzla": "2026-09-25 18:46:58 -04",
+  "timestamp_utc": "2026-09-26T00:58:03.935271",
+  "actualizado_vzla": "2026-09-25 20:58:03 -04",
   "compra_segundo": {
-    "price": 969.49,
-    "name": "ChihiroXchanges"
+    "price": 970.899,
+    "name": "Cambios_seguros1"
   },
   "venta_maxima": {
-    "price": 970.0,
-    "name": "被放逐的狐狸"
+    "price": 970.02,
+    "name": "Cambioscorleone"
   },
-  "promedio": 969.75,
+  "promedio": 970.46,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
