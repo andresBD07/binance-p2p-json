@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-27T21:39:37.876941",
-  "actualizado_vzla": "2026-09-27 17:39:37 -04",
+  "timestamp_utc": "2026-09-27T23:59:46.366933",
+  "actualizado_vzla": "2026-09-27 19:59:46 -04",
   "compra_segundo": {
-    "price": 967.3,
-    "name": "AlexGrecCambiosyReme"
+    "price": 968.19,
+    "name": "ycambio13"
   },
   "venta_maxima": {
-    "price": 966.0,
-    "name": "FromVillage"
+    "price": 965.201,
+    "name": "GAMBINO-"
   },
-  "promedio": 966.65,
+  "promedio": 966.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
