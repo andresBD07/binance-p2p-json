@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-27T09:29:48.093184",
-  "actualizado_vzla": "2026-09-27 05:29:48 -04",
+  "timestamp_utc": "2026-09-27T14:48:35.289775",
+  "actualizado_vzla": "2026-09-27 10:48:35 -04",
   "compra_segundo": {
-    "price": 968.45,
-    "name": "_cambioBTC"
+    "price": 966.6,
+    "name": "Draco_28"
   },
   "venta_maxima": {
-    "price": 963.1,
-    "name": "ALEXANDER HNW"
+    "price": 964.0,
+    "name": "FromVillage"
   },
-  "promedio": 965.78,
+  "promedio": 965.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
