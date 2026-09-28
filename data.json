@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-27T23:59:46.366933",
-  "actualizado_vzla": "2026-09-27 19:59:46 -04",
+  "timestamp_utc": "2026-09-28T05:13:58.783535",
+  "actualizado_vzla": "2026-09-28 01:13:58 -04",
   "compra_segundo": {
-    "price": 968.19,
-    "name": "ycambio13"
+    "price": 968.997,
+    "name": "CriptoTraderHub"
   },
   "venta_maxima": {
-    "price": 965.201,
-    "name": "GAMBINO-"
+    "price": 965.0,
+    "name": "不知道你"
   },
-  "promedio": 966.7,
+  "promedio": 967.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
