@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-28T11:47:14.350835",
-  "actualizado_vzla": "2026-09-28 07:47:14 -04",
+  "timestamp_utc": "2026-09-28T18:46:34.535545",
+  "actualizado_vzla": "2026-09-28 14:46:34 -04",
   "compra_segundo": {
-    "price": 967.05,
-    "name": "CambiosLindos2"
+    "price": 965.5,
+    "name": "WorldTradeinCripto"
   },
   "venta_maxima": {
-    "price": 964.5,
-    "name": "-Akopan-"
+    "price": 966.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 965.77,
+  "promedio": 965.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
