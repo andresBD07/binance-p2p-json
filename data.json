@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-28T05:13:58.783535",
-  "actualizado_vzla": "2026-09-28 01:13:58 -04",
+  "timestamp_utc": "2026-09-28T11:47:14.350835",
+  "actualizado_vzla": "2026-09-28 07:47:14 -04",
   "compra_segundo": {
-    "price": 968.997,
-    "name": "CriptoTraderHub"
+    "price": 967.05,
+    "name": "CambiosLindos2"
   },
   "venta_maxima": {
-    "price": 965.0,
-    "name": "不知道你"
+    "price": 964.5,
+    "name": "-Akopan-"
   },
-  "promedio": 967.0,
+  "promedio": 965.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
