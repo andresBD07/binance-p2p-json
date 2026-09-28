@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-28T18:46:34.535545",
-  "actualizado_vzla": "2026-09-28 14:46:34 -04",
+  "timestamp_utc": "2026-09-28T23:34:38.303571",
+  "actualizado_vzla": "2026-09-28 19:34:38 -04",
   "compra_segundo": {
-    "price": 965.5,
-    "name": "WorldTradeinCripto"
+    "price": 965.555,
+    "name": "SafeSwapLong"
   },
   "venta_maxima": {
-    "price": 966.0,
+    "price": 963.005,
     "name": "Trust-Broker"
   },
-  "promedio": 965.75,
+  "promedio": 964.28,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
