@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-29T02:43:59.811074",
-  "actualizado_vzla": "2026-09-28 22:43:59 -04",
+  "timestamp_utc": "2026-09-29T09:06:43.572455",
+  "actualizado_vzla": "2026-09-29 05:06:43 -04",
   "compra_segundo": {
-    "price": 964.882,
-    "name": "LeNary-"
+    "price": 965.0,
+    "name": "CJ2001"
   },
   "venta_maxima": {
-    "price": 964.0,
-    "name": "Trust-Broker"
+    "price": 960.5,
+    "name": "贝HarveySpecter贝"
   },
-  "promedio": 964.44,
+  "promedio": 962.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
