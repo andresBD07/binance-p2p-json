@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-30T04:28:48.477134",
-  "actualizado_vzla": "2026-09-30 00:28:48 -04",
+  "timestamp_utc": "2026-09-30T10:41:35.457513",
+  "actualizado_vzla": "2026-09-30 06:41:35 -04",
   "compra_segundo": {
-    "price": 963.4,
-    "name": "Atumanocambio"
+    "price": 962.9,
+    "name": "EL-PODER-ES-DE-DIOS"
   },
   "venta_maxima": {
-    "price": 959.001,
-    "name": "WillyWonka-"
+    "price": 959.0,
+    "name": "app2112"
   },
-  "promedio": 961.2,
+  "promedio": 960.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
