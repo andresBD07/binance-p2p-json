@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-09-30T16:30:52.875694",
-  "actualizado_vzla": "2026-09-30 12:30:52 -04",
+  "timestamp_utc": "2026-09-30T20:58:54.724805",
+  "actualizado_vzla": "2026-09-30 16:58:54 -04",
   "compra_segundo": {
-    "price": 950.999,
-    "name": "不會不會他不會"
+    "price": 954.89,
+    "name": "walner17"
   },
   "venta_maxima": {
-    "price": 954.0,
-    "name": "CriptoseguroAyM"
+    "price": 953.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 952.5,
+  "promedio": 953.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
