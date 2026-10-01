@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-01T19:09:52.772139",
-  "actualizado_vzla": "2026-10-01 15:09:52 -04",
+  "timestamp_utc": "2026-10-01T23:13:33.996810",
+  "actualizado_vzla": "2026-10-01 19:13:34 -04",
   "compra_segundo": {
-    "price": 959.899,
-    "name": "LittleBTC1996"
+    "price": 964.999,
+    "name": "--LuicmarTrader--"
   },
   "venta_maxima": {
-    "price": 958.55,
-    "name": "diomedez14"
+    "price": 963.0,
+    "name": "FromVillage"
   },
-  "promedio": 959.22,
+  "promedio": 964.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
