@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-02T08:42:59.215754",
-  "actualizado_vzla": "2026-10-02 04:42:59 -04",
+  "timestamp_utc": "2026-10-02T15:04:06.248881",
+  "actualizado_vzla": "2026-10-02 11:04:06 -04",
   "compra_segundo": {
-    "price": 966.0,
-    "name": "Molyflash777"
+    "price": 966.75,
+    "name": "IgbariGuere"
   },
   "venta_maxima": {
-    "price": 959.003,
-    "name": "CLERTH"
+    "price": 964.142,
+    "name": "TOPlevelS"
   },
-  "promedio": 962.5,
+  "promedio": 965.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
