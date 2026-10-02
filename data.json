@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-02T02:18:57.475110",
-  "actualizado_vzla": "2026-10-01 22:18:57 -04",
+  "timestamp_utc": "2026-10-02T08:42:59.215754",
+  "actualizado_vzla": "2026-10-02 04:42:59 -04",
   "compra_segundo": {
-    "price": 965.4,
-    "name": "CAMBIOSJFG"
+    "price": 966.0,
+    "name": "Molyflash777"
   },
   "venta_maxima": {
-    "price": 962.351,
-    "name": "F_A_I_R"
+    "price": 959.003,
+    "name": "CLERTH"
   },
-  "promedio": 963.88,
+  "promedio": 962.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
