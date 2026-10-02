@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-01T23:13:33.996810",
-  "actualizado_vzla": "2026-10-01 19:13:34 -04",
+  "timestamp_utc": "2026-10-02T02:18:57.475110",
+  "actualizado_vzla": "2026-10-01 22:18:57 -04",
   "compra_segundo": {
-    "price": 964.999,
-    "name": "--LuicmarTrader--"
+    "price": 965.4,
+    "name": "CAMBIOSJFG"
   },
   "venta_maxima": {
-    "price": 963.0,
-    "name": "FromVillage"
+    "price": 962.351,
+    "name": "F_A_I_R"
   },
-  "promedio": 964.0,
+  "promedio": 963.88,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
