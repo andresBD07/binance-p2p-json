@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-04T18:21:00.582624",
-  "actualizado_vzla": "2026-10-04 14:21:00 -04",
+  "timestamp_utc": "2026-10-04T21:44:14.755990",
+  "actualizado_vzla": "2026-10-04 17:44:14 -04",
   "compra_segundo": {
-    "price": 976.65,
-    "name": "MisterfastP2P"
+    "price": 974.999,
+    "name": "Cprlos"
   },
   "venta_maxima": {
     "price": 980.0,
     "name": "你就变得更强"
   },
-  "promedio": 978.33,
+  "promedio": 977.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
