@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-05T13:41:11.496918",
-  "actualizado_vzla": "2026-10-05 09:41:11 -04",
+  "timestamp_utc": "2026-10-05T21:14:37.573647",
+  "actualizado_vzla": "2026-10-05 17:14:37 -04",
   "compra_segundo": {
-    "price": 976.3,
-    "name": "Sharkypay"
+    "price": 984.699,
+    "name": "Yo_Intercambio"
   },
   "venta_maxima": {
-    "price": 974.0,
-    "name": "securitylc"
+    "price": 985.5,
+    "name": "TPhillips"
   },
-  "promedio": 975.15,
+  "promedio": 985.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
