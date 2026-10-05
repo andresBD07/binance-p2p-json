@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-05T00:13:21.092669",
-  "actualizado_vzla": "2026-10-04 20:13:21 -04",
+  "timestamp_utc": "2026-10-05T05:52:14.112544",
+  "actualizado_vzla": "2026-10-05 01:52:14 -04",
   "compra_segundo": {
-    "price": 975.78,
-    "name": "金ShelbyCorp"
+    "price": 978.0,
+    "name": "FlashCambios1"
   },
   "venta_maxima": {
-    "price": 979.5,
-    "name": "Amaev_cripto"
+    "price": 973.001,
+    "name": "CAMBIOSJFG"
   },
-  "promedio": 977.64,
+  "promedio": 975.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
