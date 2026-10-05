@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-05T05:52:14.112544",
-  "actualizado_vzla": "2026-10-05 01:52:14 -04",
+  "timestamp_utc": "2026-10-05T13:41:11.496918",
+  "actualizado_vzla": "2026-10-05 09:41:11 -04",
   "compra_segundo": {
-    "price": 978.0,
-    "name": "FlashCambios1"
+    "price": 976.3,
+    "name": "Sharkypay"
   },
   "venta_maxima": {
-    "price": 973.001,
-    "name": "CAMBIOSJFG"
+    "price": 974.0,
+    "name": "securitylc"
   },
-  "promedio": 975.5,
+  "promedio": 975.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
