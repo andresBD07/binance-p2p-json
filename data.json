@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-06T01:46:55.840092",
-  "actualizado_vzla": "2026-10-05 21:46:55 -04",
+  "timestamp_utc": "2026-10-06T08:11:09.358367",
+  "actualizado_vzla": "2026-10-06 04:11:09 -04",
   "compra_segundo": {
-    "price": 989.99,
-    "name": "ExchangeVeskha"
+    "price": 990.998,
+    "name": "CCambia"
   },
   "venta_maxima": {
-    "price": 988.5,
-    "name": "angelchacon"
+    "price": 985.8,
+    "name": "-AMATERATSU-"
   },
-  "promedio": 989.25,
+  "promedio": 988.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
