@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-06T08:11:09.358367",
-  "actualizado_vzla": "2026-10-06 04:11:09 -04",
+  "timestamp_utc": "2026-10-06T15:15:11.259918",
+  "actualizado_vzla": "2026-10-06 11:15:11 -04",
   "compra_segundo": {
-    "price": 990.998,
-    "name": "CCambia"
+    "price": 992.6,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 985.8,
-    "name": "-AMATERATSU-"
+    "price": 992.5,
+    "name": "TPhillips"
   },
-  "promedio": 988.4,
+  "promedio": 992.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
