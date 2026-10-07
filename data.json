@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-07T05:45:28.014391",
-  "actualizado_vzla": "2026-10-07 01:45:28 -04",
+  "timestamp_utc": "2026-10-07T12:05:05.730825",
+  "actualizado_vzla": "2026-10-07 08:05:05 -04",
   "compra_segundo": {
-    "price": 1002.6,
-    "name": "los100cien"
+    "price": 1002.199,
+    "name": "Josebat23"
   },
   "venta_maxima": {
-    "price": 997.75,
-    "name": "-AMATERATSU-"
+    "price": 999.7,
+    "name": "贝DonnaPaulsen贝"
   },
-  "promedio": 1000.17,
+  "promedio": 1000.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
