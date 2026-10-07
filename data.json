@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-07T12:05:05.730825",
-  "actualizado_vzla": "2026-10-07 08:05:05 -04",
+  "timestamp_utc": "2026-10-07T18:55:26.033049",
+  "actualizado_vzla": "2026-10-07 14:55:26 -04",
   "compra_segundo": {
-    "price": 1002.199,
-    "name": "Josebat23"
+    "price": 1011.4,
+    "name": "traing_balto"
   },
   "venta_maxima": {
-    "price": 999.7,
-    "name": "贝DonnaPaulsen贝"
+    "price": 1010.65,
+    "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 1000.95,
+  "promedio": 1011.02,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
