@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-06T23:58:45.112991",
-  "actualizado_vzla": "2026-10-06 19:58:45 -04",
+  "timestamp_utc": "2026-10-07T05:45:28.014391",
+  "actualizado_vzla": "2026-10-07 01:45:28 -04",
   "compra_segundo": {
-    "price": 998.79,
-    "name": "Srexchanges"
+    "price": 1002.6,
+    "name": "los100cien"
   },
   "venta_maxima": {
-    "price": 996.7,
-    "name": "NitroClash"
+    "price": 997.75,
+    "name": "-AMATERATSU-"
   },
-  "promedio": 997.75,
+  "promedio": 1000.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
