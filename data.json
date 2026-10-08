@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-08T02:53:03.947419",
-  "actualizado_vzla": "2026-10-07 22:53:03 -04",
+  "timestamp_utc": "2026-10-08T10:08:14.067685",
+  "actualizado_vzla": "2026-10-08 06:08:14 -04",
   "compra_segundo": {
-    "price": 1021.5,
-    "name": "TraDerFocus"
+    "price": 1020.0,
+    "name": "CJ2001"
   },
   "venta_maxima": {
-    "price": 1021.15,
-    "name": "TrustyRetriever"
+    "price": 1016.0,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 1021.33,
+  "promedio": 1018.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
