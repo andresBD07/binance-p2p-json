@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-08T10:08:14.067685",
-  "actualizado_vzla": "2026-10-08 06:08:14 -04",
+  "timestamp_utc": "2026-10-08T17:24:10.374612",
+  "actualizado_vzla": "2026-10-08 13:24:10 -04",
   "compra_segundo": {
-    "price": 1020.0,
-    "name": "CJ2001"
+    "price": 1021.0,
+    "name": "TradewCrypto"
   },
   "venta_maxima": {
-    "price": 1016.0,
-    "name": "CriptoseguroAyM"
+    "price": 1027.0,
+    "name": "KaioSama16"
   },
-  "promedio": 1018.0,
+  "promedio": 1024.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
