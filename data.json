@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-09T16:27:16.525199",
-  "actualizado_vzla": "2026-10-09 12:27:16 -04",
+  "timestamp_utc": "2026-10-09T21:10:30.855331",
+  "actualizado_vzla": "2026-10-09 17:10:30 -04",
   "compra_segundo": {
-    "price": 1005.6,
-    "name": "rjaztrade1404"
+    "price": 1014.29,
+    "name": "CoinGonzo"
   },
   "venta_maxima": {
-    "price": 1010.0,
-    "name": "HonorYNegocioP2P"
+    "price": 1015.5,
+    "name": "ASC_"
   },
-  "promedio": 1007.8,
+  "promedio": 1014.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
