@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-08T22:19:11.180654",
-  "actualizado_vzla": "2026-10-08 18:19:11 -04",
+  "timestamp_utc": "2026-10-09T02:20:16.553348",
+  "actualizado_vzla": "2026-10-08 22:20:16 -04",
   "compra_segundo": {
-    "price": 1020.57,
-    "name": "Clovers-"
+    "price": 1019.699,
+    "name": "Secure_CryptoX"
   },
   "venta_maxima": {
-    "price": 1023.001,
+    "price": 1023.0,
     "name": "你就变得更强"
   },
-  "promedio": 1021.79,
+  "promedio": 1021.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
