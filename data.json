@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-10T17:58:04.704242",
-  "actualizado_vzla": "2026-10-10 13:58:04 -04",
+  "timestamp_utc": "2026-10-10T21:32:37.128899",
+  "actualizado_vzla": "2026-10-10 17:32:37 -04",
   "compra_segundo": {
-    "price": 1014.76,
-    "name": "cambiosIA"
+    "price": 1014.8,
+    "name": "cuak20_"
   },
   "venta_maxima": {
-    "price": 1017.5,
-    "name": "TPhillips"
+    "price": 1018.0,
+    "name": "Godisgift"
   },
-  "promedio": 1016.13,
+  "promedio": 1016.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
