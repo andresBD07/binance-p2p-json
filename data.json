@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-10T00:55:29.057644",
-  "actualizado_vzla": "2026-10-09 20:55:29 -04",
+  "timestamp_utc": "2026-10-10T06:54:47.998809",
+  "actualizado_vzla": "2026-10-10 02:54:48 -04",
   "compra_segundo": {
-    "price": 1016.99,
-    "name": "bobdeath2012"
+    "price": 1017.99,
+    "name": "VeExpressLars"
   },
   "venta_maxima": {
-    "price": 1016.5,
-    "name": "-AMATERATSU-"
+    "price": 1012.0,
+    "name": "TPhillips"
   },
-  "promedio": 1016.75,
+  "promedio": 1015.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
