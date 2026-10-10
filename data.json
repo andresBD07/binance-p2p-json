@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-10T06:54:47.998809",
-  "actualizado_vzla": "2026-10-10 02:54:48 -04",
+  "timestamp_utc": "2026-10-10T13:28:48.447956",
+  "actualizado_vzla": "2026-10-10 09:28:48 -04",
   "compra_segundo": {
-    "price": 1017.99,
-    "name": "VeExpressLars"
+    "price": 1014.25,
+    "name": "CambiosLindos2"
   },
   "venta_maxima": {
-    "price": 1012.0,
-    "name": "TPhillips"
+    "price": 1014.5,
+    "name": "ABTRAD"
   },
-  "promedio": 1015.0,
+  "promedio": 1014.38,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
