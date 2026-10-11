@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-11T18:06:55.023811",
-  "actualizado_vzla": "2026-10-11 14:06:55 -04",
+  "timestamp_utc": "2026-10-11T21:57:16.211660",
+  "actualizado_vzla": "2026-10-11 17:57:16 -04",
   "compra_segundo": {
-    "price": 1014.449,
-    "name": "MrPunkkk"
+    "price": 1014.043,
+    "name": "Dxvid Exchange"
   },
   "venta_maxima": {
-    "price": 1014.65,
-    "name": "Inversiones-ADSC"
+    "price": 1014.1,
+    "name": "Josebat23"
   },
-  "promedio": 1014.55,
+  "promedio": 1014.07,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
