@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-10T21:32:37.128899",
-  "actualizado_vzla": "2026-10-10 17:32:37 -04",
+  "timestamp_utc": "2026-10-11T00:26:41.861741",
+  "actualizado_vzla": "2026-10-10 20:26:41 -04",
   "compra_segundo": {
-    "price": 1014.8,
-    "name": "cuak20_"
+    "price": 1014.999,
+    "name": "TUALIADOCRYPTO"
   },
   "venta_maxima": {
-    "price": 1018.0,
-    "name": "Godisgift"
+    "price": 1015.1,
+    "name": "SasukeTrader"
   },
-  "promedio": 1016.4,
+  "promedio": 1015.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
