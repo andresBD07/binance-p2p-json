@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-12T01:11:27.082721",
-  "actualizado_vzla": "2026-10-11 21:11:27 -04",
+  "timestamp_utc": "2026-10-12T07:25:56.530538",
+  "actualizado_vzla": "2026-10-12 03:25:56 -04",
   "compra_segundo": {
-    "price": 1014.57,
-    "name": "Melani_sublimascione"
+    "price": 1016.2,
+    "name": "Chester_Cambios"
   },
   "venta_maxima": {
-    "price": 1012.5,
+    "price": 1011.15,
     "name": "EL-EXTRANJERO"
   },
-  "promedio": 1013.54,
+  "promedio": 1013.67,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
