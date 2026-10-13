@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-13T03:51:38.235950",
-  "actualizado_vzla": "2026-10-12 23:51:38 -04",
+  "timestamp_utc": "2026-10-13T11:23:19.638765",
+  "actualizado_vzla": "2026-10-13 07:23:19 -04",
   "compra_segundo": {
-    "price": 1012.999,
-    "name": "Yosedg"
+    "price": 1010.9,
+    "name": "OscarCapote"
   },
   "venta_maxima": {
-    "price": 1010.012,
-    "name": "doctor_zoidberg"
+    "price": 1010.0,
+    "name": "CoorpLogistic"
   },
-  "promedio": 1011.51,
+  "promedio": 1010.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
