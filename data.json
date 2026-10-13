@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-13T18:26:19.459183",
-  "actualizado_vzla": "2026-10-13 14:26:19 -04",
+  "timestamp_utc": "2026-10-13T23:03:13.559709",
+  "actualizado_vzla": "2026-10-13 19:03:13 -04",
   "compra_segundo": {
-    "price": 1013.431,
-    "name": "FastUSDTMc"
+    "price": 1010.0,
+    "name": "MoneyPlaz"
   },
   "venta_maxima": {
-    "price": 1013.0,
-    "name": "Readypay"
+    "price": 1009.0,
+    "name": "Maleono"
   },
-  "promedio": 1013.22,
+  "promedio": 1009.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
