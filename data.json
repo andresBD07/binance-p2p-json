@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-13T11:23:19.638765",
-  "actualizado_vzla": "2026-10-13 07:23:19 -04",
+  "timestamp_utc": "2026-10-13T18:26:19.459183",
+  "actualizado_vzla": "2026-10-13 14:26:19 -04",
   "compra_segundo": {
-    "price": 1010.9,
-    "name": "OscarCapote"
+    "price": 1013.431,
+    "name": "FastUSDTMc"
   },
   "venta_maxima": {
-    "price": 1010.0,
-    "name": "CoorpLogistic"
+    "price": 1013.0,
+    "name": "Readypay"
   },
-  "promedio": 1010.45,
+  "promedio": 1013.22,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
