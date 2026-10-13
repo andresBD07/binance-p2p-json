@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-12T23:34:12.149943",
-  "actualizado_vzla": "2026-10-12 19:34:12 -04",
+  "timestamp_utc": "2026-10-13T03:51:38.235950",
+  "actualizado_vzla": "2026-10-12 23:51:38 -04",
   "compra_segundo": {
-    "price": 1012.0,
-    "name": "kaizenholder"
+    "price": 1012.999,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 1014.0,
-    "name": "Comercializadora_MAC"
+    "price": 1010.012,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 1013.0,
+  "promedio": 1011.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
