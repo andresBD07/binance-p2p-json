@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-13T23:03:13.559709",
-  "actualizado_vzla": "2026-10-13 19:03:13 -04",
+  "timestamp_utc": "2026-10-14T01:51:07.825881",
+  "actualizado_vzla": "2026-10-13 21:51:07 -04",
   "compra_segundo": {
-    "price": 1010.0,
-    "name": "MoneyPlaz"
+    "price": 1013.45,
+    "name": "Drizzt_D"
   },
   "venta_maxima": {
-    "price": 1009.0,
-    "name": "Maleono"
+    "price": 1011.0,
+    "name": "TENKA_HOLDINGS"
   },
-  "promedio": 1009.5,
+  "promedio": 1012.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
