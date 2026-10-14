@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-14T12:50:07.125141",
-  "actualizado_vzla": "2026-10-14 08:50:07 -04",
+  "timestamp_utc": "2026-10-14T17:42:09.043855",
+  "actualizado_vzla": "2026-10-14 13:42:09 -04",
   "compra_segundo": {
-    "price": 1009.129,
-    "name": "47ronim"
+    "price": 1014.39,
+    "name": "Diego"
   },
   "venta_maxima": {
-    "price": 1008.0,
-    "name": "Vitatech"
+    "price": 1013.0,
+    "name": "VeExpressLars"
   },
-  "promedio": 1008.56,
+  "promedio": 1013.69,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
