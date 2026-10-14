@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-14T07:02:25.813075",
-  "actualizado_vzla": "2026-10-14 03:02:25 -04",
+  "timestamp_utc": "2026-10-14T12:50:07.125141",
+  "actualizado_vzla": "2026-10-14 08:50:07 -04",
   "compra_segundo": {
-    "price": 1013.0,
-    "name": "_cambioBTC"
+    "price": 1009.129,
+    "name": "47ronim"
   },
   "venta_maxima": {
-    "price": 1007.9,
-    "name": "doctor_zoidberg"
+    "price": 1008.0,
+    "name": "Vitatech"
   },
-  "promedio": 1010.45,
+  "promedio": 1008.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
