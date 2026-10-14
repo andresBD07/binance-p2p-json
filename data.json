@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-14T01:51:07.825881",
-  "actualizado_vzla": "2026-10-13 21:51:07 -04",
+  "timestamp_utc": "2026-10-14T07:02:25.813075",
+  "actualizado_vzla": "2026-10-14 03:02:25 -04",
   "compra_segundo": {
-    "price": 1013.45,
-    "name": "Drizzt_D"
+    "price": 1013.0,
+    "name": "_cambioBTC"
   },
   "venta_maxima": {
-    "price": 1011.0,
-    "name": "TENKA_HOLDINGS"
+    "price": 1007.9,
+    "name": "doctor_zoidberg"
   },
-  "promedio": 1012.23,
+  "promedio": 1010.45,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
