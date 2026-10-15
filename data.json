@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-14T23:52:35.547408",
-  "actualizado_vzla": "2026-10-14 19:52:35 -04",
+  "timestamp_utc": "2026-10-15T03:26:19.944737",
+  "actualizado_vzla": "2026-10-14 23:26:19 -04",
   "compra_segundo": {
-    "price": 1013.8,
-    "name": "Toshiro626"
+    "price": 1013.378,
+    "name": "-ARKA"
   },
   "venta_maxima": {
-    "price": 1013.25,
-    "name": "Trust-Broker"
+    "price": 1011.5,
+    "name": "安全与信任"
   },
-  "promedio": 1013.52,
+  "promedio": 1012.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
