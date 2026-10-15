@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-15T17:53:34.940877",
-  "actualizado_vzla": "2026-10-15 13:53:34 -04",
+  "timestamp_utc": "2026-10-15T21:02:42.075135",
+  "actualizado_vzla": "2026-10-15 17:02:42 -04",
   "compra_segundo": {
-    "price": 1006.1,
-    "name": "La-Tia-Mema"
+    "price": 1007.2,
+    "name": "JP2PJ06"
   },
   "venta_maxima": {
-    "price": 1008.6,
-    "name": "Gatsby_24"
+    "price": 1006.5,
+    "name": "安全与信任"
   },
-  "promedio": 1007.35,
+  "promedio": 1006.85,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
