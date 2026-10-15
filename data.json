@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-15T08:33:00.579265",
-  "actualizado_vzla": "2026-10-15 04:33:00 -04",
+  "timestamp_utc": "2026-10-15T13:40:23.563883",
+  "actualizado_vzla": "2026-10-15 09:40:23 -04",
   "compra_segundo": {
-    "price": 1014.5,
-    "name": "17ProMax"
+    "price": 1009.1,
+    "name": "BreikoSeguro"
   },
   "venta_maxima": {
-    "price": 1010.5,
-    "name": "CambiosDKNY"
+    "price": 1012.0,
+    "name": "VanguardGroup_"
   },
-  "promedio": 1012.5,
+  "promedio": 1010.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
