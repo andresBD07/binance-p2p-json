@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-15T13:40:23.563883",
-  "actualizado_vzla": "2026-10-15 09:40:23 -04",
+  "timestamp_utc": "2026-10-15T17:53:34.940877",
+  "actualizado_vzla": "2026-10-15 13:53:34 -04",
   "compra_segundo": {
-    "price": 1009.1,
-    "name": "BreikoSeguro"
+    "price": 1006.1,
+    "name": "La-Tia-Mema"
   },
   "venta_maxima": {
-    "price": 1012.0,
-    "name": "VanguardGroup_"
+    "price": 1008.6,
+    "name": "Gatsby_24"
   },
-  "promedio": 1010.55,
+  "promedio": 1007.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
