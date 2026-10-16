@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-16T15:48:37.339754",
-  "actualizado_vzla": "2026-10-16 11:48:37 -04",
+  "timestamp_utc": "2026-10-16T19:06:35.121254",
+  "actualizado_vzla": "2026-10-16 15:06:35 -04",
   "compra_segundo": {
-    "price": 995.99,
-    "name": "Mr-Bean-"
+    "price": 999.3,
+    "name": "EL_MARA_CAMBIOS"
   },
   "venta_maxima": {
-    "price": 996.0,
-    "name": "GRUPOHUMPAC"
+    "price": 998.0,
+    "name": "PEJAGOBLA"
   },
-  "promedio": 996.0,
+  "promedio": 998.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
