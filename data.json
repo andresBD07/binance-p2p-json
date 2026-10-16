@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-15T23:39:15.135284",
-  "actualizado_vzla": "2026-10-15 19:39:15 -04",
+  "timestamp_utc": "2026-10-16T01:40:45.134448",
+  "actualizado_vzla": "2026-10-15 21:40:45 -04",
   "compra_segundo": {
-    "price": 1003.6,
-    "name": "Dgca22"
+    "price": 1003.86,
+    "name": " Blessed "
   },
   "venta_maxima": {
-    "price": 1001.5,
-    "name": "智慧變更"
+    "price": 1996.777,
+    "name": "CryptoTuKK"
   },
-  "promedio": 1002.55,
+  "promedio": 1500.32,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
