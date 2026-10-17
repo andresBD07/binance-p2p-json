@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-17T09:04:42.807048",
-  "actualizado_vzla": "2026-10-17 05:04:42 -04",
+  "timestamp_utc": "2026-10-17T12:56:23.207141",
+  "actualizado_vzla": "2026-10-17 08:56:23 -04",
   "compra_segundo": {
-    "price": 1014.0,
-    "name": "Old Parr"
+    "price": 1010.4,
+    "name": "JPapaupa_Trader"
   },
   "venta_maxima": {
-    "price": 1006.06,
-    "name": "永不放棄"
+    "price": 1006.7,
+    "name": "CatireTrade"
   },
-  "promedio": 1010.03,
+  "promedio": 1008.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
