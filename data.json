@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-17T04:54:01.675842",
-  "actualizado_vzla": "2026-10-17 00:54:01 -04",
+  "timestamp_utc": "2026-10-17T09:04:42.807048",
+  "actualizado_vzla": "2026-10-17 05:04:42 -04",
   "compra_segundo": {
-    "price": 1012.998,
-    "name": "DayExpress1"
-  },
-  "venta_maxima": {
-    "price": 1007.6,
+    "price": 1014.0,
     "name": "Old Parr"
   },
-  "promedio": 1010.3,
+  "venta_maxima": {
+    "price": 1006.06,
+    "name": "永不放棄"
+  },
+  "promedio": 1010.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
