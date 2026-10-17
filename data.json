@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-16T22:04:39.821390",
-  "actualizado_vzla": "2026-10-16 18:04:39 -04",
+  "timestamp_utc": "2026-10-17T00:25:40.806541",
+  "actualizado_vzla": "2026-10-16 20:25:40 -04",
   "compra_segundo": {
-    "price": 1002.3,
-    "name": "MANOLO-XCHANGE"
+    "price": 1007.0,
+    "name": "AngelysGr"
   },
   "venta_maxima": {
-    "price": 1003.0,
-    "name": "breintrader"
+    "price": 1005.55,
+    "name": "FUERZA_ELITE"
   },
-  "promedio": 1002.65,
+  "promedio": 1006.27,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
