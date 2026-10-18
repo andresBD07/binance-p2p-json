@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-18T19:25:46.495613",
-  "actualizado_vzla": "2026-10-18 15:25:46 -04",
+  "timestamp_utc": "2026-10-18T21:45:14.373740",
+  "actualizado_vzla": "2026-10-18 17:45:14 -04",
   "compra_segundo": {
-    "price": 1006.4,
-    "name": "ELGOCHOXCHANGE31"
+    "price": 1007.795,
+    "name": "JHcambios97"
   },
   "venta_maxima": {
-    "price": 1005.3,
-    "name": "Brawcoins"
+    "price": 1005.0,
+    "name": "IA_CORPORATE"
   },
-  "promedio": 1005.85,
+  "promedio": 1006.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
