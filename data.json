@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-18T09:55:33.065776",
-  "actualizado_vzla": "2026-10-18 05:55:33 -04",
+  "timestamp_utc": "2026-10-18T13:53:47.286101",
+  "actualizado_vzla": "2026-10-18 09:53:47 -04",
   "compra_segundo": {
-    "price": 1008.0,
-    "name": "贝HarveySpecter贝"
+    "price": 1007.3,
+    "name": "Tucambiove"
   },
   "venta_maxima": {
-    "price": 1002.15,
-    "name": "YAMISENSEI"
+    "price": 1003.51,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 1005.08,
+  "promedio": 1005.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
