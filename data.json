@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-17T23:01:12.493565",
-  "actualizado_vzla": "2026-10-17 19:01:12 -04",
+  "timestamp_utc": "2026-10-18T00:56:32.124225",
+  "actualizado_vzla": "2026-10-17 20:56:32 -04",
   "compra_segundo": {
-    "price": 1004.399,
-    "name": "JA-changes"
+    "price": 1005.337,
+    "name": "ENVIO-COMPROBANTE"
   },
   "venta_maxima": {
-    "price": 1004.501,
-    "name": "Servic-Karyguz"
+    "price": 1003.0,
+    "name": "Gonek2k"
   },
-  "promedio": 1004.45,
+  "promedio": 1004.17,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
