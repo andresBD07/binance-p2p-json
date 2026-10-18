@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-18T13:53:47.286101",
-  "actualizado_vzla": "2026-10-18 09:53:47 -04",
+  "timestamp_utc": "2026-10-18T17:08:57.802940",
+  "actualizado_vzla": "2026-10-18 13:08:57 -04",
   "compra_segundo": {
-    "price": 1007.3,
-    "name": "Tucambiove"
+    "price": 1006.0,
+    "name": "GabyGaby12"
   },
   "venta_maxima": {
-    "price": 1003.51,
-    "name": "Inversiones-ADSC"
+    "price": 1004.6,
+    "name": "IngCryptos"
   },
-  "promedio": 1005.4,
+  "promedio": 1005.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
