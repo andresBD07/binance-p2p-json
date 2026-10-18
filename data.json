@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-18T00:56:32.124225",
-  "actualizado_vzla": "2026-10-17 20:56:32 -04",
+  "timestamp_utc": "2026-10-18T05:42:36.475542",
+  "actualizado_vzla": "2026-10-18 01:42:36 -04",
   "compra_segundo": {
-    "price": 1005.337,
-    "name": "ENVIO-COMPROBANTE"
+    "price": 1008.399,
+    "name": "MR-SIRIUS"
   },
   "venta_maxima": {
-    "price": 1003.0,
-    "name": "Gonek2k"
+    "price": 1003.705,
+    "name": "Marquez25"
   },
-  "promedio": 1004.17,
+  "promedio": 1006.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
