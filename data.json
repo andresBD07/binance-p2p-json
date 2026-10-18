@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-18T05:42:36.475542",
-  "actualizado_vzla": "2026-10-18 01:42:36 -04",
+  "timestamp_utc": "2026-10-18T09:55:33.065776",
+  "actualizado_vzla": "2026-10-18 05:55:33 -04",
   "compra_segundo": {
-    "price": 1008.399,
-    "name": "MR-SIRIUS"
+    "price": 1008.0,
+    "name": "贝HarveySpecter贝"
   },
   "venta_maxima": {
-    "price": 1003.705,
-    "name": "Marquez25"
+    "price": 1002.15,
+    "name": "YAMISENSEI"
   },
-  "promedio": 1006.05,
+  "promedio": 1005.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
