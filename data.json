@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-20T07:40:32.725787",
-  "actualizado_vzla": "2026-10-20 03:40:32 -04",
+  "timestamp_utc": "2026-10-20T13:02:03.203840",
+  "actualizado_vzla": "2026-10-20 09:02:03 -04",
   "compra_segundo": {
-    "price": 1008.167,
-    "name": "P_2_P_Trust"
+    "price": 1005.82,
+    "name": "LGzus"
   },
   "venta_maxima": {
     "price": 1004.5,
-    "name": "Gatsby_24"
+    "name": "F_A_I_R---T_E_A_M"
   },
-  "promedio": 1006.33,
+  "promedio": 1005.16,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
