@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-20T17:56:36.951700",
-  "actualizado_vzla": "2026-10-20 13:56:36 -04",
+  "timestamp_utc": "2026-10-20T21:30:35.920426",
+  "actualizado_vzla": "2026-10-20 17:30:35 -04",
   "compra_segundo": {
-    "price": 1009.0,
-    "name": "CastllCoins"
+    "price": 1008.999,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 1007.0,
-    "name": "-TSxRV-"
+    "price": 1008.0,
+    "name": "novatecno"
   },
-  "promedio": 1008.0,
+  "promedio": 1008.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
