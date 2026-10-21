@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-21T09:41:27.085799",
-  "actualizado_vzla": "2026-10-21 05:41:27 -04",
+  "timestamp_utc": "2026-10-21T14:41:27.017739",
+  "actualizado_vzla": "2026-10-21 10:41:27 -04",
   "compra_segundo": {
-    "price": 1008.2,
-    "name": "THEBOSSTRADER"
+    "price": 1007.489,
+    "name": "_TropiCoqueta_"
   },
   "venta_maxima": {
-    "price": 1006.4,
-    "name": "Principe Drácula "
+    "price": 1007.91,
+    "name": "angelchacon"
   },
-  "promedio": 1007.3,
+  "promedio": 1007.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
