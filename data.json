@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-21T04:42:33.111165",
-  "actualizado_vzla": "2026-10-21 00:42:33 -04",
+  "timestamp_utc": "2026-10-21T09:41:27.085799",
+  "actualizado_vzla": "2026-10-21 05:41:27 -04",
   "compra_segundo": {
-    "price": 1007.0,
-    "name": "SpiderCoins"
+    "price": 1008.2,
+    "name": "THEBOSSTRADER"
   },
   "venta_maxima": {
-    "price": 1005.001,
-    "name": "Capital_VES_P2P"
+    "price": 1006.4,
+    "name": "Principe Drácula "
   },
-  "promedio": 1006.0,
+  "promedio": 1007.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
