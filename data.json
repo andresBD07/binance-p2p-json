@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-21T00:05:59.155815",
-  "actualizado_vzla": "2026-10-20 20:05:59 -04",
+  "timestamp_utc": "2026-10-21T04:42:33.111165",
+  "actualizado_vzla": "2026-10-21 00:42:33 -04",
   "compra_segundo": {
-    "price": 1008.8,
-    "name": "EconomistExpertAli"
+    "price": 1007.0,
+    "name": "SpiderCoins"
   },
   "venta_maxima": {
-    "price": 1008.5,
-    "name": "Redmagic17"
+    "price": 1005.001,
+    "name": "Capital_VES_P2P"
   },
-  "promedio": 1008.65,
+  "promedio": 1006.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
