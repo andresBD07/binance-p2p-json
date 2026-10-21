@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-21T14:41:27.017739",
-  "actualizado_vzla": "2026-10-21 10:41:27 -04",
+  "timestamp_utc": "2026-10-21T18:58:24.133829",
+  "actualizado_vzla": "2026-10-21 14:58:24 -04",
   "compra_segundo": {
-    "price": 1007.489,
-    "name": "_TropiCoqueta_"
+    "price": 1008.6,
+    "name": "Germanctr"
   },
   "venta_maxima": {
-    "price": 1007.91,
-    "name": "angelchacon"
+    "price": 1006.511,
+    "name": "CatireTrade"
   },
-  "promedio": 1007.7,
+  "promedio": 1007.56,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
