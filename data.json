@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-21T18:58:24.133829",
-  "actualizado_vzla": "2026-10-21 14:58:24 -04",
+  "timestamp_utc": "2026-10-21T22:15:51.296184",
+  "actualizado_vzla": "2026-10-21 18:15:51 -04",
   "compra_segundo": {
-    "price": 1008.6,
-    "name": "Germanctr"
+    "price": 1006.0,
+    "name": "JURGEN_TRADER"
   },
   "venta_maxima": {
-    "price": 1006.511,
-    "name": "CatireTrade"
+    "price": 1005.001,
+    "name": "novatecno"
   },
-  "promedio": 1007.56,
+  "promedio": 1005.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
