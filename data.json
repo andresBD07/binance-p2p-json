@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-20T21:30:35.920426",
-  "actualizado_vzla": "2026-10-20 17:30:35 -04",
+  "timestamp_utc": "2026-10-21T00:05:59.155815",
+  "actualizado_vzla": "2026-10-20 20:05:59 -04",
   "compra_segundo": {
-    "price": 1008.999,
-    "name": "Trading_professional"
+    "price": 1008.8,
+    "name": "EconomistExpertAli"
   },
   "venta_maxima": {
-    "price": 1008.0,
-    "name": "novatecno"
+    "price": 1008.5,
+    "name": "Redmagic17"
   },
-  "promedio": 1008.5,
+  "promedio": 1008.65,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
