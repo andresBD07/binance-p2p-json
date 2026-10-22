@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-21T22:15:51.296184",
-  "actualizado_vzla": "2026-10-21 18:15:51 -04",
+  "timestamp_utc": "2026-10-22T00:44:37.466510",
+  "actualizado_vzla": "2026-10-21 20:44:37 -04",
   "compra_segundo": {
-    "price": 1006.0,
-    "name": "JURGEN_TRADER"
+    "price": 1005.29,
+    "name": "chikil"
   },
   "venta_maxima": {
-    "price": 1005.001,
-    "name": "novatecno"
+    "price": 1003.735,
+    "name": "NORTH-CAPITAL"
   },
-  "promedio": 1005.5,
+  "promedio": 1004.51,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
