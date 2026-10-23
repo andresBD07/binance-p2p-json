@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-22T22:43:35.070484",
-  "actualizado_vzla": "2026-10-22 18:43:35 -04",
+  "timestamp_utc": "2026-10-23T01:01:04.184545",
+  "actualizado_vzla": "2026-10-22 21:01:04 -04",
   "compra_segundo": {
-    "price": 1006.1,
-    "name": "caguy"
+    "price": 1005.89,
+    "name": "GasyXchange"
   },
   "venta_maxima": {
-    "price": 1005.6,
-    "name": "KaioSama16"
+    "price": 1004.5,
+    "name": "TOPlevelS"
   },
-  "promedio": 1005.85,
+  "promedio": 1005.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
