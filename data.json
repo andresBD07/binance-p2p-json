@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-23T19:49:40.729467",
-  "actualizado_vzla": "2026-10-23 15:49:40 -04",
+  "timestamp_utc": "2026-10-23T22:46:01.856140",
+  "actualizado_vzla": "2026-10-23 18:46:01 -04",
   "compra_segundo": {
-    "price": 1003.897,
-    "name": "CHACHITRADER18"
+    "price": 1003.6,
+    "name": "尺-ROMA"
   },
   "venta_maxima": {
-    "price": 1002.0,
-    "name": "Cross-26"
+    "price": 1004.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 1002.95,
+  "promedio": 1003.8,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
