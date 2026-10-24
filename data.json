@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-24T10:48:32.406921",
-  "actualizado_vzla": "2026-10-24 06:48:32 -04",
+  "timestamp_utc": "2026-10-24T14:09:26.608919",
+  "actualizado_vzla": "2026-10-24 10:09:26 -04",
   "compra_segundo": {
-    "price": 1006.68,
-    "name": "P_2_P_Trust"
+    "price": 1005.7,
+    "name": "User-95450"
   },
   "venta_maxima": {
-    "price": 1002.5,
-    "name": "REY_SALOMON_CRIPTO"
+    "price": 1005.5,
+    "name": "Cross-26"
   },
-  "promedio": 1004.59,
+  "promedio": 1005.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
