@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-24T14:09:26.608919",
-  "actualizado_vzla": "2026-10-24 10:09:26 -04",
+  "timestamp_utc": "2026-10-24T17:28:09.934835",
+  "actualizado_vzla": "2026-10-24 13:28:09 -04",
   "compra_segundo": {
-    "price": 1005.7,
-    "name": "User-95450"
+    "price": 1009.399,
+    "name": "-TobiramaSenju"
   },
   "venta_maxima": {
-    "price": 1005.5,
-    "name": "Cross-26"
+    "price": 1012.0,
+    "name": "GOMEZTUSOLUCION"
   },
-  "promedio": 1005.6,
+  "promedio": 1010.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
