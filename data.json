@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-24T17:28:09.934835",
-  "actualizado_vzla": "2026-10-24 13:28:09 -04",
+  "timestamp_utc": "2026-10-24T19:43:15.027422",
+  "actualizado_vzla": "2026-10-24 15:43:15 -04",
   "compra_segundo": {
-    "price": 1009.399,
-    "name": "-TobiramaSenju"
+    "price": 1008.467,
+    "name": "R1skTaker"
   },
   "venta_maxima": {
-    "price": 1012.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 1010.0,
+    "name": "NitroClash"
   },
-  "promedio": 1010.7,
+  "promedio": 1009.23,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
