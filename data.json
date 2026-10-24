@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-24T19:43:15.027422",
-  "actualizado_vzla": "2026-10-24 15:43:15 -04",
+  "timestamp_utc": "2026-10-24T21:58:22.487816",
+  "actualizado_vzla": "2026-10-24 17:58:22 -04",
   "compra_segundo": {
-    "price": 1008.467,
-    "name": "R1skTaker"
+    "price": 1007.975,
+    "name": "UroTrader"
   },
   "venta_maxima": {
     "price": 1010.0,
-    "name": "NitroClash"
+    "name": "Gatsby_24"
   },
-  "promedio": 1009.23,
+  "promedio": 1008.99,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
