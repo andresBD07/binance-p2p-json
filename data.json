@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-23T22:46:01.856140",
-  "actualizado_vzla": "2026-10-23 18:46:01 -04",
+  "timestamp_utc": "2026-10-24T01:11:29.614966",
+  "actualizado_vzla": "2026-10-23 21:11:29 -04",
   "compra_segundo": {
-    "price": 1003.6,
-    "name": "尺-ROMA"
+    "price": 1005.8,
+    "name": "SmauBu"
   },
   "venta_maxima": {
-    "price": 1004.0,
-    "name": "GOMEZTUSOLUCION"
+    "price": 1005.35,
+    "name": "-TraDEOne-"
   },
-  "promedio": 1003.8,
+  "promedio": 1005.58,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
