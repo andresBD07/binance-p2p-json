@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-25T09:42:31.783939",
-  "actualizado_vzla": "2026-10-25 05:42:31 -04",
+  "timestamp_utc": "2026-10-25T13:57:11.070252",
+  "actualizado_vzla": "2026-10-25 09:57:11 -04",
   "compra_segundo": {
-    "price": 1008.59,
-    "name": "Avrisiel"
+    "price": 1007.0,
+    "name": "ExpressoPolaris"
   },
   "venta_maxima": {
-    "price": 1005.0,
-    "name": "CambiosLGZ"
+    "price": 1005.6,
+    "name": "caguy"
   },
-  "promedio": 1006.8,
+  "promedio": 1006.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
