@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-25T13:57:11.070252",
-  "actualizado_vzla": "2026-10-25 09:57:11 -04",
+  "timestamp_utc": "2026-10-25T17:34:46.131035",
+  "actualizado_vzla": "2026-10-25 13:34:46 -04",
   "compra_segundo": {
-    "price": 1007.0,
-    "name": "ExpressoPolaris"
+    "price": 1006.73,
+    "name": "SebasUSDT_VE"
   },
   "venta_maxima": {
-    "price": 1005.6,
+    "price": 1007.0,
     "name": "caguy"
   },
-  "promedio": 1006.3,
+  "promedio": 1006.87,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
