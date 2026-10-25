@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-25T19:56:37.942898",
-  "actualizado_vzla": "2026-10-25 15:56:37 -04",
+  "timestamp_utc": "2026-10-25T22:26:35.089681",
+  "actualizado_vzla": "2026-10-25 18:26:35 -04",
   "compra_segundo": {
-    "price": 1006.56,
-    "name": "Libertad_de_cambio"
+    "price": 1006.6,
+    "name": "Pikachuuu13"
   },
   "venta_maxima": {
-    "price": 1007.5,
-    "name": "caguy"
+    "price": 1010.0,
+    "name": "Gustavo129"
   },
-  "promedio": 1007.03,
+  "promedio": 1008.3,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
