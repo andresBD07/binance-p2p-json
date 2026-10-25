@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-24T21:58:22.487816",
-  "actualizado_vzla": "2026-10-24 17:58:22 -04",
+  "timestamp_utc": "2026-10-25T00:14:20.342248",
+  "actualizado_vzla": "2026-10-24 20:14:20 -04",
   "compra_segundo": {
-    "price": 1007.975,
-    "name": "UroTrader"
+    "price": 1006.0,
+    "name": "NXTrade57"
   },
   "venta_maxima": {
-    "price": 1010.0,
-    "name": "Gatsby_24"
+    "price": 1008.0,
+    "name": "-TSxRV-"
   },
-  "promedio": 1008.99,
+  "promedio": 1007.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
