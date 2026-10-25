@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-25T00:14:20.342248",
-  "actualizado_vzla": "2026-10-24 20:14:20 -04",
+  "timestamp_utc": "2026-10-25T04:55:28.286927",
+  "actualizado_vzla": "2026-10-25 00:55:28 -04",
   "compra_segundo": {
-    "price": 1006.0,
-    "name": "NXTrade57"
+    "price": 1008.1,
+    "name": "MR-SIRIUS"
   },
   "venta_maxima": {
-    "price": 1008.0,
-    "name": "-TSxRV-"
+    "price": 1005.0,
+    "name": "CambiosLGZ"
   },
-  "promedio": 1007.0,
+  "promedio": 1006.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
