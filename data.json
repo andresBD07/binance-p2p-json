@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-25T17:34:46.131035",
-  "actualizado_vzla": "2026-10-25 13:34:46 -04",
+  "timestamp_utc": "2026-10-25T19:56:37.942898",
+  "actualizado_vzla": "2026-10-25 15:56:37 -04",
   "compra_segundo": {
-    "price": 1006.73,
-    "name": "SebasUSDT_VE"
+    "price": 1006.56,
+    "name": "Libertad_de_cambio"
   },
   "venta_maxima": {
-    "price": 1007.0,
+    "price": 1007.5,
     "name": "caguy"
   },
-  "promedio": 1006.87,
+  "promedio": 1007.03,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
