@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-26T00:37:34.498693",
-  "actualizado_vzla": "2026-10-25 20:37:34 -04",
+  "timestamp_utc": "2026-10-26T05:19:58.547794",
+  "actualizado_vzla": "2026-10-26 01:19:58 -04",
   "compra_segundo": {
-    "price": 1006.85,
-    "name": "CAMBIOSJFG"
+    "price": 1010.3,
+    "name": "ChihiroXchanges"
   },
   "venta_maxima": {
-    "price": 1007.3,
-    "name": "NexusPremiun"
+    "price": 1007.21,
+    "name": "Kingjvl"
   },
-  "promedio": 1007.08,
+  "promedio": 1008.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
