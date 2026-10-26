@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-26T05:19:58.547794",
-  "actualizado_vzla": "2026-10-26 01:19:58 -04",
+  "timestamp_utc": "2026-10-26T11:20:05.611301",
+  "actualizado_vzla": "2026-10-26 07:20:05 -04",
   "compra_segundo": {
-    "price": 1010.3,
-    "name": "ChihiroXchanges"
+    "price": 1008.39,
+    "name": "ChrisPerez"
   },
   "venta_maxima": {
-    "price": 1007.21,
-    "name": "Kingjvl"
+    "price": 1005.1,
+    "name": "ミReinaPepiadaCoinミ"
   },
-  "promedio": 1008.75,
+  "promedio": 1006.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
