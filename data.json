@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-25T22:26:35.089681",
-  "actualizado_vzla": "2026-10-25 18:26:35 -04",
+  "timestamp_utc": "2026-10-26T00:37:34.498693",
+  "actualizado_vzla": "2026-10-25 20:37:34 -04",
   "compra_segundo": {
-    "price": 1006.6,
-    "name": "Pikachuuu13"
+    "price": 1006.85,
+    "name": "CAMBIOSJFG"
   },
   "venta_maxima": {
-    "price": 1010.0,
-    "name": "Gustavo129"
+    "price": 1007.3,
+    "name": "NexusPremiun"
   },
-  "promedio": 1008.3,
+  "promedio": 1007.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
