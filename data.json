@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-27T18:08:54.434698",
-  "actualizado_vzla": "2026-10-27 14:08:54 -04",
+  "timestamp_utc": "2026-10-27T22:15:20.053468",
+  "actualizado_vzla": "2026-10-27 18:15:20 -04",
   "compra_segundo": {
-    "price": 1003.0,
-    "name": "Tucambiove"
+    "price": 1006.0,
+    "name": "Gldiador_1997"
   },
   "venta_maxima": {
-    "price": 1001.052,
-    "name": "MARACAIBOBTC"
+    "price": 1006.0,
+    "name": "ElMuSa30"
   },
-  "promedio": 1002.03,
+  "promedio": 1006.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
