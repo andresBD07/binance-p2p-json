@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-28T07:18:10.342006",
-  "actualizado_vzla": "2026-10-28 03:18:10 -04",
+  "timestamp_utc": "2026-10-28T14:10:14.408950",
+  "actualizado_vzla": "2026-10-28 10:10:14 -04",
   "compra_segundo": {
-    "price": 1008.0,
-    "name": "Samirrrrrrr"
+    "price": 1007.69,
+    "name": "_FORTZACRIPTO_"
   },
   "venta_maxima": {
-    "price": 1003.0,
-    "name": "S3bss_Exchang3"
+    "price": 1007.1,
+    "name": "VeranderSnel-PAY"
   },
-  "promedio": 1005.5,
+  "promedio": 1007.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
