@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-28T01:27:55.875981",
-  "actualizado_vzla": "2026-10-27 21:27:55 -04",
+  "timestamp_utc": "2026-10-28T07:18:10.342006",
+  "actualizado_vzla": "2026-10-28 03:18:10 -04",
   "compra_segundo": {
-    "price": 1006.29,
-    "name": "Legacy_OTC"
+    "price": 1008.0,
+    "name": "Samirrrrrrr"
   },
   "venta_maxima": {
-    "price": 1006.5,
-    "name": "Gatsby_24"
+    "price": 1003.0,
+    "name": "S3bss_Exchang3"
   },
-  "promedio": 1006.39,
+  "promedio": 1005.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
