@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-27T22:15:20.053468",
-  "actualizado_vzla": "2026-10-27 18:15:20 -04",
+  "timestamp_utc": "2026-10-28T01:27:55.875981",
+  "actualizado_vzla": "2026-10-27 21:27:55 -04",
   "compra_segundo": {
-    "price": 1006.0,
-    "name": "Gldiador_1997"
+    "price": 1006.29,
+    "name": "Legacy_OTC"
   },
   "venta_maxima": {
-    "price": 1006.0,
-    "name": "ElMuSa30"
+    "price": 1006.5,
+    "name": "Gatsby_24"
   },
-  "promedio": 1006.0,
+  "promedio": 1006.39,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
