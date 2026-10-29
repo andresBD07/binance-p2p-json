@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-28T23:32:55.657609",
-  "actualizado_vzla": "2026-10-28 19:32:55 -04",
+  "timestamp_utc": "2026-10-29T02:49:51.630574",
+  "actualizado_vzla": "2026-10-28 22:49:51 -04",
   "compra_segundo": {
-    "price": 1009.25,
-    "name": "TAZ-P2P"
+    "price": 1008.18,
+    "name": "MoneyBoss2"
   },
   "venta_maxima": {
-    "price": 1007.2,
-    "name": "Cachy13Usdt"
+    "price": 1006.1,
+    "name": "HAVALLL"
   },
-  "promedio": 1008.23,
+  "promedio": 1007.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
