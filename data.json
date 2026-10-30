@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-30T19:16:00.414080",
-  "actualizado_vzla": "2026-10-30 15:16:00 -04",
+  "timestamp_utc": "2026-10-30T23:02:38.397139",
+  "actualizado_vzla": "2026-10-30 19:02:38 -04",
   "compra_segundo": {
-    "price": 982.289,
-    "name": "DS-Law"
+    "price": 983.399,
+    "name": "ZarkXchanges"
   },
   "venta_maxima": {
-    "price": 980.0,
-    "name": "Amaev_cripto"
+    "price": 982.5,
+    "name": "Trust-Broker"
   },
-  "promedio": 981.14,
+  "promedio": 982.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
