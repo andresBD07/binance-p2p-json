@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-30T00:58:38.109128",
-  "actualizado_vzla": "2026-10-29 20:58:38 -04",
+  "timestamp_utc": "2026-10-30T06:59:43.731180",
+  "actualizado_vzla": "2026-10-30 02:59:43 -04",
   "compra_segundo": {
-    "price": 1002.0,
-    "name": "Ricardo"
+    "price": 1002.7,
+    "name": "NewtScamander"
   },
   "venta_maxima": {
-    "price": 1002.0,
-    "name": "Amaev_cripto"
+    "price": 999.5,
+    "name": "蒙神祝福者"
   },
-  "promedio": 1002.0,
+  "promedio": 1001.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
