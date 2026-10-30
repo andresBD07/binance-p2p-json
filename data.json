@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-30T06:59:43.731180",
-  "actualizado_vzla": "2026-10-30 02:59:43 -04",
+  "timestamp_utc": "2026-10-30T14:01:12.478190",
+  "actualizado_vzla": "2026-10-30 10:01:12 -04",
   "compra_segundo": {
-    "price": 1002.7,
-    "name": "NewtScamander"
+    "price": 995.999,
+    "name": "SmauBu"
   },
   "venta_maxima": {
-    "price": 999.5,
-    "name": "蒙神祝福者"
+    "price": 994.999,
+    "name": "T-A-U-R-O-pro2"
   },
-  "promedio": 1001.1,
+  "promedio": 995.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
