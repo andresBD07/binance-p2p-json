@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-31T08:33:35.467422",
-  "actualizado_vzla": "2026-10-31 04:33:35 -04",
+  "timestamp_utc": "2026-10-31T14:43:22.744397",
+  "actualizado_vzla": "2026-10-31 10:43:22 -04",
   "compra_segundo": {
-    "price": 996.0,
-    "name": "AENETEACHEOENEYE"
+    "price": 984.999,
+    "name": "Tu Cambiazo "
   },
   "venta_maxima": {
-    "price": 987.5,
-    "name": "TekaTrade"
+    "price": 984.008,
+    "name": "Trust-Broker"
   },
-  "promedio": 991.75,
+  "promedio": 984.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
