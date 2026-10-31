@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-31T14:43:22.744397",
-  "actualizado_vzla": "2026-10-31 10:43:22 -04",
+  "timestamp_utc": "2026-10-31T18:50:09.520833",
+  "actualizado_vzla": "2026-10-31 14:50:09 -04",
   "compra_segundo": {
-    "price": 984.999,
-    "name": "Tu Cambiazo "
+    "price": 985.0,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 984.008,
-    "name": "Trust-Broker"
+    "price": 983.2,
+    "name": "Comercializadora_MAC"
   },
-  "promedio": 984.5,
+  "promedio": 984.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
