@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-01T14:28:36.800211",
-  "actualizado_vzla": "2026-11-01 10:28:36 -04",
+  "timestamp_utc": "2026-11-01T19:08:11.828862",
+  "actualizado_vzla": "2026-11-01 15:08:11 -04",
   "compra_segundo": {
-    "price": 994.494,
-    "name": "CRIPTOPARK"
+    "price": 992.5,
+    "name": "Nex0Capital"
   },
   "venta_maxima": {
-    "price": 993.0,
-    "name": "ArepaConCafe"
+    "price": 990.5,
+    "name": "GlobalEth"
   },
-  "promedio": 993.75,
+  "promedio": 991.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
