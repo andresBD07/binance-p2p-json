@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-01T01:07:03.422323",
-  "actualizado_vzla": "2026-10-31 21:07:03 -04",
+  "timestamp_utc": "2026-11-01T07:30:33.132637",
+  "actualizado_vzla": "2026-11-01 03:30:33 -04",
   "compra_segundo": {
-    "price": 981.878,
-    "name": "jfjaraaa89"
+    "price": 984.5,
+    "name": "CryptoSharkDF"
   },
   "venta_maxima": {
-    "price": 983.0,
-    "name": "EL-EXTRANJERO"
+    "price": 979.5,
+    "name": "NexusGlobalTradeP2P"
   },
-  "promedio": 982.44,
+  "promedio": 982.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
