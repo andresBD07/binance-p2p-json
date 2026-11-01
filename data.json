@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-31T22:05:43.654470",
-  "actualizado_vzla": "2026-10-31 18:05:43 -04",
+  "timestamp_utc": "2026-11-01T01:07:03.422323",
+  "actualizado_vzla": "2026-10-31 21:07:03 -04",
   "compra_segundo": {
-    "price": 982.2,
-    "name": "LadyCapitalP2P"
+    "price": 981.878,
+    "name": "jfjaraaa89"
   },
   "venta_maxima": {
-    "price": 980.5,
-    "name": "Comercializadora_MAC"
+    "price": 983.0,
+    "name": "EL-EXTRANJERO"
   },
-  "promedio": 981.35,
+  "promedio": 982.44,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
