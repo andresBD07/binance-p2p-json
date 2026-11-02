@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-02T09:19:34.927701",
-  "actualizado_vzla": "2026-11-02 05:19:34 -04",
+  "timestamp_utc": "2026-11-02T19:38:42.709586",
+  "actualizado_vzla": "2026-11-02 15:38:42 -04",
   "compra_segundo": {
-    "price": 1000.0,
-    "name": "WillyWonka-"
+    "price": 1004.28,
+    "name": "CAAM-1002"
   },
   "venta_maxima": {
-    "price": 993.0,
-    "name": "Inversiones-ADSC"
+    "price": 1001.089,
+    "name": "TradeXJuan "
   },
-  "promedio": 996.5,
+  "promedio": 1002.68,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
