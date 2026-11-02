@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-02T01:59:08.173256",
-  "actualizado_vzla": "2026-11-01 21:59:08 -04",
+  "timestamp_utc": "2026-11-02T09:19:34.927701",
+  "actualizado_vzla": "2026-11-02 05:19:34 -04",
   "compra_segundo": {
-    "price": 998.497,
-    "name": "CHICLE_BOMBA"
+    "price": 1000.0,
+    "name": "WillyWonka-"
   },
   "venta_maxima": {
-    "price": 995.35,
-    "name": "Brawcoins"
+    "price": 993.0,
+    "name": "Inversiones-ADSC"
   },
-  "promedio": 996.92,
+  "promedio": 996.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
