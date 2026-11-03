@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-03T16:38:15.003316",
-  "actualizado_vzla": "2026-11-03 12:38:15 -04",
+  "timestamp_utc": "2026-11-03T22:01:30.018549",
+  "actualizado_vzla": "2026-11-03 18:01:30 -04",
   "compra_segundo": {
-    "price": 1008.2,
-    "name": "ParisCryptoX"
+    "price": 1009.55,
+    "name": "ExchangeVeskha"
   },
   "venta_maxima": {
-    "price": 1006.0,
-    "name": "Burdyn"
+    "price": 1010.0,
+    "name": "TheOchoa"
   },
-  "promedio": 1007.1,
+  "promedio": 1009.77,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
