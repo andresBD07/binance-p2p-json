@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-02T19:38:42.709586",
-  "actualizado_vzla": "2026-11-02 15:38:42 -04",
+  "timestamp_utc": "2026-11-03T01:48:13.603569",
+  "actualizado_vzla": "2026-11-02 21:48:13 -04",
   "compra_segundo": {
-    "price": 1004.28,
-    "name": "CAAM-1002"
+    "price": 1002.3,
+    "name": " Blessed "
   },
   "venta_maxima": {
-    "price": 1001.089,
-    "name": "TradeXJuan "
+    "price": 1001.5,
+    "name": "-Akopan-"
   },
-  "promedio": 1002.68,
+  "promedio": 1001.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
