@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-03T22:01:30.018549",
-  "actualizado_vzla": "2026-11-03 18:01:30 -04",
+  "timestamp_utc": "2026-11-04T02:13:33.499209",
+  "actualizado_vzla": "2026-11-03 22:13:33 -04",
   "compra_segundo": {
-    "price": 1009.55,
-    "name": "ExchangeVeskha"
+    "price": 1009.658,
+    "name": "Mel260121"
   },
   "venta_maxima": {
-    "price": 1010.0,
-    "name": "TheOchoa"
+    "price": 1008.5,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 1009.77,
+  "promedio": 1009.08,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
