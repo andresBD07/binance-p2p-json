@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-06T11:36:44.977373",
-  "actualizado_vzla": "2026-11-06 07:36:44 -04",
+  "timestamp_utc": "2026-11-06T18:28:30.115817",
+  "actualizado_vzla": "2026-11-06 14:28:30 -04",
   "compra_segundo": {
-    "price": 1014.0,
-    "name": "Tachyon_P2P"
+    "price": 1016.5,
+    "name": "EL-PODER-ES-DE-DIOS"
   },
   "venta_maxima": {
-    "price": 1013.0,
-    "name": "ElMuSa30"
+    "price": 1019.0,
+    "name": "GAZA_CRIPTO"
   },
-  "promedio": 1013.5,
+  "promedio": 1017.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
