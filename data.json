@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-05T23:44:26.571227",
-  "actualizado_vzla": "2026-11-05 19:44:26 -04",
+  "timestamp_utc": "2026-11-06T03:43:18.989450",
+  "actualizado_vzla": "2026-11-05 23:43:18 -04",
   "compra_segundo": {
-    "price": 1014.0,
-    "name": "MERCADO ESTRATEGICO"
+    "price": 1015.29,
+    "name": "hc-investings"
   },
   "venta_maxima": {
     "price": 1015.0,
-    "name": "TheOchoa"
+    "name": "ElMuSa30"
   },
-  "promedio": 1014.5,
+  "promedio": 1015.14,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
