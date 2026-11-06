@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-06T18:28:30.115817",
-  "actualizado_vzla": "2026-11-06 14:28:30 -04",
+  "timestamp_utc": "2026-11-06T23:27:48.668336",
+  "actualizado_vzla": "2026-11-06 19:27:48 -04",
   "compra_segundo": {
-    "price": 1016.5,
-    "name": "EL-PODER-ES-DE-DIOS"
+    "price": 1023.39,
+    "name": "AndradeGasconTITULAR"
   },
   "venta_maxima": {
-    "price": 1019.0,
-    "name": "GAZA_CRIPTO"
+    "price": 1025.0,
+    "name": "被放逐的狐狸"
   },
-  "promedio": 1017.75,
+  "promedio": 1024.19,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
