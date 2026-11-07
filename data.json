@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-07T03:07:28.068791",
-  "actualizado_vzla": "2026-11-06 23:07:28 -04",
+  "timestamp_utc": "2026-11-07T10:07:26.302944",
+  "actualizado_vzla": "2026-11-07 06:07:26 -04",
   "compra_segundo": {
-    "price": 1028.277,
-    "name": "MANTEQUILLAA"
+    "price": 1029.0,
+    "name": "Servicios-Criptos-27"
   },
   "venta_maxima": {
-    "price": 1025.61,
-    "name": "Fiorecoin"
+    "price": 1025.102,
+    "name": "VenSniper"
   },
-  "promedio": 1026.94,
+  "promedio": 1027.05,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
