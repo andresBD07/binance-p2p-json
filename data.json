@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-06T23:27:48.668336",
-  "actualizado_vzla": "2026-11-06 19:27:48 -04",
+  "timestamp_utc": "2026-11-07T03:07:28.068791",
+  "actualizado_vzla": "2026-11-06 23:07:28 -04",
   "compra_segundo": {
-    "price": 1023.39,
-    "name": "AndradeGasconTITULAR"
+    "price": 1028.277,
+    "name": "MANTEQUILLAA"
   },
   "venta_maxima": {
-    "price": 1025.0,
-    "name": "被放逐的狐狸"
+    "price": 1025.61,
+    "name": "Fiorecoin"
   },
-  "promedio": 1024.19,
+  "promedio": 1026.94,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
