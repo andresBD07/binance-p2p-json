@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-07T10:07:26.302944",
-  "actualizado_vzla": "2026-11-07 06:07:26 -04",
+  "timestamp_utc": "2026-11-07T16:25:56.661589",
+  "actualizado_vzla": "2026-11-07 12:25:56 -04",
   "compra_segundo": {
-    "price": 1029.0,
-    "name": "Servicios-Criptos-27"
+    "price": 1027.0,
+    "name": "cambiosaular"
   },
   "venta_maxima": {
-    "price": 1025.102,
-    "name": "VenSniper"
+    "price": 1028.658,
+    "name": "TOPlevelS"
   },
-  "promedio": 1027.05,
+  "promedio": 1027.83,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
