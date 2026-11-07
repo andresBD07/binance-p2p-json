@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-07T20:26:03.007199",
-  "actualizado_vzla": "2026-11-07 16:26:03 -04",
+  "timestamp_utc": "2026-11-07T23:51:54.071130",
+  "actualizado_vzla": "2026-11-07 19:51:54 -04",
   "compra_segundo": {
-    "price": 1032.399,
-    "name": "Pagos-rapidosQ"
+    "price": 1032.08,
+    "name": "LeymusCoin"
   },
   "venta_maxima": {
-    "price": 1035.0,
+    "price": 1040.0,
     "name": "黑块黑块"
   },
-  "promedio": 1033.7,
+  "promedio": 1036.04,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
