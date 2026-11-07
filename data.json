@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-07T16:25:56.661589",
-  "actualizado_vzla": "2026-11-07 12:25:56 -04",
+  "timestamp_utc": "2026-11-07T20:26:03.007199",
+  "actualizado_vzla": "2026-11-07 16:26:03 -04",
   "compra_segundo": {
-    "price": 1027.0,
-    "name": "cambiosaular"
+    "price": 1032.399,
+    "name": "Pagos-rapidosQ"
   },
   "venta_maxima": {
-    "price": 1028.658,
-    "name": "TOPlevelS"
+    "price": 1035.0,
+    "name": "黑块黑块"
   },
-  "promedio": 1027.83,
+  "promedio": 1033.7,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
