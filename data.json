@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-08T04:28:07.745442",
-  "actualizado_vzla": "2026-11-08 00:28:07 -04",
+  "timestamp_utc": "2026-11-08T11:28:19.349258",
+  "actualizado_vzla": "2026-11-08 07:28:19 -04",
   "compra_segundo": {
-    "price": 1038.409,
-    "name": "TwoDiaz"
+    "price": 1038.5,
+    "name": "PraderaCapital"
   },
   "venta_maxima": {
-    "price": 1034.155,
-    "name": "CambiosPay"
+    "price": 1035.0,
+    "name": "Justcrip18"
   },
-  "promedio": 1036.28,
+  "promedio": 1036.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
