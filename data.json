@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-09T00:59:41.392049",
-  "actualizado_vzla": "2026-11-08 20:59:41 -04",
+  "timestamp_utc": "2026-11-09T07:52:28.162567",
+  "actualizado_vzla": "2026-11-09 03:52:28 -04",
   "compra_segundo": {
-    "price": 1034.399,
-    "name": "Jhonybass"
+    "price": 1038.95,
+    "name": "JmExchanges14"
   },
   "venta_maxima": {
-    "price": 1038.0,
-    "name": "CRIPTO-2026"
+    "price": 1034.001,
+    "name": "蒙神祝福者"
   },
-  "promedio": 1036.2,
+  "promedio": 1036.48,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
