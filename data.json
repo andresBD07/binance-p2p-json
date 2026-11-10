@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-10T16:44:23.982913",
-  "actualizado_vzla": "2026-11-10 12:44:23 -04",
+  "timestamp_utc": "2026-11-10T21:59:13.678102",
+  "actualizado_vzla": "2026-11-10 17:59:13 -04",
   "compra_segundo": {
-    "price": 1067.885,
-    "name": "OreoBoss"
+    "price": 1085.58,
+    "name": "Exchange_VelozP2P"
   },
   "venta_maxima": {
-    "price": 1067.1,
-    "name": "Trust-Broker"
+    "price": 1087.0,
+    "name": "简单的1"
   },
-  "promedio": 1067.49,
+  "promedio": 1086.29,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
