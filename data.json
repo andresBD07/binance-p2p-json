@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-10T01:41:46.674524",
-  "actualizado_vzla": "2026-11-09 21:41:46 -04",
+  "timestamp_utc": "2026-11-10T08:51:02.010399",
+  "actualizado_vzla": "2026-11-10 04:51:02 -04",
   "compra_segundo": {
-    "price": 1057.3,
-    "name": "Invicthus"
+    "price": 1060.4,
+    "name": "WizCoin7"
   },
   "venta_maxima": {
-    "price": 1054.0,
-    "name": "黑块黑块"
+    "price": 1054.32,
+    "name": "Pcambios10"
   },
-  "promedio": 1055.65,
+  "promedio": 1057.36,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
