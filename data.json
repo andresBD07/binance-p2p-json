@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-10T08:51:02.010399",
-  "actualizado_vzla": "2026-11-10 04:51:02 -04",
+  "timestamp_utc": "2026-11-10T16:44:23.982913",
+  "actualizado_vzla": "2026-11-10 12:44:23 -04",
   "compra_segundo": {
-    "price": 1060.4,
-    "name": "WizCoin7"
+    "price": 1067.885,
+    "name": "OreoBoss"
   },
   "venta_maxima": {
-    "price": 1054.32,
-    "name": "Pcambios10"
+    "price": 1067.1,
+    "name": "Trust-Broker"
   },
-  "promedio": 1057.36,
+  "promedio": 1067.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
