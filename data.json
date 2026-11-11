@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-11T08:50:46.685632",
-  "actualizado_vzla": "2026-11-11 04:50:46 -04",
+  "timestamp_utc": "2026-11-11T16:50:11.858203",
+  "actualizado_vzla": "2026-11-11 12:50:11 -04",
   "compra_segundo": {
-    "price": 1082.498,
-    "name": "CONFIABLE-SERVICIOS"
+    "price": 1065.9,
+    "name": "Kembatrader"
   },
   "venta_maxima": {
-    "price": 1076.0,
-    "name": "Gatsby_24"
+    "price": 1068.8,
+    "name": "-RaGnaroK-"
   },
-  "promedio": 1079.25,
+  "promedio": 1067.35,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
