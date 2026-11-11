@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-11T16:50:11.858203",
-  "actualizado_vzla": "2026-11-11 12:50:11 -04",
+  "timestamp_utc": "2026-11-11T23:14:40.197438",
+  "actualizado_vzla": "2026-11-11 19:14:40 -04",
   "compra_segundo": {
-    "price": 1065.9,
-    "name": "Kembatrader"
+    "price": 1077.5,
+    "name": "TheMerchanTHM"
   },
   "venta_maxima": {
-    "price": 1068.8,
-    "name": "-RaGnaroK-"
+    "price": 1077.0,
+    "name": "安全与信任"
   },
-  "promedio": 1067.35,
+  "promedio": 1077.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
