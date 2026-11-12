@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-12T03:54:45.318701",
-  "actualizado_vzla": "2026-11-11 23:54:45 -04",
+  "timestamp_utc": "2026-11-12T12:24:15.581060",
+  "actualizado_vzla": "2026-11-12 08:24:15 -04",
   "compra_segundo": {
-    "price": 1079.4,
-    "name": "CazadorDeBallenas"
+    "price": 1077.755,
+    "name": "David-1811"
   },
   "venta_maxima": {
-    "price": 1075.5,
-    "name": "Ateneaaa"
+    "price": 1077.5,
+    "name": "安全与信任"
   },
-  "promedio": 1077.45,
+  "promedio": 1077.63,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
