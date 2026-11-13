@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-13T01:13:03.935363",
-  "actualizado_vzla": "2026-11-12 21:13:03 -04",
+  "timestamp_utc": "2026-11-13T08:07:27.503299",
+  "actualizado_vzla": "2026-11-13 04:07:27 -04",
   "compra_segundo": {
-    "price": 1076.0,
-    "name": "S3bss_Exchang3"
+    "price": 1079.0,
+    "name": "-Ledger-"
   },
   "venta_maxima": {
-    "price": 1073.5,
-    "name": "FUERZA_ELITE"
+    "price": 1071.5,
+    "name": "Secure_Payment"
   },
-  "promedio": 1074.75,
+  "promedio": 1075.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
