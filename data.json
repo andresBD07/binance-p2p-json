@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-13T08:07:27.503299",
-  "actualizado_vzla": "2026-11-13 04:07:27 -04",
+  "timestamp_utc": "2026-11-13T16:22:38.171165",
+  "actualizado_vzla": "2026-11-13 12:22:38 -04",
   "compra_segundo": {
-    "price": 1079.0,
-    "name": "-Ledger-"
+    "price": 1058.5,
+    "name": "Dgca22"
   },
   "venta_maxima": {
-    "price": 1071.5,
-    "name": "Secure_Payment"
+    "price": 1059.0,
+    "name": "SureXchanges"
   },
-  "promedio": 1075.25,
+  "promedio": 1058.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
