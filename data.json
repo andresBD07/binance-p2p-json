@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-14T09:13:01.253722",
-  "actualizado_vzla": "2026-11-14 05:13:01 -04",
+  "timestamp_utc": "2026-11-14T15:52:19.297381",
+  "actualizado_vzla": "2026-11-14 11:52:19 -04",
   "compra_segundo": {
-    "price": 1077.0,
-    "name": "-CASA_MONEY-"
+    "price": 1069.99,
+    "name": "你就变得更强"
   },
   "venta_maxima": {
-    "price": 1068.0,
-    "name": "TRIMONCAMBIOS"
+    "price": 1066.817,
+    "name": "ServicioGT"
   },
-  "promedio": 1072.5,
+  "promedio": 1068.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
