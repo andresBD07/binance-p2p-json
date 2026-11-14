@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-14T15:52:19.297381",
-  "actualizado_vzla": "2026-11-14 11:52:19 -04",
+  "timestamp_utc": "2026-11-14T20:25:59.432491",
+  "actualizado_vzla": "2026-11-14 16:25:59 -04",
   "compra_segundo": {
-    "price": 1069.99,
-    "name": "你就变得更强"
+    "price": 1071.576,
+    "name": "CHATGPTT"
   },
   "venta_maxima": {
-    "price": 1066.817,
-    "name": "ServicioGT"
+    "price": 1069.501,
+    "name": "KAIROS333"
   },
-  "promedio": 1068.4,
+  "promedio": 1070.54,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
