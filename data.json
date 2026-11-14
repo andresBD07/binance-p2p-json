@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-13T22:03:44.478470",
-  "actualizado_vzla": "2026-11-13 18:03:44 -04",
+  "timestamp_utc": "2026-11-14T02:21:19.558380",
+  "actualizado_vzla": "2026-11-13 22:21:19 -04",
   "compra_segundo": {
-    "price": 1068.5,
-    "name": "TwoDiaz"
+    "price": 1075.3,
+    "name": "NAGGINNI"
   },
   "venta_maxima": {
-    "price": 1066.0,
-    "name": "StarBusiness2"
+    "price": 1071.0,
+    "name": "catire3030"
   },
-  "promedio": 1067.25,
+  "promedio": 1073.15,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
