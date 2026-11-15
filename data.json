@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-15T00:08:13.542072",
-  "actualizado_vzla": "2026-11-14 20:08:13 -04",
+  "timestamp_utc": "2026-11-15T06:33:04.486101",
+  "actualizado_vzla": "2026-11-15 02:33:04 -04",
   "compra_segundo": {
-    "price": 1073.19,
-    "name": "JPapaupa_Cripto"
+    "price": 1077.998,
+    "name": "AllTraders"
   },
   "venta_maxima": {
-    "price": 1070.4,
-    "name": "T_A_U_R_O--pro--"
+    "price": 1070.512,
+    "name": "Pepepay"
   },
-  "promedio": 1071.8,
+  "promedio": 1074.26,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
