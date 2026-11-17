@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-16T21:15:59.410138",
-  "actualizado_vzla": "2026-11-16 17:15:59 -04",
+  "timestamp_utc": "2026-11-17T03:59:51.318037",
+  "actualizado_vzla": "2026-11-16 23:59:51 -04",
   "compra_segundo": {
-    "price": 1075.999,
-    "name": "Moneymoneymoneyyy"
+    "price": 1071.195,
+    "name": "_AltCoinMaster_"
   },
   "venta_maxima": {
-    "price": 1078.0,
-    "name": "Trust-Broker"
+    "price": 1067.0,
+    "name": "GRUPOAVILA"
   },
-  "promedio": 1077.0,
+  "promedio": 1069.1,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
