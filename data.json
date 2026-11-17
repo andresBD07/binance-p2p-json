@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-17T13:09:36.729141",
-  "actualizado_vzla": "2026-11-17 09:09:36 -04",
+  "timestamp_utc": "2026-11-17T21:46:53.500197",
+  "actualizado_vzla": "2026-11-17 17:46:53 -04",
   "compra_segundo": {
-    "price": 1070.999,
-    "name": "Nexotrade_P2P"
+    "price": 1075.995,
+    "name": "Trading_professional"
   },
   "venta_maxima": {
-    "price": 1072.0,
+    "price": 1075.0,
     "name": "Trust-Broker"
   },
-  "promedio": 1071.5,
+  "promedio": 1075.5,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
