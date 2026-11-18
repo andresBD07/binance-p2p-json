@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-18T03:09:42.674602",
-  "actualizado_vzla": "2026-11-17 23:09:42 -04",
+  "timestamp_utc": "2026-11-18T11:47:25.680442",
+  "actualizado_vzla": "2026-11-18 07:47:25 -04",
   "compra_segundo": {
-    "price": 1070.5,
-    "name": "ArepaSinCafe"
+    "price": 1070.9,
+    "name": "Calito22"
   },
   "venta_maxima": {
-    "price": 1069.0,
-    "name": "被放逐的狐狸"
+    "price": 1069.5,
+    "name": "CHATGPTT"
   },
-  "promedio": 1069.75,
+  "promedio": 1070.2,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
