@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-18T11:47:25.680442",
-  "actualizado_vzla": "2026-11-18 07:47:25 -04",
+  "timestamp_utc": "2026-11-18T19:38:26.657987",
+  "actualizado_vzla": "2026-11-18 15:38:26 -04",
   "compra_segundo": {
-    "price": 1070.9,
-    "name": "Calito22"
+    "price": 1076.3,
+    "name": "SuperBayern"
   },
   "venta_maxima": {
-    "price": 1069.5,
-    "name": "CHATGPTT"
+    "price": 1071.95,
+    "name": "Dgca22"
   },
-  "promedio": 1070.2,
+  "promedio": 1074.12,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
