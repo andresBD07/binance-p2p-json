@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-18T19:38:26.657987",
-  "actualizado_vzla": "2026-11-18 15:38:26 -04",
+  "timestamp_utc": "2026-11-19T01:30:16.367374",
+  "actualizado_vzla": "2026-11-18 21:30:16 -04",
   "compra_segundo": {
-    "price": 1076.3,
-    "name": "SuperBayern"
+    "price": 1076.4,
+    "name": "MFM23"
   },
   "venta_maxima": {
-    "price": 1071.95,
-    "name": "Dgca22"
+    "price": 1074.101,
+    "name": "TuCambioYa_"
   },
-  "promedio": 1074.12,
+  "promedio": 1075.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
