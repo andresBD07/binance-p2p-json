@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-19T01:30:16.367374",
-  "actualizado_vzla": "2026-11-18 21:30:16 -04",
+  "timestamp_utc": "2026-11-19T09:27:11.031919",
+  "actualizado_vzla": "2026-11-19 05:27:11 -04",
   "compra_segundo": {
-    "price": 1076.4,
-    "name": "MFM23"
+    "price": 1077.5,
+    "name": "Ramygh99"
   },
   "venta_maxima": {
-    "price": 1074.101,
-    "name": "TuCambioYa_"
+    "price": 1070.001,
+    "name": "BalduinoIV"
   },
-  "promedio": 1075.25,
+  "promedio": 1073.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
