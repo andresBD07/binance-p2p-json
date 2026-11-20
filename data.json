@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-20T17:02:45.228598",
-  "actualizado_vzla": "2026-11-20 13:02:45 -04",
+  "timestamp_utc": "2026-11-20T23:02:51.013186",
+  "actualizado_vzla": "2026-11-20 19:02:51 -04",
   "compra_segundo": {
-    "price": 1065.45,
-    "name": "MFM23"
+    "price": 1077.8,
+    "name": "GGcambios26"
   },
   "venta_maxima": {
-    "price": 1068.5,
-    "name": "我米德克"
+    "price": 1079.0,
+    "name": "EleguaOshun"
   },
-  "promedio": 1066.97,
+  "promedio": 1078.4,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
