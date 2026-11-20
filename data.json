@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-20T08:17:06.061667",
-  "actualizado_vzla": "2026-11-20 04:17:06 -04",
+  "timestamp_utc": "2026-11-20T17:02:45.228598",
+  "actualizado_vzla": "2026-11-20 13:02:45 -04",
   "compra_segundo": {
-    "price": 1071.399,
-    "name": "El3030"
+    "price": 1065.45,
+    "name": "MFM23"
   },
   "venta_maxima": {
-    "price": 1061.5,
-    "name": "DerekTitularP2P"
+    "price": 1068.5,
+    "name": "我米德克"
   },
-  "promedio": 1066.45,
+  "promedio": 1066.97,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
