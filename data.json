@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-21T12:23:06.353455",
-  "actualizado_vzla": "2026-11-21 08:23:06 -04",
+  "timestamp_utc": "2026-11-21T19:38:48.452268",
+  "actualizado_vzla": "2026-11-21 15:38:48 -04",
   "compra_segundo": {
-    "price": 1084.949,
-    "name": "User-f60fc"
+    "price": 1086.984,
+    "name": "NEEMESIS"
   },
   "venta_maxima": {
-    "price": 1080.1,
-    "name": "Capital_Carreno"
+    "price": 1088.0,
+    "name": "TOPlevelS"
   },
-  "promedio": 1082.52,
+  "promedio": 1087.49,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
