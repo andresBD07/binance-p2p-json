@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-21T19:38:48.452268",
-  "actualizado_vzla": "2026-11-21 15:38:48 -04",
+  "timestamp_utc": "2026-11-21T23:56:17.895787",
+  "actualizado_vzla": "2026-11-21 19:56:17 -04",
   "compra_segundo": {
-    "price": 1086.984,
-    "name": "NEEMESIS"
+    "price": 1090.998,
+    "name": "Latinlf"
   },
   "venta_maxima": {
-    "price": 1088.0,
-    "name": "TOPlevelS"
+    "price": 1091.0,
+    "name": "CRIPTO-2026"
   },
-  "promedio": 1087.49,
+  "promedio": 1091.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
