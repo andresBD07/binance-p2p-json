@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-20T23:02:51.013186",
-  "actualizado_vzla": "2026-11-20 19:02:51 -04",
+  "timestamp_utc": "2026-11-21T03:55:24.084368",
+  "actualizado_vzla": "2026-11-20 23:55:24 -04",
   "compra_segundo": {
-    "price": 1077.8,
-    "name": "GGcambios26"
+    "price": 1083.999,
+    "name": "Zark_"
   },
   "venta_maxima": {
-    "price": 1079.0,
-    "name": "EleguaOshun"
+    "price": 1084.0,
+    "name": "Gustavo129"
   },
-  "promedio": 1078.4,
+  "promedio": 1084.0,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
