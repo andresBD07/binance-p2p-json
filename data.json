@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-22T06:28:38.798152",
-  "actualizado_vzla": "2026-11-22 02:28:38 -04",
+  "timestamp_utc": "2026-11-22T14:51:00.465785",
+  "actualizado_vzla": "2026-11-22 10:51:00 -04",
   "compra_segundo": {
-    "price": 1095.889,
-    "name": "MzVesP2P"
+    "price": 1096.999,
+    "name": "Pochoclo16"
   },
   "venta_maxima": {
-    "price": 1091.1,
-    "name": "RevoderExchange"
+    "price": 1092.5,
+    "name": "HarinaPan"
   },
-  "promedio": 1093.49,
+  "promedio": 1094.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
