@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-22T14:51:00.465785",
-  "actualizado_vzla": "2026-11-22 10:51:00 -04",
+  "timestamp_utc": "2026-11-22T20:54:24.099779",
+  "actualizado_vzla": "2026-11-22 16:54:24 -04",
   "compra_segundo": {
-    "price": 1096.999,
-    "name": "Pochoclo16"
+    "price": 1093.7,
+    "name": "Sr_____Trader"
   },
   "venta_maxima": {
-    "price": 1092.5,
-    "name": "HarinaPan"
+    "price": 1091.5,
+    "name": "Brawcoins"
   },
-  "promedio": 1094.75,
+  "promedio": 1092.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
