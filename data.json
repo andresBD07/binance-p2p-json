@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-23T09:41:32.680268",
-  "actualizado_vzla": "2026-11-23 05:41:32 -04",
+  "timestamp_utc": "2026-11-23T21:42:42.474210",
+  "actualizado_vzla": "2026-11-23 17:42:42 -04",
   "compra_segundo": {
-    "price": 1096.4,
-    "name": "inverciones-nv"
+    "price": 1111.4,
+    "name": "maxstreaming"
   },
   "venta_maxima": {
-    "price": 1088.76,
-    "name": "蒙神祝福者"
+    "price": 1108.51,
+    "name": "bigmitchum"
   },
-  "promedio": 1092.58,
+  "promedio": 1109.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
