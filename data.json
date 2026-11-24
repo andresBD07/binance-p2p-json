@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-24T05:35:17.772319",
-  "actualizado_vzla": "2026-11-24 01:35:17 -04",
+  "timestamp_utc": "2026-11-24T16:24:36.610988",
+  "actualizado_vzla": "2026-11-24 12:24:36 -04",
   "compra_segundo": {
-    "price": 1108.95,
-    "name": "TheMerchanTHM"
+    "price": 1112.0,
+    "name": "OPABIANCHI"
   },
   "venta_maxima": {
-    "price": 1104.0,
-    "name": "godthisgoodoff "
+    "price": 1109.5,
+    "name": "DGOFASTT"
   },
-  "promedio": 1106.47,
+  "promedio": 1110.75,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
