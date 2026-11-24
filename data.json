@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-23T21:42:42.474210",
-  "actualizado_vzla": "2026-11-23 17:42:42 -04",
+  "timestamp_utc": "2026-11-24T05:35:17.772319",
+  "actualizado_vzla": "2026-11-24 01:35:17 -04",
   "compra_segundo": {
-    "price": 1111.4,
-    "name": "maxstreaming"
+    "price": 1108.95,
+    "name": "TheMerchanTHM"
   },
   "venta_maxima": {
-    "price": 1108.51,
-    "name": "bigmitchum"
+    "price": 1104.0,
+    "name": "godthisgoodoff "
   },
-  "promedio": 1109.95,
+  "promedio": 1106.47,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
