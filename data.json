@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-25T00:59:04.042639",
-  "actualizado_vzla": "2026-11-24 20:59:04 -04",
+  "timestamp_utc": "2026-11-25T09:44:50.703000",
+  "actualizado_vzla": "2026-11-25 05:44:50 -04",
   "compra_segundo": {
-    "price": 1109.0,
-    "name": "WorldTradeinCripto"
+    "price": 1107.8,
+    "name": "Yosedg"
   },
   "venta_maxima": {
-    "price": 1112.0,
-    "name": "CoorpLogistic"
+    "price": 1102.0,
+    "name": "Trust-Broker"
   },
-  "promedio": 1110.5,
+  "promedio": 1104.9,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
