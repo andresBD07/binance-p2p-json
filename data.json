@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-26T02:27:02.326282",
-  "actualizado_vzla": "2026-11-25 22:27:02 -04",
+  "timestamp_utc": "2026-11-26T11:25:12.601156",
+  "actualizado_vzla": "2026-11-26 07:25:12 -04",
   "compra_segundo": {
-    "price": 1106.2,
-    "name": "EL-PODER-ES-DE-DIOS"
+    "price": 1104.998,
+    "name": "DIOSESTODOPARAMI"
   },
   "venta_maxima": {
-    "price": 1105.0,
-    "name": "安全与信任"
+    "price": 1100.25,
+    "name": "FUERZA_ELITE"
   },
-  "promedio": 1105.6,
+  "promedio": 1102.62,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
