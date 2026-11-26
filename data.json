@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-26T11:25:12.601156",
-  "actualizado_vzla": "2026-11-26 07:25:12 -04",
+  "timestamp_utc": "2026-11-26T20:27:38.248426",
+  "actualizado_vzla": "2026-11-26 16:27:38 -04",
   "compra_segundo": {
-    "price": 1104.998,
-    "name": "DIOSESTODOPARAMI"
+    "price": 1098.0,
+    "name": "walner17"
   },
   "venta_maxima": {
-    "price": 1100.25,
-    "name": "FUERZA_ELITE"
+    "price": 1097.105,
+    "name": "Cambios IvS"
   },
-  "promedio": 1102.62,
+  "promedio": 1097.55,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
