@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-25T19:37:29.461967",
-  "actualizado_vzla": "2026-11-25 15:37:29 -04",
+  "timestamp_utc": "2026-11-26T02:27:02.326282",
+  "actualizado_vzla": "2026-11-25 22:27:02 -04",
   "compra_segundo": {
-    "price": 1109.3,
-    "name": "Luishein"
+    "price": 1106.2,
+    "name": "EL-PODER-ES-DE-DIOS"
   },
   "venta_maxima": {
-    "price": 1110.0,
-    "name": "Trust-Broker"
+    "price": 1105.0,
+    "name": "安全与信任"
   },
-  "promedio": 1109.65,
+  "promedio": 1105.6,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
