@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-27T12:33:55.611954",
-  "actualizado_vzla": "2026-11-27 08:33:55 -04",
+  "timestamp_utc": "2026-11-27T21:37:48.842058",
+  "actualizado_vzla": "2026-11-27 17:37:48 -04",
   "compra_segundo": {
-    "price": 1087.89,
-    "name": "Cesar_Perez"
+    "price": 1092.77,
+    "name": "Emmanuelli"
   },
   "venta_maxima": {
-    "price": 1089.741,
-    "name": "mlendesgn"
+    "price": 1091.003,
+    "name": "CriptoseguroAyM"
   },
-  "promedio": 1088.82,
+  "promedio": 1091.89,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
