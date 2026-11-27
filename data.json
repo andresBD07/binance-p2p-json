@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-27T03:10:56.874902",
-  "actualizado_vzla": "2026-11-26 23:10:56 -04",
+  "timestamp_utc": "2026-11-27T12:33:55.611954",
+  "actualizado_vzla": "2026-11-27 08:33:55 -04",
   "compra_segundo": {
-    "price": 1091.895,
-    "name": "-APPARATUS-"
+    "price": 1087.89,
+    "name": "Cesar_Perez"
   },
   "venta_maxima": {
-    "price": 1090.0,
-    "name": "人民币FERMICON人民币"
+    "price": 1089.741,
+    "name": "mlendesgn"
   },
-  "promedio": 1090.95,
+  "promedio": 1088.82,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
