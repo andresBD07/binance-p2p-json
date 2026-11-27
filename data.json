@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-26T20:27:38.248426",
-  "actualizado_vzla": "2026-11-26 16:27:38 -04",
+  "timestamp_utc": "2026-11-27T03:10:56.874902",
+  "actualizado_vzla": "2026-11-26 23:10:56 -04",
   "compra_segundo": {
-    "price": 1098.0,
-    "name": "walner17"
+    "price": 1091.895,
+    "name": "-APPARATUS-"
   },
   "venta_maxima": {
-    "price": 1097.105,
-    "name": "Cambios IvS"
+    "price": 1090.0,
+    "name": "人民币FERMICON人民币"
   },
-  "promedio": 1097.55,
+  "promedio": 1090.95,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
