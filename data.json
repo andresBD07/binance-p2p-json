@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-11-27T21:37:48.842058",
-  "actualizado_vzla": "2026-11-27 17:37:48 -04",
+  "timestamp_utc": "2026-11-28T03:31:25.683906",
+  "actualizado_vzla": "2026-11-27 23:31:25 -04",
   "compra_segundo": {
-    "price": 1092.77,
-    "name": "Emmanuelli"
+    "price": 1097.5,
+    "name": "zama2004"
   },
   "venta_maxima": {
-    "price": 1091.003,
-    "name": "CriptoseguroAyM"
+    "price": 1095.0,
+    "name": "Amaev_cripto"
   },
-  "promedio": 1091.89,
+  "promedio": 1096.25,
   "fuente": "Binance P2P (solo comerciantes verificados)"
 }
